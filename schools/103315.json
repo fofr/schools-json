@@ -1,0 +1,18 @@
+{
+  "urn": "103315",
+  "name": "Cofton Primary School",
+  "address": "Wootton Road",
+  "locality": "West Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B31 4ST",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "402240",
+  "northing": "276875",
+  "url": "http://www.cofton.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

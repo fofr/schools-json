@@ -1,0 +1,18 @@
+{
+  "urn": "134740",
+  "name": "The Pines School",
+  "address": "Hanworth Road",
+  "locality": "Hanworth",
+  "address3": "",
+  "town": "Bracknell",
+  "county": "Berkshire",
+  "postcode": "RG12 7WX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "486084",
+  "northing": "166709",
+  "url": "www.thepinesschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

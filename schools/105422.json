@@ -1,0 +1,18 @@
+{
+  "urn": "105422",
+  "name": "Heald Place Primary School",
+  "address": "Heald Place",
+  "locality": "Rusholme",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M14 7PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384863",
+  "northing": "395050",
+  "url": "www.healdplace.manchester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

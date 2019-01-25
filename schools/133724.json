@@ -1,0 +1,18 @@
+{
+  "urn": "133724",
+  "name": "JFS",
+  "address": "",
+  "locality": "Kenton",
+  "address3": "The Mall",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA3 9TE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "519199",
+  "northing": "188305",
+  "url": "www.jfs.brent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

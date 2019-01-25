@@ -1,0 +1,18 @@
+{
+  "urn": "123724",
+  "name": "Milford Infants' School",
+  "address": "Glenthorne Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA21 4PG",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "355651",
+  "northing": "117269",
+  "url": "http://www.milford-inf.somerset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

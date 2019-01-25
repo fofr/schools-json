@@ -1,0 +1,18 @@
+{
+  "urn": "116421",
+  "name": "The Romsey School",
+  "address": "Greatbridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Romsey",
+  "county": "Hampshire",
+  "postcode": "SO51 8ZB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "435108",
+  "northing": "121703",
+  "url": "http://www.romsey.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

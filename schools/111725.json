@@ -1,0 +1,18 @@
+{
+  "urn": "111725",
+  "name": "Warsett School",
+  "address": "Linden Road",
+  "locality": "Brotton",
+  "address3": "",
+  "town": "Saltburn-By-the-Sea",
+  "county": "",
+  "postcode": "TS12 2SJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "468221",
+  "northing": "519847",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

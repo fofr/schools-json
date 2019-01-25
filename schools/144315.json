@@ -1,0 +1,18 @@
+{
+  "urn": "144315",
+  "name": "Garvestone Community Primary School",
+  "address": "Dereham Road",
+  "locality": "Garvestone",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR9 4AD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "602289",
+  "northing": "307444",
+  "url": "http://www.garvestone.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

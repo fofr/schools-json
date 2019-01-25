@@ -1,0 +1,18 @@
+{
+  "urn": "123294",
+  "name": "Wychwood School",
+  "address": "74 Banbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX2 6JR",
+  "minimum_age": "10",
+  "maximum_age": "18",
+  "easting": "451089",
+  "northing": "207838",
+  "url": "www.wychwoodschool.org",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

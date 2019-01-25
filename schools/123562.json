@@ -1,0 +1,18 @@
+{
+  "urn": "123562",
+  "name": "The Priory School, A Business and Enterprise College",
+  "address": "Longden Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 9EE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "348182",
+  "northing": "311194",
+  "url": "http://www.priory.shropshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

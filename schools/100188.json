@@ -1,0 +1,18 @@
+{
+  "urn": "100188",
+  "name": "The Eltham Foundation School",
+  "address": "1 Middle Park Avenue",
+  "locality": "Eltham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 5EQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "541806",
+  "northing": "174461",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

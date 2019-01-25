@@ -1,0 +1,18 @@
+{
+  "urn": "123447",
+  "name": "The Martin Wilson School",
+  "address": "New Park Road",
+  "locality": "Castlefields",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 2SP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "350228",
+  "northing": "313786",
+  "url": "www.martinwilsonschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103362",
+  "name": "Benson Community School",
+  "address": "Benson Road",
+  "locality": "Hockley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B18 5TD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404786",
+  "northing": "288893",
+  "url": "www.bensonschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

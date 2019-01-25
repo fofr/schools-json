@@ -1,0 +1,18 @@
+{
+  "urn": "110365",
+  "name": "Stanton School",
+  "address": "Fairfax",
+  "locality": "Bradville",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK13 7BE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "483978",
+  "northing": "241046",
+  "url": "http://www.stantonschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117176",
+  "name": "Widford School",
+  "address": "Ware Road",
+  "locality": "Widford",
+  "address3": "",
+  "town": "Ware",
+  "county": "Hertfordshire",
+  "postcode": "SG12 8RE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "541886",
+  "northing": "215847",
+  "url": "http://www.widford.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

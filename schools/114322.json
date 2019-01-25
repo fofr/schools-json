@@ -1,0 +1,18 @@
+{
+  "urn": "114322",
+  "name": "Longfield School",
+  "address": "Longfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL3 0HT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "428937",
+  "northing": "517085",
+  "url": "http://www.longfield.darlington.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

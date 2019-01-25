@@ -1,0 +1,18 @@
+{
+  "urn": "123438",
+  "name": "Ladygrove Primary School",
+  "address": "Old Office Road",
+  "locality": "Dawley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF4 2LF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "368171",
+  "northing": "308081",
+  "url": "http://ladygroveprimary.taw.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136146",
+  "name": "North Shore Academy",
+  "address": "Talbot Street",
+  "locality": "",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "Cleveland",
+  "postcode": "TS20 2AY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "444838",
+  "northing": "520296",
+  "url": "www.northshoreacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

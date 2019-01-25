@@ -1,0 +1,18 @@
+{
+  "urn": "130498",
+  "name": "Bury College",
+  "address": "Market Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Greater Manchester",
+  "postcode": "BL9 0BG",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "380473",
+  "northing": "410433",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

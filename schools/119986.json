@@ -1,0 +1,18 @@
+{
+  "urn": "119986",
+  "name": "Sketchley Hill Primary School Burbage",
+  "address": "Sketchley Road",
+  "locality": "Burbage",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 2DY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "443042",
+  "northing": "292172",
+  "url": "www.sketchleyhill.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

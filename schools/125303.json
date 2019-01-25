@@ -1,0 +1,18 @@
+{
+  "urn": "125303",
+  "name": "Gordon's School",
+  "address": "Bagshot Road",
+  "locality": "West End",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU24 9PT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "494365",
+  "northing": "161368",
+  "url": "http://www.gordons.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

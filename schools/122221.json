@@ -1,0 +1,18 @@
+{
+  "urn": "122221",
+  "name": "Rothbury First School",
+  "address": "Addycombe",
+  "locality": "Rothbury",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE65 7PG",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "405801",
+  "northing": "601948",
+  "url": "www.rothburyfirst.northumberland.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

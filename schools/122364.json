@@ -1,0 +1,18 @@
+{
+  "urn": "122364",
+  "name": "Hexham Middle School",
+  "address": "Wanless Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hexham",
+  "county": "Northumberland",
+  "postcode": "NE46 1BU",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "393740",
+  "northing": "563802",
+  "url": "http://www.hexhammiddle.co.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

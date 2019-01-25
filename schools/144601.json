@@ -1,0 +1,18 @@
+{
+  "urn": "144601",
+  "name": "Ashington Academy",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ashington",
+  "county": "Northumberland",
+  "postcode": "NE63 8DH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426884",
+  "northing": "587135",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136094",
+  "name": "Trinity Academy, Halifax",
+  "address": "Shay Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX2 9TZ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "408255",
+  "northing": "428545",
+  "url": "http://www.trinityacademyhalifax.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

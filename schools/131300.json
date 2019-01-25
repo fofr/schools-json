@@ -1,0 +1,18 @@
+{
+  "urn": "131300",
+  "name": "Woodfield Primary School",
+  "address": "Somerset Road",
+  "locality": "Newton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH2 2QE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "342084",
+  "northing": "368369",
+  "url": "http://www.woodfield.school.cheshire.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

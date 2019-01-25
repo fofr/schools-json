@@ -1,0 +1,18 @@
+{
+  "urn": "127609",
+  "name": "Victoria First School",
+  "address": "Victoria Road",
+  "locality": "Edlington",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN12 1BN",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "453737",
+  "northing": "399255",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

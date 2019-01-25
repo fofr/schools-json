@@ -1,0 +1,18 @@
+{
+  "urn": "142101",
+  "name": "Heathlands Primary Academy",
+  "address": "Springwater Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH11 8HB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "406083",
+  "northing": "95268",
+  "url": "www.heathlandsprimarybournemouth.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

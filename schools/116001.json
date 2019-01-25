@@ -1,0 +1,18 @@
+{
+  "urn": "116001",
+  "name": "Merton Junior School",
+  "address": "Romsey Close",
+  "locality": "Popley Way",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG24 9HB",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "463237",
+  "northing": "153994",
+  "url": "http://www.mertonjuniorschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

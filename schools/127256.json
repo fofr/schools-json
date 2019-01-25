@@ -1,0 +1,18 @@
+{
+  "urn": "127256",
+  "name": "Breckfield County Infant School",
+  "address": "Granton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L5 6QW",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "336251",
+  "northing": "392800",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102202",
+  "name": "Grange Primary School",
+  "address": "Welbeck Road",
+  "locality": "South Harrow",
+  "address3": "",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA2 0RY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "513848",
+  "northing": "187215",
+  "url": "www.grange.harrow.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

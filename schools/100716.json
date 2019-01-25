@@ -1,0 +1,18 @@
+{
+  "urn": "100716",
+  "name": "Ashmead Primary School",
+  "address": "Ashmead Road",
+  "locality": "",
+  "address3": "Deptford",
+  "town": "London",
+  "county": "",
+  "postcode": "SE8 4DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537241",
+  "northing": "176322",
+  "url": "www.ashmeadprimary.wordpress.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

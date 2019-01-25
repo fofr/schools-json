@@ -1,0 +1,18 @@
+{
+  "urn": "134612",
+  "name": "The Learning Trust",
+  "address": "1 Reading Lane",
+  "locality": "Hackney Central Station",
+  "address3": "Hackney",
+  "town": "London",
+  "county": "",
+  "postcode": "E8 1GQ",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "534895",
+  "northing": "184633",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

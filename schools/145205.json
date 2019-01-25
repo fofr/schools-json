@@ -1,0 +1,18 @@
+{
+  "urn": "145205",
+  "name": "Dovers Green School",
+  "address": "Rushetts Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reigate",
+  "county": "Surrey",
+  "postcode": "RH2 7RF",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "526127",
+  "northing": "148231",
+  "url": "http://www.dovers-green.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

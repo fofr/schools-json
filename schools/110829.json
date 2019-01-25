@@ -1,0 +1,18 @@
+{
+  "urn": "110829",
+  "name": "Barton CofE VA Primary School",
+  "address": "School Lane",
+  "locality": "Barton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB23 7BD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "540752",
+  "northing": "255761",
+  "url": "www.bartonprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

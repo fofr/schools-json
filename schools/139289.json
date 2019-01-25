@@ -1,0 +1,18 @@
+{
+  "urn": "139289",
+  "name": "Widewell Primary Academy",
+  "address": "Lulworth Drive",
+  "locality": "Roborough",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 7ER",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "249848",
+  "northing": "61291",
+  "url": "http://widewellprimary.eschools.co.uk/website",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

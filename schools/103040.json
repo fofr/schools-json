@@ -1,0 +1,18 @@
+{
+  "urn": "103040",
+  "name": "Church Mead Junior School",
+  "address": "Church Road",
+  "locality": "Leyton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E10 7BH",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "537308",
+  "northing": "186987",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

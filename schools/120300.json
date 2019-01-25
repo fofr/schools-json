@@ -1,0 +1,18 @@
+{
+  "urn": "120300",
+  "name": "Lutterworth College",
+  "address": "Bitteswell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lutterworth",
+  "county": "Leicestershire",
+  "postcode": "LE17 4EW",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "453849",
+  "northing": "285011",
+  "url": "www.lc.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

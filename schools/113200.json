@@ -1,0 +1,18 @@
+{
+  "urn": "113200",
+  "name": "East Allington Primary School",
+  "address": "Church Hill",
+  "locality": "East Allington",
+  "address3": "",
+  "town": "Totnes",
+  "county": "Devon",
+  "postcode": "TQ9 7RE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "276992",
+  "northing": "48323",
+  "url": "http://www.eastallington.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

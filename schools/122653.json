@@ -1,0 +1,18 @@
+{
+  "urn": "122653",
+  "name": "Kirklington Primary School",
+  "address": "School Lane",
+  "locality": "Kirklington",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG22 8NG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "467663",
+  "northing": "357417",
+  "url": "http://www.kirklingtonprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

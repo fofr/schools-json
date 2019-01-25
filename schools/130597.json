@@ -1,0 +1,18 @@
+{
+  "urn": "130597",
+  "name": "Bedford College",
+  "address": "Cauldwell Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 9AH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "504959",
+  "northing": "249438",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

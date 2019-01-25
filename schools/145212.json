@@ -1,0 +1,18 @@
+{
+  "urn": "145212",
+  "name": "Heatherlands Primary School",
+  "address": "Library Road",
+  "locality": "Parkstone",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH12 2BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "405233",
+  "northing": "92426",
+  "url": "www.heatherlands.poole.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

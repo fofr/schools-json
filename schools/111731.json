@@ -1,0 +1,18 @@
+{
+  "urn": "111731",
+  "name": "Northfield School and Sports College",
+  "address": "Thames Road",
+  "locality": "",
+  "address3": "",
+  "town": "Billingham",
+  "county": "Teesside",
+  "postcode": "TS22 5EG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "444619",
+  "northing": "524887",
+  "url": "http://northfieldssc.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

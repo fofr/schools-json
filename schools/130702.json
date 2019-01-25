@@ -1,0 +1,18 @@
+{
+  "urn": "130702",
+  "name": "Havant College",
+  "address": "New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Havant",
+  "county": "Hampshire",
+  "postcode": "PO9 1QL",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "471366",
+  "northing": "106959",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118824",
+  "name": "Wilmington Enterprise College",
+  "address": "Common Lane",
+  "locality": "Wilmington",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA2 7DR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "552526",
+  "northing": "172176",
+  "url": "http://www.wec.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141757",
+  "name": "Allenbourn Middle School",
+  "address": "East Borough",
+  "locality": "",
+  "address3": "",
+  "town": "Wimborne",
+  "county": "Dorset",
+  "postcode": "BH21 1PL",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "401094",
+  "northing": "100370",
+  "url": "http://www.allenbourn.dorset.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136875",
+  "name": "St Martin's School Brentwood",
+  "address": "Hanging Hill Lane",
+  "locality": "Hutton",
+  "address3": "",
+  "town": "Brentwood",
+  "county": "Essex",
+  "postcode": "CM13 2HG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "562412",
+  "northing": "194110",
+  "url": "http://www.st-martins.essex.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

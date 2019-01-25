@@ -1,0 +1,18 @@
+{
+  "urn": "113091",
+  "name": "Walter Daw Primary School",
+  "address": "Woodwater Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX2 5AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "294978",
+  "northing": "91780",
+  "url": "http://www.walterdaw.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130915",
+  "name": "Ridgeway Primary School",
+  "address": "Southcote Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Croydon",
+  "county": "Surrey",
+  "postcode": "CR2 0EQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533464",
+  "northing": "162449",
+  "url": "www.ridgewayprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

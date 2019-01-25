@@ -1,0 +1,18 @@
+{
+  "urn": "117577",
+  "name": "The Bishop's Stortford High School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bishop's Stortford",
+  "county": "Hertfordshire",
+  "postcode": "CM23 3LU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "549012",
+  "northing": "219777",
+  "url": "http://www.tbshs.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

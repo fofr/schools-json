@@ -1,0 +1,18 @@
+{
+  "urn": "128998",
+  "name": "Foundry Lane First School",
+  "address": "Foundry Lane",
+  "locality": "Shirley",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO15 3JT",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "439859",
+  "northing": "113543",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

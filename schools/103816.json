@@ -1,0 +1,18 @@
+{
+  "urn": "103816",
+  "name": "Manor Way Primary School",
+  "address": "Brier Mill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Halesowen",
+  "county": "West Midlands",
+  "postcode": "B63 3HA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "397339",
+  "northing": "283291",
+  "url": "www.manorway.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

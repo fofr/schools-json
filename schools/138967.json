@@ -1,0 +1,18 @@
+{
+  "urn": "138967",
+  "name": "The CE Academy",
+  "address": "Cromwell Campus",
+  "locality": "Poole Street",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN1 3EX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "475220",
+  "northing": "261027",
+  "url": "www.ce-academy.org",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy alternative provision converter"
+}

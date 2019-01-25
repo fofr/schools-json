@@ -1,0 +1,18 @@
+{
+  "urn": "138352",
+  "name": "Tring School",
+  "address": "Mortimer Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Tring",
+  "county": "Hertfordshire",
+  "postcode": "HP23 5JD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "492879",
+  "northing": "211913",
+  "url": "http://tring.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

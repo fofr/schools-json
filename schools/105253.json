@@ -1,0 +1,18 @@
+{
+  "urn": "105253",
+  "name": "Turton School",
+  "address": "Bromley Cross Road",
+  "locality": "Bromley Cross",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL7 9LT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "372848",
+  "northing": "413175",
+  "url": "http://www.tmac.uk.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

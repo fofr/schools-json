@@ -1,0 +1,18 @@
+{
+  "urn": "106295",
+  "name": "Cloverlea Primary School",
+  "address": "Green Lane North",
+  "locality": "Timperley",
+  "address3": "",
+  "town": "Altrincham",
+  "county": "Cheshire",
+  "postcode": "WA15 7NQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "378827",
+  "northing": "388263",
+  "url": "www.cloverlea.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

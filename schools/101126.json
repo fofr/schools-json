@@ -1,0 +1,18 @@
+{
+  "urn": "101126",
+  "name": "St Barnabas' CofE Primary School",
+  "address": "St Barnabas Street",
+  "locality": "Pimlico",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW1W 8PF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "528421",
+  "northing": "178462",
+  "url": "www.stbarnabasprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

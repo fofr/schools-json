@@ -1,0 +1,18 @@
+{
+  "urn": "121300",
+  "name": "Oakridge Community Primary School",
+  "address": "Coronation Avenue",
+  "locality": "Hinderwell",
+  "address3": "",
+  "town": "Saltburn-by-the-Sea",
+  "county": "North Yorkshire",
+  "postcode": "TS13 5HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "479283",
+  "northing": "516476",
+  "url": "http://www.oakridge.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

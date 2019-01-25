@@ -1,0 +1,18 @@
+{
+  "urn": "143310",
+  "name": "Weston Mill Community Primary Academy",
+  "address": "Ferndale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL2 2EL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "245318",
+  "northing": "57389",
+  "url": "www.westonmill.plymouth.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

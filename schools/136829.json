@@ -1,0 +1,18 @@
+{
+  "urn": "136829",
+  "name": "Arnold Academy",
+  "address": "Hexton Road",
+  "locality": "Barton-le-Clay",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 4JZ",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "508647",
+  "northing": "230610",
+  "url": "http://www.arnoldacademy.org.uk",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144581",
+  "name": "Meon Junior School",
+  "address": "Shelford Road",
+  "locality": "Southsea",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO4 8NT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "466778",
+  "northing": "99931",
+  "url": "www.meonjuniorschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

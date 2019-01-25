@@ -1,0 +1,18 @@
+{
+  "urn": "136488",
+  "name": "Sponne School",
+  "address": "Brackley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Towcester",
+  "county": "Northamptonshire",
+  "postcode": "NN12 6DJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "469005",
+  "northing": "248717",
+  "url": "http://www.sponne.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

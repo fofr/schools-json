@@ -1,0 +1,18 @@
+{
+  "urn": "141000",
+  "name": "Studley St Mary's CofE Academy",
+  "address": "New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Studley",
+  "county": "Warwickshire",
+  "postcode": "B80 7ND",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "407243",
+  "northing": "263353",
+  "url": "http://www.studleystmarys.cofeacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

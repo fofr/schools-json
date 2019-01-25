@@ -1,0 +1,18 @@
+{
+  "urn": "119205",
+  "name": "Buckshaw Primary School",
+  "address": "Chancery Road",
+  "locality": "Astley Village",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR7 1XP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "357369",
+  "northing": "418623",
+  "url": "www.buckshaw.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

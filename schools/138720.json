@@ -1,0 +1,18 @@
+{
+  "urn": "138720",
+  "name": "Eggar's School",
+  "address": "London Road",
+  "locality": "Holybourne",
+  "address3": "",
+  "town": "Alton",
+  "county": "Hampshire",
+  "postcode": "GU34 4EQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "472883",
+  "northing": "140581",
+  "url": "www.eggars.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

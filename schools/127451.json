@@ -1,0 +1,18 @@
+{
+  "urn": "127451",
+  "name": "Langley High School",
+  "address": "Windemere Road",
+  "locality": "Langley",
+  "address3": "Middleton",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M24 4LA",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "385518",
+  "northing": "406820",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

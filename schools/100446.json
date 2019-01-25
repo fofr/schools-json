@@ -1,0 +1,18 @@
+{
+  "urn": "100446",
+  "name": "St Mary's CofE Primary School",
+  "address": "Fowler Road",
+  "locality": "Islington",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 2EP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "531845",
+  "northing": "184012",
+  "url": "www.stmarys.islington.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

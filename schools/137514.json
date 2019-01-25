@@ -1,0 +1,18 @@
+{
+  "urn": "137514",
+  "name": "Chesterfield High School",
+  "address": "Chesterfield Road",
+  "locality": "Crosby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L23 9YB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "333448",
+  "northing": "399885",
+  "url": "http://www.chesterfieldhigh.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

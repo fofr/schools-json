@@ -1,0 +1,18 @@
+{
+  "urn": "102462",
+  "name": "Meadow High School",
+  "address": "Royal Lane",
+  "locality": "Hillingdon",
+  "address3": "Middlesex",
+  "town": "Uxbridge",
+  "county": "Middlesex",
+  "postcode": "UB8 3QU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "506516",
+  "northing": "181711",
+  "url": "www.meadowhighschool.org",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

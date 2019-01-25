@@ -1,0 +1,18 @@
+{
+  "urn": "138521",
+  "name": "Brockington College",
+  "address": "Blaby Road",
+  "locality": "Enderby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE19 4AQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "454052",
+  "northing": "299049",
+  "url": "www.brockington.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142712",
+  "name": "Luxulyan School",
+  "address": "Luxulyan",
+  "locality": "",
+  "address3": "",
+  "town": "Bodmin",
+  "county": "Cornwall",
+  "postcode": "PL30 5EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "205089",
+  "northing": "58090",
+  "url": "www.luxulyan.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

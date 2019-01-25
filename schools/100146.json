@@ -1,0 +1,18 @@
+{
+  "urn": "100146",
+  "name": "Wyborne Primary School",
+  "address": "Footscray Road",
+  "locality": "New Eltham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 2EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "543932",
+  "northing": "173264",
+  "url": "www.wyborne.greenwich.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

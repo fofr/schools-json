@@ -1,0 +1,18 @@
+{
+  "urn": "144015",
+  "name": "The Charles Dickens School",
+  "address": "Broadstairs Road",
+  "locality": "",
+  "address3": "",
+  "town": "Broadstairs",
+  "county": "Kent",
+  "postcode": "CT10 2RL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "638334",
+  "northing": "167981",
+  "url": "www.cds.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

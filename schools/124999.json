@@ -1,0 +1,18 @@
+{
+  "urn": "124999",
+  "name": "Byfleet Primary School",
+  "address": "King's Head Lane",
+  "locality": "Byfleet",
+  "address3": "",
+  "town": "West Byfleet",
+  "county": "Surrey",
+  "postcode": "KT14 7AT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505707",
+  "northing": "161612",
+  "url": "http://www.byfleet.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

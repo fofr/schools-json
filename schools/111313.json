@@ -1,0 +1,18 @@
+{
+  "urn": "111313",
+  "name": "St Winefride's Catholic Primary School",
+  "address": "Mellock Lane",
+  "locality": "Little Neston",
+  "address3": "",
+  "town": "Neston",
+  "county": "Cheshire",
+  "postcode": "CH64 9RW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "329884",
+  "northing": "377133",
+  "url": "www.stwinefrides.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

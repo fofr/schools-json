@@ -1,0 +1,18 @@
+{
+  "urn": "130760",
+  "name": "New College Stamford",
+  "address": "Drift Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stamford",
+  "county": "Lincolnshire",
+  "postcode": "PE9 1XA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "503509",
+  "northing": "307845",
+  "url": "www.stamford.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

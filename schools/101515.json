@@ -1,0 +1,18 @@
+{
+  "urn": "101515",
+  "name": "Barham Primary School",
+  "address": "Danethorpe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wembley",
+  "county": "",
+  "postcode": "HA0 4RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517505",
+  "northing": "184641",
+  "url": "www.barhamprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145219",
+  "name": "Springfield Primary School",
+  "address": "Orchard Street",
+  "locality": "Kempston",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 7LJ",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "503755",
+  "northing": "247130",
+  "url": "http://springfieldprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

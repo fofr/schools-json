@@ -1,0 +1,18 @@
+{
+  "urn": "137746",
+  "name": "The King Edward VI Academy",
+  "address": "Cottingwood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE61 1DN",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "419647",
+  "northing": "586766",
+  "url": "http://www.kevi.info",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

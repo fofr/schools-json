@@ -1,0 +1,18 @@
+{
+  "urn": "115761",
+  "name": "The Cotswold School",
+  "address": "The Avenue",
+  "locality": "Bourton-on-the-Water",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL54 2BD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "416743",
+  "northing": "221161",
+  "url": "http://www.cotswold.gloucs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

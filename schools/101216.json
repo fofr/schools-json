@@ -1,0 +1,18 @@
+{
+  "urn": "101216",
+  "name": "The Leys Primary School",
+  "address": "Leys Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM10 9YR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "550461",
+  "northing": "184093",
+  "url": "http://www.leysprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

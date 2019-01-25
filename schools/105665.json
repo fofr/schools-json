@@ -1,0 +1,18 @@
+{
+  "urn": "105665",
+  "name": "Diggle School",
+  "address": "Sam Road",
+  "locality": "Diggle",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL3 5PU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "400451",
+  "northing": "408030",
+  "url": "www.diggleprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122698",
+  "name": "Moor Lane First School",
+  "address": "Moor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 5SF",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "452963",
+  "northing": "360551",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

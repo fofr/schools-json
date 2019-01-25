@@ -1,0 +1,18 @@
+{
+  "urn": "112436",
+  "name": "Parkview School",
+  "address": "West Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA13 9AY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "320955",
+  "northing": "470036",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

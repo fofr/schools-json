@@ -1,0 +1,18 @@
+{
+  "urn": "122200",
+  "name": "Lynemouth First School",
+  "address": "Church Square",
+  "locality": "Lynemouth",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE61 5TR",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "429580",
+  "northing": "591160",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115902",
+  "name": "Hambledon Primary School",
+  "address": "Church Lane",
+  "locality": "Hambledon",
+  "address3": "",
+  "town": "Waterlooville",
+  "county": "Hampshire",
+  "postcode": "PO7 4RT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "464663",
+  "northing": "115309",
+  "url": "http://www.hambledon.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

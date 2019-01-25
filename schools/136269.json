@@ -1,0 +1,18 @@
+{
+  "urn": "136269",
+  "name": "St Buryan Primary School",
+  "address": "Rectory Road",
+  "locality": "St Buryan",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR19 6BB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "141014",
+  "northing": "25611",
+  "url": "www.stburyanacademy.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

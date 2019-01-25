@@ -1,0 +1,18 @@
+{
+  "urn": "115371",
+  "name": "Hylands School",
+  "address": "Hatfield Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM1 3DF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "568796",
+  "northing": "206332",
+  "url": "http://www.hylands.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

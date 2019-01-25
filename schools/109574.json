@@ -1,0 +1,18 @@
+{
+  "urn": "109574",
+  "name": "Pirton Hill Primary School",
+  "address": "Butely Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU4 9EX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "504904",
+  "northing": "224574",
+  "url": "http://www.pirtonhill.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

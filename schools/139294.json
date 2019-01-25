@@ -1,0 +1,18 @@
+{
+  "urn": "139294",
+  "name": "Copley Academy",
+  "address": "Huddersfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stalybridge",
+  "county": "Cheshire",
+  "postcode": "SK15 3RR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "397554",
+  "northing": "398878",
+  "url": "www.copleyacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

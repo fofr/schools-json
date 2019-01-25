@@ -1,0 +1,18 @@
+{
+  "urn": "110714",
+  "name": "Sawtry Infants' School",
+  "address": "Middlefield Road",
+  "locality": "Sawtry",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 5SH",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "516652",
+  "northing": "283259",
+  "url": "sawtry-inf.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103548",
+  "name": "Small Heath School",
+  "address": "Muntz Street",
+  "locality": "Small Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B10 9RX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "409802",
+  "northing": "285935",
+  "url": "http://www.smallheathschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

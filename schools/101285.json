@@ -1,0 +1,18 @@
+{
+  "urn": "101285",
+  "name": "Hollickwood Primary School",
+  "address": "Sydney Road",
+  "locality": "Muswell Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N10 2NL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528626",
+  "northing": "191205",
+  "url": "www.hollickwood.barnet.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

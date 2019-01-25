@@ -1,0 +1,18 @@
+{
+  "urn": "123494",
+  "name": "Prees CofE Primary School",
+  "address": "Cross End",
+  "locality": "Prees",
+  "address3": "",
+  "town": "Whitchurch",
+  "county": "Shropshire",
+  "postcode": "SY13 2ER",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "355683",
+  "northing": "333416",
+  "url": "www.prees.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

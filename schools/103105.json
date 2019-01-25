@@ -1,0 +1,18 @@
+{
+  "urn": "103105",
+  "name": "Kelmscott School",
+  "address": "Markhouse Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 8DN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "536724",
+  "northing": "188142",
+  "url": "http://www.kelmscott.waltham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

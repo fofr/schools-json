@@ -1,0 +1,18 @@
+{
+  "urn": "100796",
+  "name": "Ivydale Primary School",
+  "address": "Ivydale Road",
+  "locality": "Nunhead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE15 3BU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535830",
+  "northing": "175214",
+  "url": "www.ivydale.southwark.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

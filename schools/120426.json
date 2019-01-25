@@ -1,0 +1,18 @@
+{
+  "urn": "120426",
+  "name": "Boston West Primary School",
+  "address": "Sussex Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE21 7QG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "530907",
+  "northing": "344021",
+  "url": "http://bostonwestprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123337",
+  "name": "Oxfordshire Hospital School",
+  "address": "C/O St Nicholas Primary",
+  "locality": "Raymund Road",
+  "address3": "Old Marston",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 0PJ",
+  "minimum_age": "3",
+  "maximum_age": "18",
+  "easting": "452599",
+  "northing": "208352",
+  "url": "http://www.ohs.oxon.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

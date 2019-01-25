@@ -1,0 +1,18 @@
+{
+  "urn": "136775",
+  "name": "Sawston Village College",
+  "address": "New Road",
+  "locality": "Sawston",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB22 3BP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "548215",
+  "northing": "249780",
+  "url": "http://www.sawstonvc.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

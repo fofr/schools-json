@@ -1,0 +1,18 @@
+{
+  "urn": "120783",
+  "name": "Barford Primary School",
+  "address": "Chapel Street",
+  "locality": "Barford",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR9 4AB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "611410",
+  "northing": "307680",
+  "url": "http://www.barford.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137895",
+  "name": "The John Henry Newman Catholic School",
+  "address": "Hitchin Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG1 4AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "522957",
+  "northing": "226079",
+  "url": "http://www.jhn.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

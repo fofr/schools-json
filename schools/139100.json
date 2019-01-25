@@ -1,0 +1,18 @@
+{
+  "urn": "139100",
+  "name": "Elizabeth Woodville School",
+  "address": "Stratford Road",
+  "locality": "Deanshanger",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK19 6HN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "476763",
+  "northing": "239602",
+  "url": "http://ewsacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

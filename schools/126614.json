@@ -1,0 +1,18 @@
+{
+  "urn": "126614",
+  "name": "Special Learning Centre Secondary Base",
+  "address": "Macbeth Centre",
+  "locality": "Macbeth Street",
+  "address3": "Hammersmith",
+  "town": "London",
+  "county": "",
+  "postcode": "W6 9JJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "522886",
+  "northing": "178531",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

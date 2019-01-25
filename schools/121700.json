@@ -1,0 +1,18 @@
+{
+  "urn": "121700",
+  "name": "Nidderdale High School",
+  "address": "Low Wath Road",
+  "locality": "Pateley Bridge",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG3 5HL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "415025",
+  "northing": "465968",
+  "url": "http://nidderdale.n-yorks.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

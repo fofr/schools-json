@@ -1,0 +1,18 @@
+{
+  "urn": "113673",
+  "name": "Sherborne Primary School",
+  "address": "Harbour Way",
+  "locality": "",
+  "address3": "",
+  "town": "Sherborne",
+  "county": "Dorset",
+  "postcode": "DT9 4AJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "364042",
+  "northing": "117428",
+  "url": "http://www.sherbornepri.dorset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

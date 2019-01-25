@@ -1,0 +1,18 @@
+{
+  "urn": "112762",
+  "name": "Springfield Primary School",
+  "address": "West Road",
+  "locality": "Spondon",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE21 7AB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "439670",
+  "northing": "336355",
+  "url": "http://www.springfield.derby.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

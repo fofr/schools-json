@@ -1,0 +1,18 @@
+{
+  "urn": "118386",
+  "name": "Hythe Community School",
+  "address": "Cinque Ports Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hythe",
+  "county": "Kent",
+  "postcode": "CT21 6HS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "615731",
+  "northing": "134394",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104304",
+  "name": "Rakegate Primary School",
+  "address": "Rakegate Close",
+  "locality": "",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV10 6US",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390757",
+  "northing": "302387",
+  "url": "www.rakegateprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133971",
+  "name": "Southgate Primary",
+  "address": "Barrington Road",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH10 6DG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "526783",
+  "northing": "135609",
+  "url": "www.southgateprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

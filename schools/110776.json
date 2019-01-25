@@ -1,0 +1,18 @@
+{
+  "urn": "110776",
+  "name": "Millfield Primary School",
+  "address": "Grange Lane",
+  "locality": "Littleport",
+  "address3": "",
+  "town": "Ely",
+  "county": "Cambridgeshire",
+  "postcode": "CB6 1HW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "556063",
+  "northing": "286028",
+  "url": "www.millfieldprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

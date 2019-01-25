@@ -1,0 +1,18 @@
+{
+  "urn": "114901",
+  "name": "Roydon Primary School",
+  "address": "Epping Road",
+  "locality": "Roydon",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM19 5HN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "540864",
+  "northing": "209843",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

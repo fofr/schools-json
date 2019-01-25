@@ -1,0 +1,18 @@
+{
+  "urn": "121173",
+  "name": "The Hewett School",
+  "address": "Cecil Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR1 2PL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "622737",
+  "northing": "306864",
+  "url": "http://www.hewett.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131341",
+  "name": "Kirkby Avenue Primary School",
+  "address": "Kirkby Avenue",
+  "locality": "Bentley",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN5 9TF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "456412",
+  "northing": "404682",
+  "url": "www.kirkbyavenueprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

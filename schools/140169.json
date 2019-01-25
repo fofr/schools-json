@@ -1,0 +1,18 @@
+{
+  "urn": "140169",
+  "name": "Craven Primary Academy",
+  "address": "New Bridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU9 2DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511529",
+  "northing": "429705",
+  "url": "www.cravenprimaryacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123978",
+  "name": "Hollywall Primary School",
+  "address": "Burnaby Road",
+  "locality": "Sandyford",
+  "address3": "Tunstall",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 5PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385263",
+  "northing": "352593",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

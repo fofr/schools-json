@@ -1,0 +1,18 @@
+{
+  "urn": "136193",
+  "name": "The Taunton Academy",
+  "address": "Cheddon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA2 7QP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "322854",
+  "northing": "127126",
+  "url": "http://www.thetauntonacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109289",
+  "name": "Cotham School",
+  "address": "Cotham Lawn Road",
+  "locality": "Cotham",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS6 6DT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "358273",
+  "northing": "174016",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

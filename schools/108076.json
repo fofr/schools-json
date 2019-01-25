@@ -1,0 +1,18 @@
+{
+  "urn": "108076",
+  "name": "Roundhay School",
+  "address": "Gledhow Lane",
+  "locality": "Roundhay",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS8 1ND",
+  "minimum_age": "4",
+  "maximum_age": "18",
+  "easting": "432036",
+  "northing": "437155",
+  "url": "www.roundhayschool.org.uk",
+  "phase": "All through",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

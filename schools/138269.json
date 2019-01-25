@@ -1,0 +1,18 @@
+{
+  "urn": "138269",
+  "name": "Europa School UK",
+  "address": "Thame Lane",
+  "locality": "Culham",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 3DZ",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "451358",
+  "northing": "195465",
+  "url": "https://europaschooluk.org",
+  "phase": "All through",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

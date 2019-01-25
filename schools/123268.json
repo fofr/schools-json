@@ -1,0 +1,18 @@
+{
+  "urn": "123268",
+  "name": "Lord Williams's School",
+  "address": "Oxford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Thame",
+  "county": "Oxfordshire",
+  "postcode": "OX9 2AQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "469702",
+  "northing": "205814",
+  "url": "http://www.lordwilliams.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

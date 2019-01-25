@@ -1,0 +1,18 @@
+{
+  "urn": "120037",
+  "name": "Shenton Primary School",
+  "address": "Dunlin Road",
+  "locality": "Off Humberstone Road",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 3FP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "460124",
+  "northing": "305043",
+  "url": "www.shenton.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

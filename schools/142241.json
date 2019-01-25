@@ -1,0 +1,18 @@
+{
+  "urn": "142241",
+  "name": "Lostwithiel School",
+  "address": "Bodmin Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Lostwithiel",
+  "county": "Cornwall",
+  "postcode": "PL22 0AJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "210063",
+  "northing": "60002",
+  "url": "www.lostwithiel.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144886",
+  "name": "Longley Park Sixth Form College",
+  "address": "Horninglow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S5 6SG",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "436392",
+  "northing": "391435",
+  "url": "www.longleypark.ac.uk",
+  "phase": "16 plus",
+  "type": "Academies",
+  "detailed_type": "Academy 16-19 converter"
+}

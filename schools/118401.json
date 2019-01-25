@@ -1,0 +1,18 @@
+{
+  "urn": "118401",
+  "name": "Preston Primary School",
+  "address": "Mill Lane",
+  "locality": "Preston",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT3 1HB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "625140",
+  "northing": "160901",
+  "url": "www.prestonprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

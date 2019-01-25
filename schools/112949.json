@@ -1,0 +1,18 @@
+{
+  "urn": "112949",
+  "name": "Tibshelf Community School",
+  "address": "Doe Hill Lane",
+  "locality": "Tibshelf",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 5LZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "443405",
+  "northing": "360461",
+  "url": "http://www.tibshelf.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

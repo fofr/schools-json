@@ -1,0 +1,18 @@
+{
+  "urn": "141814",
+  "name": "St Benet Biscop Catholic Academy",
+  "address": "Ridge Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Bedlington",
+  "county": "Northumberland",
+  "postcode": "NE22 6ED",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "425290",
+  "northing": "582104",
+  "url": "http://www.st-benetbiscop.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

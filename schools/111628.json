@@ -1,0 +1,18 @@
+{
+  "urn": "111628",
+  "name": "Pennyman Primary School",
+  "address": "Fulbeck Road",
+  "locality": "Ormesby",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS3 0QS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453197",
+  "northing": "517830",
+  "url": "http://www.pennyman.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

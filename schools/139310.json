@@ -1,0 +1,18 @@
+{
+  "urn": "139310",
+  "name": "Folkestone St. Mary's Church of England Primary Academy",
+  "address": "Warren Road",
+  "locality": "",
+  "address3": "",
+  "town": "Folkestone",
+  "county": "Kent",
+  "postcode": "CT19 6QH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "623841",
+  "northing": "136685",
+  "url": "www.stmarysfolkestone.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

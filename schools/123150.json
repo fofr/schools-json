@@ -1,0 +1,18 @@
+{
+  "urn": "123150",
+  "name": "John Blandy VC Primary School",
+  "address": "Laurel Drive",
+  "locality": "Southmoor",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX13 5DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "440293",
+  "northing": "198334",
+  "url": "http://www.john-blandy.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

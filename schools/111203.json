@@ -1,0 +1,18 @@
+{
+  "urn": "111203",
+  "name": "Rainow Primary School",
+  "address": "Round Meadow",
+  "locality": "Rainow",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK10 5UB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "394981",
+  "northing": "375972",
+  "url": "http://www.rainowpri.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

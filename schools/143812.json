@@ -1,0 +1,18 @@
+{
+  "urn": "143812",
+  "name": "Standish Community High School",
+  "address": "Kenyon Road",
+  "locality": "Standish",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN6 0NX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "355485",
+  "northing": "410681",
+  "url": "http://www.standishchs.wigan.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

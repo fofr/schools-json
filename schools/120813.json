@@ -1,0 +1,18 @@
+{
+  "urn": "120813",
+  "name": "Heckingham First School",
+  "address": "School Lane",
+  "locality": "Heckingham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR14 6SL",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "638195",
+  "northing": "297669",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146678",
+  "name": "Welland Primary School",
+  "address": "Marlbank Road",
+  "locality": "Welland",
+  "address3": "",
+  "town": "Malvern",
+  "county": "Worcestershire",
+  "postcode": "WR13 6NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "379566",
+  "northing": "240015",
+  "url": "http://www.wellandprimaryschool.uk.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

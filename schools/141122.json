@@ -1,0 +1,18 @@
+{
+  "urn": "141122",
+  "name": "White House Academy",
+  "address": "Marshfoot Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hailsham",
+  "county": "East Sussex",
+  "postcode": "BN27 2FB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "559337",
+  "northing": "109647",
+  "url": "www.whitehouse-academy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

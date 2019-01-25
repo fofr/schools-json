@@ -1,0 +1,18 @@
+{
+  "urn": "122411",
+  "name": "Fernwood Junior School",
+  "address": "Arleston Drive",
+  "locality": "Wollaton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 2FZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "451839",
+  "northing": "339580",
+  "url": "http://www.fernwoodjunior.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

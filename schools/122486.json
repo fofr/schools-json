@@ -1,0 +1,18 @@
+{
+  "urn": "122486",
+  "name": "Haydn Primary School",
+  "address": "Haydn Road",
+  "locality": "Sherwood",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 2JU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457278",
+  "northing": "342879",
+  "url": "www.haydn.nottingham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

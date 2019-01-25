@@ -1,0 +1,18 @@
+{
+  "urn": "120071",
+  "name": "Hazel Community Primary School",
+  "address": "Hazel Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 7JN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "458499",
+  "northing": "303207",
+  "url": "www.hazel.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

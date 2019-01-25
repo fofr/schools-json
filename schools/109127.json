@@ -1,0 +1,18 @@
+{
+  "urn": "109127",
+  "name": "Bridge Learning Campus Primary",
+  "address": "Bridge Learning Campus",
+  "locality": "Bishport Avenue",
+  "address3": "",
+  "town": "Hartcliffe",
+  "county": "Bristol",
+  "postcode": "BS13 0RH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "359071",
+  "northing": "167639",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

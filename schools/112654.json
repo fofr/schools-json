@@ -1,0 +1,18 @@
+{
+  "urn": "112654",
+  "name": "Middleton Community Primary School",
+  "address": "Main Street",
+  "locality": "Middleton-by-Wirksworth",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 4LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "427843",
+  "northing": "355702",
+  "url": "www.middleton.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

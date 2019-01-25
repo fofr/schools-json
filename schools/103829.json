@@ -1,0 +1,18 @@
+{
+  "urn": "103829",
+  "name": "Dingle Community Primary School",
+  "address": "Madeley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingswinford",
+  "county": "West Midlands",
+  "postcode": "DY6 8PF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "390074",
+  "northing": "287591",
+  "url": "http://www.dingle.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

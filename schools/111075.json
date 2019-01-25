@@ -1,0 +1,18 @@
+{
+  "urn": "111075",
+  "name": "Weston Village Primary School",
+  "address": "East Avenue",
+  "locality": "Weston",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW2 5LZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "373142",
+  "northing": "352083",
+  "url": "http://www.weston.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

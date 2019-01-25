@@ -1,0 +1,18 @@
+{
+  "urn": "141908",
+  "name": "Huntington Primary Academy",
+  "address": "North Moor Road",
+  "locality": "Huntington",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO32 9QT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "461863",
+  "northing": "455817",
+  "url": "http://www.webstore-ed.net/huntprim/homepage.html",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

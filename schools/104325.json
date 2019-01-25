@@ -1,0 +1,18 @@
+{
+  "urn": "104325",
+  "name": "Wilkinson Primary School",
+  "address": "Walter Road",
+  "locality": "Bradley",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 8UR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "395496",
+  "northing": "295199",
+  "url": "www.wilkinsonprimaryschool.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

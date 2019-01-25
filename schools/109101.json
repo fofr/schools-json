@@ -1,0 +1,18 @@
+{
+  "urn": "109101",
+  "name": "Winscombe Primary School",
+  "address": "Moorham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Winscombe",
+  "county": "Somerset",
+  "postcode": "BS25 1HH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "342347",
+  "northing": "157988",
+  "url": "http://www.winscombeprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

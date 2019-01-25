@@ -1,0 +1,18 @@
+{
+  "urn": "143203",
+  "name": "Bardfield Academy",
+  "address": "Clay Hill Road",
+  "locality": "Vange",
+  "address3": "",
+  "town": "Basildon",
+  "county": "Essex",
+  "postcode": "SS16 4NL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "572424",
+  "northing": "187904",
+  "url": "www.bardfieldacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

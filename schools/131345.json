@@ -1,0 +1,18 @@
+{
+  "urn": "131345",
+  "name": "Wybers Wood Primary School",
+  "address": "Timberley Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN37 9QZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "523453",
+  "northing": "409393",
+  "url": "www.wybersprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

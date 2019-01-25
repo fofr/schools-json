@@ -1,0 +1,18 @@
+{
+  "urn": "136910",
+  "name": "Tiffin School",
+  "address": "Queen Elizabeth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingston upon Thames",
+  "county": "Surrey",
+  "postcode": "KT2 6RL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518627",
+  "northing": "169465",
+  "url": "http://www.tiffinschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

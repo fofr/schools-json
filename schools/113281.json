@@ -1,0 +1,18 @@
+{
+  "urn": "113281",
+  "name": "Mount Street Primary School",
+  "address": "Mount Street",
+  "locality": "Greenbank",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL4 8NZ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "248289",
+  "northing": "55010",
+  "url": "www.mountstreet.plymouth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

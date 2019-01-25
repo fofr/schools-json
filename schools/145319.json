@@ -1,0 +1,18 @@
+{
+  "urn": "145319",
+  "name": "Wildmoor Heath School",
+  "address": "Lower Broadmoor Road",
+  "locality": "Crowthorne",
+  "address3": "",
+  "town": "Bracknell",
+  "county": "Berkshire",
+  "postcode": "RG45 7HD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "484788",
+  "northing": "163591",
+  "url": "http://www.wildmoorheath.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

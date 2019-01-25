@@ -1,0 +1,18 @@
+{
+  "urn": "101323",
+  "name": "St Mary's CofE Primary School",
+  "address": "Dollis Park",
+  "locality": "Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N3 1BT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524746",
+  "northing": "190949",
+  "url": "www.stmarysfinchley.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108192",
+  "name": "Shay Lane Infant School",
+  "address": "Shay Lane",
+  "locality": "Crofton",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF4 1NN",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "437458",
+  "northing": "418226",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

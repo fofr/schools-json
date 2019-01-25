@@ -1,0 +1,18 @@
+{
+  "urn": "135813",
+  "name": "Billingshurst Primary School",
+  "address": "Upper Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Billingshurst",
+  "county": "West Sussex",
+  "postcode": "RH14 9RE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "508686",
+  "northing": "125471",
+  "url": "www.billingshurstprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

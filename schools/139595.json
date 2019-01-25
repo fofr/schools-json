@@ -1,0 +1,18 @@
+{
+  "urn": "139595",
+  "name": "Hackney New School",
+  "address": "Kingsland Road",
+  "locality": "",
+  "address3": "317-319",
+  "town": "Hackney",
+  "county": "",
+  "postcode": "E8 4DL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "533462",
+  "northing": "183944",
+  "url": "http://www.hackneynewschool.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

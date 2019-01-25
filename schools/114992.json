@@ -1,0 +1,18 @@
+{
+  "urn": "114992",
+  "name": "Danbury Park Community Primary School",
+  "address": "Well Lane",
+  "locality": "Danbury",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM3 4AB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "577251",
+  "northing": "205255",
+  "url": "www.danburypark.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

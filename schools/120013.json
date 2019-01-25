@@ -1,0 +1,18 @@
+{
+  "urn": "120013",
+  "name": "Humberstone Junior School",
+  "address": "Main Street",
+  "locality": "Humberstone",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 1AE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "462565",
+  "northing": "305838",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

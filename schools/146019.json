@@ -1,0 +1,18 @@
+{
+  "urn": "146019",
+  "name": "Hartburn Primary School",
+  "address": "Adelaide Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "",
+  "postcode": "TS18 5BS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442606",
+  "northing": "518160",
+  "url": "www.hartburn.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106368",
+  "name": "Stretford Grammar School",
+  "address": "Granby Road",
+  "locality": "Stretford",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M32 8JB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "380286",
+  "northing": "394144",
+  "url": "www.stretfordgrammar.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

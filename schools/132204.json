@@ -1,0 +1,18 @@
+{
+  "urn": "132204",
+  "name": "Alderman Leach Primary School",
+  "address": "Alderman Leach Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL2 2GF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426854",
+  "northing": "516886",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

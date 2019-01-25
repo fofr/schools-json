@@ -1,0 +1,18 @@
+{
+  "urn": "138200",
+  "name": "Central Academy",
+  "address": "Newhall Street",
+  "locality": "Ladywood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B3 1SJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "406394",
+  "northing": "287322",
+  "url": "https://corecentral.academy",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

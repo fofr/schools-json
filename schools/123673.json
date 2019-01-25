@@ -1,0 +1,18 @@
+{
+  "urn": "123673",
+  "name": "Neroche Primary School",
+  "address": "Broadway",
+  "locality": "",
+  "address3": "",
+  "town": "Ilminster",
+  "county": "Somerset",
+  "postcode": "TA19 9RG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "332541",
+  "northing": "115512",
+  "url": "www.neroche.somerset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

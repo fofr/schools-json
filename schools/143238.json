@@ -1,0 +1,18 @@
+{
+  "urn": "143238",
+  "name": "Brigshaw High School",
+  "address": "Brigshaw Lane",
+  "locality": "Allerton Bywater",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 2HR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "440834",
+  "northing": "429088",
+  "url": "www.brigshaw.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

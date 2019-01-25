@@ -1,0 +1,18 @@
+{
+  "urn": "109060",
+  "name": "Bathampton Primary School",
+  "address": "Tyning Road",
+  "locality": "Bathampton",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA2 6TQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "377804",
+  "northing": "166522",
+  "url": "www.bathampton.bathnes.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

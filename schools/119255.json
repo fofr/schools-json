@@ -1,0 +1,18 @@
+{
+  "urn": "119255",
+  "name": "Waterloo Primary School",
+  "address": "Waterloo Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY4 3AG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "331876",
+  "northing": "434317",
+  "url": "http://www.waterloo.blackpool.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

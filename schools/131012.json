@@ -1,0 +1,18 @@
+{
+  "urn": "131012",
+  "name": "Whinburn Pupil Referral Unit",
+  "address": "Hollins Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD20 6LU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "404984",
+  "northing": "442679",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

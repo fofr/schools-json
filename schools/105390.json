@@ -1,0 +1,18 @@
+{
+  "urn": "105390",
+  "name": "Aspinal Primary School",
+  "address": "Broadacre Road",
+  "locality": "Gorton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M18 7NY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389382",
+  "northing": "395312",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

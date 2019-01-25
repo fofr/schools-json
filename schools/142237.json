@@ -1,0 +1,18 @@
+{
+  "urn": "142237",
+  "name": "Shavington Academy",
+  "address": "Rope Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Shavington",
+  "county": "Cheshire",
+  "postcode": "CW2 5DH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "369418",
+  "northing": "352350",
+  "url": "http://www.shavington.academy",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

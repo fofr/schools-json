@@ -1,0 +1,18 @@
+{
+  "urn": "107272",
+  "name": "Low Ash Primary School",
+  "address": "Wrose Road",
+  "locality": "Wrose",
+  "address3": "",
+  "town": "Shipley",
+  "county": "West Yorkshire",
+  "postcode": "BD18 1AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415834",
+  "northing": "436932",
+  "url": "http://www.lowash.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

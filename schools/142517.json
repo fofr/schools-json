@@ -1,0 +1,18 @@
+{
+  "urn": "142517",
+  "name": "Cherry Orchard Primary Academy",
+  "address": "Cherry Orchard",
+  "locality": "Cherry Orchard Road",
+  "address3": "Ebbsfleet Valley",
+  "town": "Ebbsfleet",
+  "county": "Kent",
+  "postcode": "DA10 1AD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "560297",
+  "northing": "173251",
+  "url": "www.cherryorchardprimaryacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

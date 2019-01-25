@@ -1,0 +1,18 @@
+{
+  "urn": "110001",
+  "name": "St John's CofE (Aided) Primary School",
+  "address": "121-147 Orts Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG1 3JN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "472834",
+  "northing": "173370",
+  "url": "www.stjohns.reading.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

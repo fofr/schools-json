@@ -1,0 +1,18 @@
+{
+  "urn": "107928",
+  "name": "Seacroft Grange Primary School",
+  "address": "Moresdale Lane",
+  "locality": "Seacroft",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS14 6JR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "434826",
+  "northing": "435123",
+  "url": "www.seacroftgps.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

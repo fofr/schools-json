@@ -1,0 +1,18 @@
+{
+  "urn": "101592",
+  "name": "Marian Vian Primary School",
+  "address": "Shirley Crescent",
+  "locality": "Elmers End",
+  "address3": "",
+  "town": "Beckenham",
+  "county": "Kent",
+  "postcode": "BR3 4AZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "536074",
+  "northing": "167986",
+  "url": "www.marianvian.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133270",
+  "name": "Old Park Primary School",
+  "address": "Brunel Road",
+  "locality": "Malinslee",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 2BF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "369276",
+  "northing": "308410",
+  "url": "https://oldparkprimaryschool.taw.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

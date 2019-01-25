@@ -1,0 +1,18 @@
+{
+  "urn": "142039",
+  "name": "Whittle Academy",
+  "address": "Narberth Way",
+  "locality": "Off Woodway Lane",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV2 2LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "437948",
+  "northing": "281646",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

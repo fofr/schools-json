@@ -1,0 +1,18 @@
+{
+  "urn": "104944",
+  "name": "Stanley High School",
+  "address": "Fleetwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR9 9TF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "335676",
+  "northing": "419668",
+  "url": "www.stanleyhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

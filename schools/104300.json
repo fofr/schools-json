@@ -1,0 +1,18 @@
+{
+  "urn": "104300",
+  "name": "Woodfield Infant School",
+  "address": "Woodfield Avenue",
+  "locality": "Penn",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 4AG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "389954",
+  "northing": "296679",
+  "url": "www.woodfieldinfantschool.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

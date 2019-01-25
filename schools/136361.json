@@ -1,0 +1,18 @@
+{
+  "urn": "136361",
+  "name": "Redhill Academy",
+  "address": "Redhill Road",
+  "locality": "Arnold",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 8GX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458431",
+  "northing": "346054",
+  "url": "http://www.theredhillacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112564",
+  "name": "Heath Primary School",
+  "address": "Slack Lane",
+  "locality": "Heath",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S44 5RH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443911",
+  "northing": "366405",
+  "url": "http://www.heath.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

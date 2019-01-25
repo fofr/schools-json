@@ -1,0 +1,18 @@
+{
+  "urn": "107226",
+  "name": "Fearnville Primary School",
+  "address": "Fearnville Drive",
+  "locality": "Off Sticker Lane",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD4 8DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418850",
+  "northing": "432464",
+  "url": "www.fearnville.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

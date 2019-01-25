@@ -1,0 +1,18 @@
+{
+  "urn": "139432",
+  "name": "UTC Plymouth",
+  "address": "Park Avenue",
+  "locality": "Devenport",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 4RL",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "245406",
+  "northing": "55353",
+  "url": "http://www.utcplymouth.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112166",
+  "name": "Thwaites School",
+  "address": "Hallthwaites",
+  "locality": "",
+  "address3": "",
+  "town": "Millom",
+  "county": "Cumbria",
+  "postcode": "LA18 5HP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "317889",
+  "northing": "485460",
+  "url": "www.thwaites.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

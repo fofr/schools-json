@@ -1,0 +1,18 @@
+{
+  "urn": "116458",
+  "name": "Bitterne Park School",
+  "address": "Dimond Road",
+  "locality": "Bitterne Park",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO18 1BU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "444409",
+  "northing": "114688",
+  "url": "http://www.bitterneparkschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

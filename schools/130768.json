@@ -1,0 +1,18 @@
+{
+  "urn": "130768",
+  "name": "Paston College",
+  "address": "Grammar School Road",
+  "locality": "",
+  "address3": "",
+  "town": "North Walsham",
+  "county": "Norfolk",
+  "postcode": "NR28 9JL",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "628267",
+  "northing": "330134",
+  "url": "http://www.paston.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

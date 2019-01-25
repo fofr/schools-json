@@ -1,0 +1,18 @@
+{
+  "urn": "125124",
+  "name": "Lingfield Primary School",
+  "address": "Vicarage Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lingfield",
+  "county": "Surrey",
+  "postcode": "RH7 6HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538755",
+  "northing": "143788",
+  "url": "www.lingfieldprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

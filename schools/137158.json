@@ -1,0 +1,18 @@
+{
+  "urn": "137158",
+  "name": "The Manor Academy",
+  "address": "Park Hall Road",
+  "locality": "Mansfield Woodhouse",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 8QA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "454359",
+  "northing": "364103",
+  "url": "www.themanor.notts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

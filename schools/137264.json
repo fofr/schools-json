@@ -1,0 +1,18 @@
+{
+  "urn": "137264",
+  "name": "Lydiard Park Academy",
+  "address": "Grange Park Way",
+  "locality": "Grange Park",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN5 6HN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "410778",
+  "northing": "184358",
+  "url": "http://www.lydiardparkacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143338",
+  "name": "Greenways Primary School",
+  "address": "Greenways",
+  "locality": "",
+  "address3": "",
+  "town": "Southend-on-Sea",
+  "county": "Essex",
+  "postcode": "SS1 3BS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "590272",
+  "northing": "185410",
+  "url": "www.greenways.southend.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

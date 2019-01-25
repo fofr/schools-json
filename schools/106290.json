@@ -1,0 +1,18 @@
+{
+  "urn": "106290",
+  "name": "Broomwood Primary School",
+  "address": "Mainwood Road",
+  "locality": "Timperley",
+  "address3": "",
+  "town": "Altrincham",
+  "county": "Cheshire",
+  "postcode": "WA15 7JU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "379535",
+  "northing": "388382",
+  "url": "http://www.broomwoodprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

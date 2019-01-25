@@ -1,0 +1,18 @@
+{
+  "urn": "138008",
+  "name": "Crookesbroom Primary Academy",
+  "address": "Crookesbroom Lane",
+  "locality": "Hatfield",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN7 6JP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "465385",
+  "northing": "409658",
+  "url": "www.cpacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

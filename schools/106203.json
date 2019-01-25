@@ -1,0 +1,18 @@
+{
+  "urn": "106203",
+  "name": "Audenshaw Primary School",
+  "address": "Ash Street",
+  "locality": "Audenshaw",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M34 5NG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "391671",
+  "northing": "397280",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

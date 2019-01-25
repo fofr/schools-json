@@ -1,0 +1,18 @@
+{
+  "urn": "136289",
+  "name": "Watford Grammar School for Girls",
+  "address": "Lady's Close",
+  "locality": "",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD18 0AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "510950",
+  "northing": "196058",
+  "url": "http://www.watfordgrammarschoolforgirls.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

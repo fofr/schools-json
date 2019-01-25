@@ -1,0 +1,18 @@
+{
+  "urn": "112112",
+  "name": "Holme St Cuthbert School",
+  "address": "Mawbray",
+  "locality": "",
+  "address3": "",
+  "town": "Maryport",
+  "county": "Cumbria",
+  "postcode": "CA15 6QZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "310464",
+  "northing": "547063",
+  "url": "www.hstcuth.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

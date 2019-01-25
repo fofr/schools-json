@@ -1,0 +1,18 @@
+{
+  "urn": "105155",
+  "name": "Gaskell Community Primary School",
+  "address": "Thomas Holden Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL1 2QG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "371026",
+  "northing": "409832",
+  "url": "www.gaskell.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124615",
+  "name": "Waldringfield Primary School",
+  "address": "Cliff Road",
+  "locality": "Waldringfield",
+  "address3": "",
+  "town": "Woodbridge",
+  "county": "Suffolk",
+  "postcode": "IP12 4QL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "627808",
+  "northing": "244487",
+  "url": "http://www.waldringfield.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

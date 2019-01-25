@@ -1,0 +1,18 @@
+{
+  "urn": "103972",
+  "name": "Grove Vale Primary School",
+  "address": "Monksfield Avenue",
+  "locality": "Great Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B43 6AL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "403720",
+  "northing": "294257",
+  "url": "www.grovevale.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

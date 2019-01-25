@@ -1,0 +1,18 @@
+{
+  "urn": "136869",
+  "name": "St Columb Minor Academy",
+  "address": "Porth Bean Road",
+  "locality": "St Columb Minor",
+  "address3": "",
+  "town": "Newquay",
+  "county": "Cornwall",
+  "postcode": "TR7 3JF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "183635",
+  "northing": "62121",
+  "url": "http://www.blueschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127901",
+  "name": "Green Lane Infant School",
+  "address": "Green Lane",
+  "locality": "Garforth",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS25 2JX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "441807",
+  "northing": "432727",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

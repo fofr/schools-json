@@ -1,0 +1,18 @@
+{
+  "urn": "121920",
+  "name": "Vernon Terrace Primary School",
+  "address": "Vernon Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN1 5HE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "476599",
+  "northing": "260664",
+  "url": "www.vernonterrace.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

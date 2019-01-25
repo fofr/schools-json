@@ -1,0 +1,18 @@
+{
+  "urn": "116936",
+  "name": "Aylestone School",
+  "address": "Broadlands House",
+  "locality": "Broadlands Lane",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR1 1HY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "352513",
+  "northing": "240767",
+  "url": "http://aylestone.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

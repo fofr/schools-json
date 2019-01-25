@@ -1,0 +1,18 @@
+{
+  "urn": "110322",
+  "name": "Water Hall Primary School",
+  "address": "Fern Grove",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK2 3QF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "487591",
+  "northing": "231905",
+  "url": "www.waterhall.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

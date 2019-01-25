@@ -1,0 +1,18 @@
+{
+  "urn": "121419",
+  "name": "Staveley Community Primary School",
+  "address": "Minskip Lane",
+  "locality": "Staveley",
+  "address3": "",
+  "town": "Knaresborough",
+  "county": "North Yorkshire",
+  "postcode": "HG5 9LQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "436663",
+  "northing": "462830",
+  "url": "http://www.staveley.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

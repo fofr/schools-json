@@ -1,0 +1,18 @@
+{
+  "urn": "123443",
+  "name": "Captain Webb Primary School",
+  "address": "Webb Crescent",
+  "locality": "Pool Hill",
+  "address3": "Dawley",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF4 3DU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "368229",
+  "northing": "306825",
+  "url": "www.captainwebbprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

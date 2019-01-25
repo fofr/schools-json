@@ -1,0 +1,18 @@
+{
+  "urn": "107146",
+  "name": "Birley Community College",
+  "address": "Birley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S12 3BP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "439829",
+  "northing": "382812",
+  "url": "http://www.birleylearningcommunity.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

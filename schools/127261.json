@@ -1,0 +1,18 @@
+{
+  "urn": "127261",
+  "name": "Maidford Infant School",
+  "address": "Maidford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L14 2DU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "341541",
+  "northing": "391983",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

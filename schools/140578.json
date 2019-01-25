@@ -1,0 +1,18 @@
+{
+  "urn": "140578",
+  "name": "The Cavendish High Academy",
+  "address": "Lincoln Close",
+  "locality": "",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 4YX",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "352079",
+  "northing": "380468",
+  "url": "www.chs.academy",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123433",
+  "name": "William Reynolds Primary School",
+  "address": "Westbourne",
+  "locality": "Woodside",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 5QW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "368257",
+  "northing": "304417",
+  "url": "www.williamreynoldsprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

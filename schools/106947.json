@@ -1,0 +1,18 @@
+{
+  "urn": "106947",
+  "name": "Clifton Community School",
+  "address": "Middle Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S65 2SN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "443986",
+  "northing": "393072",
+  "url": "http://www.cliftonschool.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

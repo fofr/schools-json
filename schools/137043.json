@@ -1,0 +1,18 @@
+{
+  "urn": "137043",
+  "name": "King Edward VI Aston School",
+  "address": "Frederick Road",
+  "locality": "Aston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B6 6DJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "407860",
+  "northing": "289535",
+  "url": "http://www.keaston.bham.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138233",
+  "name": "Atherton Community School",
+  "address": "Hamilton Street",
+  "locality": "",
+  "address3": "",
+  "town": "Atherton",
+  "county": "Greater Manchester",
+  "postcode": "M46 0AY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "367419",
+  "northing": "402842",
+  "url": "http://www.athertoncommunityschool.com/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

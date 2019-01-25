@@ -1,0 +1,18 @@
+{
+  "urn": "108581",
+  "name": "Holystone Primary School",
+  "address": "Whitley Road",
+  "locality": "Holystone",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE27 0DA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "430335",
+  "northing": "570536",
+  "url": "www.holystoneprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

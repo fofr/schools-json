@@ -1,0 +1,18 @@
+{
+  "urn": "112389",
+  "name": "Walney School",
+  "address": "Sandy Gap Lane",
+  "locality": "Walney",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA14 3JT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "317807",
+  "northing": "468386",
+  "url": "http://www.walneyschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105791",
+  "name": "Elm Wood Primary School",
+  "address": "Elm Street",
+  "locality": "Middleton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M24 2EG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "388476",
+  "northing": "405836",
+  "url": "www.elmwood.ik.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

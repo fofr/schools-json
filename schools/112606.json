@@ -1,0 +1,18 @@
+{
+  "urn": "112606",
+  "name": "Park House Primary School",
+  "address": "Rupert Street",
+  "locality": "Lower Pilsley",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S45 8DB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "441574",
+  "northing": "363572",
+  "url": "www.parkhouse.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

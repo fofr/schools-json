@@ -1,0 +1,18 @@
+{
+  "urn": "116668",
+  "name": "Clifford Primary School",
+  "address": "Clifford",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR3 5HA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "326820",
+  "northing": "244509",
+  "url": "http://www.clifford.hereford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

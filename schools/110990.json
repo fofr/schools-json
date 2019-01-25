@@ -1,0 +1,18 @@
+{
+  "urn": "110990",
+  "name": "Moore Primary School",
+  "address": "Lindfield Close",
+  "locality": "Moore",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 6UG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "357477",
+  "northing": "384379",
+  "url": "www.mooreprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

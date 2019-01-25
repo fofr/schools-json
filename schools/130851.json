@@ -1,0 +1,18 @@
+{
+  "urn": "130851",
+  "name": "New College Swindon",
+  "address": "New College Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN3 1AH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "416894",
+  "northing": "184352",
+  "url": "http://www.newcollege.co.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

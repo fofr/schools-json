@@ -1,0 +1,18 @@
+{
+  "urn": "110878",
+  "name": "St Neots Community College",
+  "address": "Barford Road",
+  "locality": "Eynesbury",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 2SH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518262",
+  "northing": "258898",
+  "url": "http://www.stneotscc.cambs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

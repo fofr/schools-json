@@ -1,0 +1,18 @@
+{
+  "urn": "119176",
+  "name": "Marsden Community Primary School",
+  "address": "Percy Street",
+  "locality": "",
+  "address3": "",
+  "town": "Nelson",
+  "county": "Lancashire",
+  "postcode": "BB9 0BE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "385957",
+  "northing": "437334",
+  "url": "www.marsdenschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

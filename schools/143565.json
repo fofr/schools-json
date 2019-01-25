@@ -1,0 +1,18 @@
+{
+  "urn": "143565",
+  "name": "Atlas Community Primary School",
+  "address": "Lincoln Close",
+  "locality": "Manningham",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD8 8DL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415177",
+  "northing": "434009",
+  "url": "http://www.atlasprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

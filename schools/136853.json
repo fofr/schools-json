@@ -1,0 +1,18 @@
+{
+  "urn": "136853",
+  "name": "Oxley Park Academy",
+  "address": "Redgrave Drive",
+  "locality": "Oxley Park",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK4 4TA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "482329",
+  "northing": "235232",
+  "url": "www.oxleyparkacademy.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145689",
+  "name": "Crooksbarn Primary School",
+  "address": "Petrel Crescent",
+  "locality": "Crooksbarn Estate",
+  "address3": "Norton",
+  "town": "Stockton-on-Tees",
+  "county": "",
+  "postcode": "TS20 1SN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "444281",
+  "northing": "522718",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

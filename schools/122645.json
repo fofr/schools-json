@@ -1,0 +1,18 @@
+{
+  "urn": "122645",
+  "name": "Queen Eleanor Primary School",
+  "address": "Harby",
+  "locality": "",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG23 7EQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "487992",
+  "northing": "371101",
+  "url": "www.queeneleanor.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

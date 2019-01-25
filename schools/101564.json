@@ -1,0 +1,18 @@
+{
+  "urn": "101564",
+  "name": "Newman Catholic College",
+  "address": "Harlesden Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW10 3RN",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "522218",
+  "northing": "183549",
+  "url": "www.ncc.brent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

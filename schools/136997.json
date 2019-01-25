@@ -1,0 +1,18 @@
+{
+  "urn": "136997",
+  "name": "Bowland High",
+  "address": "Riversmead",
+  "locality": "Sawley Road",
+  "address3": "Grindleton",
+  "town": "Clitheroe",
+  "county": "Lancashire",
+  "postcode": "BB7 4QS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "376943",
+  "northing": "446225",
+  "url": "www.bowlandhigh.lancs.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

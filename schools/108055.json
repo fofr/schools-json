@@ -1,0 +1,18 @@
+{
+  "urn": "108055",
+  "name": "Lawnswood School",
+  "address": "Ring Road",
+  "locality": "West Park",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS16 5AG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426743",
+  "northing": "437814",
+  "url": "http://www.lawnswoodschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

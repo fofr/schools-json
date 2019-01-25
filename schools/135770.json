@@ -1,0 +1,18 @@
+{
+  "urn": "135770",
+  "name": "Essa Academy",
+  "address": "Lever Edge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Greater Manchester",
+  "postcode": "BL3 3HH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "370519",
+  "northing": "406744",
+  "url": "http://www.essaacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

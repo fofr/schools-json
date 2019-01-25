@@ -1,0 +1,18 @@
+{
+  "urn": "109673",
+  "name": "Harlington Upper School",
+  "address": "Goswell End Road",
+  "locality": "Harlington",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 6NX",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "504006",
+  "northing": "230993",
+  "url": "http://www.harlington.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

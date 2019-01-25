@@ -1,0 +1,18 @@
+{
+  "urn": "103236",
+  "name": "Nansen Primary School",
+  "address": "Naseby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B8 3HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "410621",
+  "northing": "288154",
+  "url": "http://www.nansen.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

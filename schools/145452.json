@@ -1,0 +1,18 @@
+{
+  "urn": "145452",
+  "name": "College Park Infant School",
+  "address": "Crofton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO2 0LB",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "465545",
+  "northing": "102487",
+  "url": "http://www.collegepark.portsmouth.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

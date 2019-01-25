@@ -1,0 +1,18 @@
+{
+  "urn": "116430",
+  "name": "The Clere School",
+  "address": "Earlstone Common",
+  "locality": "Burghclere",
+  "address3": "",
+  "town": "Newbury",
+  "county": "Berkshire",
+  "postcode": "RG20 9HP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "447386",
+  "northing": "161364",
+  "url": "http://www.clere.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

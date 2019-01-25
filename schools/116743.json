@@ -1,0 +1,18 @@
+{
+  "urn": "116743",
+  "name": "Walford Primary School",
+  "address": "Walford",
+  "locality": "",
+  "address3": "",
+  "town": "Ross-on-Wye",
+  "county": "Herefordshire",
+  "postcode": "HR9 5SA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "359307",
+  "northing": "220990",
+  "url": "http://www.walfordprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138289",
+  "name": "Burford School",
+  "address": "Cheltenham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Burford",
+  "county": "Oxfordshire",
+  "postcode": "OX18 4PL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "424805",
+  "northing": "211721",
+  "url": "http://www.burford.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

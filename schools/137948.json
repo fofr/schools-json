@@ -1,0 +1,18 @@
+{
+  "urn": "137948",
+  "name": "Samuel Whitbread Academy",
+  "address": "Shefford Road",
+  "locality": "Clifton",
+  "address3": "",
+  "town": "Shefford",
+  "county": "Bedfordshire",
+  "postcode": "SG17 5QS",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "515448",
+  "northing": "238938",
+  "url": "http://www.samuelwhitbread.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

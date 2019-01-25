@@ -1,0 +1,18 @@
+{
+  "urn": "136573",
+  "name": "Penrice Academy",
+  "address": "Charlestown Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL25 3NR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "203029",
+  "northing": "52273",
+  "url": "www.penriceacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

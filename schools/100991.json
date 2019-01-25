@@ -1,0 +1,18 @@
+{
+  "urn": "100991",
+  "name": "Eastwood Nursery School",
+  "address": "168 Roehampton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW15 4EU",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "521997",
+  "northing": "174014",
+  "url": "www.eastwood.wandsworth.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

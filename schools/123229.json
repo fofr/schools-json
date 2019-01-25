@@ -1,0 +1,18 @@
+{
+  "urn": "123229",
+  "name": "Drayton School",
+  "address": "Drayton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 0UD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "443427",
+  "northing": "241708",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

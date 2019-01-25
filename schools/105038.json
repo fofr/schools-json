@@ -1,0 +1,18 @@
+{
+  "urn": "105038",
+  "name": "Heswall Primary School",
+  "address": "Whitfield Lane",
+  "locality": "Heswall",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH60 7SD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "327444",
+  "northing": "382380",
+  "url": "www.heswall-primary.wirral.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

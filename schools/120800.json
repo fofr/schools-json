@@ -1,0 +1,18 @@
+{
+  "urn": "120800",
+  "name": "Costessey Infant School",
+  "address": "Beaumont Road",
+  "locality": "Costessey",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR5 0HG",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "618703",
+  "northing": "310314",
+  "url": "http://www.costessey-inf.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

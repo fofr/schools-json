@@ -1,0 +1,18 @@
+{
+  "urn": "138535",
+  "name": "Simpson's Lane Academy",
+  "address": "Sycamore Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Knottingley",
+  "county": "West Yorkshire",
+  "postcode": "WF11 0PL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448823",
+  "northing": "423141",
+  "url": "www.simpsonslane.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

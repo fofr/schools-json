@@ -1,0 +1,18 @@
+{
+  "urn": "117345",
+  "name": "Stonehill School",
+  "address": "Western Close",
+  "locality": "",
+  "address3": "",
+  "town": "Letchworth Garden City",
+  "county": "Hertfordshire",
+  "postcode": "SG6 4SZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521251",
+  "northing": "234384",
+  "url": "http://www.stonehill.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

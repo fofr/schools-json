@@ -1,0 +1,18 @@
+{
+  "urn": "118427",
+  "name": "Skinner Street Primary School",
+  "address": "Skinner Street",
+  "locality": "",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME7 1LG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "577257",
+  "northing": "168594",
+  "url": "http://www.skinnerstreet.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

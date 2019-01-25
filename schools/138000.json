@@ -1,0 +1,18 @@
+{
+  "urn": "138000",
+  "name": "St. George's Church of England Academy",
+  "address": "Neasham Road",
+  "locality": "Middleton St George",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL2 1LD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434380",
+  "northing": "513302",
+  "url": "www.stgeorges-darlington.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

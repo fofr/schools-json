@@ -1,0 +1,18 @@
+{
+  "urn": "123125",
+  "name": "Benson Church of England Primary School",
+  "address": "Oxford Road",
+  "locality": "Benson",
+  "address3": "",
+  "town": "Wallingford",
+  "county": "Oxfordshire",
+  "postcode": "OX10 6LX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "461554",
+  "northing": "191789",
+  "url": "www.bensoncofeprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

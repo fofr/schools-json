@@ -1,0 +1,18 @@
+{
+  "urn": "140327",
+  "name": "Green Oaks Primary Academy",
+  "address": "Whiston Road",
+  "locality": "Kingsthorpe",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN2 7RR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "475781",
+  "northing": "263656",
+  "url": "http://www.greenoaksprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

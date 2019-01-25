@@ -1,0 +1,18 @@
+{
+  "urn": "136405",
+  "name": "Wigmore School",
+  "address": "Ford Street",
+  "locality": "Wigmore",
+  "address3": "",
+  "town": "Leominster",
+  "county": "Herefordshire",
+  "postcode": "HR6 9UW",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "341646",
+  "northing": "268877",
+  "url": "http://www.wigmoreschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

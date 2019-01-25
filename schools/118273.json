@@ -1,0 +1,18 @@
+{
+  "urn": "118273",
+  "name": "Hadlow Primary School",
+  "address": "Hadlow",
+  "locality": "",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN11 0EH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "563334",
+  "northing": "149843",
+  "url": "www.hadlow.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

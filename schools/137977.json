@@ -1,0 +1,18 @@
+{
+  "urn": "137977",
+  "name": "Washingborough Academy",
+  "address": "School Lane",
+  "locality": "Washingborough",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN4 1BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "502186",
+  "northing": "370665",
+  "url": "http://www.washingboroughacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

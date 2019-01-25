@@ -1,0 +1,18 @@
+{
+  "urn": "139441",
+  "name": "Mercenfeld Primary School",
+  "address": "Oakfield Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Markfield",
+  "county": "Leicestershire",
+  "postcode": "LE67 9WG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "448955",
+  "northing": "309746",
+  "url": "http://www.mercenfeld.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

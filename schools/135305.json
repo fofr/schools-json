@@ -1,0 +1,18 @@
+{
+  "urn": "135305",
+  "name": "Spires Academy",
+  "address": "Bredlands Lane",
+  "locality": "Sturry",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT2 0HD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "619494",
+  "northing": "161797",
+  "url": "http://www.spiresacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103550",
+  "name": "Great Barr School",
+  "address": "Aldridge Road",
+  "locality": "Great Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B44 8NU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "406673",
+  "northing": "294247",
+  "url": "http://www.greatbarrschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

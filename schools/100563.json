@@ -1,0 +1,18 @@
+{
+  "urn": "100563",
+  "name": "Norwood Park School",
+  "address": "Gipsy Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE27 9TG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532365",
+  "northing": "171647",
+  "url": "http://www.norwoodpark.lambeth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

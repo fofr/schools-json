@@ -1,0 +1,18 @@
+{
+  "urn": "142604",
+  "name": "University Technical College Leeds",
+  "address": "2 Sayner Road",
+  "locality": "Hunslet",
+  "address3": "",
+  "town": "Leeds",
+  "county": "",
+  "postcode": "LS10 1LA",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "430773",
+  "northing": "432536",
+  "url": "www.utcleeds.com",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

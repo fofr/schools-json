@@ -1,0 +1,18 @@
+{
+  "urn": "103684",
+  "name": "Stoke Heath Primary School",
+  "address": "Heath Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV2 4PR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "435261",
+  "northing": "280570",
+  "url": "www.stokeheath.coventry.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

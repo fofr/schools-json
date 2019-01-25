@@ -1,0 +1,18 @@
+{
+  "urn": "110049",
+  "name": "Edgbarrow School",
+  "address": "Grant Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crowthorne",
+  "county": "Berkshire",
+  "postcode": "RG45 7HZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "484078",
+  "northing": "163348",
+  "url": "http://www.edgbarrowschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138805",
+  "name": "Broomfield Community Primary School",
+  "address": "Ploughmans Lea",
+  "locality": "East Goscote",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE7 3ZQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "464147",
+  "northing": "313343",
+  "url": "www.broomfieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

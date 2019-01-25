@@ -1,0 +1,18 @@
+{
+  "urn": "105005",
+  "name": "Lingham Primary School",
+  "address": "Townmeadow Lane",
+  "locality": "Moreton",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH46 7UQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "325720",
+  "northing": "390192",
+  "url": "www.linghamprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

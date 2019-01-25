@@ -1,0 +1,18 @@
+{
+  "urn": "146221",
+  "name": "Childeric Primary School",
+  "address": "Childeric Road",
+  "locality": "New Cross",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE14 6DG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536358",
+  "northing": "177160",
+  "url": "www.childericprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

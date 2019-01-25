@@ -1,0 +1,18 @@
+{
+  "urn": "118555",
+  "name": "Hempstead Infant School",
+  "address": "Hempstead Road",
+  "locality": "Hempstead",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME7 3QG",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "579161",
+  "northing": "164155",
+  "url": "www.hempsteadschoolsfederation.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

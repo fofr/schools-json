@@ -1,0 +1,18 @@
+{
+  "urn": "138833",
+  "name": "Ashby School",
+  "address": "Nottingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashby-de-la-Zouch",
+  "county": "Leicestershire",
+  "postcode": "LE65 1DT",
+  "minimum_age": "14",
+  "maximum_age": "18",
+  "easting": "436322",
+  "northing": "316895",
+  "url": "http://www.ashbyschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

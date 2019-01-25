@@ -1,0 +1,18 @@
+{
+  "urn": "123373",
+  "name": "Hodnet Primary School",
+  "address": "Shrewsbury Street",
+  "locality": "Hodnet",
+  "address3": "",
+  "town": "Market Drayton",
+  "county": "Shropshire",
+  "postcode": "TF9 3NS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "361539",
+  "northing": "328072",
+  "url": "www.hodnetschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

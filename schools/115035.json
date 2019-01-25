@@ -1,0 +1,18 @@
+{
+  "urn": "115035",
+  "name": "Larkrise Primary School",
+  "address": "Dorset Avenue",
+  "locality": "Great Baddow",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM2 9UB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "572175",
+  "northing": "204739",
+  "url": "www.larkrise.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

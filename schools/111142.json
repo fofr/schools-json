@@ -1,0 +1,18 @@
+{
+  "urn": "111142",
+  "name": "Gainsborough Nursery and Infant School",
+  "address": "Denver Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW2 7PX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "369909",
+  "northing": "355168",
+  "url": "http://www.gainsboroughinfantschool.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

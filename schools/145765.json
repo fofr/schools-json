@@ -1,0 +1,18 @@
+{
+  "urn": "145765",
+  "name": "Woolacombe School",
+  "address": "Beach Road",
+  "locality": "",
+  "address3": "",
+  "town": "Woolacombe",
+  "county": "Devon",
+  "postcode": "EX34 7BT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "246130",
+  "northing": "143717",
+  "url": "http://www.woolacombe.devon.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

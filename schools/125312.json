@@ -1,0 +1,18 @@
+{
+  "urn": "125312",
+  "name": "Salesian School, Chertsey",
+  "address": "Guildford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chertsey",
+  "county": "Surrey",
+  "postcode": "KT16 9LU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "503187",
+  "northing": "165789",
+  "url": "http://www.salesian.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

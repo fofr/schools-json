@@ -1,0 +1,18 @@
+{
+  "urn": "118094",
+  "name": "South Axholme Community School",
+  "address": "Burnham Road",
+  "locality": "Epworth",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN9 1BY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "477897",
+  "northing": "403755",
+  "url": "http://www.southaxholme.doncaster.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

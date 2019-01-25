@@ -1,0 +1,18 @@
+{
+  "urn": "112480",
+  "name": "Whitecross Nursery School",
+  "address": "Watson Street",
+  "locality": "",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE1 3PJ",
+  "minimum_age": "3",
+  "maximum_age": "4",
+  "easting": "434377",
+  "northing": "337027",
+  "url": "www.whitecross.derby.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

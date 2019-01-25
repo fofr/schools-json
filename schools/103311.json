@@ -1,0 +1,18 @@
+{
+  "urn": "103311",
+  "name": "Westminster Infant School",
+  "address": "Westminster Road",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B20 3LJ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "406445",
+  "northing": "290227",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

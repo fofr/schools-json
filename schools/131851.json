@@ -1,0 +1,18 @@
+{
+  "urn": "131851",
+  "name": "Leagrave Primary School",
+  "address": "Strangers Way",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU4 9ND",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "505203",
+  "northing": "223649",
+  "url": "http://www.leagraveprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

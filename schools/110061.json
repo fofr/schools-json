@@ -1,0 +1,18 @@
+{
+  "urn": "110061",
+  "name": "Forest School",
+  "address": "Robin Hood Lane",
+  "locality": "Winnersh",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG41 5NE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "478138",
+  "northing": "170889",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

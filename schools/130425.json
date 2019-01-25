@@ -1,0 +1,18 @@
+{
+  "urn": "130425",
+  "name": "Barnet and Southgate College",
+  "address": "Wood Street",
+  "locality": "",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN5 4AZ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "524585",
+  "northing": "196408",
+  "url": "www.barnetsouthgate.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143905",
+  "name": "Southam College",
+  "address": "Welsh Road West",
+  "locality": "",
+  "address3": "",
+  "town": "Southam",
+  "county": "Warwickshire",
+  "postcode": "CV47 0JW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "441444",
+  "northing": "262297",
+  "url": "http://www.southamcollege.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

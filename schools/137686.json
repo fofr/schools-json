@@ -1,0 +1,18 @@
+{
+  "urn": "137686",
+  "name": "Arnside National CofE School",
+  "address": "Church Hill",
+  "locality": "Arnside",
+  "address3": "",
+  "town": "Carnforth",
+  "county": "Lancashire",
+  "postcode": "LA5 0DW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "345826",
+  "northing": "478701",
+  "url": "http://www.arnside.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

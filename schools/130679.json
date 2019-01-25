@@ -1,0 +1,18 @@
+{
+  "urn": "130679",
+  "name": "Chelmsford College",
+  "address": "Moulsham Street",
+  "locality": "",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM2 0JQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "570451",
+  "northing": "205779",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

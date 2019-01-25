@@ -1,0 +1,18 @@
+{
+  "urn": "123705",
+  "name": "Sampford Arundel Community Primary School",
+  "address": "Sampford Arundel",
+  "locality": "",
+  "address3": "",
+  "town": "Wellington",
+  "county": "Somerset",
+  "postcode": "TA21 9QN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "310860",
+  "northing": "118895",
+  "url": "www.sampfordarundelprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

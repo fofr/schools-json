@@ -1,0 +1,18 @@
+{
+  "urn": "112388",
+  "name": "Millom School",
+  "address": "Salthouse Road",
+  "locality": "",
+  "address3": "",
+  "town": "Millom",
+  "county": "Cumbria",
+  "postcode": "LA18 5AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "317309",
+  "northing": "480455",
+  "url": "http://www.millom.cumbria.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

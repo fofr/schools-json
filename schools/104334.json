@@ -1,0 +1,18 @@
+{
+  "urn": "104334",
+  "name": "Merridale Primary School",
+  "address": "Aspen Way",
+  "locality": "",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV3 0UP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "390196",
+  "northing": "298107",
+  "url": "www.merridaleprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

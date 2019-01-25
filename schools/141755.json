@@ -1,0 +1,18 @@
+{
+  "urn": "141755",
+  "name": "Ad Astra Infant School",
+  "address": "Sherborn Crescent",
+  "locality": "Canford Heath",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH17 8AP",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "402532",
+  "northing": "94463",
+  "url": "www.adastra.poole.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

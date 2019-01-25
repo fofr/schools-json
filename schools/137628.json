@@ -1,0 +1,18 @@
+{
+  "urn": "137628",
+  "name": "The Joseph Whitaker School",
+  "address": "Warsop Lane",
+  "locality": "Rainworth",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG21 0AG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458916",
+  "northing": "357844",
+  "url": "http://www.josephwhitaker.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

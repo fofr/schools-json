@@ -1,0 +1,18 @@
+{
+  "urn": "107235",
+  "name": "Shirley Manor Primary School",
+  "address": "Methuen Oval",
+  "locality": "Wyke",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD12 8SA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415227",
+  "northing": "426339",
+  "url": "http://www.shirleymanor.ngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

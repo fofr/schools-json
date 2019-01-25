@@ -1,0 +1,18 @@
+{
+  "urn": "137521",
+  "name": "The Brooksbank School",
+  "address": "Victoria Road",
+  "locality": "",
+  "address3": "",
+  "town": "Elland",
+  "county": "West Yorkshire",
+  "postcode": "HX5 0QG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "410072",
+  "northing": "420543",
+  "url": "http://www.bbs.calderdale.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122197",
+  "name": "Red Row First School",
+  "address": "Red Row",
+  "locality": "",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE61 5AS",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "425425",
+  "northing": "599155",
+  "url": "www.redrow.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

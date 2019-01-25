@@ -1,0 +1,18 @@
+{
+  "urn": "111464",
+  "name": "Fallibroome High School",
+  "address": "Priory Lane",
+  "locality": "Upton",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK10 4AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "389313",
+  "northing": "374793",
+  "url": "http://www.fallibroome.cheshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141363",
+  "name": "The Oakwood Academy",
+  "address": "Bewcastle Road",
+  "locality": "Warren Hill",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 9PJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "456478",
+  "northing": "346760",
+  "url": "http://www.oakwoodacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

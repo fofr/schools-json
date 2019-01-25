@@ -1,0 +1,18 @@
+{
+  "urn": "133561",
+  "name": "Jo Richardson Community School",
+  "address": "Gale Street",
+  "locality": "Castle Green",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM9 4UN",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "547584",
+  "northing": "183747",
+  "url": "http://jorichardson.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

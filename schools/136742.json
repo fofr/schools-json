@@ -1,0 +1,18 @@
+{
+  "urn": "136742",
+  "name": "Lancaster Royal Grammar School",
+  "address": "East Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lancaster",
+  "county": "Lancashire",
+  "postcode": "LA1 3EF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "348363",
+  "northing": "461536",
+  "url": "http://www.lrgs.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

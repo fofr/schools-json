@@ -1,0 +1,18 @@
+{
+  "urn": "140716",
+  "name": "Estcourt Primary Academy",
+  "address": "Estcourt Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU9 2RP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511752",
+  "northing": "429849",
+  "url": "www.estcourtprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

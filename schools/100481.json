@@ -1,0 +1,18 @@
+{
+  "urn": "100481",
+  "name": "Colville Primary School",
+  "address": "Lonsdale Road",
+  "locality": "Portobello Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W11 2DF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "524779",
+  "northing": "181067",
+  "url": "http://www.colville.rbkc.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

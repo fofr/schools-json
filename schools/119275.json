@@ -1,0 +1,18 @@
+{
+  "urn": "119275",
+  "name": "Edisford Primary School",
+  "address": "Edisford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Clitheroe",
+  "county": "Lancashire",
+  "postcode": "BB7 2LN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "373421",
+  "northing": "441493",
+  "url": "http://www.edisford.lancsngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

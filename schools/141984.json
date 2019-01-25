@@ -1,0 +1,18 @@
+{
+  "urn": "141984",
+  "name": "St Margaret's Primary Academy",
+  "address": "Church Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR32 4JF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "654551",
+  "northing": "294129",
+  "url": "http://www.st-margarets.suffolk.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

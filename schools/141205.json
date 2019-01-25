@@ -1,0 +1,18 @@
+{
+  "urn": "141205",
+  "name": "Knowsley Lane Primary School",
+  "address": "Astley Road",
+  "locality": "Huyton",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L36 8DB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "344271",
+  "northing": "392636",
+  "url": "www.knowsleylane.knowsley.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

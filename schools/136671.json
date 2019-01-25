@@ -1,0 +1,18 @@
+{
+  "urn": "136671",
+  "name": "Kirkbie Kendal School",
+  "address": "Lound Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kendal",
+  "county": "Cumbria",
+  "postcode": "LA9 7EQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "351883",
+  "northing": "491570",
+  "url": "http://www.kirkbiekendal.cumbria.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

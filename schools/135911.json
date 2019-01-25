@@ -1,0 +1,18 @@
+{
+  "urn": "135911",
+  "name": "Shenley Academy",
+  "address": "Shenley Lane",
+  "locality": "",
+  "address3": "Northfield",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B29 4HE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "401668",
+  "northing": "281322",
+  "url": "http://www.shenleyacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101605",
+  "name": "Mottingham Primary School",
+  "address": "Ravensworth Road",
+  "locality": "Mottingham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 4LW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "542749",
+  "northing": "172064",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

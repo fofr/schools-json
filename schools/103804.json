@@ -1,0 +1,18 @@
+{
+  "urn": "103804",
+  "name": "Lutley Primary School",
+  "address": "Brookwillow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Halesowen",
+  "county": "West Midlands",
+  "postcode": "B63 1BU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "394895",
+  "northing": "282485",
+  "url": "http://www.lutley.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112609",
+  "name": "Longwood Community Infant School",
+  "address": "Wharf Road",
+  "locality": "Pinxton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Derbyshire",
+  "postcode": "NG16 6PA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "445403",
+  "northing": "354537",
+  "url": "www.pvischools.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

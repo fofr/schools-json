@@ -1,0 +1,18 @@
+{
+  "urn": "129650",
+  "name": "Wellstead Primary School",
+  "address": "Wellstead Way",
+  "locality": "Hedge End",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO30 2LE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "448810",
+  "northing": "114764",
+  "url": "www.wellsteadprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

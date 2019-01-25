@@ -1,0 +1,18 @@
+{
+  "urn": "123566",
+  "name": "The Lakelands School, Sports and Language College",
+  "address": "Oswestry Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ellesmere",
+  "county": "Shropshire",
+  "postcode": "SY12 0EA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "339450",
+  "northing": "334443",
+  "url": "http://www.lakelands-school.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

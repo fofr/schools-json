@@ -1,0 +1,18 @@
+{
+  "urn": "110224",
+  "name": "East Claydon School",
+  "address": "St Mary's Road",
+  "locality": "East Claydon",
+  "address3": "",
+  "town": "Buckingham",
+  "county": "Buckinghamshire",
+  "postcode": "MK18 2LS",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "473483",
+  "northing": "225023",
+  "url": "www.eastclaydon.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

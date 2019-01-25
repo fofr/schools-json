@@ -1,0 +1,18 @@
+{
+  "urn": "114053",
+  "name": "Hamsterley Primary School",
+  "address": "Hamsterley",
+  "locality": "",
+  "address3": "",
+  "town": "Bishop Auckland",
+  "county": "County Durham",
+  "postcode": "DL13 3QF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "411470",
+  "northing": "531008",
+  "url": "www.hamsterley.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

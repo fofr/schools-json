@@ -1,0 +1,18 @@
+{
+  "urn": "111923",
+  "name": "Trevisker Community Primary School",
+  "address": "Warwick Crescent",
+  "locality": "St Eval",
+  "address3": "",
+  "town": "Wadebridge",
+  "county": "Cornwall",
+  "postcode": "PL27 7UD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "188696",
+  "northing": "68540",
+  "url": "http://www.trevisker.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

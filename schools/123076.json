@@ -1,0 +1,18 @@
+{
+  "urn": "123076",
+  "name": "John Hampden Primary School",
+  "address": "Park Street",
+  "locality": "",
+  "address3": "",
+  "town": "Thame",
+  "county": "Oxfordshire",
+  "postcode": "OX9 3HU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "471033",
+  "northing": "205366",
+  "url": "http://www.john-hampden.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

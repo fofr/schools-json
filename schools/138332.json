@@ -1,0 +1,18 @@
+{
+  "urn": "138332",
+  "name": "The Vale Primary Academy",
+  "address": "Ferrybridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Knottingley",
+  "county": "West Yorkshire",
+  "postcode": "WF11 8JF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448879",
+  "northing": "423927",
+  "url": "www.thevpacademy.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

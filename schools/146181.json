@@ -1,0 +1,18 @@
+{
+  "urn": "146181",
+  "name": "Hockley Primary School",
+  "address": "Chevening Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Hockley",
+  "county": "Essex",
+  "postcode": "SS5 4UR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "583330",
+  "northing": "192784",
+  "url": "http://www.hockley.essex.sch.uk.",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

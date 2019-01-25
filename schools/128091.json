@@ -1,0 +1,18 @@
+{
+  "urn": "128091",
+  "name": "Harefield Primary School",
+  "address": "Yeovil Chase",
+  "locality": "Bitterne",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO18 5NZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445995",
+  "northing": "113679",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

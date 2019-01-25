@@ -1,0 +1,18 @@
+{
+  "urn": "136283",
+  "name": "Heckmondwike Grammar School",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Heckmondwike",
+  "county": "West Yorkshire",
+  "postcode": "WF16 0AH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "421932",
+  "northing": "423558",
+  "url": "http://www.heckgrammar.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

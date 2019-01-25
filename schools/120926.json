@@ -1,0 +1,18 @@
+{
+  "urn": "120926",
+  "name": "Attleborough Primary School",
+  "address": "Besthorpe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Attleborough",
+  "county": "Norfolk",
+  "postcode": "NR17 2NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "605147",
+  "northing": "295522",
+  "url": "http://www.attleborough-pri.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

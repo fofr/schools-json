@@ -1,0 +1,18 @@
+{
+  "urn": "124222",
+  "name": "St John's Infant School",
+  "address": "Card Street",
+  "locality": "Burslem",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 3BP",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "387010",
+  "northing": "349469",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

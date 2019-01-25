@@ -1,0 +1,18 @@
+{
+  "urn": "103333",
+  "name": "Heath Mount Primary School",
+  "address": "Knutsford Street",
+  "locality": "Balsall Heath",
+  "address3": "",
+  "town": "BIRMINGHAM",
+  "county": "West Midlands",
+  "postcode": "B12 9SR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407578",
+  "northing": "284703",
+  "url": "http://www.heathmountprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

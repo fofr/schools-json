@@ -1,0 +1,18 @@
+{
+  "urn": "116488",
+  "name": "Ashley Junior School",
+  "address": "Normans Way",
+  "locality": "Ashley Road",
+  "address3": "Ashley",
+  "town": "New Milton",
+  "county": "Hampshire",
+  "postcode": "BH25 5FN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "425395",
+  "northing": "95195",
+  "url": "www.ashleyjuniorschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

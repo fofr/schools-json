@@ -1,0 +1,18 @@
+{
+  "urn": "138750",
+  "name": "Skegness Infant Academy",
+  "address": "Cavendish Road",
+  "locality": "",
+  "address3": "",
+  "town": "Skegness",
+  "county": "Lincolnshire",
+  "postcode": "PE25 2QU",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "556331",
+  "northing": "363781",
+  "url": "www.skegnessinfantacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

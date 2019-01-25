@@ -1,0 +1,18 @@
+{
+  "urn": "123939",
+  "name": "Sky College",
+  "address": "Pickeridge Close",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA2 7HW",
+  "minimum_age": "10",
+  "maximum_age": "18",
+  "easting": "323483",
+  "northing": "126137",
+  "url": "www.skycollege.co.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

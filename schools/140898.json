@@ -1,0 +1,18 @@
+{
+  "urn": "140898",
+  "name": "Shaftesbury School",
+  "address": "Salisbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shaftesbury",
+  "county": "Dorset",
+  "postcode": "SP7 8ER",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "386850",
+  "northing": "122548",
+  "url": "http://www.shaftesburyschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

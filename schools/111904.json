@@ -1,0 +1,18 @@
+{
+  "urn": "111904",
+  "name": "Sandy Hill Community Primary School",
+  "address": "Sandy Hill",
+  "locality": "",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL25 3AT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "202898",
+  "northing": "52842",
+  "url": "www.sandy-hill.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

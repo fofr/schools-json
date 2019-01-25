@@ -1,0 +1,18 @@
+{
+  "urn": "127260",
+  "name": "Chatsworth County Infant School",
+  "address": "Chatsworth Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L7 6LJ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "336853",
+  "northing": "389619",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123448",
+  "name": "Radbrook Primary School",
+  "address": "Calverton Way",
+  "locality": "Bank Farm Road",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 6DZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "347581",
+  "northing": "311336",
+  "url": "www.radbrook.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135004",
+  "name": "The Harefield Academy",
+  "address": "Northwood Way",
+  "locality": "Harefield",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "",
+  "postcode": "UB9 6ET",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "505830",
+  "northing": "190837",
+  "url": "http://www.theharefieldacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

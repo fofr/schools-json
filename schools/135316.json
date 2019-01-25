@@ -1,0 +1,18 @@
+{
+  "urn": "135316",
+  "name": "Ashcroft Technology Academy",
+  "address": "100 West Hill",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW15 2UT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "524639",
+  "northing": "174575",
+  "url": "http://www.atacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

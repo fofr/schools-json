@@ -1,0 +1,18 @@
+{
+  "urn": "127814",
+  "name": "Westfield First School",
+  "address": "Burley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS3 1JP",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "428519",
+  "northing": "434323",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

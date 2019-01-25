@@ -1,0 +1,18 @@
+{
+  "urn": "141552",
+  "name": "St Andrew's CofE Primary School",
+  "address": "Sand Street",
+  "locality": "Soham",
+  "address3": "",
+  "town": "Ely",
+  "county": "Cambridgeshire",
+  "postcode": "CB7 5AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "559487",
+  "northing": "272570",
+  "url": "www.st-andrews-pri.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142122",
+  "name": "Twickenham Primary Academy",
+  "address": "57 Colne Road",
+  "locality": "",
+  "address3": "",
+  "town": "Twickenham",
+  "county": "Middlesex",
+  "postcode": "TW2 6QF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "515479",
+  "northing": "173083",
+  "url": "http://www.gemstwickenhamprimary.org/",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

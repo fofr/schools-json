@@ -1,0 +1,18 @@
+{
+  "urn": "143850",
+  "name": "Thomas Whitehead CofE Academy",
+  "address": "Angels Lane",
+  "locality": "Houghton Regis",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 5HH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "501846",
+  "northing": "224048",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

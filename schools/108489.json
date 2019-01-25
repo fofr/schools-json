@@ -1,0 +1,18 @@
+{
+  "urn": "108489",
+  "name": "Kenton Bar Primary School",
+  "address": "Ryal Walk",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE3 3YF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "421555",
+  "northing": "567940",
+  "url": "www.kentonbar.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

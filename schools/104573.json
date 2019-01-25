@@ -1,0 +1,18 @@
+{
+  "urn": "104573",
+  "name": "Roscoe Junior School",
+  "address": "Ballantyne Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L13 9AL",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "338454",
+  "northing": "393045",
+  "url": "www.roscoeschools.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

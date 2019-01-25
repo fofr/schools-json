@@ -1,0 +1,18 @@
+{
+  "urn": "100137",
+  "name": "Meridian Primary School",
+  "address": "Old Woolwich Road",
+  "locality": "Greenwich",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE10 9NY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538861",
+  "northing": "177987",
+  "url": "www.meridian.greenwich.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101908",
+  "name": "Viking Primary School",
+  "address": "Radcliffe Way",
+  "locality": "",
+  "address3": "",
+  "town": "Northolt",
+  "county": "",
+  "postcode": "UB5 6HW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511587",
+  "northing": "182837",
+  "url": "www.vikingprimary.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100916",
+  "name": "Olga Primary School",
+  "address": "Lanfranc Road",
+  "locality": "Bow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E3 5DN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536311",
+  "northing": "183145",
+  "url": "www.olga.towerhamlets.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

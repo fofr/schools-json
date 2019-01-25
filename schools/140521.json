@@ -1,0 +1,18 @@
+{
+  "urn": "140521",
+  "name": "South Avenue Primary School",
+  "address": "South Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 4SU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "591229",
+  "northing": "163193",
+  "url": "www.southavenue.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

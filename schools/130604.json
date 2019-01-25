@@ -1,0 +1,18 @@
+{
+  "urn": "130604",
+  "name": "Windsor Forest Colleges Group",
+  "address": "Station Road",
+  "locality": "Langley",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL3 8BY",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "501068",
+  "northing": "179527",
+  "url": "www.eastberks.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

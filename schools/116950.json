@@ -1,0 +1,18 @@
+{
+  "urn": "116950",
+  "name": "Tenbury High School",
+  "address": "Oldwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tenbury Wells",
+  "county": "Worcestershire",
+  "postcode": "WR15 8XA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "359316",
+  "northing": "267518",
+  "url": "http://www.tenburyhigh.worcs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

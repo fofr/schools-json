@@ -1,0 +1,18 @@
+{
+  "urn": "137824",
+  "name": "The Lincolnshire  Teaching and Learning Centre",
+  "address": "Smith Street",
+  "locality": "",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN5 8HY",
+  "minimum_age": "5",
+  "maximum_age": "19",
+  "easting": "497407",
+  "northing": "370073",
+  "url": "http://lincstlc.lincs.sch.uk/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

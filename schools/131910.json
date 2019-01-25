@@ -1,0 +1,18 @@
+{
+  "urn": "131910",
+  "name": "Langdon College",
+  "address": "9 Leicester Avenue",
+  "locality": "Salford",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M7 4HA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "383557",
+  "northing": "402027",
+  "url": "http://langdonuk.org/education",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Special post 16 institution"
+}

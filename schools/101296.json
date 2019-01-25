@@ -1,0 +1,18 @@
+{
+  "urn": "101296",
+  "name": "Northside Primary School",
+  "address": "2 Albert Street",
+  "locality": "North Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N12 8JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526149",
+  "northing": "192370",
+  "url": "www.northsideschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

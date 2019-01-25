@@ -1,0 +1,18 @@
+{
+  "urn": "107968",
+  "name": "Five Lanes Primary School",
+  "address": "Stradbroke Way",
+  "locality": "Wortley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 4NB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427161",
+  "northing": "432758",
+  "url": "www.fivelanesprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

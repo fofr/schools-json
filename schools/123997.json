@@ -1,0 +1,18 @@
+{
+  "urn": "123997",
+  "name": "Forest Park Primary School",
+  "address": "Woodall Street",
+  "locality": "Waterloo Road",
+  "address3": "Hanley",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST1 5ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387795",
+  "northing": "348435",
+  "url": "www.forestpark.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

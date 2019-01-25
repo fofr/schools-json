@@ -1,0 +1,18 @@
+{
+  "urn": "121674",
+  "name": "George Pindar School",
+  "address": "Moor Lane",
+  "locality": "Eastfield",
+  "address3": "",
+  "town": "Scarborough",
+  "county": "North Yorkshire",
+  "postcode": "YO11 3LW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "504799",
+  "northing": "483694",
+  "url": "http://gps.n-yorks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137280",
+  "name": "Chiltern Hills Academy",
+  "address": "Chartridge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chesham",
+  "county": "Buckinghamshire",
+  "postcode": "HP5 2RG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "495275",
+  "northing": "202063",
+  "url": "www.chilternhillsacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

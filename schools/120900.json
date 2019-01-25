@@ -1,0 +1,18 @@
+{
+  "urn": "120900",
+  "name": "Marham Infant School",
+  "address": "Cedar Road",
+  "locality": "Upper Marham",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE33 9LT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "571955",
+  "northing": "309583",
+  "url": "http://www.marhamairfield.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

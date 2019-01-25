@@ -1,0 +1,18 @@
+{
+  "urn": "100026",
+  "name": "Fitzjohn's Primary School",
+  "address": "86A Fitzjohn's Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW3 6NP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "526566",
+  "northing": "185411",
+  "url": "http://www.fitzjohns.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133943",
+  "name": "Sinclair Primary and Nursery School",
+  "address": "Sinclair Road",
+  "locality": "Lordshill",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 8GF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "439138",
+  "northing": "116400",
+  "url": "www.sinclairlive.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

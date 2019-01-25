@@ -1,0 +1,18 @@
+{
+  "urn": "111050",
+  "name": "Sandiway Primary School",
+  "address": "Weaverham Road",
+  "locality": "Sandiway",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 2ND",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "360513",
+  "northing": "371324",
+  "url": "www.sandiway.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

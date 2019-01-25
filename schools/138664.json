@@ -1,0 +1,18 @@
+{
+  "urn": "138664",
+  "name": "Waseley Hills High School",
+  "address": "School Road",
+  "locality": "Rubery",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B45 9EL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "397972",
+  "northing": "277040",
+  "url": "www.waseleyhills.worcs.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

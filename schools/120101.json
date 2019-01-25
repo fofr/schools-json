@@ -1,0 +1,18 @@
+{
+  "urn": "120101",
+  "name": "Slater Primary School",
+  "address": "Slater Street",
+  "locality": "",
+  "address3": "Frog Island",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 5AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458100",
+  "northing": "305256",
+  "url": "www.slater.leicester.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

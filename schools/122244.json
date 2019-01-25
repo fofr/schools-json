@@ -1,0 +1,18 @@
+{
+  "urn": "122244",
+  "name": "Belford Primary School",
+  "address": "West Street",
+  "locality": "",
+  "address3": "",
+  "town": "Belford",
+  "county": "Northumberland",
+  "postcode": "NE70 7QD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "410541",
+  "northing": "633734",
+  "url": "http://www.belfordprimary.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

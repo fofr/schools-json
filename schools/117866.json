@@ -1,0 +1,18 @@
+{
+  "urn": "117866",
+  "name": "Walkington Primary School",
+  "address": "Crake Wells",
+  "locality": "Walkington",
+  "address3": "",
+  "town": "Beverley",
+  "county": "",
+  "postcode": "HU17 8SB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "500250",
+  "northing": "437027",
+  "url": "http://walkingtonschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

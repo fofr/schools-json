@@ -1,0 +1,18 @@
+{
+  "urn": "102751",
+  "name": "Winsor Primary School",
+  "address": "East Ham Manor Way",
+  "locality": "Beckton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 5NA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "543168",
+  "northing": "181099",
+  "url": "www.winsor.newham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

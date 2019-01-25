@@ -1,0 +1,18 @@
+{
+  "urn": "144332",
+  "name": "Half Acres Primary Academy",
+  "address": "Temple Street",
+  "locality": "",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 5RE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442376",
+  "northing": "425101",
+  "url": "www.halfacres.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

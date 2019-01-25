@@ -1,0 +1,18 @@
+{
+  "urn": "130684",
+  "name": "Royal Forest of Dean College",
+  "address": "Five Acres Campus",
+  "locality": "Berry Hill",
+  "address3": "",
+  "town": "Coleford",
+  "county": "Gloucestershire",
+  "postcode": "GL16 7JT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "358232",
+  "northing": "212526",
+  "url": "http://www.rfdc.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

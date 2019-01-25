@@ -1,0 +1,18 @@
+{
+  "urn": "101994",
+  "name": "Hadley Wood Primary School",
+  "address": "Courtleigh Avenue",
+  "locality": "Hadley Wood",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN4 0HT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "526427",
+  "northing": "198404",
+  "url": "www.hadleywood.enfield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

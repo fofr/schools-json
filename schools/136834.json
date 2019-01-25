@@ -1,0 +1,18 @@
+{
+  "urn": "136834",
+  "name": "Farlingaye High School",
+  "address": "Ransom Road",
+  "locality": "",
+  "address3": "",
+  "town": "Woodbridge",
+  "county": "Suffolk",
+  "postcode": "IP12 4JX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "626393",
+  "northing": "249841",
+  "url": "http://www.farlingaye.suffolk.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

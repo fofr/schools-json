@@ -1,0 +1,18 @@
+{
+  "urn": "130402",
+  "name": "Kingsway College",
+  "address": "Gray's Inn Centre",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "WC1H 8JB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "530603",
+  "northing": "182565",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122856",
+  "name": "The Kimberley School",
+  "address": "Newdigate Street",
+  "locality": "Kimberley",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 2NJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "450278",
+  "northing": "344888",
+  "url": "www.kimberleyschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

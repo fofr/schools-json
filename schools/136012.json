@@ -1,0 +1,18 @@
+{
+  "urn": "136012",
+  "name": "Carisbrooke College",
+  "address": "Mountbatten Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Isle of Wight",
+  "postcode": "PO30 5QU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "448462",
+  "northing": "88795",
+  "url": "www.carisbrooke.iow.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

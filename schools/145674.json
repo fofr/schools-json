@@ -1,0 +1,18 @@
+{
+  "urn": "145674",
+  "name": "West Buckland Primary School",
+  "address": "West Buckland",
+  "locality": "",
+  "address3": "",
+  "town": "Wellington",
+  "county": "Somerset",
+  "postcode": "TA21 9LD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "317597",
+  "northing": "120303",
+  "url": "www.westbuckland.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100501",
+  "name": "Holland Park School",
+  "address": "Airlie Gardens",
+  "locality": "Campden Hill Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W8 7AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "524948",
+  "northing": "179954",
+  "url": "www.hollandpark.rbkc.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

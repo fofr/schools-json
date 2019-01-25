@@ -1,0 +1,18 @@
+{
+  "urn": "139578",
+  "name": "The Hathaway Academy",
+  "address": "Hathaway Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grays",
+  "county": "Essex",
+  "postcode": "RM17 5LL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "561722",
+  "northing": "179283",
+  "url": "http://hathawayacademy.attrust.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

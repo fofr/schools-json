@@ -1,0 +1,18 @@
+{
+  "urn": "132108",
+  "name": "Bristol Hospital Education Service",
+  "address": "Embleton Road",
+  "locality": "Southmead",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS10 6DS",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "358051",
+  "northing": "178592",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

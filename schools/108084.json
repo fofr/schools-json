@@ -1,0 +1,18 @@
+{
+  "urn": "108084",
+  "name": "Crawshaw School",
+  "address": "Robin Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Pudsey",
+  "county": "West Yorkshire",
+  "postcode": "LS28 9HU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "422713",
+  "northing": "432948",
+  "url": "http://www.crawshawschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

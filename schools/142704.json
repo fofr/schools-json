@@ -1,0 +1,18 @@
+{
+  "urn": "142704",
+  "name": "Godley Community Primary Academy",
+  "address": "St John's Drive",
+  "locality": "Godley",
+  "address3": "",
+  "town": "Hyde",
+  "county": "Cheshire",
+  "postcode": "SK14 2QB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "395710",
+  "northing": "395196",
+  "url": "www.godleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

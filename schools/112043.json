@@ -1,0 +1,18 @@
+{
+  "urn": "112043",
+  "name": "Helston Community College",
+  "address": "Church Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Helston",
+  "county": "Cornwall",
+  "postcode": "TR13 8NR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "166030",
+  "northing": "28115",
+  "url": "http://www.helston.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

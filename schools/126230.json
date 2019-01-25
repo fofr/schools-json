@@ -1,0 +1,18 @@
+{
+  "urn": "126230",
+  "name": "Upavon Primary School",
+  "address": "Watson Close",
+  "locality": "Upavon",
+  "address3": "",
+  "town": "Pewsey",
+  "county": "Wiltshire",
+  "postcode": "SN9 6AF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "414041",
+  "northing": "154442",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

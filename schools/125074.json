@@ -1,0 +1,18 @@
+{
+  "urn": "125074",
+  "name": "Barnsbury Infant School",
+  "address": "Hawthorn Road",
+  "locality": "Barnsbury",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU22 0BA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "499850",
+  "northing": "156937",
+  "url": "http://www.barnsbury-infant.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

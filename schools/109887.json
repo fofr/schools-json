@@ -1,0 +1,18 @@
+{
+  "urn": "109887",
+  "name": "Mrs Bland's Infant School",
+  "address": "Jordan's Lane",
+  "locality": "Burghfield Common",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG7 3LP",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "464851",
+  "northing": "166975",
+  "url": "www.mrsblandsinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

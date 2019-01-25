@@ -1,0 +1,18 @@
+{
+  "urn": "124392",
+  "name": "Paget High School",
+  "address": "Burton Road",
+  "locality": "Branston",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE14 3DR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "423188",
+  "northing": "321059",
+  "url": "http://paget.staffs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

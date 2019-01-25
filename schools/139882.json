@@ -1,0 +1,18 @@
+{
+  "urn": "139882",
+  "name": "St Mary's Catholic Primary School, Maidenhead",
+  "address": "Cookham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maidenhead",
+  "county": "Berkshire",
+  "postcode": "SL6 7EG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "488595",
+  "northing": "182184",
+  "url": "www.stmarys-maidenhead.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

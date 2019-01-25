@@ -1,0 +1,18 @@
+{
+  "urn": "123404",
+  "name": "Wombridge Primary School",
+  "address": "Hartshill",
+  "locality": "Oakengates",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF2 6AN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "369189",
+  "northing": "310904",
+  "url": "www.wombridgeprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

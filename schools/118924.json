@@ -1,0 +1,18 @@
+{
+  "urn": "118924",
+  "name": "Chaucer Technology School",
+  "address": "Spring Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT1 1SU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "616280",
+  "northing": "157311",
+  "url": "http://www.chaucer.ac.uk/index.htm",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

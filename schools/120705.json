@@ -1,0 +1,18 @@
+{
+  "urn": "120705",
+  "name": "The Gartree Community School",
+  "address": "Butts Lane",
+  "locality": "Tattershall",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN4 4PN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "521873",
+  "northing": "358101",
+  "url": "http://www.gartree.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

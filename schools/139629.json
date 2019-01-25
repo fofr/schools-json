@@ -1,0 +1,18 @@
+{
+  "urn": "139629",
+  "name": "Winifred Holtby Academy",
+  "address": "Midmere Avenue",
+  "locality": "Leads Road",
+  "address3": "Bransholme",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU7 4PW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "510903",
+  "northing": "433085",
+  "url": "http://www.winifredholtbyacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

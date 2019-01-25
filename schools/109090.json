@@ -1,0 +1,18 @@
+{
+  "urn": "109090",
+  "name": "Banwell Primary School",
+  "address": "West Street",
+  "locality": "",
+  "address3": "",
+  "town": "Banwell",
+  "county": "Somerset",
+  "postcode": "BS29 6DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "339696",
+  "northing": "159130",
+  "url": "www.banwellprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

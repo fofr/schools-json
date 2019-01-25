@@ -1,0 +1,18 @@
+{
+  "urn": "110893",
+  "name": "Orton Wistow Primary School",
+  "address": "Wistow Way",
+  "locality": "Orton Wistow",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 6GF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "514243",
+  "northing": "296696",
+  "url": "www.owps.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

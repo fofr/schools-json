@@ -1,0 +1,18 @@
+{
+  "urn": "124164",
+  "name": "Pirehill First School",
+  "address": "Tilling Drive",
+  "locality": "Walton",
+  "address3": "",
+  "town": "Stone",
+  "county": "Staffordshire",
+  "postcode": "ST15 0AA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "389925",
+  "northing": "332968",
+  "url": "http://www.pirehill.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

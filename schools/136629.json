@@ -1,0 +1,18 @@
+{
+  "urn": "136629",
+  "name": "Uppingham Community College",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Uppingham",
+  "county": "Rutland",
+  "postcode": "LE15 9TJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "486701",
+  "northing": "298778",
+  "url": "http://www.uppinghamcollege.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

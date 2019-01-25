@@ -1,0 +1,18 @@
+{
+  "urn": "100175",
+  "name": "St Peter's Catholic Primary School",
+  "address": "Crescent Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 7BN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "543728",
+  "northing": "178491",
+  "url": "www.stpeters.greenwich.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

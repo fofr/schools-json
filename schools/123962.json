@@ -1,0 +1,18 @@
+{
+  "urn": "123962",
+  "name": "Hednesford Nursery School",
+  "address": "Eskrett Street",
+  "locality": "Hednesford",
+  "address3": "",
+  "town": "Cannock",
+  "county": "Staffordshire",
+  "postcode": "WS12 1AR",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "400020",
+  "northing": "312245",
+  "url": "www.hednesford.staffs.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

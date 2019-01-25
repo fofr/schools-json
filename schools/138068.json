@@ -1,0 +1,18 @@
+{
+  "urn": "138068",
+  "name": "Weston Academy",
+  "address": "Weston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Totland Bay",
+  "county": "Isle of Wight",
+  "postcode": "PO39 0HA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "432422",
+  "northing": "86559",
+  "url": "www.westonprimaryacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

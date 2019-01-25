@@ -1,0 +1,18 @@
+{
+  "urn": "142468",
+  "name": "Southery Academy",
+  "address": "Westgate Street",
+  "locality": "Southery",
+  "address3": "",
+  "town": "Downham Market",
+  "county": "Norfolk",
+  "postcode": "PE38 0PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "562039",
+  "northing": "294525",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123714",
+  "name": "Parkfield Primary School",
+  "address": "Parkfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 4RT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "321908",
+  "northing": "124143",
+  "url": "www.parkfieldschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

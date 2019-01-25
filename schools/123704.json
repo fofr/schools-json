@@ -1,0 +1,18 @@
+{
+  "urn": "123704",
+  "name": "Blagdon Hill Primary School",
+  "address": "Howleigh Lane",
+  "locality": "Blagdon Hill",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA3 7SW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "320726",
+  "northing": "118666",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

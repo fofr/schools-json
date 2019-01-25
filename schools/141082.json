@@ -1,0 +1,18 @@
+{
+  "urn": "141082",
+  "name": "Oasis Academy Silvertown",
+  "address": "Rymill Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E16 2TX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "540700",
+  "northing": "180318",
+  "url": "http://www.oasisacademysilvertown.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

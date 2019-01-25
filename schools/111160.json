@@ -1,0 +1,18 @@
+{
+  "urn": "111160",
+  "name": "Wincham Community Primary School",
+  "address": "Church Street",
+  "locality": "Wincham",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW9 6EP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "368593",
+  "northing": "376355",
+  "url": "http://www.winchamcp.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

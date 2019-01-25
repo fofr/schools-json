@@ -1,0 +1,18 @@
+{
+  "urn": "104435",
+  "name": "Mackets Primary School",
+  "address": "Arncliffe Road",
+  "locality": "Halewood",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L25 9PB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "343607",
+  "northing": "386198",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

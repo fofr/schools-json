@@ -1,0 +1,18 @@
+{
+  "urn": "100025",
+  "name": "Gospel Oak Primary School",
+  "address": "Mansfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW3 2JB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528230",
+  "northing": "185638",
+  "url": "www.gospeloak.camden.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112728",
+  "name": "Pear Tree Infant School",
+  "address": "Pear Tree Street",
+  "locality": "Normanton",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE23 8PN",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "435476",
+  "northing": "334005",
+  "url": "www.peartreeinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

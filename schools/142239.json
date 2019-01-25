@@ -1,0 +1,18 @@
+{
+  "urn": "142239",
+  "name": "Fowey Primary School",
+  "address": "Windmill",
+  "locality": "",
+  "address3": "",
+  "town": "Fowey",
+  "county": "Cornwall",
+  "postcode": "PL23 1HH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "212045",
+  "northing": "51851",
+  "url": "http://www.fowey-ji.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

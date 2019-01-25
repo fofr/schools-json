@@ -1,0 +1,18 @@
+{
+  "urn": "137221",
+  "name": "Drayton Manor High School",
+  "address": "Drayton Bridge Road",
+  "locality": "Hanwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W7 1EU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "515577",
+  "northing": "180978",
+  "url": "http://www.draytonmanorhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

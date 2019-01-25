@@ -1,0 +1,18 @@
+{
+  "urn": "144611",
+  "name": "Samuel Barlow Primary Academy",
+  "address": "Church Road",
+  "locality": "Clipstone",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG21 9DF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "459046",
+  "northing": "363323",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

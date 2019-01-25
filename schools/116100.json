@@ -1,0 +1,18 @@
+{
+  "urn": "116100",
+  "name": "Northam Primary School",
+  "address": "Kent Street",
+  "locality": "Northam",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO14 5SP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443081",
+  "northing": "112447",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136830",
+  "name": "Elmlea Junior School",
+  "address": "The Dell",
+  "locality": "Westbury-on-Trym",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS9 3UF",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "356909",
+  "northing": "176396",
+  "url": "www.elmleajunior.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

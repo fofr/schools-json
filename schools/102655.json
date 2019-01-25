@@ -1,0 +1,18 @@
+{
+  "urn": "102655",
+  "name": "Hillcross Primary School",
+  "address": "Ashridge Way",
+  "locality": "",
+  "address3": "",
+  "town": "Morden",
+  "county": "Surrey",
+  "postcode": "SM4 4EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524580",
+  "northing": "168083",
+  "url": "www.hillcross.merton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

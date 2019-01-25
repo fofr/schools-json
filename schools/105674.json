@@ -1,0 +1,18 @@
+{
+  "urn": "105674",
+  "name": "Thorp Primary School",
+  "address": "Westerdale Drive",
+  "locality": "Royton",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL2 5TY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391380",
+  "northing": "408071",
+  "url": "www.thorp.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

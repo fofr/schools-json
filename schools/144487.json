@@ -1,0 +1,18 @@
+{
+  "urn": "144487",
+  "name": "Park Vale Academy",
+  "address": "Top Valley Drive",
+  "locality": "Top Valley",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 9AZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "455435",
+  "northing": "345999",
+  "url": "www.parkvaleacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

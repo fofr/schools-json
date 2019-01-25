@@ -1,0 +1,18 @@
+{
+  "urn": "107663",
+  "name": "Shepley First School",
+  "address": "Firth Street",
+  "locality": "Shepley",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD8 8DD",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "419426",
+  "northing": "409650",
+  "url": "www.shepleyschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

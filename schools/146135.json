@@ -1,0 +1,18 @@
+{
+  "urn": "146135",
+  "name": "Meon Infant School",
+  "address": "Shelford Road",
+  "locality": "Milton",
+  "address3": "",
+  "town": "Southsea",
+  "county": "Hampshire",
+  "postcode": "PO4 8NT",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "466778",
+  "northing": "99931",
+  "url": "www.meoninfant.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

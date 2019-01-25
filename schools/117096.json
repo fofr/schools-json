@@ -1,0 +1,18 @@
+{
+  "urn": "117096",
+  "name": "Shepherd Primary",
+  "address": "Shepherd's Lane",
+  "locality": "Mill End",
+  "address3": "",
+  "town": "Rickmansworth",
+  "county": "Hertfordshire",
+  "postcode": "WD3 8JJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "504180",
+  "northing": "194182",
+  "url": "http://www.shepherd.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

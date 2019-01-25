@@ -1,0 +1,18 @@
+{
+  "urn": "114041",
+  "name": "Burnhope Primary School",
+  "address": "Langley Avenue",
+  "locality": "Burnhope",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH7 0AG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418907",
+  "northing": "547966",
+  "url": "www.burnhope.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

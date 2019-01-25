@@ -1,0 +1,18 @@
+{
+  "urn": "114603",
+  "name": "Eastbourne Technology College",
+  "address": "Brodrick Road",
+  "locality": "",
+  "address3": "",
+  "town": "Eastbourne",
+  "county": "East Sussex",
+  "postcode": "BN22 9RQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "560033",
+  "northing": "102755",
+  "url": "http://www.etc-sch.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

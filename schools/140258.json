@@ -1,0 +1,18 @@
+{
+  "urn": "140258",
+  "name": "Astwood Bank Primary School",
+  "address": "Church Road",
+  "locality": "Astwood Bank",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B96 6EH",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "404253",
+  "northing": "262857",
+  "url": "http://www.astwoodbank.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

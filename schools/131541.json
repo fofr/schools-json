@@ -1,0 +1,18 @@
+{
+  "urn": "131541",
+  "name": "Allerton Primary School",
+  "address": "Allerton Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Immingham",
+  "county": "Lincolnshire",
+  "postcode": "DN40 2HP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518024",
+  "northing": "414918",
+  "url": "http://www.allertonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

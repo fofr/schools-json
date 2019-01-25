@@ -1,0 +1,18 @@
+{
+  "urn": "135351",
+  "name": "Shakespeare Primary School",
+  "address": "400 Honicknowle Lane",
+  "locality": "Honicknowle",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL5 3JU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "246907",
+  "northing": "58905",
+  "url": "http://www.shakespeare.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

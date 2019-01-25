@@ -1,0 +1,18 @@
+{
+  "urn": "142139",
+  "name": "Springwood Junior Academy",
+  "address": "Aughton Lane",
+  "locality": "Aston",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S26 2AL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "446064",
+  "northing": "385911",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

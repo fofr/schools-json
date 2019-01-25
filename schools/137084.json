@@ -1,0 +1,18 @@
+{
+  "urn": "137084",
+  "name": "The Voyager Academy",
+  "address": "Mountsteven Avenue",
+  "locality": "Walton",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE4 6HX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517497",
+  "northing": "302179",
+  "url": "http://www.thevoyager.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

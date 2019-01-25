@@ -1,0 +1,18 @@
+{
+  "urn": "140084",
+  "name": "The Horsell Village School",
+  "address": "Church Hill",
+  "locality": "Horsell",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 4QQ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "499619",
+  "northing": "159160",
+  "url": "www.horsell-village.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

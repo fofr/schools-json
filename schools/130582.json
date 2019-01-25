@@ -1,0 +1,18 @@
+{
+  "urn": "130582",
+  "name": "East Riding College",
+  "address": "Armstrong Way",
+  "locality": "",
+  "address3": "",
+  "town": "Beverley",
+  "county": "",
+  "postcode": "HU17 0GH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "503925",
+  "northing": "439440",
+  "url": "www.eastridingcollege.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

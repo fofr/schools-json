@@ -1,0 +1,18 @@
+{
+  "urn": "141032",
+  "name": "Rushden Primary Academy",
+  "address": "Goulsbra Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rushden",
+  "county": "Northamptonshire",
+  "postcode": "NN10 0YX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "496657",
+  "northing": "265613",
+  "url": "http://www.rushdenprimaryacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

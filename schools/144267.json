@@ -1,0 +1,18 @@
+{
+  "urn": "144267",
+  "name": "Woodthorpe Primary School",
+  "address": "Summerfield Road",
+  "locality": "Woodthorpe",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO24 2RU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457319",
+  "northing": "449290",
+  "url": "www.woodthorpeprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

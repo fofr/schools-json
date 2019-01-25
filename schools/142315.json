@@ -1,0 +1,18 @@
+{
+  "urn": "142315",
+  "name": "Oxted School",
+  "address": "Bluehouse Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Oxted",
+  "county": "Surrey",
+  "postcode": "RH8 0AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "539535",
+  "northing": "153125",
+  "url": "http://www.oxtedschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

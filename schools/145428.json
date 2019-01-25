@@ -1,0 +1,18 @@
+{
+  "urn": "145428",
+  "name": "Christchurch Junior School",
+  "address": "Clarendon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Christchurch",
+  "county": "Dorset",
+  "postcode": "BH23 2AA",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "415107",
+  "northing": "93362",
+  "url": "www.cjsdorset.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

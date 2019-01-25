@@ -1,0 +1,18 @@
+{
+  "urn": "102629",
+  "name": "Garfield Primary School",
+  "address": "Garfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wimbledon",
+  "county": "",
+  "postcode": "SW19 8SB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526333",
+  "northing": "170941",
+  "url": "www.garfield.merton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

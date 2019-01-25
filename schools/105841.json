@@ -1,0 +1,18 @@
+{
+  "urn": "105841",
+  "name": "The Queen Elizabeth School",
+  "address": "Hollin Lane",
+  "locality": "Middleton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M24 6XN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "386691",
+  "northing": "407821",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

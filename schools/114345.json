@@ -1,0 +1,18 @@
+{
+  "urn": "114345",
+  "name": "Villa Real School",
+  "address": "Villa Real Road",
+  "locality": "",
+  "address3": "",
+  "town": "Consett",
+  "county": "County Durham",
+  "postcode": "DH8 6BH",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "411546",
+  "northing": "551693",
+  "url": "http://www.villareal.durham.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

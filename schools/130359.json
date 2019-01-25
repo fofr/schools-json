@@ -1,0 +1,18 @@
+{
+  "urn": "130359",
+  "name": "Stevenage Education Support Centre",
+  "address": "Collenswood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG2 9HQ",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "526048",
+  "northing": "224789",
+  "url": "http://www.stevenage-esc.herts.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

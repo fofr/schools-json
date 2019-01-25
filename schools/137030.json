@@ -1,0 +1,18 @@
+{
+  "urn": "137030",
+  "name": "Westwood Academy",
+  "address": "Beresford Close",
+  "locality": "Hadleigh",
+  "address3": "",
+  "town": "Benfleet",
+  "county": "Essex",
+  "postcode": "SS7 2SU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "580671",
+  "northing": "187705",
+  "url": "http://www.westwoodacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

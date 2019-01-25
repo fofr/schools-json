@@ -1,0 +1,18 @@
+{
+  "urn": "112679",
+  "name": "Heath Fields Primary School",
+  "address": "Field Avenue",
+  "locality": "Hatton",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE65 5EQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421254",
+  "northing": "330089",
+  "url": "www.heathfields.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

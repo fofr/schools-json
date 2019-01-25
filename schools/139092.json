@@ -1,0 +1,18 @@
+{
+  "urn": "139092",
+  "name": "St Tudy CofE Primary School",
+  "address": "St Tudy",
+  "locality": "",
+  "address3": "",
+  "town": "Bodmin",
+  "county": "Cornwall",
+  "postcode": "PL30 3NH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "206565",
+  "northing": "76273",
+  "url": "http://www.st-tudy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

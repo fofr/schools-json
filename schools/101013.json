@@ -1,0 +1,18 @@
+{
+  "urn": "101013",
+  "name": "Hotham Primary School",
+  "address": "Charlwood Road",
+  "locality": "Putney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW15 1PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "523675",
+  "northing": "175472",
+  "url": "www.hothamprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

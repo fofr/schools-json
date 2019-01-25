@@ -1,0 +1,18 @@
+{
+  "urn": "140449",
+  "name": "Farnborough Primary School",
+  "address": "Farnborough Hill",
+  "locality": "Farnborough",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR6 7EQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "544497",
+  "northing": "164204",
+  "url": "www.farnboroughprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

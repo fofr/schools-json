@@ -1,0 +1,18 @@
+{
+  "urn": "110909",
+  "name": "Soham Village College",
+  "address": "Sand Street",
+  "locality": "Soham",
+  "address3": "",
+  "town": "Ely",
+  "county": "Cambridgeshire",
+  "postcode": "CB7 5AA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "559485",
+  "northing": "272750",
+  "url": "http://www.sohamcollege.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

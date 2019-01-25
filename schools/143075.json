@@ -1,0 +1,18 @@
+{
+  "urn": "143075",
+  "name": "St Martin's School",
+  "address": "Markland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dover",
+  "county": "Kent",
+  "postcode": "CT17 9LY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "630181",
+  "northing": "141199",
+  "url": "www.stmartins.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

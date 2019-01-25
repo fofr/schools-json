@@ -1,0 +1,18 @@
+{
+  "urn": "122663",
+  "name": "Muskham Primary School",
+  "address": "Main Street",
+  "locality": "North Muskham",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG23 6HD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "479650",
+  "northing": "358714",
+  "url": "http://www.muskham.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

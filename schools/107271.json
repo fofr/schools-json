@@ -1,0 +1,18 @@
+{
+  "urn": "107271",
+  "name": "High Crags Primary School",
+  "address": "Crag Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shipley",
+  "county": "West Yorkshire",
+  "postcode": "BD18 2ES",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "415175",
+  "northing": "436943",
+  "url": "http://www.highcragsprimaryshipley.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

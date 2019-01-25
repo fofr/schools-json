@@ -1,0 +1,18 @@
+{
+  "urn": "138214",
+  "name": "The Duston School",
+  "address": "Berrywood Road",
+  "locality": "Duston",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN5 6XA",
+  "minimum_age": "4",
+  "maximum_age": "18",
+  "easting": "471403",
+  "northing": "261635",
+  "url": "http://www.thedustonschool.org",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

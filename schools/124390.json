@@ -1,0 +1,18 @@
+{
+  "urn": "124390",
+  "name": "Birches Head Academy",
+  "address": "Birches Head Road",
+  "locality": "Hanley",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 8DD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "389920",
+  "northing": "349170",
+  "url": "http://www.bircheshead.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143322",
+  "name": "Summerhill Primary Academy",
+  "address": "Upper Church Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Tipton",
+  "county": "West Midlands",
+  "postcode": "DY4 9PF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "396198",
+  "northing": "292993",
+  "url": "www.summerhill.sandwell.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "126240",
+  "name": "Lawn Primary",
+  "address": "Cleeve Lawn",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN3 1LE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "416616",
+  "northing": "182962",
+  "url": "http://www.lawn-pri.swindon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

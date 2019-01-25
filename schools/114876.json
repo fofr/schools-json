@@ -1,0 +1,18 @@
+{
+  "urn": "114876",
+  "name": "Epping Junior School",
+  "address": "St John's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Epping",
+  "county": "Essex",
+  "postcode": "CM16 5DN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "545823",
+  "northing": "202100",
+  "url": "http://www.epping-jun.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

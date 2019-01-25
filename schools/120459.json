@@ -1,0 +1,18 @@
+{
+  "urn": "120459",
+  "name": "Louth Kidgate Primary School",
+  "address": "Kidgate",
+  "locality": "",
+  "address3": "",
+  "town": "Louth",
+  "county": "Lincolnshire",
+  "postcode": "LN11 9BX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533032",
+  "northing": "387214",
+  "url": "http://www.kidgate.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

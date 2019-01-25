@@ -1,0 +1,18 @@
+{
+  "urn": "111456",
+  "name": "Cardinal Newman Catholic High School",
+  "address": "Bridgewater Avenue",
+  "locality": "Latchford",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 1RX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "362759",
+  "northing": "388138",
+  "url": "http://www.cardinal-newman.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

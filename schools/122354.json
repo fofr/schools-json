@@ -1,0 +1,18 @@
+{
+  "urn": "122354",
+  "name": "Berwick Middle School",
+  "address": "Lovaine Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Berwick-upon-Tweed",
+  "county": "Northumberland",
+  "postcode": "TD15 1LA",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "399690",
+  "northing": "653628",
+  "url": "http://www.berwickmiddleschool.org.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

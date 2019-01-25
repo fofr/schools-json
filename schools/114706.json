@@ -1,0 +1,18 @@
+{
+  "urn": "114706",
+  "name": "Hamilton Primary School",
+  "address": "Constantine Road",
+  "locality": "",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO3 3GB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "598770",
+  "northing": "224299",
+  "url": "http://www.hamiltonprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

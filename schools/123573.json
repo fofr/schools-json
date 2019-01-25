@@ -1,0 +1,18 @@
+{
+  "urn": "123573",
+  "name": "Meole Brace School",
+  "address": "Longden Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 9DW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "348140",
+  "northing": "310785",
+  "url": "http://www.meolebrace.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

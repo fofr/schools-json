@@ -1,0 +1,18 @@
+{
+  "urn": "119292",
+  "name": "Queen's Drive Primary School",
+  "address": "Black Bull Lane",
+  "locality": "Fulwood",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 3LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "352870",
+  "northing": "432392",
+  "url": "www.queens.lancsngfl.ac.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

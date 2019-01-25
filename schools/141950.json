@@ -1,0 +1,18 @@
+{
+  "urn": "141950",
+  "name": "Camulos Academy",
+  "address": "Whitmore Drive",
+  "locality": "Via Urbis Romanea",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO4 6AL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "599640",
+  "northing": "228514",
+  "url": "www.camulosacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

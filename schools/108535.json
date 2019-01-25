@@ -1,0 +1,18 @@
+{
+  "urn": "108535",
+  "name": "St Cuthbert's High School",
+  "address": "Gretna Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE15 7PX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "420876",
+  "northing": "564975",
+  "url": "www.st-cuthbertshigh.newcastle.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

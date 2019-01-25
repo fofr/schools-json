@@ -1,0 +1,18 @@
+{
+  "urn": "102079",
+  "name": "Belmont Infant School",
+  "address": "Rusper Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N22 6RA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "532117",
+  "northing": "189860",
+  "url": "belmontinfants.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

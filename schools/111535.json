@@ -1,0 +1,18 @@
+{
+  "urn": "111535",
+  "name": "Preston Primary School",
+  "address": "Laurel Road",
+  "locality": "Eaglescliffe",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "",
+  "postcode": "TS16 0BE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442467",
+  "northing": "515671",
+  "url": "www.prestonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

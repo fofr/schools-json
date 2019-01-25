@@ -1,0 +1,18 @@
+{
+  "urn": "106400",
+  "name": "Pemberton Primary and Nursery School",
+  "address": "School Way",
+  "locality": "Norley Hall",
+  "address3": "Pemberton",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN5 9TQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "355282",
+  "northing": "404787",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

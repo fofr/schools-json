@@ -1,0 +1,18 @@
+{
+  "urn": "138539",
+  "name": "Northgate Primary School",
+  "address": "Cricketfield Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bishop's Stortford",
+  "county": "Hertfordshire",
+  "postcode": "CM23 2RL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548068",
+  "northing": "221896",
+  "url": "http://www.northgate.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

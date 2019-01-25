@@ -1,0 +1,18 @@
+{
+  "urn": "140045",
+  "name": "Tudor Academy",
+  "address": "King Henry's Drive",
+  "locality": "New Addington",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 0PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538423",
+  "northing": "162936",
+  "url": "http://www.tudoracademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

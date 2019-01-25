@@ -1,0 +1,18 @@
+{
+  "urn": "111581",
+  "name": "Golden Flatts Primary School",
+  "address": "Seaton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS25 1HN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450945",
+  "northing": "529509",
+  "url": "www.goldenflattsprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

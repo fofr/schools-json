@@ -1,0 +1,18 @@
+{
+  "urn": "118291",
+  "name": "Headcorn Primary School",
+  "address": "Kings Road",
+  "locality": "",
+  "address3": "",
+  "town": "Headcorn",
+  "county": "Kent",
+  "postcode": "TN27 9QT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "583351",
+  "northing": "144445",
+  "url": "www.headcorn.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

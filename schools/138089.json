@@ -1,0 +1,18 @@
+{
+  "urn": "138089",
+  "name": "Haughton Academy",
+  "address": "Salters Lane South",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL1 2AN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "430650",
+  "northing": "516255",
+  "url": "http://www.educationvillage.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101192",
+  "name": "Manor Junior School",
+  "address": "Sandringham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Barking",
+  "county": "Essex",
+  "postcode": "IG11 9AG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "545828",
+  "northing": "184731",
+  "url": "http://www.manorjunior.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

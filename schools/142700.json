@@ -1,0 +1,18 @@
+{
+  "urn": "142700",
+  "name": "Finham Primary School",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV3 6EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432790",
+  "northing": "275268",
+  "url": "www.finhamprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

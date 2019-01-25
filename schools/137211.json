@@ -1,0 +1,18 @@
+{
+  "urn": "137211",
+  "name": "Warden Park Primary Academy",
+  "address": "New England Road",
+  "locality": "",
+  "address3": "",
+  "town": "Haywards Heath",
+  "county": "West Sussex",
+  "postcode": "RH16 3JR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "533581",
+  "northing": "123977",
+  "url": "www.wardenparkprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

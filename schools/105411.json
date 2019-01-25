@@ -1,0 +1,18 @@
+{
+  "urn": "105411",
+  "name": "Crossacres Infant School",
+  "address": "Crossacres Road",
+  "locality": "Wythenshawe",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M22 5AD",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "383681",
+  "northing": "387640",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

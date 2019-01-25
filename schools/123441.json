@@ -1,0 +1,18 @@
+{
+  "urn": "123441",
+  "name": "Randlay Primary School",
+  "address": "Randlay",
+  "locality": "Local Centre",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 2LR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370445",
+  "northing": "307451",
+  "url": "www.randlayprimary.taw.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

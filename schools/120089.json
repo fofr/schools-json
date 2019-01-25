@@ -1,0 +1,18 @@
+{
+  "urn": "120089",
+  "name": "Fosse Primary School",
+  "address": "Balfour Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 5EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457645",
+  "northing": "305340",
+  "url": "www.fosse-pri.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

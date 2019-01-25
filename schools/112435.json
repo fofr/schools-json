@@ -1,0 +1,18 @@
+{
+  "urn": "112435",
+  "name": "North Cumbria Technology College",
+  "address": "Edgehill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA1 3SL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "342804",
+  "northing": "554347",
+  "url": "http://www.nctc.cumbria.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

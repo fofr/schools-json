@@ -1,0 +1,18 @@
+{
+  "urn": "125983",
+  "name": "Fishbourne CofE Primary School",
+  "address": "Roman Way",
+  "locality": "Fishbourne",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO19 3QS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "483727",
+  "northing": "104966",
+  "url": "http://www.fishbourneprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

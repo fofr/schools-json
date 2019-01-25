@@ -1,0 +1,18 @@
+{
+  "urn": "113900",
+  "name": "Bournemouth School",
+  "address": "East Way",
+  "locality": "",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH8 9PY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "410083",
+  "northing": "94344",
+  "url": "http://www.bournemouth-school.bournemouth.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

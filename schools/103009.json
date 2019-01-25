@@ -1,0 +1,18 @@
+{
+  "urn": "103009",
+  "name": "The John Fisher School",
+  "address": "Peaks Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Purley",
+  "county": "Surrey",
+  "postcode": "CR8 3YP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "530067",
+  "northing": "162365",
+  "url": "http://www.johnfisherschool.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

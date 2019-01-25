@@ -1,0 +1,18 @@
+{
+  "urn": "138154",
+  "name": "Stafford Leys Community Primary School",
+  "address": "Stafford Leys",
+  "locality": "Leicester Forest East",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 3LJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "452980",
+  "northing": "302972",
+  "url": "www.staffordleys.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

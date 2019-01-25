@@ -1,0 +1,18 @@
+{
+  "urn": "133410",
+  "name": "Primary Pupil Referral Unit",
+  "address": "Avenue Road",
+  "locality": "West Bowling",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD5 8DB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "416813",
+  "northing": "431072",
+  "url": "parkprimarypru.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131814",
+  "name": "Ravenshead CofE Primary School",
+  "address": "Swinton Rise",
+  "locality": "Ravenshead",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG15 9FS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456227",
+  "northing": "355021",
+  "url": "http://www.ravensheadcofe.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117148",
+  "name": "Sandridge School",
+  "address": "Woodcock Hill",
+  "locality": "Sandridge",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL4 9EB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "517657",
+  "northing": "210481",
+  "url": "http://www.sandridge.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

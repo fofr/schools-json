@@ -1,0 +1,18 @@
+{
+  "urn": "143362",
+  "name": "Stowupland High School",
+  "address": "Church Road",
+  "locality": "Stowupland",
+  "address3": "",
+  "town": "Stowmarket",
+  "county": "Suffolk",
+  "postcode": "IP14 4BQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "606895",
+  "northing": "259912",
+  "url": "http://stowuplandhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

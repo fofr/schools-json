@@ -1,0 +1,18 @@
+{
+  "urn": "111412",
+  "name": "The Verdin High School",
+  "address": "Grange Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Winsford",
+  "county": "Cheshire",
+  "postcode": "CW7 2BT",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "364297",
+  "northing": "366584",
+  "url": "http://www.wsf.cheshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

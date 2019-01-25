@@ -1,0 +1,18 @@
+{
+  "urn": "128013",
+  "name": "Ralph Thoresby High School",
+  "address": "Farrar Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS16 7NQ",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "425986",
+  "northing": "439918",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

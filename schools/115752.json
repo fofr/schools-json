@@ -1,0 +1,18 @@
+{
+  "urn": "115752",
+  "name": "Marling School",
+  "address": "Cainscross Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL5 4HE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "383846",
+  "northing": "205217",
+  "url": "http://www.marling.gloucs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

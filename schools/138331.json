@@ -1,0 +1,18 @@
+{
+  "urn": "138331",
+  "name": "East Herrington Primary Academy",
+  "address": "Balmoral Terrace",
+  "locality": "East Herrington",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR3 3PR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "436148",
+  "northing": "553092",
+  "url": "http://www.ehpa.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

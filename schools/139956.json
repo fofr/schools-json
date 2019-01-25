@@ -1,0 +1,18 @@
+{
+  "urn": "139956",
+  "name": "Holgate Academy",
+  "address": "Hillcrest Drive",
+  "locality": "Hucknall",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG15 6PX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "451924",
+  "northing": "348674",
+  "url": "http://www.holgate-ac.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

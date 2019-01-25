@@ -1,0 +1,18 @@
+{
+  "urn": "144694",
+  "name": "Temple Sutton Primary School",
+  "address": "Eastern Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Southend-on-Sea",
+  "county": "Essex",
+  "postcode": "SS2 4BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "589256",
+  "northing": "187245",
+  "url": "www.templesutton.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

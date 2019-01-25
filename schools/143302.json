@@ -1,0 +1,18 @@
+{
+  "urn": "143302",
+  "name": "Tollerton Primary School",
+  "address": "Burnside Grove",
+  "locality": "Tollerton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG12 4ET",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "461043",
+  "northing": "334198",
+  "url": "www.tollerton.notts.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

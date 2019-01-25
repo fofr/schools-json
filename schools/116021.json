@@ -1,0 +1,18 @@
+{
+  "urn": "116021",
+  "name": "Liss Infant School",
+  "address": "Hillbrow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liss",
+  "county": "Hampshire",
+  "postcode": "GU33 7LQ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "477998",
+  "northing": "127213",
+  "url": "http://www.lissinfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

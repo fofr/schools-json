@@ -1,0 +1,18 @@
+{
+  "urn": "136128",
+  "name": "Knole Academy",
+  "address": "Knole Academy",
+  "locality": "Bradbourne Vale Road",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN13 3LE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "552379",
+  "northing": "156485",
+  "url": "www.knoleacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

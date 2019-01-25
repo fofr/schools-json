@@ -1,0 +1,18 @@
+{
+  "urn": "138831",
+  "name": "Winterton Community Academy",
+  "address": "Newport Drive",
+  "locality": "Winterton",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "Lincolnshire",
+  "postcode": "DN15 9QD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "492758",
+  "northing": "418984",
+  "url": "http://www.wintertonca.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

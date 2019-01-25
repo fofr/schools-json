@@ -1,0 +1,18 @@
+{
+  "urn": "109926",
+  "name": "Micklands Primary School",
+  "address": "Micklands Road",
+  "locality": "Caversham",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG4 6LU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "472870",
+  "northing": "175572",
+  "url": "www.micklands.reading.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113105",
+  "name": "Ottery St Mary Primary School",
+  "address": "Longdogs Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ottery St Mary",
+  "county": "Devon",
+  "postcode": "EX11 1HY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "310447",
+  "northing": "95333",
+  "url": "http://www.otteryprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

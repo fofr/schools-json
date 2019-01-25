@@ -1,0 +1,18 @@
+{
+  "urn": "128615",
+  "name": "Charlesworth Primary School",
+  "address": "Town Lane",
+  "locality": "Charlesworth",
+  "address3": "",
+  "town": "Glossop",
+  "county": "Derbyshire",
+  "postcode": "SK13 5HA",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "400708",
+  "northing": "392841",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

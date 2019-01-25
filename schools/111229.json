@@ -1,0 +1,18 @@
+{
+  "urn": "111229",
+  "name": "Halton Lodge Primary School",
+  "address": "Grangeway",
+  "locality": "",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 5LU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "352488",
+  "northing": "381561",
+  "url": "http://haltonlodge.haltonschools.info/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

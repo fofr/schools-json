@@ -1,0 +1,18 @@
+{
+  "urn": "118800",
+  "name": "Chapter School",
+  "address": "Carnation Road",
+  "locality": "Strood",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 2SX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "571695",
+  "northing": "169272",
+  "url": "http://www.chapterschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

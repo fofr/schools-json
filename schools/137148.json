@@ -1,0 +1,18 @@
+{
+  "urn": "137148",
+  "name": "Jerry Clay Academy",
+  "address": "Jerry Clay Lane",
+  "locality": "Wrenthorpe",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF2 0NP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "431139",
+  "northing": "422676",
+  "url": "http://www.jerryclayacademy.wakefield.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

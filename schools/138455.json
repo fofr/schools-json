@@ -1,0 +1,18 @@
+{
+  "urn": "138455",
+  "name": "Voyage Learning Campus",
+  "address": "Unit 1, Crown Works",
+  "locality": "Ashcroft House",
+  "address3": "Oldmixon Crescent",
+  "town": "Weston-Super-Mare",
+  "county": "Somerset",
+  "postcode": "BS24 9AX",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "333361",
+  "northing": "159265",
+  "url": "www.voyagelearningcampus.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

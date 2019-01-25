@@ -1,0 +1,18 @@
+{
+  "urn": "124583",
+  "name": "Langer Primary School",
+  "address": "Langer Road",
+  "locality": "",
+  "address3": "",
+  "town": "Felixstowe",
+  "county": "Suffolk",
+  "postcode": "IP11 2HL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "629387",
+  "northing": "233632",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

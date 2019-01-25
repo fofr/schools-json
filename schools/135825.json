@@ -1,0 +1,18 @@
+{
+  "urn": "135825",
+  "name": "Blaby Centre",
+  "address": "Hospital Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Blaby",
+  "county": "Leicestershire",
+  "postcode": "LE8 4FE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "457167",
+  "northing": "297181",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118311",
+  "name": "Shipbourne School",
+  "address": "Stumble Hill",
+  "locality": "Shipbourne",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN11 9PB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "559185",
+  "northing": "151948",
+  "url": "http://www.shipbourne.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123090",
+  "name": "Cropredy Church of England Primary School",
+  "address": "Station Road",
+  "locality": "Cropredy",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX17 1PU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "446635",
+  "northing": "246058",
+  "url": "www.cropredyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

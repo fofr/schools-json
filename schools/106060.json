@@ -1,0 +1,18 @@
+{
+  "urn": "106060",
+  "name": "Moorfield Infant School",
+  "address": "Lyndhurst Avenue",
+  "locality": "Hazel Grove",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK7 5HP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "391326",
+  "northing": "386162",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

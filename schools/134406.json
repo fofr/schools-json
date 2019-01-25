@@ -1,0 +1,18 @@
+{
+  "urn": "134406",
+  "name": "Blackgates Primary School",
+  "address": "Smithy Lane",
+  "locality": "Tingley",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF3 1QQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "428721",
+  "northing": "425938",
+  "url": "www.blackgates.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

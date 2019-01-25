@@ -1,0 +1,18 @@
+{
+  "urn": "102788",
+  "name": "Stratford School",
+  "address": "Upton Lane",
+  "locality": "Forest Gate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E7 9PR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "540427",
+  "northing": "184397",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

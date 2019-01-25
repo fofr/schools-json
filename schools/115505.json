@@ -1,0 +1,18 @@
+{
+  "urn": "115505",
+  "name": "Bledington Primary School",
+  "address": "Old Burford Road",
+  "locality": "Bledington",
+  "address3": "",
+  "town": "Chipping Norton",
+  "county": "Oxfordshire",
+  "postcode": "OX7 6US",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "424796",
+  "northing": "222597",
+  "url": "www.bledington.gloucs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

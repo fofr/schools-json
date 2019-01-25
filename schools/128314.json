@@ -1,0 +1,18 @@
+{
+  "urn": "128314",
+  "name": "Buckingham County First School",
+  "address": "Well Street",
+  "locality": "",
+  "address3": "",
+  "town": "Buckingham",
+  "county": "Buckinghamshire",
+  "postcode": "MK18 1EN",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "469624",
+  "northing": "233843",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

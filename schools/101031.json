@@ -1,0 +1,18 @@
+{
+  "urn": "101031",
+  "name": "Ronald Ross Primary School",
+  "address": "145 Beaumont Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW19 6RY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524020",
+  "northing": "173827",
+  "url": "www.ronaldross.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

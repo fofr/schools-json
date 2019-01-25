@@ -1,0 +1,18 @@
+{
+  "urn": "118165",
+  "name": "Niton Primary School",
+  "address": "School Lane",
+  "locality": "Niton",
+  "address3": "",
+  "town": "Ventnor",
+  "county": "Isle of Wight",
+  "postcode": "PO38 2BP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "450772",
+  "northing": "76533",
+  "url": "www.nitonprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

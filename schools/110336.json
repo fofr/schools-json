@@ -1,0 +1,18 @@
+{
+  "urn": "110336",
+  "name": "Spinfield School",
+  "address": "Terrington Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Marlow",
+  "county": "Buckinghamshire",
+  "postcode": "SL7 2RE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "483923",
+  "northing": "186686",
+  "url": "www.spinfieldschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

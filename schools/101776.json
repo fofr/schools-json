@@ -1,0 +1,18 @@
+{
+  "urn": "101776",
+  "name": "Heavers Farm Primary School",
+  "address": "58 Dinsdale Gardens",
+  "locality": "South Norwood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE25 6LT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533582",
+  "northing": "167776",
+  "url": "www.heaversfarm.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

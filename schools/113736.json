@@ -1,0 +1,18 @@
+{
+  "urn": "113736",
+  "name": "Somerford Primary School",
+  "address": "Draper Road",
+  "locality": "",
+  "address3": "",
+  "town": "Christchurch",
+  "county": "Dorset",
+  "postcode": "BH23 3AS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "417432",
+  "northing": "93253",
+  "url": "http://www.somerford.dorset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

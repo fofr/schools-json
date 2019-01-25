@@ -1,0 +1,18 @@
+{
+  "urn": "104046",
+  "name": "Haslucks Green School",
+  "address": "Haslucks Green Road",
+  "locality": "Shirley",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B90 2EJ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "411379",
+  "northing": "279453",
+  "url": "www.haslucks-green.solihull.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

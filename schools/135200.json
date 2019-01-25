@@ -1,0 +1,18 @@
+{
+  "urn": "135200",
+  "name": "Springside",
+  "address": "Albert Royds Street",
+  "locality": "Rochdale",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "OL16 2SU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390886",
+  "northing": "414782",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

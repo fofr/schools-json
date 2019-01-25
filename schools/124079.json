@@ -1,0 +1,18 @@
+{
+  "urn": "124079",
+  "name": "Manor Primary School",
+  "address": "Drayton Lane",
+  "locality": "Drayton Bassett",
+  "address3": "",
+  "town": "Tamworth",
+  "county": "Staffordshire",
+  "postcode": "B78 3TX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "419359",
+  "northing": "300176",
+  "url": "www.manor.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

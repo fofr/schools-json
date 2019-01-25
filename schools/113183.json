@@ -1,0 +1,18 @@
+{
+  "urn": "113183",
+  "name": "Abbotskerswell Primary School",
+  "address": "Slade Lane",
+  "locality": "Abbotskerswell",
+  "address3": "",
+  "town": "Newton Abbot",
+  "county": "Devon",
+  "postcode": "TQ12 5NS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "285630",
+  "northing": "68932",
+  "url": "http://www.abbotskerswell-primary.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

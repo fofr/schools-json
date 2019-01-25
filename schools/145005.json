@@ -1,0 +1,18 @@
+{
+  "urn": "145005",
+  "name": "Reigate College",
+  "address": "Castlefield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reigate",
+  "county": "Surrey",
+  "postcode": "RH2 0SD",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "525577",
+  "northing": "150474",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Academies",
+  "detailed_type": "Academy 16-19 converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103328",
+  "name": "Welford Primary School",
+  "address": "Welford Road",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B20 2BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405527",
+  "northing": "289591",
+  "url": "www.welford.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

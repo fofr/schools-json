@@ -1,0 +1,18 @@
+{
+  "urn": "118565",
+  "name": "Dymchurch Primary School",
+  "address": "New Hall Close",
+  "locality": "Dymchurch",
+  "address3": "",
+  "town": "Romney Marsh",
+  "county": "Kent",
+  "postcode": "TN29 0LE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "610150",
+  "northing": "129670",
+  "url": "http://www.dymchurch.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

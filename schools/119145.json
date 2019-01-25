@@ -1,0 +1,18 @@
+{
+  "urn": "119145",
+  "name": "Kirkham and Wesham Primary School",
+  "address": "Nelson Street",
+  "locality": "Kirkham",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR4 2JP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "341943",
+  "northing": "432339",
+  "url": "http://www.kirkhamwesham.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

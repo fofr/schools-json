@@ -1,0 +1,18 @@
+{
+  "urn": "117270",
+  "name": "Westfield Community Primary School",
+  "address": "Westfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hoddesdon",
+  "county": "Hertfordshire",
+  "postcode": "EN11 8RA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "536774",
+  "northing": "209253",
+  "url": "http://www.westfieldjm.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

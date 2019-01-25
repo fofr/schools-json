@@ -1,0 +1,18 @@
+{
+  "urn": "138900",
+  "name": "Little Mead Primary Academy",
+  "address": "Gosforth Road",
+  "locality": "",
+  "address3": "Southmead",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS10 6DS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "358020",
+  "northing": "178540",
+  "url": "www.littlemead.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

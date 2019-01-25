@@ -1,0 +1,18 @@
+{
+  "urn": "112151",
+  "name": "Arlecdon Primary School",
+  "address": "Arlecdon Road",
+  "locality": "Arlecdon",
+  "address3": "Arlecdon Primary School",
+  "town": "FRIZINGTON",
+  "county": "Cumbria",
+  "postcode": "CA26 3XA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "305014",
+  "northing": "518797",
+  "url": "http://www.arlecdon.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

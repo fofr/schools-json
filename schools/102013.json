@@ -1,0 +1,18 @@
+{
+  "urn": "102013",
+  "name": "Wilbury Primary School",
+  "address": "Wilbury Way",
+  "locality": "Edmonton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N18 1DE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "532854",
+  "northing": "192121",
+  "url": "www.wilburyprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123407",
+  "name": "Much Wenlock Primary School",
+  "address": "Racecourse Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Much Wenlock",
+  "county": "Shropshire",
+  "postcode": "TF13 6JG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "362472",
+  "northing": "299496",
+  "url": "www.muchwenlock.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

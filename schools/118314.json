@@ -1,0 +1,18 @@
+{
+  "urn": "118314",
+  "name": "Sutton Valence Primary School",
+  "address": "North Street",
+  "locality": "Sutton Valence",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME17 3HT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "581028",
+  "northing": "149379",
+  "url": "http://www.sutton-valence.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

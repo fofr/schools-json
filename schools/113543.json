@@ -1,0 +1,18 @@
+{
+  "urn": "113543",
+  "name": "Tor Bridge High",
+  "address": "Miller Way",
+  "locality": "Estover",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 8UN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "250912",
+  "northing": "58979",
+  "url": "http://www.torbridge.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

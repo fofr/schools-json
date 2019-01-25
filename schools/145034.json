@@ -1,0 +1,18 @@
+{
+  "urn": "145034",
+  "name": "Trumpington Community College",
+  "address": "Lime Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB2 9FD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "545143",
+  "northing": "255720",
+  "url": "www.trumpingtoncommunitycollege.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "128001",
+  "name": "Sandford Middle School",
+  "address": "Landseer Mount",
+  "locality": "Bramley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 2QZ",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "425158",
+  "northing": "435324",
+  "url": "",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

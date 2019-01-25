@@ -1,0 +1,18 @@
+{
+  "urn": "141469",
+  "name": "The Grove Primary School",
+  "address": "Asfordby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Melton Mowbray",
+  "county": "Leicestershire",
+  "postcode": "LE13 0HN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "474602",
+  "northing": "319364",
+  "url": "www.thegroveprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

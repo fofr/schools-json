@@ -1,0 +1,18 @@
+{
+  "urn": "131100",
+  "name": "Dacorum Education Support Centre",
+  "address": "30 Tenzing Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP2 4HS",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "507389",
+  "northing": "207346",
+  "url": "www.desc.herts.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

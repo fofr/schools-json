@@ -1,0 +1,18 @@
+{
+  "urn": "130328",
+  "name": "The Stoke Poges School",
+  "address": "Rogers Lane",
+  "locality": "Stoke Poges",
+  "address3": "",
+  "town": "Slough",
+  "county": "Buckinghamshire",
+  "postcode": "SL2 4LN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "497948",
+  "northing": "184166",
+  "url": "www.stokepoges.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

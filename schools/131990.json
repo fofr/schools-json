@@ -1,0 +1,18 @@
+{
+  "urn": "131990",
+  "name": "RNIB College Loughborough",
+  "address": "Radmoor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 3BS",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "452841",
+  "northing": "319356",
+  "url": "http://www.rnibcollege.ac.uk/",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Special post 16 institution"
+}

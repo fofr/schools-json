@@ -1,0 +1,18 @@
+{
+  "urn": "120845",
+  "name": "Reepham Primary School",
+  "address": "School Road",
+  "locality": "Reepham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR10 4JP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "609900",
+  "northing": "322632",
+  "url": "www.reepham-pri.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

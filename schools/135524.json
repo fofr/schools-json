@@ -1,0 +1,18 @@
+{
+  "urn": "135524",
+  "name": "LTE Group",
+  "address": "Whitworth House",
+  "locality": "Whitworth St",
+  "address3": "Openshaw",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M11 2WH",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "387643",
+  "northing": "397250",
+  "url": "http://www.themanchestercollege.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123000",
+  "name": "Charlbury Primary School",
+  "address": "Crawborough",
+  "locality": "",
+  "address3": "",
+  "town": "Charlbury",
+  "county": "Oxfordshire",
+  "postcode": "OX7 3TX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "436118",
+  "northing": "219535",
+  "url": "http://www.charlbury.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

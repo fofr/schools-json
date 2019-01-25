@@ -1,0 +1,18 @@
+{
+  "urn": "118338",
+  "name": "Davington Primary School",
+  "address": "Priory Row",
+  "locality": "Davington",
+  "address3": "",
+  "town": "Faversham",
+  "county": "Kent",
+  "postcode": "ME13 7EQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "601089",
+  "northing": "161986",
+  "url": "www.davington.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

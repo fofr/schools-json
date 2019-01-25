@@ -1,0 +1,18 @@
+{
+  "urn": "110620",
+  "name": "Swavesey Primary School",
+  "address": "Middle Watch",
+  "locality": "Swavesey",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 4RN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "536268",
+  "northing": "268389",
+  "url": "http://www.swavesey.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

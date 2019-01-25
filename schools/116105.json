@@ -1,0 +1,18 @@
+{
+  "urn": "116105",
+  "name": "Shirley Infant School",
+  "address": "Bellemoor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO15 5XE",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "440414",
+  "northing": "114462",
+  "url": "http://www.shirley-inf.southampton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

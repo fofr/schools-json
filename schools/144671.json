@@ -1,0 +1,18 @@
+{
+  "urn": "144671",
+  "name": "Marfleet Primary School",
+  "address": "Marfleet Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU9 5RJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "514147",
+  "northing": "429498",
+  "url": "marfleet.ebor.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

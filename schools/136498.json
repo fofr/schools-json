@@ -1,0 +1,18 @@
+{
+  "urn": "136498",
+  "name": "Sale Grammar School",
+  "address": "Marsland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sale",
+  "county": "Cheshire",
+  "postcode": "M33 3NH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "379160",
+  "northing": "391303",
+  "url": "http://www.salegrammar.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

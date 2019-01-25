@@ -1,0 +1,18 @@
+{
+  "urn": "114159",
+  "name": "Sedgefield Primary School",
+  "address": "Rectory Row",
+  "locality": "Sedgefield",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "County Durham",
+  "postcode": "TS21 2BJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "435545",
+  "northing": "528673",
+  "url": "www.sedgefield-pri.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100281",
+  "name": "Kingsland School",
+  "address": "Shacklewell Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E8 2EY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "533913",
+  "northing": "185496",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

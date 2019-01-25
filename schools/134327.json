@@ -1,0 +1,18 @@
+{
+  "urn": "134327",
+  "name": "Hospital Teaching Service",
+  "address": "Park House",
+  "locality": "Fakenham Avenue",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS5 4QQ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "447564",
+  "northing": "517762",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

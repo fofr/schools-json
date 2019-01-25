@@ -1,0 +1,18 @@
+{
+  "urn": "111172",
+  "name": "Brookvale Junior School",
+  "address": "Old Northwich Road",
+  "locality": "Brookvale",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 6BZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "354781",
+  "northing": "380278",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

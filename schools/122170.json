@@ -1,0 +1,18 @@
+{
+  "urn": "122170",
+  "name": "Acomb First School",
+  "address": "Bishops Hill",
+  "locality": "Main Street",
+  "address3": "Acomb",
+  "town": "Hexham",
+  "county": "Northumberland",
+  "postcode": "NE46 4PL",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "393526",
+  "northing": "566642",
+  "url": "http://www.acomb.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

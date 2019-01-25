@@ -1,0 +1,18 @@
+{
+  "urn": "115231",
+  "name": "Tabor Science College",
+  "address": "Panfield Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Braintree",
+  "county": "Essex",
+  "postcode": "CM7 5XP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "574917",
+  "northing": "223814",
+  "url": "http://www.taborscience.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

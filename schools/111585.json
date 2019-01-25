@@ -1,0 +1,18 @@
+{
+  "urn": "111585",
+  "name": "Newham Bridge Primary School",
+  "address": "Cayton Drive",
+  "locality": "Acklam",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS5 7NJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449348",
+  "northing": "517007",
+  "url": "www.newhambridge.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

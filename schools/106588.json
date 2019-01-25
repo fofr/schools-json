@@ -1,0 +1,18 @@
+{
+  "urn": "106588",
+  "name": "Thurlstone Primary School",
+  "address": "Royd Moor Road",
+  "locality": "Thurlstone",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S36 9RD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "423219",
+  "northing": "403701",
+  "url": "www.thurlstoneprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

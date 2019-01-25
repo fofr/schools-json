@@ -1,0 +1,18 @@
+{
+  "urn": "105031",
+  "name": "Poulton Lancelyn Primary School",
+  "address": "Venables Drive",
+  "locality": "Bebington",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH63 9LY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "333408",
+  "northing": "382734",
+  "url": "http://www.poultonlancelyn.wirral.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

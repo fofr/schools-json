@@ -1,0 +1,18 @@
+{
+  "urn": "139108",
+  "name": "Outwood Primary Academy Ledger Lane",
+  "address": "Ledger Lane",
+  "locality": "Outwood",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF1 2PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432789",
+  "northing": "423832",
+  "url": "www.ledgerlane.outwood.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

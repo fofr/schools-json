@@ -1,0 +1,18 @@
+{
+  "urn": "107255",
+  "name": "Eldwick Primary School",
+  "address": "Warren Lane",
+  "locality": "Gilstead",
+  "address3": "",
+  "town": "Bingley",
+  "county": "West Yorkshire",
+  "postcode": "BD16 3LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412036",
+  "northing": "439636",
+  "url": "www.eldwick.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123157",
+  "name": "Radley Church of England Primary School",
+  "address": "Church Road",
+  "locality": "Radley",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 3QF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "452274",
+  "northing": "199381",
+  "url": "http://www.radley-pri.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

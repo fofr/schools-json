@@ -1,0 +1,18 @@
+{
+  "urn": "113874",
+  "name": "The Grange School",
+  "address": "Redvers Road",
+  "locality": "",
+  "address3": "",
+  "town": "Christchurch",
+  "county": "Dorset",
+  "postcode": "BH23 3AU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "417333",
+  "northing": "93508",
+  "url": "http://www.grange.dorset.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

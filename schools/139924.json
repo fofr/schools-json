@@ -1,0 +1,18 @@
+{
+  "urn": "139924",
+  "name": "Darwen Aldridge Enterprise Studio",
+  "address": "Police Street",
+  "locality": "",
+  "address3": "",
+  "town": "Darwen",
+  "county": "Lancashire",
+  "postcode": "BB3 1AF",
+  "minimum_age": "13",
+  "maximum_age": "19",
+  "easting": "369012",
+  "northing": "422319",
+  "url": "http://www.daestudio.biz/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

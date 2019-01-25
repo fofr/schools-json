@@ -1,0 +1,18 @@
+{
+  "urn": "140646",
+  "name": "Wickersley School and Sports College",
+  "address": "Bawtry Road",
+  "locality": "Wickersley",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S66 1JL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "448329",
+  "northing": "391919",
+  "url": "www.wickersley.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

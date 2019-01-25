@@ -1,0 +1,18 @@
+{
+  "urn": "130627",
+  "name": "Cornwall College",
+  "address": "Corporate Headquarters",
+  "locality": "Cornwall College St Austell",
+  "address3": "Tregonissey Road",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL25 4DJ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "201950",
+  "northing": "53329",
+  "url": "http://www.cornwall.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

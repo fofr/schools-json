@@ -1,0 +1,18 @@
+{
+  "urn": "107564",
+  "name": "Todmorden High School",
+  "address": "Ewood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Todmorden",
+  "county": "West Yorkshire",
+  "postcode": "OL14 7DG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "392822",
+  "northing": "424945",
+  "url": "http://www.todhigh.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123825",
+  "name": "Wembdon St George's Church School",
+  "address": "Brantwood Road",
+  "locality": "Wembdon",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA6 7PS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "328307",
+  "northing": "137540",
+  "url": "http://www.wembdon-st-georges.somerset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101440",
+  "name": "Jubilee Primary School",
+  "address": "Crowden Way",
+  "locality": "Thamesmead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE28 8JB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547334",
+  "northing": "180626",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

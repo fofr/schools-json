@@ -1,0 +1,18 @@
+{
+  "urn": "103035",
+  "name": "Longshaw Primary School",
+  "address": "Longshaw Road",
+  "locality": "Chingford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E4 6LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538891",
+  "northing": "193249",
+  "url": "www.longshawprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

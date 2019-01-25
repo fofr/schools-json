@@ -1,0 +1,18 @@
+{
+  "urn": "141708",
+  "name": "Hungerford Primary Academy",
+  "address": "School Crescent",
+  "locality": "Hungerford Road",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 5HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "371497",
+  "northing": "355785",
+  "url": "http://www.hungerfordacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

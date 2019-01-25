@@ -1,0 +1,18 @@
+{
+  "urn": "109901",
+  "name": "Cippenham Infant School",
+  "address": "Dennis Way",
+  "locality": "Cippenham",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL1 5JP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "493868",
+  "northing": "180658",
+  "url": "http://www.cippenham-inf.slough.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

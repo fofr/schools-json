@@ -1,0 +1,18 @@
+{
+  "urn": "138544",
+  "name": "Albany Academy",
+  "address": "Bolton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR7 3AY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "359158",
+  "northing": "416463",
+  "url": "http://www.albanyacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

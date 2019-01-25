@@ -1,0 +1,18 @@
+{
+  "urn": "110965",
+  "name": "Beamont Community Infant School",
+  "address": "Leleary Street",
+  "locality": "",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA2 7RQ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "361402",
+  "northing": "389444",
+  "url": "http://www.wb.warr.ac.uk/beamontinfant/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

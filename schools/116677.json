@@ -1,0 +1,18 @@
+{
+  "urn": "116677",
+  "name": "Garway Primary School",
+  "address": "Garway",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR2 8RQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "346112",
+  "northing": "222755",
+  "url": "http://www.garwayprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

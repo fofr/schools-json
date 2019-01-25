@@ -1,0 +1,18 @@
+{
+  "urn": "128123",
+  "name": "Montagu Infant School",
+  "address": "Moorview Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE5 3HY",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "422117",
+  "northing": "566970",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

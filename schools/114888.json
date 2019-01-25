@@ -1,0 +1,18 @@
+{
+  "urn": "114888",
+  "name": "Stebbing Primary School",
+  "address": "Stebbing",
+  "locality": "",
+  "address3": "",
+  "town": "Dunmow",
+  "county": "Essex",
+  "postcode": "CM6 3SH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "566002",
+  "northing": "224492",
+  "url": "www.stebbingprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

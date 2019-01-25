@@ -1,0 +1,18 @@
+{
+  "urn": "135965",
+  "name": "Ark Charter Academy",
+  "address": "Hyde Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southsea",
+  "county": "Hampshire",
+  "postcode": "PO5 4HL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "464360",
+  "northing": "100025",
+  "url": "http://charteracademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

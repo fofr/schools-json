@@ -1,0 +1,18 @@
+{
+  "urn": "130580",
+  "name": "Wilberforce College",
+  "address": "Saltshouse Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingston-upon-Hull",
+  "county": "",
+  "postcode": "HU8 9HD",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "513552",
+  "northing": "432290",
+  "url": "www.wilberforce.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

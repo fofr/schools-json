@@ -1,0 +1,18 @@
+{
+  "urn": "105137",
+  "name": "West Kirby Residential School",
+  "address": "Meols Drive",
+  "locality": "West Kirby",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH48 5DH",
+  "minimum_age": "5",
+  "maximum_age": "19",
+  "easting": "321234",
+  "northing": "387181",
+  "url": "www.wkrs.co.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Non-maintained special school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143083",
+  "name": "Saltford CofE Primary School",
+  "address": "Claverton Road",
+  "locality": "Saltford",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS31 3DW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "368051",
+  "northing": "166895",
+  "url": "www.saltford.bathnes.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

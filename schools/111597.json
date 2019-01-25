@@ -1,0 +1,18 @@
+{
+  "urn": "111597",
+  "name": "Marton Manor Primary School",
+  "address": "The Derby",
+  "locality": "Marton Manor",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS7 8RH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451127",
+  "northing": "515782",
+  "url": "http://www.martonmanorprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

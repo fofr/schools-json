@@ -1,0 +1,18 @@
+{
+  "urn": "124934",
+  "name": "Abinger Common First School",
+  "address": "Abinger Lane",
+  "locality": "Abinger Common",
+  "address3": "",
+  "town": "Dorking",
+  "county": "Surrey",
+  "postcode": "RH5 6HZ",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "511567",
+  "northing": "146066",
+  "url": "http://www.abingercommon.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

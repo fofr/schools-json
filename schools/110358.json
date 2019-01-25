@@ -1,0 +1,18 @@
+{
+  "urn": "110358",
+  "name": "William Harding School",
+  "address": "Hazlehurst Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP21 9TJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "483007",
+  "northing": "212157",
+  "url": "www.williamhardingschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

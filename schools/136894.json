@@ -1,0 +1,18 @@
+{
+  "urn": "136894",
+  "name": "Preston School Academy",
+  "address": "Monks Dale",
+  "locality": "",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA21 3JD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "353945",
+  "northing": "116410",
+  "url": "http://www.prestonschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

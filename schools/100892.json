@@ -1,0 +1,18 @@
+{
+  "urn": "100892",
+  "name": "Old Palace Primary School",
+  "address": "St Leonard's Street",
+  "locality": "Bow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E3 3BT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "537853",
+  "northing": "182838",
+  "url": "http://www.oldpalaceprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

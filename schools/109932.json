@@ -1,0 +1,18 @@
+{
+  "urn": "109932",
+  "name": "Calcot Junior School",
+  "address": "Curtis Road",
+  "locality": "Calcot",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG31 4XG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "466035",
+  "northing": "171981",
+  "url": "www.calcotschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

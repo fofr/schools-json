@@ -1,0 +1,18 @@
+{
+  "urn": "130475",
+  "name": "Dudley College of Technology",
+  "address": "The Broadway",
+  "locality": "",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY1 4AS",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "394435",
+  "northing": "290752",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

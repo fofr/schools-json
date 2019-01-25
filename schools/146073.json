@@ -1,0 +1,18 @@
+{
+  "urn": "146073",
+  "name": "Abbey Meads Community Primary School",
+  "address": "Hugo Drive",
+  "locality": "Abbey Meads",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN25 4GY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "414483",
+  "northing": "188988",
+  "url": "http://www.abbeymeads.swindon.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

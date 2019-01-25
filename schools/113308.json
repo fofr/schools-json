@@ -1,0 +1,18 @@
+{
+  "urn": "113308",
+  "name": "Langley Community Infants' School",
+  "address": "Pendeen Crescent",
+  "locality": "Southway",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 6QS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "249404",
+  "northing": "61005",
+  "url": "http://www.langleyinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127952",
+  "name": "Roundhay School",
+  "address": "Old Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS8 1JU",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "432355",
+  "northing": "437449",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100927",
+  "name": "Wellington Primary School",
+  "address": "Wellington Way",
+  "locality": "Bow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E3 4NE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537160",
+  "northing": "182604",
+  "url": "www.wellington.towerhamlets.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

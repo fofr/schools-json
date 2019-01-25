@@ -1,0 +1,18 @@
+{
+  "urn": "109301",
+  "name": "Norton Hill School",
+  "address": "Charlton Road",
+  "locality": "Midsomer Norton",
+  "address3": "",
+  "town": "Radstock",
+  "county": "Somerset",
+  "postcode": "BA3 4AD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "366551",
+  "northing": "153628",
+  "url": "http://www.nortonhillschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

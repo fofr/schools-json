@@ -1,0 +1,18 @@
+{
+  "urn": "138836",
+  "name": "The Bolsover School",
+  "address": "Mooracre Lane",
+  "locality": "Bolsover",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S44 6XA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "448399",
+  "northing": "370232",
+  "url": "http://www.thebolsoverschool.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

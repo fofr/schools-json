@@ -1,0 +1,18 @@
+{
+  "urn": "130894",
+  "name": "Milby Primary School",
+  "address": "Milby Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Nuneaton",
+  "county": "Warwickshire",
+  "postcode": "CV11 6JS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "437611",
+  "northing": "293895",
+  "url": "www.milby.warwickshire.gov.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

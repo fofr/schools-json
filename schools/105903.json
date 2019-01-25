@@ -1,0 +1,18 @@
+{
+  "urn": "105903",
+  "name": "Lewis Street Primary School",
+  "address": "Lewis Street",
+  "locality": "Patricroft",
+  "address3": "Eccles",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M30 0PU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "376715",
+  "northing": "398181",
+  "url": "www.lewisstreetprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

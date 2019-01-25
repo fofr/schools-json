@@ -1,0 +1,18 @@
+{
+  "urn": "110865",
+  "name": "Chesterton Community College",
+  "address": "Gilbert Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 3NY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "544953",
+  "northing": "259804",
+  "url": "www.chestertoncc.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

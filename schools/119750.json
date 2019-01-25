@@ -1,0 +1,18 @@
+{
+  "urn": "119750",
+  "name": "Hornby High School",
+  "address": "Melling Road",
+  "locality": "Hornby",
+  "address3": "",
+  "town": "Lancaster",
+  "county": "Lancashire",
+  "postcode": "LA2 8LH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "358312",
+  "northing": "468938",
+  "url": "http://www.hornby.lancsngfl.ac.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

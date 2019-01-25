@@ -1,0 +1,18 @@
+{
+  "urn": "124213",
+  "name": "Park Primary School",
+  "address": "Tudor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Burntwood",
+  "county": "Staffordshire",
+  "postcode": "WS7 0BN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406056",
+  "northing": "308896",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

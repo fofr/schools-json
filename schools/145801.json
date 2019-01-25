@@ -1,0 +1,18 @@
+{
+  "urn": "145801",
+  "name": "Bar Hill Community Primary School",
+  "address": "Gladeside",
+  "locality": "Bar Hill",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB23 8DY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "538104",
+  "northing": "263602",
+  "url": "http://www.barhillschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

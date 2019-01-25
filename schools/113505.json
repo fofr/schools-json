@@ -1,0 +1,18 @@
+{
+  "urn": "113505",
+  "name": "West Exe School",
+  "address": "Hatherleigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX2 9JU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "291375",
+  "northing": "90856",
+  "url": "http://www.westexe.devon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

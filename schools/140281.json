@@ -1,0 +1,18 @@
+{
+  "urn": "140281",
+  "name": "Gothic Mede Academy",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Arlesey",
+  "county": "Bedfordshire",
+  "postcode": "SG15 6SL",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "519407",
+  "northing": "236268",
+  "url": "www.gothicmede.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108009",
+  "name": "Hawksworth Church of England Primary School",
+  "address": "Main Street",
+  "locality": "Hawksworth",
+  "address3": "Near Guiseley",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS20 8NX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "416509",
+  "northing": "441784",
+  "url": "www.hawksworthceprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

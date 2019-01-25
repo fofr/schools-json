@@ -1,0 +1,18 @@
+{
+  "urn": "125932",
+  "name": "Handcross Primary School",
+  "address": "London Road",
+  "locality": "Handcross",
+  "address3": "",
+  "town": "Haywards Heath",
+  "county": "West Sussex",
+  "postcode": "RH17 6HB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "526231",
+  "northing": "130562",
+  "url": "www.handcrossprimary.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

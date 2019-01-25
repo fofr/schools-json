@@ -1,0 +1,18 @@
+{
+  "urn": "104030",
+  "name": "Firs School",
+  "address": "Coopers Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Smethwick",
+  "county": "West Midlands",
+  "postcode": "B67 7DW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "402010",
+  "northing": "288184",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

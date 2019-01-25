@@ -1,0 +1,18 @@
+{
+  "urn": "118309",
+  "name": "Plaxtol Primary School",
+  "address": "School Lane",
+  "locality": "Plaxtol",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN15 0QD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "560235",
+  "northing": "153454",
+  "url": "http://www.plaxtol.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

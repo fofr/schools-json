@@ -1,0 +1,18 @@
+{
+  "urn": "145328",
+  "name": "John King Infant Academy",
+  "address": "Church Street West",
+  "locality": "",
+  "address3": "",
+  "town": "Pinxton",
+  "county": "Derbyshire",
+  "postcode": "NG16 6NB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "445737",
+  "northing": "355339",
+  "url": "www.pvischools.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

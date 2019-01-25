@@ -1,0 +1,18 @@
+{
+  "urn": "122614",
+  "name": "John Hunt Primary School",
+  "address": "London Road",
+  "locality": "New Balderton",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG24 3BN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "481385",
+  "northing": "351992",
+  "url": "http://www.johnhuntprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

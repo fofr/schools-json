@@ -1,0 +1,18 @@
+{
+  "urn": "120243",
+  "name": "Limehurst High School",
+  "address": "Bridge Street",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 1NH",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "453551",
+  "northing": "320071",
+  "url": "http://www.limehursthigh.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

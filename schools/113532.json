@@ -1,0 +1,18 @@
+{
+  "urn": "113532",
+  "name": "Plymouth High School for Girls",
+  "address": "St Lawrence Road",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL4 6HT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "248215",
+  "northing": "55412",
+  "url": "http://www.phsg.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

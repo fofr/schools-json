@@ -1,0 +1,18 @@
+{
+  "urn": "145336",
+  "name": "Tavistock College",
+  "address": "Crowndale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tavistock",
+  "county": "Devon",
+  "postcode": "PL19 8DD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "247445",
+  "northing": "73539",
+  "url": "http://tavistockcollege.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

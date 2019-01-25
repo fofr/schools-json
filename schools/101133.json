@@ -1,0 +1,18 @@
+{
+  "urn": "101133",
+  "name": "St Joseph's RC Primary School",
+  "address": "Lanark Road",
+  "locality": "Maida Vale",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W9 1DF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526196",
+  "northing": "182511",
+  "url": "www.stjosephsschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

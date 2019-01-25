@@ -1,0 +1,18 @@
+{
+  "urn": "120470",
+  "name": "North Thoresby Primary School",
+  "address": "High Street",
+  "locality": "North Thoresby",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN36 5PL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "529013",
+  "northing": "398379",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111325",
+  "name": "Prestbury CofE Primary School",
+  "address": "Bollin Grove",
+  "locality": "Prestbury",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK10 4JJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389942",
+  "northing": "377255",
+  "url": "http://www.prestbury.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

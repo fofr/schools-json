@@ -1,0 +1,18 @@
+{
+  "urn": "133313",
+  "name": "Shooters Hill Post-16 Campus",
+  "address": "Red Lion Lane",
+  "locality": "",
+  "address3": "Shooters Hill",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 4LD",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "543357",
+  "northing": "176968",
+  "url": "http://www.shootershill.ac.uk",
+  "phase": "16 plus",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

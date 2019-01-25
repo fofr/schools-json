@@ -1,0 +1,18 @@
+{
+  "urn": "136273",
+  "name": "Audenshaw School",
+  "address": "Hazel Street",
+  "locality": "Audenshaw",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M34 5NB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "392190",
+  "northing": "396667",
+  "url": "www.audenshawschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

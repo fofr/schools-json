@@ -1,0 +1,18 @@
+{
+  "urn": "125852",
+  "name": "Seal Primary School, Selsey",
+  "address": "East Street",
+  "locality": "Selsey",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO20 0BN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "485640",
+  "northing": "93194",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

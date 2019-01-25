@@ -1,0 +1,18 @@
+{
+  "urn": "105354",
+  "name": "The Elton High School",
+  "address": "Walshaw Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL8 1RN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "378356",
+  "northing": "411573",
+  "url": "http://www.eltonhigh.bury.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

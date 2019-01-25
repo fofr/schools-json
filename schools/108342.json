@@ -1,0 +1,18 @@
+{
+  "urn": "108342",
+  "name": "Swalwell Primary School",
+  "address": "South View Terrace",
+  "locality": "Swalwell",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE16 3HZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "420781",
+  "northing": "561851",
+  "url": "www.swalwellprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

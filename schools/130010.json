@@ -1,0 +1,18 @@
+{
+  "urn": "130010",
+  "name": "Ash Vale First School",
+  "address": "Frimley Road",
+  "locality": "Ash Vale",
+  "address3": "",
+  "town": "Aldershot",
+  "county": "Hampshire",
+  "postcode": "GU12 5NZ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "489222",
+  "northing": "153641",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

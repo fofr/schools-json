@@ -1,0 +1,18 @@
+{
+  "urn": "122171",
+  "name": "Allendale Primary School",
+  "address": "",
+  "locality": "Allendale",
+  "address3": "",
+  "town": "Hexham",
+  "county": "Northumberland",
+  "postcode": "NE47 9PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "383966",
+  "northing": "555907",
+  "url": "www.allendaleprimary.northumberland.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

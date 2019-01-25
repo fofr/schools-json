@@ -1,0 +1,18 @@
+{
+  "urn": "146025",
+  "name": "Northmead Junior School",
+  "address": "Grange Road",
+  "locality": "",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU2 9ZA",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "498798",
+  "northing": "151871",
+  "url": "http://www.northmead.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

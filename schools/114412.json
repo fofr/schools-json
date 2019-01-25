@@ -1,0 +1,18 @@
+{
+  "urn": "114412",
+  "name": "Benfield Primary School",
+  "address": "255 Old Shoreham Road",
+  "locality": "Portslade",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN41 1XS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "526171",
+  "northing": "105766",
+  "url": "www.benfield.brighton-hove.dbprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

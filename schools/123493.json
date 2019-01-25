@@ -1,0 +1,18 @@
+{
+  "urn": "123493",
+  "name": "Pontesbury CofE Primary School",
+  "address": "Bogey Lane",
+  "locality": "Pontesbury",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY5 0TF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "340337",
+  "northing": "305767",
+  "url": "http://www.pontesburyprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

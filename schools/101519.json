@@ -1,0 +1,18 @@
+{
+  "urn": "101519",
+  "name": "Elsley Primary School",
+  "address": "Tokyngton Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Wembley",
+  "county": "",
+  "postcode": "HA9 6HT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518881",
+  "northing": "184714",
+  "url": "www.elsley.brent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

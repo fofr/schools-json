@@ -1,0 +1,18 @@
+{
+  "urn": "140690",
+  "name": "The Cambridge Primary School",
+  "address": "Queens Avenue",
+  "locality": "Wellesley",
+  "address3": "",
+  "town": "Aldershot",
+  "county": "Hampshire",
+  "postcode": "GU11 4AA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "486431",
+  "northing": "151858",
+  "url": "www.cambridgeschool.hants.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

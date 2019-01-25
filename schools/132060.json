@@ -1,0 +1,18 @@
+{
+  "urn": "132060",
+  "name": "Holywell Primary and Nursery School",
+  "address": "School Road",
+  "locality": "Rubery",
+  "address3": "Rednal",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B45 9EY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "397875",
+  "northing": "277257",
+  "url": "www.holywellschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

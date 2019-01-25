@@ -1,0 +1,18 @@
+{
+  "urn": "119947",
+  "name": "Ravenstone Primary School",
+  "address": "Church Lane",
+  "locality": "Ravenstone",
+  "address3": "",
+  "town": "Coalville",
+  "county": "Leicestershire",
+  "postcode": "LE67 2AE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "440286",
+  "northing": "313963",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

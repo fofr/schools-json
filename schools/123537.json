@@ -1,0 +1,18 @@
+{
+  "urn": "123537",
+  "name": "St Mary's CofE Primary School",
+  "address": "Chapel Lawn Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bucknell",
+  "county": "Shropshire",
+  "postcode": "SY7 0AA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "335437",
+  "northing": "273697",
+  "url": "www.bucknellprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

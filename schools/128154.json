@@ -1,0 +1,18 @@
+{
+  "urn": "128154",
+  "name": "Dudley First School",
+  "address": "Weetslade Road",
+  "locality": "Dudley",
+  "address3": "",
+  "town": "Cramlington",
+  "county": "Northumberland",
+  "postcode": "NE23 7HT",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "426013",
+  "northing": "573541",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

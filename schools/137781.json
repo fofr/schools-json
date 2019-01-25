@@ -1,0 +1,18 @@
+{
+  "urn": "137781",
+  "name": "Ash Green School",
+  "address": "Ash Green Lane",
+  "locality": "Ash Green",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV7 9AH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "433511",
+  "northing": "284988",
+  "url": "www.ashgreenschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

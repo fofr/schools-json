@@ -1,0 +1,18 @@
+{
+  "urn": "115514",
+  "name": "Cirencester Infant School",
+  "address": "Victoria Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cirencester",
+  "county": "Gloucestershire",
+  "postcode": "GL7 1EX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "402905",
+  "northing": "201476",
+  "url": "http://www.cirencester-inf.gloucs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

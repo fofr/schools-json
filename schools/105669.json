@@ -1,0 +1,18 @@
+{
+  "urn": "105669",
+  "name": "Delph Primary School",
+  "address": "Denshaw Road",
+  "locality": "Delph",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL3 5HN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "398325",
+  "northing": "408087",
+  "url": "http://www.delph.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

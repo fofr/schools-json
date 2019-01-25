@@ -1,0 +1,18 @@
+{
+  "urn": "108142",
+  "name": "Crofton Infant School",
+  "address": "High Street",
+  "locality": "Crofton",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF4 1NG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "437966",
+  "northing": "417811",
+  "url": "http://www.crofton-inf.wakefield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

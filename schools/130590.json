@@ -1,0 +1,18 @@
+{
+  "urn": "130590",
+  "name": "Harrogate College",
+  "address": "Hornbeam Park Avenue",
+  "locality": "Hookstone Road",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG2 8QT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "431386",
+  "northing": "453625",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

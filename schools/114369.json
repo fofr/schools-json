@@ -1,0 +1,18 @@
+{
+  "urn": "114369",
+  "name": "Middle Street Primary School",
+  "address": "Middle Street",
+  "locality": "",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN1 1AL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "530907",
+  "northing": "104052",
+  "url": "http://www.middlestreet.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

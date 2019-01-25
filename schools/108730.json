@@ -1,0 +1,18 @@
+{
+  "urn": "108730",
+  "name": "Boldon School",
+  "address": "New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Boldon Colliery",
+  "county": "Tyne and Wear",
+  "postcode": "NE35 9DZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "435542",
+  "northing": "561893",
+  "url": "http://boldonschool.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

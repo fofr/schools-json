@@ -1,0 +1,18 @@
+{
+  "urn": "107824",
+  "name": "Seven Hills Primary School",
+  "address": "Appleby Way",
+  "locality": "Morley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS27 8LA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426772",
+  "northing": "427937",
+  "url": "www.sevenhillsmorley.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

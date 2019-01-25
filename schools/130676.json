@@ -1,0 +1,18 @@
+{
+  "urn": "130676",
+  "name": "Harlow College",
+  "address": "Velizy Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM20 3LH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "544937",
+  "northing": "210061",
+  "url": "www.harlow-college.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

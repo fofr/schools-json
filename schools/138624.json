@@ -1,0 +1,18 @@
+{
+  "urn": "138624",
+  "name": "Rye College",
+  "address": "The Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Rye",
+  "county": "East Sussex",
+  "postcode": "TN31 7NQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "591952",
+  "northing": "120844",
+  "url": "http://www.ryecollege.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

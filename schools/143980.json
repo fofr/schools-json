@@ -1,0 +1,18 @@
+{
+  "urn": "143980",
+  "name": "Halwin School",
+  "address": "Porkellis",
+  "locality": "",
+  "address3": "",
+  "town": "Helston",
+  "county": "Cornwall",
+  "postcode": "TR13 0EG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "170290",
+  "northing": "33885",
+  "url": "www.halwin.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

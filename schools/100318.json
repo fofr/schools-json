@@ -1,0 +1,18 @@
+{
+  "urn": "100318",
+  "name": "Bayonne Nursery School",
+  "address": "50 Paynes Walk",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W6 8PF",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "524079",
+  "northing": "177674",
+  "url": "www.bayonne.lbhf.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

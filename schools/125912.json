@@ -1,0 +1,18 @@
+{
+  "urn": "125912",
+  "name": "Manor Hall Middle School",
+  "address": "Manor Hall Road",
+  "locality": "Southwick",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN42 4NF",
+  "minimum_age": "8",
+  "maximum_age": "12",
+  "easting": "524695",
+  "northing": "105563",
+  "url": "http://www.manorhallmiddle.w-sussex.sch.uk/",
+  "phase": "Middle deemed primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

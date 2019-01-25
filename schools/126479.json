@@ -1,0 +1,18 @@
+{
+  "urn": "126479",
+  "name": "Frogwell Primary School",
+  "address": "Derriads Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN14 0DG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390411",
+  "northing": "173362",
+  "url": "www.frogwell.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

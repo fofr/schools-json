@@ -1,0 +1,18 @@
+{
+  "urn": "106072",
+  "name": "Queensgate Primary School",
+  "address": "Albany Road",
+  "locality": "",
+  "address3": "Bramhall",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK7 1NE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389346",
+  "northing": "383808",
+  "url": "www.queensgate.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

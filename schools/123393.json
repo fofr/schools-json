@@ -1,0 +1,18 @@
+{
+  "urn": "123393",
+  "name": "Harlescott Junior School",
+  "address": "Featherbed Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 4QN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "351747",
+  "northing": "315282",
+  "url": "www.harlescott-jun.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

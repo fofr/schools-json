@@ -1,0 +1,18 @@
+{
+  "urn": "122103",
+  "name": "Windmill Primary School",
+  "address": "Windmill Lane",
+  "locality": "Raunds",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN9 6LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "499466",
+  "northing": "273018",
+  "url": "http://www.windmillprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

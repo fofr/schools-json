@@ -1,0 +1,18 @@
+{
+  "urn": "101981",
+  "name": "Capel Manor Primary School",
+  "address": "Bullsmoor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN1 4RL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "534602",
+  "northing": "199562",
+  "url": "http://www.capelmanor.enfield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

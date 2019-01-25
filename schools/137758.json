@@ -1,0 +1,18 @@
+{
+  "urn": "137758",
+  "name": "Biscovey Academy",
+  "address": "Lamellyn Road",
+  "locality": "",
+  "address3": "",
+  "town": "Par",
+  "county": "Cornwall",
+  "postcode": "PL24 2DB",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "206355",
+  "northing": "53289",
+  "url": "www.biscovey.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

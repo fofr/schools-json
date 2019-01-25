@@ -1,0 +1,18 @@
+{
+  "urn": "117118",
+  "name": "Kimpton Primary School",
+  "address": "High Street",
+  "locality": "Kimpton",
+  "address3": "",
+  "town": "Hitchin",
+  "county": "Hertfordshire",
+  "postcode": "SG4 8RB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517481",
+  "northing": "218288",
+  "url": "http://www.kimpton.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

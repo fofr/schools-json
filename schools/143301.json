@@ -1,0 +1,18 @@
+{
+  "urn": "143301",
+  "name": "Kirkby Woodhouse School",
+  "address": "Main Road",
+  "locality": "Kirkby-in-Ashfield",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 9EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449529",
+  "northing": "354216",
+  "url": "www.kirkbywoodhouse.notts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

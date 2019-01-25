@@ -1,0 +1,18 @@
+{
+  "urn": "141715",
+  "name": "Waterman Primary Academy",
+  "address": "The Boulevard",
+  "locality": "",
+  "address3": "",
+  "town": "Rochford",
+  "county": "Essex",
+  "postcode": "SS4 1QF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "587556",
+  "northing": "191268",
+  "url": "www.hearts-waterman.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112499",
+  "name": "Somercotes Infant School",
+  "address": "Nottingham Road",
+  "locality": "Somercotes",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 4LY",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "442302",
+  "northing": "353905",
+  "url": "www.somercotes.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

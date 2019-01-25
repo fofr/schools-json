@@ -1,0 +1,18 @@
+{
+  "urn": "132184",
+  "name": "Holybrook Primary",
+  "address": "Rillington Mead",
+  "locality": "Greengates",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD10 0EF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418955",
+  "northing": "436565",
+  "url": "http://www.holybrook.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

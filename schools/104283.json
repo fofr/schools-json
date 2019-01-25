@@ -1,0 +1,18 @@
+{
+  "urn": "104283",
+  "name": "Windsor Nursery School",
+  "address": "Parkfield Road",
+  "locality": "Parkfield",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 6EL",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "392857",
+  "northing": "296486",
+  "url": "www.windsorcentre.com",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

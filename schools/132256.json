@@ -1,0 +1,18 @@
+{
+  "urn": "132256",
+  "name": "Highlands School",
+  "address": "148 Worlds End Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N21 1QQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "530985",
+  "northing": "196131",
+  "url": "http://www.highlands.enfield.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

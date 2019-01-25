@@ -1,0 +1,18 @@
+{
+  "urn": "130419",
+  "name": "Workers' Educational Association",
+  "address": "4 Luke Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "EC2A 4XW",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "533229",
+  "northing": "182332",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

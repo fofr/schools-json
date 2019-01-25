@@ -1,0 +1,18 @@
+{
+  "urn": "125893",
+  "name": "Seymour Primary School",
+  "address": "Seymour Road",
+  "locality": "Broadfield",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH11 9ES",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525682",
+  "northing": "134874",
+  "url": "http://www.seymour.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

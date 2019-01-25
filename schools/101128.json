@@ -1,0 +1,18 @@
+{
+  "urn": "101128",
+  "name": "St Edward's Catholic Primary School",
+  "address": "Lisson Grove",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW1 6LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527354",
+  "northing": "182085",
+  "url": "www.stedwardsprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

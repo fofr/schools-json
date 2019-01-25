@@ -1,0 +1,18 @@
+{
+  "urn": "121369",
+  "name": "Alne Primary School",
+  "address": "Main Street",
+  "locality": "Alne",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO61 1RT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "449470",
+  "northing": "465384",
+  "url": "http://www.alne.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

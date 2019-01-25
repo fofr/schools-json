@@ -1,0 +1,18 @@
+{
+  "urn": "100364",
+  "name": "Lady Margaret School",
+  "address": "Parson's Green",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW6 4UN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "525134",
+  "northing": "176562",
+  "url": "http://www.ladymargaret.lbhf.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

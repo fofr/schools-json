@@ -1,0 +1,18 @@
+{
+  "urn": "121337",
+  "name": "Linton-on-Ouse Primary School",
+  "address": "Linton Woods Lane",
+  "locality": "Linton-on-Ouse",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO30 2BD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450416",
+  "northing": "460742",
+  "url": "http://www.linton.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

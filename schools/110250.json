@@ -1,0 +1,18 @@
+{
+  "urn": "110250",
+  "name": "Stokenchurch Infant School",
+  "address": "Slade Road",
+  "locality": "Stokenchurch",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP14 3QQ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "476411",
+  "northing": "195783",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

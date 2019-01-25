@@ -1,0 +1,18 @@
+{
+  "urn": "123476",
+  "name": "Ford CofE Primary School",
+  "address": "Ford",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY5 9LG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "341567",
+  "northing": "313274",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124127",
+  "name": "Little Aston Primary School",
+  "address": "Forge Lane",
+  "locality": "Little Aston",
+  "address3": "",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B74 3BE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "409369",
+  "northing": "300774",
+  "url": "www.littleaston.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

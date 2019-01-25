@@ -1,0 +1,18 @@
+{
+  "urn": "136387",
+  "name": "The Ockendon Academy",
+  "address": "Erriff Drive",
+  "locality": "",
+  "address3": "",
+  "town": "South Ockendon",
+  "county": "Essex",
+  "postcode": "RM15 5AY",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "558142",
+  "northing": "181869",
+  "url": "http://www.theockendonacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

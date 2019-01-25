@@ -1,0 +1,18 @@
+{
+  "urn": "120788",
+  "name": "Blofield Primary School",
+  "address": "North Street",
+  "locality": "Blofield",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR13 4RH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "633418",
+  "northing": "309931",
+  "url": "www.blofieldprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

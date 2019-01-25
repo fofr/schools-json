@@ -1,0 +1,18 @@
+{
+  "urn": "137284",
+  "name": "The Eastwood Academy",
+  "address": "Rayleigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leigh-on-Sea",
+  "county": "Essex",
+  "postcode": "SS9 5UU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "584818",
+  "northing": "188343",
+  "url": "http://eastwood.southend.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

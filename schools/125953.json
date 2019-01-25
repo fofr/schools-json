@@ -1,0 +1,18 @@
+{
+  "urn": "125953",
+  "name": "Waterfield Primary School",
+  "address": "Waterfield Gardens",
+  "locality": "Bewbush",
+  "address3": "Waterfield Primary School",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH11 8RA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524345",
+  "northing": "135805",
+  "url": "www.waterfieldprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

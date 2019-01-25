@@ -1,0 +1,18 @@
+{
+  "urn": "103435",
+  "name": "St Chad's Catholic Primary School",
+  "address": "Hospital Street",
+  "locality": "Newtown",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B19 3XD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406811",
+  "northing": "288289",
+  "url": "www.stchadsprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122466",
+  "name": "Fernwood Infant School",
+  "address": "Arleston Drive",
+  "locality": "Wollaton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 2FZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "451839",
+  "northing": "339580",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

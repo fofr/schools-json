@@ -1,0 +1,18 @@
+{
+  "urn": "101032",
+  "name": "Albemarle Primary School",
+  "address": "Princes Way",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW19 6JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524238",
+  "northing": "172951",
+  "url": "www.albemarle.wandsworth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102537",
+  "name": "Heston Community School",
+  "address": "Heston Road",
+  "locality": "Heston",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW5 0QR",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "513320",
+  "northing": "177368",
+  "url": "http://www.hestoncs.hounslow.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

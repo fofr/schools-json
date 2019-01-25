@@ -1,0 +1,18 @@
+{
+  "urn": "112622",
+  "name": "The Green Infant School",
+  "address": "New Street",
+  "locality": "South Normanton",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 2BS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "444113",
+  "northing": "356964",
+  "url": "www.green.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

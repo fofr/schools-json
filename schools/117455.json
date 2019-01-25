@@ -1,0 +1,18 @@
+{
+  "urn": "117455",
+  "name": "Stapleford Primary School",
+  "address": "Church Lane",
+  "locality": "Stapleford",
+  "address3": "",
+  "town": "Hertford",
+  "county": "Hertfordshire",
+  "postcode": "SG14 3NB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "531227",
+  "northing": "216950",
+  "url": "http://www.stapleford.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

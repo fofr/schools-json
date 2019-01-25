@@ -1,0 +1,18 @@
+{
+  "urn": "144132",
+  "name": "Thames View Primary School",
+  "address": "Bloors Lane",
+  "locality": "Rainham",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME8 7DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "581008",
+  "northing": "166754",
+  "url": "www.thamesviewprimary.medway.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

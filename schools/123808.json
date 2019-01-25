@@ -1,0 +1,18 @@
+{
+  "urn": "123808",
+  "name": "Brent Knoll Church of England Primary School",
+  "address": "Brent Street",
+  "locality": "Brent Knoll",
+  "address3": "",
+  "town": "Highbridge",
+  "county": "Somerset",
+  "postcode": "TA9 4EQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "333448",
+  "northing": "150523",
+  "url": "https://slp5.somerset.org.uk/webs/brentknoll/SitePages/Home.aspx",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141140",
+  "name": "The Elland Academy",
+  "address": "Gelderd Road",
+  "locality": "118",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 6DQ",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "427623",
+  "northing": "431530",
+  "url": "www.ellandacademy.org.uk",
+  "phase": "Not applicable",
+  "type": "Free Schools",
+  "detailed_type": "Free schools alternative provision"
+}

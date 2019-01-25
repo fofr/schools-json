@@ -1,0 +1,18 @@
+{
+  "urn": "139067",
+  "name": "Abbeywood Community School",
+  "address": "New Road",
+  "locality": "Stoke Gifford",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS34 8SF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "361803",
+  "northing": "179378",
+  "url": "www.abbeywoodschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

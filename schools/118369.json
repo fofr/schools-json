@@ -1,0 +1,18 @@
+{
+  "urn": "118369",
+  "name": "Victoria Road Primary School",
+  "address": "Victoria Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Kent",
+  "postcode": "TN23 7HQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "600804",
+  "northing": "142343",
+  "url": "http://www.victoriaroad.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

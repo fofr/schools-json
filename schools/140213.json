@@ -1,0 +1,18 @@
+{
+  "urn": "140213",
+  "name": "Kensington Primary Academy",
+  "address": "205 Warwick Road",
+  "locality": "(On the Corner of Kensington High Street)",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W14 8PU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "524646",
+  "northing": "178992",
+  "url": "www.wlfs-kpa.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

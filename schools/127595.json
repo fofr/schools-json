@@ -1,0 +1,18 @@
+{
+  "urn": "127595",
+  "name": "Dearnside School",
+  "address": "Goldthorpe Road",
+  "locality": "Goldthorpe",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S63 9EW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "446151",
+  "northing": "403807",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

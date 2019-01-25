@@ -1,0 +1,18 @@
+{
+  "urn": "109492",
+  "name": "Wilstead Primary School",
+  "address": "Cotton End Road",
+  "locality": "Wilstead",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 3BX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "506493",
+  "northing": "243550",
+  "url": "www.wilsteadschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112053",
+  "name": "Camborne Science and Community College",
+  "address": "Cranberry Road",
+  "locality": "",
+  "address3": "",
+  "town": "Camborne",
+  "county": "Cornwall",
+  "postcode": "TR14 7PP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "163796",
+  "northing": "40149",
+  "url": "http://www.camborne-comm-coll.cornwall.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

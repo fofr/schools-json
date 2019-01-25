@@ -1,0 +1,18 @@
+{
+  "urn": "105291",
+  "name": "Chantlers Primary School",
+  "address": "Foulds Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL8 2SF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "378440",
+  "northing": "410743",
+  "url": "chantlersprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

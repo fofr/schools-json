@@ -1,0 +1,18 @@
+{
+  "urn": "136575",
+  "name": "Saltash.net community school",
+  "address": "Wearde Road",
+  "locality": "",
+  "address3": "",
+  "town": "Saltash",
+  "county": "Cornwall",
+  "postcode": "PL12 4AY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "242302",
+  "northing": "58163",
+  "url": "http://saltash.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

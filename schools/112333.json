@@ -1,0 +1,18 @@
+{
+  "urn": "112333",
+  "name": "Borrowdale CofE Primary School",
+  "address": "Stonethwaite",
+  "locality": "",
+  "address3": "",
+  "town": "Keswick",
+  "county": "Cumbria",
+  "postcode": "CA12 5XG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "325802",
+  "northing": "514057",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

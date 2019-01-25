@@ -1,0 +1,18 @@
+{
+  "urn": "114035",
+  "name": "Burnopfield Primary School",
+  "address": "Front Street",
+  "locality": "Burnopfield",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE16 6PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "417106",
+  "northing": "556853",
+  "url": "http://www.burnopfield.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

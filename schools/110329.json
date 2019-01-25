@@ -1,0 +1,18 @@
+{
+  "urn": "110329",
+  "name": "Buckingham Primary School",
+  "address": "Foscott Way",
+  "locality": "",
+  "address3": "",
+  "town": "Buckingham",
+  "county": "Buckinghamshire",
+  "postcode": "MK18 1TT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "470150",
+  "northing": "234632",
+  "url": "http://www.buckinghamprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

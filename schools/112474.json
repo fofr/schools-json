@@ -1,0 +1,18 @@
+{
+  "urn": "112474",
+  "name": "Harrington Nursery School",
+  "address": "Harrington Street",
+  "locality": "Peartree",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE23 8PE",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "435354",
+  "northing": "333884",
+  "url": "www.harrington.derby.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

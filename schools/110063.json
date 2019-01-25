@@ -1,0 +1,18 @@
+{
+  "urn": "110063",
+  "name": "Little Heath School",
+  "address": "Little Heath Road",
+  "locality": "Tilehurst",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG31 5TY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "465536",
+  "northing": "173322",
+  "url": "http://www.littleheath.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

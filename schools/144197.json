@@ -1,0 +1,18 @@
+{
+  "urn": "144197",
+  "name": "Brampton Ellis CofE Primary School",
+  "address": "Brampton Road",
+  "locality": "West Melton",
+  "address3": "Wath-upon-Dearne",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S63 6AN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442065",
+  "northing": "400853",
+  "url": "www.bramptonellis.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124557",
+  "name": "Burton End Community Primary School",
+  "address": "School Lane",
+  "locality": "Burton End",
+  "address3": "",
+  "town": "Haverhill",
+  "county": "Suffolk",
+  "postcode": "CB9 9DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "566016",
+  "northing": "245466",
+  "url": "http://www.burtonendschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

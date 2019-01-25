@@ -1,0 +1,18 @@
+{
+  "urn": "110614",
+  "name": "Melbourn Primary School",
+  "address": "Mortlock Street",
+  "locality": "Melbourn",
+  "address3": "",
+  "town": "Royston",
+  "county": "Hertfordshire",
+  "postcode": "SG8 6DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "538411",
+  "northing": "244660",
+  "url": "www.melbournprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

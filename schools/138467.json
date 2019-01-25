@@ -1,0 +1,18 @@
+{
+  "urn": "138467",
+  "name": "Bursar Primary Academy",
+  "address": "Clee Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cleethorpes",
+  "county": "",
+  "postcode": "DN35 9HU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "529204",
+  "northing": "408261",
+  "url": "www.bursaracademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

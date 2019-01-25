@@ -1,0 +1,18 @@
+{
+  "urn": "112481",
+  "name": "Flagg Nursery School",
+  "address": "Main Road",
+  "locality": "Flagg",
+  "address3": "",
+  "town": "Near Buxton",
+  "county": "Derbyshire",
+  "postcode": "SK17 9QT",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "413610",
+  "northing": "368357",
+  "url": "www.flagg.derbyshire.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

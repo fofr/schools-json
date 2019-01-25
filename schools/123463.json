@@ -1,0 +1,18 @@
+{
+  "urn": "123463",
+  "name": "Brockton CofE Primary School",
+  "address": "Brockton",
+  "locality": "",
+  "address3": "",
+  "town": "Much Wenlock",
+  "county": "Shropshire",
+  "postcode": "TF13 6JR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "357650",
+  "northing": "293981",
+  "url": "www.brocktonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

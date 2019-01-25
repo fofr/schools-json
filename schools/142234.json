@@ -1,0 +1,18 @@
+{
+  "urn": "142234",
+  "name": "Oaklands Primary Academy",
+  "address": "Oaklands Lane",
+  "locality": "Biggin Hill",
+  "address3": "",
+  "town": "Westerham",
+  "county": "Kent",
+  "postcode": "TN16 3DN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "541217",
+  "northing": "159337",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

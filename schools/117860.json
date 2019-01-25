@@ -1,0 +1,18 @@
+{
+  "urn": "117860",
+  "name": "Newport Primary School",
+  "address": "Main Road",
+  "locality": "Newport",
+  "address3": "",
+  "town": "Brough",
+  "county": "",
+  "postcode": "HU15 2PP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485570",
+  "northing": "430155",
+  "url": "www.newportprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

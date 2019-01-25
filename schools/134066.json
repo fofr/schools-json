@@ -1,0 +1,18 @@
+{
+  "urn": "134066",
+  "name": "Audley Primary School",
+  "address": "Audley Road",
+  "locality": "Stechford",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B33 9HY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "414053",
+  "northing": "287792",
+  "url": "www.audley.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

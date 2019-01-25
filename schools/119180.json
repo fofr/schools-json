@@ -1,0 +1,18 @@
+{
+  "urn": "119180",
+  "name": "Trawden Forest Primary School",
+  "address": "Dean Street",
+  "locality": "Trawden",
+  "address3": "",
+  "town": "Colne",
+  "county": "Lancashire",
+  "postcode": "BB8 8RN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "391008",
+  "northing": "438875",
+  "url": "www.trawden.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133422",
+  "name": "Endeavour High School",
+  "address": "Fountain Road",
+  "locality": "Beverley Road",
+  "address3": "",
+  "town": "Kingston-upon-Hull",
+  "county": "",
+  "postcode": "HU3 1UR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "509016",
+  "northing": "430048",
+  "url": "http://www.endeavourhighschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

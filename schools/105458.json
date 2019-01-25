@@ -1,0 +1,18 @@
+{
+  "urn": "105458",
+  "name": "Temple Infant School",
+  "address": "Smedley Street",
+  "locality": "Cheetham",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M8 8UN",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "384516",
+  "northing": "400621",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

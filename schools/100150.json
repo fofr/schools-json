@@ -1,0 +1,18 @@
+{
+  "urn": "100150",
+  "name": "Boxgrove Primary School",
+  "address": "Boxgrove Road",
+  "locality": "Abbey Wood",
+  "address3": "",
+  "town": "Greenwich",
+  "county": "",
+  "postcode": "SE2 9JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547069",
+  "northing": "179278",
+  "url": "www.boxgrove.greenwich.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

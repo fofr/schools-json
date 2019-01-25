@@ -1,0 +1,18 @@
+{
+  "urn": "111958",
+  "name": "Trewidland Primary School",
+  "address": "Trewidland",
+  "locality": "",
+  "address3": "",
+  "town": "Liskeard",
+  "county": "Cornwall",
+  "postcode": "PL14 4SJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "225451",
+  "northing": "60295",
+  "url": "www.trewidland.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

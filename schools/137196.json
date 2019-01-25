@@ -1,0 +1,18 @@
+{
+  "urn": "137196",
+  "name": "Ormiston Maritime Academy",
+  "address": "Westward Ho",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN34 5AH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "525932",
+  "northing": "408246",
+  "url": "http://www.omacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

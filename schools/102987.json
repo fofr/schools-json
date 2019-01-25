@@ -1,0 +1,18 @@
+{
+  "urn": "102987",
+  "name": "Westbourne Primary School",
+  "address": "Anton Crescent",
+  "locality": "Collingwood Road",
+  "address3": "",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM1 2NT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525125",
+  "northing": "165290",
+  "url": "www.westbourne.sutton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112970",
+  "name": "Buxton Community School",
+  "address": "College Road",
+  "locality": "",
+  "address3": "",
+  "town": "Buxton",
+  "county": "Derbyshire",
+  "postcode": "SK17 9EA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "405362",
+  "northing": "372622",
+  "url": "http://www.buxton.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

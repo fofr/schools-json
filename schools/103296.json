@@ -1,0 +1,18 @@
+{
+  "urn": "103296",
+  "name": "The Meadows Primary School",
+  "address": "Bristol Road South",
+  "locality": "Northfield",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B31 2SW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "401397",
+  "northing": "278391",
+  "url": "www.meadowsprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

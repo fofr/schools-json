@@ -1,0 +1,18 @@
+{
+  "urn": "140741",
+  "name": "Penponds School",
+  "address": "Higher Penponds",
+  "locality": "",
+  "address3": "",
+  "town": "Camborne",
+  "county": "Cornwall",
+  "postcode": "TR14 0QN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "163778",
+  "northing": "38726",
+  "url": "www.penponds.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

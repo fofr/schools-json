@@ -1,0 +1,18 @@
+{
+  "urn": "137262",
+  "name": "Kepier",
+  "address": "Dairy Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Houghton le Spring",
+  "county": "Tyne and Wear",
+  "postcode": "DH4 5BH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "433897",
+  "northing": "549594",
+  "url": "http://www.kepier.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

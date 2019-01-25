@@ -1,0 +1,18 @@
+{
+  "urn": "141055",
+  "name": "Hillingdon Primary School",
+  "address": "Uxbridge Road",
+  "locality": "Hillingdon",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "",
+  "postcode": "UB10 0PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "507561",
+  "northing": "182530",
+  "url": "www.hillingdon.hillingdon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

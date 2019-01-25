@@ -1,0 +1,18 @@
+{
+  "urn": "112623",
+  "name": "The Brigg Infant School",
+  "address": "39 South Street",
+  "locality": "South Normanton",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 2DA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "444630",
+  "northing": "356665",
+  "url": "www.brigg.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

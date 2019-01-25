@@ -1,0 +1,18 @@
+{
+  "urn": "110603",
+  "name": "Caldecote Primary School",
+  "address": "Highfields Road",
+  "locality": "Highfields Caldecote",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB23 7NX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "535057",
+  "northing": "258545",
+  "url": "www.caldecoteprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

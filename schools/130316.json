@@ -1,0 +1,18 @@
+{
+  "urn": "130316",
+  "name": "Dorchester Learning Centre",
+  "address": "Monkton Park",
+  "locality": "Winterborne Monkton",
+  "address3": "",
+  "town": "Dorchester",
+  "county": "Dorset",
+  "postcode": "DT2 9PS",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "368078",
+  "northing": "88243",
+  "url": "http://www.dlconline.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

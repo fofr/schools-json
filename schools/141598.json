@@ -1,0 +1,18 @@
+{
+  "urn": "141598",
+  "name": "Bridgewater High School",
+  "address": "Broomfields Road",
+  "locality": "Appleton",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 3AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "361825",
+  "northing": "385250",
+  "url": "http://www.bridgewaterhigh.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

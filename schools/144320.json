@@ -1,0 +1,18 @@
+{
+  "urn": "144320",
+  "name": "Westbury Academy",
+  "address": "Chingford Road",
+  "locality": "Bilborough",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 3BT",
+  "minimum_age": "7",
+  "maximum_age": "16",
+  "easting": "452305",
+  "northing": "341762",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

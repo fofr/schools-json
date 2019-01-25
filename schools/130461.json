@@ -1,0 +1,18 @@
+{
+  "urn": "130461",
+  "name": "South and City College Birmingham",
+  "address": "129 Floodgate Street",
+  "locality": "",
+  "address3": "Digbeth",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B5 5SU",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "407857",
+  "northing": "286398",
+  "url": "http://www.sccb.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102230",
+  "name": "St Anselm's Catholic Primary School",
+  "address": "Roxborough Park",
+  "locality": "",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA1 3BE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "515057",
+  "northing": "187620",
+  "url": "www.st-anselms.harrow.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

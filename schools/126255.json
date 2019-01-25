@@ -1,0 +1,18 @@
+{
+  "urn": "126255",
+  "name": "The Grove Primary School",
+  "address": "Hazel Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Trowbridge",
+  "county": "Wiltshire",
+  "postcode": "BA14 0JG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384860",
+  "northing": "156414",
+  "url": "www.grove.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

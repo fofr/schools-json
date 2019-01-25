@@ -1,0 +1,18 @@
+{
+  "urn": "116471",
+  "name": "Bridgemary School",
+  "address": "Wych Lane",
+  "locality": "Bridgemary",
+  "address3": "",
+  "town": "Gosport",
+  "county": "Hampshire",
+  "postcode": "PO13 0JN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "458178",
+  "northing": "102989",
+  "url": "http://www.bridgemary.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

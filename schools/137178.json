@@ -1,0 +1,18 @@
+{
+  "urn": "137178",
+  "name": "Bentley Wood High School",
+  "address": "Clamp Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Stanmore",
+  "county": "",
+  "postcode": "HA7 3JW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "515553",
+  "northing": "192260",
+  "url": "http://www.bentleywood.harrow.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

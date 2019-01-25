@@ -1,0 +1,18 @@
+{
+  "urn": "112765",
+  "name": "Silverhill Primary School",
+  "address": "Draycott Drive",
+  "locality": "Mickleover",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE3 0QE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "430280",
+  "northing": "335122",
+  "url": "http://www.silverhill.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

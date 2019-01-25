@@ -1,0 +1,18 @@
+{
+  "urn": "133278",
+  "name": "High Oakham Primary School",
+  "address": "Nottingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 4SH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453942",
+  "northing": "359456",
+  "url": "http://www.highoakham.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

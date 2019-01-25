@@ -1,0 +1,18 @@
+{
+  "urn": "121452",
+  "name": "Langton Primary School",
+  "address": "Langton",
+  "locality": "",
+  "address3": "",
+  "town": "Malton",
+  "county": "North Yorkshire",
+  "postcode": "YO17 9QP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "479586",
+  "northing": "467051",
+  "url": "www.langton.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

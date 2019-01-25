@@ -1,0 +1,18 @@
+{
+  "urn": "135893",
+  "name": "Reigate Valley College",
+  "address": "Ironsbottom",
+  "locality": "Sidlow Bridge",
+  "address3": "",
+  "town": "Reigate",
+  "county": "Surrey",
+  "postcode": "RH2 8PP",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "525676",
+  "northing": "146803",
+  "url": "http://rvc.surrey.sch.uk/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

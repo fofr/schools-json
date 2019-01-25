@@ -1,0 +1,18 @@
+{
+  "urn": "106034",
+  "name": "Broadstone Hall Primary School",
+  "address": "Broadstone Hall Road South",
+  "locality": "Heaton Chapel",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 5JD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "388889",
+  "northing": "392667",
+  "url": "www.broadstonehallschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

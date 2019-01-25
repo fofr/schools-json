@@ -1,0 +1,18 @@
+{
+  "urn": "130536",
+  "name": "Dewsbury College",
+  "address": "Halifax Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dewsbury",
+  "county": "West Yorkshire",
+  "postcode": "WF13 2AS",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "424117",
+  "northing": "422292",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

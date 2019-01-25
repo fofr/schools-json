@@ -1,0 +1,18 @@
+{
+  "urn": "140922",
+  "name": "Idsall School",
+  "address": "Coppice Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Shifnal",
+  "county": "Shropshire",
+  "postcode": "TF11 8PD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "375343",
+  "northing": "308342",
+  "url": "http://www.idsallschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132203",
+  "name": "Highfield Primary School",
+  "address": "Highfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N21 3HE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532041",
+  "northing": "194019",
+  "url": "www.highfield-pri.enfield.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

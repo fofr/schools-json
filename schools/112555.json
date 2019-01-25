@@ -1,0 +1,18 @@
+{
+  "urn": "112555",
+  "name": "Aldercar Infant School",
+  "address": "Godkin Drive",
+  "locality": "Langley Mill",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 4GL",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "444283",
+  "northing": "347839",
+  "url": "www.aldercarinfants.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

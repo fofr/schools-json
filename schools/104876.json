@@ -1,0 +1,18 @@
+{
+  "urn": "104876",
+  "name": "Thornton Primary School",
+  "address": "Edge Lane",
+  "locality": "Thornton",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L23 4TF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "333744",
+  "northing": "400560",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

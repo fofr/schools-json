@@ -1,0 +1,18 @@
+{
+  "urn": "130659",
+  "name": "New College Durham",
+  "address": "Framwellgate Moor Centre",
+  "locality": "Framwellgate Moor",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH1 5ES",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "426129",
+  "northing": "544618",
+  "url": "http://www.newdur.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

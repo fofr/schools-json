@@ -1,0 +1,18 @@
+{
+  "urn": "111976",
+  "name": "Pelynt School",
+  "address": "",
+  "locality": "",
+  "address3": "",
+  "town": "Pelynt",
+  "county": "Cornwall",
+  "postcode": "PL13 2LG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "220280",
+  "northing": "55131",
+  "url": "www.pelyntprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

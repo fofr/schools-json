@@ -1,0 +1,18 @@
+{
+  "urn": "138005",
+  "name": "Seven Fields Primary School",
+  "address": "Leigh Road",
+  "locality": "Penhill",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN2 5DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415057",
+  "northing": "187929",
+  "url": "http://www.sevenfieldsprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

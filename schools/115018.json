@@ -1,0 +1,18 @@
+{
+  "urn": "115018",
+  "name": "Hogarth Primary School",
+  "address": "Riseway",
+  "locality": "Off Hogarth Avenue",
+  "address3": "",
+  "town": "Brentwood",
+  "county": "Essex",
+  "postcode": "CM15 8BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "560520",
+  "northing": "193497",
+  "url": "www.hogarthprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

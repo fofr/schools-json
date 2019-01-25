@@ -1,0 +1,18 @@
+{
+  "urn": "110756",
+  "name": "The Beeches Primary School",
+  "address": "Beech Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE1 2EH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "518924",
+  "northing": "299375",
+  "url": "www.beeches.peterborough.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

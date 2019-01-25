@@ -1,0 +1,18 @@
+{
+  "urn": "118103",
+  "name": "Kelvin Hall School",
+  "address": "Bricknell Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 4QH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "506467",
+  "northing": "431058",
+  "url": "www.kelvinhall.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

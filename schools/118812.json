@@ -1,0 +1,18 @@
+{
+  "urn": "118812",
+  "name": "The Hereson School",
+  "address": "Ramsgate Road",
+  "locality": "",
+  "address3": "",
+  "town": "Broadstairs",
+  "county": "Kent",
+  "postcode": "CT10 1PJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "639194",
+  "northing": "167134",
+  "url": "http://www.hereson.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

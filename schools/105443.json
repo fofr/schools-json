@@ -1,0 +1,18 @@
+{
+  "urn": "105443",
+  "name": "Plymouth Grove Primary School",
+  "address": "Plymouth Grove West",
+  "locality": "Chorlton-on-Medlock",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M13 0AQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386054",
+  "northing": "396118",
+  "url": "www.plymouthgrove.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

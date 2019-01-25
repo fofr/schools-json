@@ -1,0 +1,18 @@
+{
+  "urn": "144561",
+  "name": "Wolfreton School and Sixth Form College",
+  "address": "Wolfreton School and Sixth Form College",
+  "locality": "Well Lane",
+  "address3": "Willerby",
+  "town": "Hull",
+  "county": "East Yorkshire",
+  "postcode": "HU10 6HB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "502782",
+  "northing": "430316",
+  "url": "http://www.wolfreton.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

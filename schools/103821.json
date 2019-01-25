@@ -1,0 +1,18 @@
+{
+  "urn": "103821",
+  "name": "Roberts Primary School",
+  "address": "Robert Street",
+  "locality": "Lower Gornal",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY3 2AZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391944",
+  "northing": "291479",
+  "url": "www.robertsprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

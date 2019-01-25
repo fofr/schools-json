@@ -1,0 +1,18 @@
+{
+  "urn": "137476",
+  "name": "Wirral Grammar School for Boys",
+  "address": "Cross Lane",
+  "locality": "Bebington",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH63 3AQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "332662",
+  "northing": "383942",
+  "url": "http://www.wirralgrammarboys.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

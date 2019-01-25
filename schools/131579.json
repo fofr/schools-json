@@ -1,0 +1,18 @@
+{
+  "urn": "131579",
+  "name": "Grange Primary School",
+  "address": "Elder Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Wickford",
+  "county": "Essex",
+  "postcode": "SS12 0LR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "573762",
+  "northing": "192700",
+  "url": "www.grange.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

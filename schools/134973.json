@@ -1,0 +1,18 @@
+{
+  "urn": "134973",
+  "name": "Fountain Primary School",
+  "address": "Fountain Street",
+  "locality": "Morley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS27 0AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425822",
+  "northing": "427015",
+  "url": "www.fountainprimary.leeds.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

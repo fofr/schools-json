@@ -1,0 +1,18 @@
+{
+  "urn": "137261",
+  "name": "John Colet School",
+  "address": "Wharf Road",
+  "locality": "Wendover",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP22 6HF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "487087",
+  "northing": "208299",
+  "url": "www.johncolet.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108166",
+  "name": "Walton Junior School",
+  "address": "School Lane",
+  "locality": "Walton",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF2 6PA",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "435351",
+  "northing": "417252",
+  "url": "http://www.walton.wakefield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103324",
+  "name": "Arden Primary School",
+  "address": "Baker Street",
+  "locality": "Sparkhill",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B11 4SF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409441",
+  "northing": "284146",
+  "url": "www.arden.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

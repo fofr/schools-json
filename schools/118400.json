@@ -1,0 +1,18 @@
+{
+  "urn": "118400",
+  "name": "Lydden Primary School",
+  "address": "Stonehall",
+  "locality": "Lydden",
+  "address3": "",
+  "town": "Dover",
+  "county": "Kent",
+  "postcode": "CT15 7LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "626743",
+  "northing": "145568",
+  "url": "http://www.lydden.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

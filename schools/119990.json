@@ -1,0 +1,18 @@
+{
+  "urn": "119990",
+  "name": "The Meadow Community Primary School",
+  "address": "Meadow Way",
+  "locality": "Wigston Magna",
+  "address3": "",
+  "town": "Wigston",
+  "county": "Leicestershire",
+  "postcode": "LE18 3QZ",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "461251",
+  "northing": "299096",
+  "url": "www.meadowcommunity.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

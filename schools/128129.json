@@ -1,0 +1,18 @@
+{
+  "urn": "128129",
+  "name": "Raby Street Primary School",
+  "address": "Gordon Road",
+  "locality": "Byker",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE6 1QH",
+  "minimum_age": "3",
+  "maximum_age": "10",
+  "easting": "426970",
+  "northing": "564376",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

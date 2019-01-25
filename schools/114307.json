@@ -1,0 +1,18 @@
+{
+  "urn": "114307",
+  "name": "Sunnydale Community College for Maths and Computing",
+  "address": "Middridge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Shildon",
+  "county": "County Durham",
+  "postcode": "DL4 2EP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "423476",
+  "northing": "526632",
+  "url": "http://www.sunnydale.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

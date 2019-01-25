@@ -1,0 +1,18 @@
+{
+  "urn": "119286",
+  "name": "Walton-le-Dale Community Primary School",
+  "address": "Severn Drive",
+  "locality": "Walton-le-Dale",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR5 4TD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "355741",
+  "northing": "426526",
+  "url": "www.wldps.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

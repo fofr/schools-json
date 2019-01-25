@@ -1,0 +1,18 @@
+{
+  "urn": "123008",
+  "name": "Longfields Primary and Nursery School",
+  "address": "Longfields",
+  "locality": "",
+  "address3": "",
+  "town": "Bicester",
+  "county": "Oxfordshire",
+  "postcode": "OX26 6QL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458794",
+  "northing": "222853",
+  "url": "https://longfields.sch.life/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123006",
+  "name": "Five Acres Primary School",
+  "address": "East Hawthorn Rd",
+  "locality": "Ambrosden",
+  "address3": "",
+  "town": "Bicester",
+  "county": "Oxfordshire",
+  "postcode": "OX25 2SN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "460716",
+  "northing": "219634",
+  "url": "www.five-acres.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

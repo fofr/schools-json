@@ -1,0 +1,18 @@
+{
+  "urn": "116768",
+  "name": "Beaconside Primary and Nursery School",
+  "address": "Hazel Road",
+  "locality": "Rubery",
+  "address3": "Rednal",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B45 9DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "398518",
+  "northing": "276823",
+  "url": "www.beaconside.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

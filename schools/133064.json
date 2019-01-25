@@ -1,0 +1,18 @@
+{
+  "urn": "133064",
+  "name": "Orchard Lodge",
+  "address": "William Booth Road",
+  "locality": "Anerley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE20 8BG",
+  "minimum_age": "11",
+  "maximum_age": "17",
+  "easting": "534224",
+  "northing": "169888",
+  "url": "www.orchardlodge.org.uk",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Secure units"
+}

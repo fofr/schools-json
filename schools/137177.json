@@ -1,0 +1,18 @@
+{
+  "urn": "137177",
+  "name": "Harrow High School",
+  "address": "Gayton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA1 2JG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "515974",
+  "northing": "188106",
+  "url": "http://www.hhsweb.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

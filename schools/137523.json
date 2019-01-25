@@ -1,0 +1,18 @@
+{
+  "urn": "137523",
+  "name": "Wellsway School",
+  "address": "Chandag Road",
+  "locality": "Keynsham",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS31 1PH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "366181",
+  "northing": "168019",
+  "url": "http://www.wellswayschool.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

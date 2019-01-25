@@ -1,0 +1,18 @@
+{
+  "urn": "139189",
+  "name": "Whitecross Hereford",
+  "address": "Three Elms Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR4 0RN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "349076",
+  "northing": "241173",
+  "url": "www.whitecross.hereford.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140292",
+  "name": "South Bromsgrove High",
+  "address": "Charford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bromsgrove",
+  "county": "Worcestershire",
+  "postcode": "B60 3NL",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "395762",
+  "northing": "269699",
+  "url": "http://www.southbromsgrove.worcs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

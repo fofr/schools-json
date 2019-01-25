@@ -1,0 +1,18 @@
+{
+  "urn": "115209",
+  "name": "Hedingham School and Sixth Form",
+  "address": "Yeldham Road",
+  "locality": "Sible Hedingham",
+  "address3": "",
+  "town": "Halstead",
+  "county": "Essex",
+  "postcode": "CO9 3QH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "577867",
+  "northing": "235027",
+  "url": "http://www.hedingham.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

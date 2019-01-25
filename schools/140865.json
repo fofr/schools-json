@@ -1,0 +1,18 @@
+{
+  "urn": "140865",
+  "name": "The McAuley Catholic High School",
+  "address": "Cantley Lane",
+  "locality": "",
+  "address3": "Cantley",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN3 3QF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "462444",
+  "northing": "401691",
+  "url": "http://www.mcauley.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

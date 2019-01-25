@@ -1,0 +1,18 @@
+{
+  "urn": "106528",
+  "name": "Hindley High School",
+  "address": "Mornington Road",
+  "locality": "Hindley",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN2 4LG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "362754",
+  "northing": "404110",
+  "url": "http://www.hindleyhs.wigan.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

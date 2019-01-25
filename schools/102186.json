@@ -1,0 +1,18 @@
+{
+  "urn": "102186",
+  "name": "Marlborough Primary School",
+  "address": "Marlborough Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA1 1UJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "515062",
+  "northing": "189176",
+  "url": "www.marlboroughprimary.school",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

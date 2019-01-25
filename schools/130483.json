@@ -1,0 +1,18 @@
+{
+  "urn": "130483",
+  "name": "Walsall College",
+  "address": "Wisemore Campus",
+  "locality": "",
+  "address3": "Littleton Street West",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS2 8ES",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "401284",
+  "northing": "299031",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125005",
+  "name": "Shawley Community Primary School",
+  "address": "Shawley Way",
+  "locality": "Tattenham Corner",
+  "address3": "Epsom Downs",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT18 5PD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "523300",
+  "northing": "158419",
+  "url": "http://www.shawley.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

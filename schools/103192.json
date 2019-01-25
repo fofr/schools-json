@@ -1,0 +1,18 @@
+{
+  "urn": "103192",
+  "name": "Anderton Park Primary School",
+  "address": "Dennis Road",
+  "locality": "Sparkhill",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B12 8BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "408581",
+  "northing": "283707",
+  "url": "www.andertonparkschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

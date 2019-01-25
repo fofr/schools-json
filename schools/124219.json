@@ -1,0 +1,18 @@
+{
+  "urn": "124219",
+  "name": "William MacGregor Primary School",
+  "address": "Glascote Road",
+  "locality": "Glascote",
+  "address3": "",
+  "town": "Tamworth",
+  "county": "Staffordshire",
+  "postcode": "B77 2AF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421605",
+  "northing": "303536",
+  "url": "www.williammacgregor.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

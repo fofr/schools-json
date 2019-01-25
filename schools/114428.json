@@ -1,0 +1,18 @@
+{
+  "urn": "114428",
+  "name": "West Hove Infant School",
+  "address": "Portland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hove",
+  "county": "East Sussex",
+  "postcode": "BN3 5JA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "527446",
+  "northing": "105423",
+  "url": "www.westhoveinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

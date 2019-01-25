@@ -1,0 +1,18 @@
+{
+  "urn": "134052",
+  "name": "Peterhouse Primary School",
+  "address": "Magdalen Square",
+  "locality": "Gorleston",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR31 7BY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "651987",
+  "northing": "303660",
+  "url": "www.peterhouse.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

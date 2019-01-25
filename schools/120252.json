@@ -1,0 +1,18 @@
+{
+  "urn": "120252",
+  "name": "The Stonehill High School",
+  "address": "Stonehill Avenue",
+  "locality": "Birstall",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 4JG",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "459538",
+  "northing": "310169",
+  "url": "www.stonehill.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

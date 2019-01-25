@@ -1,0 +1,18 @@
+{
+  "urn": "140776",
+  "name": "St Mary's Catholic Primary School, Marnhull",
+  "address": "Old Mill Lane",
+  "locality": "Marnhull",
+  "address3": "",
+  "town": "Sturminster Newton",
+  "county": "Dorset",
+  "postcode": "DT10 1JX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "378343",
+  "northing": "120050",
+  "url": "http://www.stmarymarnhull.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

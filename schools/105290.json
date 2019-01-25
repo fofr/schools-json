@@ -1,0 +1,18 @@
+{
+  "urn": "105290",
+  "name": "Greenhill Primary School",
+  "address": "Mile Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL8 2JH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "377982",
+  "northing": "410216",
+  "url": "www.greenhillprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

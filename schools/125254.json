@@ -1,0 +1,18 @@
+{
+  "urn": "125254",
+  "name": "Weydon School",
+  "address": "Weydon Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Farnham",
+  "county": "Surrey",
+  "postcode": "GU9 8UG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "482923",
+  "northing": "145462",
+  "url": "http://www.weydon.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

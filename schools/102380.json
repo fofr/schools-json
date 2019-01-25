@@ -1,0 +1,18 @@
+{
+  "urn": "102380",
+  "name": "Glebe Primary School",
+  "address": "Sussex Road",
+  "locality": "Ickenham",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "",
+  "postcode": "UB10 8PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508488",
+  "northing": "185552",
+  "url": "http://www.glebe.hillingdon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

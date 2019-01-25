@@ -1,0 +1,18 @@
+{
+  "urn": "136666",
+  "name": "High School for Girls",
+  "address": "Denmark Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL1 3JN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "383829",
+  "northing": "219392",
+  "url": "http://www.hsfg.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

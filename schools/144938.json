@@ -1,0 +1,18 @@
+{
+  "urn": "144938",
+  "name": "Sandcross Primary School",
+  "address": "Sandcross Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Reigate",
+  "county": "Surrey",
+  "postcode": "RH2 8HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524869",
+  "northing": "148777",
+  "url": "http://www.sandcross.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103775",
+  "name": "Northfield Road Primary School",
+  "address": "Northfield Road",
+  "locality": "Netherton",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY2 9ER",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "394562",
+  "northing": "288105",
+  "url": "www.northfield.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

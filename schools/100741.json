@@ -1,0 +1,18 @@
+{
+  "urn": "100741",
+  "name": "Sydenham School",
+  "address": "Dartmouth Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE26 4RD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "535005",
+  "northing": "172368",
+  "url": "http://www.sydenham.lewisham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

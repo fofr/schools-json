@@ -1,0 +1,18 @@
+{
+  "urn": "108591",
+  "name": "Langley First School",
+  "address": "Drumoyne Gardens",
+  "locality": "West Monkseaton",
+  "address3": "",
+  "town": "Whitley Bay",
+  "county": "Tyne and Wear",
+  "postcode": "NE25 9DL",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "433755",
+  "northing": "571390",
+  "url": "www.langleyfirst.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

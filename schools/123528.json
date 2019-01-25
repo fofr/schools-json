@@ -1,0 +1,18 @@
+{
+  "urn": "123528",
+  "name": "Bryn Offa CofE Primary School",
+  "address": "Rockwell Lane",
+  "locality": "Pant",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY10 9QR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "327254",
+  "northing": "322011",
+  "url": "www.brynoffa.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

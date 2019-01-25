@@ -1,0 +1,18 @@
+{
+  "urn": "100602",
+  "name": "Julian's School",
+  "address": "16 Wolfington Road",
+  "locality": "West Norwood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE27 0JF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "531795",
+  "northing": "171950",
+  "url": "www.juliansprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

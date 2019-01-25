@@ -1,0 +1,18 @@
+{
+  "urn": "139852",
+  "name": "Farringdon Community Academy",
+  "address": "Allendale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR3 3EL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "436834",
+  "northing": "553281",
+  "url": "http://www.farringdonschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

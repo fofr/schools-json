@@ -1,0 +1,18 @@
+{
+  "urn": "140510",
+  "name": "Northampton School for Girls",
+  "address": "Spinney Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN3 6DG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "476930",
+  "northing": "263647",
+  "url": "http://www.nsg.northants.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

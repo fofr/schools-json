@@ -1,0 +1,18 @@
+{
+  "urn": "122225",
+  "name": "Seghill First School",
+  "address": "Seghill",
+  "locality": "",
+  "address3": "",
+  "town": "Cramlington",
+  "county": "Northumberland",
+  "postcode": "NE23 7SB",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "428603",
+  "northing": "574412",
+  "url": "www.seghill.northumberland.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

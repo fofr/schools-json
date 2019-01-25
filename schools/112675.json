@@ -1,0 +1,18 @@
+{
+  "urn": "112675",
+  "name": "Dallimore Primary School",
+  "address": "Dallimore Road",
+  "locality": "Kirk Hallam",
+  "address3": "",
+  "town": "Ilkeston",
+  "county": "Derbyshire",
+  "postcode": "DE7 4GZ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "445755",
+  "northing": "339864",
+  "url": "www.dallimore.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

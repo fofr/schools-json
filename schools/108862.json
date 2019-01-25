@@ -1,0 +1,18 @@
+{
+  "urn": "108862",
+  "name": "Hetton School",
+  "address": "North Road",
+  "locality": "Hetton-le-Hole",
+  "address3": "",
+  "town": "Houghton le Spring",
+  "county": "Tyne and Wear",
+  "postcode": "DH5 9JZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "434747",
+  "northing": "547160",
+  "url": "http://www.hetton-school.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

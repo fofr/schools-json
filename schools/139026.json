@@ -1,0 +1,18 @@
+{
+  "urn": "139026",
+  "name": "Fulwell Infant School Academy",
+  "address": "Ebdon Lane",
+  "locality": "Fulwell",
+  "address3": "Fulwell Infant School Academy",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR6 8ED",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "440111",
+  "northing": "559785",
+  "url": "http://www.fulwellinfant.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

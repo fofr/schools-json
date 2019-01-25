@@ -1,0 +1,18 @@
+{
+  "urn": "111343",
+  "name": "Bridgemere CofE Primary School",
+  "address": "Bridgemere Lane",
+  "locality": "Bridgemere",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 7PX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "371966",
+  "northing": "345753",
+  "url": "www.bridgemereschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

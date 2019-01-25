@@ -1,0 +1,18 @@
+{
+  "urn": "101016",
+  "name": "Penwortham Primary School",
+  "address": "Penwortham Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW16 6RJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528964",
+  "northing": "170848",
+  "url": "www.penwortham.wandsworth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

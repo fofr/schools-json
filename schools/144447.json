@@ -1,0 +1,18 @@
+{
+  "urn": "144447",
+  "name": "South Hylton Primary Academy",
+  "address": "Union Street",
+  "locality": "South Hylton",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR4 0LS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "435352",
+  "northing": "556704",
+  "url": "www.southhylton.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

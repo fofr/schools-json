@@ -1,0 +1,18 @@
+{
+  "urn": "124163",
+  "name": "Springcroft Primary School",
+  "address": "Grindley Lane",
+  "locality": "Blythe Bridge",
+  "address3": "Stoke-on-Trent",
+  "town": "Staffordshire",
+  "county": "Staffordshire",
+  "postcode": "ST11 9JS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "395048",
+  "northing": "341145",
+  "url": "http://www.springcroft.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

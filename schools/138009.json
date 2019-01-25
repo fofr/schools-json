@@ -1,0 +1,18 @@
+{
+  "urn": "138009",
+  "name": "Faringdon Junior School",
+  "address": "The Elms",
+  "locality": "Gloucester Street",
+  "address3": "",
+  "town": "Faringdon",
+  "county": "Oxfordshire",
+  "postcode": "SN7 7HZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "428607",
+  "northing": "195611",
+  "url": "www.faringdonjunior.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

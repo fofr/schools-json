@@ -1,0 +1,18 @@
+{
+  "urn": "135290",
+  "name": "The Marsh Academy",
+  "address": "Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "New Romney",
+  "county": "Kent",
+  "postcode": "TN28 8BB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "607023",
+  "northing": "124940",
+  "url": "www.marshacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

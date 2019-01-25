@@ -1,0 +1,18 @@
+{
+  "urn": "130633",
+  "name": "Furness College",
+  "address": "Channelside",
+  "locality": "",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA14 2PJ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "318928",
+  "northing": "469670",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

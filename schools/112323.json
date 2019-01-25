@@ -1,0 +1,18 @@
+{
+  "urn": "112323",
+  "name": "St Mary's CofE Primary School",
+  "address": "Kendal Road",
+  "locality": "Kirkby Lonsdale",
+  "address3": "",
+  "town": "Carnforth",
+  "county": "Lancashire",
+  "postcode": "LA6 2DN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "360629",
+  "northing": "478778",
+  "url": "www.stmarys-kl.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

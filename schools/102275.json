@@ -1,0 +1,18 @@
+{
+  "urn": "102275",
+  "name": "Branfil Infant School",
+  "address": "Cedar Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Upminster",
+  "county": "Essex",
+  "postcode": "RM14 2LW",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "555207",
+  "northing": "185949",
+  "url": "http://www.branfil-inf.havering.lgfl.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

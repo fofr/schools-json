@@ -1,0 +1,18 @@
+{
+  "urn": "140868",
+  "name": "Fairfield High School",
+  "address": "Peterchurch",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR2 0SG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "334483",
+  "northing": "238123",
+  "url": "www.fairfield.hereford.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

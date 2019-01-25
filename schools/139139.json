@@ -1,0 +1,18 @@
+{
+  "urn": "139139",
+  "name": "All Hallows Catholic College",
+  "address": "Brooklands Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 8LB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "390661",
+  "northing": "373279",
+  "url": "http://www.allhallows.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

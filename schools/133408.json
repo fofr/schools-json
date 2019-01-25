@@ -1,0 +1,18 @@
+{
+  "urn": "133408",
+  "name": "Meadowbrook Primary School",
+  "address": "Three Brooks Lane",
+  "locality": "Bradley Stoke",
+  "address3": "",
+  "town": "Bristol",
+  "county": "South Gloucestershire",
+  "postcode": "BS32 8TA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "362103",
+  "northing": "181734",
+  "url": "http://www.meadowbrookprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

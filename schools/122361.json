@@ -1,0 +1,18 @@
+{
+  "urn": "122361",
+  "name": "Berwick Community High School",
+  "address": "Adams Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Berwick-upon-Tweed",
+  "county": "Northumberland",
+  "postcode": "TD15 2JF",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "399936",
+  "northing": "651376",
+  "url": "http://www.berwickhighschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106136",
+  "name": "Werneth School",
+  "address": "Harrytown",
+  "locality": "Romiley",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK6 3BX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "393027",
+  "northing": "390665",
+  "url": "http://www.wernethschool.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

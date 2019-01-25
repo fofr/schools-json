@@ -1,0 +1,18 @@
+{
+  "urn": "142433",
+  "name": "Lightwater Village School",
+  "address": "Catena Rise",
+  "locality": "",
+  "address3": "",
+  "town": "Lightwater",
+  "county": "Surrey",
+  "postcode": "GU18 5RD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "492438",
+  "northing": "162338",
+  "url": "www.lightwatervillageschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

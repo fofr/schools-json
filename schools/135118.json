@@ -1,0 +1,18 @@
+{
+  "urn": "135118",
+  "name": "Hextable Primary School",
+  "address": "Rowhill Road",
+  "locality": "Hextable",
+  "address3": "",
+  "town": "Swanley",
+  "county": "Kent",
+  "postcode": "BR8 7RL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "551783",
+  "northing": "170689",
+  "url": "www.hextable-primary.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

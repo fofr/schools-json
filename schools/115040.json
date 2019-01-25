@@ -1,0 +1,18 @@
+{
+  "urn": "115040",
+  "name": "Westwood Primary School",
+  "address": "Beresford Close",
+  "locality": "Hadleigh",
+  "address3": "",
+  "town": "Benfleet",
+  "county": "Essex",
+  "postcode": "SS7 2SU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "580671",
+  "northing": "187705",
+  "url": "http://www.westwood.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

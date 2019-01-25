@@ -1,0 +1,18 @@
+{
+  "urn": "140847",
+  "name": "Buckingham Primary Academy",
+  "address": "Buckingham Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU8 8UG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511333",
+  "northing": "430075",
+  "url": "www.buckinghamprimaryacademy.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

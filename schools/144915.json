@@ -1,0 +1,18 @@
+{
+  "urn": "144915",
+  "name": "Bligh Primary School (Infants)",
+  "address": "Bligh Way",
+  "locality": "Strood",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 2XJ",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "571407",
+  "northing": "169082",
+  "url": "www.blighprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

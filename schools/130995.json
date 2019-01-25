@@ -1,0 +1,18 @@
+{
+  "urn": "130995",
+  "name": "Central Park Primary School",
+  "address": "Central Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 3DW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "541903",
+  "northing": "183146",
+  "url": "http://www.centralpark.newham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

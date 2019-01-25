@@ -1,0 +1,18 @@
+{
+  "urn": "139004",
+  "name": "Shafton Primary Academy",
+  "address": "High Street",
+  "locality": "Shafton",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S72 8QA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "439448",
+  "northing": "410739",
+  "url": "http://www.shaftonprimaryacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

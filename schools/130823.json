@@ -1,0 +1,18 @@
+{
+  "urn": "130823",
+  "name": "Guildford College of Further and Higher Education",
+  "address": "Stoke Park",
+  "locality": "",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU1 1EZ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "499917",
+  "northing": "150627",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

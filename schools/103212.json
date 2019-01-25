@@ -1,0 +1,18 @@
+{
+  "urn": "103212",
+  "name": "Harborne Infant School",
+  "address": "Station Road",
+  "locality": "Harborne",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B17 9LU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "403294",
+  "northing": "284570",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

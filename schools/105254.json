@@ -1,0 +1,18 @@
+{
+  "urn": "105254",
+  "name": "Withins School",
+  "address": "Newby Road",
+  "locality": "Breightmet",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL2 5JB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "374410",
+  "northing": "410560",
+  "url": "http://www.withins.bolton.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

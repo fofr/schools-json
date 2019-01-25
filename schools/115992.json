@@ -1,0 +1,18 @@
+{
+  "urn": "115992",
+  "name": "Sun Hill Infant School",
+  "address": "Sun Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Alresford",
+  "county": "Hampshire",
+  "postcode": "SO24 9NB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "458908",
+  "northing": "132066",
+  "url": "http://www.sunhillinfants.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

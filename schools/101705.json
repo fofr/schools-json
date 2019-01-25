@@ -1,0 +1,18 @@
+{
+  "urn": "101705",
+  "name": "Tunstall Nursery School",
+  "address": "Tunstall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 6TY",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "533445",
+  "northing": "166142",
+  "url": "www.tunstall.croydon.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

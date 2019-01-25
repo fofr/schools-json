@@ -1,0 +1,18 @@
+{
+  "urn": "104891",
+  "name": "Lydiate Primary School",
+  "address": "Lambshear Lane",
+  "locality": "Lydiate",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L31 2JZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "337264",
+  "northing": "403790",
+  "url": "www.lydiateprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

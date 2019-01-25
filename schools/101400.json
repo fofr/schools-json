@@ -1,0 +1,18 @@
+{
+  "urn": "101400",
+  "name": "The Howbury Centre Pupil Referral Unit",
+  "address": "Slade Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Erith",
+  "county": "Kent",
+  "postcode": "DA8 2HX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "552233",
+  "northing": "177073",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

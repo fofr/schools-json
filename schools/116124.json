@@ -1,0 +1,18 @@
+{
+  "urn": "116124",
+  "name": "Mansel Infant School",
+  "address": "Culver Close",
+  "locality": "Porlock Road",
+  "address3": "Millbrook",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 9HZ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "437713",
+  "northing": "114640",
+  "url": "http://www.mansel-inf.southampton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

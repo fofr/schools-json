@@ -1,0 +1,18 @@
+{
+  "urn": "118298",
+  "name": "East Borough Primary School",
+  "address": "Vinters Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME14 5DX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "576832",
+  "northing": "155960",
+  "url": "www.east-borough.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

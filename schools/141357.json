@@ -1,0 +1,18 @@
+{
+  "urn": "141357",
+  "name": "Eaton Primary School",
+  "address": "Duverlin Close",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR4 6HS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "621084",
+  "northing": "306097",
+  "url": "www.eaton.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

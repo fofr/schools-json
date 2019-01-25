@@ -1,0 +1,18 @@
+{
+  "urn": "121706",
+  "name": "Millthorpe School",
+  "address": "Nunthorpe Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO23 1WF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "459791",
+  "northing": "450693",
+  "url": "http://www.millthorpeschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

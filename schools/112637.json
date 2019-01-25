@@ -1,0 +1,18 @@
+{
+  "urn": "112637",
+  "name": "Stanton Primary School",
+  "address": "Woodland Road",
+  "locality": "Stanton",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE15 9TJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "426733",
+  "northing": "320044",
+  "url": "www.stanton.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

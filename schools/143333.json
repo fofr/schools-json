@@ -1,0 +1,18 @@
+{
+  "urn": "143333",
+  "name": "Hinguar Community Primary School",
+  "address": "New Garrison Road",
+  "locality": "Shoeburyness",
+  "address3": "",
+  "town": "Southend-on-Sea",
+  "county": "Essex",
+  "postcode": "SS3 9FE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "593256",
+  "northing": "184843",
+  "url": "www.hinguarprimary.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

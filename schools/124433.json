@@ -1,0 +1,18 @@
+{
+  "urn": "124433",
+  "name": "Belgrave High School",
+  "address": "Birds Bush Road",
+  "locality": "Belgrave",
+  "address3": "",
+  "town": "Tamworth",
+  "county": "Staffordshire",
+  "postcode": "B77 2NE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "422493",
+  "northing": "302093",
+  "url": "http://www.belgrave.staffs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

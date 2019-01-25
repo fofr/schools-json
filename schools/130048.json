@@ -1,0 +1,18 @@
+{
+  "urn": "130048",
+  "name": "Lakeside Middle School",
+  "address": "Alphington Avenue",
+  "locality": "Frimley",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU16 8LL",
+  "minimum_age": "8",
+  "maximum_age": "11",
+  "easting": "488667",
+  "northing": "158374",
+  "url": "",
+  "phase": "Middle deemed primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

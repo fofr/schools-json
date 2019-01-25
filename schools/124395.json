@@ -1,0 +1,18 @@
+{
+  "urn": "124395",
+  "name": "Norton Canes High School",
+  "address": "Burntwood Road",
+  "locality": "Norton Canes",
+  "address3": "",
+  "town": "Cannock",
+  "county": "Staffordshire",
+  "postcode": "WS11 9SP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "402344",
+  "northing": "309035",
+  "url": "http://www.nortoncaneshighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

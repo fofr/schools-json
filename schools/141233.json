@@ -1,0 +1,18 @@
+{
+  "urn": "141233",
+  "name": "Monkwood Primary Academy",
+  "address": "Estate Road",
+  "locality": "Rawmarsh",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S62 7JD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443114",
+  "northing": "397162",
+  "url": "www.monkwoodprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

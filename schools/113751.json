@@ -1,0 +1,18 @@
+{
+  "urn": "113751",
+  "name": "Hill View Primary School",
+  "address": "Hill View Road",
+  "locality": "Ensbury Park",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH10 5BD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "408152",
+  "northing": "95155",
+  "url": "www.hillview.bournemouth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

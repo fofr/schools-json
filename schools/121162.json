@@ -1,0 +1,18 @@
+{
+  "urn": "121162",
+  "name": "Sprowston Community High School",
+  "address": "Cannerby Lane",
+  "locality": "Sprowston",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR7 8NE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "624956",
+  "northing": "311177",
+  "url": "http://www.sprowstonhigh.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

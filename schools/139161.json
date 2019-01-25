@@ -1,0 +1,18 @@
+{
+  "urn": "139161",
+  "name": "Marston Vale Middle School",
+  "address": "The Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Stewartby",
+  "county": "Bedfordshire",
+  "postcode": "MK43 9NH",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "502124",
+  "northing": "242152",
+  "url": "http://www.marstonvalemiddle.co.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

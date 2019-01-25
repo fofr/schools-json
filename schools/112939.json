@@ -1,0 +1,18 @@
+{
+  "urn": "112939",
+  "name": "Aldercar High School",
+  "address": "Daltons Close",
+  "locality": "Langley Mill",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 4HL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "444235",
+  "northing": "347776",
+  "url": "https://www.aldercarhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

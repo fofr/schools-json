@@ -1,0 +1,18 @@
+{
+  "urn": "141413",
+  "name": "St Ambrose Catholic Primary",
+  "address": "Leswell Street",
+  "locality": "",
+  "address3": "",
+  "town": "Kidderminster",
+  "county": "Worcestershire",
+  "postcode": "DY10 1RP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "383825",
+  "northing": "276849",
+  "url": "st-ambrose.sch.life",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

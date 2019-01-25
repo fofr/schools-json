@@ -1,0 +1,18 @@
+{
+  "urn": "101432",
+  "name": "Abbey Primary School",
+  "address": "Lensbury Way",
+  "locality": "Thamesmead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE2 9TA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547539",
+  "northing": "179438",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105190",
+  "name": "Mytham Primary School",
+  "address": "Mytham Road",
+  "locality": "Little Lever",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 1JG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "375622",
+  "northing": "407034",
+  "url": "http://www.mytham.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

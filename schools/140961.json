@@ -1,0 +1,18 @@
+{
+  "urn": "140961",
+  "name": "WMG Academy for Young Engineers",
+  "address": "Mitchell Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV4 8DY",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "429340",
+  "northing": "277010",
+  "url": "https://coventry.wmgacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136288",
+  "name": "Durand Academy",
+  "address": "Hackford Road",
+  "locality": "Stockwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW9 0RD",
+  "minimum_age": "3",
+  "maximum_age": "18",
+  "easting": "530946",
+  "northing": "176761",
+  "url": "",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

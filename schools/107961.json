@@ -1,0 +1,18 @@
+{
+  "urn": "107961",
+  "name": "Bramley Primary School",
+  "address": "Fairfield Hill",
+  "locality": "Bramley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 3DP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "423624",
+  "northing": "434976",
+  "url": "www.bramleyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

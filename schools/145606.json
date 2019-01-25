@@ -1,0 +1,18 @@
+{
+  "urn": "145606",
+  "name": "Kemble Primary School",
+  "address": "School Road",
+  "locality": "Kemble",
+  "address3": "",
+  "town": "Cirencester",
+  "county": "Gloucestershire",
+  "postcode": "GL7 6AG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "398974",
+  "northing": "197245",
+  "url": "http://www.kemble.gloucs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

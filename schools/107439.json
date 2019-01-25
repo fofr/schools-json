@@ -1,0 +1,18 @@
+{
+  "urn": "107439",
+  "name": "Bingley Grammar School",
+  "address": "Keighley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bingley",
+  "county": "West Yorkshire",
+  "postcode": "BD16 2RS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "410225",
+  "northing": "439962",
+  "url": "http://www.bingleygrammar.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

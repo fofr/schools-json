@@ -1,0 +1,18 @@
+{
+  "urn": "104071",
+  "name": "Windy Arbor Primary School",
+  "address": "Woodlands Way",
+  "locality": "Chelmsley Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B37 6RN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418744",
+  "northing": "286943",
+  "url": "http://www.windy-arbor-school.freeserve.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101940",
+  "name": "Greenford High School",
+  "address": "Lady Margaret Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southall",
+  "county": "Middlesex",
+  "postcode": "UB1 2GU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "513180",
+  "northing": "182618",
+  "url": "www.greenford.ealing.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

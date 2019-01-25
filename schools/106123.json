@@ -1,0 +1,18 @@
+{
+  "urn": "106123",
+  "name": "St Mary's Catholic Primary School Marple Bridge",
+  "address": "Lowry Drive",
+  "locality": "Marple Bridge",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK6 5BR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "396680",
+  "northing": "389568",
+  "url": "www.st-marys-marplebridge.stockport.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

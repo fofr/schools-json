@@ -1,0 +1,18 @@
+{
+  "urn": "131207",
+  "name": "Lyons Hall School",
+  "address": "Deerleap Way",
+  "locality": "",
+  "address3": "",
+  "town": "Braintree",
+  "county": "Essex",
+  "postcode": "CM7 9FH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "577652",
+  "northing": "223743",
+  "url": "www.lyonshall.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

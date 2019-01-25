@@ -1,0 +1,18 @@
+{
+  "urn": "130610",
+  "name": "Cambridge Regional College",
+  "address": "Science Park Campus",
+  "locality": "Kings Hedges Road",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 2QT",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "545858",
+  "northing": "261790",
+  "url": "www.camre.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

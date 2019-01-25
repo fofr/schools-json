@@ -1,0 +1,18 @@
+{
+  "urn": "106074",
+  "name": "Abingdon Primary School",
+  "address": "Abingdon Road",
+  "locality": "Reddish",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK5 7ET",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "389773",
+  "northing": "393094",
+  "url": "www.abingdon.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

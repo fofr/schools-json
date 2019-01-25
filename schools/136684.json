@@ -1,0 +1,18 @@
+{
+  "urn": "136684",
+  "name": "The Buckinghamshire Primary Pupil Referral Unit",
+  "address": "Units 1 and 2",
+  "locality": "The Abbey Centre",
+  "address3": "Weedon Road",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP19 9NS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "481021",
+  "northing": "214692",
+  "url": "www.bucksprimarypru.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

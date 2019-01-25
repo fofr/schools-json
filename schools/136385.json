@@ -1,0 +1,18 @@
+{
+  "urn": "136385",
+  "name": "Clarendon House Grammar School",
+  "address": "Clarendon Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Ramsgate",
+  "county": "Kent",
+  "postcode": "CT11 9BB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "638011",
+  "northing": "164889",
+  "url": "www.ccgrammarschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

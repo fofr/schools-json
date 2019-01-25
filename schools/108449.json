@@ -1,0 +1,18 @@
+{
+  "urn": "108449",
+  "name": "West Denton Primary School",
+  "address": "Hillhead Road",
+  "locality": "West Denton",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE5 1DN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418775",
+  "northing": "566364",
+  "url": "www.westdenton.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

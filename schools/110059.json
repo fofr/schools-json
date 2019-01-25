@@ -1,0 +1,18 @@
+{
+  "urn": "110059",
+  "name": "St Crispin's School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG40 1SS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "481996",
+  "northing": "168647",
+  "url": "http://www.crispins.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

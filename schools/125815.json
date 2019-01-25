@@ -1,0 +1,18 @@
+{
+  "urn": "125815",
+  "name": "Western Area Pupil Referral Unit",
+  "address": "Fletcher Place Building",
+  "locality": "North Mundham",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO20 6JR",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "487397",
+  "northing": "102268",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

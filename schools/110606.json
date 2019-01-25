@@ -1,0 +1,18 @@
+{
+  "urn": "110606",
+  "name": "Fen Drayton Primary School",
+  "address": "Cootes Lane",
+  "locality": "Fen Drayton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 4SL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533588",
+  "northing": "268477",
+  "url": "www.fendraytonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

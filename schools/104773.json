@@ -1,0 +1,18 @@
+{
+  "urn": "104773",
+  "name": "Bleak Hill Primary School",
+  "address": "Hamilton Road",
+  "locality": "Windle",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA10 6HG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "348974",
+  "northing": "396513",
+  "url": "www.bleakhill.st-helens.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

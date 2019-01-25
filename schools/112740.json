@@ -1,0 +1,18 @@
+{
+  "urn": "112740",
+  "name": "Portway Infant School",
+  "address": "Woodlands Road",
+  "locality": "Allestree",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE22 2HE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "434184",
+  "northing": "339795",
+  "url": "http://www.portwayi.derby.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

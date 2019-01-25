@@ -1,0 +1,18 @@
+{
+  "urn": "126784",
+  "name": "Neasden High School",
+  "address": "Quainton Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW10 0BG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "520648",
+  "northing": "186198",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

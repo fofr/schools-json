@@ -1,0 +1,18 @@
+{
+  "urn": "110104",
+  "name": "Slough Grammar School",
+  "address": "Lascelles Road",
+  "locality": "",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL3 7PR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "498744",
+  "northing": "179318",
+  "url": "http://www.sloughgrammar.berks.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

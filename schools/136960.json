@@ -1,0 +1,18 @@
+{
+  "urn": "136960",
+  "name": "Chipping Campden School",
+  "address": "Cider Mill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chipping Campden",
+  "county": "Gloucestershire",
+  "postcode": "GL55 6HU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "415476",
+  "northing": "239663",
+  "url": "http://www.ccsacademy.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

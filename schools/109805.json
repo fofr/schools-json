@@ -1,0 +1,18 @@
+{
+  "urn": "109805",
+  "name": "Fox Hill Primary School",
+  "address": "Pondmoor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bracknell",
+  "county": "Berkshire",
+  "postcode": "RG12 7JZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "486922",
+  "northing": "167856",
+  "url": "http://www.foxhillprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

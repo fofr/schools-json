@@ -1,0 +1,18 @@
+{
+  "urn": "140964",
+  "name": "XP School",
+  "address": "Middle Bank",
+  "locality": "",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN4 5NG",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "458485",
+  "northing": "402071",
+  "url": "www.xpschool.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

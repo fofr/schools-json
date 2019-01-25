@@ -1,0 +1,18 @@
+{
+  "urn": "137525",
+  "name": "Edna G. Olds Academy",
+  "address": "Church Street",
+  "locality": "Lenton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 1SJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455683",
+  "northing": "339374",
+  "url": "www.ednagoldsacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

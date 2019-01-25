@@ -1,0 +1,18 @@
+{
+  "urn": "105361",
+  "name": "Woodhey High School",
+  "address": "Bolton Road West",
+  "locality": "Ramsbottom",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL0 9QZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "378251",
+  "northing": "415380",
+  "url": "http://www.woodhey.bury.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

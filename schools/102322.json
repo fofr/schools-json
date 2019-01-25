@@ -1,0 +1,18 @@
+{
+  "urn": "102322",
+  "name": "Mead Primary School",
+  "address": "Amersham Road",
+  "locality": "Harold Hill",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM3 9JD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "554608",
+  "northing": "191769",
+  "url": "http://www.mead.havering.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

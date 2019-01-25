@@ -1,0 +1,18 @@
+{
+  "urn": "119157",
+  "name": "Penwortham Primary School",
+  "address": "Crookings Lane",
+  "locality": "Penwortham",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR1 0HU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "351368",
+  "northing": "428449",
+  "url": "http://www.penworthamprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

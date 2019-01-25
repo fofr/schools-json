@@ -1,0 +1,18 @@
+{
+  "urn": "139180",
+  "name": "The Boston Grammar School",
+  "address": "South End",
+  "locality": "",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE21 6JY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "532982",
+  "northing": "343725",
+  "url": "www.bostongrammarschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136392",
+  "name": "The Morley Academy",
+  "address": "Fountain Street",
+  "locality": "Morley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS27 0PD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426027",
+  "northing": "427383",
+  "url": "www.morley.leeds.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

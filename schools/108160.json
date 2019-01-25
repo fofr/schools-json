@@ -1,0 +1,18 @@
+{
+  "urn": "108160",
+  "name": "Common Road First School",
+  "address": "Common Road",
+  "locality": "South Kirkby",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 3EA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "444223",
+  "northing": "410375",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

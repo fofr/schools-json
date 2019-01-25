@@ -1,0 +1,18 @@
+{
+  "urn": "140455",
+  "name": "Huish Primary School",
+  "address": "Carisbrooke Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA20 1AY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "355157",
+  "northing": "116184",
+  "url": "www.huish.somerset.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

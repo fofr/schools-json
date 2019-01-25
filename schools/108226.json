@@ -1,0 +1,18 @@
+{
+  "urn": "108226",
+  "name": "Wrenthorpe Primary School",
+  "address": "Imperial Avenue",
+  "locality": "Wrenthorpe",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF2 0LW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "431712",
+  "northing": "422868",
+  "url": "www.wrenthorpeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

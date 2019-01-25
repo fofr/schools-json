@@ -1,0 +1,18 @@
+{
+  "urn": "132209",
+  "name": "Swinemoor Primary School",
+  "address": "Burden Road",
+  "locality": "",
+  "address3": "",
+  "town": "Beverley",
+  "county": "",
+  "postcode": "HU17 9LW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "504047",
+  "northing": "440460",
+  "url": "www.swinemoorprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

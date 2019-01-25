@@ -1,0 +1,18 @@
+{
+  "urn": "101361",
+  "name": "St Michael's Catholic Grammar School",
+  "address": "Nether Street",
+  "locality": "North Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N12 7NJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "526058",
+  "northing": "192177",
+  "url": "http://www.st-michaels.barnet.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

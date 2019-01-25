@@ -1,0 +1,18 @@
+{
+  "urn": "135042",
+  "name": "Hartlebury CofE Primary School",
+  "address": "The Village",
+  "locality": "Hartlebury",
+  "address3": "",
+  "town": "Kidderminster",
+  "county": "Worcestershire",
+  "postcode": "DY11 7TD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "383984",
+  "northing": "271048",
+  "url": "www.hartlebury.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

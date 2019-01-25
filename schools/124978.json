@@ -1,0 +1,18 @@
+{
+  "urn": "124978",
+  "name": "Beacon Hill Community Primary School",
+  "address": "Beacon Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hindhead",
+  "county": "Surrey",
+  "postcode": "GU26 6NR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "487320",
+  "northing": "136651",
+  "url": "http://www.beacon-hill.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

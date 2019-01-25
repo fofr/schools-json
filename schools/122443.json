@@ -1,0 +1,18 @@
+{
+  "urn": "122443",
+  "name": "Seely Junior School",
+  "address": "Perry Road",
+  "locality": "Sherwood",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 3AE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "457103",
+  "northing": "343420",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

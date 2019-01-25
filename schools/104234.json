@@ -1,0 +1,18 @@
+{
+  "urn": "104234",
+  "name": "St Peter's Catholic Primary School, Bloxwich",
+  "address": "Lichfield Road",
+  "locality": "Bloxwich",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 3LY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "399967",
+  "northing": "302536",
+  "url": "www.st-peters.walsall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

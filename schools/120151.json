@@ -1,0 +1,18 @@
+{
+  "urn": "120151",
+  "name": "Packington Church of England Primary School",
+  "address": "Mill Street",
+  "locality": "Packington",
+  "address3": "",
+  "town": "Ashby-de-la-Zouch",
+  "county": "Leicestershire",
+  "postcode": "LE65 1WL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "435935",
+  "northing": "314509",
+  "url": "http://www.packington.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

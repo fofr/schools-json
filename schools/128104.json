@@ -1,0 +1,18 @@
+{
+  "urn": "128104",
+  "name": "Fellside Infant School",
+  "address": "Burnthouse Lane",
+  "locality": "Whickham",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE16 5AU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "420000",
+  "northing": "560600",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

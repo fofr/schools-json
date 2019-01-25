@@ -1,0 +1,18 @@
+{
+  "urn": "127000",
+  "name": "St John's Catholic School",
+  "address": "Green Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E13 9AX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "541402",
+  "northing": "183516",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

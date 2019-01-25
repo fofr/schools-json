@@ -1,0 +1,18 @@
+{
+  "urn": "104570",
+  "name": "Whitefield Primary School",
+  "address": "Boundary Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L6 2HZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "336447",
+  "northing": "391910",
+  "url": "www.whitefieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112554",
+  "name": "Hayfield Primary School",
+  "address": "Swallow House Lane",
+  "locality": "Hayfield",
+  "address3": "",
+  "town": "High Peak",
+  "county": "Derbyshire",
+  "postcode": "SK22 2HB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "403136",
+  "northing": "387280",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

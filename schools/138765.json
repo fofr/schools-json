@@ -1,0 +1,18 @@
+{
+  "urn": "138765",
+  "name": "The Matthew Arnold School",
+  "address": "Kingston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Staines",
+  "county": "Surrey",
+  "postcode": "TW18 1PF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "505238",
+  "northing": "170804",
+  "url": "http://www.matthew-arnold.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

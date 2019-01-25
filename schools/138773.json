@@ -1,0 +1,18 @@
+{
+  "urn": "138773",
+  "name": "Kings Ash Academy",
+  "address": "Pimm Road",
+  "locality": "",
+  "address3": "",
+  "town": "Paignton",
+  "county": "Devon",
+  "postcode": "TQ3 3XA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "287233",
+  "northing": "61393",
+  "url": "www.kingsashacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

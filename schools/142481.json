@@ -1,0 +1,18 @@
+{
+  "urn": "142481",
+  "name": "Kidderminster College",
+  "address": "Market Street",
+  "locality": "",
+  "address3": "",
+  "town": "Kidderminster",
+  "county": "Worcestershire",
+  "postcode": "DY10 1AB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "383166",
+  "northing": "276441",
+  "url": "www.kidderminster.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108914",
+  "name": "Nova Primary School",
+  "address": "Barracks Lane",
+  "locality": "Shirehampton",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS11 9NG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "352718",
+  "northing": "177692",
+  "url": "novaprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

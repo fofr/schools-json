@@ -1,0 +1,18 @@
+{
+  "urn": "107135",
+  "name": "Westfield School",
+  "address": "Eckington Road",
+  "locality": "Sothall",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S20 1HQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "444029",
+  "northing": "382597",
+  "url": "http://www.westfieldschoolsheffield.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

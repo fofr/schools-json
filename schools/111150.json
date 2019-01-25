@@ -1,0 +1,18 @@
+{
+  "urn": "111150",
+  "name": "Cherry Tree Primary School",
+  "address": "Hardy Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lymm",
+  "county": "Cheshire",
+  "postcode": "WA13 0NX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367443",
+  "northing": "386812",
+  "url": "www.cherrytreeschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

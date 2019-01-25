@@ -1,0 +1,18 @@
+{
+  "urn": "120042",
+  "name": "Edith Weston Primary School",
+  "address": "Weston Road",
+  "locality": "Edith Weston",
+  "address3": "",
+  "town": "Oakham",
+  "county": "Rutland",
+  "postcode": "LE15 8HQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "492312",
+  "northing": "305222",
+  "url": "www.edithwestonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

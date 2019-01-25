@@ -1,0 +1,18 @@
+{
+  "urn": "104299",
+  "name": "Woodfield Junior School",
+  "address": "Woodfield Avenue",
+  "locality": "Penn",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 4AG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "389954",
+  "northing": "296679",
+  "url": "www.woodfieldjunior.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

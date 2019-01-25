@@ -1,0 +1,18 @@
+{
+  "urn": "123490",
+  "name": "Newtown CofE Primary School",
+  "address": "Newtown",
+  "locality": "Wem",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY4 5NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "347773",
+  "northing": "331775",
+  "url": "www.newtown.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

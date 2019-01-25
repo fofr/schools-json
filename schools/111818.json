@@ -1,0 +1,18 @@
+{
+  "urn": "111818",
+  "name": "Mylor Community Primary School",
+  "address": "Comfort Road",
+  "locality": "Mylor Bridge",
+  "address3": "",
+  "town": "Falmouth",
+  "county": "Cornwall",
+  "postcode": "TR11 5SE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "180411",
+  "northing": "36364",
+  "url": "www.mylor-bridge.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

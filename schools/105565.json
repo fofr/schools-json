@@ -1,0 +1,18 @@
+{
+  "urn": "105565",
+  "name": "Spurley Hey High School",
+  "address": "Matthews Lane",
+  "locality": "Gorton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M18 7SP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "388054",
+  "northing": "395063",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

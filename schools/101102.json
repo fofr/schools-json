@@ -1,0 +1,18 @@
+{
+  "urn": "101102",
+  "name": "Paddock School",
+  "address": "Priory Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW15 5RT",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "521689",
+  "northing": "175313",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

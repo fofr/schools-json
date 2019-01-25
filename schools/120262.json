@@ -1,0 +1,18 @@
+{
+  "urn": "120262",
+  "name": "Gartree High School Oadby",
+  "address": "Ridge Way",
+  "locality": "Oadby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 5TQ",
+  "minimum_age": "10",
+  "maximum_age": "14",
+  "easting": "462836",
+  "northing": "299354",
+  "url": "http://www.gartree.leics.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

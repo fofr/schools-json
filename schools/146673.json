@@ -1,0 +1,18 @@
+{
+  "urn": "146673",
+  "name": "Hyde Park Infants' School",
+  "address": "Hyde Park Road",
+  "locality": "Mutley",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL3 4RS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "248157",
+  "northing": "56152",
+  "url": "www.hydepark-inf.plymouth.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

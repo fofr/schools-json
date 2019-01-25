@@ -1,0 +1,18 @@
+{
+  "urn": "127803",
+  "name": "Guiseley Nursery School",
+  "address": "Oxford Road",
+  "locality": "Guisley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS20 9DA",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "419098",
+  "northing": "442258",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

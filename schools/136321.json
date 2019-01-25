@@ -1,0 +1,18 @@
+{
+  "urn": "136321",
+  "name": "Torquay Boys' Grammar School",
+  "address": "Shiphay Manor Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Torquay",
+  "county": "Devon",
+  "postcode": "TQ2 7EL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "289614",
+  "northing": "65194",
+  "url": "http://www.tbgs.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

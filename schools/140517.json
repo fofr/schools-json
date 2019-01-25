@@ -1,0 +1,18 @@
+{
+  "urn": "140517",
+  "name": "Atwood Primary Academy",
+  "address": "Limpsfield Road",
+  "locality": "Sanderstead",
+  "address3": "",
+  "town": "South Croydon",
+  "county": "Surrey",
+  "postcode": "CR2 9EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "534231",
+  "northing": "160564",
+  "url": "http://www.atwoodprimary.academy/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

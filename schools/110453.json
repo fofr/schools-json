@@ -1,0 +1,18 @@
+{
+  "urn": "110453",
+  "name": "Dinton CofE School",
+  "address": "School Lane",
+  "locality": "Dinton",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP17 8UZ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "476796",
+  "northing": "210984",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

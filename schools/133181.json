@@ -1,0 +1,18 @@
+{
+  "urn": "133181",
+  "name": "Whitwood First School",
+  "address": "Whitwood Common Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 5PT",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "440587",
+  "northing": "424271",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

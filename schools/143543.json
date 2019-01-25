@@ -1,0 +1,18 @@
+{
+  "urn": "143543",
+  "name": "Adderlane Academy",
+  "address": "Broomhill Road",
+  "locality": "",
+  "address3": "Adderlane Academy",
+  "town": "Prudhoe",
+  "county": "Northumberland",
+  "postcode": "NE42 5HX",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "410241",
+  "northing": "563302",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

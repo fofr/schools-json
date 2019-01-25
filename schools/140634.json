@@ -1,0 +1,18 @@
+{
+  "urn": "140634",
+  "name": "Lena Gardens Primary School",
+  "address": "Lena Gardens",
+  "locality": "Hammersmith",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W6 7PZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "523316",
+  "northing": "179271",
+  "url": "www.lenagardens.lbhf.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

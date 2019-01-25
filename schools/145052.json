@@ -1,0 +1,18 @@
+{
+  "urn": "145052",
+  "name": "The Priory Pembroke Academy",
+  "address": "Croft Lane",
+  "locality": "Cherry Willingham",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN3 4JP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "502939",
+  "northing": "373257",
+  "url": "http://www.priorypembroke.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

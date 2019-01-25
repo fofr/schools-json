@@ -1,0 +1,18 @@
+{
+  "urn": "113167",
+  "name": "Shirwell Community Primary School",
+  "address": "School Lane",
+  "locality": "Shirwell",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX31 4JT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "259219",
+  "northing": "137202",
+  "url": "www.shirwell.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

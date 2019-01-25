@@ -1,0 +1,18 @@
+{
+  "urn": "120039",
+  "name": "Wolsey House Primary School",
+  "address": "Beaumont Leys Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 2BB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458397",
+  "northing": "307161",
+  "url": "www.wolseyhouse.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130334",
+  "name": "West Park Central Pupil Referral Unit",
+  "address": "West Park Curriculum Dev't Centre",
+  "locality": "Spen Lane",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS16 5BE",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "426296",
+  "northing": "437537",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

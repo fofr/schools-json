@@ -1,0 +1,18 @@
+{
+  "urn": "111131",
+  "name": "Barnton County Junior School",
+  "address": "Townfield Lane",
+  "locality": "Barnton",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 4QL",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "363229",
+  "northing": "375695",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

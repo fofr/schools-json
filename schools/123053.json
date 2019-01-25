@@ -1,0 +1,18 @@
+{
+  "urn": "123053",
+  "name": "Larkrise Primary School",
+  "address": "Boundary Brook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 4AN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453177",
+  "northing": "204691",
+  "url": "http://www.larkrise.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

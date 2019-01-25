@@ -1,0 +1,18 @@
+{
+  "urn": "101904",
+  "name": "Little Ealing Primary School",
+  "address": "Weymouth Avenue",
+  "locality": "Ealing",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W5 4EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517493",
+  "northing": "179052",
+  "url": "http://www.littleealing.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

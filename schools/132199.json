@@ -1,0 +1,18 @@
+{
+  "urn": "132199",
+  "name": "Abbotswood Primary School",
+  "address": "Kelston Close",
+  "locality": "Yate",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Gloucestershire",
+  "postcode": "BS37 8SZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "370804",
+  "northing": "180989",
+  "url": "http://www.abbotswoodprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

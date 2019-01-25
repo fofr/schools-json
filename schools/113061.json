@@ -1,0 +1,18 @@
+{
+  "urn": "113061",
+  "name": "The Duchy School Bradninch",
+  "address": "Bowley Meadow",
+  "locality": "Townlands",
+  "address3": "Bradninch",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX5 4RF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "299516",
+  "northing": "103489",
+  "url": "http://www.duchy.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

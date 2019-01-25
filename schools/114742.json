@@ -1,0 +1,18 @@
+{
+  "urn": "114742",
+  "name": "Gosbecks Primary School",
+  "address": "Owen Ward Close",
+  "locality": "Shrub End",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO2 9DG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "597269",
+  "northing": "223146",
+  "url": "http://www.gosbecks.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

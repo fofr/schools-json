@@ -1,0 +1,18 @@
+{
+  "urn": "136899",
+  "name": "Parmiter's School",
+  "address": "High Elms Lane",
+  "locality": "Garston",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD25 0UU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "511392",
+  "northing": "201727",
+  "url": "http://www.parmiters.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

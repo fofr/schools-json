@@ -1,0 +1,18 @@
+{
+  "urn": "130817",
+  "name": "City of Stoke-on-Trent Sixth Form College",
+  "address": "Leek Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 2RU",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "388150",
+  "northing": "345455",
+  "url": "www.stokesfc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

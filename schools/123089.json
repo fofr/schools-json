@@ -1,0 +1,18 @@
+{
+  "urn": "123089",
+  "name": "Southwold County Primary School",
+  "address": "Holm Way",
+  "locality": "",
+  "address3": "",
+  "town": "Bicester",
+  "county": "Oxfordshire",
+  "postcode": "OX26 3UU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458486",
+  "northing": "224104",
+  "url": "www.southwoldschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118246",
+  "name": "Maypole Primary School",
+  "address": "Franklin Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA2 7UZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "551223",
+  "northing": "172486",
+  "url": "www.maypole.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

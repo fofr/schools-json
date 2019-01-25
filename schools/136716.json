@@ -1,0 +1,18 @@
+{
+  "urn": "136716",
+  "name": "The Long Eaton School",
+  "address": "Thoresby Road",
+  "locality": "Long Eaton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG10 3NP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "448096",
+  "northing": "332989",
+  "url": "http://www.longeaton.derbyshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

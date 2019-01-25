@@ -1,0 +1,18 @@
+{
+  "urn": "143625",
+  "name": "Loseley Fields Primary School",
+  "address": "Green Lane",
+  "locality": "Binscombe",
+  "address3": "",
+  "town": "Godalming",
+  "county": "Surrey",
+  "postcode": "GU7 3TB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "497155",
+  "northing": "146105",
+  "url": "www.loseleyfields.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103178",
+  "name": "Cherry Orchard Primary School",
+  "address": "Cherry Orchard Road",
+  "locality": "Handsworth Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B20 2LB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405452",
+  "northing": "291367",
+  "url": "www.cherryorchard.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

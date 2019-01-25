@@ -1,0 +1,18 @@
+{
+  "urn": "140184",
+  "name": "Endike Academy",
+  "address": "Endike Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU6 7UR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508136",
+  "northing": "432704",
+  "url": "www.endikeprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144237",
+  "name": "Wrenthorpe Academy",
+  "address": "Imperial Avenue",
+  "locality": "Wrenthorpe",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF2 0LW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "431712",
+  "northing": "422868",
+  "url": "www.wrenthorpeacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

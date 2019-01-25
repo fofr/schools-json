@@ -1,0 +1,18 @@
+{
+  "urn": "109666",
+  "name": "Westfield School",
+  "address": "Chester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK40 4HW",
+  "minimum_age": "5",
+  "maximum_age": "13",
+  "easting": "503245",
+  "northing": "249580",
+  "url": "http://westfieldschool.net/",
+  "phase": "Middle deemed primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

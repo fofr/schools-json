@@ -1,0 +1,18 @@
+{
+  "urn": "100484",
+  "name": "Middle Row Primary School",
+  "address": "Kensal Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W10 5DB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524136",
+  "northing": "182280",
+  "url": "http://www.middlerow.rbkc.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

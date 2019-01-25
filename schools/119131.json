@@ -1,0 +1,18 @@
+{
+  "urn": "119131",
+  "name": "Ridge Community Primary School",
+  "address": "Keswick Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lancaster",
+  "county": "Lancashire",
+  "postcode": "LA1 3LE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "348552",
+  "northing": "462226",
+  "url": "www.ridge.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137763",
+  "name": "The Brunts Academy",
+  "address": "The Park",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 2AT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "454480",
+  "northing": "362016",
+  "url": "http://www.brunts.evolvetrust.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

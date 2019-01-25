@@ -1,0 +1,18 @@
+{
+  "urn": "123698",
+  "name": "Woolavington Village Primary School",
+  "address": "Higher Road",
+  "locality": "Woolavington",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA7 8EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "334487",
+  "northing": "141507",
+  "url": "http://www.woolavington.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

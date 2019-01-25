@@ -1,0 +1,18 @@
+{
+  "urn": "110972",
+  "name": "Dallam Community Primary School",
+  "address": "Boulting Avenue",
+  "locality": "Dallam",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA5 0JG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "359708",
+  "northing": "390459",
+  "url": "www.dallam.warrington.dbprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

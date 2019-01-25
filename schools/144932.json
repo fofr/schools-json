@@ -1,0 +1,18 @@
+{
+  "urn": "144932",
+  "name": "The Carlton Junior Academy",
+  "address": "Garden Avenue",
+  "locality": "Foxhill Road",
+  "address3": "Carlton",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 1QT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "460808",
+  "northing": "341590",
+  "url": "www.carlton.notts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

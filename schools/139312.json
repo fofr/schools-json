@@ -1,0 +1,18 @@
+{
+  "urn": "139312",
+  "name": "The Iffley Academy",
+  "address": "Iffley Turn",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 4DU",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "452931",
+  "northing": "204072",
+  "url": "www.iffleyacademy.co.uk",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

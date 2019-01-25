@@ -1,0 +1,18 @@
+{
+  "urn": "123300",
+  "name": "Radley College",
+  "address": "Radley",
+  "locality": "",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 2HR",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "451950",
+  "northing": "199681",
+  "url": "www.radley.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

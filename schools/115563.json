@@ -1,0 +1,18 @@
+{
+  "urn": "115563",
+  "name": "Northway Infant School",
+  "address": "Virginia Road",
+  "locality": "Northway",
+  "address3": "",
+  "town": "Tewkesbury",
+  "county": "Gloucestershire",
+  "postcode": "GL20 8PT",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "392418",
+  "northing": "233917",
+  "url": "http://www.northwayinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

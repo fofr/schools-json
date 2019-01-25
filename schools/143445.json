@@ -1,0 +1,18 @@
+{
+  "urn": "143445",
+  "name": "Pencoys Primary School",
+  "address": "Loscombe Road",
+  "locality": "Four Lanes",
+  "address3": "",
+  "town": "Redruth",
+  "county": "Cornwall",
+  "postcode": "TR16 6RB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "168922",
+  "northing": "38881",
+  "url": "www.pencoys.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

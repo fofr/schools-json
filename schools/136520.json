@@ -1,0 +1,18 @@
+{
+  "urn": "136520",
+  "name": "Beechen Cliff School",
+  "address": "Kipling Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA2 4RE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "375016",
+  "northing": "163751",
+  "url": "http://www.beechencliff.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

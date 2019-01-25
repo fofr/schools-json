@@ -1,0 +1,18 @@
+{
+  "urn": "105145",
+  "name": "The Orchards Nursery School",
+  "address": "Lower Orchards",
+  "locality": "Highfield Road",
+  "address3": "Farnworth",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL4 0RA",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "371456",
+  "northing": "405616",
+  "url": "www.theorchardsfederation.org.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

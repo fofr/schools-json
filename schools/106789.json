@@ -1,0 +1,18 @@
+{
+  "urn": "106789",
+  "name": "Ridgewood School",
+  "address": "Barnsley Road",
+  "locality": "Scawsby",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN5 7UB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "454286",
+  "northing": "404965",
+  "url": "http://www.ridgewood.doncaster.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

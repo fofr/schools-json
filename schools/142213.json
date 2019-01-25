@@ -1,0 +1,18 @@
+{
+  "urn": "142213",
+  "name": "St John's Catholic Primary School",
+  "address": "School Lane",
+  "locality": "Great Haywood",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST18 0SL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "399891",
+  "northing": "322747",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142357",
+  "name": "Newlands Girls' School",
+  "address": "Farm Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maidenhead",
+  "county": "Berkshire",
+  "postcode": "SL6 5JB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "486268",
+  "northing": "181116",
+  "url": "http://www.newlandsgirlsschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

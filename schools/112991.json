@@ -1,0 +1,18 @@
+{
+  "urn": "112991",
+  "name": "Murray Park Community School",
+  "address": "Murray Road",
+  "locality": "Mickleover",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE3 9LL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "431642",
+  "northing": "335735",
+  "url": "http://www.murraypark.derby.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

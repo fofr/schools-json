@@ -1,0 +1,18 @@
+{
+  "urn": "123057",
+  "name": "Chilton County Primary School",
+  "address": "Downside",
+  "locality": "Chilton",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 0PQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448431",
+  "northing": "185908",
+  "url": "http://www.chilton.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

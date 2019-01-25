@@ -1,0 +1,18 @@
+{
+  "urn": "117356",
+  "name": "Ley Park Primary School",
+  "address": "Cozens Lane East",
+  "locality": "",
+  "address3": "",
+  "town": "Broxbourne",
+  "county": "Hertfordshire",
+  "postcode": "EN10 6QA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536865",
+  "northing": "206091",
+  "url": "http://www.leypark.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

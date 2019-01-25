@@ -1,0 +1,18 @@
+{
+  "urn": "140062",
+  "name": "St Andrew's Church School",
+  "address": "Grove Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA2 6HA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "322613",
+  "northing": "125611",
+  "url": "www.standrewsbwmat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144192",
+  "name": "Springfield School",
+  "address": "Central Road",
+  "locality": "Drayton",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO6 1QY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "467170",
+  "northing": "105252",
+  "url": "http://www.springfield.uk.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122720",
+  "name": "Arnold Mill Primary and Nursery School",
+  "address": "Cross Street",
+  "locality": "Arnold",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 7AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458264",
+  "northing": "345733",
+  "url": "www.arnoldmillprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141463",
+  "name": "Roseberry Academy",
+  "address": "Roseberry Crescent",
+  "locality": "Great Ayton",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS9 6EP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "456575",
+  "northing": "511178",
+  "url": "www.roseberryacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

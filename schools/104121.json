@@ -1,0 +1,18 @@
+{
+  "urn": "104121",
+  "name": "Fordbridge Community Primary School",
+  "address": "Crabtree Drive",
+  "locality": "Chelmsley Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B37 5BU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "416968",
+  "northing": "287101",
+  "url": "http://www.fordbridge.solihull.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

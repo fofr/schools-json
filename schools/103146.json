@@ -1,0 +1,18 @@
+{
+  "urn": "103146",
+  "name": "City of Birmingham School",
+  "address": "The Minerva Centre",
+  "locality": "Thornthwaite Close",
+  "address3": "Frankley",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B45 0DS",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "399726",
+  "northing": "278770",
+  "url": "www.cityofbirminghamschool.com",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

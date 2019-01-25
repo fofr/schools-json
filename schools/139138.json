@@ -1,0 +1,18 @@
+{
+  "urn": "139138",
+  "name": "Aldersley High School",
+  "address": "Barnhurst Lane",
+  "locality": "Codsall",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV8 1RT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "389062",
+  "northing": "302240",
+  "url": "aldersley.aatrust.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

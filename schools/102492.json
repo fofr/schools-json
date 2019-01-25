@@ -1,0 +1,18 @@
+{
+  "urn": "102492",
+  "name": "Isleworth Town Primary School",
+  "address": "Twickenham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Isleworth",
+  "county": "Middlesex",
+  "postcode": "TW7 6AB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "516139",
+  "northing": "176282",
+  "url": "http://www.isleworthtown.hounslow.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

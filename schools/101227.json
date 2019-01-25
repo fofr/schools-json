@@ -1,0 +1,18 @@
+{
+  "urn": "101227",
+  "name": "Parsloes Primary School",
+  "address": "Spurling Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM9 5RH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548794",
+  "northing": "184928",
+  "url": "www.parsloesprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

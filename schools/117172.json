@@ -1,0 +1,18 @@
+{
+  "urn": "117172",
+  "name": "Peartree Primary School",
+  "address": "Peartree Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Welwyn Garden City",
+  "county": "Hertfordshire",
+  "postcode": "AL7 3XW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "524310",
+  "northing": "212408",
+  "url": "www.peartreeprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

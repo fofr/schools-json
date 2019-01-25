@@ -1,0 +1,18 @@
+{
+  "urn": "104448",
+  "name": "Kirkby CofE Primary School",
+  "address": "Hall Lane",
+  "locality": "Kirkby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L32 1TZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "341127",
+  "northing": "398984",
+  "url": "http://kirkbyce.webplus.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

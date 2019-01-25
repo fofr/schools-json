@@ -1,0 +1,18 @@
+{
+  "urn": "140998",
+  "name": "Tollgate Primary School",
+  "address": "Tollgate Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP32 6DG",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "584697",
+  "northing": "265871",
+  "url": "www.burytrust.org/tollgate",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

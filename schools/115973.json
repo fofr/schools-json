@@ -1,0 +1,18 @@
+{
+  "urn": "115973",
+  "name": "Anton Infant School",
+  "address": "Wellesley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Andover",
+  "county": "Hampshire",
+  "postcode": "SP10 2HF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "436164",
+  "northing": "144636",
+  "url": "http://www.antoninfantschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

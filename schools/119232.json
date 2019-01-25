@@ -1,0 +1,18 @@
+{
+  "urn": "119232",
+  "name": "Preston Grange Primary School",
+  "address": "Grange Avenue",
+  "locality": "Ribbleton",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 6PS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "357044",
+  "northing": "431836",
+  "url": "www.grange.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

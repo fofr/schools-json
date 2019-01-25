@@ -1,0 +1,18 @@
+{
+  "urn": "117773",
+  "name": "Endike Primary School",
+  "address": "Endike Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU6 7UR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508136",
+  "northing": "432704",
+  "url": "http://www.endike.hull.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

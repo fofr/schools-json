@@ -1,0 +1,18 @@
+{
+  "urn": "104075",
+  "name": "Peterbrook Primary School",
+  "address": "High Street",
+  "locality": "Solihull Lodge",
+  "address3": "Shirley",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B90 1HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409685",
+  "northing": "278620",
+  "url": "www.peterbrookschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116150",
+  "name": "Manor Infant School",
+  "address": "Fernhill Road",
+  "locality": "Cove",
+  "address3": "",
+  "town": "Farnborough",
+  "county": "Hampshire",
+  "postcode": "GU14 9DX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "485435",
+  "northing": "156767",
+  "url": "http://www.manor-inf.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

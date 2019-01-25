@@ -1,0 +1,18 @@
+{
+  "urn": "117538",
+  "name": "Sheredes School",
+  "address": "Cock Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hoddesdon",
+  "county": "Hertfordshire",
+  "postcode": "EN11 8JY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "536907",
+  "northing": "208059",
+  "url": "http://www.sheredes.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

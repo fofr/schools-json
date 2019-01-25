@@ -1,0 +1,18 @@
+{
+  "urn": "100912",
+  "name": "Marner Primary School",
+  "address": "Devas Street",
+  "locality": "Bow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E3 3LL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537992",
+  "northing": "182318",
+  "url": "http://www.marnerprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

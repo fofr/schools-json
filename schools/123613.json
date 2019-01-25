@@ -1,0 +1,18 @@
+{
+  "urn": "123613",
+  "name": "Oswestry School",
+  "address": "Upper Brook Street",
+  "locality": "",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY11 2TL",
+  "minimum_age": "4",
+  "maximum_age": "18",
+  "easting": "328495",
+  "northing": "329271",
+  "url": "http://www.oswestryschool.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

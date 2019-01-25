@@ -1,0 +1,18 @@
+{
+  "urn": "137235",
+  "name": "Stratford Girls' Grammar School",
+  "address": "Shottery Manor",
+  "locality": "",
+  "address3": "",
+  "town": "Stratford-upon-Avon",
+  "county": "Warwickshire",
+  "postcode": "CV37 9HA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "418959",
+  "northing": "254729",
+  "url": "http://www.sggs.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

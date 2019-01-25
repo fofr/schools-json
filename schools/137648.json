@@ -1,0 +1,18 @@
+{
+  "urn": "137648",
+  "name": "Redriff Primary School",
+  "address": "Salter Road",
+  "locality": "Rotherhithe",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE16 5LQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536369",
+  "northing": "179935",
+  "url": "www.redriff.southwark.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

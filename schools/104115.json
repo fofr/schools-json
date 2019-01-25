@@ -1,0 +1,18 @@
+{
+  "urn": "104115",
+  "name": "Heart of England School",
+  "address": "Gipsy Lane",
+  "locality": "Balsall Common",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV7 7FW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "424082",
+  "northing": "276514",
+  "url": "http://www.heart-england.solihull.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

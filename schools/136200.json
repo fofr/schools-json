@@ -1,0 +1,18 @@
+{
+  "urn": "136200",
+  "name": "Dartmouth Academy",
+  "address": "Milton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Dartmouth",
+  "county": "Devon",
+  "postcode": "TQ6 9HW",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "286606",
+  "northing": "50830",
+  "url": "www.dartmouthacademy.org.uk",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

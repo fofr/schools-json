@@ -1,0 +1,18 @@
+{
+  "urn": "138080",
+  "name": "St Joseph's Catholic Voluntary Academy",
+  "address": "Coventry Road",
+  "locality": "",
+  "address3": "",
+  "town": "Market Harborough",
+  "county": "Leicestershire",
+  "postcode": "LE16 9BZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "473035",
+  "northing": "287162",
+  "url": "http://www.stjosephs.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

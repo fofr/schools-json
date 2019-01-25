@@ -1,0 +1,18 @@
+{
+  "urn": "105110",
+  "name": "St Mary's Catholic College",
+  "address": "Wallasey Village",
+  "locality": "",
+  "address3": "",
+  "town": "Wallasey",
+  "county": "Merseyside",
+  "postcode": "CH45 3LN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "329336",
+  "northing": "392417",
+  "url": "http://www.stmaryscollege.wirral.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

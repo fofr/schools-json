@@ -1,0 +1,18 @@
+{
+  "urn": "141731",
+  "name": "Ravenfield Primary Academy",
+  "address": "Moor Lane North",
+  "locality": "Ravenfield",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S65 4LZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "448713",
+  "northing": "394341",
+  "url": "www.ravenfieldprimaryacademy.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

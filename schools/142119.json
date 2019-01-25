@@ -1,0 +1,18 @@
+{
+  "urn": "142119",
+  "name": "Hunsley Primary",
+  "address": "East Dale Road",
+  "locality": "Melton",
+  "address3": "",
+  "town": "North Ferriby",
+  "county": "",
+  "postcode": "HU14 3HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "496896",
+  "northing": "426605",
+  "url": "www.hunsleyprimary.org.uk",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

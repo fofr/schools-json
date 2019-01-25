@@ -1,0 +1,18 @@
+{
+  "urn": "140160",
+  "name": "West Midlands Utc",
+  "address": "Springfield Campus",
+  "locality": "",
+  "address3": "Cambridge Street",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV10 0JR",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "391958",
+  "northing": "299350",
+  "url": "www.wmcutc.co.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100880",
+  "name": "Tuke School",
+  "address": "Daniel Gardens",
+  "locality": "Peckham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE15 6ER",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "533550",
+  "northing": "177449",
+  "url": "http://www.tukeschool.co.uk/",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

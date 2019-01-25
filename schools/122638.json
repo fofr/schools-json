@@ -1,0 +1,18 @@
+{
+  "urn": "122638",
+  "name": "East Markham Primary School",
+  "address": "Askham Road",
+  "locality": "East Markham",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG22 0RG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "473970",
+  "northing": "373462",
+  "url": "www.eastmarkhamschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

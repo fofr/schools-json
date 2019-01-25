@@ -1,0 +1,18 @@
+{
+  "urn": "134698",
+  "name": "Yeovil District Hospital Education",
+  "address": "Childrens Education Unit",
+  "locality": "Level 10",
+  "address3": "Yeovil District Hospital",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA21 4AT",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "355562",
+  "northing": "116398",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119984",
+  "name": "Newlands Community Primary School",
+  "address": "Belle Vue Road",
+  "locality": "Earl Shilton",
+  "address3": "",
+  "town": "Leicester",
+  "county": "",
+  "postcode": "LE9 7PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445456",
+  "northing": "297396",
+  "url": "www.newlands.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

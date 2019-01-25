@@ -1,0 +1,18 @@
+{
+  "urn": "118886",
+  "name": "Fulston Manor School",
+  "address": "Brenchley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 4EG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "590750",
+  "northing": "162857",
+  "url": "http://www.fulstonmanor.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

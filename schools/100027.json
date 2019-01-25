@@ -1,0 +1,18 @@
+{
+  "urn": "100027",
+  "name": "Eleanor Palmer Primary School",
+  "address": "Lupton Street",
+  "locality": "Tufnell Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW5 2JA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529117",
+  "northing": "185613",
+  "url": "http://www.eleanorpalmer.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

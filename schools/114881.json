@@ -1,0 +1,18 @@
+{
+  "urn": "114881",
+  "name": "Epping Infant School",
+  "address": "23 St John's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Epping",
+  "county": "Essex",
+  "postcode": "CM16 5DN",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "545886",
+  "northing": "202184",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

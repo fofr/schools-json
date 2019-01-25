@@ -1,0 +1,18 @@
+{
+  "urn": "137726",
+  "name": "Herschel Grammar School",
+  "address": "Northampton Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL1 3BW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "496450",
+  "northing": "181013",
+  "url": "www.herschel.slough.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

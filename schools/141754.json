@@ -1,0 +1,18 @@
+{
+  "urn": "141754",
+  "name": "Godinton Primary School",
+  "address": "Lockholt Close",
+  "locality": "",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Kent",
+  "postcode": "TN23 3JR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "599006",
+  "northing": "143191",
+  "url": "http://www.godinton.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

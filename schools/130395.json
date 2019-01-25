@@ -1,0 +1,18 @@
+{
+  "urn": "130395",
+  "name": "Lawrence Community Primary School",
+  "address": "Lawrence Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L15 0EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "337967",
+  "northing": "389318",
+  "url": "http://www.lawrence-primary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145110",
+  "name": "Glebe Primary School",
+  "address": "Creswick Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Rayleigh",
+  "county": "Essex",
+  "postcode": "SS6 9HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "580164",
+  "northing": "191367",
+  "url": "www.glebeprimary.essex.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

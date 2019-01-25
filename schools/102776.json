@@ -1,0 +1,18 @@
+{
+  "urn": "102776",
+  "name": "Little Ilford School",
+  "address": "Rectory Road",
+  "locality": "Manor Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E12 6JB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "542764",
+  "northing": "185163",
+  "url": "http://www.littleilford.newham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

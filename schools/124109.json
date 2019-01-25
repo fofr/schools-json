@@ -1,0 +1,18 @@
+{
+  "urn": "124109",
+  "name": "Friarswood Primary School",
+  "address": "Abbots Way",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 2ES",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384623",
+  "northing": "345189",
+  "url": "www.friarswoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117958",
+  "name": "Welholme Infants' School",
+  "address": "Heneage Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN32 9JD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "527835",
+  "northing": "408771",
+  "url": "http://welholmeinfant.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

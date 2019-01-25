@@ -1,0 +1,18 @@
+{
+  "urn": "103680",
+  "name": "Coundon Primary School",
+  "address": "Forfield Road",
+  "locality": "Coundon",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 1FQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431384",
+  "northing": "280344",
+  "url": "www.coundon.coventry.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

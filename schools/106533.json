@@ -1,0 +1,18 @@
+{
+  "urn": "106533",
+  "name": "The Byrchall High School",
+  "address": "Warrington Road",
+  "locality": "Ashton-in-Makerfield",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN4 9PQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "357580",
+  "northing": "398486",
+  "url": "http://www.byrchall.wigan.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

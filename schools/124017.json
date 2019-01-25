@@ -1,0 +1,18 @@
+{
+  "urn": "124017",
+  "name": "Newstead Primary School",
+  "address": "Waterside Drive",
+  "locality": "Blurton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 3LQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389825",
+  "northing": "340827",
+  "url": "http://www.newstead.stoke.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

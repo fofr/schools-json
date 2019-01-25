@@ -1,0 +1,18 @@
+{
+  "urn": "118893",
+  "name": "The Canterbury High School",
+  "address": "Knight Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT2 8QA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "613730",
+  "northing": "157724",
+  "url": "http://www.canterbury.kent.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

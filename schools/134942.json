@@ -1,0 +1,18 @@
+{
+  "urn": "134942",
+  "name": "Bluebell Primary School",
+  "address": "Lovelace Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR4 7DS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "620167",
+  "northing": "307900",
+  "url": "www.bluebell.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118332",
+  "name": "Gordon Infant School",
+  "address": "Gordon Road",
+  "locality": "Strood",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 3HQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "573169",
+  "northing": "169601",
+  "url": "http://www.gordoninf.medway.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

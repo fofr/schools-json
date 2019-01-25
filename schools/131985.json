@@ -1,0 +1,18 @@
+{
+  "urn": "131985",
+  "name": "Firfield Community School",
+  "address": "Firfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE5 3HU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "421467",
+  "northing": "566857",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

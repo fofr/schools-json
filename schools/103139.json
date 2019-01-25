@@ -1,0 +1,18 @@
+{
+  "urn": "103139",
+  "name": "Featherstone Nursery School",
+  "address": "29 Highcroft Road",
+  "locality": "Erdington",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B23 6AU",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "410206",
+  "northing": "291635",
+  "url": "www.featherstonenurseryschool.org.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

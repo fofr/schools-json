@@ -1,0 +1,18 @@
+{
+  "urn": "140336",
+  "name": "Morehall Primary",
+  "address": "Chart Road",
+  "locality": "",
+  "address3": "",
+  "town": "Folkestone",
+  "county": "Kent",
+  "postcode": "CT19 4PN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "620753",
+  "northing": "136837",
+  "url": "www.turnermorehall.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

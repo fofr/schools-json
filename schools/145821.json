@@ -1,0 +1,18 @@
+{
+  "urn": "145821",
+  "name": "Sherburn Hungate Primary School",
+  "address": "North Crescent",
+  "locality": "Sherburn-in-Elmet",
+  "address3": "",
+  "town": "Leeds",
+  "county": "North Yorkshire",
+  "postcode": "LS25 6DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449455",
+  "northing": "434026",
+  "url": "www.sherburnhungate.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

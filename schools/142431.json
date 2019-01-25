@@ -1,0 +1,18 @@
+{
+  "urn": "142431",
+  "name": "Kinson Primary School",
+  "address": "School Lane",
+  "locality": "Kinson",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH11 9DG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406982",
+  "northing": "96482",
+  "url": "www.kinsonprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

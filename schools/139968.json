@@ -1,0 +1,18 @@
+{
+  "urn": "139968",
+  "name": "Wold Academy",
+  "address": "Wold Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 5QG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "504783",
+  "northing": "430330",
+  "url": "www.woldacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

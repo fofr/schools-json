@@ -1,0 +1,18 @@
+{
+  "urn": "120006",
+  "name": "Granby Primary School",
+  "address": "Granby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 8LP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457627",
+  "northing": "301331",
+  "url": "http://www.granby.leicester.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140438",
+  "name": "Parkroyal Community School",
+  "address": "Lyon Street",
+  "locality": "",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 6QX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "391198",
+  "northing": "373433",
+  "url": "www.parkroyalcs.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

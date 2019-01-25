@@ -1,0 +1,18 @@
+{
+  "urn": "120506",
+  "name": "Bythams Primary School",
+  "address": "Creeton Road",
+  "locality": "Little Bytham",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG33 4PX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "501358",
+  "northing": "319040",
+  "url": "http://www.bythams-school.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

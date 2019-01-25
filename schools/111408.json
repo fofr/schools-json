@@ -1,0 +1,18 @@
+{
+  "urn": "111408",
+  "name": "Dane Valley High School",
+  "address": "Jackson Road",
+  "locality": "",
+  "address3": "",
+  "town": "Congleton",
+  "county": "Cheshire",
+  "postcode": "CW12 1NT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "386403",
+  "northing": "364152",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

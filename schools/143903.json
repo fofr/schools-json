@@ -1,0 +1,18 @@
+{
+  "urn": "143903",
+  "name": "The Warwick School",
+  "address": "Noke Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Redhill",
+  "county": "Surrey",
+  "postcode": "RH1 4AD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "528447",
+  "northing": "150848",
+  "url": "http://www.warwick.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

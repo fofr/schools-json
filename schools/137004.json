@@ -1,0 +1,18 @@
+{
+  "urn": "137004",
+  "name": "Outwood Academy Foxhills",
+  "address": "2 Foxhills Road",
+  "locality": "",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "North Lincolnshire",
+  "postcode": "DN15 8LJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "488354",
+  "northing": "412373",
+  "url": "http://www.foxhills.outwood.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

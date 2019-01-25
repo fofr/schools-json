@@ -1,0 +1,18 @@
+{
+  "urn": "119313",
+  "name": "Crawshawbooth Primary School",
+  "address": "Burnley Road",
+  "locality": "Crawshawbooth",
+  "address3": "",
+  "town": "Rossendale",
+  "county": "Lancashire",
+  "postcode": "BB4 8AN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "381251",
+  "northing": "425834",
+  "url": "http://www.crawshawbooth.lancsngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

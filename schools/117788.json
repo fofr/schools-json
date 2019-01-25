@@ -1,0 +1,18 @@
+{
+  "urn": "117788",
+  "name": "The Leas Infants' School",
+  "address": "Manor Drive",
+  "locality": "Waltham",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN37 0NU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "526151",
+  "northing": "404104",
+  "url": "http://www.leasinfants.ne-lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

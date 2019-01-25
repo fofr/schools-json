@@ -1,0 +1,18 @@
+{
+  "urn": "103691",
+  "name": "Manor Park Primary School",
+  "address": "Ulverscroft Road",
+  "locality": "Cheylesmore",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV3 5EZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433515",
+  "northing": "277114",
+  "url": "www.manorpark.coventry.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

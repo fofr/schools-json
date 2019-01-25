@@ -1,0 +1,18 @@
+{
+  "urn": "106523",
+  "name": "Bedford High School",
+  "address": "Manchester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leigh",
+  "county": "Lancashire",
+  "postcode": "WN7 2LU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "367544",
+  "northing": "399784",
+  "url": "http://www.bedfordhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

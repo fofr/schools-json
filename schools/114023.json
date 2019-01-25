@@ -1,0 +1,18 @@
+{
+  "urn": "114023",
+  "name": "Catchgate Primary School",
+  "address": "Blackett Street",
+  "locality": "Annfield Plain",
+  "address3": "Catchgate",
+  "town": "Stanley",
+  "county": "County Durham",
+  "postcode": "DH9 8LX",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "416281",
+  "northing": "551893",
+  "url": "www.catchgate.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

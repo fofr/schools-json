@@ -1,0 +1,18 @@
+{
+  "urn": "136157",
+  "name": "Nightingale Academy",
+  "address": "34 Turin Road",
+  "locality": "Edmonton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N9 8DQ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "535338",
+  "northing": "194582",
+  "url": "www.nightingaleacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101527",
+  "name": "Salusbury Primary School",
+  "address": "Salusbury Road",
+  "locality": "Kilburn",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW6 6RG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524562",
+  "northing": "183530",
+  "url": "http://www.salusbury.brent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

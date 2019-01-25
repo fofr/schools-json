@@ -1,0 +1,18 @@
+{
+  "urn": "125265",
+  "name": "George Abbot School",
+  "address": "Woodruff Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU1 1XX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "501433",
+  "northing": "151522",
+  "url": "http://ga.digitalbrain.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

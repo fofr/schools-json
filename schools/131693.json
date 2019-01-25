@@ -1,0 +1,18 @@
+{
+  "urn": "131693",
+  "name": "Heritage Park Primary School",
+  "address": "Park Farm Way",
+  "locality": "Park Farm",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 8XA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "521746",
+  "northing": "296418",
+  "url": "www.heritageparkschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

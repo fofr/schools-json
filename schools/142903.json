@@ -1,0 +1,18 @@
+{
+  "urn": "142903",
+  "name": "London Design and Engineering UTC",
+  "address": "University Way",
+  "locality": "",
+  "address3": "Docklands Campus",
+  "town": "London",
+  "county": "",
+  "postcode": "E16 2RD",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "543476",
+  "northing": "180777",
+  "url": "www.ldeutc.co.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

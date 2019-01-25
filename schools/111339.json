@@ -1,0 +1,18 @@
+{
+  "urn": "111339",
+  "name": "St Gabriel's Catholic Primary School",
+  "address": "Well Lane",
+  "locality": "Alsager",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 2PG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "379323",
+  "northing": "355189",
+  "url": "http://www.stgabriels.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132172",
+  "name": "North Park Primary School",
+  "address": "Bessemer Green",
+  "locality": "",
+  "address3": "",
+  "town": "Spennymoor",
+  "county": "County Durham",
+  "postcode": "DL16 6PP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426468",
+  "northing": "534022",
+  "url": "www.northpark.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107246",
+  "name": "Worthinghead Primary School",
+  "address": "Wyke Lane",
+  "locality": "Wyke",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD12 9EL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "415891",
+  "northing": "427121",
+  "url": "http://www.worthinghead.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139486",
+  "name": "Farnham Heath End School",
+  "address": "Hale Reeds",
+  "locality": "",
+  "address3": "",
+  "town": "Farnham",
+  "county": "Surrey",
+  "postcode": "GU9 9BN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "485033",
+  "northing": "148792",
+  "url": "http://fhes.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

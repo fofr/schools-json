@@ -1,0 +1,18 @@
+{
+  "urn": "140276",
+  "name": "Beecroft Academy",
+  "address": "Westfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU6 1DW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "500662",
+  "northing": "222053",
+  "url": "www.beecroftacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

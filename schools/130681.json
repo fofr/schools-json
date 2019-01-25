@@ -1,0 +1,18 @@
+{
+  "urn": "130681",
+  "name": "SEEVIC College",
+  "address": "Runnymede Chase",
+  "locality": "",
+  "address3": "",
+  "town": "Benfleet",
+  "county": "Essex",
+  "postcode": "SS7 1TW",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "579141",
+  "northing": "187997",
+  "url": "www.seevic-college.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

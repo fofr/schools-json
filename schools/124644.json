@@ -1,0 +1,18 @@
+{
+  "urn": "124644",
+  "name": "Hillside Community Primary School",
+  "address": "Belstead Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP2 8NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "616093",
+  "northing": "243330",
+  "url": "www.hillsidecp.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

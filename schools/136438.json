@@ -1,0 +1,18 @@
+{
+  "urn": "136438",
+  "name": "Pakefield School",
+  "address": "London Road Pakefield",
+  "locality": "Pakefield",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR33 7AQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "653215",
+  "northing": "289978",
+  "url": "www.pakefield.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

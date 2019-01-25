@@ -1,0 +1,18 @@
+{
+  "urn": "131643",
+  "name": "Colchester Pupil Referral Unit",
+  "address": "71 London Road",
+  "locality": "Copford",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO6 1EB",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "591762",
+  "northing": "223742",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

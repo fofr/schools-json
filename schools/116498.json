@@ -1,0 +1,18 @@
+{
+  "urn": "116498",
+  "name": "Crofton School",
+  "address": "Marks Road",
+  "locality": "Stubbington",
+  "address3": "",
+  "town": "Fareham",
+  "county": "Hampshire",
+  "postcode": "PO14 2AT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "456112",
+  "northing": "102881",
+  "url": "http://www.croftonschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

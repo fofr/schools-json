@@ -1,0 +1,18 @@
+{
+  "urn": "145404",
+  "name": "West Exe School",
+  "address": "Hatherleigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Exeter",
+  "county": "",
+  "postcode": "EX2 9JU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "291375",
+  "northing": "90856",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

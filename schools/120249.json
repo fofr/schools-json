@@ -1,0 +1,18 @@
+{
+  "urn": "120249",
+  "name": "Roundhill Community College",
+  "address": "997 Melton Road",
+  "locality": "Thurmaston",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 8GQ",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "461483",
+  "northing": "310384",
+  "url": "www.roundhill.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

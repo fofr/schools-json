@@ -1,0 +1,18 @@
+{
+  "urn": "145594",
+  "name": "Chilton Academy",
+  "address": "Chilton",
+  "locality": "",
+  "address3": "",
+  "town": "Ferryhill",
+  "county": "County Durham",
+  "postcode": "DL17 0PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "428716",
+  "northing": "529472",
+  "url": "www.chilton.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103519",
+  "name": "Moseley School and Sixth Form",
+  "address": "Wake Green Road",
+  "locality": "Moseley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B13 9UU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "409336",
+  "northing": "282527",
+  "url": "http://www.moseley.bham.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

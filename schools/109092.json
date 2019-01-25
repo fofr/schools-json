@@ -1,0 +1,18 @@
+{
+  "urn": "109092",
+  "name": "Kewstoke Primary School",
+  "address": "Kewstoke Road",
+  "locality": "Kewstoke",
+  "address3": "",
+  "town": "Weston-Super-Mare",
+  "county": "Somerset",
+  "postcode": "BS22 9YF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "333760",
+  "northing": "163400",
+  "url": "http://www.kewstokeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

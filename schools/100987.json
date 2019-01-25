@@ -1,0 +1,18 @@
+{
+  "urn": "100987",
+  "name": "Phoenix School",
+  "address": "49 Bow Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E3 2AD",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "536992",
+  "northing": "182799",
+  "url": "www.phoenix.towerhamlets.sch.uk/thamlets/primary/phoenix",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

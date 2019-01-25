@@ -1,0 +1,18 @@
+{
+  "urn": "139536",
+  "name": "The Telford Park School",
+  "address": "District Centre",
+  "locality": "Stirchley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 1FA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "370681",
+  "northing": "306545",
+  "url": "http://www.telfordparkschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

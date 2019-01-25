@@ -1,0 +1,18 @@
+{
+  "urn": "112983",
+  "name": "Shelton Junior School",
+  "address": "Carlton Avenue",
+  "locality": "Shelton Lock",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE24 9EJ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "437001",
+  "northing": "331569",
+  "url": "http://www.sheltonjuniors.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

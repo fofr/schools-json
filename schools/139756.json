@@ -1,0 +1,18 @@
+{
+  "urn": "139756",
+  "name": "Morpeth Road Academy",
+  "address": "Bates Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Blyth",
+  "county": "Northumberland",
+  "postcode": "NE24 5TQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429922",
+  "northing": "581995",
+  "url": "https://morpethroad.wiseacademies.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

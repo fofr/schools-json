@@ -1,0 +1,18 @@
+{
+  "urn": "131255",
+  "name": "Reynolds Primary School",
+  "address": "Machray Place",
+  "locality": "",
+  "address3": "",
+  "town": "Cleethorpes",
+  "county": "Lincolnshire",
+  "postcode": "DN35 7LJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529954",
+  "northing": "409099",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

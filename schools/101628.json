@@ -1,0 +1,18 @@
+{
+  "urn": "101628",
+  "name": "Anerley Primary School",
+  "address": "William Booth Road",
+  "locality": "Anerley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE20 8BW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "534388",
+  "northing": "169775",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

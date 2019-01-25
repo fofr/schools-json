@@ -1,0 +1,18 @@
+{
+  "urn": "120277",
+  "name": "Crown Hills Community College",
+  "address": "Gwendolen Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 5FT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "461697",
+  "northing": "303796",
+  "url": "http://www.crownhills.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

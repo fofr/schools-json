@@ -1,0 +1,18 @@
+{
+  "urn": "143159",
+  "name": "Acton Church of England Primary Academy",
+  "address": "Chester Road",
+  "locality": "Acton",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 8LG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "363233",
+  "northing": "353243",
+  "url": "www.actonceprimary.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

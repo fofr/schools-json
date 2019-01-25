@@ -1,0 +1,18 @@
+{
+  "urn": "137935",
+  "name": "Sacred Heart High School",
+  "address": "212 Hammersmith Road",
+  "locality": "",
+  "address3": "Hammersmith",
+  "town": "London",
+  "county": "",
+  "postcode": "W6 7DG",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "523435",
+  "northing": "178678",
+  "url": "www.sacredhearthigh.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

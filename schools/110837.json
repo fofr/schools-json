@@ -1,0 +1,18 @@
+{
+  "urn": "110837",
+  "name": "Park Street CofE Primary School",
+  "address": "Lower Park Street",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB5 8AR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "544941",
+  "northing": "258973",
+  "url": "http://www.parkstreet.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

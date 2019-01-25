@@ -1,0 +1,18 @@
+{
+  "urn": "135551",
+  "name": "Swallow Hill Community College",
+  "address": "Whingate Road",
+  "locality": "Armley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 3DS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426259",
+  "northing": "433223",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

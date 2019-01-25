@@ -1,0 +1,18 @@
+{
+  "urn": "114419",
+  "name": "Seaford Primary School",
+  "address": "Wilkinson Way",
+  "locality": "",
+  "address3": "",
+  "town": "Seaford",
+  "county": "East Sussex",
+  "postcode": "BN25 2JF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "548425",
+  "northing": "99616",
+  "url": "http://www.seafordprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106595",
+  "name": "Birdwell Primary School",
+  "address": "Sheffield Road",
+  "locality": "Birdwell",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S70 5XB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "434606",
+  "northing": "401433",
+  "url": "www.birdwellprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

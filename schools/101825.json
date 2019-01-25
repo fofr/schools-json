@@ -1,0 +1,18 @@
+{
+  "urn": "101825",
+  "name": "Shirley High School Performing Arts College",
+  "address": "Shirley Church Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 5EF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "535883",
+  "northing": "165190",
+  "url": "http://www.shirley.croydon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

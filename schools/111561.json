@@ -1,0 +1,18 @@
+{
+  "urn": "111561",
+  "name": "Junction Farm Primary School",
+  "address": "Butterfield Drive",
+  "locality": "Eaglescliffe",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "",
+  "postcode": "TS16 0EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "441741",
+  "northing": "514145",
+  "url": "www.junctionfarm.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112230",
+  "name": "Kingmoor Nursery and Infant School",
+  "address": "Hether Drive",
+  "locality": "Lowry Hill",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA3 0ES",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "339181",
+  "northing": "558493",
+  "url": "www.kingmoorinfants.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

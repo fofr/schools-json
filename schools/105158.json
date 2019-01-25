@@ -1,0 +1,18 @@
+{
+  "urn": "105158",
+  "name": "Lever Edge Primary School",
+  "address": "Lever Edge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 3HP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "371068",
+  "northing": "406958",
+  "url": "http://www.lever-edge.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

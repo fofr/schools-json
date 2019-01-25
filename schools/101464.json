@@ -1,0 +1,18 @@
+{
+  "urn": "101464",
+  "name": "Westwood College",
+  "address": "The Green",
+  "locality": "",
+  "address3": "",
+  "town": "Welling",
+  "county": "Kent",
+  "postcode": "DA16 2PE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "545065",
+  "northing": "175424",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

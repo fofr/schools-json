@@ -1,0 +1,18 @@
+{
+  "urn": "139598",
+  "name": "New Islington Free School",
+  "address": "10 Hugh Oldham Way",
+  "locality": "New Islington Marina",
+  "address3": "Ancoats",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M4 6EY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "385129",
+  "northing": "398505",
+  "url": "www.newislingtonschool.org",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122463",
+  "name": "Croft Primary School",
+  "address": "Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton-in-Ashfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 5FJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449865",
+  "northing": "358781",
+  "url": "http://www.croft.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

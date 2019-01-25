@@ -1,0 +1,18 @@
+{
+  "urn": "138348",
+  "name": "Parkland Primary School South Wigston",
+  "address": "St Thomas Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wigston",
+  "county": "Leicestershire",
+  "postcode": "LE18 4TA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458621",
+  "northing": "298231",
+  "url": "www.parklandprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122831",
+  "name": "William Crane School",
+  "address": "East Gate",
+  "locality": "Minver Crescent",
+  "address3": "Aspley",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 5PN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "453514",
+  "northing": "342491",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

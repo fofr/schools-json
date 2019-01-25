@@ -1,0 +1,18 @@
+{
+  "urn": "124983",
+  "name": "Fetcham Village Infant School",
+  "address": "School Lane",
+  "locality": "Fetcham",
+  "address3": "",
+  "town": "Leatherhead",
+  "county": "Surrey",
+  "postcode": "KT22 9JU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "514837",
+  "northing": "155994",
+  "url": "http://www.fetcham.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100455",
+  "name": "Highbury Fields School",
+  "address": "Highbury Hill",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N5 1AR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "531721",
+  "northing": "185476",
+  "url": "http://www.highburyfields.islington.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

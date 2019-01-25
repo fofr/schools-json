@@ -1,0 +1,18 @@
+{
+  "urn": "105776",
+  "name": "Spotland Primary School",
+  "address": "Edmund Street",
+  "locality": "",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL12 6QG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388896",
+  "northing": "413912",
+  "url": "http://www.spotland.rochdale.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

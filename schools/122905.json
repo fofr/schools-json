@@ -1,0 +1,18 @@
+{
+  "urn": "122905",
+  "name": "Padstow School",
+  "address": "Padstow Road",
+  "locality": "Bestwood Estate",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 5GH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "455710",
+  "northing": "344664",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

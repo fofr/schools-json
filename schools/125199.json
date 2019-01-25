@@ -1,0 +1,18 @@
+{
+  "urn": "125199",
+  "name": "Clandon CofE Aided Primary School",
+  "address": "The Street",
+  "locality": "West Clandon",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU4 7ST",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "504532",
+  "northing": "151865",
+  "url": "www.clandon.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

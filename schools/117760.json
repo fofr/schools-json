@@ -1,0 +1,18 @@
+{
+  "urn": "117760",
+  "name": "Grange Lane Infant School",
+  "address": "Wyredale Road",
+  "locality": "Ashby",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "Lincolnshire",
+  "postcode": "DN16 2PZ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "490860",
+  "northing": "408313",
+  "url": "http://www.grangelaneinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

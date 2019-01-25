@@ -1,0 +1,18 @@
+{
+  "urn": "129823",
+  "name": "Seaview Primary School",
+  "address": "The Avenue",
+  "locality": "Deneside",
+  "address3": "",
+  "town": "Seaham",
+  "county": "County Durham",
+  "postcode": "SR7 8PD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "441356",
+  "northing": "548900",
+  "url": "www.seaview.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

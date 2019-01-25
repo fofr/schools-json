@@ -1,0 +1,18 @@
+{
+  "urn": "138961",
+  "name": "St Michael's Catholic College",
+  "address": "Llewellyn Street",
+  "locality": "Bermondsey",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE16 4UN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "534205",
+  "northing": "179715",
+  "url": "http://www.stmichaelscollege.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

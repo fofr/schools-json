@@ -1,0 +1,18 @@
+{
+  "urn": "137082",
+  "name": "Nene Park Academy",
+  "address": "Oundle Road",
+  "locality": "Orton Longueville",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 7EA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "516318",
+  "northing": "296372",
+  "url": "www.neneparkacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

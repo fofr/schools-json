@@ -1,0 +1,18 @@
+{
+  "urn": "122539",
+  "name": "John Clifford Primary School",
+  "address": "Nether Street",
+  "locality": "Beeston",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG9 2AT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453221",
+  "northing": "336813",
+  "url": "www.johncliffordschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

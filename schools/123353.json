@@ -1,0 +1,18 @@
+{
+  "urn": "123353",
+  "name": "Alveley Primary School",
+  "address": "Daddlebrook Road",
+  "locality": "Alveley",
+  "address3": "",
+  "town": "Bridgnorth",
+  "county": "Shropshire",
+  "postcode": "WV15 6JT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "376469",
+  "northing": "284694",
+  "url": "www.alveley.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

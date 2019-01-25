@@ -1,0 +1,18 @@
+{
+  "urn": "136190",
+  "name": "Derbyshire Support Centre (Alternative Provision)",
+  "address": "County Behaviour Support Service",
+  "locality": "Brookside Road",
+  "address3": "Breadsall",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE21 5LF",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "437138",
+  "northing": "339634",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

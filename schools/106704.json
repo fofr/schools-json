@@ -1,0 +1,18 @@
+{
+  "urn": "106704",
+  "name": "Kirk Sandall Infant School",
+  "address": "Queen Mary Crescent",
+  "locality": "Kirk Sandall",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN3 1JT",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "461760",
+  "northing": "407381",
+  "url": "http://www.ksinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

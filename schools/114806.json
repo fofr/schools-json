@@ -1,0 +1,18 @@
+{
+  "urn": "114806",
+  "name": "Maldon Primary School",
+  "address": "Wantz Chase",
+  "locality": "",
+  "address3": "",
+  "town": "Maldon",
+  "county": "Essex",
+  "postcode": "CM9 5DQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "585387",
+  "northing": "206645",
+  "url": "www.maldonprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

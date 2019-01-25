@@ -1,0 +1,18 @@
+{
+  "urn": "143556",
+  "name": "Kexborough Primary School",
+  "address": "Ballfield Lane",
+  "locality": "Kexborough",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S75 5EF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429994",
+  "northing": "409740",
+  "url": "www.kexborough-primary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

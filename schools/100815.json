@@ -1,0 +1,18 @@
+{
+  "urn": "100815",
+  "name": "Victory Primary School",
+  "address": "Elba Place",
+  "locality": "Rodney Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE17 1PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532497",
+  "northing": "178834",
+  "url": "www.victory.southwark.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

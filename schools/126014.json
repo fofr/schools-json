@@ -1,0 +1,18 @@
+{
+  "urn": "126014",
+  "name": "Albourne CofE Primary School",
+  "address": "The Street",
+  "locality": "Albourne",
+  "address3": "",
+  "town": "Hassocks",
+  "county": "West Sussex",
+  "postcode": "BN6 9DH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "526328",
+  "northing": "116729",
+  "url": "http://www.albournecep.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

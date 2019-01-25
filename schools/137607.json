@@ -1,0 +1,18 @@
+{
+  "urn": "137607",
+  "name": "The Tyrrells School",
+  "address": "Tavistock Road",
+  "locality": "Springfield",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM1 6JN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "572089",
+  "northing": "208280",
+  "url": "http://www.tyrrellsprimary.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

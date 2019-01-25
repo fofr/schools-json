@@ -1,0 +1,18 @@
+{
+  "urn": "105295",
+  "name": "Lowercroft Primary School",
+  "address": "Ashington Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL8 2TS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "377545",
+  "northing": "410545",
+  "url": "www.lowercroft.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

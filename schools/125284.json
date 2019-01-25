@@ -1,0 +1,18 @@
+{
+  "urn": "125284",
+  "name": "Hawkedale Primary School",
+  "address": "Stratton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sunbury-on-Thames",
+  "county": "Surrey",
+  "postcode": "TW16 6PG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "509962",
+  "northing": "168874",
+  "url": "http://www.hawkedale.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103281",
+  "name": "Yardley Wood Community Primary School",
+  "address": "School Road",
+  "locality": "Yardley Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B14 4ER",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409575",
+  "northing": "279764",
+  "url": "www.ydlywood.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

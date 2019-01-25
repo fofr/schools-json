@@ -1,0 +1,18 @@
+{
+  "urn": "112705",
+  "name": "Norbriggs Primary School",
+  "address": "Norbriggs Road",
+  "locality": "Mastin Moor",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S43 3BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "444824",
+  "northing": "375107",
+  "url": "www.norbriggs.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

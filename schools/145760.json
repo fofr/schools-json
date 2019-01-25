@@ -1,0 +1,18 @@
+{
+  "urn": "145760",
+  "name": "Village Primary Academy",
+  "address": "Village Street",
+  "locality": "Normanton",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE23 8DF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "434809",
+  "northing": "333598",
+  "url": "alvastonjandvillagefed.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

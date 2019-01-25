@@ -1,0 +1,18 @@
+{
+  "urn": "110652",
+  "name": "Peckover Primary School",
+  "address": "Leverington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 1PJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "545660",
+  "northing": "310345",
+  "url": "http://edweb.camcnty.gov.uk/schools/peckover/Peckover%20Home.htm",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

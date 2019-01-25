@@ -1,0 +1,18 @@
+{
+  "urn": "138104",
+  "name": "Timberley Academy",
+  "address": "Bradley Road",
+  "locality": "Shard End",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B34 7RL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415633",
+  "northing": "288819",
+  "url": "www.timberleyacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

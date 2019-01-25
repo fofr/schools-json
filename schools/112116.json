@@ -1,0 +1,18 @@
+{
+  "urn": "112116",
+  "name": "Nenthead Primary School",
+  "address": "Nenthead",
+  "locality": "",
+  "address3": "",
+  "town": "Alston",
+  "county": "Cumbria",
+  "postcode": "CA9 3LS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "377745",
+  "northing": "543845",
+  "url": "http://www.alstonmoorfederation.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

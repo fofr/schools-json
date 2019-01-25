@@ -1,0 +1,18 @@
+{
+  "urn": "141275",
+  "name": "Gatley Primary School",
+  "address": "Hawthorn Road",
+  "locality": "Gatley",
+  "address3": "Cheadle",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK8 4NB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384321",
+  "northing": "388155",
+  "url": "www.gatleyprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

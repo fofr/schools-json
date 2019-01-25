@@ -1,0 +1,18 @@
+{
+  "urn": "131744",
+  "name": "Pinkwell Primary School",
+  "address": "Pinkwell Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hayes",
+  "county": "",
+  "postcode": "UB3 1PG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508426",
+  "northing": "178846",
+  "url": "http://www.pinkwellschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

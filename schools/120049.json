@@ -1,0 +1,18 @@
+{
+  "urn": "120049",
+  "name": "Highgate Community Primary School",
+  "address": "Heathcote Drive",
+  "locality": "Sileby",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 7ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "460873",
+  "northing": "315958",
+  "url": "www.highgate.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

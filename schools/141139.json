@@ -1,0 +1,18 @@
+{
+  "urn": "141139",
+  "name": "Education Links",
+  "address": "90 Chandos Road",
+  "locality": "Stratford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E15 1TT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "538844",
+  "northing": "185485",
+  "url": "www.education-links.org",
+  "phase": "Not applicable",
+  "type": "Free Schools",
+  "detailed_type": "Free schools alternative provision"
+}

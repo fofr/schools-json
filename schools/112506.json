@@ -1,0 +1,18 @@
+{
+  "urn": "112506",
+  "name": "Blackwell Community Primary and Nursery School",
+  "address": "Primrose Hill",
+  "locality": "Blackwell",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 5JG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443486",
+  "northing": "358377",
+  "url": "www.blackwellprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

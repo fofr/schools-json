@@ -1,0 +1,18 @@
+{
+  "urn": "100784",
+  "name": "Crampton Primary",
+  "address": "Iliffe Street",
+  "locality": "Walworth",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE17 3LE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "531943",
+  "northing": "178490",
+  "url": "www.cramptonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

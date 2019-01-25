@@ -1,0 +1,18 @@
+{
+  "urn": "127457",
+  "name": "Broadfield Upper School",
+  "address": "Nelson Street",
+  "locality": "",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL16 1NN",
+  "minimum_age": "13",
+  "maximum_age": "16",
+  "easting": "389800",
+  "northing": "413300",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

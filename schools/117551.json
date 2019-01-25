@@ -1,0 +1,18 @@
+{
+  "urn": "117551",
+  "name": "The Chauncy School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ware",
+  "county": "Hertfordshire",
+  "postcode": "SG12 0DP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "534833",
+  "northing": "214724",
+  "url": "http://www.chauncy.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102204",
+  "name": "Cannon Lane Primary School",
+  "address": "Cannonbury Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Pinner",
+  "county": "",
+  "postcode": "HA5 1TS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "511772",
+  "northing": "188117",
+  "url": "www.cannonlaneprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

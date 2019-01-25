@@ -1,0 +1,18 @@
+{
+  "urn": "103081",
+  "name": "Parkside Primary School",
+  "address": "21 Wellington Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Chingford",
+  "county": "",
+  "postcode": "E4 6RE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537559",
+  "northing": "193679",
+  "url": "www.parksideprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

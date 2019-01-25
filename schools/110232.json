@@ -1,0 +1,18 @@
+{
+  "urn": "110232",
+  "name": "Green Street First School",
+  "address": "Desborough Street",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP11 2RA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "485540",
+  "northing": "193313",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

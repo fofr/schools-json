@@ -1,0 +1,18 @@
+{
+  "urn": "136870",
+  "name": "Ermine Primary Academy",
+  "address": "Redbourne Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN2 2HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "498257",
+  "northing": "373466",
+  "url": "www.ermineprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

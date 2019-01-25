@@ -1,0 +1,18 @@
+{
+  "urn": "101212",
+  "name": "Rush Green Primary School",
+  "address": "Dagenham Road",
+  "locality": "Rush Green",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM7 0RL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "550976",
+  "northing": "187161",
+  "url": "www.rushgreenprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137545",
+  "name": "St John's (CofE) Primary Academy, Clifton",
+  "address": "Towngate",
+  "locality": "Clifton",
+  "address3": "",
+  "town": "Brighouse",
+  "county": "West Yorkshire",
+  "postcode": "HD6 4HP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "416170",
+  "northing": "422800",
+  "url": "http://www.stjohnsacademyclifton.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

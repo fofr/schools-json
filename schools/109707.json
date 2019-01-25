@@ -1,0 +1,18 @@
+{
+  "urn": "109707",
+  "name": "Ashcroft High School",
+  "address": "Crawley Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU2 9AG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "511380",
+  "northing": "222627",
+  "url": "http://ashcrofthighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

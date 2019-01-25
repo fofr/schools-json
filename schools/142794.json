@@ -1,0 +1,18 @@
+{
+  "urn": "142794",
+  "name": "Gossey Lane Academy",
+  "address": "Gossey Lane",
+  "locality": "Kitts Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B33 0DS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415123",
+  "northing": "286787",
+  "url": "www.gosseylane.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107938",
+  "name": "Shakespeare Primary School",
+  "address": "Lincoln Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS9 7NP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "431319",
+  "northing": "434402",
+  "url": "www.shakespeareleeds.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

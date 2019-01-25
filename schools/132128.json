@@ -1,0 +1,18 @@
+{
+  "urn": "132128",
+  "name": "St Thomas's Centre",
+  "address": "Lambeth Street",
+  "locality": "",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB1 1NA",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "369463",
+  "northing": "428089",
+  "url": "www.stthomasscentre.com",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

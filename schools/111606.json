@@ -1,0 +1,18 @@
+{
+  "urn": "111606",
+  "name": "West View Primary School",
+  "address": "Davison Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS24 9BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449942",
+  "northing": "534765",
+  "url": "http://www.westview.hartlepool.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

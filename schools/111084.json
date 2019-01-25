@@ -1,0 +1,18 @@
+{
+  "urn": "111084",
+  "name": "Cambridge Road Community Primary and Nursery School",
+  "address": "Cambridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Cheshire",
+  "postcode": "CH65 4AQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "340320",
+  "northing": "376241",
+  "url": "http://www.cambridgeroad.school.cheshire.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105173",
+  "name": "Beaumont Primary School",
+  "address": "Wendover Drive",
+  "locality": "Ladybridge",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 4RX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "368259",
+  "northing": "408224",
+  "url": "www.beaumontprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

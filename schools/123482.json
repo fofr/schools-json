@@ -1,0 +1,18 @@
+{
+  "urn": "123482",
+  "name": "Longnor CofE Primary School",
+  "address": "Frodesley Road",
+  "locality": "Longnor",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY5 7PP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "348946",
+  "northing": "300491",
+  "url": "www.longnor.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

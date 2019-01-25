@@ -1,0 +1,18 @@
+{
+  "urn": "121687",
+  "name": "King James's School",
+  "address": "King James Road",
+  "locality": "",
+  "address3": "",
+  "town": "Knaresborough",
+  "county": "North Yorkshire",
+  "postcode": "HG5 8EB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "435428",
+  "northing": "456695",
+  "url": "http://www.king-james.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

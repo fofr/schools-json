@@ -1,0 +1,18 @@
+{
+  "urn": "111539",
+  "name": "Mill Lane Primary School",
+  "address": "Wellington Street",
+  "locality": "",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "Teesside",
+  "postcode": "TS18 1QX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "444212",
+  "northing": "519182",
+  "url": "www.milllane.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

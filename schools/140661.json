@@ -1,0 +1,18 @@
+{
+  "urn": "140661",
+  "name": "Cravenwood Primary Academy",
+  "address": "Cravenwood Road",
+  "locality": "Crumpsall",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M8 5AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384059",
+  "northing": "402024",
+  "url": "www.cravenwoodprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

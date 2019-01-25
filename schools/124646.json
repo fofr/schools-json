@@ -1,0 +1,18 @@
+{
+  "urn": "124646",
+  "name": "St Helen's Primary School",
+  "address": "Woodbridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP4 2LT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "617103",
+  "northing": "244629",
+  "url": "www.sthelensprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143782",
+  "name": "Lapal Primary School",
+  "address": "Priory Road",
+  "locality": "",
+  "address3": "",
+  "town": "Halesowen",
+  "county": "West Midlands",
+  "postcode": "B62 0BZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "398526",
+  "northing": "283821",
+  "url": "www.lapal.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

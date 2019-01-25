@@ -1,0 +1,18 @@
+{
+  "urn": "101113",
+  "name": "Millbank Primary School",
+  "address": "Erasmus Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW1P 4HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529889",
+  "northing": "178598",
+  "url": "http://www.millbank.westminster.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

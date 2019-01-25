@@ -1,0 +1,18 @@
+{
+  "urn": "106052",
+  "name": "Hursthead Infant School",
+  "address": "Kirkstead Road",
+  "locality": "Cheadle Hulme",
+  "address3": "",
+  "town": "Cheadle",
+  "county": "Cheshire",
+  "postcode": "SK8 7PZ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "388086",
+  "northing": "384955",
+  "url": "www.hurstheadinfant.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

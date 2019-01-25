@@ -1,0 +1,18 @@
+{
+  "urn": "142663",
+  "name": "Hucklow Primary School",
+  "address": "Hucklow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S5 6TB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "436443",
+  "northing": "390882",
+  "url": "www.hucklow.sheffield.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

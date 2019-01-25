@@ -1,0 +1,18 @@
+{
+  "urn": "102007",
+  "name": "Walker Primary School",
+  "address": "Waterfall Road",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 7EG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "529728",
+  "northing": "193491",
+  "url": "www.walker.enfield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

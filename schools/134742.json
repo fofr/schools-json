@@ -1,0 +1,18 @@
+{
+  "urn": "134742",
+  "name": "Westfield Community School",
+  "address": "Montrose Avenue",
+  "locality": "Pemberton",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN5 9XN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "355512",
+  "northing": "405315",
+  "url": "www.westfield.wigan.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

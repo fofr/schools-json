@@ -1,0 +1,18 @@
+{
+  "urn": "123319",
+  "name": "Windrush Valley School",
+  "address": "The Green",
+  "locality": "London Lane",
+  "address3": "Ascott-under-Wychwood",
+  "town": "Chipping Norton",
+  "county": "Oxfordshire",
+  "postcode": "OX7 6AN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "430179",
+  "northing": "218698",
+  "url": "www.windrushvalleyschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

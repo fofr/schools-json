@@ -1,0 +1,18 @@
+{
+  "urn": "123275",
+  "name": "Bloxham School",
+  "address": "Bloxham",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX15 4PE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "443091",
+  "northing": "236203",
+  "url": "www.bloxhamschool.com",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

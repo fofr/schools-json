@@ -1,0 +1,18 @@
+{
+  "urn": "115924",
+  "name": "Langrish Primary School",
+  "address": "Ramsdean Road",
+  "locality": "Stroud",
+  "address3": "",
+  "town": "Petersfield",
+  "county": "Hampshire",
+  "postcode": "GU32 3PJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "472242",
+  "northing": "123394",
+  "url": "http://www.langrish.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

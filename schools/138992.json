@@ -1,0 +1,18 @@
+{
+  "urn": "138992",
+  "name": "Grampian Primary Academy",
+  "address": "Grampian Way",
+  "locality": "Sinfin",
+  "address3": "",
+  "town": "Derby",
+  "county": "",
+  "postcode": "DE24 9LU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433954",
+  "northing": "331814",
+  "url": "www.grampianprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

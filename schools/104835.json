@@ -1,0 +1,18 @@
+{
+  "urn": "104835",
+  "name": "St Cuthbert's Catholic High School",
+  "address": "Berrys Lane",
+  "locality": "Sutton",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA9 3HE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "353554",
+  "northing": "394324",
+  "url": "http://www.stcuthberts.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

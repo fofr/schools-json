@@ -1,0 +1,18 @@
+{
+  "urn": "140212",
+  "name": "Kensington Aldridge Academy",
+  "address": "1 Silchester Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W10 6EX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "523920",
+  "northing": "180986",
+  "url": "http://www.kensingtonaldridgeacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

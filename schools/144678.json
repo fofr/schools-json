@@ -1,0 +1,18 @@
+{
+  "urn": "144678",
+  "name": "Glaisdale Primary School",
+  "address": "Glaisdale",
+  "locality": "",
+  "address3": "",
+  "town": "Whitby",
+  "county": "North Yorkshire",
+  "postcode": "YO21 2PZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "477193",
+  "northing": "505132",
+  "url": "http://www.glaisdale.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

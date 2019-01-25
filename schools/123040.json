@@ -1,0 +1,18 @@
+{
+  "urn": "123040",
+  "name": "Woodcote Primary School",
+  "address": "Reading Road",
+  "locality": "Woodcote",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG8 0QY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "464772",
+  "northing": "182042",
+  "url": "www.woodcote-primary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

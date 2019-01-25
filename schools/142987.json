@@ -1,0 +1,18 @@
+{
+  "urn": "142987",
+  "name": "Walton High School",
+  "address": "The Rise",
+  "locality": "Walton-on-the-Hill",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST17 0LJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "395348",
+  "northing": "320972",
+  "url": "http://www.waltonstaffs.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

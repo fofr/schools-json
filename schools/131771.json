@@ -1,0 +1,18 @@
+{
+  "urn": "131771",
+  "name": "Moor Green Primary",
+  "address": "Moor Green Lane",
+  "locality": "Moseley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B13 8QP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406258",
+  "northing": "282245",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

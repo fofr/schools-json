@@ -1,0 +1,18 @@
+{
+  "urn": "124855",
+  "name": "Foxborough Middle School",
+  "address": "Foxborough Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR32 4SN",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "653216",
+  "northing": "295111",
+  "url": "http://www.foxborough.org.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

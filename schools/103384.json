@@ -1,0 +1,18 @@
+{
+  "urn": "103384",
+  "name": "Nelson Mandela School",
+  "address": "Colville Road",
+  "locality": "Sparkbrook",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B12 8EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "408622",
+  "northing": "284281",
+  "url": "www.nelsonmandelaschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

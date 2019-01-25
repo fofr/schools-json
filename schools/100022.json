@@ -1,0 +1,18 @@
+{
+  "urn": "100022",
+  "name": "Richard Cobden Primary School",
+  "address": "Camden Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW1 0LL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529342",
+  "northing": "183487",
+  "url": "http://www.rcobden.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143288",
+  "name": "Scalby School",
+  "address": "Fieldstead Crescent",
+  "locality": "Newby",
+  "address3": "",
+  "town": "Scarborough",
+  "county": "North Yorkshire",
+  "postcode": "YO12 6TH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "501940",
+  "northing": "489810",
+  "url": "http://www.scalbyschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

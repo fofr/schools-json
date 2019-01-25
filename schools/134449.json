@@ -1,0 +1,18 @@
+{
+  "urn": "134449",
+  "name": "Davidson Primary School",
+  "address": "Dartnell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 6JA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533675",
+  "northing": "166776",
+  "url": "www.davidsonprimary.croydon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

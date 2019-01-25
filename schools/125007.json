@@ -1,0 +1,18 @@
+{
+  "urn": "125007",
+  "name": "Barnsbury Junior School",
+  "address": "Almond Avenue",
+  "locality": "Barnsbury Estate",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU22 0BB",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "499782",
+  "northing": "156989",
+  "url": "http://www.barnsbury-junior.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

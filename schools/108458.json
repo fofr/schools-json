@@ -1,0 +1,18 @@
+{
+  "urn": "108458",
+  "name": "Byker Primary School",
+  "address": "Commercial Road",
+  "locality": "Byker",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE6 2AT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "426970",
+  "northing": "564376",
+  "url": "www.byker.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

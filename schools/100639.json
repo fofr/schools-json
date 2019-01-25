@@ -1,0 +1,18 @@
+{
+  "urn": "100639",
+  "name": "Dunraven School",
+  "address": "94-98 Leigham Court Road",
+  "locality": "Streatham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW16 2QB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "530821",
+  "northing": "172106",
+  "url": "http://www.dunraven-school.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

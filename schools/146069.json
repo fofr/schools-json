@@ -1,0 +1,18 @@
+{
+  "urn": "146069",
+  "name": "Hemington Primary School",
+  "address": "Hemington",
+  "locality": "",
+  "address3": "",
+  "town": "Radstock",
+  "county": "Somerset",
+  "postcode": "BA3 5XU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "372960",
+  "northing": "153352",
+  "url": "www.hemingtonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

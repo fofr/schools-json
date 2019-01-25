@@ -1,0 +1,18 @@
+{
+  "urn": "139940",
+  "name": "Churchill Gardens Primary Academy",
+  "address": "Ranelagh Road",
+  "locality": "Pimlico",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW1V 3EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529295",
+  "northing": "178113",
+  "url": "http://www.cgpacademy.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

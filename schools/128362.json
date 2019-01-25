@@ -1,0 +1,18 @@
+{
+  "urn": "128362",
+  "name": "Colville Primary School",
+  "address": "Church Lane",
+  "locality": "Newton",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 5HF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "543955",
+  "northing": "314907",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106860",
+  "name": "Swallownest Primary School",
+  "address": "Rotherham Road",
+  "locality": "Swallownest",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S26 4UR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445089",
+  "northing": "385490",
+  "url": "www.swallownestprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

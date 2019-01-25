@@ -1,0 +1,18 @@
+{
+  "urn": "139162",
+  "name": "Parkfield Community School",
+  "address": "Parkfield Road",
+  "locality": "Saltley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B8 3AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "410319",
+  "northing": "287495",
+  "url": "www.parkfield.bham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

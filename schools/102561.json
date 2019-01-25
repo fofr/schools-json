@@ -1,0 +1,18 @@
+{
+  "urn": "102561",
+  "name": "Mecklenburg Pupil Referral Unit",
+  "address": "North Kingston Centre",
+  "locality": "Richmond Road",
+  "address3": "",
+  "town": "Kingston upon Thames",
+  "county": "Surrey",
+  "postcode": "KT2 5PE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "518141",
+  "northing": "170709",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

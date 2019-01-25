@@ -1,0 +1,18 @@
+{
+  "urn": "101351",
+  "name": "East Barnet School",
+  "address": "Chestnut Grove",
+  "locality": "East Barnet",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN4 8PU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "527778",
+  "northing": "195482",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

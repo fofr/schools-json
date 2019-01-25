@@ -1,0 +1,18 @@
+{
+  "urn": "140853",
+  "name": "Oakway Academy",
+  "address": "Off Oakway",
+  "locality": "",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN8 4SD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "489147",
+  "northing": "269243",
+  "url": "www.oakwayacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

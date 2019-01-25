@@ -1,0 +1,18 @@
+{
+  "urn": "142434",
+  "name": "Longney Church of England Primary Academy",
+  "address": "Chatter Street",
+  "locality": "Longney",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL2 3SL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "376265",
+  "northing": "212605",
+  "url": "http://www.longney.gloucs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

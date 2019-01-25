@@ -1,0 +1,18 @@
+{
+  "urn": "143199",
+  "name": "Lavender Primary School",
+  "address": "Lavender Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN2 0SX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532995",
+  "northing": "197977",
+  "url": "www.lavender.enfield.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117083",
+  "name": "Abbots Langley School",
+  "address": "Parsonage Close",
+  "locality": "",
+  "address3": "",
+  "town": "Abbots Langley",
+  "county": "Hertfordshire",
+  "postcode": "WD5 0BQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "509497",
+  "northing": "202438",
+  "url": "http://www.abbotslangley.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138106",
+  "name": "Loreto College",
+  "address": "Hatfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL1 3RQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "515408",
+  "northing": "207339",
+  "url": "http://www.loreto.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136010",
+  "name": "Medina College",
+  "address": "Fairlee Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Isle of Wight",
+  "postcode": "PO30 2DX",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "450752",
+  "northing": "90461",
+  "url": "http://www.medina.iow.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

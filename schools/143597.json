@@ -1,0 +1,18 @@
+{
+  "urn": "143597",
+  "name": "Halstow Primary School",
+  "address": "Halstow Road",
+  "locality": "Greenwich",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE10 0LD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "540019",
+  "northing": "178163",
+  "url": "www.halstow.greenwich.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

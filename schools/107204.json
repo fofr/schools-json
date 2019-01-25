@@ -1,0 +1,18 @@
+{
+  "urn": "107204",
+  "name": "Frizinghall Primary School",
+  "address": "Salisbury Road",
+  "locality": "Frizinghall",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD9 4HP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415126",
+  "northing": "436105",
+  "url": "www.frizinghall.bradford.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

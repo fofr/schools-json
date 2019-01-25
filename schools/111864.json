@@ -1,0 +1,18 @@
+{
+  "urn": "111864",
+  "name": "Goonhavern Primary School",
+  "address": "Goonhavern",
+  "locality": "",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR4 9QD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "178814",
+  "northing": "53878",
+  "url": "http://www.goonhavern.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

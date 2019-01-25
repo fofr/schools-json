@@ -1,0 +1,18 @@
+{
+  "urn": "100239",
+  "name": "Princess May Primary School",
+  "address": "Princess May Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N16 8DF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533380",
+  "northing": "185516",
+  "url": "www.princessmay.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

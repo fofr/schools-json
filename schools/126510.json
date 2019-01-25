@@ -1,0 +1,18 @@
+{
+  "urn": "126510",
+  "name": "Matravers School",
+  "address": "Springfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Westbury",
+  "county": "Wiltshire",
+  "postcode": "BA13 3QH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "386908",
+  "northing": "150891",
+  "url": "https://www.matravers.wilts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

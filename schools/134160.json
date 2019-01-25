@@ -1,0 +1,18 @@
+{
+  "urn": "134160",
+  "name": "Malmesbury Primary School",
+  "address": "Coborn Street",
+  "locality": "Bow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E3 2AB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536787",
+  "northing": "182835",
+  "url": "www.malmesbury.towerhamlets.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

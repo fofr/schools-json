@@ -1,0 +1,18 @@
+{
+  "urn": "122436",
+  "name": "Raleigh Infant School",
+  "address": "Russell Street",
+  "locality": "",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 4FL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "456264",
+  "northing": "340464",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

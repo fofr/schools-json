@@ -1,0 +1,18 @@
+{
+  "urn": "145789",
+  "name": "The Wilfred Owen School",
+  "address": "The Monkmoor Campus",
+  "locality": "Woodcote Way",
+  "address3": "Monkmoor",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY2 5SH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "351072",
+  "northing": "313754",
+  "url": "www.wilfredowen.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

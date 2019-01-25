@@ -1,0 +1,18 @@
+{
+  "urn": "143309",
+  "name": "Widey Court Primary School",
+  "address": "Widey Lane",
+  "locality": "Crownhill",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 5JS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "248852",
+  "northing": "58257",
+  "url": "http://www.wideycourt.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

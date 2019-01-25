@@ -1,0 +1,18 @@
+{
+  "urn": "117150",
+  "name": "Shenley Primary School",
+  "address": "London Road",
+  "locality": "Shenley",
+  "address3": "",
+  "town": "Radlett",
+  "county": "Hertfordshire",
+  "postcode": "WD7 9DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518991",
+  "northing": "200467",
+  "url": "http://www.shenleyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

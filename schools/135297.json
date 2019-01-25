@@ -1,0 +1,18 @@
+{
+  "urn": "135297",
+  "name": "The Leigh Academy",
+  "address": "Green Street Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 1QE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "555487",
+  "northing": "173173",
+  "url": "http://www.leighacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

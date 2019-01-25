@@ -1,0 +1,18 @@
+{
+  "urn": "138511",
+  "name": "The Robert Napier School",
+  "address": "Third Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME7 2LX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "578331",
+  "northing": "167405",
+  "url": "http://www.robertnapier.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

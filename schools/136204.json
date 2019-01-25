@@ -1,0 +1,18 @@
+{
+  "urn": "136204",
+  "name": "The Thetford Academy",
+  "address": "Croxton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Thetford",
+  "county": "Norfolk",
+  "postcode": "IP24 1LH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "587527",
+  "northing": "284635",
+  "url": "http://www.inspirationtrust.org/thetfordacademy",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

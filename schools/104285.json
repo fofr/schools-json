@@ -1,0 +1,18 @@
+{
+  "urn": "104285",
+  "name": "Bushbury Nursery School",
+  "address": "Bushbury Lane",
+  "locality": "Bushbury",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV10 8JP",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "392356",
+  "northing": "302495",
+  "url": "www.bushburynursery.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

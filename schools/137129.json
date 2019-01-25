@@ -1,0 +1,18 @@
+{
+  "urn": "137129",
+  "name": "Priestlands School",
+  "address": "North Street",
+  "locality": "Pennington",
+  "address3": "",
+  "town": "Lymington",
+  "county": "Hampshire",
+  "postcode": "SO41 8FZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "431567",
+  "northing": "94933",
+  "url": "http://www.priestlands.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

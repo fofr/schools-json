@@ -1,0 +1,18 @@
+{
+  "urn": "122268",
+  "name": "Hareside Primary School",
+  "address": "Hareside",
+  "locality": "",
+  "address3": "",
+  "town": "Cramlington",
+  "county": "Northumberland",
+  "postcode": "NE23 6BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426340",
+  "northing": "576280",
+  "url": "www.haresideprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

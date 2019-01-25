@@ -1,0 +1,18 @@
+{
+  "urn": "131790",
+  "name": "Trinity School",
+  "address": "Love Lane",
+  "locality": "Shaw",
+  "address3": "",
+  "town": "Newbury",
+  "county": "Berkshire",
+  "postcode": "RG14 2DU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "447496",
+  "northing": "168458",
+  "url": "http://www.trinitypac.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

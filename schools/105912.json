@@ -1,0 +1,18 @@
+{
+  "urn": "105912",
+  "name": "Bridgewater Primary School",
+  "address": "Bridgewater Street",
+  "locality": "Little Hulton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M38 9WD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "372952",
+  "northing": "403701",
+  "url": "www.bridgewaterprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

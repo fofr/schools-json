@@ -1,0 +1,18 @@
+{
+  "urn": "131971",
+  "name": "Hertswood School",
+  "address": "Cowley Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Borehamwood",
+  "county": "Hertfordshire",
+  "postcode": "WD6 5LG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "519998",
+  "northing": "197839",
+  "url": "www.hertswood.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

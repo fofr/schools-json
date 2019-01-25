@@ -1,0 +1,18 @@
+{
+  "urn": "105183",
+  "name": "Plodder Lane Primary School",
+  "address": "Plodder Lane",
+  "locality": "Farnworth",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL4 0DA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "372898",
+  "northing": "405970",
+  "url": "http://www.plodderlane.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

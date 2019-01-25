@@ -1,0 +1,18 @@
+{
+  "urn": "123308",
+  "name": "The Manor Preparatory School",
+  "address": "Faringdon Road",
+  "locality": "Shippon",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX13 6LN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "448440",
+  "northing": "198023",
+  "url": "http://www.manorprep.org",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

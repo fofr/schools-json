@@ -1,0 +1,18 @@
+{
+  "urn": "125816",
+  "name": "Aldingbourne Primary School",
+  "address": "Westergate Street",
+  "locality": "Westergate",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO20 3QR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "493759",
+  "northing": "104624",
+  "url": "http://www.aldingbourneprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

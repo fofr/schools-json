@@ -1,0 +1,18 @@
+{
+  "urn": "135349",
+  "name": "Woodford Primary School",
+  "address": "Linchaton Way",
+  "locality": "Plympton",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL7 4RR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "252680",
+  "northing": "56993",
+  "url": "www.woodfordprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

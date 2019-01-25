@@ -1,0 +1,18 @@
+{
+  "urn": "121708",
+  "name": "Barlby High School",
+  "address": "York Road",
+  "locality": "Barlby",
+  "address3": "",
+  "town": "Selby",
+  "county": "North Yorkshire",
+  "postcode": "YO8 5JP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "463334",
+  "northing": "434590",
+  "url": "http://www.barlbyhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

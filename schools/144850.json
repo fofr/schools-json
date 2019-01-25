@@ -1,0 +1,18 @@
+{
+  "urn": "144850",
+  "name": "Henley Primary School",
+  "address": "Ashbocking Road",
+  "locality": "Henley",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP6 0QX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "616212",
+  "northing": "251516",
+  "url": "www.henleyprimaryschool.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

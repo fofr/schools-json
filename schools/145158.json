@@ -1,0 +1,18 @@
+{
+  "urn": "145158",
+  "name": "Melton Vale Sixth Form College",
+  "address": "Burton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Melton Mowbray",
+  "county": "Leicestershire",
+  "postcode": "LE13 1DN",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "476153",
+  "northing": "317937",
+  "url": "www.mv16.org.uk",
+  "phase": "16 plus",
+  "type": "Academies",
+  "detailed_type": "Academy 16-19 converter"
+}

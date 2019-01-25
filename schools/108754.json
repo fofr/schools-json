@@ -1,0 +1,18 @@
+{
+  "urn": "108754",
+  "name": "Sunderland Pupil Referral Unit",
+  "address": "Portland Road",
+  "locality": "Plains Farm",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR3 1SS",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "437913",
+  "northing": "555028",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

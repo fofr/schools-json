@@ -1,0 +1,18 @@
+{
+  "urn": "102783",
+  "name": "The Cumberland School",
+  "address": "Oban Close",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E13 8SJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "541221",
+  "northing": "182249",
+  "url": "www.cumberland.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

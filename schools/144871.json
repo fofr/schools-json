@@ -1,0 +1,18 @@
+{
+  "urn": "144871",
+  "name": "Thameside Primary School",
+  "address": "Cotman Close",
+  "locality": "",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 5NL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448969",
+  "northing": "196108",
+  "url": "www.thameside.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

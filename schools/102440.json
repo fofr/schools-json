@@ -1,0 +1,18 @@
+{
+  "urn": "102440",
+  "name": "Bishopshalt School",
+  "address": "Royal Lane",
+  "locality": "Hillingdon",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "",
+  "postcode": "UB8 3RF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "506940",
+  "northing": "182635",
+  "url": "http://www.bishopshalt.hillingdon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117513",
+  "name": "Norton School",
+  "address": "Norton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Letchworth",
+  "county": "Hertfordshire",
+  "postcode": "SG6 1AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "522377",
+  "northing": "233807",
+  "url": "http://www.norton.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

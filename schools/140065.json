@@ -1,0 +1,18 @@
+{
+  "urn": "140065",
+  "name": "Culworth Church of England Primary Academy",
+  "address": "Culworth",
+  "locality": "The Green",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX17 2BB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "454358",
+  "northing": "247005",
+  "url": "www.culworthschool.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

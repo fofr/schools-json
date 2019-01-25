@@ -1,0 +1,18 @@
+{
+  "urn": "104560",
+  "name": "Morrison School",
+  "address": "Greenbank Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L18 1HG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "338595",
+  "northing": "388266",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

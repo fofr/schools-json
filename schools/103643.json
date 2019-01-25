@@ -1,0 +1,18 @@
+{
+  "urn": "103643",
+  "name": "Gosford Park Primary School",
+  "address": "Humber Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV1 2SF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434819",
+  "northing": "278644",
+  "url": "www.gosfordpark-coventry.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

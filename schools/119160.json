@@ -1,0 +1,18 @@
+{
+  "urn": "119160",
+  "name": "Catforth Primary School",
+  "address": "School Lane",
+  "locality": "Catforth",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR4 0HL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "348094",
+  "northing": "435462",
+  "url": "www.catforthprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

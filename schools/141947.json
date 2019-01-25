@@ -1,0 +1,18 @@
+{
+  "urn": "141947",
+  "name": "The Ongar Academy",
+  "address": "",
+  "locality": "",
+  "address3": "Fyfield Road",
+  "town": "Ongar",
+  "county": "Essex",
+  "postcode": "CM5 0AN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "555437",
+  "northing": "204420",
+  "url": "www.theongaracademy.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

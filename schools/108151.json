@@ -1,0 +1,18 @@
+{
+  "urn": "108151",
+  "name": "Harewood Lane First School",
+  "address": "School Street",
+  "locality": "Upton",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 1ER",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "449007",
+  "northing": "413697",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

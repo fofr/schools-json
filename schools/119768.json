@@ -1,0 +1,18 @@
+{
+  "urn": "119768",
+  "name": "Albany Science College",
+  "address": "Bolton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR7 3AY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "359158",
+  "northing": "416463",
+  "url": "http://www.albanysciencecollege.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

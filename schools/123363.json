@@ -1,0 +1,18 @@
+{
+  "urn": "123363",
+  "name": "St Leonard's Infant School",
+  "address": "Off Alma Avenue",
+  "locality": "Dawley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF4 2ED",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "369055",
+  "northing": "308256",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136448",
+  "name": "Kendrick School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG1 5BN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "472062",
+  "northing": "172974",
+  "url": "http://www.kendrick.reading.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

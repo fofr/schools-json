@@ -1,0 +1,18 @@
+{
+  "urn": "111960",
+  "name": "Fourlanesend Community Primary School",
+  "address": "Fourlanesend",
+  "locality": "Cawsand",
+  "address3": "",
+  "town": "Torpoint",
+  "county": "Cornwall",
+  "postcode": "PL10 1LR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "242985",
+  "northing": "51275",
+  "url": "http://www.fourlanesendprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

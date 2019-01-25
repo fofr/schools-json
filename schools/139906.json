@@ -1,0 +1,18 @@
+{
+  "urn": "139906",
+  "name": "Harris Academy Upper Norwood",
+  "address": "Spurgeon Road",
+  "locality": "Upper Norwood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE19 3UG",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "532610",
+  "northing": "170018",
+  "url": "http://www.harrisuppernorwood.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

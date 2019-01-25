@@ -1,0 +1,18 @@
+{
+  "urn": "141069",
+  "name": "The Cooper School",
+  "address": "Churchill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bicester",
+  "county": "Oxfordshire",
+  "postcode": "OX26 4RS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458915",
+  "northing": "223624",
+  "url": "http://thecooperschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

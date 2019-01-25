@@ -1,0 +1,18 @@
+{
+  "urn": "138702",
+  "name": "Carrfield Primary Academy",
+  "address": "Highgate Lane",
+  "locality": "Bolton-on-Dearne",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S63 8AL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "445457",
+  "northing": "403360",
+  "url": "www.carrfieldacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

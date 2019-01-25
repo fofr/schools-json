@@ -1,0 +1,18 @@
+{
+  "urn": "119036",
+  "name": "Bower Grove School",
+  "address": "Fant Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME16 8NL",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "573709",
+  "northing": "154868",
+  "url": "http://www.bower-grove.kent.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Foundation special school"
+}

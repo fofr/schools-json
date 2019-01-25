@@ -1,0 +1,18 @@
+{
+  "urn": "143201",
+  "name": "Bowes Primary School",
+  "address": "Bowes Road",
+  "locality": "New Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N11 2HL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529879",
+  "northing": "192208",
+  "url": "www.bowesprimaryschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

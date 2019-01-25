@@ -1,0 +1,18 @@
+{
+  "urn": "131357",
+  "name": "Home Farm Primary School",
+  "address": "Home Farm Close",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD6 3NR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412616",
+  "northing": "430047",
+  "url": "www.homefarm.bradford.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

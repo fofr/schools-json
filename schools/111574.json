@@ -1,0 +1,18 @@
+{
+  "urn": "111574",
+  "name": "Kader Primary School",
+  "address": "Staindrop Drive",
+  "locality": "Acklam",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS5 8NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448198",
+  "northing": "516310",
+  "url": "http://www.kaderprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

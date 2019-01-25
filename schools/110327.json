@@ -1,0 +1,18 @@
+{
+  "urn": "110327",
+  "name": "Barleyhurst Park Primary",
+  "address": "Forfar Drive",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK3 7NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485492",
+  "northing": "234564",
+  "url": "www.barleyhurstpark.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

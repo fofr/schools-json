@@ -1,0 +1,18 @@
+{
+  "urn": "144020",
+  "name": "North Wootton Academy",
+  "address": "Priory Lane",
+  "locality": "North Wootton",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE30 3PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "564534",
+  "northing": "323759",
+  "url": "www.northwoottonacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

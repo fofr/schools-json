@@ -1,0 +1,18 @@
+{
+  "urn": "120636",
+  "name": "The Aveland High School",
+  "address": "Birthorpe Road",
+  "locality": "Billingborough",
+  "address3": "",
+  "town": "Sleaford",
+  "county": "Lincolnshire",
+  "postcode": "NG34 0QT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "511270",
+  "northing": "333852",
+  "url": "http://www.aveland.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

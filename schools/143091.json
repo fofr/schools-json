@@ -1,0 +1,18 @@
+{
+  "urn": "143091",
+  "name": "Topcliffe Primary School",
+  "address": "Hawkinge Drive",
+  "locality": "Castle Vale",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B35 6BS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "414092",
+  "northing": "291445",
+  "url": "www.topcliffe.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

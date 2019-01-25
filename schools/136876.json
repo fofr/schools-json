@@ -1,0 +1,18 @@
+{
+  "urn": "136876",
+  "name": "Prospect School",
+  "address": "Cockney Hill",
+  "locality": "Tilehurst",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG30 4EX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "468327",
+  "northing": "172547",
+  "url": "http://www.prospect.reading.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

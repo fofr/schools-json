@@ -1,0 +1,18 @@
+{
+  "urn": "104488",
+  "name": "Halewood College",
+  "address": "The Avenue",
+  "locality": "Wood Road",
+  "address3": "Halewood",
+  "town": "Knowsley",
+  "county": "Merseyside",
+  "postcode": "L26 1UU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "344163",
+  "northing": "385291",
+  "url": "HalewoodCollege.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109664",
+  "name": "Caddington Village School",
+  "address": "Five Oaks",
+  "locality": "Caddington",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 4JD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "506859",
+  "northing": "219512",
+  "url": "http://www.caddingtonschool.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

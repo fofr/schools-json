@@ -1,0 +1,18 @@
+{
+  "urn": "137438",
+  "name": "Rooks Nest Academy",
+  "address": "Rooks Nest Road",
+  "locality": "Outwood",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF1 3DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433254",
+  "northing": "423754",
+  "url": "www.rooksnestacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

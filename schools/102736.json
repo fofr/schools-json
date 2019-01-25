@@ -1,0 +1,18 @@
+{
+  "urn": "102736",
+  "name": "Park Primary School",
+  "address": "Mathews Park Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E15 4AE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "539834",
+  "northing": "184464",
+  "url": "www.park.newham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

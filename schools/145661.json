@@ -1,0 +1,18 @@
+{
+  "urn": "145661",
+  "name": "Westgarth Primary School",
+  "address": "Redcar Road",
+  "locality": "Marske-by-the-Sea",
+  "address3": "",
+  "town": "Redcar",
+  "county": "North Yorkshire",
+  "postcode": "TS11 6AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "463113",
+  "northing": "522340",
+  "url": "www.westgarthprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

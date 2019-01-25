@@ -1,0 +1,18 @@
+{
+  "urn": "127844",
+  "name": "Rodley First School",
+  "address": "Town Street",
+  "locality": "Rodley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 1HQ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "423429",
+  "northing": "435392",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

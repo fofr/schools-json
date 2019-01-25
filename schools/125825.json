@@ -1,0 +1,18 @@
+{
+  "urn": "125825",
+  "name": "Colgate Primary School",
+  "address": "Blackhouse Road",
+  "locality": "Colgate",
+  "address3": "",
+  "town": "Horsham",
+  "county": "West Sussex",
+  "postcode": "RH13 6HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "523170",
+  "northing": "132763",
+  "url": "http://colgate.eschools.co.uk/website",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

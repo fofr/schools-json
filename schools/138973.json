@@ -1,0 +1,18 @@
+{
+  "urn": "138973",
+  "name": "Cottingley Primary Academy",
+  "address": "Dulverton Grove",
+  "locality": "Cottingley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "",
+  "postcode": "LS11 0HU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427504",
+  "northing": "430335",
+  "url": "http://cottingleyprimaryacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

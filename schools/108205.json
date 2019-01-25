@@ -1,0 +1,18 @@
+{
+  "urn": "108205",
+  "name": "Carlton First School",
+  "address": "Carlton Road",
+  "locality": "South Elmsall",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 2QQ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "446931",
+  "northing": "411039",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

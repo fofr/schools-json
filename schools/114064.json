@@ -1,0 +1,18 @@
+{
+  "urn": "114064",
+  "name": "St John's Chapel Primary School",
+  "address": "Burnfoot",
+  "locality": "St John's Chapel",
+  "address3": "",
+  "town": "Bishop Auckland",
+  "county": "County Durham",
+  "postcode": "DL13 1QH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388481",
+  "northing": "538082",
+  "url": "http://www.st-johnschapel.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

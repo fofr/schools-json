@@ -1,0 +1,18 @@
+{
+  "urn": "104880",
+  "name": "Maghull Community Primary School",
+  "address": "Ormonde Drive",
+  "locality": "Maghull",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L31 7AN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "337154",
+  "northing": "401501",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

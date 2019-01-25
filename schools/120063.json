@@ -1,0 +1,18 @@
+{
+  "urn": "120063",
+  "name": "Abbey Primary Community School",
+  "address": "109 Ross Walk",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 5HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "459332",
+  "northing": "306451",
+  "url": "www.abbey.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122735",
+  "name": "Greythorn Primary School",
+  "address": "Greythorn Drive",
+  "locality": "West Bridgford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 7GH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "457547",
+  "northing": "336293",
+  "url": "www.greythornschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

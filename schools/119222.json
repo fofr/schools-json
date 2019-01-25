@@ -1,0 +1,18 @@
+{
+  "urn": "119222",
+  "name": "Cedars Primary School",
+  "address": "St. James's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB1 8HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "368639",
+  "northing": "429654",
+  "url": "www.cedarsprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

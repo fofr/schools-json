@@ -1,0 +1,18 @@
+{
+  "urn": "142155",
+  "name": "St Austin's Catholic Primary School",
+  "address": "Duke of York Street",
+  "locality": "",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF1 3PF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "433684",
+  "northing": "421363",
+  "url": "www.st-austins.wakefield.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

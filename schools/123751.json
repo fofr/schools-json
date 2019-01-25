@@ -1,0 +1,18 @@
+{
+  "urn": "123751",
+  "name": "Curry Mallet Church of England Primary School",
+  "address": "Lower Street",
+  "locality": "Curry Mallet",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA3 6TA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "333187",
+  "northing": "121435",
+  "url": "www.currymalletschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

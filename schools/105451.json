@@ -1,0 +1,18 @@
+{
+  "urn": "105451",
+  "name": "Broadhurst Primary School",
+  "address": "Williams Road",
+  "locality": "Moston",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M40 0BX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388192",
+  "northing": "401270",
+  "url": "www.broadhurstprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

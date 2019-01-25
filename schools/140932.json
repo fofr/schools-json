@@ -1,0 +1,18 @@
+{
+  "urn": "140932",
+  "name": "Bengeworth CE Academy",
+  "address": "Kings Road",
+  "locality": "Bengeworth",
+  "address3": "",
+  "town": "Evesham",
+  "county": "Worcestershire",
+  "postcode": "WR11 3EU",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "404398",
+  "northing": "243914",
+  "url": "www.bengeworthacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

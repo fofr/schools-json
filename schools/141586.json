@@ -1,0 +1,18 @@
+{
+  "urn": "141586",
+  "name": "Radford Primary School Academy",
+  "address": "Denman Street West",
+  "locality": "Radford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 3FL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "455304",
+  "northing": "340351",
+  "url": "www.radfordacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

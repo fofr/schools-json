@@ -1,0 +1,18 @@
+{
+  "urn": "105172",
+  "name": "Heathfield Primary School",
+  "address": "Henniker Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 3TP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "369441",
+  "northing": "406713",
+  "url": "www.heathfieldcpschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

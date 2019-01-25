@@ -1,0 +1,18 @@
+{
+  "urn": "110289",
+  "name": "Oakridge School",
+  "address": "Oakridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP11 2PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "485262",
+  "northing": "193114",
+  "url": "www.oakridgehighwycombe.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

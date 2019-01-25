@@ -1,0 +1,18 @@
+{
+  "urn": "109280",
+  "name": "Brislington Enterprise College",
+  "address": "Hungerford Road",
+  "locality": "Brislington",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS4 5EY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "362563",
+  "northing": "169780",
+  "url": "http://www.because.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

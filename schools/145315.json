@@ -1,0 +1,18 @@
+{
+  "urn": "145315",
+  "name": "The Halley Academy",
+  "address": "Corelli Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE3 8EP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "541878",
+  "northing": "176422",
+  "url": "www.thehalleyacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

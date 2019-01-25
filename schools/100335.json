@@ -1,0 +1,18 @@
+{
+  "urn": "100335",
+  "name": "Old Oak Primary School",
+  "address": "Mellitus Street",
+  "locality": "East Acton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W12 0AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521948",
+  "northing": "181361",
+  "url": "www.oldoakprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101266",
+  "name": "Church Hill School",
+  "address": "Burlington Rise",
+  "locality": "East Barnet",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN4 8NN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "527487",
+  "northing": "194545",
+  "url": "www.churchhill.barnet.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

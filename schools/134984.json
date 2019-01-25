@@ -1,0 +1,18 @@
+{
+  "urn": "134984",
+  "name": "Cranbury College",
+  "address": "Cranbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG30 2TS",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "469686",
+  "northing": "173132",
+  "url": "http://www.cranburycollege.reading.sch.uk/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

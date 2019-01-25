@@ -1,0 +1,18 @@
+{
+  "urn": "142713",
+  "name": "Mayville Primary School",
+  "address": "Lincoln Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E11 4PZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539156",
+  "northing": "186478",
+  "url": "www.mayville.waltham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

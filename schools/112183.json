@@ -1,0 +1,18 @@
+{
+  "urn": "112183",
+  "name": "Milburn School",
+  "address": "Milburn",
+  "locality": "",
+  "address3": "",
+  "town": "Penrith",
+  "county": "Cumbria",
+  "postcode": "CA10 1TN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "365642",
+  "northing": "529393",
+  "url": "http://www.milburn.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130507",
+  "name": "Hopwood Hall College",
+  "address": "Middleton Campus",
+  "locality": "Rochdale Road",
+  "address3": "Middleton",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M24 6XH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "387600",
+  "northing": "408074",
+  "url": "http://www.hopwood.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

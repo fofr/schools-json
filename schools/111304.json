@@ -1,0 +1,18 @@
+{
+  "urn": "111304",
+  "name": "Birchwood CofE Primary School",
+  "address": "The Mount",
+  "locality": "Admirals Road",
+  "address3": "Birchwood",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA3 6QG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "365844",
+  "northing": "391428",
+  "url": "www.birchwoodceprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

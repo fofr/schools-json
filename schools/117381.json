@@ -1,0 +1,18 @@
+{
+  "urn": "117381",
+  "name": "Bellgate Primary School",
+  "address": "Fletcher Way",
+  "locality": "Highfield",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP2 5QR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "506358",
+  "northing": "208400",
+  "url": "http://www.bellgate.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

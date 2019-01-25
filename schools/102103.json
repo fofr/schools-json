@@ -1,0 +1,18 @@
+{
+  "urn": "102103",
+  "name": "Parkhurst Infant School",
+  "address": "Parkhurst Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N17 9RB",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "534055",
+  "northing": "190276",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103301",
+  "name": "Wattville Infant and Nursery School",
+  "address": "George Street",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B21 0EH",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "403132",
+  "northing": "289566",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

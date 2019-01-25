@@ -1,0 +1,18 @@
+{
+  "urn": "144181",
+  "name": "Abbeyfields First School",
+  "address": "Abbot's Way",
+  "locality": "",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE61 2LZ",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "419208",
+  "northing": "585651",
+  "url": "abbeyfields.the3rivers.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

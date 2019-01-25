@@ -1,0 +1,18 @@
+{
+  "urn": "118896",
+  "name": "Meopham School",
+  "address": "Wrotham Road",
+  "locality": "Meopham",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA13 0AH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "564231",
+  "northing": "165820",
+  "url": "http://www.meopham.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

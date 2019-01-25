@@ -1,0 +1,18 @@
+{
+  "urn": "110253",
+  "name": "Thornborough Infant School",
+  "address": "High Street",
+  "locality": "Thornborough",
+  "address3": "",
+  "town": "Buckingham",
+  "county": "Buckinghamshire",
+  "postcode": "MK18 2DF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "474314",
+  "northing": "233656",
+  "url": "http://www.thornborough.bucks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121266",
+  "name": "St Paul's Nursery School",
+  "address": "12 St Paul's Square",
+  "locality": "",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO24 4BD",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "459138",
+  "northing": "451376",
+  "url": "www.stpaulsnurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

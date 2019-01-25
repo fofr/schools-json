@@ -1,0 +1,18 @@
+{
+  "urn": "139794",
+  "name": "ACE Centre",
+  "address": "ACE Centre",
+  "locality": "Park Road",
+  "address3": "Hindley",
+  "town": "Wigan",
+  "county": "Greater Manchester",
+  "postcode": "WN2 3RX",
+  "minimum_age": "7",
+  "maximum_age": "16",
+  "easting": "362064",
+  "northing": "403597",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

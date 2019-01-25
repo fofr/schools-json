@@ -1,0 +1,18 @@
+{
+  "urn": "141051",
+  "name": "Glory Farm Primary School",
+  "address": "Hendon Place",
+  "locality": "Sunderland Drive",
+  "address3": "",
+  "town": "Bicester",
+  "county": "Oxfordshire",
+  "postcode": "OX26 4YJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "459115",
+  "northing": "223813",
+  "url": "www.glory-farm.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124060",
+  "name": "Knypersley First School",
+  "address": "Newpool Road",
+  "locality": "Knypersley",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST8 6NN",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "387932",
+  "northing": "356757",
+  "url": "www.knypersley.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

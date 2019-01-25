@@ -1,0 +1,18 @@
+{
+  "urn": "121398",
+  "name": "Starbeck Community Primary School",
+  "address": "High Street",
+  "locality": "Starbeck",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG2 7LL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433141",
+  "northing": "456347",
+  "url": "http://www.starbeck.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

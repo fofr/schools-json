@@ -1,0 +1,18 @@
+{
+  "urn": "111176",
+  "name": "Gorsewood Primary School",
+  "address": "Gorsewood Road",
+  "locality": "Murdishaw",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 6ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "355996",
+  "northing": "380990",
+  "url": "www.gorsewood.halton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116111",
+  "name": "Weston Park Junior School",
+  "address": "Weston Lane",
+  "locality": "Woolston",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 9HL",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "445239",
+  "northing": "110512",
+  "url": "http://www.westonpark-jun.southampton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

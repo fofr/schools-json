@@ -1,0 +1,18 @@
+{
+  "urn": "103127",
+  "name": "West Heath Nursery School",
+  "address": "200 West Heath Road",
+  "locality": "Northfield",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B31 3HB",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "402685",
+  "northing": "278105",
+  "url": "www.wesththn.bham.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

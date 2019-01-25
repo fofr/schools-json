@@ -1,0 +1,18 @@
+{
+  "urn": "114316",
+  "name": "Hurworth School",
+  "address": "Croft Road",
+  "locality": "Hurworth-on-Tees",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL2 2JG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "429841",
+  "northing": "509938",
+  "url": "http://www.hurworthschool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

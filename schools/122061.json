@@ -1,0 +1,18 @@
+{
+  "urn": "122061",
+  "name": "Guilsborough School",
+  "address": "West Haddon Road",
+  "locality": "Guilsborough",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN6 8QE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "466912",
+  "northing": "273546",
+  "url": "http://www.guilsborough.northants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

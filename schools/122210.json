@@ -1,0 +1,18 @@
+{
+  "urn": "122210",
+  "name": "Morpeth First School",
+  "address": "Goose Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE61 1TL",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "420128",
+  "northing": "585747",
+  "url": "www.morpethgoosehill.firstschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

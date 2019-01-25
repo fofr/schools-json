@@ -1,0 +1,18 @@
+{
+  "urn": "142140",
+  "name": "Bampton CofE Primary School",
+  "address": "Bowling Green Close",
+  "locality": "",
+  "address3": "",
+  "town": "Bampton",
+  "county": "Oxfordshire",
+  "postcode": "OX18 2NJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431594",
+  "northing": "203732",
+  "url": "http://www.bamptonprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

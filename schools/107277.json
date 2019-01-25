@@ -1,0 +1,18 @@
+{
+  "urn": "107277",
+  "name": "Ashlands Primary School",
+  "address": "Leeds Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ilkley",
+  "county": "West Yorkshire",
+  "postcode": "LS29 8JY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412335",
+  "northing": "448024",
+  "url": "www.ashlandsprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

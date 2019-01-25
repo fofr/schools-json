@@ -1,0 +1,18 @@
+{
+  "urn": "123996",
+  "name": "Townsend Primary School",
+  "address": "Werrington Road",
+  "locality": "Bucknall",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 9AS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390988",
+  "northing": "347564",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

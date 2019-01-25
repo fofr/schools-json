@@ -1,0 +1,18 @@
+{
+  "urn": "136745",
+  "name": "North Durham Academy",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Stanley",
+  "county": "County Durham",
+  "postcode": "DH9 0TW",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "419948",
+  "northing": "553021",
+  "url": "http://www.northdurhamacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

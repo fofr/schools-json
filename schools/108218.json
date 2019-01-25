@@ -1,0 +1,18 @@
+{
+  "urn": "108218",
+  "name": "Hendal Primary School",
+  "address": "Hendal Lane",
+  "locality": "Kettlethorpe",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF2 7QW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432624",
+  "northing": "416334",
+  "url": "www.hendalprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

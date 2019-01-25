@@ -1,0 +1,18 @@
+{
+  "urn": "123480",
+  "name": "Kinlet CofE Primary School",
+  "address": "School Lane",
+  "locality": "",
+  "address3": "Bewdley",
+  "town": "Kinlet",
+  "county": "Worcestershire",
+  "postcode": "DY12 3BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "371907",
+  "northing": "280242",
+  "url": "www.kinlet.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

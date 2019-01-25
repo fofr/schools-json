@@ -1,0 +1,18 @@
+{
+  "urn": "137080",
+  "name": "Stanchester Academy",
+  "address": "East Stoke",
+  "locality": "",
+  "address3": "",
+  "town": "Stoke-sub-Hamdon",
+  "county": "Somerset",
+  "postcode": "TA14 6UG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "348974",
+  "northing": "117419",
+  "url": "http://stanchester-academy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

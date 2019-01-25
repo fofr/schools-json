@@ -1,0 +1,18 @@
+{
+  "urn": "135400",
+  "name": "The Education Centre",
+  "address": "56 Rowlands Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worthing",
+  "county": "West Sussex",
+  "postcode": "BN11 3JT",
+  "minimum_age": "13",
+  "maximum_age": "17",
+  "easting": "514081",
+  "northing": "102427",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Other independent special school"
+}

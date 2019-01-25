@@ -1,0 +1,18 @@
+{
+  "urn": "130709",
+  "name": "South Worcestershire College",
+  "address": "Davies Road",
+  "locality": "",
+  "address3": "",
+  "town": "Evesham",
+  "county": "Worcestershire",
+  "postcode": "WR11 1LP",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "403555",
+  "northing": "242598",
+  "url": "www.sworcs.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

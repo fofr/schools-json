@@ -1,0 +1,18 @@
+{
+  "urn": "101562",
+  "name": "Alperton Community School",
+  "address": "Stanley Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Wembley",
+  "county": "Middlesex",
+  "postcode": "HA0 4JE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518492",
+  "northing": "184101",
+  "url": "www.alperton.brent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

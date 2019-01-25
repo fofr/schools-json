@@ -1,0 +1,18 @@
+{
+  "urn": "138107",
+  "name": "Bishop Perowne CofE College",
+  "address": "Merriman's Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR3 8LE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "385260",
+  "northing": "256306",
+  "url": "http://www.bishopperowne.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

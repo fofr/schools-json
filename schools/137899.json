@@ -1,0 +1,18 @@
+{
+  "urn": "137899",
+  "name": "Hungerhill School",
+  "address": "Hungerhill Lane",
+  "locality": "Edenthorpe",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN3 2JY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "461444",
+  "northing": "406473",
+  "url": "http://www.hungerhillschool.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

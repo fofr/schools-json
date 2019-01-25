@@ -1,0 +1,18 @@
+{
+  "urn": "116702",
+  "name": "Ledbury Primary School",
+  "address": "Longacres",
+  "locality": "",
+  "address3": "",
+  "town": "Ledbury",
+  "county": "Herefordshire",
+  "postcode": "HR8 2BE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "370604",
+  "northing": "237971",
+  "url": "http://www.ledbury.hereford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

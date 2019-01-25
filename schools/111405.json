@@ -1,0 +1,18 @@
+{
+  "urn": "111405",
+  "name": "Westlands High School",
+  "address": "Holmes Chapel Road",
+  "locality": "",
+  "address3": "",
+  "town": "Congleton",
+  "county": "Cheshire",
+  "postcode": "CW12 4NH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "384390",
+  "northing": "363229",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

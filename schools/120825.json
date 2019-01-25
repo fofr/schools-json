@@ -1,0 +1,18 @@
+{
+  "urn": "120825",
+  "name": "Langham Village School",
+  "address": "North Street",
+  "locality": "Langham",
+  "address3": "",
+  "town": "Holt",
+  "county": "Norfolk",
+  "postcode": "NR25 7DG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "600781",
+  "northing": "341501",
+  "url": "www.langhamvillageschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

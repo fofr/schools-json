@@ -1,0 +1,18 @@
+{
+  "urn": "123642",
+  "name": "Ditcheat Primary School",
+  "address": "Ditcheat",
+  "locality": "",
+  "address3": "",
+  "town": "Shepton Mallet",
+  "county": "Somerset",
+  "postcode": "BA4 6RB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "362465",
+  "northing": "136248",
+  "url": "www.ditcheatprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123260",
+  "name": "Didcot Girls' School",
+  "address": "Manor Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 7AJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "451812",
+  "northing": "190093",
+  "url": "www.didcotgirls.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

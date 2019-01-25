@@ -1,0 +1,18 @@
+{
+  "urn": "109705",
+  "name": "Manshead School",
+  "address": "Dunstable Road",
+  "locality": "Caddington",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 4BB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "503586",
+  "northing": "220560",
+  "url": "http://www.mansheadschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

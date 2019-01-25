@@ -1,0 +1,18 @@
+{
+  "urn": "137942",
+  "name": "Lord Lawson of Beamish Academy",
+  "address": "Birtley Lane",
+  "locality": "Birtley",
+  "address3": "",
+  "town": "Chester le Street",
+  "county": "County Durham",
+  "postcode": "DH3 2LP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "427650",
+  "northing": "555432",
+  "url": "http://lordlawson.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

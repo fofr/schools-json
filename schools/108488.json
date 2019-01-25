@@ -1,0 +1,18 @@
+{
+  "urn": "108488",
+  "name": "Wyndham Primary School",
+  "address": "Wyndsail Place",
+  "locality": "Gosforth",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE3 4QP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "423032",
+  "northing": "567209",
+  "url": "www.wyndham.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

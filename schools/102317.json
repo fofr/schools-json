@@ -1,0 +1,18 @@
+{
+  "urn": "102317",
+  "name": "Broadford Primary School",
+  "address": "Faringdon Avenue",
+  "locality": "Harold Hill",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM3 8JS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "553971",
+  "northing": "191548",
+  "url": "http://www.broadford.havering.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

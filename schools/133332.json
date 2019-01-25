@@ -1,0 +1,18 @@
+{
+  "urn": "133332",
+  "name": "Greenbank Primary School",
+  "address": "Mossley Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L18 1JB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "338565",
+  "northing": "388467",
+  "url": "http://www.greenbank-primary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

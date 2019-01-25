@@ -1,0 +1,18 @@
+{
+  "urn": "111627",
+  "name": "Brambles Primary School",
+  "address": "Kedward Avenue",
+  "locality": "Brambles Farm",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS3 9DB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "452375",
+  "northing": "519230",
+  "url": "www.bramblesprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

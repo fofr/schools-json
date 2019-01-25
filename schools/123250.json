@@ -1,0 +1,18 @@
+{
+  "urn": "123250",
+  "name": "Temple Cowley Community School",
+  "address": "Temple Road",
+  "locality": "Cowley",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 2HD",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "454242",
+  "northing": "204671",
+  "url": "",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

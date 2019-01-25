@@ -1,0 +1,18 @@
+{
+  "urn": "140265",
+  "name": "Cambridge Academy for Science and Technology",
+  "address": "Robinson Way",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB2 0SZ",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "546563",
+  "northing": "254923",
+  "url": "http://www.cam-ast.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

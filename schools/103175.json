@@ -1,0 +1,18 @@
+{
+  "urn": "103175",
+  "name": "Brookfields Primary School",
+  "address": "2 Hingeston Street",
+  "locality": "Hockley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B18 6PU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405646",
+  "northing": "287977",
+  "url": "www.brookfields.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

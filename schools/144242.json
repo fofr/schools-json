@@ -1,0 +1,18 @@
+{
+  "urn": "144242",
+  "name": "Bishops Itchington Primary School",
+  "address": "Ladbroke Road",
+  "locality": "Bishops Itchington",
+  "address3": "",
+  "town": "Southam",
+  "county": "Warwickshire",
+  "postcode": "CV47 2RN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "439103",
+  "northing": "257804",
+  "url": "http://www.bishopsitchington.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106782",
+  "name": "The Armthorpe School",
+  "address": "Mere Lane",
+  "locality": "Armthorpe",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN3 2DA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "462410",
+  "northing": "405237",
+  "url": "http://armthorpeschool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

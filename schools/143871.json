@@ -1,0 +1,18 @@
+{
+  "urn": "143871",
+  "name": "Cavalry Primary School",
+  "address": "Cavalry Drive",
+  "locality": "",
+  "address3": "",
+  "town": "March",
+  "county": "Cambridgeshire",
+  "postcode": "PE15 9EQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "542342",
+  "northing": "295893",
+  "url": "http://www.cavalry.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

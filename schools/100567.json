@@ -1,0 +1,18 @@
+{
+  "urn": "100567",
+  "name": "Henry Cavendish Primary School",
+  "address": "Hydethorpe Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW12 0JA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529164",
+  "northing": "173386",
+  "url": "http://www.henrycavendish.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

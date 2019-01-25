@@ -1,0 +1,18 @@
+{
+  "urn": "106055",
+  "name": "Ladybrook Primary School",
+  "address": "Gleneagles Close",
+  "locality": "Seal Road",
+  "address3": "Bramhall",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK7 2LT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389993",
+  "northing": "385408",
+  "url": "www.ladybrook.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

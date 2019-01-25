@@ -1,0 +1,18 @@
+{
+  "urn": "103365",
+  "name": "Highters Heath Community School",
+  "address": "Highters Heath Lane",
+  "locality": "Kings Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B14 4LY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "408809",
+  "northing": "279374",
+  "url": "www.hightersheath.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

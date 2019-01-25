@@ -1,0 +1,18 @@
+{
+  "urn": "103828",
+  "name": "Belle Vue Primary School",
+  "address": "Lawnswood Road",
+  "locality": "Wordsley",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY8 5BZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388378",
+  "northing": "287048",
+  "url": "http://www.belle-vue.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

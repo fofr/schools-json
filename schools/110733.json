@@ -1,0 +1,18 @@
+{
+  "urn": "110733",
+  "name": "Little Paxton Primary School",
+  "address": "Gordon Road",
+  "locality": "Little Paxton",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 6NG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "518909",
+  "northing": "262359",
+  "url": "www.littlepaxton.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

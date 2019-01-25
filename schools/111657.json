@@ -1,0 +1,18 @@
+{
+  "urn": "111657",
+  "name": "Rose Wood Primary School",
+  "address": "The Garth",
+  "locality": "Coulby Farm Way",
+  "address3": "Coulby Newham",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS8 0UG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450795",
+  "northing": "513668",
+  "url": "http://www.rosewoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

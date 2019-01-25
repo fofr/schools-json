@@ -1,0 +1,18 @@
+{
+  "urn": "114985",
+  "name": "Newport Primary School",
+  "address": "Frambury Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Essex",
+  "postcode": "CB11 3PU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "551790",
+  "northing": "233517",
+  "url": "www.newport.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143619",
+  "name": "Whitecliffe Academy",
+  "address": "Kilton Lane",
+  "locality": "Carlin How",
+  "address3": "",
+  "town": "Saltburn-by-the-Sea",
+  "county": "North Yorkshire",
+  "postcode": "TS13 4AD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "470787",
+  "northing": "519141",
+  "url": "http://www.whitecliffeacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

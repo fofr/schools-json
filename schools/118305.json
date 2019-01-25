@@ -1,0 +1,18 @@
+{
+  "urn": "118305",
+  "name": "South Borough Primary School",
+  "address": "Stagshaw Close",
+  "locality": "Postley Road",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME15 6TL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "576317",
+  "northing": "154609",
+  "url": "http://www.south-borough-maidstone.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

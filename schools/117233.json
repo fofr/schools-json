@@ -1,0 +1,18 @@
+{
+  "urn": "117233",
+  "name": "Brookland Junior School",
+  "address": "Elm Drive",
+  "locality": "Cheshunt",
+  "address3": "",
+  "town": "Waltham Cross",
+  "county": "Hertfordshire",
+  "postcode": "EN8 0RX",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "536416",
+  "northing": "203105",
+  "url": "http://www.brooklandjm.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

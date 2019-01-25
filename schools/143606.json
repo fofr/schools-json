@@ -1,0 +1,18 @@
+{
+  "urn": "143606",
+  "name": "Minster in Sheppey Primary School",
+  "address": "Brecon Chase",
+  "locality": "Minster",
+  "address3": "",
+  "town": "Sheerness",
+  "county": "Kent",
+  "postcode": "ME12 2HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "595361",
+  "northing": "173030",
+  "url": "http://www.minster-sheppey.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

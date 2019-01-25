@@ -1,0 +1,18 @@
+{
+  "urn": "134761",
+  "name": "Cornwall Hospital Education Service",
+  "address": "The School Room, Children's Unit",
+  "locality": "Royal Cornwall Hospital",
+  "address3": "Treliske",
+  "town": "Truro",
+  "county": "",
+  "postcode": "TR1 3LJ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "179782",
+  "northing": "45319",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

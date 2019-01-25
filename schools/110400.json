@@ -1,0 +1,18 @@
+{
+  "urn": "110400",
+  "name": "Glastonbury Thorn School",
+  "address": "Pigott Drive",
+  "locality": "Shenley Church End",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK5 6BX",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "483571",
+  "northing": "236622",
+  "url": "http://www.glastonburythorn.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

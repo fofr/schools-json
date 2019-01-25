@@ -1,0 +1,18 @@
+{
+  "urn": "105163",
+  "name": "Sunning Hill Primary School",
+  "address": "Goldsmith Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 6TR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "370693",
+  "northing": "407831",
+  "url": "http://sunninghillprimary.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

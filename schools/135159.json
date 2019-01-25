@@ -1,0 +1,18 @@
+{
+  "urn": "135159",
+  "name": "Willowcroft Community School",
+  "address": "Mereland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 8BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "452627",
+  "northing": "189554",
+  "url": "http://www.willowcroft.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

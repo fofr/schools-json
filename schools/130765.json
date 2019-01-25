@@ -1,0 +1,18 @@
+{
+  "urn": "130765",
+  "name": "Great Yarmouth College",
+  "address": "Suffolk Road",
+  "locality": "Southtown",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR31 0ED",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "652115",
+  "northing": "306526",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

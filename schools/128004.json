@@ -1,0 +1,18 @@
+{
+  "urn": "128004",
+  "name": "Lawrence Oates School",
+  "address": "Stainbeck Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS7 2PS",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "429199",
+  "northing": "437388",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

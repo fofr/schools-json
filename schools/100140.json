@@ -1,0 +1,18 @@
+{
+  "urn": "100140",
+  "name": "Plumcroft Primary School",
+  "address": "Plum Lane",
+  "locality": "Plumstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 3HW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544151",
+  "northing": "177486",
+  "url": "www.plumcroftprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

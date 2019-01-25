@@ -1,0 +1,18 @@
+{
+  "urn": "145457",
+  "name": "Sholing Infant School",
+  "address": "Heath Road",
+  "locality": "Sholing",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 2QF",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "445176",
+  "northing": "111994",
+  "url": "www.sholinginfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

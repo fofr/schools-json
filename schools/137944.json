@@ -1,0 +1,18 @@
+{
+  "urn": "137944",
+  "name": "St Helena School",
+  "address": "Sheepen Road",
+  "locality": "",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO3 3LE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "598841",
+  "northing": "225793",
+  "url": "www.st-helena.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

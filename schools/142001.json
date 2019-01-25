@@ -1,0 +1,18 @@
+{
+  "urn": "142001",
+  "name": "Iceni Academy",
+  "address": "Gloucester Avenue",
+  "locality": "Shrub End",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO2 9AZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "598119",
+  "northing": "223157",
+  "url": "www.iceniacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

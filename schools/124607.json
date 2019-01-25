@@ -1,0 +1,18 @@
+{
+  "urn": "124607",
+  "name": "Snape Community Primary School",
+  "address": "Church Road",
+  "locality": "Snape",
+  "address3": "",
+  "town": "Saxmundham",
+  "county": "Suffolk",
+  "postcode": "IP17 1QG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "639527",
+  "northing": "258506",
+  "url": "http://www.snapeprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

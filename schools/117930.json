@@ -1,0 +1,18 @@
+{
+  "urn": "117930",
+  "name": "Westcott Primary School",
+  "address": "Westcott Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU8 8NB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "511382",
+  "northing": "431052",
+  "url": "http://www.westcottprimary.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

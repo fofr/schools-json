@@ -1,0 +1,18 @@
+{
+  "urn": "120271",
+  "name": "Redmoor High School",
+  "address": "Wykin Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 0EP",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "441739",
+  "northing": "295055",
+  "url": "www.redmoor.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

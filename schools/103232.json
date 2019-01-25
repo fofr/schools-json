@@ -1,0 +1,18 @@
+{
+  "urn": "103232",
+  "name": "Marlborough Infant School",
+  "address": "Marlborough Road",
+  "locality": "Small Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B10 9NY",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "410356",
+  "northing": "286241",
+  "url": "www.malbrghi.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

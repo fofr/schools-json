@@ -1,0 +1,18 @@
+{
+  "urn": "101100",
+  "name": "Beechcroft School",
+  "address": "Beechcroft Road",
+  "locality": "Tooting",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW17 7DF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "527169",
+  "northing": "172937",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

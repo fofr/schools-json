@@ -1,0 +1,18 @@
+{
+  "urn": "142715",
+  "name": "Moorlands Infant School",
+  "address": "Moorfields Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA2 2DQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "373894",
+  "northing": "163502",
+  "url": "www.moorlands-school.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105900",
+  "name": "Cadishead Infant School",
+  "address": "Lords Street",
+  "locality": "Cadishead",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M44 5FF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "370632",
+  "northing": "392128",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

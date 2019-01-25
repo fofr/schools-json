@@ -1,0 +1,18 @@
+{
+  "urn": "144142",
+  "name": "Curwen Primary School",
+  "address": "Atlas Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E13 0AG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540218",
+  "northing": "183137",
+  "url": "www.curwen.newham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

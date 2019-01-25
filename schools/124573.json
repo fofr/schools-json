@@ -1,0 +1,18 @@
+{
+  "urn": "124573",
+  "name": "Bungay Primary School",
+  "address": "Wingfield Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bungay",
+  "county": "Suffolk",
+  "postcode": "NR35 1HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "633965",
+  "northing": "289512",
+  "url": "www.bungayprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

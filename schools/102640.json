@@ -1,0 +1,18 @@
+{
+  "urn": "102640",
+  "name": "Morden Primary School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Morden",
+  "county": "Surrey",
+  "postcode": "SM4 5PX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525115",
+  "northing": "167495",
+  "url": "www.morden.merton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127739",
+  "name": "Grosvenor First School",
+  "address": "Laburnam Street",
+  "locality": "Lumb Lane",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD8 7SG",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "415402",
+  "northing": "434340",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109778",
+  "name": "Caversham Primary School",
+  "address": "Hemdean Road",
+  "locality": "Caversham",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG4 7RA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "471291",
+  "northing": "175436",
+  "url": "www.cavershamprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

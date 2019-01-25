@@ -1,0 +1,18 @@
+{
+  "urn": "115565",
+  "name": "Rodborough Community Primary School",
+  "address": "Rodborough Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL5 3RT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384608",
+  "northing": "204782",
+  "url": "www.rodborough-primary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

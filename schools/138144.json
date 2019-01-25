@@ -1,0 +1,18 @@
+{
+  "urn": "138144",
+  "name": "North Personalised Education Centre (NPEC)",
+  "address": "Crosslands",
+  "locality": "Stantonbury",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 6AX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "484950",
+  "northing": "241505",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144579",
+  "name": "Longdendale High School",
+  "address": "Spring Street",
+  "locality": "Hollingworth",
+  "address3": "",
+  "town": "Hyde",
+  "county": "Cheshire",
+  "postcode": "SK14 8LW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "400182",
+  "northing": "396341",
+  "url": "http://www.longdendalehighschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

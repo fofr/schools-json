@@ -1,0 +1,18 @@
+{
+  "urn": "139531",
+  "name": "St Augustine's RC Primary School",
+  "address": "Beechwood Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL3 7HP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "428409",
+  "northing": "514104",
+  "url": "www.staugustinesacademy.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100017",
+  "name": "Kingsgate Infant School",
+  "address": "Kingsgate Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW6 2JG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "525140",
+  "northing": "184253",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

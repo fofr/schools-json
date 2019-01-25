@@ -1,0 +1,18 @@
+{
+  "urn": "142116",
+  "name": "Plymouth Studio School",
+  "address": "Derriford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 8BH",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "250266",
+  "northing": "59761",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

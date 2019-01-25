@@ -1,0 +1,18 @@
+{
+  "urn": "135675",
+  "name": "The Oxford Academy",
+  "address": "Sandy Lane West",
+  "locality": "Littlemore",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 6JZ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "454295",
+  "northing": "202866",
+  "url": "http://www.theoxfordacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

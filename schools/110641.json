@@ -1,0 +1,18 @@
+{
+  "urn": "110641",
+  "name": "Westwood Community Primary School",
+  "address": "Maple Grove",
+  "locality": "",
+  "address3": "",
+  "town": "March",
+  "county": "Cambridgeshire",
+  "postcode": "PE15 8JT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "541107",
+  "northing": "297314",
+  "url": "http://www.westwood.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

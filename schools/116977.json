@@ -1,0 +1,18 @@
+{
+  "urn": "116977",
+  "name": "Elgar Technology College",
+  "address": "Bilford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR3 8HN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "386082",
+  "northing": "257207",
+  "url": "http://www.elgar.worcs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

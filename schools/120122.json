@@ -1,0 +1,18 @@
+{
+  "urn": "120122",
+  "name": "St Edward's Church of England Primary School",
+  "address": "Dovecote",
+  "locality": "Castle Donington",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE74 2LH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "444712",
+  "northing": "327209",
+  "url": "www.stedwards-cd.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119107",
+  "name": "Accrington Tutorial Centre",
+  "address": "Read Street",
+  "locality": "Clayton-le-Moors",
+  "address3": "",
+  "town": "Accrington",
+  "county": "Lancashire",
+  "postcode": "BB5 5LL",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "375077",
+  "northing": "430448",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

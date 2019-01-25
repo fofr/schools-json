@@ -1,0 +1,18 @@
+{
+  "urn": "103100",
+  "name": "Willowfield School",
+  "address": "209 Blackhorse Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 6ND",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "535903",
+  "northing": "189267",
+  "url": "http://www.willowfield-school.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

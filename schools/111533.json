@@ -1,0 +1,18 @@
+{
+  "urn": "111533",
+  "name": "Lockwood Primary School",
+  "address": "Boosbeck",
+  "locality": "",
+  "address3": "",
+  "town": "Saltburn-by-the-Sea",
+  "county": "North Yorkshire",
+  "postcode": "TS12 3BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "465844",
+  "northing": "516772",
+  "url": "www.lockwoodprimaryschool.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

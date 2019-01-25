@@ -1,0 +1,18 @@
+{
+  "urn": "127005",
+  "name": "Gurney School",
+  "address": "Knox Road",
+  "locality": "Forest Gate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E7 9HW",
+  "minimum_age": "8",
+  "maximum_age": "16",
+  "easting": "539996",
+  "northing": "184697",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

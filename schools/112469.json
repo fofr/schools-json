@@ -1,0 +1,18 @@
+{
+  "urn": "112469",
+  "name": "Hadfield Nursery School",
+  "address": "Queen Street",
+  "locality": "Hadfield",
+  "address3": "",
+  "town": "Glossop",
+  "county": "Derbyshire",
+  "postcode": "SK13 2DW",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "402025",
+  "northing": "395856",
+  "url": "www.hadfieldnursery.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

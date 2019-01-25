@@ -1,0 +1,18 @@
+{
+  "urn": "146375",
+  "name": "UTC Heathrow",
+  "address": "Potter Street",
+  "locality": "",
+  "address3": "",
+  "town": "Northwood",
+  "county": "",
+  "postcode": "HA6 1QG",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "510444",
+  "northing": "190562",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

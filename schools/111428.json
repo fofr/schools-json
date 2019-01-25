@@ -1,0 +1,18 @@
+{
+  "urn": "111428",
+  "name": "Holmes Chapel Comprehensive School",
+  "address": "Selkirk Drive",
+  "locality": "Holmes Chapel",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW4 7DX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "375444",
+  "northing": "366712",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

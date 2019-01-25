@@ -1,0 +1,18 @@
+{
+  "urn": "143909",
+  "name": "Wayfield Primary School",
+  "address": "Wayfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chatham",
+  "county": "Kent",
+  "postcode": "ME5 0HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "576192",
+  "northing": "165414",
+  "url": "www.wayfield.medway.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

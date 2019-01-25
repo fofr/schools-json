@@ -1,0 +1,18 @@
+{
+  "urn": "101413",
+  "name": "Upton Primary School",
+  "address": "Iris Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bexley",
+  "county": "Kent",
+  "postcode": "DA5 1HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548454",
+  "northing": "174428",
+  "url": "www.upton.bexley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

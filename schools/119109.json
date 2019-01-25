@@ -1,0 +1,18 @@
+{
+  "urn": "119109",
+  "name": "Hillview School",
+  "address": "Swindon Street",
+  "locality": "",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB11 4PF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "383010",
+  "northing": "432181",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

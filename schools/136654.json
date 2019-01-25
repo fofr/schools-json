@@ -1,0 +1,18 @@
+{
+  "urn": "136654",
+  "name": "Wildern School",
+  "address": "Wildern Lane",
+  "locality": "Hedge End",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO30 4EJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "449205",
+  "northing": "113493",
+  "url": "http://www.wildern.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

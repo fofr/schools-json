@@ -1,0 +1,18 @@
+{
+  "urn": "110512",
+  "name": "Royal Latin School",
+  "address": "Chandos Road",
+  "locality": "",
+  "address3": "",
+  "town": "Buckingham",
+  "county": "Buckinghamshire",
+  "postcode": "MK18 1AX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "469709",
+  "northing": "233267",
+  "url": "www.royallatin.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

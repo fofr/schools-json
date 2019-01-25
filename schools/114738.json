@@ -1,0 +1,18 @@
+{
+  "urn": "114738",
+  "name": "Tendring Primary School",
+  "address": "School Road",
+  "locality": "Tendring",
+  "address3": "",
+  "town": "Clacton-on-Sea",
+  "county": "Essex",
+  "postcode": "CO16 0BP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "614564",
+  "northing": "224837",
+  "url": "http://www.tendring-pri.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

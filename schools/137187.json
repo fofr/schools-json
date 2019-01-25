@@ -1,0 +1,18 @@
+{
+  "urn": "137187",
+  "name": "Ernulf Academy",
+  "address": "Barford Road",
+  "locality": "Eynesbury",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 2SH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518262",
+  "northing": "258898",
+  "url": "http://www.ernulf.cambs.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131364",
+  "name": "Princess County Primary School",
+  "address": "Flaxpool Close",
+  "locality": "Alexandra Park Estate",
+  "address3": "Moss Side",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M16 7EN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "383072",
+  "northing": "395585",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

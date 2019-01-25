@@ -1,0 +1,18 @@
+{
+  "urn": "114010",
+  "name": "Pelton Junior School",
+  "address": "Ouston Lane",
+  "locality": "Pelton",
+  "address3": "",
+  "town": "Chester le Street",
+  "county": "",
+  "postcode": "DH2 1EZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "425658",
+  "northing": "553273",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

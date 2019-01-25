@@ -1,0 +1,18 @@
+{
+  "urn": "122220",
+  "name": "Prudhoe West First School",
+  "address": "West Road",
+  "locality": "",
+  "address3": "",
+  "town": "Prudhoe",
+  "county": "Northumberland",
+  "postcode": "NE42 6HR",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "409234",
+  "northing": "562839",
+  "url": "http://www.prudhoewest.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

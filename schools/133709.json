@@ -1,0 +1,18 @@
+{
+  "urn": "133709",
+  "name": "Richmond Hill Primary School",
+  "address": "Melton Road",
+  "locality": "Sprotbrough",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN5 7SB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455305",
+  "northing": "402946",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

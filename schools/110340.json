@@ -1,0 +1,18 @@
+{
+  "urn": "110340",
+  "name": "Manor Farm Community Junior School",
+  "address": "Rose Avenue",
+  "locality": "Hazlemere",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP15 7PH",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "489854",
+  "northing": "194681",
+  "url": "www.manorfarmschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136348",
+  "name": "Gosforth Junior High Academy",
+  "address": "Regent Avenue",
+  "locality": "Gosforth",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE3 1EE",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "424103",
+  "northing": "568289",
+  "url": "http://www.gosforthacademy.org.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

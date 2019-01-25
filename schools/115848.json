@@ -1,0 +1,18 @@
+{
+  "urn": "115848",
+  "name": "Phoenix Pupil Referral Unit",
+  "address": "Lunedale Road",
+  "locality": "Dibden Purlieu",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO45 4QN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "441241",
+  "northing": "105970",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107695",
+  "name": "Cowlersley Primary School",
+  "address": "Main Avenue",
+  "locality": "Cowlersley",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD4 5US",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "410929",
+  "northing": "415126",
+  "url": "http://www.cowlersleyprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

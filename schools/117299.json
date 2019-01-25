@@ -1,0 +1,18 @@
+{
+  "urn": "117299",
+  "name": "Round Diamond Primary School",
+  "address": "Whitehorse Lane",
+  "locality": "Great Ashby Way",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG1 6NH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525717",
+  "northing": "227247",
+  "url": "http://rounddiamondprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

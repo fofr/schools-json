@@ -1,0 +1,18 @@
+{
+  "urn": "103161",
+  "name": "Audley Infant School",
+  "address": "Audley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B33 9HY",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "414031",
+  "northing": "287844",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

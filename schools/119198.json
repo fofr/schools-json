@@ -1,0 +1,18 @@
+{
+  "urn": "119198",
+  "name": "Water Primary School",
+  "address": "Burnley Road East",
+  "locality": "Water",
+  "address3": "",
+  "town": "Rossendale",
+  "county": "Lancashire",
+  "postcode": "BB4 9PX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384069",
+  "northing": "425601",
+  "url": "www.water.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111011",
+  "name": "Dean Row Junior School",
+  "address": "Handforth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wilmslow",
+  "county": "Cheshire",
+  "postcode": "SK9 2LX",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "386470",
+  "northing": "382228",
+  "url": "http://www.deanrow.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

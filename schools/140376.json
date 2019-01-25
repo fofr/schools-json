@@ -1,0 +1,18 @@
+{
+  "urn": "140376",
+  "name": "Nelson Primary School",
+  "address": "Nelson Road",
+  "locality": "Whitton",
+  "address3": "Twickenham",
+  "town": "Middlesex",
+  "county": "",
+  "postcode": "TW2 7BU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "513961",
+  "northing": "173953",
+  "url": "www.nelson.richmond.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

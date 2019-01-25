@@ -1,0 +1,18 @@
+{
+  "urn": "102010",
+  "name": "Hazelbury Junior School",
+  "address": "Haselbury Road",
+  "locality": "Edmonton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N9 9TT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "533277",
+  "northing": "193249",
+  "url": "www.hazelburyjuniors.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

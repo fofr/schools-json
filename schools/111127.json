@@ -1,0 +1,18 @@
+{
+  "urn": "111127",
+  "name": "Woodfall Infant School",
+  "address": "Woodfall Lane",
+  "locality": "Little Neston",
+  "address3": "",
+  "town": "Neston",
+  "county": "Merseyside",
+  "postcode": "CH64 4BT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "330306",
+  "northing": "376564",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

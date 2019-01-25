@@ -1,0 +1,18 @@
+{
+  "urn": "105400",
+  "name": "Burgess Primary School",
+  "address": "Monsall Road",
+  "locality": "Harpurhey",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M9 5QE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386097",
+  "northing": "401064",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

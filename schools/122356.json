@@ -1,0 +1,18 @@
+{
+  "urn": "122356",
+  "name": "Queen Elizabeth High School",
+  "address": "Whetstone Bridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hexham",
+  "county": "Northumberland",
+  "postcode": "NE46 3JB",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "392556",
+  "northing": "563954",
+  "url": "http://www.qehs.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123047",
+  "name": "Windmill Primary School",
+  "address": "Margaret Road",
+  "locality": "Headington",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 8NG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "454837",
+  "northing": "206708",
+  "url": "www.windmill.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

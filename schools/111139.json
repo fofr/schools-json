@@ -1,0 +1,18 @@
+{
+  "urn": "111139",
+  "name": "Leaf Lane Infant and Nursery School",
+  "address": "Leaf Lane",
+  "locality": "Off Crook Lane",
+  "address3": "",
+  "town": "Winsford",
+  "county": "Cheshire",
+  "postcode": "CW7 3EG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "366199",
+  "northing": "366674",
+  "url": "http://www.leaflane.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120452",
+  "name": "Hogsthorpe Community Primary School",
+  "address": "Thames Street",
+  "locality": "Hogsthorpe",
+  "address3": "",
+  "town": "Skegness",
+  "county": "Lincolnshire",
+  "postcode": "PE24 5PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "553537",
+  "northing": "372440",
+  "url": "http://www.hogsthorpe-school.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133675",
+  "name": "Compass School",
+  "address": "Green Lane",
+  "locality": "Millbrook",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 9FQ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "438428",
+  "northing": "115071",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

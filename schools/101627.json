@@ -1,0 +1,18 @@
+{
+  "urn": "101627",
+  "name": "Warren Road Primary School",
+  "address": "Warren Road",
+  "locality": "",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR6 6JF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "545712",
+  "northing": "164469",
+  "url": "http://www.warrenroad.bromley.lgfl.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

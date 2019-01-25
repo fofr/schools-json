@@ -1,0 +1,18 @@
+{
+  "urn": "102401",
+  "name": "William Byrd School",
+  "address": "Victoria Lane",
+  "locality": "Harlington",
+  "address3": "",
+  "town": "Hayes",
+  "county": "Middlesex",
+  "postcode": "UB3 5EW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508532",
+  "northing": "177907",
+  "url": "www.williambyrd.hillingdon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

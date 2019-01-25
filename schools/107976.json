@@ -1,0 +1,18 @@
+{
+  "urn": "107976",
+  "name": "Aireview Primary School",
+  "address": "Coal Hill Drive",
+  "locality": "Bramley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 1DD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "422594",
+  "northing": "435580",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

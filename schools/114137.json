@@ -1,0 +1,18 @@
+{
+  "urn": "114137",
+  "name": "Belmont Infant School",
+  "address": "Buckinghamshire Road",
+  "locality": "Belmont",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH1 2QP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "430393",
+  "northing": "543509",
+  "url": "www.belmont-inf.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

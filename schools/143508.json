@@ -1,0 +1,18 @@
+{
+  "urn": "143508",
+  "name": "Stourport Primary Academy",
+  "address": "Park Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Stourport-on-Severn",
+  "county": "Worcestershire",
+  "postcode": "DY13 8SH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "380817",
+  "northing": "271690",
+  "url": "www.stourportprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

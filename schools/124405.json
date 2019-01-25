@@ -1,0 +1,18 @@
+{
+  "urn": "124405",
+  "name": "Maryhill High School",
+  "address": "Gloucester Road",
+  "locality": "Kidsgrove",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 4DL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "384487",
+  "northing": "355223",
+  "url": "http://www.maryhill-high.staffs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

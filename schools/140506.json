@@ -1,0 +1,18 @@
+{
+  "urn": "140506",
+  "name": "Rolph CofE Primary School",
+  "address": "High Street",
+  "locality": "Thorpe-le-Soken",
+  "address3": "",
+  "town": "Clacton-on-Sea",
+  "county": "Essex",
+  "postcode": "CO16 0DY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "617876",
+  "northing": "222366",
+  "url": "www.rolphcofeprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

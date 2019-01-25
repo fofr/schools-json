@@ -1,0 +1,18 @@
+{
+  "urn": "111182",
+  "name": "Woolston Community Primary School",
+  "address": "Barnfield Road",
+  "locality": "Woolston",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA1 4NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "364244",
+  "northing": "389390",
+  "url": "http://www.woolstoncp.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

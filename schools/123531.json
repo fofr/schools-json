@@ -1,0 +1,18 @@
+{
+  "urn": "123531",
+  "name": "Long Meadow CofE Primary and Nursery School",
+  "address": "Long Meadow",
+  "locality": "Bayston Hill",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 0NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "347703",
+  "northing": "308902",
+  "url": "http://www.longmeadow.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

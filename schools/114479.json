@@ -1,0 +1,18 @@
+{
+  "urn": "114479",
+  "name": "Saltdean Primary School",
+  "address": "Chiltington Way",
+  "locality": "Saltdean",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN2 8HB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "538192",
+  "northing": "102772",
+  "url": "http://www.saltdeanprimary.org.uk/index.asp",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

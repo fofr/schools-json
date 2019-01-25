@@ -1,0 +1,18 @@
+{
+  "urn": "124949",
+  "name": "North Downs Primary School",
+  "address": "Wheelers Lane",
+  "locality": "Brockham",
+  "address3": "",
+  "town": "Betchworth",
+  "county": "Surrey",
+  "postcode": "RH3 7LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "519907",
+  "northing": "149392",
+  "url": "http://www.northdowns.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

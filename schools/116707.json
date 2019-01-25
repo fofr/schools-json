@@ -1,0 +1,18 @@
+{
+  "urn": "116707",
+  "name": "Luston Primary School",
+  "address": "Westland View",
+  "locality": "Luston",
+  "address3": "",
+  "town": "Leominster",
+  "county": "Herefordshire",
+  "postcode": "HR6 0EA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "348471",
+  "northing": "263276",
+  "url": "http://www.luston.hereford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

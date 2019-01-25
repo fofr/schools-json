@@ -1,0 +1,18 @@
+{
+  "urn": "137181",
+  "name": "The UCL Academy",
+  "address": "Adelaide Road",
+  "locality": "",
+  "address3": "Swiss Cottage",
+  "town": "Camden",
+  "county": "",
+  "postcode": "NW3 3AQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "526867",
+  "northing": "184105",
+  "url": "http://www.uclacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

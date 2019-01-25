@@ -1,0 +1,18 @@
+{
+  "urn": "134597",
+  "name": "Ealing Primary Centre",
+  "address": "573 Greenford Road",
+  "locality": "Greenford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "UB6 8QJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "514849",
+  "northing": "183439",
+  "url": "www.ealingprimarycentre.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

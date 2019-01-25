@@ -1,0 +1,18 @@
+{
+  "urn": "106527",
+  "name": "Fred Longworth High School",
+  "address": "Printshop Lane",
+  "locality": "Tyldesley",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M29 8JN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "368403",
+  "northing": "402022",
+  "url": "http://www.flhs.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

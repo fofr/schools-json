@@ -1,0 +1,18 @@
+{
+  "urn": "130046",
+  "name": "Lakeside First School",
+  "address": "Alphington Avenue",
+  "locality": "Frimley",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU16 8LL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "488667",
+  "northing": "158374",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

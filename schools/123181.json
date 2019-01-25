@@ -1,0 +1,18 @@
+{
+  "urn": "123181",
+  "name": "St John's Catholic Primary School, Banbury",
+  "address": "Avocet Way",
+  "locality": "Chatsworth Drive",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 9YA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "446036",
+  "northing": "239178",
+  "url": "www.st-johns-banbury.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

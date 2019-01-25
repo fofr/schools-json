@@ -1,0 +1,18 @@
+{
+  "urn": "107769",
+  "name": "Holmfirth High School",
+  "address": "Heys Road",
+  "locality": "Thongsbridge",
+  "address3": "",
+  "town": "Holmfirth",
+  "county": "West Yorkshire",
+  "postcode": "HD9 7SE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "415231",
+  "northing": "409597",
+  "url": "http://www.holmfirthhigh.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

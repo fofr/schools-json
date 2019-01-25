@@ -1,0 +1,18 @@
+{
+  "urn": "108357",
+  "name": "Bill Quay Primary School",
+  "address": "Davidson Road",
+  "locality": "Bill Quay",
+  "address3": "",
+  "town": "Gateshead",
+  "county": "Tyne and Wear",
+  "postcode": "NE10 0UN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "429795",
+  "northing": "562629",
+  "url": "www.billquayprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

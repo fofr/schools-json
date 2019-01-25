@@ -1,0 +1,18 @@
+{
+  "urn": "111216",
+  "name": "Mablins Lane Community Primary School",
+  "address": "Mablins Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 3YR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "369672",
+  "northing": "357915",
+  "url": "http://www.mablinslaneschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

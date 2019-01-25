@@ -1,0 +1,18 @@
+{
+  "urn": "106999",
+  "name": "Lydgate Infant School",
+  "address": "Lydgate Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S10 5FQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "432343",
+  "northing": "387138",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

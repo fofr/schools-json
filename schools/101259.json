@@ -1,0 +1,18 @@
+{
+  "urn": "101259",
+  "name": "Bell Lane Primary School",
+  "address": "Bell Lane",
+  "locality": "Hendon",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW4 2AS",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "523677",
+  "northing": "189134",
+  "url": "www.belllaneprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139866",
+  "name": "Middleton Cheney Primary Academy",
+  "address": "Main Road",
+  "locality": "Middleton Cheney",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX17 2PD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "449926",
+  "northing": "241770",
+  "url": "www.mcpa.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

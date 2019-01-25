@@ -1,0 +1,18 @@
+{
+  "urn": "119159",
+  "name": "Lostock Hall Community Primary School",
+  "address": "Linden Drive",
+  "locality": "Lostock Hall",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR5 5AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "354896",
+  "northing": "426089",
+  "url": "www.lostockhallcps.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111368",
+  "name": "St Lewis Catholic Primary School",
+  "address": "Mustard Lane",
+  "locality": "Croft",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA3 7BD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "363911",
+  "northing": "394376",
+  "url": "www.st-lewis-catholic.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

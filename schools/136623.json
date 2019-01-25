@@ -1,0 +1,18 @@
+{
+  "urn": "136623",
+  "name": "Chosen Hill School",
+  "address": "Brookfield Road",
+  "locality": "Churchdown",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL3 2PL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "389032",
+  "northing": "220149",
+  "url": "http://www.chosen-hill.gloucs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

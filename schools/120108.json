@@ -1,0 +1,18 @@
+{
+  "urn": "120108",
+  "name": "Medway Community Primary School",
+  "address": "St Stephens Road",
+  "locality": "Highfields",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 1GH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "460036",
+  "northing": "303774",
+  "url": "www.medway.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

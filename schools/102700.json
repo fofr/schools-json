@@ -1,0 +1,18 @@
+{
+  "urn": "102700",
+  "name": "Edith Kerrison Nursery School",
+  "address": "Sophia Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E16 3PB",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "540813",
+  "northing": "181540",
+  "url": "http://www.edithkerrison.newham.sch.uk/",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

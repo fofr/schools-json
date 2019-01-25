@@ -1,0 +1,18 @@
+{
+  "urn": "111959",
+  "name": "Looe Primary School",
+  "address": "Hay Lane",
+  "locality": "East Looe",
+  "address3": "",
+  "town": "Looe",
+  "county": "Cornwall",
+  "postcode": "PL13 1JY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "226006",
+  "northing": "53882",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

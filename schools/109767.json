@@ -1,0 +1,18 @@
+{
+  "urn": "109767",
+  "name": "Wexham Park Teaching Unit",
+  "address": "The Schoolroom Paediatric Department",
+  "locality": "Wexham Park Hospital",
+  "address3": "Wexham Street",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL2 4HL",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "498930",
+  "northing": "182543",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

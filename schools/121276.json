@@ -1,0 +1,18 @@
+{
+  "urn": "121276",
+  "name": "Dringhouses Primary School",
+  "address": "St Helen's Road",
+  "locality": "Dringhouses",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO24 1HW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458494",
+  "northing": "449807",
+  "url": "www.dringhouses.york.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

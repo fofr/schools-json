@@ -1,0 +1,18 @@
+{
+  "urn": "121206",
+  "name": "Toftwood Infant School",
+  "address": "School Lane",
+  "locality": "Toftwood",
+  "address3": "East Dereham",
+  "town": "Dereham",
+  "county": "Norfolk",
+  "postcode": "NR19 1LS",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "599204",
+  "northing": "311338",
+  "url": "http://www.toftwood.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

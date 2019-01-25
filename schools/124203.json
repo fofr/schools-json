@@ -1,0 +1,18 @@
+{
+  "urn": "124203",
+  "name": "Castlechurch Primary School",
+  "address": "Tennyson Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST17 9SY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390972",
+  "northing": "321743",
+  "url": "www.castlechurchprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

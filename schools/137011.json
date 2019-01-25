@@ -1,0 +1,18 @@
+{
+  "urn": "137011",
+  "name": "Minsthorpe Community College, A Specialist Science College",
+  "address": "Minsthorpe Lane",
+  "locality": "South Elmsall",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 2UJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "447006",
+  "northing": "411951",
+  "url": "http://minsthorpe.cc",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

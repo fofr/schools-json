@@ -1,0 +1,18 @@
+{
+  "urn": "136553",
+  "name": "Delamere CofE Primary Academy",
+  "address": "Stoney Lane",
+  "locality": "Kelsall",
+  "address3": "",
+  "town": "Tarporley",
+  "county": "Cheshire",
+  "postcode": "CW6 0ST",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "355256",
+  "northing": "368436",
+  "url": "www.delamereacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

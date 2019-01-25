@@ -1,0 +1,18 @@
+{
+  "urn": "118162",
+  "name": "Newchurch Primary School",
+  "address": "School Lane",
+  "locality": "Newchurch",
+  "address3": "",
+  "town": "Sandown",
+  "county": "Isle of Wight",
+  "postcode": "PO36 0NL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "456209",
+  "northing": "85382",
+  "url": "www.newchurchprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

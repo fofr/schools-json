@@ -1,0 +1,18 @@
+{
+  "urn": "119080",
+  "name": "Moorgate Nursery School",
+  "address": "Moorgate",
+  "locality": "",
+  "address3": "",
+  "town": "Ormskirk",
+  "county": "Lancashire",
+  "postcode": "L39 4RY",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "341336",
+  "northing": "407927",
+  "url": "http://www.moorgatenurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

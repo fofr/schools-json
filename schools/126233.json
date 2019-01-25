@@ -1,0 +1,18 @@
+{
+  "urn": "126233",
+  "name": "Westbury Infant School",
+  "address": "Eden Vale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Westbury",
+  "county": "Wiltshire",
+  "postcode": "BA13 3NY",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "386652",
+  "northing": "151267",
+  "url": "http://www.westbury-inf.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

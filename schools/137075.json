@@ -1,0 +1,18 @@
+{
+  "urn": "137075",
+  "name": "Park High School",
+  "address": "Thistlecroft Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Stanmore",
+  "county": "",
+  "postcode": "HA7 1PL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517685",
+  "northing": "190370",
+  "url": "www.parkhighstanmore.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

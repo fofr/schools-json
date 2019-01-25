@@ -1,0 +1,18 @@
+{
+  "urn": "142035",
+  "name": "The Netherhall School",
+  "address": "Queen Edith's Way",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 8NN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "548080",
+  "northing": "255818",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

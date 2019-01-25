@@ -1,0 +1,18 @@
+{
+  "urn": "114979",
+  "name": "Manuden Primary School",
+  "address": "The Street",
+  "locality": "Manuden",
+  "address3": "",
+  "town": "Bishop's Stortford",
+  "county": "Hertfordshire",
+  "postcode": "CM23 1DE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "549122",
+  "northing": "226524",
+  "url": "http://www.manudenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

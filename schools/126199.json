@@ -1,0 +1,18 @@
+{
+  "urn": "126199",
+  "name": "Horningsham Primary School",
+  "address": "Church Street",
+  "locality": "Horningsham",
+  "address3": "",
+  "town": "Warminster",
+  "county": "Wiltshire",
+  "postcode": "BA12 7LW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "381930",
+  "northing": "141370",
+  "url": "www.horningsham.schnet.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

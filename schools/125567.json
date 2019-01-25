@@ -1,0 +1,18 @@
+{
+  "urn": "125567",
+  "name": "Binley Woods First School",
+  "address": "Woodlands Road",
+  "locality": "Binley Woods",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV3 2DA",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "439716",
+  "northing": "277338",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

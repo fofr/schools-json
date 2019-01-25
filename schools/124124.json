@@ -1,0 +1,18 @@
+{
+  "urn": "124124",
+  "name": "Flaxley Primary School",
+  "address": "Hillary Crest",
+  "locality": "Peartree Estate",
+  "address3": "",
+  "town": "Rugeley",
+  "county": "Staffordshire",
+  "postcode": "WS15 1NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "404203",
+  "northing": "316689",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

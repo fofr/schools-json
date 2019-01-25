@@ -1,0 +1,18 @@
+{
+  "urn": "119273",
+  "name": "Moorside Primary School",
+  "address": "Bowerham Road",
+  "locality": "Newlands",
+  "address3": "",
+  "town": "Lancaster",
+  "county": "Lancashire",
+  "postcode": "LA1 4HT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "348712",
+  "northing": "459890",
+  "url": "www.moorside-pri.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

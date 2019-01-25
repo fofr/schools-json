@@ -1,0 +1,18 @@
+{
+  "urn": "121331",
+  "name": "Easingwold Community Primary School",
+  "address": "Thirsk Road",
+  "locality": "Easingwold",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO61 3HJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "452309",
+  "northing": "470231",
+  "url": "http://www.easingwoldprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

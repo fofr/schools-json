@@ -1,0 +1,18 @@
+{
+  "urn": "146593",
+  "name": "Greengates Primary Academy",
+  "address": "31 Stockhill Road",
+  "locality": "Greengates",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD10 9AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "419077",
+  "northing": "437367",
+  "url": "www.greengatesprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

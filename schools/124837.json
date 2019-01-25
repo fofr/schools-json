@@ -1,0 +1,18 @@
+{
+  "urn": "124837",
+  "name": "Stoke High School",
+  "address": "Maidenhall Approach",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP2 8PL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "616051",
+  "northing": "242981",
+  "url": "http://www.stokehs.suffolk.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

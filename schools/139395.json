@@ -1,0 +1,18 @@
+{
+  "urn": "139395",
+  "name": "The Boulevard Academy",
+  "address": "Massey Close",
+  "locality": "",
+  "address3": "",
+  "town": "Kingston-upon-Hull",
+  "county": "",
+  "postcode": "HU3 3QT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "507539",
+  "northing": "428404",
+  "url": "http://www.theboulevardacademy.com/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

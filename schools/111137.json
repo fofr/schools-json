@@ -1,0 +1,18 @@
+{
+  "urn": "111137",
+  "name": "Leftwich Community Primary School",
+  "address": "Old Hall Road",
+  "locality": "Leftwich",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW9 8DH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "366469",
+  "northing": "371732",
+  "url": "www.leftwichprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

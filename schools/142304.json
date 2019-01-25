@@ -1,0 +1,18 @@
+{
+  "urn": "142304",
+  "name": "Mithian School",
+  "address": "Buckshead",
+  "locality": "",
+  "address3": "",
+  "town": "St Agnes",
+  "county": "Cornwall",
+  "postcode": "TR5 0XW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "173873",
+  "northing": "50940",
+  "url": "www.mithian.eschools.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

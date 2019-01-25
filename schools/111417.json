@@ -1,0 +1,18 @@
+{
+  "urn": "111417",
+  "name": "Ruskin Community High School",
+  "address": "Ruskin Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW2 7JT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "370149",
+  "northing": "354884",
+  "url": "http://www.ruskinhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

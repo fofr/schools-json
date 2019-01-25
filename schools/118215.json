@@ -1,0 +1,18 @@
+{
+  "urn": "118215",
+  "name": "Sandown High School",
+  "address": "The Fairway",
+  "locality": "",
+  "address3": "",
+  "town": "Sandown",
+  "county": "Isle of Wight",
+  "postcode": "PO36 9JH",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "458972",
+  "northing": "84588",
+  "url": "http://www.sandownhighschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

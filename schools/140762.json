@@ -1,0 +1,18 @@
+{
+  "urn": "140762",
+  "name": "St John's Catholic Primary School",
+  "address": "Melbourne Street",
+  "locality": "",
+  "address3": "",
+  "town": "Tiverton",
+  "county": "Devon",
+  "postcode": "EX16 5LB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "294892",
+  "northing": "112822",
+  "url": "http://www.stjohnstiverton.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

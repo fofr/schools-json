@@ -1,0 +1,18 @@
+{
+  "urn": "105432",
+  "name": "New Moston Primary School",
+  "address": "Moston Lane East",
+  "locality": "New Moston",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M40 3QJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389173",
+  "northing": "402533",
+  "url": "www.newmoston.manchester.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

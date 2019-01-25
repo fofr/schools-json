@@ -1,0 +1,18 @@
+{
+  "urn": "102045",
+  "name": "Winchmore School",
+  "address": "Laburnum Grove",
+  "locality": "Winchmore Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N21 3HS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "532148",
+  "northing": "193892",
+  "url": "http://www.winchmore.enfield.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135120",
+  "name": "Landau Forte College",
+  "address": "Fox Street",
+  "locality": "",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE1 2LF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "435517",
+  "northing": "336767",
+  "url": "http://www.landau-forte.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

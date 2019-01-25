@@ -1,0 +1,18 @@
+{
+  "urn": "104010",
+  "name": "Willingsworth High School",
+  "address": "Bilston Road",
+  "locality": "Gospel Oak",
+  "address3": "",
+  "town": "Tipton",
+  "county": "West Midlands",
+  "postcode": "DY4 0BZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "396913",
+  "northing": "294731",
+  "url": "http://www.schools.sandwell.net/willingsworth/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100132",
+  "name": "Horn Park Primary School",
+  "address": "Alnwick Road",
+  "locality": "Lee",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE12 9BT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540826",
+  "northing": "173663",
+  "url": "www.hornpark.greenwich.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

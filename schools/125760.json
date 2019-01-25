@@ -1,0 +1,18 @@
+{
+  "urn": "125760",
+  "name": "Wolverton Primary School",
+  "address": "Wolverton Fields",
+  "locality": "Norton Lindsey",
+  "address3": "",
+  "town": "Warwick",
+  "county": "Warwickshire",
+  "postcode": "CV35 8JN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421812",
+  "northing": "263300",
+  "url": "http://www.wolvertonprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110872",
+  "name": "The Manor - A Foundation School",
+  "address": "Arbury Road",
+  "locality": "Kings Hedges",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 2JF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "545609",
+  "northing": "260769",
+  "url": "http://www.themanorcambridge.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

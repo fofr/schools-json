@@ -1,0 +1,18 @@
+{
+  "urn": "102049",
+  "name": "Chace Community School",
+  "address": "Churchbury Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN1 3HQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "533134",
+  "northing": "197520",
+  "url": "http://www.chace.enfield.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

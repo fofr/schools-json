@@ -1,0 +1,18 @@
+{
+  "urn": "124386",
+  "name": "Longton High School",
+  "address": "Box Lane",
+  "locality": "Meir",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 5PR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "392783",
+  "northing": "342762",
+  "url": "http://www.longtonhigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

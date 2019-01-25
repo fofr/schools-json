@@ -1,0 +1,18 @@
+{
+  "urn": "140933",
+  "name": "Hollymount School",
+  "address": "Hollymount Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR4 9SG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386395",
+  "northing": "255893",
+  "url": "www.hollymountschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

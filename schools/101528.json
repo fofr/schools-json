@@ -1,0 +1,18 @@
+{
+  "urn": "101528",
+  "name": "Oliver Goldsmith Primary School",
+  "address": "Coniston Gardens",
+  "locality": "Kingsbury",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW9 0BD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "520811",
+  "northing": "188560",
+  "url": "www.olivergoldsmith.brent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

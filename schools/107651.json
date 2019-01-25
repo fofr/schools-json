@@ -1,0 +1,18 @@
+{
+  "urn": "107651",
+  "name": "Emley First School",
+  "address": "School Lane",
+  "locality": "Emley",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD8 9RT",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "424603",
+  "northing": "413256",
+  "url": "www.emleyschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

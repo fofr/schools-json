@@ -1,0 +1,18 @@
+{
+  "urn": "140196",
+  "name": "Rivers Primary Academy",
+  "address": "Mersey Road",
+  "locality": "Blakenall",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 1NP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "401135",
+  "northing": "302340",
+  "url": "www.riversprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

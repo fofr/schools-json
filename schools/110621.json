@@ -1,0 +1,18 @@
+{
+  "urn": "110621",
+  "name": "Waterbeach Community Primary School",
+  "address": "High Street",
+  "locality": "Waterbeach",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB25 9JU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "549725",
+  "northing": "265730",
+  "url": "www.waterbeach.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130417",
+  "name": "Southwark College",
+  "address": "Bermondsey Centre",
+  "locality": "Keetons Road",
+  "address3": "Bermondsey",
+  "town": "London",
+  "county": "",
+  "postcode": "SE16 4EE",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "534616",
+  "northing": "179274",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

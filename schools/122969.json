@@ -1,0 +1,18 @@
+{
+  "urn": "122969",
+  "name": "Grandpont Nursery School",
+  "address": "Whitehouse Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX1 4QH",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "451204",
+  "northing": "205180",
+  "url": "www.grandpontnurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

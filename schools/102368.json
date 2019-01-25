@@ -1,0 +1,18 @@
+{
+  "urn": "102368",
+  "name": "Bourne Primary School",
+  "address": "Cedar Avenue",
+  "locality": "South Ruislip",
+  "address3": "",
+  "town": "Ruislip",
+  "county": "",
+  "postcode": "HA4 6UJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511334",
+  "northing": "184924",
+  "url": "www.bourneprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

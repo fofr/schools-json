@@ -1,0 +1,18 @@
+{
+  "urn": "127999",
+  "name": "Scott Hall Middle School",
+  "address": "Stainbeck Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS7 3QU",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "430015",
+  "northing": "436967",
+  "url": "",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

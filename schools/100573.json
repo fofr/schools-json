@@ -1,0 +1,18 @@
+{
+  "urn": "100573",
+  "name": "Johanna Primary School",
+  "address": "Johanna Street",
+  "locality": "Lower Marsh",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE1 7RH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "531185",
+  "northing": "179665",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107143",
+  "name": "Stocksbridge High School",
+  "address": "Shay House Lane",
+  "locality": "Stocksbridge",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S36 1FD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "426882",
+  "northing": "397973",
+  "url": "http://www.sheffieldbsfschools.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

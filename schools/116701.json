@@ -1,0 +1,18 @@
+{
+  "urn": "116701",
+  "name": "Kington Primary School",
+  "address": "Mill Street",
+  "locality": "",
+  "address3": "",
+  "town": "Kington",
+  "county": "Herefordshire",
+  "postcode": "HR5 3AL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "329542",
+  "northing": "256583",
+  "url": "http://www.kingtonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111568",
+  "name": "Brougham Primary School",
+  "address": "Brougham Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS24 8EY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450741",
+  "northing": "533338",
+  "url": "www.brougham-school.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

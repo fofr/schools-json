@@ -1,0 +1,18 @@
+{
+  "urn": "107386",
+  "name": "Beckfoot School",
+  "address": "Wagon Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bingley",
+  "county": "West Yorkshire",
+  "postcode": "BD16 1EE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "411343",
+  "northing": "438346",
+  "url": "http://www.beckfoot.bradford.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

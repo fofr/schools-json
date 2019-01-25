@@ -1,0 +1,18 @@
+{
+  "urn": "125060",
+  "name": "Audley Primary School",
+  "address": "Whyteleafe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Caterham",
+  "county": "Surrey",
+  "postcode": "CR3 5ED",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533502",
+  "northing": "156867",
+  "url": "www.audleyprimary.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

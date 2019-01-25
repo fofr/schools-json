@@ -1,0 +1,18 @@
+{
+  "urn": "115953",
+  "name": "Titchfield Primary School",
+  "address": "Southampton Road",
+  "locality": "Titchfield",
+  "address3": "",
+  "town": "Fareham",
+  "county": "Hampshire",
+  "postcode": "PO14 4AU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "453884",
+  "northing": "106118",
+  "url": "www.titchfieldprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

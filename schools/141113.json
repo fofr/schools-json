@@ -1,0 +1,18 @@
+{
+  "urn": "141113",
+  "name": "Unity Primary Academy",
+  "address": "Hickory Avenue",
+  "locality": "Greenstead",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO4 3QJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "602009",
+  "northing": "225168",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139874",
+  "name": "Rothley Church of England Primary School",
+  "address": "Burrow Drive",
+  "locality": "Rothley",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE7 7RZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458875",
+  "northing": "312305",
+  "url": "www.rothley.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

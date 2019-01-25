@@ -1,0 +1,18 @@
+{
+  "urn": "130339",
+  "name": "Harrogate Pupil Referral Service",
+  "address": "59 Grove Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG1 5EP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "430674",
+  "northing": "456219",
+  "url": "www.harrogatepru.n-yorks.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

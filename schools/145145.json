@@ -1,0 +1,18 @@
+{
+  "urn": "145145",
+  "name": "Bluecoat Primary Academy",
+  "address": "Harvey Road",
+  "locality": "Bilborough",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 3BB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "452840",
+  "northing": "341549",
+  "url": "http://bluecoatprimaryacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

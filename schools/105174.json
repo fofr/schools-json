@@ -1,0 +1,18 @@
+{
+  "urn": "105174",
+  "name": "Lostock Primary School",
+  "address": "Glengarth Drive",
+  "locality": "Lostock",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL6 4PS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367411",
+  "northing": "408810",
+  "url": "http://www.lostock.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

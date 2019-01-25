@@ -1,0 +1,18 @@
+{
+  "urn": "140362",
+  "name": "Castle Academy",
+  "address": "St George's Street",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN1 2TR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "475271",
+  "northing": "261147",
+  "url": "http://castleacademy.northants.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113526",
+  "name": "The Spires College",
+  "address": "Westlands Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Torquay",
+  "county": "Devon",
+  "postcode": "TQ1 3PE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "291992",
+  "northing": "65076",
+  "url": "http://thespirescollege.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

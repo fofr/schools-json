@@ -1,0 +1,18 @@
+{
+  "urn": "140653",
+  "name": "Aureus School",
+  "address": "Candytuft Way",
+  "locality": "Great Western Park",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 6FF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "450553",
+  "northing": "189867",
+  "url": "www.aureusschool.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

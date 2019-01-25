@@ -1,0 +1,18 @@
+{
+  "urn": "108453",
+  "name": "Waverley Primary School",
+  "address": "Maple Close",
+  "locality": "Lemington",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE15 7QZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "419116",
+  "northing": "564867",
+  "url": "www.waverleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

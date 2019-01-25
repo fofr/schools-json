@@ -1,0 +1,18 @@
+{
+  "urn": "130825",
+  "name": "Brooklands College",
+  "address": "Heath Road",
+  "locality": "",
+  "address3": "",
+  "town": "Weybridge",
+  "county": "Surrey",
+  "postcode": "KT13 8TT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "506930",
+  "northing": "163740",
+  "url": "WWW.brooklands.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

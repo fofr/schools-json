@@ -1,0 +1,18 @@
+{
+  "urn": "140220",
+  "name": "Willowdown Primary Academy",
+  "address": "Kings Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "",
+  "postcode": "TA6 4FU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "331605",
+  "northing": "138656",
+  "url": "http://www.willowdownprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

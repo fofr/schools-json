@@ -1,0 +1,18 @@
+{
+  "urn": "100259",
+  "name": "Parkwood Primary School",
+  "address": "Queen's Drive",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N4 2HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "531839",
+  "northing": "186844",
+  "url": "www.parkwood.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

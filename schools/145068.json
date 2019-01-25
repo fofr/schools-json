@@ -1,0 +1,18 @@
+{
+  "urn": "145068",
+  "name": "Weston Park Primary School",
+  "address": "Newtown Road",
+  "locality": "Woolston",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 9HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445214",
+  "northing": "110531",
+  "url": "www.weston-park.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

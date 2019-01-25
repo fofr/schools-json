@@ -1,0 +1,18 @@
+{
+  "urn": "109534",
+  "name": "Denbigh Primary School",
+  "address": "Denbigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU3 1NS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "507794",
+  "northing": "222868",
+  "url": "http://www.denbighprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

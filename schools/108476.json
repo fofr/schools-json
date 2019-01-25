@@ -1,0 +1,18 @@
+{
+  "urn": "108476",
+  "name": "St Johns Primary School",
+  "address": "Teindland Close",
+  "locality": "Benwell",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 8HE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "422178",
+  "northing": "563626",
+  "url": "www.stjohns.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

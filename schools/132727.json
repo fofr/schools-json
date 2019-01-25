@@ -1,0 +1,18 @@
+{
+  "urn": "132727",
+  "name": "Walthamstow Academy",
+  "address": "Billet Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 5DP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "536929",
+  "northing": "190810",
+  "url": "http://www.walthamstow-academy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

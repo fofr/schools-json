@@ -1,0 +1,18 @@
+{
+  "urn": "112536",
+  "name": "Lea Primary School",
+  "address": "Church Street",
+  "locality": "Lea",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 5JP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "432255",
+  "northing": "357073",
+  "url": "http://www.lea-pri.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

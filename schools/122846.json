@@ -1,0 +1,18 @@
+{
+  "urn": "122846",
+  "name": "Redhill School",
+  "address": "Redhill Road",
+  "locality": "Arnold",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 8GX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458431",
+  "northing": "346054",
+  "url": "http://www.redhill.notts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125916",
+  "name": "Milton Mount Primary School",
+  "address": "Grattons Drive",
+  "locality": "Pound Hill",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH10 3AG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "529088",
+  "northing": "137874",
+  "url": "http://www.miltonmount.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103644",
+  "name": "Hearsall Community Primary School",
+  "address": "Kingston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV5 6LR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431931",
+  "northing": "278575",
+  "url": "www.hearsall.coventry.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

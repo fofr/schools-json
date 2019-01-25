@@ -1,0 +1,18 @@
+{
+  "urn": "112404",
+  "name": "Warwick Bridge Primary School",
+  "address": "Warwick Bridge",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA4 8RE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "347341",
+  "northing": "556778",
+  "url": "www.warwickbridge.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

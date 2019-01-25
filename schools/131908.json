@@ -1,0 +1,18 @@
+{
+  "urn": "131908",
+  "name": "The Downley School",
+  "address": "Faulkner Way",
+  "locality": "Downley",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP13 5AL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "484592",
+  "northing": "195166",
+  "url": "www.downley.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

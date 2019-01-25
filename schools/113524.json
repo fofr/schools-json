@@ -1,0 +1,18 @@
+{
+  "urn": "113524",
+  "name": "Torquay Community College",
+  "address": "Cricket Field Road",
+  "locality": "",
+  "address3": "",
+  "town": "Torquay",
+  "county": "Devon",
+  "postcode": "TQ2 7NU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "290674",
+  "northing": "65594",
+  "url": "http://www.torquaycomm.devon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

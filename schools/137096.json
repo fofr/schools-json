@@ -1,0 +1,18 @@
+{
+  "urn": "137096",
+  "name": "The Academy, Selsey",
+  "address": "School Lane",
+  "locality": "Selsey",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO20 9EH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "485405",
+  "northing": "93649",
+  "url": "www.theacademyselsey-tkat.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

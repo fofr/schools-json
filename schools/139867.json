@@ -1,0 +1,18 @@
+{
+  "urn": "139867",
+  "name": "Mildenhall College Academy",
+  "address": "Bury Road",
+  "locality": "Mildenhall",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP28 7HT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "572175",
+  "northing": "274572",
+  "url": "http://www.mildenhall.attrust.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

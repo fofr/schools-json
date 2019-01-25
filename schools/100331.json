@@ -1,0 +1,18 @@
+{
+  "urn": "100331",
+  "name": "Kenmont Primary School",
+  "address": "Valliere Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW10 6AL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522501",
+  "northing": "182898",
+  "url": "www.kenmont-primary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

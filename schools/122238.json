@@ -1,0 +1,18 @@
+{
+  "urn": "122238",
+  "name": "Shilbottle Primary School",
+  "address": "Shilbottle Grange",
+  "locality": "Shilbottle",
+  "address3": "",
+  "town": "Alnwick",
+  "county": "Northumberland",
+  "postcode": "NE66 2XQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "420447",
+  "northing": "608448",
+  "url": "http://www.shilbottle.northumberland.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

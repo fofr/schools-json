@@ -1,0 +1,18 @@
+{
+  "urn": "121704",
+  "name": "Burnholme Community College",
+  "address": "Bad Bargain Lane",
+  "locality": "",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO31 0GW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "462476",
+  "northing": "452453",
+  "url": "http://www.burnholme.co.uk/about/tour/index.php",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

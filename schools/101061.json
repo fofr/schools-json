@@ -1,0 +1,18 @@
+{
+  "urn": "101061",
+  "name": "Salesian College",
+  "address": "Surrey Lane",
+  "locality": "Battersea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 3PB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "527029",
+  "northing": "176645",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

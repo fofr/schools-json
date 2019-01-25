@@ -1,0 +1,18 @@
+{
+  "urn": "100785",
+  "name": "Crawford Primary School",
+  "address": "Crawford Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE5 9NF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532360",
+  "northing": "176513",
+  "url": "www.gipsyhillfederation.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

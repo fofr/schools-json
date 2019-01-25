@@ -1,0 +1,18 @@
+{
+  "urn": "133328",
+  "name": "Etruscan Primary School",
+  "address": "Dundee Road",
+  "locality": "",
+  "address3": "Etruria",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST1 4BS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387058",
+  "northing": "347190",
+  "url": "www.etruscan.stoke.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

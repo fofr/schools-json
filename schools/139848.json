@@ -1,0 +1,18 @@
+{
+  "urn": "139848",
+  "name": "Collingwood Primary School",
+  "address": "Collingwood Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "East Yorkshire",
+  "postcode": "HU3 1AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508569",
+  "northing": "429378",
+  "url": "www.collingwood.hull.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

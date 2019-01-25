@@ -1,0 +1,18 @@
+{
+  "urn": "130434",
+  "name": "John Ruskin College",
+  "address": "Selsdon Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Croydon",
+  "county": "Surrey",
+  "postcode": "CR2 8JJ",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "536384",
+  "northing": "163149",
+  "url": "http://www.johnruskin.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119738",
+  "name": "Southlands High School",
+  "address": "Clover Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR7 2NJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "357160",
+  "northing": "416307",
+  "url": "http://www.southlands.lancs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

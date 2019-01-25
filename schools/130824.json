@@ -1,0 +1,18 @@
+{
+  "urn": "130824",
+  "name": "East Surrey College",
+  "address": "Gatton Point",
+  "locality": "London Road",
+  "address3": "",
+  "town": "Redhill",
+  "county": "Surrey",
+  "postcode": "RH1 2JX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "528296",
+  "northing": "152103",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

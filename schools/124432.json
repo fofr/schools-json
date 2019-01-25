@@ -1,0 +1,18 @@
+{
+  "urn": "124432",
+  "name": "Woodhouse Middle School",
+  "address": "Woodhouse Lane",
+  "locality": "Biddulph",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST8 7DR",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "389204",
+  "northing": "358782",
+  "url": "http://www.woodhouse-middle.staffs.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

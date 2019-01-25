@@ -1,0 +1,18 @@
+{
+  "urn": "127996",
+  "name": "Intake High School",
+  "address": "Calverley Lane",
+  "locality": "Bramley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 1AH",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "423156",
+  "northing": "435509",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

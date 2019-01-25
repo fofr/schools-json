@@ -1,0 +1,18 @@
+{
+  "urn": "111113",
+  "name": "Willow Wood Nursery and Infant School",
+  "address": "Bradbury Road",
+  "locality": "Wharton",
+  "address3": "",
+  "town": "Winsford",
+  "county": "Cheshire",
+  "postcode": "CW7 3HN",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "366431",
+  "northing": "366546",
+  "url": "http://www.willowwood-inf.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

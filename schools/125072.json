@@ -1,0 +1,18 @@
+{
+  "urn": "125072",
+  "name": "Thorpe Lea Primary School",
+  "address": "Huntingfield Way",
+  "locality": "Thorpe Lea",
+  "address3": "",
+  "town": "Egham",
+  "county": "Surrey",
+  "postcode": "TW20 8DY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "502677",
+  "northing": "170566",
+  "url": "http://www.thorpe-lea.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

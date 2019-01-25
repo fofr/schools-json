@@ -1,0 +1,18 @@
+{
+  "urn": "104185",
+  "name": "Elm Street Infant School",
+  "address": "Elm Street",
+  "locality": "",
+  "address3": "",
+  "town": "Willenhall",
+  "county": "West Midlands",
+  "postcode": "WV13 1NB",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "397059",
+  "northing": "298970",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

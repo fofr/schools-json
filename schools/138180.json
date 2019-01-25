@@ -1,0 +1,18 @@
+{
+  "urn": "138180",
+  "name": "Hurworth Primary School",
+  "address": "Westfield Drive",
+  "locality": "Hurworth",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL2 2ET",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "430543",
+  "northing": "510321",
+  "url": "www.hurworthprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

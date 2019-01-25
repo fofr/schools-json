@@ -1,0 +1,18 @@
+{
+  "urn": "132026",
+  "name": "Ashwell Pupil Referral Unit",
+  "address": "Snowdon Way",
+  "locality": "Bransholme",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU7 5DS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "509771",
+  "northing": "436055",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

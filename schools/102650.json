@@ -1,0 +1,18 @@
+{
+  "urn": "102650",
+  "name": "Greenwood First School",
+  "address": "Greenwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mitcham",
+  "county": "Surrey",
+  "postcode": "CR4 1PF",
+  "minimum_age": "3",
+  "maximum_age": "8",
+  "easting": "529670",
+  "northing": "168606",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137745",
+  "name": "Woodside High School",
+  "address": "White Hart Lane",
+  "locality": "Wood Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N22 5QJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "531614",
+  "northing": "191115",
+  "url": "www.woodsidehighschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

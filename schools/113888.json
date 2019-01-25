@@ -1,0 +1,18 @@
+{
+  "urn": "113888",
+  "name": "The Blandford School",
+  "address": "Milldown Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blandford Forum",
+  "county": "Dorset",
+  "postcode": "DT11 7SQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "388144",
+  "northing": "106922",
+  "url": "http://www.blandfordschool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

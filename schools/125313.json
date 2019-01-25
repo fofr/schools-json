@@ -1,0 +1,18 @@
+{
+  "urn": "125313",
+  "name": "Fullbrook School",
+  "address": "Selsdon Road",
+  "locality": "New Haw",
+  "address3": "",
+  "town": "Addlestone",
+  "county": "Surrey",
+  "postcode": "KT15 3HW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "504130",
+  "northing": "161562",
+  "url": "http://www.fullbrook.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

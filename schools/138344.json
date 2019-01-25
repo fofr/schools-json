@@ -1,0 +1,18 @@
+{
+  "urn": "138344",
+  "name": "John Cleveland College",
+  "address": "Butt Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 1LE",
+  "minimum_age": "14",
+  "maximum_age": "18",
+  "easting": "443974",
+  "northing": "294523",
+  "url": "www.jcc.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

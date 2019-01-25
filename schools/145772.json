@@ -1,0 +1,18 @@
+{
+  "urn": "145772",
+  "name": "Crays Hill Primary School",
+  "address": "London Road",
+  "locality": "Crays Hill",
+  "address3": "",
+  "town": "Billericay",
+  "county": "Essex",
+  "postcode": "CM11 2UZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "571911",
+  "northing": "192684",
+  "url": "http://www.crayshill.essex.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

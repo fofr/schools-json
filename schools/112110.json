@@ -1,0 +1,18 @@
+{
+  "urn": "112110",
+  "name": "Great Orton Primary School",
+  "address": "Great Orton",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA5 6NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "332868",
+  "northing": "553889",
+  "url": "http://www.greatorton.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

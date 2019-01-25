@@ -1,0 +1,18 @@
+{
+  "urn": "101493",
+  "name": "Foundry College",
+  "address": "Budges Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG40 1PX",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "481954",
+  "northing": "169455",
+  "url": "www.foundry.wokingham.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

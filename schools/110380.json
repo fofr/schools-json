@@ -1,0 +1,18 @@
+{
+  "urn": "110380",
+  "name": "Priory Common School",
+  "address": "Scatterill Close",
+  "locality": "Bradwell",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK13 9EZ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "483603",
+  "northing": "239832",
+  "url": "http://www.priory-common.milton-keynes.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

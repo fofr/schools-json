@@ -1,0 +1,18 @@
+{
+  "urn": "134895",
+  "name": "The Avenue School",
+  "address": "5 the Avenue",
+  "locality": "Brent",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW6 7YG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "524220",
+  "northing": "184116",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

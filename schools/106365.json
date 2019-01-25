@@ -1,0 +1,18 @@
+{
+  "urn": "106365",
+  "name": "Lostock College",
+  "address": "Selby Road",
+  "locality": "Stretford",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M32 9PL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "378160",
+  "northing": "395386",
+  "url": "www.lostock.trafford.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

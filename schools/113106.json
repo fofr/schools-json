@@ -1,0 +1,18 @@
+{
+  "urn": "113106",
+  "name": "West Hill Primary School",
+  "address": "Beech Park",
+  "locality": "West Hill",
+  "address3": "",
+  "town": "Ottery St Mary",
+  "county": "Devon",
+  "postcode": "EX11 1UQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "306794",
+  "northing": "93802",
+  "url": "http://www.west-hill-primary.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131193",
+  "name": "Manor Green College",
+  "address": "Arc Pru",
+  "locality": "Century Youth House",
+  "address3": "Albert Road",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM1 2PS",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "551922",
+  "northing": "188320",
+  "url": "http://www.manorgreencollege.org/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

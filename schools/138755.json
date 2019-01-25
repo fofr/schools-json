@@ -1,0 +1,18 @@
+{
+  "urn": "138755",
+  "name": "The Thomas Cowley High School",
+  "address": "School Lane",
+  "locality": "Donington",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE11 4TF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "521203",
+  "northing": "335712",
+  "url": "http://www.thomascowley.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

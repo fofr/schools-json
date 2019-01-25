@@ -1,0 +1,18 @@
+{
+  "urn": "102224",
+  "name": "Glebe Primary School",
+  "address": "Glebe Avenue",
+  "locality": "Kenton",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA3 9LF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518119",
+  "northing": "189466",
+  "url": "www.glebe.harrow.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

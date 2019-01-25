@@ -1,0 +1,18 @@
+{
+  "urn": "119733",
+  "name": "St George's High School",
+  "address": "Cherry Tree Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY4 4PH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "333250",
+  "northing": "433984",
+  "url": "http://www.st-george.blackpool.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

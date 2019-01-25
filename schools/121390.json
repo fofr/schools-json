@@ -1,0 +1,18 @@
+{
+  "urn": "121390",
+  "name": "Fairburn Community Primary School",
+  "address": "Great North Road",
+  "locality": "Fairburn",
+  "address3": "",
+  "town": "Knottingley",
+  "county": "West Yorkshire",
+  "postcode": "WF11 9JY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "447284",
+  "northing": "427903",
+  "url": "http://www.fairburn.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

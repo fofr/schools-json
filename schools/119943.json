@@ -1,0 +1,18 @@
+{
+  "urn": "119943",
+  "name": "Newtown Linford Primary School",
+  "address": "Main Street",
+  "locality": "Newtown Linford",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE6 0AD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "451891",
+  "northing": "309925",
+  "url": "www.newtownlinfordschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

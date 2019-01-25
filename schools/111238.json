@@ -1,0 +1,18 @@
+{
+  "urn": "111238",
+  "name": "Parklands Community Primary School",
+  "address": "Little Sutton",
+  "locality": "",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Cheshire",
+  "postcode": "CH66 3RL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "337427",
+  "northing": "376328",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114106",
+  "name": "Thornhill Primary School",
+  "address": "Thornhill Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Shildon",
+  "county": "County Durham",
+  "postcode": "DL4 1ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "422509",
+  "northing": "526785",
+  "url": "www.thornhill.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112058",
+  "name": "Mullion School",
+  "address": "Meaver Road",
+  "locality": "Mullion",
+  "address3": "",
+  "town": "Helston",
+  "county": "Cornwall",
+  "postcode": "TR12 7EB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "168212",
+  "northing": "18925",
+  "url": "http://www.mullionschool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

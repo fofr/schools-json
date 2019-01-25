@@ -1,0 +1,18 @@
+{
+  "urn": "135666",
+  "name": "The Gainsborough Academy",
+  "address": "Sweyn Lane",
+  "locality": "Off Corringham Road",
+  "address3": "",
+  "town": "Gainsborough",
+  "county": "Lincolnshire",
+  "postcode": "DN21 1PB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "482715",
+  "northing": "390973",
+  "url": "http://www.thegainsboroughacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

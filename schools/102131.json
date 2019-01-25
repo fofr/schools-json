@@ -1,0 +1,18 @@
+{
+  "urn": "102131",
+  "name": "The Willow Primary School",
+  "address": "Adams Road",
+  "locality": "",
+  "address3": "Tottenham",
+  "town": "London",
+  "county": "",
+  "postcode": "N17 6HW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532942",
+  "northing": "190328",
+  "url": "www.thewillow.haringey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

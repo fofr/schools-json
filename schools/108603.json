@@ -1,0 +1,18 @@
+{
+  "urn": "108603",
+  "name": "Balliol Primary School",
+  "address": "Chesters Avenue",
+  "locality": "Longbenton",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE12 8QP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "426854",
+  "northing": "568581",
+  "url": "http://www.balliolprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

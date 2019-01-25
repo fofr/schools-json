@@ -1,0 +1,18 @@
+{
+  "urn": "110509",
+  "name": "Amersham School",
+  "address": "Stanley Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Amersham",
+  "county": "Buckinghamshire",
+  "postcode": "HP7 9HH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "497338",
+  "northing": "197463",
+  "url": "http://www.amersham.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

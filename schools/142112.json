@@ -1,0 +1,18 @@
+{
+  "urn": "142112",
+  "name": "Hackney New Primary School",
+  "address": "81 Downham Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 5TR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533009",
+  "northing": "183989",
+  "url": "http://hackneynewprimaryschool.org",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107890",
+  "name": "Spring Bank Primary School",
+  "address": "Spring Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS6 1AD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "428057",
+  "northing": "435733",
+  "url": "www.springbankprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

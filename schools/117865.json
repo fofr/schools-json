@@ -1,0 +1,18 @@
+{
+  "urn": "117865",
+  "name": "Stamford Bridge Primary School",
+  "address": "Junior Dept",
+  "locality": "Church Road",
+  "address3": "Stamford Bridge",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO41 1BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "471392",
+  "northing": "455396",
+  "url": "http://www.stamfordbridgeschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

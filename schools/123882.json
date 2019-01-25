@@ -1,0 +1,18 @@
+{
+  "urn": "123882",
+  "name": "Haygrove School",
+  "address": "Durleigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA6 7HW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "328538",
+  "northing": "136468",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

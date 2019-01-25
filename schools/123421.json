@@ -1,0 +1,18 @@
+{
+  "urn": "123421",
+  "name": "Woodside Infant School",
+  "address": "Wensley Green",
+  "locality": "Woodside",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 5NW",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "368563",
+  "northing": "304388",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

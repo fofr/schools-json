@@ -1,0 +1,18 @@
+{
+  "urn": "112647",
+  "name": "Whaley Bridge Primary School",
+  "address": "Buxton Road",
+  "locality": "Whaley Bridge",
+  "address3": "",
+  "town": "High Peak",
+  "county": "Derbyshire",
+  "postcode": "SK23 7HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "401084",
+  "northing": "381080",
+  "url": "http://whaleybridge.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131045",
+  "name": "Old Trafford Community School",
+  "address": "Malvern Street",
+  "locality": "Old Trafford",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M15 4FL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382495",
+  "northing": "396518",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

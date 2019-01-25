@@ -1,0 +1,18 @@
+{
+  "urn": "143279",
+  "name": "Dussindale Primary School",
+  "address": "Vane Close",
+  "locality": "Thorpe St Andrew",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR7 0US",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "627675",
+  "northing": "309121",
+  "url": "www.dussindaleprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

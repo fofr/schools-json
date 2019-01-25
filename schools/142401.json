@@ -1,0 +1,18 @@
+{
+  "urn": "142401",
+  "name": "Cottesmore Academy",
+  "address": "Kendrew Barracks",
+  "locality": "Cottesmore",
+  "address3": "",
+  "town": "Oakham",
+  "county": "Rutland",
+  "postcode": "LE15 7BA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "491000",
+  "northing": "314800",
+  "url": "www.cottesmoreacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

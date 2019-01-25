@@ -1,0 +1,18 @@
+{
+  "urn": "111499",
+  "name": "David Lewis School",
+  "address": "Mill Lane",
+  "locality": "Warford",
+  "address3": "",
+  "town": "Alderley Edge",
+  "county": "Cheshire",
+  "postcode": "SK9 7UD",
+  "minimum_age": "7",
+  "maximum_age": "19",
+  "easting": "381051",
+  "northing": "376707",
+  "url": "www.davidlewis.org.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Non-maintained special school"
+}

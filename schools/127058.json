@@ -1,0 +1,18 @@
+{
+  "urn": "127058",
+  "name": "Handsworth New Road School",
+  "address": "Handsworth New Road",
+  "locality": "Winson Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B18 4PQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "404100",
+  "northing": "288500",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

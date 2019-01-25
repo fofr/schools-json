@@ -1,0 +1,18 @@
+{
+  "urn": "123208",
+  "name": "St Joseph's Catholic Primary School, Banbury",
+  "address": "Fiennes Road",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 0ET",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443959",
+  "northing": "240535",
+  "url": "http://www.st-josephs-banbury.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

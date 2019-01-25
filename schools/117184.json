@@ -1,0 +1,18 @@
+{
+  "urn": "117184",
+  "name": "Meryfield Primary School",
+  "address": "Theobald Street",
+  "locality": "",
+  "address3": "",
+  "town": "Borehamwood",
+  "county": "Hertfordshire",
+  "postcode": "WD6 4PA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518573",
+  "northing": "197624",
+  "url": "www.meryfield.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

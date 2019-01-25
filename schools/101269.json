@@ -1,0 +1,18 @@
+{
+  "urn": "101269",
+  "name": "Colindale Primary School",
+  "address": "Clovelly Avenue",
+  "locality": "Colindale",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW9 6DT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521535",
+  "northing": "189221",
+  "url": "www.colindale.barnet.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

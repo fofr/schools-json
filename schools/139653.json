@@ -1,0 +1,18 @@
+{
+  "urn": "139653",
+  "name": "The Palmer Primary Academy",
+  "address": "70 Northumberland Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG2 7PP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "471967",
+  "northing": "171772",
+  "url": "www.thepalmeracademy.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

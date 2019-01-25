@@ -1,0 +1,18 @@
+{
+  "urn": "106834",
+  "name": "Blackburn Primary School",
+  "address": "Baring Road",
+  "locality": "Blackburn",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S61 2BU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "438740",
+  "northing": "392846",
+  "url": "http://www.blackburnprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104412",
+  "name": "Penn Fields School",
+  "address": "Boundary Way",
+  "locality": "Penn",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 4NT",
+  "minimum_age": "5",
+  "maximum_age": "19",
+  "easting": "388071",
+  "northing": "296473",
+  "url": "www.pennfields.com",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

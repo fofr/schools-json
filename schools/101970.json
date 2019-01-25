@@ -1,0 +1,18 @@
+{
+  "urn": "101970",
+  "name": "Springhallow School",
+  "address": "Compton Close",
+  "locality": "Cavendish Avenue",
+  "address3": "Ealing",
+  "town": "London",
+  "county": "Middlesex",
+  "postcode": "W13 0JG",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "516016",
+  "northing": "181242",
+  "url": "http://www.springhallow.ealing.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110575",
+  "name": "White Spire School",
+  "address": "Rickley Lane",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK3 6EW",
+  "minimum_age": "5",
+  "maximum_age": "19",
+  "easting": "485829",
+  "northing": "234124",
+  "url": "http://www.whitespireschool.org.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

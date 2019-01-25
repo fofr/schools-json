@@ -1,0 +1,18 @@
+{
+  "urn": "127105",
+  "name": "Templars Infant School",
+  "address": "Tile Hill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV4 9DX",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "429174",
+  "northing": "278289",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

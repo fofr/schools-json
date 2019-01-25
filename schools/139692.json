@@ -1,0 +1,18 @@
+{
+  "urn": "139692",
+  "name": "Jewell Academy Bournemouth",
+  "address": "Jewell Road",
+  "locality": "Townsend",
+  "address3": "Jewell Academy",
+  "town": "Bournemouth",
+  "county": "",
+  "postcode": "BH8 0LT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "412163",
+  "northing": "94709",
+  "url": "http://www.aatjewell.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

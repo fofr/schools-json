@@ -1,0 +1,18 @@
+{
+  "urn": "135880",
+  "name": "Chatsworth Primary School",
+  "address": "Heath Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW3 2NW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "514365",
+  "northing": "175245",
+  "url": "www.chatsworthprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139134",
+  "name": "Fox Hill Primary",
+  "address": "Keats Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S6 1AZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433621",
+  "northing": "392580",
+  "url": "www.foxhillprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

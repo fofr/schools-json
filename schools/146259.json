@@ -1,0 +1,18 @@
+{
+  "urn": "146259",
+  "name": "Stoughton Infant School",
+  "address": "Stoughton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU2 9ZT",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "498559",
+  "northing": "151627",
+  "url": "http://www.stoughton.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

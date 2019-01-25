@@ -1,0 +1,18 @@
+{
+  "urn": "104311",
+  "name": "Castlecroft Primary School",
+  "address": "Windmill Crescent",
+  "locality": "Castlecroft",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV3 8HS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387704",
+  "northing": "297929",
+  "url": "www.castlecroftprimaryschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

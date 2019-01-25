@@ -1,0 +1,18 @@
+{
+  "urn": "124042",
+  "name": "Winshill Infant School",
+  "address": "Hawfield Lane",
+  "locality": "Winshill",
+  "address3": "Burton-upon-Lane",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE15 0BT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "426943",
+  "northing": "323523",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

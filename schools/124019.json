@@ -1,0 +1,18 @@
+{
+  "urn": "124019",
+  "name": "Bentilee Primary School",
+  "address": "Beverley Drive",
+  "locality": "Ubberley",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 0QD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "392134",
+  "northing": "345748",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

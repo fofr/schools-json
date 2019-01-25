@@ -1,0 +1,18 @@
+{
+  "urn": "139340",
+  "name": "Asfordby Hill Primary School",
+  "address": "Melton Road",
+  "locality": "Asfordby Hill",
+  "address3": "",
+  "town": "Melton Mowbray",
+  "county": "Leicestershire",
+  "postcode": "LE14 3QX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "472563",
+  "northing": "319224",
+  "url": "www.asfordbyhill.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

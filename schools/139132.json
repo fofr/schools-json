@@ -1,0 +1,18 @@
+{
+  "urn": "139132",
+  "name": "Meadstead Primary Academy",
+  "address": "Meadstead Drive",
+  "locality": "Royston",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S71 4JS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "435820",
+  "northing": "411359",
+  "url": "www.meadsteadprimaryacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

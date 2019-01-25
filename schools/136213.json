@@ -1,0 +1,18 @@
+{
+  "urn": "136213",
+  "name": "Harborne Academy",
+  "address": "Harborne Road",
+  "locality": "Edgbaston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B15 3JL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "404294",
+  "northing": "284880",
+  "url": "http://www.harborneacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

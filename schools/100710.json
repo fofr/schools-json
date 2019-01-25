@@ -1,0 +1,18 @@
+{
+  "urn": "100710",
+  "name": "Fairlawn Primary School",
+  "address": "Honor Oak Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE23 3SB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "535292",
+  "northing": "173813",
+  "url": "www.fairlawn.lewisham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

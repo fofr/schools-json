@@ -1,0 +1,18 @@
+{
+  "urn": "119060",
+  "name": "Bourne Place School",
+  "address": "Nizels Lane",
+  "locality": "Hildenborough",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN11 8NS",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "555111",
+  "northing": "149306",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Non-maintained special school"
+}

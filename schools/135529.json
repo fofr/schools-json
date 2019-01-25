@@ -1,0 +1,18 @@
+{
+  "urn": "135529",
+  "name": "Woodcroft Primary",
+  "address": "37 Woodcroft Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Waterlooville",
+  "county": "Hampshire",
+  "postcode": "PO8 9QD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "468587",
+  "northing": "112088",
+  "url": "http://www.woodcroftprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

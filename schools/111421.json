@@ -1,0 +1,18 @@
+{
+  "urn": "111421",
+  "name": "Christleton High School",
+  "address": "Village Road",
+  "locality": "Christleton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH3 7AD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "344417",
+  "northing": "365445",
+  "url": "http://www.christletonhigh.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

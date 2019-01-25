@@ -1,0 +1,18 @@
+{
+  "urn": "111271",
+  "name": "Capenhurst CofE Primary School",
+  "address": "Capenhurst Lane",
+  "locality": "Capenhurst",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH1 6HE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "336723",
+  "northing": "373834",
+  "url": "www.capenhurstcep.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

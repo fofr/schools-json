@@ -1,0 +1,18 @@
+{
+  "urn": "100477",
+  "name": "Ashburnham Community School",
+  "address": "17 Blantyre Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW10 0DT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526554",
+  "northing": "177396",
+  "url": "http://ashburnhamcommunityschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

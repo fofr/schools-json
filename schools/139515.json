@@ -1,0 +1,18 @@
+{
+  "urn": "139515",
+  "name": "St John Rigby Catholic Primary School",
+  "address": "Polhill Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK41 9DQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "506313",
+  "northing": "250777",
+  "url": "http://www.stjohnrigby.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

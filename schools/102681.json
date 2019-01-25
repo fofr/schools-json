@@ -1,0 +1,18 @@
+{
+  "urn": "102681",
+  "name": "Wimbledon College",
+  "address": "Edge Hill",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW19 4NS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "523764",
+  "northing": "170414",
+  "url": "http://www.wimbledoncollege.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

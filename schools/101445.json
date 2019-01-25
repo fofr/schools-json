@@ -1,0 +1,18 @@
+{
+  "urn": "101445",
+  "name": "Royal Park Primary School",
+  "address": "Riverside Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sidcup",
+  "county": "Kent",
+  "postcode": "DA14 4PX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548120",
+  "northing": "172332",
+  "url": "http://www.royalparkschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

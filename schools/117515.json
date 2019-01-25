@@ -1,0 +1,18 @@
+{
+  "urn": "117515",
+  "name": "Barclay School",
+  "address": "Walkern Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG1 3RB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "523691",
+  "northing": "225651",
+  "url": "http://www.barclay.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

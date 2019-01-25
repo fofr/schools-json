@@ -1,0 +1,18 @@
+{
+  "urn": "110697",
+  "name": "Brampton Infant School",
+  "address": "The Green",
+  "locality": "Brampton",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 4RF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "520484",
+  "northing": "270825",
+  "url": "http://www.brampton-inf.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

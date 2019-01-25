@@ -1,0 +1,18 @@
+{
+  "urn": "142435",
+  "name": "Moordown St John's Church of England Primary School",
+  "address": "Vicarage Road",
+  "locality": "Moordown",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH9 2SA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "408567",
+  "northing": "94477",
+  "url": "http://www.st-johns.bournemouth.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

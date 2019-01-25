@@ -1,0 +1,18 @@
+{
+  "urn": "144773",
+  "name": "Lawn Manor Academy",
+  "address": "Salcombe Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "",
+  "postcode": "SN3 1ER",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "416539",
+  "northing": "184052",
+  "url": "www.lawnmanor.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

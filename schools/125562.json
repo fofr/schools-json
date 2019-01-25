@@ -1,0 +1,18 @@
+{
+  "urn": "125562",
+  "name": "Telford Infant School",
+  "address": "Kelvin Road",
+  "locality": "Lillington",
+  "address3": "",
+  "town": "Leamington Spa",
+  "county": "Warwickshire",
+  "postcode": "CV32 7TE",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "432969",
+  "northing": "268238",
+  "url": "www.telfordinfant.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

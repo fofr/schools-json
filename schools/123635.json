@@ -1,0 +1,18 @@
+{
+  "urn": "123635",
+  "name": "The Bridge at HLC",
+  "address": "Waterloo Road",
+  "locality": "Hadley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 5NQ",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "367202",
+  "northing": "311591",
+  "url": "www.thebridgeschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

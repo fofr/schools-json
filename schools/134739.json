@@ -1,0 +1,18 @@
+{
+  "urn": "134739",
+  "name": "Beckstone Primary School",
+  "address": "Eadie Street",
+  "locality": "",
+  "address3": "Harrington",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 5PX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "299271",
+  "northing": "525397",
+  "url": "www.beckstone.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

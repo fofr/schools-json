@@ -1,0 +1,18 @@
+{
+  "urn": "111880",
+  "name": "Cubert School",
+  "address": "Chynowen Lane",
+  "locality": "Cubert",
+  "address3": "",
+  "town": "Newquay",
+  "county": "Cornwall",
+  "postcode": "TR8 5HE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "178720",
+  "northing": "58109",
+  "url": "www.cubert.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

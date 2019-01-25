@@ -1,0 +1,18 @@
+{
+  "urn": "109661",
+  "name": "Castle Newnham School",
+  "address": "Polhill Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK41 9DT",
+  "minimum_age": "11",
+  "maximum_age": "15",
+  "easting": "506012",
+  "northing": "250878",
+  "url": "http://www.castlenewnham.school",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

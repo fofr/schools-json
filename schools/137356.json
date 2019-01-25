@@ -1,0 +1,18 @@
+{
+  "urn": "137356",
+  "name": "Biddulph High School",
+  "address": "Conway Road",
+  "locality": "Knypersley",
+  "address3": "Biddulph",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST8 7AR",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "388754",
+  "northing": "356449",
+  "url": "http://www.biddulph.staffs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

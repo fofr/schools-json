@@ -1,0 +1,18 @@
+{
+  "urn": "114411",
+  "name": "St Peter's Community Primary School",
+  "address": "St Peter's Road",
+  "locality": "Portslade-By-Sea",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN41 1LS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525759",
+  "northing": "105037",
+  "url": "http://www.stpeters.brighton-hove.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

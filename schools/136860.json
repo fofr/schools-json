@@ -1,0 +1,18 @@
+{
+  "urn": "136860",
+  "name": "Highworth Warneford School",
+  "address": "Shrivenham Road",
+  "locality": "Highworth",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN6 7BZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "420268",
+  "northing": "192037",
+  "url": "http://www.warnefordschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

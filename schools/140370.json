@@ -1,0 +1,18 @@
+{
+  "urn": "140370",
+  "name": "Hardingstone Academy",
+  "address": "Martins Lane",
+  "locality": "Hardingstone",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN4 6DJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "476426",
+  "northing": "257482",
+  "url": "http://www.hardingstoneacademy.northants.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

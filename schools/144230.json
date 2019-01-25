@@ -1,0 +1,18 @@
+{
+  "urn": "144230",
+  "name": "Hamsey Green Primary",
+  "address": "Tithepit Shaw Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Warlingham",
+  "county": "Surrey",
+  "postcode": "CR6 9AN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "534835",
+  "northing": "159404",
+  "url": "www.hamsey.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141828",
+  "name": "St Matthew's Catholic Primary School",
+  "address": "Highfield Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Prudhoe",
+  "county": "Northumberland",
+  "postcode": "NE42 6EY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409319",
+  "northing": "562668",
+  "url": "www.stmatthewsprudhoe.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

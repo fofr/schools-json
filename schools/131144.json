@@ -1,0 +1,18 @@
+{
+  "urn": "131144",
+  "name": "Grange Primary School",
+  "address": "Church Gardens",
+  "locality": "Ealing",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W5 4HN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517751",
+  "northing": "179695",
+  "url": "www.grange.ealing.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

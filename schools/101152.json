@@ -1,0 +1,18 @@
+{
+  "urn": "101152",
+  "name": "The St Marylebone CofE School",
+  "address": "64 Marylebone High Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W1U 5BA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "528296",
+  "northing": "181984",
+  "url": "http://www.stmaryleboneschool.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

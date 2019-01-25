@@ -1,0 +1,18 @@
+{
+  "urn": "105255",
+  "name": "The Deane School",
+  "address": "New York",
+  "locality": "Junction Road",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 4NG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "368658",
+  "northing": "407811",
+  "url": "http://www.the-deane.bolton.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106192",
+  "name": "Lyndhurst Community Primary School",
+  "address": "Hill Street",
+  "locality": "",
+  "address3": "",
+  "town": "Dukinfield",
+  "county": "Cheshire",
+  "postcode": "SK16 4JS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393996",
+  "northing": "398296",
+  "url": "www.lyndhurstprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

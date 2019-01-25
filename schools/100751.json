@@ -1,0 +1,18 @@
+{
+  "urn": "100751",
+  "name": "St Joseph's Academy",
+  "address": "Lee Terrace",
+  "locality": "Blackheath",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE3 9TY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "539174",
+  "northing": "175741",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

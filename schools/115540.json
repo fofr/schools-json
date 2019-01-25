@@ -1,0 +1,18 @@
+{
+  "urn": "115540",
+  "name": "Stow-on-the-Wold Primary School",
+  "address": "St Edward's Drive",
+  "locality": "Stow-on-the-Wold",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL54 1AW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "419659",
+  "northing": "225843",
+  "url": "www.stowprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132047",
+  "name": "Copmanthorpe Primary School",
+  "address": "",
+  "locality": "Low Green",
+  "address3": "Copmanthorpe",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO23 3SB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "456752",
+  "northing": "447053",
+  "url": "http://www.copmanthorpeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111740",
+  "name": "Nunthorpe School",
+  "address": "Guisborough Road",
+  "locality": "Nunthorpe",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS7 0LA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "454282",
+  "northing": "515447",
+  "url": "www.nunthorpe.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

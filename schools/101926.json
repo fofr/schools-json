@@ -1,0 +1,18 @@
+{
+  "urn": "101926",
+  "name": "St Vincent's Catholic Primary School",
+  "address": "1 Pierrepoint Road",
+  "locality": "Acton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W3 9JR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "519880",
+  "northing": "180631",
+  "url": "www.st-vincents.ealing.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

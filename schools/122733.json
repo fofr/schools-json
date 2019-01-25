@@ -1,0 +1,18 @@
+{
+  "urn": "122733",
+  "name": "Forest Fields Primary and Nursery School",
+  "address": "Stanley Road",
+  "locality": "Off Berridge Road",
+  "address3": "Forest Fields",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 6GQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456058",
+  "northing": "341774",
+  "url": "www.forestfieldsprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

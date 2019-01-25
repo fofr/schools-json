@@ -1,0 +1,18 @@
+{
+  "urn": "112011",
+  "name": "Veryan CofE School",
+  "address": "Veryan",
+  "locality": "",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR2 5QA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "191573",
+  "northing": "39601",
+  "url": "www.veryan.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

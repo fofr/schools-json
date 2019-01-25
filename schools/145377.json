@@ -1,0 +1,18 @@
+{
+  "urn": "145377",
+  "name": "Grange School",
+  "address": "Shobnall Close",
+  "locality": "",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE14 2HU",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "423950",
+  "northing": "323893",
+  "url": "http://www.grange-infants.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

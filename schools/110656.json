@@ -1,0 +1,18 @@
+{
+  "urn": "110656",
+  "name": "Milton Road Infant School",
+  "address": "Milton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 1UZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "545306",
+  "northing": "259643",
+  "url": "http://edweb.camcnty.gov.uk/schools/miltonrdinf/index.html",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

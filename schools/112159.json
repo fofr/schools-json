@@ -1,0 +1,18 @@
+{
+  "urn": "112159",
+  "name": "Millom Infant School",
+  "address": "Lapstone Road",
+  "locality": "",
+  "address3": "",
+  "town": "Millom",
+  "county": "Cumbria",
+  "postcode": "LA18 4LP",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "317449",
+  "northing": "479878",
+  "url": "www.millom-inf.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

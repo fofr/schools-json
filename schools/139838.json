@@ -1,0 +1,18 @@
+{
+  "urn": "139838",
+  "name": "Bellfield Primary School",
+  "address": "Saxby Road",
+  "locality": "Bellfield Avenue",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU8 9DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "513367",
+  "northing": "431824",
+  "url": "https://bellfieldprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

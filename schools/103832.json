@@ -1,0 +1,18 @@
+{
+  "urn": "103832",
+  "name": "Glynne Primary School",
+  "address": "Cot Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Kingswinford",
+  "county": "West Midlands",
+  "postcode": "DY6 9TH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388429",
+  "northing": "287816",
+  "url": "http://www.glynne.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107044",
+  "name": "Beck Primary School",
+  "address": "Beck Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S5 0GG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "436817",
+  "northing": "393306",
+  "url": "www.beckprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

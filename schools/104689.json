@@ -1,0 +1,18 @@
+{
+  "urn": "104689",
+  "name": "Anfield Community Comprehensive School",
+  "address": "Priory Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L4 2SL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "336466",
+  "northing": "393615",
+  "url": "http://www.anfieldschool.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

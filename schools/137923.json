@@ -1,0 +1,18 @@
+{
+  "urn": "137923",
+  "name": "Hazel Grove High School",
+  "address": "Jacksons Lane",
+  "locality": "Hazel Grove",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK7 5JX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "391115",
+  "northing": "385984",
+  "url": "www.hazelgrovehigh.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

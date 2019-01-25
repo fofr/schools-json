@@ -1,0 +1,18 @@
+{
+  "urn": "134721",
+  "name": "Coventry Youth Offending Service",
+  "address": "Christchurch House",
+  "locality": "Greyfriars Lane",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV1 2GY",
+  "minimum_age": "10",
+  "maximum_age": "17",
+  "easting": "433368",
+  "northing": "278772",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Miscellaneous"
+}

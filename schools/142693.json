@@ -1,0 +1,18 @@
+{
+  "urn": "142693",
+  "name": "Castle Park School",
+  "address": "Sedbergh Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Kendal",
+  "county": "Cumbria",
+  "postcode": "LA9 6BE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "352956",
+  "northing": "492789",
+  "url": "www.castleparkschool.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

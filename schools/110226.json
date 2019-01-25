@@ -1,0 +1,18 @@
+{
+  "urn": "110226",
+  "name": "Emberton School",
+  "address": "Olney Road",
+  "locality": "",
+  "address3": "",
+  "town": "Emberton",
+  "county": "Buckinghamshire",
+  "postcode": "MK46 5BX",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "488609",
+  "northing": "249693",
+  "url": "www.embertonschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

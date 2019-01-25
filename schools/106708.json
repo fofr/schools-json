@@ -1,0 +1,18 @@
+{
+  "urn": "106708",
+  "name": "Montagu Primary School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mexborough",
+  "county": "South Yorkshire",
+  "postcode": "S64 9PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "447150",
+  "northing": "400497",
+  "url": "http://www.montagu.doncaster.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

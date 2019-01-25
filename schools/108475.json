@@ -1,0 +1,18 @@
+{
+  "urn": "108475",
+  "name": "Ravenswood Primary School",
+  "address": "Ravenswood Road",
+  "locality": "Heaton",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE6 5TU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427144",
+  "northing": "566379",
+  "url": "www.ravenswood.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

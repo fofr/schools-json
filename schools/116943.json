@@ -1,0 +1,18 @@
+{
+  "urn": "116943",
+  "name": "Pershore High School",
+  "address": "Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Pershore",
+  "county": "Worcestershire",
+  "postcode": "WR10 2BX",
+  "minimum_age": "12",
+  "maximum_age": "18",
+  "easting": "394969",
+  "northing": "247453",
+  "url": "http://www.pershore.worcs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

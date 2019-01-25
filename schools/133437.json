@@ -1,0 +1,18 @@
+{
+  "urn": "133437",
+  "name": "Rosewood Primary School",
+  "address": "Rosewood Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB11 2PH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "383649",
+  "northing": "431325",
+  "url": "http://www.rosewood.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

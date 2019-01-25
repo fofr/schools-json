@@ -1,0 +1,18 @@
+{
+  "urn": "142541",
+  "name": "Abbeywood First School",
+  "address": "Wood Piece Lane",
+  "locality": "Church Hill",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B98 9LR",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "406633",
+  "northing": "268813",
+  "url": "www.abbeywood.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

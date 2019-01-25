@@ -1,0 +1,18 @@
+{
+  "urn": "117721",
+  "name": "Chiltern Primary School",
+  "address": "Chiltern Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU3 3PL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "507615",
+  "northing": "428079",
+  "url": "www.chilternprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

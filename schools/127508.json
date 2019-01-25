@@ -1,0 +1,18 @@
+{
+  "urn": "127508",
+  "name": "Brinnington High School",
+  "address": "Lapwing Lane",
+  "locality": "Brinnington",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK5 8LF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "391395",
+  "northing": "392773",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

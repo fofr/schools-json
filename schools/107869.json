@@ -1,0 +1,18 @@
+{
+  "urn": "107869",
+  "name": "Primrose Lane Primary School",
+  "address": "Westwood Way",
+  "locality": "Boston Spa",
+  "address3": "",
+  "town": "Wetherby",
+  "county": "West Yorkshire",
+  "postcode": "LS23 6DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442664",
+  "northing": "445391",
+  "url": "http://www.primroselane.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

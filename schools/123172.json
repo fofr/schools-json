@@ -1,0 +1,18 @@
+{
+  "urn": "123172",
+  "name": "St Francis Church of England Primary School",
+  "address": "Horspath Road",
+  "locality": "Cowley",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 2QT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455272",
+  "northing": "204593",
+  "url": "http://www.st-francis.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

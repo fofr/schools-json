@@ -1,0 +1,18 @@
+{
+  "urn": "100053",
+  "name": "Acland Burghley School",
+  "address": "Burghley Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW5 1UJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "528962",
+  "northing": "185931",
+  "url": "http://www.aclandburghley.camden.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

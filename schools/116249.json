@@ -1,0 +1,18 @@
+{
+  "urn": "116249",
+  "name": "Berrywood Primary School",
+  "address": "Maunsell Way",
+  "locality": "Hedge End",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO30 2TL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "449621",
+  "northing": "114061",
+  "url": "http://www.berrywood-pri.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

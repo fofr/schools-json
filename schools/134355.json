@@ -1,0 +1,18 @@
+{
+  "urn": "134355",
+  "name": "The Bridge",
+  "address": "Fairholme Primary School",
+  "locality": "Peacock Avenue",
+  "address3": "Bedfont",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW14 8ET",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "508889",
+  "northing": "173237",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

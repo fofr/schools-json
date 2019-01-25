@@ -1,0 +1,18 @@
+{
+  "urn": "110993",
+  "name": "Aston by Sutton Primary School",
+  "address": "Aston Lane",
+  "locality": "Aston",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 3DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "355498",
+  "northing": "378518",
+  "url": "http://www.aston.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142353",
+  "name": "Jervoise School",
+  "address": "Jervoise Road",
+  "locality": "Weoley Castle",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B29 5QU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "402212",
+  "northing": "282497",
+  "url": "http://www.jervoise.bham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

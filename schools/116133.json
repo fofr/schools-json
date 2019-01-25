@@ -1,0 +1,18 @@
+{
+  "urn": "116133",
+  "name": "Weston Shore Infant School",
+  "address": "Foxcott Close",
+  "locality": "Weston",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 9JQ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "444885",
+  "northing": "109614",
+  "url": "http://www.westonshore.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

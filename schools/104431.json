@@ -1,0 +1,18 @@
+{
+  "urn": "104431",
+  "name": "Westvale Primary School",
+  "address": "Melverley Road",
+  "locality": "Westvale",
+  "address3": "Kirkby",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L32 0RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "339944",
+  "northing": "398832",
+  "url": "www.westvaleprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

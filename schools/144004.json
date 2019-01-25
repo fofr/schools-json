@@ -1,0 +1,18 @@
+{
+  "urn": "144004",
+  "name": "Wendron Church of England Primary School",
+  "address": "Wendron",
+  "locality": "",
+  "address3": "",
+  "town": "Helston",
+  "county": "Cornwall",
+  "postcode": "TR13 0PX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "167741",
+  "northing": "30733",
+  "url": "www.wendron.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

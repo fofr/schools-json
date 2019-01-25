@@ -1,0 +1,18 @@
+{
+  "urn": "131094",
+  "name": "City of Bristol College",
+  "address": "St George's Road",
+  "locality": "Anchor Road",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS1 5UA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "358052",
+  "northing": "172607",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

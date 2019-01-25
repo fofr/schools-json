@@ -1,0 +1,18 @@
+{
+  "urn": "124030",
+  "name": "Sandford Hill Primary School",
+  "address": "Clayfield Grove",
+  "locality": "Sandford Hill",
+  "address3": "Longton",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 5AQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391255",
+  "northing": "344722",
+  "url": "www.sandfordhill.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

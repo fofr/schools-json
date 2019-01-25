@@ -1,0 +1,18 @@
+{
+  "urn": "137437",
+  "name": "Enmore Church of England Primary School",
+  "address": "Enmore",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA5 2DX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "323737",
+  "northing": "134836",
+  "url": "http://www.enmoreprimaryschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

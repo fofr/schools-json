@@ -1,0 +1,18 @@
+{
+  "urn": "100012",
+  "name": "Carlton Primary School",
+  "address": "Grafton Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW5 4AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528386",
+  "northing": "185209",
+  "url": "http://www.carlton.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

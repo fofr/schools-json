@@ -1,0 +1,18 @@
+{
+  "urn": "104889",
+  "name": "Melling Primary School",
+  "address": "Wheeler Drive",
+  "locality": "Melling",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L31 1DA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "339759",
+  "northing": "399565",
+  "url": "www.mellingprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

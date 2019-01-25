@@ -1,0 +1,18 @@
+{
+  "urn": "144933",
+  "name": "Dunstone Primary School",
+  "address": "Shortwood Crescent",
+  "locality": "Plymstock",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL9 8TQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "252227",
+  "northing": "53566",
+  "url": "www.dunstoneprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

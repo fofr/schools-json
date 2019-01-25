@@ -1,0 +1,18 @@
+{
+  "urn": "103072",
+  "name": "South Grove Primary School",
+  "address": "Ringwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 8PW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536606",
+  "northing": "188446",
+  "url": "www.southgrove.waltham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

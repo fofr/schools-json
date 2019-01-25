@@ -1,0 +1,18 @@
+{
+  "urn": "139861",
+  "name": "Loughton School",
+  "address": "Bradwell Road",
+  "locality": "Loughton",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK5 8DN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "483365",
+  "northing": "237322",
+  "url": "http://www.loughton.milton-keynes.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

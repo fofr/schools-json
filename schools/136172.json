@@ -1,0 +1,18 @@
+{
+  "urn": "136172",
+  "name": "Hammersmith Academy",
+  "address": "25 Cathnor Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W12 9JD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "522551",
+  "northing": "179595",
+  "url": "http://hammersmithacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

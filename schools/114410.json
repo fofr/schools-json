@@ -1,0 +1,18 @@
+{
+  "urn": "114410",
+  "name": "Plumpton Primary School",
+  "address": "Southdowns",
+  "locality": "Plumpton Green",
+  "address3": "",
+  "town": "Lewes",
+  "county": "East Sussex",
+  "postcode": "BN7 3EB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "536543",
+  "northing": "116376",
+  "url": "http://www.plumpton.e-sussex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

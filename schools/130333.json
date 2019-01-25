@@ -1,0 +1,18 @@
+{
+  "urn": "130333",
+  "name": "East Leeds Pupil Referral Unit",
+  "address": "East Leeds Curriculum Training Centre",
+  "locality": "Brooklands Avenue",
+  "address3": "Seacroft",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS14 6SA",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "434649",
+  "northing": "435882",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101667",
+  "name": "Coopers Technology College",
+  "address": "Hawkwood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chislehurst",
+  "county": "Kent",
+  "postcode": "BR7 5PS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "544319",
+  "northing": "169675",
+  "url": "http://www.coopers.bromley.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146244",
+  "name": "Rowner Junior",
+  "address": "Tichborne Way",
+  "locality": "Rowner",
+  "address3": "",
+  "town": "Gosport",
+  "county": "Hampshire",
+  "postcode": "PO13 0BN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "458795",
+  "northing": "102249",
+  "url": "www.rownerjunior.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111001",
+  "name": "The Cobbs Infant and Nursery School",
+  "address": "Wood Lane",
+  "locality": "Appleton",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 3DB",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "362133",
+  "northing": "385650",
+  "url": "http://www.thecobbs.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

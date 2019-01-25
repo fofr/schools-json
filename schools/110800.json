@@ -1,0 +1,18 @@
+{
+  "urn": "110800",
+  "name": "Elm CofE Primary School",
+  "address": "Main Road",
+  "locality": "Elm",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE14 0AG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "547056",
+  "northing": "306592",
+  "url": "www.elmcofeprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

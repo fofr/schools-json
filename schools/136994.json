@@ -1,0 +1,18 @@
+{
+  "urn": "136994",
+  "name": "Alderbrook School",
+  "address": "Blossomfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B91 1SN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "413886",
+  "northing": "278705",
+  "url": "http://www.alderbrook.solihull.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

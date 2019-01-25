@@ -1,0 +1,18 @@
+{
+  "urn": "128428",
+  "name": "Astmoor County Infant School",
+  "address": "Kingshead Close",
+  "locality": "Castlefields",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 2JE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "354009",
+  "northing": "382757",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

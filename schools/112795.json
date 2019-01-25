@@ -1,0 +1,18 @@
+{
+  "urn": "112795",
+  "name": "Inkersall Primary School",
+  "address": "Green Road",
+  "locality": "Inkersall",
+  "address3": "Staveley",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S43 3SE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442290",
+  "northing": "373223",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

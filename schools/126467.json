@@ -1,0 +1,18 @@
+{
+  "urn": "126467",
+  "name": "Greendown Community School",
+  "address": "Grange Park Way",
+  "locality": "Grange Park",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN5 6HN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "410778",
+  "northing": "184358",
+  "url": "http://www.greendown.swindon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

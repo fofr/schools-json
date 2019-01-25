@@ -1,0 +1,18 @@
+{
+  "urn": "120838",
+  "name": "Millfield Primary School",
+  "address": "Recreation Road",
+  "locality": "",
+  "address3": "",
+  "town": "North Walsham",
+  "county": "Norfolk",
+  "postcode": "NR28 0ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "627625",
+  "northing": "329557",
+  "url": "http://www.millfield.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111206",
+  "name": "Westbrook Old Hall Primary School",
+  "address": "Old Hall Road",
+  "locality": "Old Hall",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA5 9QA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "358689",
+  "northing": "389586",
+  "url": "http://www.westbrookoldhall.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116412",
+  "name": "Court Moor School",
+  "address": "Spring Woods",
+  "locality": "",
+  "address3": "",
+  "town": "Fleet",
+  "county": "Hampshire",
+  "postcode": "GU52 7RY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "480620",
+  "northing": "153043",
+  "url": "http://www.court-moor.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

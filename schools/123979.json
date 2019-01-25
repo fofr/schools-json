@@ -1,0 +1,18 @@
+{
+  "urn": "123979",
+  "name": "Packmoor Primary School",
+  "address": "Carr Street",
+  "locality": "Packmoor",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 4SP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386850",
+  "northing": "354342",
+  "url": "www.packmoorprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

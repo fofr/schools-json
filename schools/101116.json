@@ -1,0 +1,18 @@
+{
+  "urn": "101116",
+  "name": "Hallfield Primary School",
+  "address": "Hallfield Estate",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W2 6JJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "525940",
+  "northing": "181017",
+  "url": "www.hallfieldschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

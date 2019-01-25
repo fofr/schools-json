@@ -1,0 +1,18 @@
+{
+  "urn": "140461",
+  "name": "Monkwearmouth Academy",
+  "address": "Torver Crescent",
+  "locality": "Seaburn Dene",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR6 8LG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "439384",
+  "northing": "560467",
+  "url": "http://www.monkwearmouth.sunderland.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

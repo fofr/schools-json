@@ -1,0 +1,18 @@
+{
+  "urn": "114585",
+  "name": "Beacon Community College",
+  "address": "East Beeches Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crowborough",
+  "county": "East Sussex",
+  "postcode": "TN6 2AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "552318",
+  "northing": "130706",
+  "url": "http://www.beacon.e-sussex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144428",
+  "name": "Foulsham Primary School Academy",
+  "address": "High Street",
+  "locality": "Foulsham",
+  "address3": "",
+  "town": "Dereham",
+  "county": "Norfolk",
+  "postcode": "NR20 5RT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "603142",
+  "northing": "324800",
+  "url": "www.foulshamprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

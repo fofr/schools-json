@@ -1,0 +1,18 @@
+{
+  "urn": "141133",
+  "name": "London Enterprise Academy",
+  "address": "81-91 Commercial Road",
+  "locality": "Whitechapel",
+  "address3": "Tower Hamlets",
+  "town": "London",
+  "county": "",
+  "postcode": "E1 1RD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "534393",
+  "northing": "181349",
+  "url": "http://www.londonenterpriseacademy.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

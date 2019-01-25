@@ -1,0 +1,18 @@
+{
+  "urn": "142188",
+  "name": "Langley Park Primary Academy",
+  "address": "Edmett Way",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME17 3FX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "579116",
+  "northing": "151664",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

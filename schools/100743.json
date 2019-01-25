@@ -1,0 +1,18 @@
+{
+  "urn": "100743",
+  "name": "Sedgehill School",
+  "address": "Sedgehill Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE6 3QW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "537552",
+  "northing": "171151",
+  "url": "http://www.sedgehillschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

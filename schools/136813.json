@@ -1,0 +1,18 @@
+{
+  "urn": "136813",
+  "name": "Woolton Primary School",
+  "address": "Out Lane",
+  "locality": "Woolton",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L25 5NN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "342693",
+  "northing": "387122",
+  "url": "www.wooltonprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

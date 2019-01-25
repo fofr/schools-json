@@ -1,0 +1,18 @@
+{
+  "urn": "130622",
+  "name": "Riverside College Halton",
+  "address": "Kingsway",
+  "locality": "",
+  "address3": "",
+  "town": "Widnes",
+  "county": "Cheshire",
+  "postcode": "WA8 7QQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "351203",
+  "northing": "385484",
+  "url": "www.riversidecollege.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136962",
+  "name": "Feversham Academy",
+  "address": "158 Cliffe Road",
+  "locality": "Undercliffe",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD3 0LT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "416891",
+  "northing": "434410",
+  "url": "http://www.feversham-academy.fetrust.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "126064",
+  "name": "Tanbridge House School",
+  "address": "Farthings Hill",
+  "locality": "Guildford Road",
+  "address3": "",
+  "town": "Horsham",
+  "county": "West Sussex",
+  "postcode": "RH12 1SR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "515640",
+  "northing": "130782",
+  "url": "http://www.tanbridge-house-sch.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

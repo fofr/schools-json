@@ -1,0 +1,18 @@
+{
+  "urn": "127808",
+  "name": "Beeston First School",
+  "address": "Town Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 8PN",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "428247",
+  "northing": "430747",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131114",
+  "name": "Brockwell Primary School",
+  "address": "Strand Centre",
+  "locality": "Elm Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW2 2EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530936",
+  "northing": "173802",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

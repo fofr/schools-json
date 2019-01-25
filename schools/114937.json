@@ -1,0 +1,18 @@
+{
+  "urn": "114937",
+  "name": "Boreham Primary School",
+  "address": "Juniper Road",
+  "locality": "Boreham",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM3 3DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "575636",
+  "northing": "209820",
+  "url": "www.boreham.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113314",
+  "name": "Oreston Community Primary School",
+  "address": "Oreston Road",
+  "locality": "Plymstock",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL9 7JY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "250275",
+  "northing": "53419",
+  "url": "www.orestonprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

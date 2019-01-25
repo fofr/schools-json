@@ -1,0 +1,18 @@
+{
+  "urn": "140968",
+  "name": "Tottenham UTC",
+  "address": "Lilywhite House",
+  "locality": "780 High Road",
+  "address3": "Tottenham",
+  "town": "London",
+  "county": "",
+  "postcode": "N17 0BX",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "533908",
+  "northing": "191298",
+  "url": "http://www.tottenhamutc.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

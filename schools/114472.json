@@ -1,0 +1,18 @@
+{
+  "urn": "114472",
+  "name": "Oakwood School",
+  "address": "Magnolia Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Eastbourne",
+  "county": "East Sussex",
+  "postcode": "BN22 0SS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "559848",
+  "northing": "103003",
+  "url": "http://www.oakwood.e-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

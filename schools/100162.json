@@ -1,0 +1,18 @@
+{
+  "urn": "100162",
+  "name": "Greenslade Primary School",
+  "address": "Erindale",
+  "locality": "Plumstead Common",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 2QQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544981",
+  "northing": "177699",
+  "url": "www.greensladeprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

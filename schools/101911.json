@@ -1,0 +1,18 @@
+{
+  "urn": "101911",
+  "name": "Three Bridges Primary School",
+  "address": "Melbury Avenue",
+  "locality": "Norwood Green",
+  "address3": "",
+  "town": "Southall",
+  "county": "Middlesex",
+  "postcode": "UB2 4HT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "513597",
+  "northing": "179239",
+  "url": "www.threebridgesprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

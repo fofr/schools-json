@@ -1,0 +1,18 @@
+{
+  "urn": "111444",
+  "name": "Birchwood Community High School",
+  "address": "Brock Road",
+  "locality": "Birchwood",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA3 7PT",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "364905",
+  "northing": "391237",
+  "url": "http://www.birchwoodhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

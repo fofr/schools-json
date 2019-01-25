@@ -1,0 +1,18 @@
+{
+  "urn": "117093",
+  "name": "Chorleywood Primary School",
+  "address": "Stag Lane",
+  "locality": "Chorleywood",
+  "address3": "",
+  "town": "Rickmansworth",
+  "county": "Hertfordshire",
+  "postcode": "WD3 5HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "502275",
+  "northing": "195234",
+  "url": "http://www.chorleywood.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

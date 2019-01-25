@@ -1,0 +1,18 @@
+{
+  "urn": "116089",
+  "name": "Bitterne Manor Primary School",
+  "address": "Quayside Road",
+  "locality": "Bitterne Manor",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO18 1DP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "443875",
+  "northing": "113282",
+  "url": "http://www.bitternemanor.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

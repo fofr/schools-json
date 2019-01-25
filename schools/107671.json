@@ -1,0 +1,18 @@
+{
+  "urn": "107671",
+  "name": "Howard Park Community School",
+  "address": "St Peg Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Cleckheaton",
+  "county": "West Yorkshire",
+  "postcode": "BD19 3SD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "419246",
+  "northing": "425227",
+  "url": "www.howardpark.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117107",
+  "name": "Boxmoor Primary School",
+  "address": "Cowper Road",
+  "locality": "Boxmoor",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP1 1PF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "504546",
+  "northing": "206681",
+  "url": "www.boxmoor.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

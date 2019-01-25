@@ -1,0 +1,18 @@
+{
+  "urn": "139500",
+  "name": "The King's School Specialising in Mathematics and Computing",
+  "address": "Mill Hill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF8 4JF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "445148",
+  "northing": "421188",
+  "url": "http://kings.wakefield.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

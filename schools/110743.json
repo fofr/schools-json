@@ -1,0 +1,18 @@
+{
+  "urn": "110743",
+  "name": "Leighton Primary School",
+  "address": "Orton Malborne",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 5PL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "517405",
+  "northing": "295784",
+  "url": "www.leightonprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

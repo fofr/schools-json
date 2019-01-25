@@ -1,0 +1,18 @@
+{
+  "urn": "118156",
+  "name": "Cowes Primary School",
+  "address": "Edinburgh Close",
+  "locality": "",
+  "address3": "",
+  "town": "Cowes",
+  "county": "Isle of Wight",
+  "postcode": "PO31 8HF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449075",
+  "northing": "95876",
+  "url": "www.cowesprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

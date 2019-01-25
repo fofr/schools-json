@@ -1,0 +1,18 @@
+{
+  "urn": "141163",
+  "name": "Woolwich Polytechnic School",
+  "address": "Hutchins Road",
+  "locality": "Thamesmead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE28 8AT",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "546432",
+  "northing": "180397",
+  "url": "http://woolwichpoly.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

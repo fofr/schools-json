@@ -1,0 +1,18 @@
+{
+  "urn": "115288",
+  "name": "Thaxted Primary School",
+  "address": "Bardfield Road",
+  "locality": "Thaxted",
+  "address3": "",
+  "town": "Dunmow",
+  "county": "Essex",
+  "postcode": "CM6 2LW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "561413",
+  "northing": "230828",
+  "url": "www.thaxted.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

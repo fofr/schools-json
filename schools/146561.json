@@ -1,0 +1,18 @@
+{
+  "urn": "146561",
+  "name": "St Giles Academy",
+  "address": "Addison Drive",
+  "locality": "",
+  "address3": "St Giles Academy",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN2 4LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "499077",
+  "northing": "372859",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

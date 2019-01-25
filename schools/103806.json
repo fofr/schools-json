@@ -1,0 +1,18 @@
+{
+  "urn": "103806",
+  "name": "Amblecote Primary School",
+  "address": "School Drive",
+  "locality": "Amblecote",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY8 4DQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "389869",
+  "northing": "285507",
+  "url": "www.amblecote.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

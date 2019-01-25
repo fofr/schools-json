@@ -1,0 +1,18 @@
+{
+  "urn": "136762",
+  "name": "The Violet Way Academy",
+  "address": "Violet Way",
+  "locality": "Stapenhill",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE15 9ES",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "425856",
+  "northing": "321566",
+  "url": "http://www.violetwayacademy.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

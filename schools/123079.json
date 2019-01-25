@@ -1,0 +1,18 @@
+{
+  "urn": "123079",
+  "name": "Stephen Freeman Community Primary School",
+  "address": "Freeman Road",
+  "locality": "",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 7BZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451218",
+  "northing": "190482",
+  "url": "http://www.stephen-freeman.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

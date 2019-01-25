@@ -1,0 +1,18 @@
+{
+  "urn": "137535",
+  "name": "Amery Hill School",
+  "address": "Amery Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Alton",
+  "county": "Hampshire",
+  "postcode": "GU34 2BZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "471630",
+  "northing": "139725",
+  "url": "http://www.ameryhill.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

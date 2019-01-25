@@ -1,0 +1,18 @@
+{
+  "urn": "130931",
+  "name": "Trinity CofE Primary School",
+  "address": "Butt Lane",
+  "locality": "Ford",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY5 9LG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "341567",
+  "northing": "313274",
+  "url": "http://www.trinity.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

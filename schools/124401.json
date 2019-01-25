@@ -1,0 +1,18 @@
+{
+  "urn": "124401",
+  "name": "Endon High School",
+  "address": "Leek Road",
+  "locality": "Endon",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST9 9EE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "392264",
+  "northing": "352938",
+  "url": "http://endon.staffs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

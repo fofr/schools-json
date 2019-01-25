@@ -1,0 +1,18 @@
+{
+  "urn": "112169",
+  "name": "Kells Infant School",
+  "address": "High Road",
+  "locality": "Kells",
+  "address3": "",
+  "town": "Whitehaven",
+  "county": "Cumbria",
+  "postcode": "CA28 9PQ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "296758",
+  "northing": "516692",
+  "url": "http://www.kells-inf.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

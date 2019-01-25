@@ -1,0 +1,18 @@
+{
+  "urn": "137414",
+  "name": "Emerson Park Academy",
+  "address": "Wych Elm Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hornchurch",
+  "county": "Essex",
+  "postcode": "RM11 3AD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "555559",
+  "northing": "188013",
+  "url": "http://www.emersonparkacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

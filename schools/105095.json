@@ -1,0 +1,18 @@
+{
+  "urn": "105095",
+  "name": "Woodchurch High School Engineering College",
+  "address": "Carr Bridge Road",
+  "locality": "Woodchurch",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH49 7NG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "328525",
+  "northing": "387059",
+  "url": "www.woodchurchhigh.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

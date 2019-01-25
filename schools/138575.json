@@ -1,0 +1,18 @@
+{
+  "urn": "138575",
+  "name": "White Hall Academy",
+  "address": "Melbourne Road",
+  "locality": "",
+  "address3": "",
+  "town": "Clacton-on-Sea",
+  "county": "Essex",
+  "postcode": "CO15 3SP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "617050",
+  "northing": "216059",
+  "url": "http://www.whitehallacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

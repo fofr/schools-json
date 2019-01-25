@@ -1,0 +1,18 @@
+{
+  "urn": "118365",
+  "name": "Aldington Primary School",
+  "address": "Roman Road",
+  "locality": "Aldington",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Kent",
+  "postcode": "TN25 7EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "606435",
+  "northing": "136475",
+  "url": "http://www.aldington.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

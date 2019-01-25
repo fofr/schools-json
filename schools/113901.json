@@ -1,0 +1,18 @@
+{
+  "urn": "113901",
+  "name": "The Woodroffe School",
+  "address": "Uplyme Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lyme Regis",
+  "county": "Dorset",
+  "postcode": "DT7 3LX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "333129",
+  "northing": "92724",
+  "url": "http://www.woodroffe.dorset.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

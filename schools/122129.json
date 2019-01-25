@@ -1,0 +1,18 @@
+{
+  "urn": "122129",
+  "name": "Oundle School",
+  "address": "Great Hall",
+  "locality": "New Street",
+  "address3": "Oundle",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE8 4GH",
+  "minimum_age": "10",
+  "maximum_age": "18",
+  "easting": "504051",
+  "northing": "288240",
+  "url": "www.oundleschool.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

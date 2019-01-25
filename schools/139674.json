@@ -1,0 +1,18 @@
+{
+  "urn": "139674",
+  "name": "Eastbrook Primary Academy",
+  "address": "Manor Hall Road",
+  "locality": "Southwick",
+  "address3": "",
+  "town": "Brighton",
+  "county": "West Sussex",
+  "postcode": "BN42 4NF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "524825",
+  "northing": "105572",
+  "url": "www.eastbrook.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

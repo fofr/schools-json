@@ -1,0 +1,18 @@
+{
+  "urn": "122248",
+  "name": "Scremerston First School",
+  "address": "Scremerston",
+  "locality": "",
+  "address3": "",
+  "town": "Berwick-upon-Tweed",
+  "county": "Northumberland",
+  "postcode": "TD15 2RB",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "400505",
+  "northing": "649276",
+  "url": "www.scremerstonschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

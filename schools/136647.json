@@ -1,0 +1,18 @@
+{
+  "urn": "136647",
+  "name": "Kennet School",
+  "address": "Stoney Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Thatcham",
+  "county": "Berkshire",
+  "postcode": "RG19 4LL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "452361",
+  "northing": "167235",
+  "url": "www.kennetschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

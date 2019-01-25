@@ -1,0 +1,18 @@
+{
+  "urn": "122644",
+  "name": "Gotham Primary School",
+  "address": "Kegworth Road",
+  "locality": "Gotham",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG11 0JS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "453242",
+  "northing": "330141",
+  "url": "www.gothamprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

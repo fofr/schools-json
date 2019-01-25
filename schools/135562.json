@@ -1,0 +1,18 @@
+{
+  "urn": "135562",
+  "name": "Orchard Primary School",
+  "address": "Orchard Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW4 5JW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "513018",
+  "northing": "174913",
+  "url": "www.orchardprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

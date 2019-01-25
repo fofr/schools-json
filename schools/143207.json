@@ -1,0 +1,18 @@
+{
+  "urn": "143207",
+  "name": "Berkeley Primary School",
+  "address": "Marybrook Street",
+  "locality": "",
+  "address3": "",
+  "town": "Berkeley",
+  "county": "Gloucestershire",
+  "postcode": "GL13 9AZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "368279",
+  "northing": "199446",
+  "url": "http://www.berkeleyprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

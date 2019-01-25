@@ -1,0 +1,18 @@
+{
+  "urn": "134534",
+  "name": "Auckland Education Centre",
+  "address": "Bosworth Wood Campus",
+  "locality": "Auckland Drive",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B36 0DD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "416946",
+  "northing": "290005",
+  "url": "www.auckland.solihull.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

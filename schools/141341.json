@@ -1,0 +1,18 @@
+{
+  "urn": "141341",
+  "name": "Marlwood School",
+  "address": "Vattingstone Lane",
+  "locality": "Alveston",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS35 3LA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "362752",
+  "northing": "188386",
+  "url": "http://www.marlwood.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

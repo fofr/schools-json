@@ -1,0 +1,18 @@
+{
+  "urn": "131421",
+  "name": "Highfield Community Primary School",
+  "address": "Blacon Point Road",
+  "locality": "Blacon",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH1 5LD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "338550",
+  "northing": "367681",
+  "url": "www.highfield-blacon.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

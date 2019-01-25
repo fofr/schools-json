@@ -1,0 +1,18 @@
+{
+  "urn": "111878",
+  "name": "Tregolls School",
+  "address": "Chellew Road",
+  "locality": "",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR1 1LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "183793",
+  "northing": "45118",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

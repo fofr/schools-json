@@ -1,0 +1,18 @@
+{
+  "urn": "136916",
+  "name": "The Castle School",
+  "address": "Wellington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 5AU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "321677",
+  "northing": "124771",
+  "url": "http://www.castleschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

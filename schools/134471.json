@@ -1,0 +1,18 @@
+{
+  "urn": "134471",
+  "name": "Pinehurst Primary School Anfield",
+  "address": "Pinehurst Avenue",
+  "locality": "Anfield",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L4 7UF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "337151",
+  "northing": "393446",
+  "url": "http://www.pinehurst-primary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130537",
+  "name": "Kirklees College",
+  "address": "Manchester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD1 3LD",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "414224",
+  "northing": "416131",
+  "url": "www.kirkleescollege.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123434",
+  "name": "John Wilkinson Primary School and Nursery",
+  "address": "Coalport Road",
+  "locality": "",
+  "address3": "",
+  "town": "Broseley",
+  "county": "Shropshire",
+  "postcode": "TF12 5AN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "368102",
+  "northing": "301476",
+  "url": "www.johnwilkinsonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

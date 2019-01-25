@@ -1,0 +1,18 @@
+{
+  "urn": "143084",
+  "name": "Harrold Primary Academy",
+  "address": "The Green",
+  "locality": "Harrold",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK43 7DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "494962",
+  "northing": "256747",
+  "url": "www.harrold.beds.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

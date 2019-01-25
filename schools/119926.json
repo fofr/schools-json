@@ -1,0 +1,18 @@
+{
+  "urn": "119926",
+  "name": "Heather Primary School",
+  "address": "Main Street",
+  "locality": "Heather",
+  "address3": "",
+  "town": "Coalville",
+  "county": "Leicestershire",
+  "postcode": "LE67 2QP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "439047",
+  "northing": "310826",
+  "url": "http://heatherprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112046",
+  "name": "Callington Community College",
+  "address": "Launceston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Callington",
+  "county": "Cornwall",
+  "postcode": "PL17 7DR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "236190",
+  "northing": "69985",
+  "url": "http://www.callingtoncommunitycollege.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

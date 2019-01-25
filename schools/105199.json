@@ -1,0 +1,18 @@
+{
+  "urn": "105199",
+  "name": "Washacre Primary School",
+  "address": "Clough Avenue",
+  "locality": "Westhoughton",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL5 2NJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "365754",
+  "northing": "405318",
+  "url": "www.washacre.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125929",
+  "name": "Ashurst Wood Primary School",
+  "address": "School Lane",
+  "locality": "Ashurst Wood",
+  "address3": "",
+  "town": "East Grinstead",
+  "county": "West Sussex",
+  "postcode": "RH19 3QW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "542329",
+  "northing": "136758",
+  "url": "http://www.ashurstwoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

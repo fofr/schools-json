@@ -1,0 +1,18 @@
+{
+  "urn": "100642",
+  "name": "London Nautical School",
+  "address": "61 Stamford Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE1 9NA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "531386",
+  "northing": "180308",
+  "url": "http://www.lns.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119124",
+  "name": "Lammack Primary School",
+  "address": "Lammack Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB1 8LH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367273",
+  "northing": "430069",
+  "url": "http://www.lammackprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

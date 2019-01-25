@@ -1,0 +1,18 @@
+{
+  "urn": "142190",
+  "name": "Bell Lane Academy",
+  "address": "Bell Lane",
+  "locality": "Ackworth",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF7 7JH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443554",
+  "northing": "416341",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

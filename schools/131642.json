@@ -1,0 +1,18 @@
+{
+  "urn": "131642",
+  "name": "Arnold View Primary School",
+  "address": "Gedling Road",
+  "locality": "Arnold",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 6NW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458881",
+  "northing": "345194",
+  "url": "http://www.arnoldview.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

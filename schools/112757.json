@@ -1,0 +1,18 @@
+{
+  "urn": "112757",
+  "name": "Ridgeway Infant School",
+  "address": "Uplands Avenue",
+  "locality": "Littleover",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE23 1GG",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "433546",
+  "northing": "332978",
+  "url": "http://www.ridgewayinfantschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

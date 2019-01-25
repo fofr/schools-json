@@ -1,0 +1,18 @@
+{
+  "urn": "118276",
+  "name": "Horsmonden Primary School",
+  "address": "Back Lane",
+  "locality": "Horsmonden",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN12 8NJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "570239",
+  "northing": "140737",
+  "url": "www.horsmonden.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118535",
+  "name": "Kingsmead Primary School",
+  "address": "St John's Place",
+  "locality": "Northgate",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT1 1BD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "615068",
+  "northing": "158363",
+  "url": "www.kingsmead.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

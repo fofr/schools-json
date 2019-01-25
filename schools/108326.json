@@ -1,0 +1,18 @@
+{
+  "urn": "108326",
+  "name": "South Street Community Primary School",
+  "address": "Cramer Street",
+  "locality": "",
+  "address3": "",
+  "town": "Gateshead",
+  "county": "Tyne and Wear",
+  "postcode": "NE8 4BB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425841",
+  "northing": "562067",
+  "url": "www.southstreetprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

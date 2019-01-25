@@ -1,0 +1,18 @@
+{
+  "urn": "134253",
+  "name": "Djanogly City Academy",
+  "address": "Gregory Boulevard",
+  "locality": "Nottingham Road",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 6ND",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "456243",
+  "northing": "341384",
+  "url": "http://www.djanogly.notts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131626",
+  "name": "Pathways Learning Centre",
+  "address": "Overndale Road",
+  "locality": "Downend",
+  "address3": "",
+  "town": "Bristol",
+  "county": "South Gloucestershire",
+  "postcode": "BS16 2RQ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "364260",
+  "northing": "176391",
+  "url": "www.pathwayslearningcentre.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

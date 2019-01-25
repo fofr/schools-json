@@ -1,0 +1,18 @@
+{
+  "urn": "101092",
+  "name": "ADT College",
+  "address": "100 West Hill",
+  "locality": "Wandsworth",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW15 2UT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "524639",
+  "northing": "174575",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "City technology college"
+}

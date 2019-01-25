@@ -1,0 +1,18 @@
+{
+  "urn": "136827",
+  "name": "Copleston High School",
+  "address": "Copleston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP4 5HD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "619087",
+  "northing": "244391",
+  "url": "http://www.copleston.suffolk.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

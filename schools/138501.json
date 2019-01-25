@@ -1,0 +1,18 @@
+{
+  "urn": "138501",
+  "name": "Dashwood Banbury Academy",
+  "address": "Merton Street",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 4RX",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "446517",
+  "northing": "240573",
+  "url": "www.dashwood-aspirations.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

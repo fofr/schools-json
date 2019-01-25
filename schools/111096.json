@@ -1,0 +1,18 @@
+{
+  "urn": "111096",
+  "name": "High Legh Primary School",
+  "address": "Wrenshot Lane",
+  "locality": "High Legh",
+  "address3": "",
+  "town": "Knutsford",
+  "county": "Cheshire",
+  "postcode": "WA16 6NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "370255",
+  "northing": "384384",
+  "url": "http://www.highlegh.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

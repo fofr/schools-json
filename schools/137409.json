@@ -1,0 +1,18 @@
+{
+  "urn": "137409",
+  "name": "The Becket School",
+  "address": "The Becket Way",
+  "locality": "Wilford Lane",
+  "address3": "",
+  "town": "West Bridgford",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 7QY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "456947",
+  "northing": "337043",
+  "url": "http://www.becketonline.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

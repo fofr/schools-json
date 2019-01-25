@@ -1,0 +1,18 @@
+{
+  "urn": "131005",
+  "name": "Southglade Primary School",
+  "address": "Beckhampton Road",
+  "locality": "Bestwood Park",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 5NE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456380",
+  "northing": "345403",
+  "url": "www.southgladeprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

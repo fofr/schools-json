@@ -1,0 +1,18 @@
+{
+  "urn": "137520",
+  "name": "Maghull High School",
+  "address": "Ormonde Drive",
+  "locality": "Maghull",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L31 7AW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "337055",
+  "northing": "401489",
+  "url": "http://www.maghullhigh.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

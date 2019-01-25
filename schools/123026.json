@@ -1,0 +1,18 @@
+{
+  "urn": "123026",
+  "name": "Speedwell First School",
+  "address": "17 Sandford Road",
+  "locality": "Littlemore",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 4PU",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "453620",
+  "northing": "202659",
+  "url": "http://www.speedwell.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

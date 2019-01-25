@@ -1,0 +1,18 @@
+{
+  "urn": "144526",
+  "name": "Bracken Lane Primary Academy",
+  "address": "Bracken Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Retford",
+  "county": "Nottinghamshire",
+  "postcode": "DN22 7EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "471403",
+  "northing": "380081",
+  "url": "www.brackenlane.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

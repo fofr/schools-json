@@ -1,0 +1,18 @@
+{
+  "urn": "131325",
+  "name": "Newington Green Primary School",
+  "address": "Matthias Road",
+  "locality": "Newington Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N16 8NP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "532981",
+  "northing": "185349",
+  "url": "www.newingtongreen.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

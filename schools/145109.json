@@ -1,0 +1,18 @@
+{
+  "urn": "145109",
+  "name": "Frederick Gent School",
+  "address": "Mansfield Road",
+  "locality": "South Normanton",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 2ER",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "444883",
+  "northing": "356076",
+  "url": "www.fgs.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

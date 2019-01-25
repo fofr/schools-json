@@ -1,0 +1,18 @@
+{
+  "urn": "108145",
+  "name": "Southmoor Road First School",
+  "address": "Southmoor Road",
+  "locality": "Hemsworth",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 4LT",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "442979",
+  "northing": "412720",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

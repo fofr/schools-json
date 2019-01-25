@@ -1,0 +1,18 @@
+{
+  "urn": "114421",
+  "name": "Westfield School",
+  "address": "Main Road",
+  "locality": "Westfield",
+  "address3": "",
+  "town": "Hastings",
+  "county": "East Sussex",
+  "postcode": "TN35 4QE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "581272",
+  "northing": "115588",
+  "url": "http://westfield.e-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

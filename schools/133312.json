@@ -1,0 +1,18 @@
+{
+  "urn": "133312",
+  "name": "Abacus Primary School",
+  "address": "Tresco Way",
+  "locality": "The Wick",
+  "address3": "",
+  "town": "Wickford",
+  "county": "Essex",
+  "postcode": "SS12 9GJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "575713",
+  "northing": "192122",
+  "url": "www.abacusprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

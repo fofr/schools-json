@@ -1,0 +1,18 @@
+{
+  "urn": "127240",
+  "name": "St Michael's RC Primary School",
+  "address": "Richard Hesketh Drive",
+  "locality": "Westvale",
+  "address3": "Kirkby",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L32 0TZ",
+  "minimum_age": "3",
+  "maximum_age": "10",
+  "easting": "340092",
+  "northing": "398633",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

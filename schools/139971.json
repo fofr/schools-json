@@ -1,0 +1,18 @@
+{
+  "urn": "139971",
+  "name": "Holyport College",
+  "address": "Ascot Road",
+  "locality": "",
+  "address3": "",
+  "town": "Holyport",
+  "county": "Berkshire",
+  "postcode": "SL6 3LE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "488449",
+  "northing": "176947",
+  "url": "www.holyportcollege.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

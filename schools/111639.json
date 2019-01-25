@@ -1,0 +1,18 @@
+{
+  "urn": "111639",
+  "name": "Riverdale Primary School",
+  "address": "Hambleton Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Redcar",
+  "county": "North Yorkshire",
+  "postcode": "TS10 4HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "459646",
+  "northing": "523110",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

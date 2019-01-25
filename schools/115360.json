@@ -1,0 +1,18 @@
+{
+  "urn": "115360",
+  "name": "Clacton County High School",
+  "address": "Walton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Clacton-on-Sea",
+  "county": "Essex",
+  "postcode": "CO15 6DZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "618059",
+  "northing": "215632",
+  "url": "http://countyhigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

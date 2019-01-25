@@ -1,0 +1,18 @@
+{
+  "urn": "142850",
+  "name": "Mount Charles School",
+  "address": "Morven Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL25 4PP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "202617",
+  "northing": "52246",
+  "url": "www.mount-charlessch.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

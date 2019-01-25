@@ -1,0 +1,18 @@
+{
+  "urn": "101733",
+  "name": "Purley Oaks Primary School",
+  "address": "Bynes Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Croydon",
+  "county": "Surrey",
+  "postcode": "CR2 0PR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532675",
+  "northing": "163281",
+  "url": "http://www.purleyoaks.croydon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

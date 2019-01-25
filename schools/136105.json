@@ -1,0 +1,18 @@
+{
+  "urn": "136105",
+  "name": "Manchester Communication Academy",
+  "address": "Silchester Drive",
+  "locality": "Harpurhey",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M40 8NT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "385777",
+  "northing": "400602",
+  "url": "http://www.manchestercommunicationacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

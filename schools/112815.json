@@ -1,0 +1,18 @@
+{
+  "urn": "112815",
+  "name": "Elton CofE Primary School",
+  "address": "Main Street",
+  "locality": "Elton",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 2BW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "422221",
+  "northing": "360974",
+  "url": "www.elton.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

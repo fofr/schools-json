@@ -1,0 +1,18 @@
+{
+  "urn": "105308",
+  "name": "Sedgley Park Community Primary School",
+  "address": "Kings Road",
+  "locality": "Prestwich",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M25 0HT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382535",
+  "northing": "402667",
+  "url": "www.sedgleyparkprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

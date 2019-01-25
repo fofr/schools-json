@@ -1,0 +1,18 @@
+{
+  "urn": "118503",
+  "name": "Joy Lane Infant School",
+  "address": "Joy Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Whitstable",
+  "county": "Kent",
+  "postcode": "CT5 4LT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "610128",
+  "northing": "165477",
+  "url": "http://www.joy-lane-infant.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

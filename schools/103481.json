@@ -1,0 +1,18 @@
+{
+  "urn": "103481",
+  "name": "Waverley School",
+  "address": "Yardley Green Road",
+  "locality": "Bordesley Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B9 5QA",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "411649",
+  "northing": "286411",
+  "url": "www.waverley.bham.sch.uk",
+  "phase": "All through",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

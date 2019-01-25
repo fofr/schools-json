@@ -1,0 +1,18 @@
+{
+  "urn": "114382",
+  "name": "Balfour Primary School",
+  "address": "Balfour Road",
+  "locality": "",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN1 6NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "531091",
+  "northing": "107037",
+  "url": "www.balfourprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110594",
+  "name": "Homerton Early Years Centre",
+  "address": "Holbrook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 7ST",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "546889",
+  "northing": "255719",
+  "url": "www.homerton.cambs.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

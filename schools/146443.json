@@ -1,0 +1,18 @@
+{
+  "urn": "146443",
+  "name": "Cheslyn Hay Academy",
+  "address": "Saredon Road",
+  "locality": "Cheslyn Hay",
+  "address3": "",
+  "town": "Walsall",
+  "county": "Staffordshire",
+  "postcode": "WS6 7JQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "397188",
+  "northing": "307058",
+  "url": "http://www.cheslynhay-high.staffs.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

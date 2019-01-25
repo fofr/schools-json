@@ -1,0 +1,18 @@
+{
+  "urn": "136470",
+  "name": "Sharnbrook Academy",
+  "address": "Odell Road",
+  "locality": "Sharnbrook",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK44 1JL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "498653",
+  "northing": "259315",
+  "url": "www.sharnbrook.beds.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

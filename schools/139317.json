@@ -1,0 +1,18 @@
+{
+  "urn": "139317",
+  "name": "Whittingham Primary Academy",
+  "address": "Higham Hill Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 5QX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536198",
+  "northing": "190596",
+  "url": "http://www.whittinghamprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

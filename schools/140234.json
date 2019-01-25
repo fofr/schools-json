@@ -1,0 +1,18 @@
+{
+  "urn": "140234",
+  "name": "Boothroyd Primary Academy",
+  "address": "Temple Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dewsbury",
+  "county": "West Yorkshire",
+  "postcode": "WF13 3QE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "423522",
+  "northing": "421048",
+  "url": "http://www.boothroydprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

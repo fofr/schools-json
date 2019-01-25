@@ -1,0 +1,18 @@
+{
+  "urn": "136454",
+  "name": "Oakgrove School",
+  "address": "Venturer Gate",
+  "locality": "",
+  "address3": "Middleton",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK10 9JQ",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "488622",
+  "northing": "238624",
+  "url": "http://www.oakgrove.milton-keynes.sch.uk/",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

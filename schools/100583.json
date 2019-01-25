@@ -1,0 +1,18 @@
+{
+  "urn": "100583",
+  "name": "Stockwell Infants' School",
+  "address": "Stockwell Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW9 9TG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "530821",
+  "northing": "175861",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

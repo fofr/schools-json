@@ -1,0 +1,18 @@
+{
+  "urn": "124413",
+  "name": "NCHS The Science College",
+  "address": "Ostend Place",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 2QY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "383465",
+  "northing": "345083",
+  "url": "http://www.nchs.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121429",
+  "name": "Pannal Primary School",
+  "address": "Pannal Green",
+  "locality": "Pannal",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG3 1LH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "430516",
+  "northing": "451883",
+  "url": "http://www.pannal.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

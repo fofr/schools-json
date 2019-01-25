@@ -1,0 +1,18 @@
+{
+  "urn": "136286",
+  "name": "Westlands School",
+  "address": "Westlands Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 1PF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "588904",
+  "northing": "163864",
+  "url": "http://www.westlands.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

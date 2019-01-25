@@ -1,0 +1,18 @@
+{
+  "urn": "103688",
+  "name": "Parkgate Primary School",
+  "address": "Parkgate Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 4GF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432916",
+  "northing": "283119",
+  "url": "www.parkgate-coventry.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

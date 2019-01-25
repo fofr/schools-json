@@ -1,0 +1,18 @@
+{
+  "urn": "104606",
+  "name": "Kirkdale Primary School",
+  "address": "Fonthill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L4 1QD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "334867",
+  "northing": "393713",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

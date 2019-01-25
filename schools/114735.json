@@ -1,0 +1,18 @@
+{
+  "urn": "114735",
+  "name": "Bradfield Primary School",
+  "address": "Heath Road",
+  "locality": "Bradfield",
+  "address3": "",
+  "town": "Manningtree",
+  "county": "Essex",
+  "postcode": "CO11 2UZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "614103",
+  "northing": "230135",
+  "url": "www.bradfieldprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

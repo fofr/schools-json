@@ -1,0 +1,18 @@
+{
+  "urn": "136460",
+  "name": "St Joseph's College",
+  "address": "London Road",
+  "locality": "Trent Vale",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 5NT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "386755",
+  "northing": "343411",
+  "url": "http://stjosephstrentvale.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

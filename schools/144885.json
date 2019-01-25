@@ -1,0 +1,18 @@
+{
+  "urn": "144885",
+  "name": "The West Park Academy",
+  "address": "Vernon Road",
+  "locality": "Kirkby-in-Ashfield",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 8EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449883",
+  "northing": "356243",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

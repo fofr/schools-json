@@ -1,0 +1,18 @@
+{
+  "urn": "125014",
+  "name": "Milford School",
+  "address": "Church Road",
+  "locality": "Milford",
+  "address3": "",
+  "town": "Godalming",
+  "county": "Surrey",
+  "postcode": "GU8 5JA",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "494783",
+  "northing": "142099",
+  "url": "http://www.milford.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

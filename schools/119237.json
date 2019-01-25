@@ -1,0 +1,18 @@
+{
+  "urn": "119237",
+  "name": "The Roebuck School",
+  "address": "Inkerman Street",
+  "locality": "Ashton",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 2BN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "352592",
+  "northing": "430771",
+  "url": "http://www.roebuck.lancsngfl.ac.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

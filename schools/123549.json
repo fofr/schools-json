@@ -1,0 +1,18 @@
+{
+  "urn": "123549",
+  "name": "Whittington CofE (VA) Primary School",
+  "address": "Station Road",
+  "locality": "Whittington",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY11 4DA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "332674",
+  "northing": "330878",
+  "url": "www.whittingtonschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124599",
+  "name": "Mendlesham Community Primary School",
+  "address": "Old Station Road",
+  "locality": "Mendlesham",
+  "address3": "",
+  "town": "Stowmarket",
+  "county": "Suffolk",
+  "postcode": "IP14 5RT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "610265",
+  "northing": "265571",
+  "url": "http://www.mendlesham.suffolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

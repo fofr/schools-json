@@ -1,0 +1,18 @@
+{
+  "urn": "133723",
+  "name": "Radcliffe Primary School",
+  "address": "Coronation Road",
+  "locality": "Radcliffe",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M26 3RD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "377269",
+  "northing": "407845",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

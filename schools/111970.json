@@ -1,0 +1,18 @@
+{
+  "urn": "111970",
+  "name": "Liskeard Infant School",
+  "address": "West Street",
+  "locality": "",
+  "address3": "",
+  "town": "Liskeard",
+  "county": "",
+  "postcode": "PL14 6BS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "224877",
+  "northing": "64694",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "126564",
+  "name": "Boston Nursery School",
+  "address": "Church Road",
+  "locality": "",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE21 0LJ",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "533640",
+  "northing": "343572",
+  "url": "www.boston-nur.lincs.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

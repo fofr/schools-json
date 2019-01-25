@@ -1,0 +1,18 @@
+{
+  "urn": "107219",
+  "name": "Sandy Lane Primary School",
+  "address": "Cottingley Road",
+  "locality": "Allerton",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD15 9JU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "411146",
+  "northing": "435534",
+  "url": "www.sandylaneprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

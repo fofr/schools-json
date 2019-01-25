@@ -1,0 +1,18 @@
+{
+  "urn": "142505",
+  "name": "St Ives Primary & Nursery School",
+  "address": "Sandy Lane",
+  "locality": "St. Ives",
+  "address3": "",
+  "town": "Ringwood",
+  "county": "Hampshire",
+  "postcode": "BH24 2LE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "412523",
+  "northing": "104319",
+  "url": "www.stivesprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

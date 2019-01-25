@@ -1,0 +1,18 @@
+{
+  "urn": "121812",
+  "name": "Crick Primary School",
+  "address": "Main Road",
+  "locality": "Crick",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN6 7TU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458944",
+  "northing": "272529",
+  "url": "http://www.crick.northants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

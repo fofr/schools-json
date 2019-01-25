@@ -1,0 +1,18 @@
+{
+  "urn": "111950",
+  "name": "Callington Primary School",
+  "address": "24 Saltash Road",
+  "locality": "",
+  "address3": "",
+  "town": "Callington",
+  "county": "Cornwall",
+  "postcode": "PL17 7EF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "236032",
+  "northing": "69354",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

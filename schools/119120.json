@@ -1,0 +1,18 @@
+{
+  "urn": "119120",
+  "name": "Lower Darwen Primary School",
+  "address": "Milking Lane",
+  "locality": "Lower Darwen",
+  "address3": "",
+  "town": "Darwen",
+  "county": "Lancashire",
+  "postcode": "BB3 0RB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "369069",
+  "northing": "424875",
+  "url": "www.lowerdarwenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

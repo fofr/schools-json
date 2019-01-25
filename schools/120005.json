@@ -1,0 +1,18 @@
+{
+  "urn": "120005",
+  "name": "Evington Valley Primary School",
+  "address": "Evington Valley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 5LL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "460931",
+  "northing": "303417",
+  "url": "www.evingtonvalley.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

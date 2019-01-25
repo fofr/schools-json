@@ -1,0 +1,18 @@
+{
+  "urn": "113089",
+  "name": "Topsham First School",
+  "address": "Majorfield Road",
+  "locality": "Topsham",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX3 0ES",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "296659",
+  "northing": "88160",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

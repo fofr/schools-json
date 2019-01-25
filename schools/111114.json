@@ -1,0 +1,18 @@
+{
+  "urn": "111114",
+  "name": "Weston Primary School",
+  "address": "Lambsickle Lane",
+  "locality": "Weston Village",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 4RA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "351134",
+  "northing": "380660",
+  "url": "www.weston.halton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142817",
+  "name": "Cedar Children's Academy",
+  "address": "Cedar Road",
+  "locality": "Strood",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 2JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "572439",
+  "northing": "168467",
+  "url": "www.cedarchildrensacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

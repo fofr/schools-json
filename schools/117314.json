@@ -1,0 +1,18 @@
+{
+  "urn": "117314",
+  "name": "William Ransom Primary School",
+  "address": "Stuart Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Hitchin",
+  "county": "Hertfordshire",
+  "postcode": "SG4 9QB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "519750",
+  "northing": "229150",
+  "url": "www.wransom.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

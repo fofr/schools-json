@@ -1,0 +1,18 @@
+{
+  "urn": "104064",
+  "name": "Hockley Heath Primary School",
+  "address": "School Road",
+  "locality": "Hockley Heath",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B94 6RA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415083",
+  "northing": "272714",
+  "url": "http://www.hockley-heath-school.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

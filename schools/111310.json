@@ -1,0 +1,18 @@
+{
+  "urn": "111310",
+  "name": "St Stephen's Catholic Primary School",
+  "address": "Sandy Lane",
+  "locality": "Orford",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA2 9HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "360945",
+  "northing": "390958",
+  "url": "www.st-stephens-catholic.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

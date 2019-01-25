@@ -1,0 +1,18 @@
+{
+  "urn": "127245",
+  "name": "Stockbridge Village School",
+  "address": "Little Moss Hey",
+  "locality": "Stockbridge Village",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L28 5RL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "342901",
+  "northing": "393296",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

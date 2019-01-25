@@ -1,0 +1,18 @@
+{
+  "urn": "107973",
+  "name": "Lawns Park Primary School",
+  "address": "Chapel Lane",
+  "locality": "Old Farnley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 5EX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425072",
+  "northing": "432202",
+  "url": "www.lawnspark.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

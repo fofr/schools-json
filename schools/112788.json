@@ -1,0 +1,18 @@
+{
+  "urn": "112788",
+  "name": "Milford Primary School",
+  "address": "Chevin Road",
+  "locality": "Milford",
+  "address3": "",
+  "town": "Belper",
+  "county": "Derbyshire",
+  "postcode": "DE56 0QH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "434994",
+  "northing": "345186",
+  "url": "www.milfordprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105301",
+  "name": "Greenmount Primary School",
+  "address": "Holhouse Lane",
+  "locality": "Greenmount",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL8 4HD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "377593",
+  "northing": "414635",
+  "url": "www.greenmountprimarybury.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

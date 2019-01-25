@@ -1,0 +1,18 @@
+{
+  "urn": "127450",
+  "name": "Moorclose High School",
+  "address": "Kenyon Lane",
+  "locality": "Middleton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M24 2DG",
+  "minimum_age": "14",
+  "maximum_age": "18",
+  "easting": "388123",
+  "northing": "405795",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127190",
+  "name": "Pelsall Infant School",
+  "address": "School Lane",
+  "locality": "Pelsall",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 4AF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "401949",
+  "northing": "303677",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

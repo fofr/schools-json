@@ -1,0 +1,18 @@
+{
+  "urn": "138760",
+  "name": "Boughton Primary School",
+  "address": "Moulton Lane",
+  "locality": "Boughton",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN2 8RG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "475574",
+  "northing": "265797",
+  "url": "www.boughtonprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

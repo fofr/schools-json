@@ -1,0 +1,18 @@
+{
+  "urn": "104307",
+  "name": "Springdale Infant School",
+  "address": "Warstones Drive",
+  "locality": "Penn",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 4NJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "388645",
+  "northing": "296153",
+  "url": "www.springdaleinfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137612",
+  "name": "Range High School",
+  "address": "Stapleton Road",
+  "locality": "Formby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L37 2YN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "328468",
+  "northing": "405883",
+  "url": "http://www.range.sefton.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

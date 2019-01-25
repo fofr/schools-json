@@ -1,0 +1,18 @@
+{
+  "urn": "104432",
+  "name": "Millbrook Community Primary School",
+  "address": "Kirkby Row",
+  "locality": "Westvale",
+  "address3": "Kirkby",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L32 0TG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "340688",
+  "northing": "399108",
+  "url": "www.millbrook-knowsley.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

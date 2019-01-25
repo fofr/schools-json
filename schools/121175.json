@@ -1,0 +1,18 @@
+{
+  "urn": "121175",
+  "name": "Earlham High School",
+  "address": "Earlham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR4 7NU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "619735",
+  "northing": "308262",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109598",
+  "name": "Cranfield VC Lower School",
+  "address": "Court Road",
+  "locality": "Cranfield",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK43 0DR",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "495644",
+  "northing": "242111",
+  "url": "http://www.cranfieldlowerschool.ik.org/home.ikml",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

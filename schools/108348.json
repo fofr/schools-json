@@ -1,0 +1,18 @@
+{
+  "urn": "108348",
+  "name": "Greenside Primary School",
+  "address": "Rockwood Hill Road",
+  "locality": "Greenside",
+  "address3": "",
+  "town": "Ryton",
+  "county": "Tyne and Wear",
+  "postcode": "NE40 4AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "413786",
+  "northing": "562015",
+  "url": "www.greensideprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

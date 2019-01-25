@@ -1,0 +1,18 @@
+{
+  "urn": "145926",
+  "name": "Elaine Primary School",
+  "address": "Elaine Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Rochester",
+  "county": "",
+  "postcode": "ME2 2YN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "572443",
+  "northing": "168984",
+  "url": "http://www.elaine.medway.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

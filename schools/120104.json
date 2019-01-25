@@ -1,0 +1,18 @@
+{
+  "urn": "120104",
+  "name": "Stonebow Primary School Loughborough",
+  "address": "Stonebow Close",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 4ZH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "450579",
+  "northing": "320686",
+  "url": "http://www.stonebow.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123583",
+  "name": "Oldbury Wells School",
+  "address": "Oldbury Wells",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgnorth",
+  "county": "Shropshire",
+  "postcode": "WV16 5JD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "371158",
+  "northing": "292617",
+  "url": "http://www.oldburywells.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118481",
+  "name": "Hartley Primary School",
+  "address": "Round Ash Way",
+  "locality": "Hartley",
+  "address3": "",
+  "town": "Longfield",
+  "county": "Kent",
+  "postcode": "DA3 8BT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "560221",
+  "northing": "167409",
+  "url": "http://www.hartley.kent.sch.uk/home.html",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

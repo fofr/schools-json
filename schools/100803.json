@@ -1,0 +1,18 @@
+{
+  "urn": "100803",
+  "name": "Michael Faraday School",
+  "address": "Portland Street",
+  "locality": "Walworth",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE17 2HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532828",
+  "northing": "177988",
+  "url": "www.michaelfaradayschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

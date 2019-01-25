@@ -1,0 +1,18 @@
+{
+  "urn": "106291",
+  "name": "Elmridge Primary School",
+  "address": "Wilton Drive",
+  "locality": "Halebarns",
+  "address3": "Wilton Drive Halebarns",
+  "town": "Altrincham",
+  "county": "Cheshire",
+  "postcode": "WA15 0JF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "379426",
+  "northing": "385630",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

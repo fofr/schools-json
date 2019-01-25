@@ -1,0 +1,18 @@
+{
+  "urn": "117200",
+  "name": "Bedwell Primary School",
+  "address": "Bedwell Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG1 1NJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "525203",
+  "northing": "224516",
+  "url": "www.bedwell.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123403",
+  "name": "Weston Rhyn Primary School",
+  "address": "Old Chirk Road",
+  "locality": "Weston Rhyn",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY10 7SR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "329005",
+  "northing": "336005",
+  "url": "www.westonrhyn.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142801",
+  "name": "Parkside Academy",
+  "address": "291 Spring Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP4 5ND",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "618580",
+  "northing": "244917",
+  "url": "http://www.raedwaldtrust.org",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy alternative provision converter"
+}

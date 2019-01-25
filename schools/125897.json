@@ -1,0 +1,18 @@
+{
+  "urn": "125897",
+  "name": "Northgate First School",
+  "address": "Green Lane",
+  "locality": "Northgate",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH10 8DX",
+  "minimum_age": "3",
+  "maximum_age": "8",
+  "easting": "527259",
+  "northing": "137464",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

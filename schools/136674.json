@@ -1,0 +1,18 @@
+{
+  "urn": "136674",
+  "name": "The Mirfield Free Grammar",
+  "address": "Kitson Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mirfield",
+  "county": "West Yorkshire",
+  "postcode": "WF14 9EZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "419744",
+  "northing": "421182",
+  "url": "http://www.themfg.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

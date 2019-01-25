@@ -1,0 +1,18 @@
+{
+  "urn": "139990",
+  "name": "Ursula Taylor Church of England School",
+  "address": "High Street",
+  "locality": "Clapham",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK41 6EG",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "503335",
+  "northing": "252444",
+  "url": "www.ursulataylorschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143944",
+  "name": "Thornton Primary School",
+  "address": "Thornton Road",
+  "locality": "Thornton",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD13 3NN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409513",
+  "northing": "432673",
+  "url": "www.thorntonprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

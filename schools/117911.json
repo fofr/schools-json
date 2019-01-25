@@ -1,0 +1,18 @@
+{
+  "urn": "117911",
+  "name": "Inmans Primary School",
+  "address": "Inmans Road",
+  "locality": "Hedon",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU12 8NL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "519485",
+  "northing": "428453",
+  "url": "www.inmansprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

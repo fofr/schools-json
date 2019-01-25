@@ -1,0 +1,18 @@
+{
+  "urn": "114168",
+  "name": "Corporation Road Infant School",
+  "address": "Corporation Road",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "",
+  "postcode": "DL3 6AR",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "428808",
+  "northing": "515285",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

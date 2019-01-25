@@ -1,0 +1,18 @@
+{
+  "urn": "118520",
+  "name": "Briary Primary School",
+  "address": "Greenhill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Herne Bay",
+  "county": "Kent",
+  "postcode": "CT6 7RS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "616083",
+  "northing": "166658",
+  "url": "www.briary.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130101",
+  "name": "De Burgh School",
+  "address": "Merefield Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Tadworth",
+  "county": "Surrey",
+  "postcode": "KT20 5JY",
+  "minimum_age": "12",
+  "maximum_age": "18",
+  "easting": "523658",
+  "northing": "157493",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

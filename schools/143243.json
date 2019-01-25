@@ -1,0 +1,18 @@
+{
+  "urn": "143243",
+  "name": "Kippax North Primary School",
+  "address": "Brexdale Avenue",
+  "locality": "Kippax",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS25 7EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "440919",
+  "northing": "431533",
+  "url": "http://www.kippaxnorth.leeds.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

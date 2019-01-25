@@ -1,0 +1,18 @@
+{
+  "urn": "101309",
+  "name": "Chalgrove Primary School",
+  "address": "Chalgrove Gardens",
+  "locality": "Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N3 3PL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "524324",
+  "northing": "189626",
+  "url": "http://webfronter.com/barnet/Chalgrove/index.shtml",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

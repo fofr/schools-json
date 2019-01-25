@@ -1,0 +1,18 @@
+{
+  "urn": "111921",
+  "name": "St Minver School",
+  "address": "Rock Road",
+  "locality": "St Minver",
+  "address3": "",
+  "town": "Wadebridge",
+  "county": "Cornwall",
+  "postcode": "PL27 6QD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "195046",
+  "northing": "76556",
+  "url": "http://www.st-minver.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

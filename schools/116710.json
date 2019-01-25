@@ -1,0 +1,18 @@
+{
+  "urn": "116710",
+  "name": "Malvern Hills Primary School",
+  "address": "Bluebell Close",
+  "locality": "Poolbrook",
+  "address3": "",
+  "town": "Malvern",
+  "county": "Worcestershire",
+  "postcode": "WR14 3SW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "379511",
+  "northing": "245112",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

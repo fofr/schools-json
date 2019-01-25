@@ -1,0 +1,18 @@
+{
+  "urn": "100699",
+  "name": "Rangefield Primary School",
+  "address": "Glenbow Road",
+  "locality": "Downham",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR1 4RP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539405",
+  "northing": "171393",
+  "url": "http://www.rangefield.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138113",
+  "name": "Catmose Primary",
+  "address": "Sandringham Close",
+  "locality": "",
+  "address3": "",
+  "town": "Oakham",
+  "county": "Rutland",
+  "postcode": "LE15 6SH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485288",
+  "northing": "308362",
+  "url": "http://www.catmoseprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

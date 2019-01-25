@@ -1,0 +1,18 @@
+{
+  "urn": "103157",
+  "name": "Shaw Hill Primary School",
+  "address": "Anthony Road",
+  "locality": "Alum Rock",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B8 3AN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "410564",
+  "northing": "287710",
+  "url": "www.shawhill.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

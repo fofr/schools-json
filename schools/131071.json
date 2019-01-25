@@ -1,0 +1,18 @@
+{
+  "urn": "131071",
+  "name": "St Augustine's Catholic Primary School",
+  "address": "Tomlinscote Way",
+  "locality": "Frimley",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU16 8PY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "489037",
+  "northing": "158736",
+  "url": "www.staugustine.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

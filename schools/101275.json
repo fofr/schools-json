@@ -1,0 +1,18 @@
+{
+  "urn": "101275",
+  "name": "Dollis Infant School",
+  "address": "Pursley Road",
+  "locality": "Mill Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW7 2BU",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "523053",
+  "northing": "191451",
+  "url": "www.dollisinfant.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

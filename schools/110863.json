@@ -1,0 +1,18 @@
+{
+  "urn": "110863",
+  "name": "Swavesey Village College",
+  "address": "Gibraltar Lane",
+  "locality": "Swavesey",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 4RS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "536111",
+  "northing": "268180",
+  "url": "http://www.swaveseyvc.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

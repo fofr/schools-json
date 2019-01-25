@@ -1,0 +1,18 @@
+{
+  "urn": "100889",
+  "name": "London East Alternative Provision",
+  "address": "21 Tollet Street",
+  "locality": "Stepney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E1 4EE",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "535593",
+  "northing": "182316",
+  "url": "http://www.londoneastap.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

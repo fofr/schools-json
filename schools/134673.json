@@ -1,0 +1,18 @@
+{
+  "urn": "134673",
+  "name": "Hodge Hill Primary School",
+  "address": "76 Twycross Grove",
+  "locality": "Hodge Hill",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B36 8LD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "412585",
+  "northing": "289348",
+  "url": "www.hodgehillprimary.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

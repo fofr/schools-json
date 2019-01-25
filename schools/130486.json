@@ -1,0 +1,18 @@
+{
+  "urn": "130486",
+  "name": "Knowsley Community College",
+  "address": "Rupert Road",
+  "locality": "Roby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L36 9TD",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "343527",
+  "northing": "391047",
+  "url": "http://www.knowsleycollege.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

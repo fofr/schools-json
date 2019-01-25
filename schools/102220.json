@@ -1,0 +1,18 @@
+{
+  "urn": "102220",
+  "name": "Welldon Park Primary School",
+  "address": "Kingsley Road",
+  "locality": "South Harrow",
+  "address3": "",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA2 8LT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "514400",
+  "northing": "186000",
+  "url": "http://www.welldonparkprimary.harrow.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

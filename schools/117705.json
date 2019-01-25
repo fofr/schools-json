@@ -1,0 +1,18 @@
+{
+  "urn": "117705",
+  "name": "Alice House",
+  "address": "Sutcliffe Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "",
+  "postcode": "DN33 1AN",
+  "minimum_age": "14",
+  "maximum_age": "18",
+  "easting": "525702",
+  "northing": "407547",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

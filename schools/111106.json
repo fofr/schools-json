@@ -1,0 +1,18 @@
+{
+  "urn": "111106",
+  "name": "Waverton Community Primary School",
+  "address": "Common Lane",
+  "locality": "Waverton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH3 7QT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "345451",
+  "northing": "364104",
+  "url": "http://www.waverton.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

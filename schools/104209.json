@@ -1,0 +1,18 @@
+{
+  "urn": "104209",
+  "name": "Redhouse Primary School",
+  "address": "Gorsey Way",
+  "locality": "Aldridge",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS9 0EQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404327",
+  "northing": "300420",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

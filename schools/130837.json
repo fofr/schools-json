@@ -1,0 +1,18 @@
+{
+  "urn": "130837",
+  "name": "Stratford-upon-Avon College",
+  "address": "The Willows North",
+  "locality": "Alcester Road",
+  "address3": "",
+  "town": "Stratford-upon-Avon",
+  "county": "Warwickshire",
+  "postcode": "CV37 9QR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "419360",
+  "northing": "254993",
+  "url": "www.stratford.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130944",
+  "name": "Westminster Primary School",
+  "address": "Stamford Road",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B20 3PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "406233",
+  "northing": "290239",
+  "url": "www.westmnst.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

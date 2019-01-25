@@ -1,0 +1,18 @@
+{
+  "urn": "120499",
+  "name": "Linchfield Community Primary School",
+  "address": "Crowson Way",
+  "locality": "Deeping St James",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Lincolnshire",
+  "postcode": "PE6 8EY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "514638",
+  "northing": "310073",
+  "url": "www.linchfield.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

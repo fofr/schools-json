@@ -1,0 +1,18 @@
+{
+  "urn": "110530",
+  "name": "The Royal Grammar School, High Wycombe",
+  "address": "Amersham Road",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP13 6QT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "487371",
+  "northing": "194343",
+  "url": "www.rgshw.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

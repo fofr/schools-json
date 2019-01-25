@@ -1,0 +1,18 @@
+{
+  "urn": "117744",
+  "name": "Scawby Primary School",
+  "address": "West Street",
+  "locality": "Scawby",
+  "address3": "",
+  "town": "Brigg",
+  "county": "Lincolnshire",
+  "postcode": "DN20 9AN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "496776",
+  "northing": "405428",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

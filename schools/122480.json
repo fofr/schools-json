@@ -1,0 +1,18 @@
+{
+  "urn": "122480",
+  "name": "Welbeck Primary School",
+  "address": "Kinglake Place",
+  "locality": "Meadows",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 1NT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457181",
+  "northing": "338909",
+  "url": "www.welbeck.nottingham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

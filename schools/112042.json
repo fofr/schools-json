@@ -1,0 +1,18 @@
+{
+  "urn": "112042",
+  "name": "Fowey Community College",
+  "address": "Windmill",
+  "locality": "",
+  "address3": "",
+  "town": "Fowey",
+  "county": "Cornwall",
+  "postcode": "PL23 1HE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "211940",
+  "northing": "51681",
+  "url": "http://www.fowey-comm-coll.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137986",
+  "name": "Leverton Church of England Academy",
+  "address": "Main Street",
+  "locality": "North Leverton",
+  "address3": "",
+  "town": "Retford",
+  "county": "Nottinghamshire",
+  "postcode": "DN22 0AD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "478603",
+  "northing": "382195",
+  "url": "www.levertonacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

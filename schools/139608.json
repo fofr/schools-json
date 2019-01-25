@@ -1,0 +1,18 @@
+{
+  "urn": "139608",
+  "name": "Burghill Community Academy",
+  "address": "Burghill",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR4 7RP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "346930",
+  "northing": "245024",
+  "url": "http://www.burghill.hereford.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

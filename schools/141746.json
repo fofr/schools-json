@@ -1,0 +1,18 @@
+{
+  "urn": "141746",
+  "name": "Rose Bridge Academy",
+  "address": "Holt Street",
+  "locality": "Ince-in-Makerfield",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN1 3HD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "359610",
+  "northing": "405698",
+  "url": "http://www.rosebridgeacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

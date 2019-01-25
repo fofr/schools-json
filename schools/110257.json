@@ -1,0 +1,18 @@
+{
+  "urn": "110257",
+  "name": "Wyvern School",
+  "address": "Aylesbury Street",
+  "locality": "Wolverton",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK12 5HU",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "481329",
+  "northing": "240913",
+  "url": "www.wyvernschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

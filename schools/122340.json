@@ -1,0 +1,18 @@
+{
+  "urn": "122340",
+  "name": "Highfield Middle School",
+  "address": "Highfield Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Prudhoe",
+  "county": "Northumberland",
+  "postcode": "NE42 6EY",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "409273",
+  "northing": "562569",
+  "url": "http://www.highfield.northumberland.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

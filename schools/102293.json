@@ -1,0 +1,18 @@
+{
+  "urn": "102293",
+  "name": "Crowlands Infant School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM7 9EJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "550105",
+  "northing": "188318",
+  "url": "www.crownfieldinfantsschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

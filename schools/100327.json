@@ -1,0 +1,18 @@
+{
+  "urn": "100327",
+  "name": "Ellerslie Primary School",
+  "address": "Ellerslie Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W12 7BP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "522600",
+  "northing": "180100",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

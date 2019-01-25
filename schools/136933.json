@@ -1,0 +1,18 @@
+{
+  "urn": "136933",
+  "name": "Black Country UTC",
+  "address": "Vernon Way",
+  "locality": "",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 2PA",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "398037",
+  "northing": "302490",
+  "url": "www.blackcountryutc.co.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

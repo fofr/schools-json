@@ -1,0 +1,18 @@
+{
+  "urn": "142899",
+  "name": "UTC Warrington",
+  "address": "Dallam Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA2 7NG",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "360503",
+  "northing": "388585",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

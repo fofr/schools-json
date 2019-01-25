@@ -1,0 +1,18 @@
+{
+  "urn": "115241",
+  "name": "Newlands Spring Primary School",
+  "address": "Dickens Place",
+  "locality": "Copperfield Road",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM1 4UU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "568881",
+  "northing": "209042",
+  "url": "http://www.newlandsspring.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

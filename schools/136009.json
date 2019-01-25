@@ -1,0 +1,18 @@
+{
+  "urn": "136009",
+  "name": "Cowes Enterprise College",
+  "address": "Crossfield Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Cowes",
+  "county": "Isle of Wight",
+  "postcode": "PO31 8HB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "448959",
+  "northing": "96212",
+  "url": "www.cowesenterprisecollege.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

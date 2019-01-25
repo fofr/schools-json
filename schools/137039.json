@@ -1,0 +1,18 @@
+{
+  "urn": "137039",
+  "name": "The Hathershaw College",
+  "address": "Bellfield Avenue",
+  "locality": "Hathershaw",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL8 3EP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "392680",
+  "northing": "402873",
+  "url": "www.hathershaw.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

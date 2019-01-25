@@ -1,0 +1,18 @@
+{
+  "urn": "133300",
+  "name": "Newdale Primary School & Nursery",
+  "address": "Marlborough Way",
+  "locality": "Rock Road",
+  "address3": "Newdale",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 5HA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "367960",
+  "northing": "309673",
+  "url": "www.newdaleschool.taw.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

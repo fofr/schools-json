@@ -1,0 +1,18 @@
+{
+  "urn": "143224",
+  "name": "Ings Primary School",
+  "address": "Ings Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU8 0SL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "512541",
+  "northing": "431787",
+  "url": "http://www.ingsprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121699",
+  "name": "Boroughbridge High School",
+  "address": "Wetherby Road",
+  "locality": "Boroughbridge",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO51 9JX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "439641",
+  "northing": "466037",
+  "url": "www.boroughbridgehigh.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

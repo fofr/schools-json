@@ -1,0 +1,18 @@
+{
+  "urn": "130744",
+  "name": "The Blackpool Sixth Form College",
+  "address": "Blackpool Old Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY3 7LR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "333206",
+  "northing": "438687",
+  "url": "https://blackpoolsixth.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117883",
+  "name": "Westfield Primary School",
+  "address": "Westfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cottingham",
+  "county": "",
+  "postcode": "HU16 5PE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "503804",
+  "northing": "432760",
+  "url": "www.westfieldprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

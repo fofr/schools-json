@@ -1,0 +1,18 @@
+{
+  "urn": "143012",
+  "name": "Greenways Primary Academy",
+  "address": "Nursery Avenue",
+  "locality": "Stockton Brook",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST9 9NY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391379",
+  "northing": "351501",
+  "url": "learningvillage.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

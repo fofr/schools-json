@@ -1,0 +1,18 @@
+{
+  "urn": "126234",
+  "name": "Westwood-with-Iford Primary School",
+  "address": "Boswell Road",
+  "locality": "Lower Westwood",
+  "address3": "",
+  "town": "Bradford-on-Avon",
+  "county": "Wiltshire",
+  "postcode": "BA15 2BY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "380615",
+  "northing": "159277",
+  "url": "www.westwoodwithiford.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

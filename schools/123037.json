@@ -1,0 +1,18 @@
+{
+  "urn": "123037",
+  "name": "Nettlebed Community School",
+  "address": "High Street",
+  "locality": "Nettlebed",
+  "address3": "",
+  "town": "Henley-on-Thames",
+  "county": "Oxfordshire",
+  "postcode": "RG9 5DA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "469972",
+  "northing": "186759",
+  "url": "http://www.nettlebed.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

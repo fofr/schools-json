@@ -1,0 +1,18 @@
+{
+  "urn": "127853",
+  "name": "Weetwood First School",
+  "address": "Weetwood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS16 5NW",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "427582",
+  "northing": "437150",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

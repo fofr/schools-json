@@ -1,0 +1,18 @@
+{
+  "urn": "118511",
+  "name": "Sandling Primary School",
+  "address": "Ashburnham Road",
+  "locality": "Penenden Heath",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME14 2JG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "576624",
+  "northing": "157776",
+  "url": "http://www.sandling.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

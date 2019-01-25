@@ -1,0 +1,18 @@
+{
+  "urn": "124121",
+  "name": "Dove First School",
+  "address": "Ashbourne Road",
+  "locality": "Rocester",
+  "address3": "",
+  "town": "Uttoxeter",
+  "county": "Staffordshire",
+  "postcode": "ST14 5NW",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "411205",
+  "northing": "339459",
+  "url": "www.dove.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

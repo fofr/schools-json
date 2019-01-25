@@ -1,0 +1,18 @@
+{
+  "urn": "130055",
+  "name": "Lingfield Middle School",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Lingfield",
+  "county": "Surrey",
+  "postcode": "RH7 6AA",
+  "minimum_age": "8",
+  "maximum_age": "11",
+  "easting": "538701",
+  "northing": "143538",
+  "url": "",
+  "phase": "Middle deemed primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

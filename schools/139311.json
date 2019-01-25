@@ -1,0 +1,18 @@
+{
+  "urn": "139311",
+  "name": "Hobart High School",
+  "address": "Kittens Lane",
+  "locality": "Loddon",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR14 6JU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "636068",
+  "northing": "298362",
+  "url": "http://www.hobart.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

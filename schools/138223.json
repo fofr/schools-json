@@ -1,0 +1,18 @@
+{
+  "urn": "138223",
+  "name": "The Midland Studio College Hinckley",
+  "address": "Spa Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 1HQ",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "443296",
+  "northing": "293970",
+  "url": "http://www.msc.leics.sch.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120794",
+  "name": "Buxton Primary School",
+  "address": "Aylsham Road",
+  "locality": "Buxton",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR10 5EZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "623317",
+  "northing": "322743",
+  "url": "www.buxtonschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120376",
+  "name": "Eagle Community Primary School",
+  "address": "Scarle Lane",
+  "locality": "Eagle",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN6 9EJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "487649",
+  "northing": "367041",
+  "url": "www.eagleprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

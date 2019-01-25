@@ -1,0 +1,18 @@
+{
+  "urn": "115555",
+  "name": "Yorkley Primary School",
+  "address": "Lydney Road",
+  "locality": "Yorkley",
+  "address3": "",
+  "town": "Lydney",
+  "county": "Gloucestershire",
+  "postcode": "GL15 4RR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "363652",
+  "northing": "206907",
+  "url": "www.yorkleyschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

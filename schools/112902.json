@@ -1,0 +1,18 @@
+{
+  "urn": "112902",
+  "name": "St Charles's Catholic Primary",
+  "address": "The Carriage Drive",
+  "locality": "Hadfield",
+  "address3": "",
+  "town": "Glossop",
+  "county": "Derbyshire",
+  "postcode": "SK13 1PJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "401434",
+  "northing": "396155",
+  "url": "http://www.st-charles.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

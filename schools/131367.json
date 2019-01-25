@@ -1,0 +1,18 @@
+{
+  "urn": "131367",
+  "name": "Gloucestershire Hospital Education Service",
+  "address": "St George's Road",
+  "locality": "County Offices",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL50 3EW",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "394356",
+  "northing": "222287",
+  "url": "www.gloucestershire.gov.uk/ghes",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

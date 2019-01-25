@@ -1,0 +1,18 @@
+{
+  "urn": "112540",
+  "name": "Dronfield Infant School",
+  "address": "School Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Dronfield",
+  "county": "Derbyshire",
+  "postcode": "S18 1RY",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "435324",
+  "northing": "378199",
+  "url": "http://www.dronfield-inf.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

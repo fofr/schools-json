@@ -1,0 +1,18 @@
+{
+  "urn": "143962",
+  "name": "Balby Central Primary Academy",
+  "address": "Littlemoor Lane",
+  "locality": "Balby",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN4 0LL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456663",
+  "northing": "402128",
+  "url": "www.balbycentralprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111433",
+  "name": "Woolston Community High School",
+  "address": "Holes Lane",
+  "locality": "Woolston",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA1 4LS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "363734",
+  "northing": "389468",
+  "url": "http://www.woolstonhigh.warrington.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

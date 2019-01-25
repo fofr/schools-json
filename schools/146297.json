@@ -1,0 +1,18 @@
+{
+  "urn": "146297",
+  "name": "Middleton Primary School",
+  "address": "Middleton Park Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS10 4HU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "429859",
+  "northing": "427471",
+  "url": "www.middletonprimary.net/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

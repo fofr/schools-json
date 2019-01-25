@@ -1,0 +1,18 @@
+{
+  "urn": "141673",
+  "name": "Gorsefield Primary School",
+  "address": "Robertson Street",
+  "locality": "Radcliffe",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M26 4DW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "378240",
+  "northing": "407724",
+  "url": "www.gorsefieldprimary.school",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

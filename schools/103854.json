@@ -1,0 +1,18 @@
+{
+  "urn": "103854",
+  "name": "Summerhill School",
+  "address": "Lodge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Kingswinford",
+  "county": "West Midlands",
+  "postcode": "DY6 9XE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "387795",
+  "northing": "288592",
+  "url": "http://www.summerhill.dudley.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

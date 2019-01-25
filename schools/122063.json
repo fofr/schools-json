@@ -1,0 +1,18 @@
+{
+  "urn": "122063",
+  "name": "Campion School",
+  "address": "Bugbrooke",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN7 3QG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "468443",
+  "northing": "257726",
+  "url": "http://www.campion.northants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

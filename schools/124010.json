@@ -1,0 +1,18 @@
+{
+  "urn": "124010",
+  "name": "Sandon Primary School",
+  "address": "Normacot Grange Road",
+  "locality": "Meir",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 7AW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "393272",
+  "northing": "341591",
+  "url": "www.sandonprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

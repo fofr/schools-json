@@ -1,0 +1,18 @@
+{
+  "urn": "139898",
+  "name": "Pimlico Primary",
+  "address": "Lupus Street",
+  "locality": "Westminster",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW1V 3AT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "529431",
+  "northing": "178226",
+  "url": "http://www.pimlicoprimary.org/",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

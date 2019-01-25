@@ -1,0 +1,18 @@
+{
+  "urn": "130634",
+  "name": "Carlisle College",
+  "address": "Victoria Place",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA1 1HS",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "340484",
+  "northing": "556110",
+  "url": "http://www.carlisle.ac.uk/default.asp",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

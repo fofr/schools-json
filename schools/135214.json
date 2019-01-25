@@ -1,0 +1,18 @@
+{
+  "urn": "135214",
+  "name": "Newington Community Primary School",
+  "address": "Princess Margaret Avenue",
+  "locality": "Newington",
+  "address3": "",
+  "town": "Ramsgate",
+  "county": "Kent",
+  "postcode": "CT12 6HX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "636335",
+  "northing": "165855",
+  "url": "www.newington-ramsgate.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

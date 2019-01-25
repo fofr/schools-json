@@ -1,0 +1,18 @@
+{
+  "urn": "136351",
+  "name": "Meopham Community Academy",
+  "address": "Longfield Road",
+  "locality": "Meopham",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA13 0JW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "564320",
+  "northing": "166643",
+  "url": "http://www.meophamca.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

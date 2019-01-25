@@ -1,0 +1,18 @@
+{
+  "urn": "138072",
+  "name": "Hamford Primary Academy",
+  "address": "Elm Tree Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Walton on the Naze",
+  "county": "Essex",
+  "postcode": "CO14 8TE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "623762",
+  "northing": "221400",
+  "url": "http://www.hamfordprimaryacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118828",
+  "name": "The Channel School",
+  "address": "Park Farm Road",
+  "locality": "",
+  "address3": "",
+  "town": "Folkestone",
+  "county": "Kent",
+  "postcode": "CT19 5DN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "622129",
+  "northing": "137350",
+  "url": "http://www.channel.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

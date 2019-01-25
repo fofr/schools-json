@@ -1,0 +1,18 @@
+{
+  "urn": "142835",
+  "name": "ACE Schools Plymouth",
+  "address": "Martins Gate",
+  "locality": "Bretonside",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL4 0AT",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "248191",
+  "northing": "54436",
+  "url": "www.aceschools.net",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy alternative provision converter"
+}

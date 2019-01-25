@@ -1,0 +1,18 @@
+{
+  "urn": "142640",
+  "name": "Kingsland CofE Academy",
+  "address": "Werrington Road",
+  "locality": "Bucknall",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 9AS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390970",
+  "northing": "347632",
+  "url": "www.kingslandceacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

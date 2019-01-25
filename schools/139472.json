@@ -1,0 +1,18 @@
+{
+  "urn": "139472",
+  "name": "Old Clee Primary Academy",
+  "address": "Colin Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN32 8EN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528809",
+  "northing": "408651",
+  "url": "www.oldcleeprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

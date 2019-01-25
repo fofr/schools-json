@@ -1,0 +1,18 @@
+{
+  "urn": "108060",
+  "name": "Cross Green High School",
+  "address": "Cross Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS9 0BB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "432037",
+  "northing": "432613",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

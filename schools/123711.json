@@ -1,0 +1,18 @@
+{
+  "urn": "123711",
+  "name": "Beech Grove Primary School",
+  "address": "Courtland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wellington",
+  "county": "Somerset",
+  "postcode": "TA21 8NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "313503",
+  "northing": "120697",
+  "url": "www.beechgrove.somerset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

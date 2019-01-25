@@ -1,0 +1,18 @@
+{
+  "urn": "138291",
+  "name": "Boston West Academy",
+  "address": "Sussex Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE21 7QG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "530907",
+  "northing": "344021",
+  "url": "www.bwacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

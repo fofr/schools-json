@@ -1,0 +1,18 @@
+{
+  "urn": "105573",
+  "name": "South Manchester High School",
+  "address": "Woodhouse Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M22 9TH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "382751",
+  "northing": "387563",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

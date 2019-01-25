@@ -1,0 +1,18 @@
+{
+  "urn": "130381",
+  "name": "Sandringham Primary School",
+  "address": "Sandringham Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E7 8ED",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "541183",
+  "northing": "185020",
+  "url": "www.sandringham.newham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

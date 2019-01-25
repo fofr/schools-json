@@ -1,0 +1,18 @@
+{
+  "urn": "139061",
+  "name": "The Arbours Primary Academy",
+  "address": "St Gregory's Road",
+  "locality": "The Arbours",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN3 3QF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "478837",
+  "northing": "263347",
+  "url": "www.arboursacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130686",
+  "name": "Cirencester College",
+  "address": "Fosse Way Campus",
+  "locality": "Stroud Road",
+  "address3": "",
+  "town": "Cirencester",
+  "county": "Gloucestershire",
+  "postcode": "GL7 1XA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "401050",
+  "northing": "201537",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

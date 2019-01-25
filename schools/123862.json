@@ -1,0 +1,18 @@
+{
+  "urn": "123862",
+  "name": "Frome Community College",
+  "address": "Bath Road",
+  "locality": "",
+  "address3": "",
+  "town": "Frome",
+  "county": "Somerset",
+  "postcode": "BA11 2HQ",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "378326",
+  "northing": "149364",
+  "url": "http://www.fromecollege.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139752",
+  "name": "Leighton Academy",
+  "address": "Minshull New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 3PP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "368811",
+  "northing": "357493",
+  "url": "www.leightonacademy.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

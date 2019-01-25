@@ -1,0 +1,18 @@
+{
+  "urn": "112129",
+  "name": "Broughton Moor Primary School",
+  "address": "Broughton Moor",
+  "locality": "",
+  "address3": "",
+  "town": "Maryport",
+  "county": "Cumbria",
+  "postcode": "CA15 7RZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "305520",
+  "northing": "533520",
+  "url": "www.bromoor.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

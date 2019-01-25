@@ -1,0 +1,18 @@
+{
+  "urn": "140100",
+  "name": "Roundthorn Primary Academy",
+  "address": "Roundthorn Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL4 5LN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394384",
+  "northing": "404195",
+  "url": "www.roundthornprimaryacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117816",
+  "name": "Sidmouth Primary School",
+  "address": "Sidmouth Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 2JY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508026",
+  "northing": "431255",
+  "url": "www.sidmouthprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

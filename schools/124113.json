@@ -1,0 +1,18 @@
+{
+  "urn": "124113",
+  "name": "Knutton Infant School",
+  "address": "High Street",
+  "locality": "Knutton",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 6BX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "383412",
+  "northing": "346937",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

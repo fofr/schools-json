@@ -1,0 +1,18 @@
+{
+  "urn": "138468",
+  "name": "Thrunscoe Primary and Nursery Academy",
+  "address": "Trinity Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cleethorpes",
+  "county": "Lincolnshire",
+  "postcode": "DN35 8UL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530566",
+  "northing": "408145",
+  "url": "www.thrunscoeacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

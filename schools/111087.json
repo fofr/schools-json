@@ -1,0 +1,18 @@
+{
+  "urn": "111087",
+  "name": "Whitby Heath Primary School",
+  "address": "Wyedale",
+  "locality": "Whitby",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Cheshire",
+  "postcode": "CH65 6RJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "339706",
+  "northing": "375134",
+  "url": "http://www.whitbyheath.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

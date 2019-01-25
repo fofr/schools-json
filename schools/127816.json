@@ -1,0 +1,18 @@
+{
+  "urn": "127816",
+  "name": "Castleton Primary School",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 1JZ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "428048",
+  "northing": "433035",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

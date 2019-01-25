@@ -1,0 +1,18 @@
+{
+  "urn": "124220",
+  "name": "Moorhill Primary School",
+  "address": "Pye Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cannock",
+  "county": "Staffordshire",
+  "postcode": "WS11 5RN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "398295",
+  "northing": "311960",
+  "url": "http://www.moorhill.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101008",
+  "name": "Franciscan Primary School",
+  "address": "221 Franciscan Road",
+  "locality": "Tooting",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW17 8HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528020",
+  "northing": "171453",
+  "url": "www.franciscan.wandsworth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

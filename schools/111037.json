@@ -1,0 +1,18 @@
+{
+  "urn": "111037",
+  "name": "Sandbach Community Primary School",
+  "address": "Crewe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 4NS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "375411",
+  "northing": "360548",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

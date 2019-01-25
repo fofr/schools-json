@@ -1,0 +1,18 @@
+{
+  "urn": "141917",
+  "name": "Sandhill Primary School",
+  "address": "Dearne Street",
+  "locality": "Great Houghton",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S72 0EQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443277",
+  "northing": "406309",
+  "url": "www.sandhillprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117833",
+  "name": "Burlington Infant School",
+  "address": "Marton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bridlington",
+  "county": "East Yorkshire",
+  "postcode": "YO16 7AQ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "517563",
+  "northing": "468282",
+  "url": "www.burlingtoninfants.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

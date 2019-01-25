@@ -1,0 +1,18 @@
+{
+  "urn": "137701",
+  "name": "Oldbury Academy",
+  "address": "Pound Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oldbury",
+  "county": "West Midlands",
+  "postcode": "B68 8NE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "399415",
+  "northing": "286916",
+  "url": "http://oldburyacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

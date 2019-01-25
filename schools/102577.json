@@ -1,0 +1,18 @@
+{
+  "urn": "102577",
+  "name": "Maple Infants' School",
+  "address": "Maple Road",
+  "locality": "",
+  "address3": "",
+  "town": "Surbiton",
+  "county": "Surrey",
+  "postcode": "KT6 4AL",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "517909",
+  "northing": "167629",
+  "url": "http://www.mapleinfants.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

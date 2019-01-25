@@ -1,0 +1,18 @@
+{
+  "urn": "119229",
+  "name": "Eldon Primary School",
+  "address": "Eldon Street",
+  "locality": "",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR1 7YE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "353290",
+  "northing": "430876",
+  "url": "www.eldon.lancsngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

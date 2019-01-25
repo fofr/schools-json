@@ -1,0 +1,18 @@
+{
+  "urn": "139052",
+  "name": "Temple Grove Academy",
+  "address": "Friars Way",
+  "locality": "",
+  "address3": "",
+  "town": "Tunbridge Wells",
+  "county": "Kent",
+  "postcode": "TN2 3UA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "559898",
+  "northing": "140821",
+  "url": "http://www.templegroveacademy.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

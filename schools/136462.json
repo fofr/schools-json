@@ -1,0 +1,18 @@
+{
+  "urn": "136462",
+  "name": "Ossett Academy and Sixth Form College",
+  "address": "Storrs Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ossett",
+  "county": "West Yorkshire",
+  "postcode": "WF5 0DG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "428018",
+  "northing": "419303",
+  "url": "www.ossettacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "126901",
+  "name": "Highgate Infant School",
+  "address": "Storey Road",
+  "locality": "North Hill",
+  "address3": "Highgate",
+  "town": "London",
+  "county": "",
+  "postcode": "N6 4ED",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "527936",
+  "northing": "188318",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

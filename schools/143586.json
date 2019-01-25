@@ -1,0 +1,18 @@
+{
+  "urn": "143586",
+  "name": "Stamford Bridge Primary School",
+  "address": "Church Road",
+  "locality": "Stamford Bridge",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO41 1BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "471392",
+  "northing": "455396",
+  "url": "http://www.stamfordbridgeschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

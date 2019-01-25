@@ -1,0 +1,18 @@
+{
+  "urn": "134675",
+  "name": "Hounslow PRU (EOTAS)",
+  "address": "24 Wood Lane",
+  "locality": "Isleworth",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW7 5ED",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "515798",
+  "northing": "176712",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

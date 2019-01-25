@@ -1,0 +1,18 @@
+{
+  "urn": "121903",
+  "name": "Danesholme Infant School",
+  "address": "Motala Close",
+  "locality": "",
+  "address3": "",
+  "town": "Corby",
+  "county": "Northamptonshire",
+  "postcode": "NN18 9DT",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "486133",
+  "northing": "286724",
+  "url": "http://www.danesholmeinfants.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

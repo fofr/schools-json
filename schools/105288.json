@@ -1,0 +1,18 @@
+{
+  "urn": "105288",
+  "name": "Brandlesholme Primary School",
+  "address": "Brandlesholme Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL8 1HS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "379316",
+  "northing": "412539",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

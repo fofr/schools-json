@@ -1,0 +1,18 @@
+{
+  "urn": "137697",
+  "name": "Coppice Primary School",
+  "address": "Shawhurst Lane",
+  "locality": "Hollywood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B47 5JN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "408408",
+  "northing": "276859",
+  "url": "http://www.coppice.worcs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

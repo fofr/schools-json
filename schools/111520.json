@@ -1,0 +1,18 @@
+{
+  "urn": "111520",
+  "name": "Archway",
+  "address": "Normanby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "Teesside",
+  "postcode": "TS6 9AD",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "454070",
+  "northing": "519609",
+  "url": "http://www.archwayinfo.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

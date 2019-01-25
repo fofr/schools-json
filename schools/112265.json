@@ -1,0 +1,18 @@
+{
+  "urn": "112265",
+  "name": "Storth CofE School",
+  "address": "Storth Road",
+  "locality": "Storth",
+  "address3": "",
+  "town": "Milnthorpe",
+  "county": "Cumbria",
+  "postcode": "LA7 7JA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "347539",
+  "northing": "480185",
+  "url": "http://www.storth.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

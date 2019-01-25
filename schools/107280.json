@@ -1,0 +1,18 @@
+{
+  "urn": "107280",
+  "name": "Glenaire Primary School",
+  "address": "Thompson Lane",
+  "locality": "Baildon",
+  "address3": "",
+  "town": "Shipley",
+  "county": "West Yorkshire",
+  "postcode": "BD17 7LY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "414168",
+  "northing": "438535",
+  "url": "www.glenaireprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

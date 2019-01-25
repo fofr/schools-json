@@ -1,0 +1,18 @@
+{
+  "urn": "113977",
+  "name": "Langley Moor Nursery School",
+  "address": "Brandon Lane",
+  "locality": "Langley Moor",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH7 8LL",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "425111",
+  "northing": "540600",
+  "url": "langleymoornursery.durham.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

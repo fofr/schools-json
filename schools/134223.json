@@ -1,0 +1,18 @@
+{
+  "urn": "134223",
+  "name": "The King's Academy",
+  "address": "Stainton Way",
+  "locality": "Coulby Newham",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS8 0GA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "450467",
+  "northing": "514591",
+  "url": "http://www.thekingsacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

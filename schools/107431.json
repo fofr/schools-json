@@ -1,0 +1,18 @@
+{
+  "urn": "107431",
+  "name": "Killinghall Primary School",
+  "address": "Killinghall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD3 7JF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "418313",
+  "northing": "433994",
+  "url": "www.killinghall.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116652",
+  "name": "Beoley First School",
+  "address": "Beoley Lane",
+  "locality": "Beoley",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B98 9AN",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "407201",
+  "northing": "269559",
+  "url": "http://www.beoleyfirst.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

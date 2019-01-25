@@ -1,0 +1,18 @@
+{
+  "urn": "112040",
+  "name": "saltash.net community school",
+  "address": "Wearde Road",
+  "locality": "",
+  "address3": "",
+  "town": "Saltash",
+  "county": "Cornwall",
+  "postcode": "PL12 4AY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "242302",
+  "northing": "58163",
+  "url": "http://www.saltash.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

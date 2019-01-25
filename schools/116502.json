@@ -1,0 +1,18 @@
+{
+  "urn": "116502",
+  "name": "Testbourne Community School",
+  "address": "Micheldever Road",
+  "locality": "",
+  "address3": "",
+  "town": "Whitchurch",
+  "county": "Hampshire",
+  "postcode": "RG28 7JF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "446523",
+  "northing": "147577",
+  "url": "http://www.testbourne.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

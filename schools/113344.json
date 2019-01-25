@@ -1,0 +1,18 @@
+{
+  "urn": "113344",
+  "name": "Prince Rock Primary School",
+  "address": "Embankment Road",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL4 9JF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "249619",
+  "northing": "54520",
+  "url": "http://www.princerock.plymouth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

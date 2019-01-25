@@ -1,0 +1,18 @@
+{
+  "urn": "138023",
+  "name": "Coundon Court",
+  "address": "Northbrook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 2AJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "431134",
+  "northing": "281405",
+  "url": "http://www.coundoncourt.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127085",
+  "name": "Hill Farm Infant School",
+  "address": "Foster Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 3BL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "432455",
+  "northing": "281251",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

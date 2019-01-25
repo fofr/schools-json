@@ -1,0 +1,18 @@
+{
+  "urn": "101508",
+  "name": "Northview Junior and Infant School",
+  "address": "Northview Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW10 1RD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521591",
+  "northing": "185552",
+  "url": "www.northview.brent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107066",
+  "name": "Bankwood Community Primary School",
+  "address": "Bankwood Close",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S14 1LW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "436664",
+  "northing": "384113",
+  "url": "http://www.bankwood.sheffield.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139666",
+  "name": "Devon Studio School",
+  "address": "187 Newton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Torquay",
+  "county": "Devon",
+  "postcode": "TQ2 7FT",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "289688",
+  "northing": "66293",
+  "url": "http://www.devonstudioschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

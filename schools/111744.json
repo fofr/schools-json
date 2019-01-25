@@ -1,0 +1,18 @@
+{
+  "urn": "111744",
+  "name": "De Brus School",
+  "address": "Marske Lane",
+  "locality": "Skelton",
+  "address3": "",
+  "town": "Saltburn-By-the-Sea",
+  "county": "",
+  "postcode": "TS12 2HA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "465432",
+  "northing": "519140",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110247",
+  "name": "Prestwood Infant School",
+  "address": "Moat Lane",
+  "locality": "Prestwood",
+  "address3": "",
+  "town": "Great Missenden",
+  "county": "Buckinghamshire",
+  "postcode": "HP16 9DF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "487199",
+  "northing": "201195",
+  "url": "www.prestwoodinfants.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

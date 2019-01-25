@@ -1,0 +1,18 @@
+{
+  "urn": "138601",
+  "name": "Hull Studio School",
+  "address": "Hull College Campus",
+  "locality": "Queen's Gardens",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU1 3DG",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "510089",
+  "northing": "429086",
+  "url": "www.hullstudioschool.co.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

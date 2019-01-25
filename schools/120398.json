@@ -1,0 +1,18 @@
+{
+  "urn": "120398",
+  "name": "Market Deeping Community Primary School",
+  "address": "Willoughby Avenue",
+  "locality": "Market Deeping",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Lincolnshire",
+  "postcode": "PE6 8JE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "514182",
+  "northing": "310529",
+  "url": "www.mdcp.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

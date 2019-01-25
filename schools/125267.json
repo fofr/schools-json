@@ -1,0 +1,18 @@
+{
+  "urn": "125267",
+  "name": "Sunbury Manor School",
+  "address": "Nursery Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sunbury-on-Thames",
+  "county": "Surrey",
+  "postcode": "TW16 6LF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "509903",
+  "northing": "169598",
+  "url": "http://www.sunburymanor.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

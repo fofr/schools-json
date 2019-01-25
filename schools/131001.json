@@ -1,0 +1,18 @@
+{
+  "urn": "131001",
+  "name": "Crawley Down Village CofE",
+  "address": "Hophurst Drive",
+  "locality": "Crawley Down",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH10 4XA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "534854",
+  "northing": "137908",
+  "url": "http://www.crawleydownschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

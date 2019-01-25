@@ -1,0 +1,18 @@
+{
+  "urn": "130415",
+  "name": "LeSoCo",
+  "address": "Lewisham Way",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE4 1UT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "537215",
+  "northing": "176209",
+  "url": "lesoco.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

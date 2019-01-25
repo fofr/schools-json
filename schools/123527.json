@@ -1,0 +1,18 @@
+{
+  "urn": "123527",
+  "name": "St George's Church of England Primary School",
+  "address": "London Road",
+  "locality": "St George's",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF2 9LJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370598",
+  "northing": "310585",
+  "url": "www.stgeorgescofe.education/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

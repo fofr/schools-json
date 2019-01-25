@@ -1,0 +1,18 @@
+{
+  "urn": "111146",
+  "name": "Underwood West Nursery and Infant School",
+  "address": "Newcastle Street",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 3LF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "369341",
+  "northing": "356531",
+  "url": "http://uwnis.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

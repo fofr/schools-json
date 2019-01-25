@@ -1,0 +1,18 @@
+{
+  "urn": "112120",
+  "name": "Plumpton School",
+  "address": "Plumpton",
+  "locality": "",
+  "address3": "",
+  "town": "Penrith",
+  "county": "Cumbria",
+  "postcode": "CA11 9PA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "349758",
+  "northing": "537119",
+  "url": "www.plumpton.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

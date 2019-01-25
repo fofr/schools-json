@@ -1,0 +1,18 @@
+{
+  "urn": "101993",
+  "name": "George Spicer Primary School",
+  "address": "Southbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "Middlesex",
+  "postcode": "EN1 1YF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533756",
+  "northing": "196492",
+  "url": "www.georgespicer.enfield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

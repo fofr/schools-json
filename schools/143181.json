@@ -1,0 +1,18 @@
+{
+  "urn": "143181",
+  "name": "Poolsbrook Primary Academy",
+  "address": "Cottage Close",
+  "locality": "Poolsbrook",
+  "address3": "Near Staveley",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S43 3LF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "444234",
+  "northing": "373426",
+  "url": "www.poolsbrook.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

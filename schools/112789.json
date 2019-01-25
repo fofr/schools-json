@@ -1,0 +1,18 @@
+{
+  "urn": "112789",
+  "name": "Herbert Strutt Primary School",
+  "address": "Thornhill Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Belper",
+  "county": "Derbyshire",
+  "postcode": "DE56 1SH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "435731",
+  "northing": "346665",
+  "url": "http://www.herbertstrutt.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

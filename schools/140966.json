@@ -1,0 +1,18 @@
+{
+  "urn": "140966",
+  "name": "Trinity Academy",
+  "address": "Brixton Hill",
+  "locality": "Brixton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW2 1QS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "530745",
+  "northing": "174734",
+  "url": "http://www.trinityacademylondon.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

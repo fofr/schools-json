@@ -1,0 +1,18 @@
+{
+  "urn": "121792",
+  "name": "Springfield Community Primary School",
+  "address": "Castlewood Road",
+  "locality": "",
+  "address3": "Hackney",
+  "town": "London",
+  "county": "",
+  "postcode": "N16 6DH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534184",
+  "northing": "188188",
+  "url": "www.springfield.hackney.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

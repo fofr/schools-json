@@ -1,0 +1,18 @@
+{
+  "urn": "137213",
+  "name": "Carre's Grammar School",
+  "address": "Northgate",
+  "locality": "",
+  "address3": "",
+  "town": "Sleaford",
+  "county": "Lincolnshire",
+  "postcode": "NG34 7DD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "506735",
+  "northing": "346217",
+  "url": "http://www.carres.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

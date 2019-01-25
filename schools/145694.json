@@ -1,0 +1,18 @@
+{
+  "urn": "145694",
+  "name": "Somerleyton Primary School",
+  "address": "The Green",
+  "locality": "Somerleyton",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR32 5PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "648526",
+  "northing": "297469",
+  "url": "www.somerleytonprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

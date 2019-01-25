@@ -1,0 +1,18 @@
+{
+  "urn": "140077",
+  "name": "The Grove Academy",
+  "address": "59 Grove Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG1 5EP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "430674",
+  "northing": "456219",
+  "url": "www.groveacademy.org.uk",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy alternative provision converter"
+}

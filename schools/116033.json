@@ -1,0 +1,18 @@
+{
+  "urn": "116033",
+  "name": "Park Gate Primary School",
+  "address": "Northmore Road",
+  "locality": "Park Gate",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO31 6LX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "451689",
+  "northing": "108020",
+  "url": "www.parkgateprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

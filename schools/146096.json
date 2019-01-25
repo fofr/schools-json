@@ -1,0 +1,18 @@
+{
+  "urn": "146096",
+  "name": "Eden Park Academy",
+  "address": "Forches Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX32 8EF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "257204",
+  "northing": "132739",
+  "url": "www.eden-park.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

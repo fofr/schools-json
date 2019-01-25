@@ -1,0 +1,18 @@
+{
+  "urn": "112942",
+  "name": "Hope Valley College",
+  "address": "Castleton Road",
+  "locality": "Hope",
+  "address3": "",
+  "town": "Hope Valley",
+  "county": "Derbyshire",
+  "postcode": "S33 6SD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "416729",
+  "northing": "383419",
+  "url": "http://www.hvcollege.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

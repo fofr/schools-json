@@ -1,0 +1,18 @@
+{
+  "urn": "144202",
+  "name": "Greenfields Primary School",
+  "address": "Hemsworth Way",
+  "locality": "Ellesmere Road",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 2AH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "349387",
+  "northing": "313982",
+  "url": "www.greenfields.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144027",
+  "name": "Rye Hills Academy",
+  "address": "Redcar Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Redcar",
+  "county": "North Yorkshire",
+  "postcode": "TS10 2HN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "460974",
+  "northing": "523578",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

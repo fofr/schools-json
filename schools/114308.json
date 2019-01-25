@@ -1,0 +1,18 @@
+{
+  "urn": "114308",
+  "name": "Belmont Community School",
+  "address": "Buckinghamshire Road",
+  "locality": "Belmont",
+  "address3": "",
+  "town": "Durham",
+  "county": "County Durham",
+  "postcode": "DH1 2QP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "430393",
+  "northing": "543509",
+  "url": "http://www.belmontschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

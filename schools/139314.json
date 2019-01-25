@@ -1,0 +1,18 @@
+{
+  "urn": "139314",
+  "name": "Monkton Infants' School",
+  "address": "St Simon Street",
+  "locality": "",
+  "address3": "",
+  "town": "South Shields",
+  "county": "Tyne and Wear",
+  "postcode": "NE34 9SD",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "435110",
+  "northing": "563527",
+  "url": "www.monktoninfants.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

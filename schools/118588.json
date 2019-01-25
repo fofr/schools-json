@@ -1,0 +1,18 @@
+{
+  "urn": "118588",
+  "name": "Coxheath Primary School",
+  "address": "Stockett Lane",
+  "locality": "Coxheath",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME17 4PS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "574377",
+  "northing": "151268",
+  "url": "www.coxheath.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

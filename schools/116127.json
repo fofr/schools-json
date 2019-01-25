@@ -1,0 +1,18 @@
+{
+  "urn": "116127",
+  "name": "Moorlands Primary School",
+  "address": "Kesteven Way",
+  "locality": "Bitterne",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO18 5RJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445544",
+  "northing": "114137",
+  "url": "http://www.moorlandsprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

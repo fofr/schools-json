@@ -1,0 +1,18 @@
+{
+  "urn": "103857",
+  "name": "The Coseley School",
+  "address": "Henne Drive",
+  "locality": "Coseley",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 9JW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "394014",
+  "northing": "294192",
+  "url": "http://www.coseley.dudley.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

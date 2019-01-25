@@ -1,0 +1,18 @@
+{
+  "urn": "120766",
+  "name": "King's Lynn Nursery School",
+  "address": "St James Park",
+  "locality": "London Road",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE30 5PT",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "562139",
+  "northing": "319842",
+  "url": "kingslynn-nur.norfolk.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119722",
+  "name": "Alder Grange School",
+  "address": "Calder Road",
+  "locality": "Rawtenstall",
+  "address3": "",
+  "town": "Rossendale",
+  "county": "Lancashire",
+  "postcode": "BB4 8HW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "381405",
+  "northing": "423593",
+  "url": "http://www.aldergrange.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

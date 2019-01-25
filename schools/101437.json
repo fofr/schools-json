@@ -1,0 +1,18 @@
+{
+  "urn": "101437",
+  "name": "Parkway Primary School",
+  "address": "Alsike Road",
+  "locality": "",
+  "address3": "",
+  "town": "Erith",
+  "county": "Kent",
+  "postcode": "DA18 4DP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548249",
+  "northing": "179254",
+  "url": "www.parkway.bexley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

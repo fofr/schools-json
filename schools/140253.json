@@ -1,0 +1,18 @@
+{
+  "urn": "140253",
+  "name": "Thornton Primary School",
+  "address": "Main Street",
+  "locality": "Thornton",
+  "address3": "",
+  "town": "Coalville",
+  "county": "Leicestershire",
+  "postcode": "LE67 1AH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "446425",
+  "northing": "307923",
+  "url": "www.thornton.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

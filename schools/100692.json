@@ -1,0 +1,18 @@
+{
+  "urn": "100692",
+  "name": "Launcelot Primary School",
+  "address": "Launcelot Road",
+  "locality": "Downham",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR1 5EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540149",
+  "northing": "171655",
+  "url": "www.launcelot.lewisham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

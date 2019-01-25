@@ -1,0 +1,18 @@
+{
+  "urn": "123534",
+  "name": "Baschurch CofE Primary School",
+  "address": "Eyton Lane",
+  "locality": "Baschurch",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY4 2AU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "342585",
+  "northing": "322117",
+  "url": "www.baschurchprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

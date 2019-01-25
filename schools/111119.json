@@ -1,0 +1,18 @@
+{
+  "urn": "111119",
+  "name": "Hartford Primary School",
+  "address": "Riddings Lane",
+  "locality": "Hartford",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 1NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "363618",
+  "northing": "371771",
+  "url": "www.hartfordprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

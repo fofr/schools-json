@@ -1,0 +1,18 @@
+{
+  "urn": "109452",
+  "name": "Flitwick Lower School",
+  "address": "Temple Way",
+  "locality": "Flitwick",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 1LU",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "503236",
+  "northing": "234629",
+  "url": "www.flitwick-lower-school.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

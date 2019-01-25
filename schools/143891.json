@@ -1,0 +1,18 @@
+{
+  "urn": "143891",
+  "name": "Marlborough Primary Academy",
+  "address": "Morice Square",
+  "locality": "Devonport",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 4NJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "245043",
+  "northing": "54857",
+  "url": "http://www.marlborough.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

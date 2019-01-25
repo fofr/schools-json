@@ -1,0 +1,18 @@
+{
+  "urn": "136491",
+  "name": "De Aston School",
+  "address": "Willingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Market Rasen",
+  "county": "Lincolnshire",
+  "postcode": "LN8 3RF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "511471",
+  "northing": "388708",
+  "url": "http://www.de-aston.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

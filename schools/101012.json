@@ -1,0 +1,18 @@
+{
+  "urn": "101012",
+  "name": "Honeywell Infant School",
+  "address": "Honeywell Road",
+  "locality": "Battersea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 6EF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "527750",
+  "northing": "174463",
+  "url": "www.honeywellschools.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

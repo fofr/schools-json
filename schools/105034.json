@@ -1,0 +1,18 @@
+{
+  "urn": "105034",
+  "name": "Gayton Primary School",
+  "address": "Gayton Road",
+  "locality": "Heswall",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH60 8PZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "327077",
+  "northing": "380763",
+  "url": "www.gayton.wirral.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

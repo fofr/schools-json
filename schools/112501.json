@@ -1,0 +1,18 @@
+{
+  "urn": "112501",
+  "name": "Ashover Primary School",
+  "address": "Narrowleys Lane",
+  "locality": "Ashover",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S45 0AU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "434766",
+  "northing": "363386",
+  "url": "www.ashover.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

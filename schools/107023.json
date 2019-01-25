@@ -1,0 +1,18 @@
+{
+  "urn": "107023",
+  "name": "Woodhouse West Primary School",
+  "address": "Coisley Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S13 7BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "441036",
+  "northing": "384617",
+  "url": "http://www.woodhousewest.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

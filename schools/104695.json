@@ -1,0 +1,18 @@
+{
+  "urn": "104695",
+  "name": "Croxteth Community Comprehensive School",
+  "address": "Parkstile Lane",
+  "locality": "Croxteth",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L11 0BD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "340207",
+  "northing": "396070",
+  "url": "http://www.croxteth-comp.liverpool.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

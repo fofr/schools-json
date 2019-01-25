@@ -1,0 +1,18 @@
+{
+  "urn": "110792",
+  "name": "Milton CofE VC Primary School",
+  "address": "Humphries Way",
+  "locality": "Milton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 6DL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "547506",
+  "northing": "262926",
+  "url": "http://www.milton.cambs.sch.uk/website",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

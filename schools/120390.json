@@ -1,0 +1,18 @@
+{
+  "urn": "120390",
+  "name": "Thurlby Community Primary School",
+  "address": "Crown Lane",
+  "locality": "Thurlby",
+  "address3": "",
+  "town": "Bourne",
+  "county": "Lincolnshire",
+  "postcode": "PE10 0EZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "509512",
+  "northing": "317101",
+  "url": "www.thurlby.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

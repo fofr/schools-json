@@ -1,0 +1,18 @@
+{
+  "urn": "102009",
+  "name": "Highfield Infant School",
+  "address": "Highfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N21 3HE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "532041",
+  "northing": "194019",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100052",
+  "name": "Hampstead School",
+  "address": "Westbere Road",
+  "locality": "Hampstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW2 3RT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "524402",
+  "northing": "185633",
+  "url": "http://www.hampsteadschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

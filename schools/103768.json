@@ -1,0 +1,18 @@
+{
+  "urn": "103768",
+  "name": "Education Counselling Group",
+  "address": "Beechwood House",
+  "locality": "Beechwood Road",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY2 7QA",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "395372",
+  "northing": "290391",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

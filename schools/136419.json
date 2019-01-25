@@ -1,0 +1,18 @@
+{
+  "urn": "136419",
+  "name": "Dr Challoner's Grammar School",
+  "address": "Chesham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Amersham",
+  "county": "Buckinghamshire",
+  "postcode": "HP6 5HA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "496221",
+  "northing": "198411",
+  "url": "www.challoners.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

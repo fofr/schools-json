@@ -1,0 +1,18 @@
+{
+  "urn": "104955",
+  "name": "Greenbank High School",
+  "address": "Hastings Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR8 2LT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "332124",
+  "northing": "414485",
+  "url": "http://www.greenbank.sefton.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

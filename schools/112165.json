@@ -1,0 +1,18 @@
+{
+  "urn": "112165",
+  "name": "Thornhill Primary School",
+  "address": "Ehen Road",
+  "locality": "Thornhill",
+  "address3": "",
+  "town": "Egremont",
+  "county": "Cumbria",
+  "postcode": "CA22 2SJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "301141",
+  "northing": "508716",
+  "url": "www.thornhill.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

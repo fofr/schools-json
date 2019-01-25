@@ -1,0 +1,18 @@
+{
+  "urn": "135852",
+  "name": "Mayflower Community School",
+  "address": "41 Ham Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL2 2NJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "246114",
+  "northing": "57322",
+  "url": "http://www.mayflower-school.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

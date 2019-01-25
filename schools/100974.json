@@ -1,0 +1,18 @@
+{
+  "urn": "100974",
+  "name": "George Green's School",
+  "address": "100 Manchester Road",
+  "locality": "Isle of Dogs",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 3DW",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "538426",
+  "northing": "178457",
+  "url": "http://www.georgegreens.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

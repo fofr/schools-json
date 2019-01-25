@@ -1,0 +1,18 @@
+{
+  "urn": "104428",
+  "name": "Cherryfield Primary School",
+  "address": "Rockford Avenue",
+  "locality": "Southdene",
+  "address3": "Kirkby",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L32 3YE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "341443",
+  "northing": "397426",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

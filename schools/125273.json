@@ -1,0 +1,18 @@
+{
+  "urn": "125273",
+  "name": "Oakwood School",
+  "address": "Balcombe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Horley",
+  "county": "Surrey",
+  "postcode": "RH6 9AE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "529037",
+  "northing": "143173",
+  "url": "http://www.oakwood.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

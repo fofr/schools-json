@@ -1,0 +1,18 @@
+{
+  "urn": "124800",
+  "name": "Parkway Middle School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Haverhill",
+  "county": "Suffolk",
+  "postcode": "CB9 7YD",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "565839",
+  "northing": "245968",
+  "url": "",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103103",
+  "name": "Walthamstow School for Girls",
+  "address": "Church Hill",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 9RZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "537693",
+  "northing": "189250",
+  "url": "www.wsfg.waltham.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

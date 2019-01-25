@@ -1,0 +1,18 @@
+{
+  "urn": "124986",
+  "name": "Dormansland Primary School",
+  "address": "Clinton Hill",
+  "locality": "Dormansland",
+  "address3": "",
+  "town": "Lingfield",
+  "county": "Surrey",
+  "postcode": "RH7 6PE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "540518",
+  "northing": "142013",
+  "url": "http://www.dormansland.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

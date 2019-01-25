@@ -1,0 +1,18 @@
+{
+  "urn": "137085",
+  "name": "Carlton Academy",
+  "address": "Coningswath Road",
+  "locality": "Carlton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 3SH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "460332",
+  "northing": "342335",
+  "url": "http://www.theacademycarlton.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

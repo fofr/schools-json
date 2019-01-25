@@ -1,0 +1,18 @@
+{
+  "urn": "118116",
+  "name": "Beverley Grammar School",
+  "address": "Queensgate",
+  "locality": "",
+  "address3": "",
+  "town": "Beverley",
+  "county": "",
+  "postcode": "HU17 8NF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "502780",
+  "northing": "438617",
+  "url": "http://www.bgs.eril.net/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

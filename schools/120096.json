@@ -1,0 +1,18 @@
+{
+  "urn": "120096",
+  "name": "Woodcote Primary School",
+  "address": "Willowbrook Close",
+  "locality": "",
+  "address3": "",
+  "town": "Ashby-de-la-Zouch",
+  "county": "Leicestershire",
+  "postcode": "LE65 1JX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "435791",
+  "northing": "317456",
+  "url": "http://www.woodcoteprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

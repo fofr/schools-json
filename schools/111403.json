@@ -1,0 +1,18 @@
+{
+  "urn": "111403",
+  "name": "Ryles Park High School",
+  "address": "Ryles Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 8AJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "391124",
+  "northing": "372569",
+  "url": "www.rylespark.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

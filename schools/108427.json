@@ -1,0 +1,18 @@
+{
+  "urn": "108427",
+  "name": "Ashfield Nursery School",
+  "address": "101 Elswick Road",
+  "locality": "Elswick",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 6JR",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "423394",
+  "northing": "563891",
+  "url": "www.ashfield.newcastle.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

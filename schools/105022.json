@@ -1,0 +1,18 @@
+{
+  "urn": "105022",
+  "name": "Greasby Infant School",
+  "address": "Barker Lane",
+  "locality": "Greasby",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH49 3NX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "325470",
+  "northing": "386918",
+  "url": "www.greasby-infant.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

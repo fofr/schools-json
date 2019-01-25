@@ -1,0 +1,18 @@
+{
+  "urn": "124110",
+  "name": "Hassell Primary School",
+  "address": "Barracks Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 1LF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "385093",
+  "northing": "345914",
+  "url": "www.hassellschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

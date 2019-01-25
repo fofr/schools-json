@@ -1,0 +1,18 @@
+{
+  "urn": "135952",
+  "name": "The Canterbury Centre",
+  "address": "Canterbury Gardens",
+  "locality": "640 Eccles New Road",
+  "address3": "Eccles",
+  "town": "Salford, Greater Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M5 5AG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "378213",
+  "northing": "398711",
+  "url": "www.salfordpru.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

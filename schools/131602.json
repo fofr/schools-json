@@ -1,0 +1,18 @@
+{
+  "urn": "131602",
+  "name": "The Brook School",
+  "address": "Salterns Road",
+  "locality": "Maidenbower",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH10 7JE",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "529264",
+  "northing": "135430",
+  "url": "http://www.brook.w-sussex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103162",
+  "name": "Barford Primary School",
+  "address": "Barford Road",
+  "locality": "Ladywood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B16 0EF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404517",
+  "northing": "287394",
+  "url": "www.barfordprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

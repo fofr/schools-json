@@ -1,0 +1,18 @@
+{
+  "urn": "142088",
+  "name": "Pleckgate High School",
+  "address": "Pleckgate Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB1 8QA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "367911",
+  "northing": "430283",
+  "url": "www.pleckgate.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

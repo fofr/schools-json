@@ -1,0 +1,18 @@
+{
+  "urn": "126563",
+  "name": "The Gainsborough Nursery School",
+  "address": "North Marsh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gainsborough",
+  "county": "Lincolnshire",
+  "postcode": "DN21 2RR",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "481173",
+  "northing": "390991",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

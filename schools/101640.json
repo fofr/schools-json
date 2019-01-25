@@ -1,0 +1,18 @@
+{
+  "urn": "101640",
+  "name": "Perry Hall Primary School",
+  "address": "Perry Hall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR6 0EF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "545845",
+  "northing": "167071",
+  "url": "http://www.perryhall.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116339",
+  "name": "Bitterne CE Primary School",
+  "address": "Brownlow Avenue",
+  "locality": "Bitterne",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 7BX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "444929",
+  "northing": "112864",
+  "url": "www.bitterneceprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

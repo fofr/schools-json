@@ -1,0 +1,18 @@
+{
+  "urn": "117549",
+  "name": "Birchwood High School",
+  "address": "Parsonage Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bishop's Stortford",
+  "county": "Hertfordshire",
+  "postcode": "CM23 5BD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "550326",
+  "northing": "221778",
+  "url": "http://www.birchwood.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

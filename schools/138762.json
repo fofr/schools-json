@@ -1,0 +1,18 @@
+{
+  "urn": "138762",
+  "name": "St Birinus School",
+  "address": "Mereland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 8AZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "452608",
+  "northing": "189451",
+  "url": "http://www.st-birinus-school.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

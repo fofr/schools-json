@@ -1,0 +1,18 @@
+{
+  "urn": "114376",
+  "name": "Stanford Junior School",
+  "address": "Stanford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN1 5PR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "530530",
+  "northing": "105671",
+  "url": "http://www.stanfordjun.brighton-hove.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

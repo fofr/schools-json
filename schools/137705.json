@@ -1,0 +1,18 @@
+{
+  "urn": "137705",
+  "name": "Beacon Hill Academy",
+  "address": "High Arcal Drive",
+  "locality": "Sedgley",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY3 1BP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "392651",
+  "northing": "292845",
+  "url": "http://www.beaconhillacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

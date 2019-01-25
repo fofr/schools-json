@@ -1,0 +1,18 @@
+{
+  "urn": "100950",
+  "name": "St Anne's Catholic Primary School",
+  "address": "Underwood Road",
+  "locality": "Whitechapel",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E1 5AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534143",
+  "northing": "182018",
+  "url": "www.stannesschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

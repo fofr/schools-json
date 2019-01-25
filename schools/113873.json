@@ -1,0 +1,18 @@
+{
+  "urn": "113873",
+  "name": "Twynham School",
+  "address": "Sopers Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Christchurch",
+  "county": "Dorset",
+  "postcode": "BH23 1JF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "415417",
+  "northing": "92667",
+  "url": "http://www.twynhamschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

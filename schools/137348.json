@@ -1,0 +1,18 @@
+{
+  "urn": "137348",
+  "name": "Great Smeaton Academy Primary School",
+  "address": "Great Smeaton",
+  "locality": "",
+  "address3": "",
+  "town": "Northallerton",
+  "county": "North Yorkshire",
+  "postcode": "DL6 2EQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "434804",
+  "northing": "504345",
+  "url": "http://www.greatsmeatonschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

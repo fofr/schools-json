@@ -1,0 +1,18 @@
+{
+  "urn": "114127",
+  "name": "Sherburn Primary School",
+  "address": "Cookshold Lane",
+  "locality": "Sherburn Village",
+  "address3": "",
+  "town": "Durham",
+  "county": "County Durham",
+  "postcode": "DH6 1DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "432108",
+  "northing": "542616",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

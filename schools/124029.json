@@ -1,0 +1,18 @@
+{
+  "urn": "124029",
+  "name": "Park Hall Primary School",
+  "address": "Carberry Way",
+  "locality": "Weston Coyney",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 5QU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393175",
+  "northing": "343729",
+  "url": "www.parkhallprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

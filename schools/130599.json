@@ -1,0 +1,18 @@
+{
+  "urn": "130599",
+  "name": "Barnfield College",
+  "address": "New Bedford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU2 7BF",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "508662",
+  "northing": "224231",
+  "url": "www.barnfield.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

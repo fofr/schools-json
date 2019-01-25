@@ -1,0 +1,18 @@
+{
+  "urn": "141652",
+  "name": "Oasis Academy Brislington",
+  "address": "Hungerford Road",
+  "locality": "Brislington",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS4 5EY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "362563",
+  "northing": "169780",
+  "url": "http://www.oasisacademybrislington.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

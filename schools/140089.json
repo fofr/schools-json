@@ -1,0 +1,18 @@
+{
+  "urn": "140089",
+  "name": "River Beach Primary School",
+  "address": "York Road",
+  "locality": "",
+  "address3": "",
+  "town": "Littlehampton",
+  "county": "West Sussex",
+  "postcode": "BN17 6EW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "502755",
+  "northing": "102389",
+  "url": "www.riverbeach.w-sussex.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

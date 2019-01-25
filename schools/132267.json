@@ -1,0 +1,18 @@
+{
+  "urn": "132267",
+  "name": "Temple Mill Primary School",
+  "address": "Cliffe Road",
+  "locality": "Strood",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 3NL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "573642",
+  "northing": "170455",
+  "url": "http://templemill.gear.host/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

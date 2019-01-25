@@ -1,0 +1,18 @@
+{
+  "urn": "123285",
+  "name": "Shiplake College",
+  "address": "Shiplake Court",
+  "locality": "Shiplake",
+  "address3": "",
+  "town": "Henley-on-Thames",
+  "county": "Oxfordshire",
+  "postcode": "RG9 4BW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "476870",
+  "northing": "178274",
+  "url": "www.shiplake.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

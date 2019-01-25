@@ -1,0 +1,18 @@
+{
+  "urn": "137012",
+  "name": "Newport Community School Primary Academy",
+  "address": "Landkey Road",
+  "locality": "Newport",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX32 9BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "256968",
+  "northing": "132178",
+  "url": "www.newportprimary.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

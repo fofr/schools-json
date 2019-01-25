@@ -1,0 +1,18 @@
+{
+  "urn": "109713",
+  "name": "Stopsley High School",
+  "address": "St Thomas's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU2 7UX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "509756",
+  "northing": "223758",
+  "url": "http://www.stopsleyhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

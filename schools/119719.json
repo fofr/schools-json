@@ -1,0 +1,18 @@
+{
+  "urn": "119719",
+  "name": "Colne Park High School",
+  "address": "Venables Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Colne",
+  "county": "Lancashire",
+  "postcode": "BB8 7DP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "389866",
+  "northing": "440871",
+  "url": "http://www.park-high.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

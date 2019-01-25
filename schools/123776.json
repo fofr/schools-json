@@ -1,0 +1,18 @@
+{
+  "urn": "123776",
+  "name": "Walton Church of England Voluntary Controlled Primary School",
+  "address": "Meadow Lane",
+  "locality": "Walton",
+  "address3": "",
+  "town": "Street",
+  "county": "Somerset",
+  "postcode": "BA16 9LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "346291",
+  "northing": "136419",
+  "url": "http://www.waltonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

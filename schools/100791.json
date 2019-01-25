@@ -1,0 +1,18 @@
+{
+  "urn": "100791",
+  "name": "Grange Primary School",
+  "address": "Webb Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE1 4RP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533244",
+  "northing": "179211",
+  "url": "www.grange.southwark.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

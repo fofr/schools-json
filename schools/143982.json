@@ -1,0 +1,18 @@
+{
+  "urn": "143982",
+  "name": "Holycroft Primary School",
+  "address": "Victoria Road",
+  "locality": "",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD21 1JF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405595",
+  "northing": "440619",
+  "url": "http://www.holycroftprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

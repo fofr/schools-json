@@ -1,0 +1,18 @@
+{
+  "urn": "107103",
+  "name": "Windmill Hill Primary School",
+  "address": "Ash View",
+  "locality": "Chapeltown",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S35 1ZD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "434594",
+  "northing": "395839",
+  "url": "http://windmillhill.sheffield.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120468",
+  "name": "Normanby Primary School",
+  "address": "Main Street",
+  "locality": "Normanby-by-Spital",
+  "address3": "",
+  "town": "Market Rasen",
+  "county": "Lincolnshire",
+  "postcode": "LN8 2HE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "500095",
+  "northing": "387997",
+  "url": "www.normanbyprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

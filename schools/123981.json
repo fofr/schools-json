@@ -1,0 +1,18 @@
+{
+  "urn": "123981",
+  "name": "Hill Top Primary School",
+  "address": "Greenhead Street",
+  "locality": "Burslem",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 4AF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386602",
+  "northing": "349990",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

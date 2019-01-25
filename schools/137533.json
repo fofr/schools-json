@@ -1,0 +1,18 @@
+{
+  "urn": "137533",
+  "name": "Deyes High School",
+  "address": "Deyes Lane",
+  "locality": "Maghull",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L31 6DE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "337737",
+  "northing": "402355",
+  "url": "http://www.deyeshigh.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

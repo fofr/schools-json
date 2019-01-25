@@ -1,0 +1,18 @@
+{
+  "urn": "131727",
+  "name": "Middlewich Primary School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Middlewich",
+  "county": "Cheshire",
+  "postcode": "CW10 9BS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "369966",
+  "northing": "366060",
+  "url": "www.middlewichprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

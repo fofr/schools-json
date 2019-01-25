@@ -1,0 +1,18 @@
+{
+  "urn": "139714",
+  "name": "The Portsmouth Academy",
+  "address": "St Mary's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO1 5PF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "465276",
+  "northing": "100930",
+  "url": "http://www.pafg.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

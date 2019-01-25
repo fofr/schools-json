@@ -1,0 +1,18 @@
+{
+  "urn": "124911",
+  "name": "Chertsey Nursery School",
+  "address": "Pyrcroft Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chertsey",
+  "county": "Surrey",
+  "postcode": "KT16 9ER",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "503346",
+  "northing": "166818",
+  "url": "www.chertsey.surrey.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

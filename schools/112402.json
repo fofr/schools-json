@@ -1,0 +1,18 @@
+{
+  "urn": "112402",
+  "name": "Hayton CofE Primary School",
+  "address": "Hayton",
+  "locality": "",
+  "address3": "",
+  "town": "Brampton",
+  "county": "Cumbria",
+  "postcode": "CA8 9HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "350743",
+  "northing": "557711",
+  "url": "www.hayton.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

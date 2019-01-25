@@ -1,0 +1,18 @@
+{
+  "urn": "120090",
+  "name": "Forest Lodge Community Primary School",
+  "address": "Charnor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 6LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455406",
+  "northing": "305584",
+  "url": "www.forestlodge.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

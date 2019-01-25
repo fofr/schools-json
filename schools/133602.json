@@ -1,0 +1,18 @@
+{
+  "urn": "133602",
+  "name": "Leigham Primary School",
+  "address": "Cockington Close",
+  "locality": "Leigham",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 8RF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "251170",
+  "northing": "58265",
+  "url": "http://www.leigham-primary.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

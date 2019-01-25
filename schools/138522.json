@@ -1,0 +1,18 @@
+{
+  "urn": "138522",
+  "name": "Ralph Allen School",
+  "address": "Claverton Down Road",
+  "locality": "Combe Down",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA2 7AD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "377183",
+  "northing": "162765",
+  "url": "http://www.ralphallenschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

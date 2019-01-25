@@ -1,0 +1,18 @@
+{
+  "urn": "105464",
+  "name": "Woodhouse Park Primary School",
+  "address": "Rossett Avenue",
+  "locality": "Lornishway",
+  "address3": "Wythenshawe",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M22 0WW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382650",
+  "northing": "386029",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

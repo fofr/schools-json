@@ -1,0 +1,18 @@
+{
+  "urn": "112038",
+  "name": "Treviglas Community College",
+  "address": "Bradley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newquay",
+  "county": "Cornwall",
+  "postcode": "TR7 3JA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "183517",
+  "northing": "62214",
+  "url": "http://treviglas.net/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

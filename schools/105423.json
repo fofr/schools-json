@@ -1,0 +1,18 @@
+{
+  "urn": "105423",
+  "name": "Ladybarn Primary School",
+  "address": "Briarfield Road",
+  "locality": "Withington",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M20 4SR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385923",
+  "northing": "392657",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

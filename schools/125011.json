@@ -1,0 +1,18 @@
+{
+  "urn": "125011",
+  "name": "The Raleigh School",
+  "address": "Northcote Crescent",
+  "locality": "West Horsley",
+  "address3": "",
+  "town": "Leatherhead",
+  "county": "Surrey",
+  "postcode": "KT24 6LX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "508427",
+  "northing": "154791",
+  "url": "http://www.raleigh.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

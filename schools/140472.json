@@ -1,0 +1,18 @@
+{
+  "urn": "140472",
+  "name": "Bishop Luffa School, Chichester",
+  "address": "Westgate",
+  "locality": "",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO19 3HP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "484727",
+  "northing": "105051",
+  "url": "http://www.bishopluffa.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131335",
+  "name": "Rosendale Primary School",
+  "address": "Rosendale Road",
+  "locality": "West Dulwich",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE21 8LR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532270",
+  "northing": "173625",
+  "url": "www.rosendale.cc/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

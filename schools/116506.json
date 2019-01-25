@@ -1,0 +1,18 @@
+{
+  "urn": "116506",
+  "name": "Purbrook Park School",
+  "address": "Park Avenue",
+  "locality": "Purbrook",
+  "address3": "",
+  "town": "Waterlooville",
+  "county": "Hampshire",
+  "postcode": "PO7 5DS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "467649",
+  "northing": "107195",
+  "url": "http://www.purbrookparkschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100926",
+  "name": "Virginia Primary School",
+  "address": "Virginia Road",
+  "locality": "Bethnal Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 7NQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533612",
+  "northing": "182593",
+  "url": "www.virginia.towerhamlets.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

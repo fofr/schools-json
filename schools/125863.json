@@ -1,0 +1,18 @@
+{
+  "urn": "125863",
+  "name": "Elm Grove Primary School, Worthing",
+  "address": "Elm Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Worthing",
+  "county": "West Sussex",
+  "postcode": "BN11 5LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "512703",
+  "northing": "103006",
+  "url": "http://www.elmgrove.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141075",
+  "name": "Loose Primary School",
+  "address": "Loose Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME15 9UW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "576115",
+  "northing": "152490",
+  "url": "www.loose-primary.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

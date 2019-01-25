@@ -1,0 +1,18 @@
+{
+  "urn": "116227",
+  "name": "Newbridge Junior School",
+  "address": "New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO2 7RW",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "465689",
+  "northing": "101485",
+  "url": "http://web.newbridge.portsmouth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

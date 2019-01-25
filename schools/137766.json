@@ -1,0 +1,18 @@
+{
+  "urn": "137766",
+  "name": "Campion School",
+  "address": "Sydenham Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Leamington Spa",
+  "county": "Warwickshire",
+  "postcode": "CV31 1QH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "433031",
+  "northing": "264229",
+  "url": "http://www.campion.warwickshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

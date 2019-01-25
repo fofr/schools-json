@@ -1,0 +1,18 @@
+{
+  "urn": "123359",
+  "name": "Church Preen Primary School",
+  "address": "Church Preen",
+  "locality": "",
+  "address3": "",
+  "town": "Nr Much Wenlock",
+  "county": "Shropshire",
+  "postcode": "SY6 7LH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "355445",
+  "northing": "297625",
+  "url": "www.churchpreenschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

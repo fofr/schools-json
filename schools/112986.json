@@ -1,0 +1,18 @@
+{
+  "urn": "112986",
+  "name": "The Ecclesbourne School",
+  "address": "Wirksworth Road",
+  "locality": "Duffield",
+  "address3": "",
+  "town": "Belper",
+  "county": "Derbyshire",
+  "postcode": "DE56 4GS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "434267",
+  "northing": "343283",
+  "url": "http://www.ecclesbourne.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

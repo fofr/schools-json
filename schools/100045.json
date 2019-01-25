@@ -1,0 +1,18 @@
+{
+  "urn": "100045",
+  "name": "St Patrick's Catholic Primary School",
+  "address": "Holmes Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW5 3AH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528861",
+  "northing": "185010",
+  "url": "http://www.stpatricks.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

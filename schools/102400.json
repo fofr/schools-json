@@ -1,0 +1,18 @@
+{
+  "urn": "102400",
+  "name": "Whiteheath Junior School",
+  "address": "Whiteheath Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Ruislip",
+  "county": "Middlesex",
+  "postcode": "HA4 7PR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "508248",
+  "northing": "187992",
+  "url": "http://www.whiteheath-jun.hillingdon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

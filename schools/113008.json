@@ -1,0 +1,18 @@
+{
+  "urn": "113008",
+  "name": "St Wystan's School",
+  "address": "High Street",
+  "locality": "Repton",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE65 6GE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "430459",
+  "northing": "326955",
+  "url": "www.stwystans.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

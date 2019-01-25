@@ -1,0 +1,18 @@
+{
+  "urn": "136486",
+  "name": "Town End Academy",
+  "address": "Borodin Avenue",
+  "locality": "Town End Farm",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR5 4NX",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "434739",
+  "northing": "559613",
+  "url": "townend.wiseacademies.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

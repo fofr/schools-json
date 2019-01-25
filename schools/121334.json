@@ -1,0 +1,18 @@
+{
+  "urn": "121334",
+  "name": "Colburn Community Primary School",
+  "address": "Colburn Lane",
+  "locality": "Colburn",
+  "address3": "",
+  "town": "Catterick Garrison",
+  "county": "North Yorkshire",
+  "postcode": "DL9 4LS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "420148",
+  "northing": "498294",
+  "url": "http://www.colburn.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141902",
+  "name": "Greenside Primary School",
+  "address": "Westville Road",
+  "locality": "Hammersmith",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W12 9PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522430",
+  "northing": "179776",
+  "url": "www.greensideschool.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130530",
+  "name": "Thomas Rotherham College",
+  "address": "Moorgate Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S60 2BE",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "443249",
+  "northing": "391620",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

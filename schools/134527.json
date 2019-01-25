@@ -1,0 +1,18 @@
+{
+  "urn": "134527",
+  "name": "Grange Primary School",
+  "address": "Holmleigh Road",
+  "locality": "Tuffley",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL4 0RW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "382243",
+  "northing": "215206",
+  "url": "www.grangeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101314",
+  "name": "Danegrove Primary School",
+  "address": "Windsor Drive",
+  "locality": "East Barnet",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN4 8UD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "527502",
+  "northing": "195470",
+  "url": "www.danegroveschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

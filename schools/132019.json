@@ -1,0 +1,18 @@
+{
+  "urn": "132019",
+  "name": "Leeds Pupil Referral Service",
+  "address": "Bramley Grange College",
+  "locality": "Skeltons Lane",
+  "address3": "Thorner",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS14 3DW",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "436959",
+  "northing": "438464",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

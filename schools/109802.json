@@ -1,0 +1,18 @@
+{
+  "urn": "109802",
+  "name": "Beenham Primary School",
+  "address": "Mount Pleasant",
+  "locality": "Beenham",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG7 5NN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458964",
+  "northing": "168867",
+  "url": "www.beenhamschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

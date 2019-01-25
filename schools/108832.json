@@ -1,0 +1,18 @@
+{
+  "urn": "108832",
+  "name": "Hylton Castle Primary School",
+  "address": "Caithness Road",
+  "locality": "Hylton Castle",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR5 3RE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434978",
+  "northing": "558924",
+  "url": "www.hyltoncastleprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115915",
+  "name": "Tiptoe Primary School",
+  "address": "Wootton Road",
+  "locality": "Tiptoe",
+  "address3": "",
+  "town": "Lymington",
+  "county": "Hampshire",
+  "postcode": "SO41 6FU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "425546",
+  "northing": "97880",
+  "url": "http://www.tiptoe.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

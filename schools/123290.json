@@ -1,0 +1,18 @@
+{
+  "urn": "123290",
+  "name": "Headington School",
+  "address": "Headington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 7TD",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "453825",
+  "northing": "206828",
+  "url": "www.headington.org",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

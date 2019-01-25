@@ -1,0 +1,18 @@
+{
+  "urn": "137453",
+  "name": "The Vale Academy",
+  "address": "Atherton Way",
+  "locality": "",
+  "address3": "",
+  "town": "Brigg",
+  "county": "Lincolnshire",
+  "postcode": "DN20 8AR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "499953",
+  "northing": "408008",
+  "url": "www.valeacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

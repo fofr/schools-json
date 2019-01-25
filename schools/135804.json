@@ -1,0 +1,18 @@
+{
+  "urn": "135804",
+  "name": "The Wellington Academy",
+  "address": "Tidworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ludgershall",
+  "county": "Wiltshire",
+  "postcode": "SP11 9RR",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "425265",
+  "northing": "150247",
+  "url": "http://www.thewellingtonacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

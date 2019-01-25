@@ -1,0 +1,18 @@
+{
+  "urn": "123526",
+  "name": "John Fletcher of Madeley Primary School",
+  "address": "Upper Road",
+  "locality": "Madeley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 5DL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "369342",
+  "northing": "303946",
+  "url": "http://www.johnfletcherofmadeley.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

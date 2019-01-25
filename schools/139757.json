@@ -1,0 +1,18 @@
+{
+  "urn": "139757",
+  "name": "Risdene Academy",
+  "address": "Newton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rushden",
+  "county": "Northamptonshire",
+  "postcode": "NN10 0HH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "496266",
+  "northing": "266631",
+  "url": "www.risdene-academy.net/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

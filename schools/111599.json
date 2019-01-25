@@ -1,0 +1,18 @@
+{
+  "urn": "111599",
+  "name": "Owton Manor Primary School",
+  "address": "Eskdale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS25 4BT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448809",
+  "northing": "529908",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

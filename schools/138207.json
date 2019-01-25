@@ -1,0 +1,18 @@
+{
+  "urn": "138207",
+  "name": "Denton West End Primary School",
+  "address": "Balmoral Drive",
+  "locality": "Denton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M34 2JX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390411",
+  "northing": "395344",
+  "url": "www.dweschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

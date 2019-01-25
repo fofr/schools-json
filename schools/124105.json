@@ -1,0 +1,18 @@
+{
+  "urn": "124105",
+  "name": "Green Lea First School",
+  "address": "Mill Lane",
+  "locality": "Milwich",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST18 0EU",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "397964",
+  "northing": "331748",
+  "url": "www.greenlea.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

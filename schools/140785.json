@@ -1,0 +1,18 @@
+{
+  "urn": "140785",
+  "name": "The Cathedral School of St Mary",
+  "address": "Cecil Street",
+  "locality": "Stonehouse",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 5HW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "247139",
+  "northing": "54806",
+  "url": "www.cathedral-school.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

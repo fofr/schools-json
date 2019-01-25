@@ -1,0 +1,18 @@
+{
+  "urn": "131106",
+  "name": "Kells Lane Primary School",
+  "address": "Kells Lane",
+  "locality": "Low Fell",
+  "address3": "",
+  "town": "Gateshead",
+  "county": "Tyne and Wear",
+  "postcode": "NE9 5HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "425930",
+  "northing": "560273",
+  "url": "www.kellslaneschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

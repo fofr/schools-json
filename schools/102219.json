@@ -1,0 +1,18 @@
+{
+  "urn": "102219",
+  "name": "Earlsmead Primary School",
+  "address": "Arundel Drive",
+  "locality": "South Harrow",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA2 8PW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "512872",
+  "northing": "185623",
+  "url": "www.earlsmeadprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

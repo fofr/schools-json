@@ -1,0 +1,18 @@
+{
+  "urn": "145680",
+  "name": "Charnwood Primary Academy",
+  "address": "Purcell Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Lichfield",
+  "county": "Staffordshire",
+  "postcode": "WS13 7PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412217",
+  "northing": "310934",
+  "url": "www.charnwood.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

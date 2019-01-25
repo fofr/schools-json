@@ -1,0 +1,18 @@
+{
+  "urn": "113110",
+  "name": "Sidmouth Infants' School",
+  "address": "Manstone Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sidmouth",
+  "county": "Devon",
+  "postcode": "EX10 9TJ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "312511",
+  "northing": "89329",
+  "url": "http://www.sidmouth-infants.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

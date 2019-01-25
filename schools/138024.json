@@ -1,0 +1,18 @@
+{
+  "urn": "138024",
+  "name": "Wadebridge School",
+  "address": "Gonvena Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Wadebridge",
+  "county": "Cornwall",
+  "postcode": "PL27 6BU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "199538",
+  "northing": "72950",
+  "url": "http://www.wadebridge.cornwall.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

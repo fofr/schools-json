@@ -1,0 +1,18 @@
+{
+  "urn": "106587",
+  "name": "Springvale Primary School",
+  "address": "Sheffield Road",
+  "locality": "Penistone",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S36 6HJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425672",
+  "northing": "403014",
+  "url": "www.springvaleprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

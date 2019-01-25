@@ -1,0 +1,18 @@
+{
+  "urn": "137694",
+  "name": "Burnt Mill Academy",
+  "address": "First Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM20 2NR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "545528",
+  "northing": "210790",
+  "url": "http://www.burntmill.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

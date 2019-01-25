@@ -1,0 +1,18 @@
+{
+  "urn": "118820",
+  "name": "The Ramsgate School",
+  "address": "Stirling Way",
+  "locality": "",
+  "address3": "",
+  "town": "Ramsgate",
+  "county": "Kent",
+  "postcode": "CT12 6NB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "636470",
+  "northing": "166639",
+  "url": "http://atschool.eduweb.co.uk/ramsgate/index.html",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

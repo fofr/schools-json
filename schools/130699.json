@@ -1,0 +1,18 @@
+{
+  "urn": "130699",
+  "name": "Totton College (Part of Nacro)",
+  "address": "Water Lane",
+  "locality": "Totton",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO40 3ZX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "434675",
+  "northing": "113619",
+  "url": "www.totton.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

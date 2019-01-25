@@ -1,0 +1,18 @@
+{
+  "urn": "132165",
+  "name": "Kings Road Primary School",
+  "address": "Kings Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM1 2BB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "569957",
+  "northing": "207947",
+  "url": "www.kingsroad-pri.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

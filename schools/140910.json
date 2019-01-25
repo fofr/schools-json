@@ -1,0 +1,18 @@
+{
+  "urn": "140910",
+  "name": "Redmile Church of England Primary School",
+  "address": "Belvoir Road",
+  "locality": "Redmile",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG13 0GL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "479859",
+  "northing": "335392",
+  "url": "www.redmile.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

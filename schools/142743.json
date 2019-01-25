@@ -1,0 +1,18 @@
+{
+  "urn": "142743",
+  "name": "The Highway Primary School",
+  "address": "The Highway",
+  "locality": "",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR6 9DJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "547078",
+  "northing": "164431",
+  "url": "http://www.highway.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

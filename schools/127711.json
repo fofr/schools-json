@@ -1,0 +1,18 @@
+{
+  "urn": "127711",
+  "name": "Burncross Primary School",
+  "address": "Burncross Road",
+  "locality": "Chapeltown",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S35 1SH",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "434515",
+  "northing": "396247",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

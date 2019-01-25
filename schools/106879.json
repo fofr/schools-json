@@ -1,0 +1,18 @@
+{
+  "urn": "106879",
+  "name": "Swinton Queen Primary School",
+  "address": "Queen Street",
+  "locality": "Swinton",
+  "address3": "",
+  "town": "Mexborough",
+  "county": "South Yorkshire",
+  "postcode": "S64 8NE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445777",
+  "northing": "399397",
+  "url": "http://www.swintonqueenprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123003",
+  "name": "Kingham Primary School",
+  "address": "Kingham",
+  "locality": "",
+  "address3": "",
+  "town": "Chipping Norton",
+  "county": "Oxfordshire",
+  "postcode": "OX7 6YD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426229",
+  "northing": "224280",
+  "url": "http://www.kingham.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

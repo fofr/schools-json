@@ -1,0 +1,18 @@
+{
+  "urn": "109793",
+  "name": "Wilson Primary School",
+  "address": "Wilson Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG30 2RW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "469349",
+  "northing": "173534",
+  "url": "www.wilsonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

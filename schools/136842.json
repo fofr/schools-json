@@ -1,0 +1,18 @@
+{
+  "urn": "136842",
+  "name": "Walton High",
+  "address": "Fyfield Barrow",
+  "locality": "Walnut Tree",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK7 7WH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "490091",
+  "northing": "236608",
+  "url": "http://www.waltonhigh.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

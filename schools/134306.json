@@ -1,0 +1,18 @@
+{
+  "urn": "134306",
+  "name": "Hampton Vale Primary School",
+  "address": "Westlake Avenue",
+  "locality": "Hampton Vale",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 8LS",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "517146",
+  "northing": "294193",
+  "url": "www.hamptonvale.peterborough.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

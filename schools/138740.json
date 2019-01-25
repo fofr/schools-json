@@ -1,0 +1,18 @@
+{
+  "urn": "138740",
+  "name": "Old Basford School",
+  "address": "Percy Street",
+  "locality": "Old Basford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG6 0GF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454734",
+  "northing": "343063",
+  "url": "www.oldbasfordschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

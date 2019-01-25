@@ -1,0 +1,18 @@
+{
+  "urn": "124562",
+  "name": "Great Heath Primary School",
+  "address": "Girton Close",
+  "locality": "Mildenhall",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP28 7PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "571347",
+  "northing": "275665",
+  "url": "http://www.greatheath.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

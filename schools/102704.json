@@ -1,0 +1,18 @@
+{
+  "urn": "102704",
+  "name": "St Stephen's Nursery School",
+  "address": "Whitfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 1AS",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "541432",
+  "northing": "184051",
+  "url": "www.st-stephens-nurserychildrencentre.org.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

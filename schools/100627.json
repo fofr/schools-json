@@ -1,0 +1,18 @@
+{
+  "urn": "100627",
+  "name": "Saint Gabriel's College",
+  "address": "Langton Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW9 6UL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "531881",
+  "northing": "176931",
+  "url": "http://www.saintgabrielscollege.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

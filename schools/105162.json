@@ -1,0 +1,18 @@
+{
+  "urn": "105162",
+  "name": "Sharples Primary School",
+  "address": "Hugh Lupus Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "",
+  "postcode": "BL1 8RU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "372182",
+  "northing": "412297",
+  "url": "www.sharples-pri.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

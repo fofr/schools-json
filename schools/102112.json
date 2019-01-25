@@ -1,0 +1,18 @@
+{
+  "urn": "102112",
+  "name": "Stamford Hill Primary School",
+  "address": "Berkeley Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N15 6HD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "532881",
+  "northing": "188049",
+  "url": "www.stamfordhill.haringey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

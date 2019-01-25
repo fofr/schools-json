@@ -1,0 +1,18 @@
+{
+  "urn": "104017",
+  "name": "Langley High School",
+  "address": "Moat Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oldbury",
+  "county": "West Midlands",
+  "postcode": "B68 8ED",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "399969",
+  "northing": "287521",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

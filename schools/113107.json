@@ -1,0 +1,18 @@
+{
+  "urn": "113107",
+  "name": "Sandford School",
+  "address": "Sandford",
+  "locality": "",
+  "address3": "",
+  "town": "Crediton",
+  "county": "Devon",
+  "postcode": "EX17 4NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "282908",
+  "northing": "102574",
+  "url": "http://www.sandford-school.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

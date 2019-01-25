@@ -1,0 +1,18 @@
+{
+  "urn": "135960",
+  "name": "Ormiston Park Academy",
+  "address": "Nethan Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Aveley",
+  "county": "Essex",
+  "postcode": "RM15 4RU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "556573",
+  "northing": "180893",
+  "url": "http://www.ormistonpark.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

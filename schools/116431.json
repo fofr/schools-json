@@ -1,0 +1,18 @@
+{
+  "urn": "116431",
+  "name": "Harrow Way Community School",
+  "address": "Harrow Way",
+  "locality": "",
+  "address3": "",
+  "town": "Andover",
+  "county": "Hampshire",
+  "postcode": "SP10 3RH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "434923",
+  "northing": "146493",
+  "url": "http://www.harrowway.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

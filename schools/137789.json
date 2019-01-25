@@ -1,0 +1,18 @@
+{
+  "urn": "137789",
+  "name": "Mulberry Academy Shoreditch",
+  "address": "Gosset Street",
+  "locality": "Bethnal Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 6NW",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "534008",
+  "northing": "182708",
+  "url": "www.mulberryacademyshoreditch.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

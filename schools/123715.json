@@ -1,0 +1,18 @@
+{
+  "urn": "123715",
+  "name": "Lyngford Park Primary School",
+  "address": "Bircham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA2 8EX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "323785",
+  "northing": "126707",
+  "url": "www.lyngfordparkprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

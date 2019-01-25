@@ -1,0 +1,18 @@
+{
+  "urn": "100234",
+  "name": "Orchard Primary School",
+  "address": "Holcroft Road",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E9 7BB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535394",
+  "northing": "184242",
+  "url": "www.orchard.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125258",
+  "name": "The Magna Carta School",
+  "address": "Thorpe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Staines",
+  "county": "Surrey",
+  "postcode": "TW18 3HJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "502875",
+  "northing": "170901",
+  "url": "http://www.magnacarta.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

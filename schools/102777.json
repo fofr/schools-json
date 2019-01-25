@@ -1,0 +1,18 @@
+{
+  "urn": "102777",
+  "name": "Rokeby School",
+  "address": "Barking Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E16 4DD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "539951",
+  "northing": "181893",
+  "url": "http://www.rokeby.newham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

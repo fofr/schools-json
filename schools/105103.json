@@ -1,0 +1,18 @@
+{
+  "urn": "105103",
+  "name": "The Mosslands School",
+  "address": "Mosslands Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Wallasey",
+  "county": "Merseyside",
+  "postcode": "CH45 8PJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "329205",
+  "northing": "391851",
+  "url": "www.mosslands.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

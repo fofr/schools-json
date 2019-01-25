@@ -1,0 +1,18 @@
+{
+  "urn": "136786",
+  "name": "Studley High School",
+  "address": "Crooks Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Studley",
+  "county": "Warwickshire",
+  "postcode": "B80 7QX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "407039",
+  "northing": "263437",
+  "url": "http://studleyhighschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110369",
+  "name": "Bradwell Village School",
+  "address": "Walgrave Drive",
+  "locality": "Bradwell",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK13 9AZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "483547",
+  "northing": "239698",
+  "url": "http://www.bradwellvillageschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

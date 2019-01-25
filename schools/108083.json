@@ -1,0 +1,18 @@
+{
+  "urn": "108083",
+  "name": "Benton Park School",
+  "address": "Harrogate Road",
+  "locality": "Rawdon",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS19 6LX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "420918",
+  "northing": "440146",
+  "url": "http://www.bentonpark.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

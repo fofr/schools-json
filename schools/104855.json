@@ -1,0 +1,18 @@
+{
+  "urn": "104855",
+  "name": "Roberts Primary School",
+  "address": "Pennington Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bootle",
+  "county": "Merseyside",
+  "postcode": "L20 6JQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "335185",
+  "northing": "396945",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

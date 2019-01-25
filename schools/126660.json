@@ -1,0 +1,18 @@
+{
+  "urn": "126660",
+  "name": "Catford School",
+  "address": "Stainton Road",
+  "locality": "Catford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE6 1AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "538500",
+  "northing": "173700",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

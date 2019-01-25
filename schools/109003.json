@@ -1,0 +1,18 @@
+{
+  "urn": "109003",
+  "name": "Parkside Infant School",
+  "address": "Charlotte Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "",
+  "postcode": "BA1 2NE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "374595",
+  "northing": "165053",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

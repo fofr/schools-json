@@ -1,0 +1,18 @@
+{
+  "urn": "142788",
+  "name": "Woodford Primary School",
+  "address": "Litchaton Way",
+  "locality": "Plympton",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL7 4RR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "252680",
+  "northing": "56993",
+  "url": "http://www.woodfordprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

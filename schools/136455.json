@@ -1,0 +1,18 @@
+{
+  "urn": "136455",
+  "name": "Weald of Kent Grammar School",
+  "address": "Tudeley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN9 2JP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "559489",
+  "northing": "145217",
+  "url": "http://www.wealdgs.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

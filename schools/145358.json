@@ -1,0 +1,18 @@
+{
+  "urn": "145358",
+  "name": "Waddington All Saints Academy",
+  "address": "Mere Road",
+  "locality": "Waddington",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN5 9NX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "497895",
+  "northing": "364329",
+  "url": "www.all-saints.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

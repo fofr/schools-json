@@ -1,0 +1,18 @@
+{
+  "urn": "117504",
+  "name": "Fearnhill School",
+  "address": "Icknield Way West",
+  "locality": "",
+  "address3": "",
+  "town": "Letchworth",
+  "county": "Hertfordshire",
+  "postcode": "SG6 4BA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "520472",
+  "northing": "232327",
+  "url": "http://www.fearnhill.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

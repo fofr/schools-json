@@ -1,0 +1,18 @@
+{
+  "urn": "101810",
+  "name": "Addington High School",
+  "address": "Fairchildes Avenue",
+  "locality": "New Addington",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 0AH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "539321",
+  "northing": "161259",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

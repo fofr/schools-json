@@ -1,0 +1,18 @@
+{
+  "urn": "120177",
+  "name": "Empingham CofE Primary School",
+  "address": "School Lane",
+  "locality": "Empingham",
+  "address3": "",
+  "town": "Oakham",
+  "county": "Rutland",
+  "postcode": "LE15 8PQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "495551",
+  "northing": "308741",
+  "url": "www.empinghamprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

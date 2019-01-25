@@ -1,0 +1,18 @@
+{
+  "urn": "121794",
+  "name": "Blisworth Community Primary School",
+  "address": "Courteenhall Road",
+  "locality": "Blisworth",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN7 3DD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "472836",
+  "northing": "253565",
+  "url": "http://www.blisworthprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

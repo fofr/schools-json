@@ -1,0 +1,18 @@
+{
+  "urn": "106788",
+  "name": "Mexborough School",
+  "address": "Maple Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mexborough",
+  "county": "South Yorkshire",
+  "postcode": "S64 9SD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "446953",
+  "northing": "400832",
+  "url": "http://www.mexboroughschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

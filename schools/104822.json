@@ -1,0 +1,18 @@
+{
+  "urn": "104822",
+  "name": "Gerard RC Infant School",
+  "address": "School Lane",
+  "locality": "Garswood",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN4 0TT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "355415",
+  "northing": "399221",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

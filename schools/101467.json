@@ -1,0 +1,18 @@
+{
+  "urn": "101467",
+  "name": "Welling School",
+  "address": "Elsa Road",
+  "locality": "",
+  "address3": "",
+  "town": "Welling",
+  "county": "Kent",
+  "postcode": "DA16 1LB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "546941",
+  "northing": "176454",
+  "url": "www.welling.bexley.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122079",
+  "name": "Kingsthorpe College",
+  "address": "Boughton Green Road",
+  "locality": "Kingsthorpe",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN2 7HR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "476127",
+  "northing": "264237",
+  "url": "http://www.kcc.northants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

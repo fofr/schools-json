@@ -1,0 +1,18 @@
+{
+  "urn": "110678",
+  "name": "Great Staughton Primary School",
+  "address": "The Causeway",
+  "locality": "Great Staughton",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 5BP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "512891",
+  "northing": "264693",
+  "url": "www.greatstaughton.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

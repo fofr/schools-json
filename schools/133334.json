@@ -1,0 +1,18 @@
+{
+  "urn": "133334",
+  "name": "Longmoor Community Primary School",
+  "address": "Hall Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L9 0EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "336647",
+  "northing": "396972",
+  "url": "www.longmoorcps.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

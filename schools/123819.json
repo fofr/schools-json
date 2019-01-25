@@ -1,0 +1,18 @@
+{
+  "urn": "123819",
+  "name": "Preston CofE VC Primary School",
+  "address": "The Toose",
+  "locality": "Abbey Manor Park",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA21 3SN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "353305",
+  "northing": "116746",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

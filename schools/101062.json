@@ -1,0 +1,18 @@
+{
+  "urn": "101062",
+  "name": "John Paul II School",
+  "address": "Princes Way",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW19 6QE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "523812",
+  "northing": "173613",
+  "url": "johnpaulii.wandsworth.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

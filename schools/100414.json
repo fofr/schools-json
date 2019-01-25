@@ -1,0 +1,18 @@
+{
+  "urn": "100414",
+  "name": "Moorfields Primary School",
+  "address": "40 Bunhill Row",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "EC1Y 8RX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532624",
+  "northing": "182325",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

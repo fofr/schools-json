@@ -1,0 +1,18 @@
+{
+  "urn": "143797",
+  "name": "Ranskill Primary School",
+  "address": "Cherry Tree Walk",
+  "locality": "Ranskill",
+  "address3": "",
+  "town": "Retford",
+  "county": "Nottinghamshire",
+  "postcode": "DN22 8LH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "466030",
+  "northing": "388112",
+  "url": "www.ranskillprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135008",
+  "name": "Meadowbank Primary School",
+  "address": "Councillor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Cheadle",
+  "county": "Cheshire",
+  "postcode": "SK8 2LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386689",
+  "northing": "388410",
+  "url": "www.meadowbank.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

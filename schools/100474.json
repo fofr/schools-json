@@ -1,0 +1,18 @@
+{
+  "urn": "100474",
+  "name": "Chelsea Open Air Nursery School",
+  "address": "51 Glebe Place",
+  "locality": "Chelsea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW3 5JE",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "527203",
+  "northing": "177835",
+  "url": "http://www.coans.rbkc.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

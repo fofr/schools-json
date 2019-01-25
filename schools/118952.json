@@ -1,0 +1,18 @@
+{
+  "urn": "118952",
+  "name": "Sevenoaks School",
+  "address": "High St",
+  "locality": "",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN13 1HU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "553207",
+  "northing": "154098",
+  "url": "www.sevenoaksschool.org",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

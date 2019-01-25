@@ -1,0 +1,18 @@
+{
+  "urn": "136944",
+  "name": "Birmingham Ormiston Academy",
+  "address": "1 Grosvenor Street",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B4 7QD",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "407688",
+  "northing": "287239",
+  "url": "http://www.boa-academy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144826",
+  "name": "Southwold Primary School",
+  "address": "Cumberland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southwold",
+  "county": "Suffolk",
+  "postcode": "IP18 6JP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "650834",
+  "northing": "276384",
+  "url": "www.southwold.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

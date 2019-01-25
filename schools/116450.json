@@ -1,0 +1,18 @@
+{
+  "urn": "116450",
+  "name": "Regents Park Community College",
+  "address": "King Edward Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 4GW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "439331",
+  "northing": "113847",
+  "url": "http://www.regentsparkcollege.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

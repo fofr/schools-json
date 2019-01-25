@@ -1,0 +1,18 @@
+{
+  "urn": "140822",
+  "name": "Sidegate Primary School",
+  "address": "Sidegate Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP4 4JD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "618102",
+  "northing": "245615",
+  "url": "www.sidegate.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

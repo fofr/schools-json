@@ -1,0 +1,18 @@
+{
+  "urn": "134098",
+  "name": "Kings Heath Primary School",
+  "address": "Valentine Road",
+  "locality": "Kings Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B14 7AJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "407581",
+  "northing": "282220",
+  "url": "www.kingsheathprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

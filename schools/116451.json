@@ -1,0 +1,18 @@
+{
+  "urn": "116451",
+  "name": "The Sholing Technology College",
+  "address": "Middle Road",
+  "locality": "Sholing",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 8PH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "445087",
+  "northing": "111916",
+  "url": "http://www.sholingtc.southampton.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

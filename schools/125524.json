@@ -1,0 +1,18 @@
+{
+  "urn": "125524",
+  "name": "Stratford-upon-Avon Primary School",
+  "address": "Broad Street",
+  "locality": "",
+  "address3": "",
+  "town": "Stratford-upon-Avon",
+  "county": "Warwickshire",
+  "postcode": "CV37 6HN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "419789",
+  "northing": "254613",
+  "url": "http://www.broad-street.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

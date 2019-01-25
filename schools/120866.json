@@ -1,0 +1,18 @@
+{
+  "urn": "120866",
+  "name": "Woodton Primary School",
+  "address": "Norwich Road",
+  "locality": "Woodton",
+  "address3": "",
+  "town": "Bungay",
+  "county": "Suffolk",
+  "postcode": "NR35 2LL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "629458",
+  "northing": "294532",
+  "url": "www.ellinghamandwoodton.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

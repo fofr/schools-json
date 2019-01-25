@@ -1,0 +1,18 @@
+{
+  "urn": "100046",
+  "name": "St Paul's Church of England Primary School",
+  "address": "Elsworthy Road",
+  "locality": "Primrose Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW3 3DS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "527498",
+  "northing": "184129",
+  "url": "http://www.stpauls.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

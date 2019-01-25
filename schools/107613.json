@@ -1,0 +1,18 @@
+{
+  "urn": "107613",
+  "name": "Westmoor Primary School",
+  "address": "Church Lane",
+  "locality": "Dewsbury Moor",
+  "address3": "",
+  "town": "Dewsbury",
+  "county": "West Yorkshire",
+  "postcode": "WF13 4EW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "422890",
+  "northing": "421989",
+  "url": "http://www.westmoorprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

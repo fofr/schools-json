@@ -1,0 +1,18 @@
+{
+  "urn": "118889",
+  "name": "Minster College",
+  "address": "Minster Road",
+  "locality": "Minster-on-Sea",
+  "address3": "",
+  "town": "Sheerness",
+  "county": "Kent",
+  "postcode": "ME12 3JQ",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "593740",
+  "northing": "172606",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

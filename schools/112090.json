@@ -1,0 +1,18 @@
+{
+  "urn": "112090",
+  "name": "Frizington Nursery School",
+  "address": "Main Street",
+  "locality": "",
+  "address3": "",
+  "town": "Frizington",
+  "county": "Cumbria",
+  "postcode": "CA26 3PF",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "303715",
+  "northing": "517617",
+  "url": "www.frizington-nur.cumbria.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

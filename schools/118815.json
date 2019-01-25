@@ -1,0 +1,18 @@
+{
+  "urn": "118815",
+  "name": "Walmer Science College",
+  "address": "Salisbury Road",
+  "locality": "Walmer",
+  "address3": "",
+  "town": "Deal",
+  "county": "Kent",
+  "postcode": "CT14 7QJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "636875",
+  "northing": "150572",
+  "url": "http://www.walmersciencecollege.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

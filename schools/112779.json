@@ -1,0 +1,18 @@
+{
+  "urn": "112779",
+  "name": "Lawn Primary School",
+  "address": "Norbury Close",
+  "locality": "Allestree",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE22 2QR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "434024",
+  "northing": "338456",
+  "url": "http://www.lawn.derby.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125104",
+  "name": "Langshott Primary School",
+  "address": "Smallfield Road",
+  "locality": "Langshott",
+  "address3": "",
+  "town": "Horley",
+  "county": "Surrey",
+  "postcode": "RH6 9AU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "529085",
+  "northing": "143271",
+  "url": "www.langshott-surrey.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

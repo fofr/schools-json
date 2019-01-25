@@ -1,0 +1,18 @@
+{
+  "urn": "130407",
+  "name": "Hackney Community College",
+  "address": "Shoreditch Campus",
+  "locality": "Falkirk Street",
+  "address3": "Hackney",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 6HQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "533326",
+  "northing": "183062",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

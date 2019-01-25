@@ -1,0 +1,18 @@
+{
+  "urn": "111438",
+  "name": "Lysander Community High School",
+  "address": "Insall Road",
+  "locality": "Padgate",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA2 0LN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "362846",
+  "northing": "390564",
+  "url": "http://www.lysander.warrington.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

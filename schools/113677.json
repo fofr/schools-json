@@ -1,0 +1,18 @@
+{
+  "urn": "113677",
+  "name": "Swanage Primary School",
+  "address": "Mount Scar",
+  "locality": "",
+  "address3": "",
+  "town": "Swanage",
+  "county": "Dorset",
+  "postcode": "BH19 2EY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "402781",
+  "northing": "78491",
+  "url": "http://www.swanageprimary.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

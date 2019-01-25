@@ -1,0 +1,18 @@
+{
+  "urn": "104782",
+  "name": "Legh Vale Primary School",
+  "address": "Legh Road",
+  "locality": "Haydock",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA11 0ER",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "354612",
+  "northing": "396787",
+  "url": "http:www.leghvale.st-helens.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119197",
+  "name": "Cloughfold Primary School",
+  "address": "Peel Street",
+  "locality": "Cloughfold",
+  "address3": "Rawtenstall",
+  "town": "Rossendale",
+  "county": "Lancashire",
+  "postcode": "BB4 7LJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "382304",
+  "northing": "422558",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

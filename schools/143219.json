@@ -1,0 +1,18 @@
+{
+  "urn": "143219",
+  "name": "Temple Hill Primary Academy",
+  "address": "St Edmund's Road",
+  "locality": "Temple Hill",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 5ND",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "555040",
+  "northing": "175006",
+  "url": "http://www.temple-hill.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

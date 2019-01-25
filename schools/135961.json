@@ -1,0 +1,18 @@
+{
+  "urn": "135961",
+  "name": "Outwood Grange Academy",
+  "address": "Potovens Lane",
+  "locality": "Outwood",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF1 2PF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "432265",
+  "northing": "423630",
+  "url": "http://www.grange.outwood.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

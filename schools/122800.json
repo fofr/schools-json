@@ -1,0 +1,18 @@
+{
+  "urn": "122800",
+  "name": "Farnsfield CofE Aided Primary School",
+  "address": "Main Street",
+  "locality": "Farnsfield",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG22 8EF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "464866",
+  "northing": "356579",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

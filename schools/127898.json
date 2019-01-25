@@ -1,0 +1,18 @@
+{
+  "urn": "127898",
+  "name": "Broadgate Infant School",
+  "address": "North Broadgate Lane",
+  "locality": "Horsforth",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS18 5AF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "424230",
+  "northing": "438336",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

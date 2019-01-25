@@ -1,0 +1,18 @@
+{
+  "urn": "119209",
+  "name": "Pinfold Primary School",
+  "address": "Pinfold Lane",
+  "locality": "Scarisbrick",
+  "address3": "",
+  "town": "Ormskirk",
+  "county": "Lancashire",
+  "postcode": "L40 8HR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "338983",
+  "northing": "411550",
+  "url": "www.pinfoldprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

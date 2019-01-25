@@ -1,0 +1,18 @@
+{
+  "urn": "105602",
+  "name": "Manchester Hospital School",
+  "address": "3rd Floor School",
+  "locality": "Royal Manchester Children's Hospital",
+  "address3": "Oxford Road",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M13 9WL",
+  "minimum_age": "3",
+  "maximum_age": "18",
+  "easting": "385188",
+  "northing": "395990",
+  "url": "www.manchesterhospitalschool.com",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

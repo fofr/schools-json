@@ -1,0 +1,18 @@
+{
+  "urn": "112049",
+  "name": "Bodmin College",
+  "address": "Lostwithiel Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bodmin",
+  "county": "Cornwall",
+  "postcode": "PL31 1DD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "207658",
+  "northing": "65727",
+  "url": "http://www.bodmincollege.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

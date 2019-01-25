@@ -1,0 +1,18 @@
+{
+  "urn": "145271",
+  "name": "Jack Hunt School",
+  "address": "Bradwell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE3 9PY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "516908",
+  "northing": "299251",
+  "url": "http://www.jackhunt.peterborough.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

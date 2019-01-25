@@ -1,0 +1,18 @@
+{
+  "urn": "144990",
+  "name": "Thornhill Academy",
+  "address": "Thornholme Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR2 7NA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "439078",
+  "northing": "556011",
+  "url": "http://www.thornhillacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

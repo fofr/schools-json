@@ -1,0 +1,18 @@
+{
+  "urn": "139792",
+  "name": "UTC Lancashire",
+  "address": "Trafalgar Street",
+  "locality": "",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB11 1RA",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "383306",
+  "northing": "432635",
+  "url": "http://www.utclancashire.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

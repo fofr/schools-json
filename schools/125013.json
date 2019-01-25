@@ -1,0 +1,18 @@
+{
+  "urn": "125013",
+  "name": "Eastwick Junior School",
+  "address": "Eastwick Drive",
+  "locality": "Great Bookham",
+  "address3": "",
+  "town": "Leatherhead",
+  "county": "Surrey",
+  "postcode": "KT23 3PP",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "513787",
+  "northing": "155168",
+  "url": "www.eastwickschools.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

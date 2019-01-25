@@ -1,0 +1,18 @@
+{
+  "urn": "141198",
+  "name": "St Dennis Primary Academy",
+  "address": "Carne Hill",
+  "locality": "St Dennis",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL26 8AY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "195242",
+  "northing": "58012",
+  "url": "www.stdennis.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

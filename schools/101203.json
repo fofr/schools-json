@@ -1,0 +1,18 @@
+{
+  "urn": "101203",
+  "name": "Furze Infants' School",
+  "address": "Bennett Road",
+  "locality": "Chadwell Heath",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM6 6ES",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "548410",
+  "northing": "188015",
+  "url": "http://furzeinfants.schooljotter2.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

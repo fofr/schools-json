@@ -1,0 +1,18 @@
+{
+  "urn": "137564",
+  "name": "Burnham Grammar School",
+  "address": "Hogfair Lane",
+  "locality": "Burnham",
+  "address3": "",
+  "town": "Slough",
+  "county": "Buckinghamshire",
+  "postcode": "SL1 7HG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "493590",
+  "northing": "182359",
+  "url": "www.burnhamgrammar.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

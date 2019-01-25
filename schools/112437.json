@@ -1,0 +1,18 @@
+{
+  "urn": "112437",
+  "name": "Cartmel Priory CofE School",
+  "address": "Headless Cross",
+  "locality": "Cartmel",
+  "address3": "",
+  "town": "Grange-over-Sands",
+  "county": "Cumbria",
+  "postcode": "LA11 7SA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "338127",
+  "northing": "478474",
+  "url": "http://www.cartmelpriory.cumbria.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

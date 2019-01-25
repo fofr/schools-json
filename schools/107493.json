@@ -1,0 +1,18 @@
+{
+  "urn": "107493",
+  "name": "Wainstalls School",
+  "address": "Wainstalls",
+  "locality": "",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX2 7TE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "404667",
+  "northing": "428435",
+  "url": "http://www.wainstalls.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

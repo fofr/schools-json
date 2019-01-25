@@ -1,0 +1,18 @@
+{
+  "urn": "118456",
+  "name": "Claremont Primary School",
+  "address": "Banner Farm Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tunbridge Wells",
+  "county": "Kent",
+  "postcode": "TN2 5EB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "558955",
+  "northing": "138862",
+  "url": "www.claremont.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

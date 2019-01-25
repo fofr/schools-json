@@ -1,0 +1,18 @@
+{
+  "urn": "123719",
+  "name": "East Coker Community Primary School",
+  "address": "East Coker",
+  "locality": "",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA22 9HY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "353825",
+  "northing": "112992",
+  "url": "www.eastcokerschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

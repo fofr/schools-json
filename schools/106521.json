@@ -1,0 +1,18 @@
+{
+  "urn": "106521",
+  "name": "Cansfield High School",
+  "address": "Old Road",
+  "locality": "Ashton-in-Makerfield",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN4 9TP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "357307",
+  "northing": "399850",
+  "url": "http://www.cansfield.wigan.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

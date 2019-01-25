@@ -1,0 +1,18 @@
+{
+  "urn": "111103",
+  "name": "Sutton Green Primary School",
+  "address": "Armthorpe Drive",
+  "locality": "Little Sutton",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Cheshire",
+  "postcode": "CH66 4NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "337201",
+  "northing": "376414",
+  "url": "www.suttongreen.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

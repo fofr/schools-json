@@ -1,0 +1,18 @@
+{
+  "urn": "133700",
+  "name": "Lincoln Gardens Primary School",
+  "address": "Lincoln Gardens",
+  "locality": "Ashby",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "North Lincolnshire",
+  "postcode": "DN16 2ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "489583",
+  "northing": "409093",
+  "url": "http://www.lincolngardens.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120428",
+  "name": "Bracebridge Infant and Nursery School",
+  "address": "Francis Street",
+  "locality": "Bracebridge",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN5 8QG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "496945",
+  "northing": "368572",
+  "url": "bracebridge.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

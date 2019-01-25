@@ -1,0 +1,18 @@
+{
+  "urn": "144482",
+  "name": "Hartley Brook Primary School",
+  "address": "Hartley Brook Road",
+  "locality": "Shiregreen",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S5 0JF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "436511",
+  "northing": "392580",
+  "url": "http://www.hartleybrookacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

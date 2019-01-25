@@ -1,0 +1,18 @@
+{
+  "urn": "100320",
+  "name": "The Bridge Academy",
+  "address": "Finlay Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW6 6HB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "523727",
+  "northing": "176629",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

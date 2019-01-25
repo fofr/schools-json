@@ -1,0 +1,18 @@
+{
+  "urn": "127815",
+  "name": "Carr Manor First School",
+  "address": "Carr Manor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS17 5DJ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "429680",
+  "northing": "437747",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

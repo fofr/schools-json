@@ -1,0 +1,18 @@
+{
+  "urn": "144859",
+  "name": "Inkberrow First School",
+  "address": "Main Road",
+  "locality": "Inkberrow",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR7 4HH",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "401572",
+  "northing": "257654",
+  "url": "www.inkberrowfirst.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

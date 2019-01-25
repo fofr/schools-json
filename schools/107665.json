@@ -1,0 +1,18 @@
+{
+  "urn": "107665",
+  "name": "Hopton Primary School",
+  "address": "Woodend Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mirfield",
+  "county": "West Yorkshire",
+  "postcode": "WF14 8PR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "419901",
+  "northing": "419569",
+  "url": "http://www.hoptonprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

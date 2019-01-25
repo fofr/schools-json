@@ -1,0 +1,18 @@
+{
+  "urn": "120387",
+  "name": "Church Lane Primary School",
+  "address": "Church Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sleaford",
+  "county": "Lincolnshire",
+  "postcode": "NG34 7DF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "506807",
+  "northing": "346071",
+  "url": "www.churchlaneprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110197",
+  "name": "Knowles Nursery School",
+  "address": "Queensway",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK2 2HB",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "487620",
+  "northing": "233771",
+  "url": "www.knowlesnursery.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136471",
+  "name": "Lincroft Academy",
+  "address": "Station Road",
+  "locality": "Oakley",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK43 7RE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "501276",
+  "northing": "253332",
+  "url": "http://www.lincroft.beds.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

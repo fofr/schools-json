@@ -1,0 +1,18 @@
+{
+  "urn": "117872",
+  "name": "Leconfield Primary School",
+  "address": "Arram Road",
+  "locality": "Leconfield",
+  "address3": "",
+  "town": "Beverley",
+  "county": "",
+  "postcode": "HU17 7NP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "501745",
+  "northing": "443777",
+  "url": "www.leconfieldprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

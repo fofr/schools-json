@@ -1,0 +1,18 @@
+{
+  "urn": "122076",
+  "name": "Bridgewater Primary School",
+  "address": "Bridgewater Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN3 3AF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "478329",
+  "northing": "261370",
+  "url": "www.bridgewaterprimary.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

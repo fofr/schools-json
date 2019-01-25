@@ -1,0 +1,18 @@
+{
+  "urn": "104827",
+  "name": "Haydock High School",
+  "address": "Clipsley Lane",
+  "locality": "Haydock",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA11 0JG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "355090",
+  "northing": "396805",
+  "url": "www.haydockhigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

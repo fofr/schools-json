@@ -1,0 +1,18 @@
+{
+  "urn": "111017",
+  "name": "Ash Grove Primary and Nursery School",
+  "address": "Belgrave Road",
+  "locality": "",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 7TF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391304",
+  "northing": "371991",
+  "url": "http://www.ashgrove.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

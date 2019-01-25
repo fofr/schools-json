@@ -1,0 +1,18 @@
+{
+  "urn": "101999",
+  "name": "Merryhills Primary School",
+  "address": "Bincote Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN2 7RE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "530834",
+  "northing": "196478",
+  "url": "www.merryhills.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

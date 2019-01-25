@@ -1,0 +1,18 @@
+{
+  "urn": "100424",
+  "name": "Rotherfield Infant School",
+  "address": "Rotherfield Street",
+  "locality": "Islington",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 3EE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "532543",
+  "northing": "183917",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

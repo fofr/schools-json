@@ -1,0 +1,18 @@
+{
+  "urn": "120301",
+  "name": "Rawlins Community College",
+  "address": "Loughborough Road",
+  "locality": "Quorn",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 8DX",
+  "minimum_age": "14",
+  "maximum_age": "18",
+  "easting": "456046",
+  "northing": "316708",
+  "url": "http://www.rawlinscollege.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119813",
+  "name": "Baines School",
+  "address": "Highcross Road",
+  "locality": "",
+  "address3": "",
+  "town": "Poulton-le-Fylde",
+  "county": "Lancashire",
+  "postcode": "FY6 8BE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "334668",
+  "northing": "438257",
+  "url": "http://baines.lancs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

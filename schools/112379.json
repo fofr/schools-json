@@ -1,0 +1,18 @@
+{
+  "urn": "112379",
+  "name": "The Lakes School",
+  "address": "Troutbeck Bridge",
+  "locality": "",
+  "address3": "",
+  "town": "Windermere",
+  "county": "Cumbria",
+  "postcode": "LA23 1HW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "340250",
+  "northing": "500009",
+  "url": "http://thelakesschool.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

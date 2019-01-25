@@ -1,0 +1,18 @@
+{
+  "urn": "104519",
+  "name": "Belle Vale Community Primary School",
+  "address": "Besford Road",
+  "locality": "Gateacre",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L25 2QF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "342983",
+  "northing": "388234",
+  "url": "www.bellevaleprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

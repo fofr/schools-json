@@ -1,0 +1,18 @@
+{
+  "urn": "123437",
+  "name": "Belvidere Primary School",
+  "address": "Tenbury Drive",
+  "locality": "Telford Estate",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY2 5YB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "351459",
+  "northing": "313072",
+  "url": "www.belvidere-pri.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

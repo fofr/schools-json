@@ -1,0 +1,18 @@
+{
+  "urn": "144342",
+  "name": "Manshead CofE Academy",
+  "address": "Dunstable Road",
+  "locality": "Caddington",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 4BB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "503586",
+  "northing": "220560",
+  "url": "www.mansheadschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

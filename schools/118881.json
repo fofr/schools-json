@@ -1,0 +1,18 @@
+{
+  "urn": "118881",
+  "name": "Wrotham School",
+  "address": "Borough Green Road",
+  "locality": "Wrotham",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN15 7RD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "561109",
+  "northing": "158269",
+  "url": "http://www.wrotham.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

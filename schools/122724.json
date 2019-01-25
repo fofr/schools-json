@@ -1,0 +1,18 @@
+{
+  "urn": "122724",
+  "name": "Jeffries Primary and Nursery School",
+  "address": "Vernon Road",
+  "locality": "Kirkby-in-Ashfield",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 8EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449883",
+  "northing": "356243",
+  "url": "http://www.jeffriesprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

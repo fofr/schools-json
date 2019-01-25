@@ -1,0 +1,18 @@
+{
+  "urn": "116422",
+  "name": "The Hurst Community College",
+  "address": "Brimpton Road",
+  "locality": "Baughurst",
+  "address3": "",
+  "town": "Tadley",
+  "county": "Hampshire",
+  "postcode": "RG26 5NL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "457615",
+  "northing": "162391",
+  "url": "http://www.hurst.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

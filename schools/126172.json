@@ -1,0 +1,18 @@
+{
+  "urn": "126172",
+  "name": "Young People's Support Service",
+  "address": "Park Street",
+  "locality": "",
+  "address3": "",
+  "town": "Trowbridge",
+  "county": "Wiltshire",
+  "postcode": "BA14 0AU",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "385248",
+  "northing": "157304",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

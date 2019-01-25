@@ -1,0 +1,18 @@
+{
+  "urn": "135294",
+  "name": "Havelock Academy",
+  "address": "Holyoake Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN32 8JH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "529194",
+  "northing": "408762",
+  "url": "http://www.havelockacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

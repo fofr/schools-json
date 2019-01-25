@@ -1,0 +1,18 @@
+{
+  "urn": "111397",
+  "name": "Queen's Park High School",
+  "address": "Queen's Park",
+  "locality": "",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH4 7AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "340905",
+  "northing": "365622",
+  "url": "www.qphs.cheshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

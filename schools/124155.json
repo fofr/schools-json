@@ -1,0 +1,18 @@
+{
+  "urn": "124155",
+  "name": "Florendine Primary School",
+  "address": "Florendine Street",
+  "locality": "Amington",
+  "address3": "",
+  "town": "Tamworth",
+  "county": "Staffordshire",
+  "postcode": "B77 3DD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "422918",
+  "northing": "304189",
+  "url": "http://www.florendine.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

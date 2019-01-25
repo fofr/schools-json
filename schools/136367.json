@@ -1,0 +1,18 @@
+{
+  "urn": "136367",
+  "name": "Kingsbridge Academy",
+  "address": "Balkwill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingsbridge",
+  "county": "Devon",
+  "postcode": "TQ7 1PL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "273049",
+  "northing": "43827",
+  "url": "http://www.kingsbridgecollege.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

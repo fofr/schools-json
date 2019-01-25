@@ -1,0 +1,18 @@
+{
+  "urn": "145387",
+  "name": "Park Road Community Primary School",
+  "address": "Wroxham Road",
+  "locality": "Great Sankey",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA5 3EF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "356280",
+  "northing": "388806",
+  "url": "www.parkroad.warrington.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

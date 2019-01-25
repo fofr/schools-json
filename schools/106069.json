@@ -1,0 +1,18 @@
+{
+  "urn": "106069",
+  "name": "Orrishmere Primary School",
+  "address": "Worcester Road",
+  "locality": "Cheadle Hulme",
+  "address3": "",
+  "town": "Cheadle",
+  "county": "Cheshire",
+  "postcode": "SK8 5NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "387193",
+  "northing": "387503",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

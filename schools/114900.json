@@ -1,0 +1,18 @@
+{
+  "urn": "114900",
+  "name": "Chadwell St Mary Primary School",
+  "address": "River View",
+  "locality": "Chadwell St Mary",
+  "address3": "",
+  "town": "Grays",
+  "county": "Essex",
+  "postcode": "RM16 4DH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "564526",
+  "northing": "178558",
+  "url": "http://www.chadwellstmaryprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

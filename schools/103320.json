@@ -1,0 +1,18 @@
+{
+  "urn": "103320",
+  "name": "Glenmead Primary School",
+  "address": "Glenmead Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B44 8UQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406875",
+  "northing": "293755",
+  "url": "www.glenmead.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

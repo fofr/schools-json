@@ -1,0 +1,18 @@
+{
+  "urn": "145667",
+  "name": "New Marske Primary School",
+  "address": "Birkdale Road",
+  "locality": "New Marske",
+  "address3": "",
+  "town": "Redcar",
+  "county": "North Yorkshire",
+  "postcode": "TS11 8BN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "461987",
+  "northing": "520725",
+  "url": "www.newmarskeprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

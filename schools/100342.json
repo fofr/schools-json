@@ -1,0 +1,18 @@
+{
+  "urn": "100342",
+  "name": "Normand Park Primary School",
+  "address": "Lillie Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW6 7SR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "524798",
+  "northing": "177764",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

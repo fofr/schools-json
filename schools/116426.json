@@ -1,0 +1,18 @@
+{
+  "urn": "116426",
+  "name": "Test Valley School",
+  "address": "Roman Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stockbridge",
+  "county": "Hampshire",
+  "postcode": "SO20 6HA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "434933",
+  "northing": "135019",
+  "url": "http://www.testvalley.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

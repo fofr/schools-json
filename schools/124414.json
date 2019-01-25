@@ -1,0 +1,18 @@
+{
+  "urn": "124414",
+  "name": "Wolstanton High School",
+  "address": "Milehouse Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 9JU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "385136",
+  "northing": "347781",
+  "url": "http://www.wolstanton.staffs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

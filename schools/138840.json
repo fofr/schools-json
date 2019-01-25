@@ -1,0 +1,18 @@
+{
+  "urn": "138840",
+  "name": "Welton Church of England Academy",
+  "address": "Well Lane",
+  "locality": "Welton",
+  "address3": "",
+  "town": "Daventry",
+  "county": "Northamptonshire",
+  "postcode": "NN11 2JZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458109",
+  "northing": "266143",
+  "url": "www.weltonacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

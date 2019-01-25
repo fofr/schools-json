@@ -1,0 +1,18 @@
+{
+  "urn": "116463",
+  "name": "Mayfield School",
+  "address": "Mayfield Road",
+  "locality": "North End",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO2 0RH",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "465608",
+  "northing": "102759",
+  "url": "http://www.mayfield.portsmouth.sch.uk",
+  "phase": "All through",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139655",
+  "name": "Brymore Academy",
+  "address": "Cannington",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA5 2NB",
+  "minimum_age": "11",
+  "maximum_age": "17",
+  "easting": "324582",
+  "northing": "139416",
+  "url": "http://brymoreacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

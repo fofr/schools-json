@@ -1,0 +1,18 @@
+{
+  "urn": "113326",
+  "name": "Glen Park Primary School",
+  "address": "Glen Road",
+  "locality": "Plympton",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL7 2DE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "255589",
+  "northing": "56292",
+  "url": "http://www.glenpark.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

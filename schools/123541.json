@@ -1,0 +1,18 @@
+{
+  "urn": "123541",
+  "name": "Clunbury CofE Primary School",
+  "address": "Clunbury",
+  "locality": "",
+  "address3": "",
+  "town": "Craven Arms",
+  "county": "Shropshire",
+  "postcode": "SY7 0HE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "337187",
+  "northing": "280475",
+  "url": "www.clunburyschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

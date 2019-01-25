@@ -1,0 +1,18 @@
+{
+  "urn": "140931",
+  "name": "Townfield Primary School",
+  "address": "Townfield Lane",
+  "locality": "",
+  "address3": "Prenton",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH43 2LH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "329330",
+  "northing": "387230",
+  "url": "www.townfieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

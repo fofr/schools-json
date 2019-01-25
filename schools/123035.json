@@ -1,0 +1,18 @@
+{
+  "urn": "123035",
+  "name": "Benson Community Infants' School",
+  "address": "Westfield Road",
+  "locality": "Benson",
+  "address3": "",
+  "town": "Wallingford",
+  "county": "Oxfordshire",
+  "postcode": "OX10 6NL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "461999",
+  "northing": "192143",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

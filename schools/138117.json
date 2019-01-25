@@ -1,0 +1,18 @@
+{
+  "urn": "138117",
+  "name": "Langer Primary Academy",
+  "address": "Langer Road",
+  "locality": "",
+  "address3": "",
+  "town": "Felixstowe",
+  "county": "Suffolk",
+  "postcode": "IP11 2HL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "629387",
+  "northing": "233632",
+  "url": "http://www.langerprimaryacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

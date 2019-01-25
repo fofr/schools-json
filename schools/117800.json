@@ -1,0 +1,18 @@
+{
+  "urn": "117800",
+  "name": "Longhill Primary School",
+  "address": "Shannon Road",
+  "locality": "Longhill Estate",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU8 9RW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "514279",
+  "northing": "432809",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

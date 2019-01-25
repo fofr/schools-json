@@ -1,0 +1,18 @@
+{
+  "urn": "120667",
+  "name": "Bourne Abbey Primary School",
+  "address": "Abbey Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bourne",
+  "county": "Lincolnshire",
+  "postcode": "PE10 9EP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "510071",
+  "northing": "320082",
+  "url": "http://www.bourneabbey.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

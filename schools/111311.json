@@ -1,0 +1,18 @@
+{
+  "urn": "111311",
+  "name": "St Clare's Catholic Primary School",
+  "address": "Hawthorn Road",
+  "locality": "Lache",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH4 8HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "338987",
+  "northing": "364455",
+  "url": "http://www.stclares.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

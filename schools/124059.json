@@ -1,0 +1,18 @@
+{
+  "urn": "124059",
+  "name": "Kingsfield First School",
+  "address": "Gunn Street",
+  "locality": "Biddulph",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST8 6AY",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "388512",
+  "northing": "357649",
+  "url": "www.kingsfield.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

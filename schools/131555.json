@@ -1,0 +1,18 @@
+{
+  "urn": "131555",
+  "name": "Primary Pupil Referral Unit",
+  "address": "Gilstead Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW6 2LG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "525887",
+  "northing": "176415",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

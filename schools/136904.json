@@ -1,0 +1,18 @@
+{
+  "urn": "136904",
+  "name": "Great Baddow High School",
+  "address": "Duffield Road",
+  "locality": "Beehive Lane",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM2 9RZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "571846",
+  "northing": "204573",
+  "url": "http://www.gbhs.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

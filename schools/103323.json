@@ -1,0 +1,18 @@
+{
+  "urn": "103323",
+  "name": "Cottesbrooke Infant School",
+  "address": "Yardley Road",
+  "locality": "Acocks Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B27 6LG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "412509",
+  "northing": "283859",
+  "url": "http://www.cottesbrooke-inf.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

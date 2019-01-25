@@ -1,0 +1,18 @@
+{
+  "urn": "106961",
+  "name": "Wales High School",
+  "address": "Storth Lane",
+  "locality": "Kiveton Park",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S26 5QQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "448443",
+  "northing": "383188",
+  "url": "http://atschool.eduweb.co.uk/waleshs/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

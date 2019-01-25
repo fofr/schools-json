@@ -1,0 +1,18 @@
+{
+  "urn": "107224",
+  "name": "Blakehill Primary School",
+  "address": "Highfield Road",
+  "locality": "Idle",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD10 8QN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "417456",
+  "northing": "436892",
+  "url": "www.blakehillprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

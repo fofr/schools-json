@@ -1,0 +1,18 @@
+{
+  "urn": "138633",
+  "name": "Ribbon School",
+  "address": "Barnes Road",
+  "locality": "Murton",
+  "address3": "",
+  "town": "Seaham",
+  "county": "County Durham",
+  "postcode": "SR7 9QR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "439505",
+  "northing": "547256",
+  "url": "www.ribbonacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

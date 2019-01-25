@@ -1,0 +1,18 @@
+{
+  "urn": "137613",
+  "name": "Manor School Sports College",
+  "address": "Mountbatten Way",
+  "locality": "Raunds",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN9 6PA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "500178",
+  "northing": "272655",
+  "url": "http://www.manorschool.northants.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135007",
+  "name": "Trinity Academy",
+  "address": "Church Balk",
+  "locality": "Thorne",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN8 5BY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "469388",
+  "northing": "413529",
+  "url": "http://www.trinity-academy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

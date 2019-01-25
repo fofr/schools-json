@@ -1,0 +1,18 @@
+{
+  "urn": "125960",
+  "name": "Lyndhurst Infant School",
+  "address": "Lyndhurst Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worthing",
+  "county": "West Sussex",
+  "postcode": "BN11 2DG",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "515953",
+  "northing": "103256",
+  "url": "www.lyndhurst-school.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

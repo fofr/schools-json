@@ -1,0 +1,18 @@
+{
+  "urn": "104207",
+  "name": "Radleys Primary School",
+  "address": "Kings Road",
+  "locality": "Rushall",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS4 1JJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "403532",
+  "northing": "301152",
+  "url": "http://www.radleys.walsall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

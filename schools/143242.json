@@ -1,0 +1,18 @@
+{
+  "urn": "143242",
+  "name": "Allerton Bywater Primary School",
+  "address": "Leeds Road",
+  "locality": "Allerton Bywater",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 2DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "441646",
+  "northing": "428010",
+  "url": "www.allertonbywater.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

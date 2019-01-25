@@ -1,0 +1,18 @@
+{
+  "urn": "137780",
+  "name": "Lapford Community Primary School",
+  "address": "Eastington Road",
+  "locality": "Lapford",
+  "address3": "",
+  "town": "Crediton",
+  "county": "Devon",
+  "postcode": "EX17 6QE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "273380",
+  "northing": "108466",
+  "url": "http://www.lapford-primary.devon.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

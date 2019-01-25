@@ -1,0 +1,18 @@
+{
+  "urn": "107886",
+  "name": "Iveson Primary School",
+  "address": "Iveson Rise",
+  "locality": "Tinshill",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS16 6LW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426056",
+  "northing": "438620",
+  "url": "http://www.iveson-primary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

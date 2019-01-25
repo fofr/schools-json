@@ -1,0 +1,18 @@
+{
+  "urn": "142402",
+  "name": "Bishops Lydeard Church School",
+  "address": "Mount Street",
+  "locality": "Bishops Lydeard",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA4 3AN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "316902",
+  "northing": "129598",
+  "url": "www.bishopslydeard.bwmat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

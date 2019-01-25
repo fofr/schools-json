@@ -1,0 +1,18 @@
+{
+  "urn": "120332",
+  "name": "Loughborough Grammar School",
+  "address": "Burton Walks",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 2DU",
+  "minimum_age": "10",
+  "maximum_age": "19",
+  "easting": "453971",
+  "northing": "318915",
+  "url": "www.lesgrammar.org",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

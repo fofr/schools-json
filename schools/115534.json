@@ -1,0 +1,18 @@
+{
+  "urn": "115534",
+  "name": "Sheepscombe Primary School",
+  "address": "Far End",
+  "locality": "Sheepscombe",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL6 7RL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "389306",
+  "northing": "210425",
+  "url": "www.sheepscombeschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

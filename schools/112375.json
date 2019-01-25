@@ -1,0 +1,18 @@
+{
+  "urn": "112375",
+  "name": "Beacon Hill Community School",
+  "address": "Market Square",
+  "locality": "Aspatria",
+  "address3": "",
+  "town": "Wigton",
+  "county": "Cumbria",
+  "postcode": "CA7 3EZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "314261",
+  "northing": "541835",
+  "url": "http://beaconhill.cumbria.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

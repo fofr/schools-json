@@ -1,0 +1,18 @@
+{
+  "urn": "137374",
+  "name": "The Totteridge Academy",
+  "address": "Barnet Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N20 8AZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "524632",
+  "northing": "194876",
+  "url": "www.thetotteridgeacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

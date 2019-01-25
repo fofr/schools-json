@@ -1,0 +1,18 @@
+{
+  "urn": "116445",
+  "name": "Crestwood Community School",
+  "address": "Shakespeare Road",
+  "locality": "Boyatt Wood",
+  "address3": "",
+  "town": "Eastleigh",
+  "county": "Hampshire",
+  "postcode": "SO50 4FZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "445273",
+  "northing": "119981",
+  "url": "http://crestwood.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

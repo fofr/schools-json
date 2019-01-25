@@ -1,0 +1,18 @@
+{
+  "urn": "120714",
+  "name": "Branston Community College",
+  "address": "Station Road",
+  "locality": "Branston",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN4 1LH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "502566",
+  "northing": "367994",
+  "url": "http://www.branstoncc.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

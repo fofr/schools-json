@@ -1,0 +1,18 @@
+{
+  "urn": "117216",
+  "name": "Broadfield Infants' School",
+  "address": "Broadfield Road",
+  "locality": "Adeyfield",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP2 4DW",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "506583",
+  "northing": "207287",
+  "url": "http://www.broadfieldinfants.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

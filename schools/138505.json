@@ -1,0 +1,18 @@
+{
+  "urn": "138505",
+  "name": "Arrow Vale RSA Academy",
+  "address": "Green Sward Lane",
+  "locality": "Matchborough West",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B98 0EN",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "407092",
+  "northing": "266559",
+  "url": "http://www.arrowvaleacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

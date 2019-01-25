@@ -1,0 +1,18 @@
+{
+  "urn": "138053",
+  "name": "Sir Harry Smith Community College",
+  "address": "Eastrea Road",
+  "locality": "Whittlesey",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 1XB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "527676",
+  "northing": "297341",
+  "url": "http://www.sirharrysmith.cambs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

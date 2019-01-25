@@ -1,0 +1,18 @@
+{
+  "urn": "125008",
+  "name": "The Greville Primary School",
+  "address": "Stonny Croft",
+  "locality": "Bramley Way",
+  "address3": "",
+  "town": "Ashtead",
+  "county": "Surrey",
+  "postcode": "KT21 1SH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518938",
+  "northing": "158635",
+  "url": "http://www.greville.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

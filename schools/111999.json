@@ -1,0 +1,18 @@
+{
+  "urn": "111999",
+  "name": "St Mary's Catholic School, Penzance",
+  "address": "Peverell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR18 2AT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "147311",
+  "northing": "31113",
+  "url": "https://st-marys-catholic.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

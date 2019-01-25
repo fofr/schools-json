@@ -1,0 +1,18 @@
+{
+  "urn": "107479",
+  "name": "Bradshaw Primary School",
+  "address": "Ingham Lane",
+  "locality": "Bradshaw",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX2 9PF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407617",
+  "northing": "430057",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143058",
+  "name": "Bruche Primary School Academy",
+  "address": "Seymour Drive",
+  "locality": "Padgate",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA1 3TT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "363442",
+  "northing": "389467",
+  "url": "www.brucheprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

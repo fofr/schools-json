@@ -1,0 +1,18 @@
+{
+  "urn": "108701",
+  "name": "West Boldon Primary School",
+  "address": "Hindmarch Drive",
+  "locality": "West Boldon",
+  "address3": "",
+  "town": "East Boldon",
+  "county": "Tyne and Wear",
+  "postcode": "NE36 0HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "435443",
+  "northing": "561483",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

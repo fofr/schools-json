@@ -1,0 +1,18 @@
+{
+  "urn": "102302",
+  "name": "Rise Park Infant School",
+  "address": "Annan Way",
+  "locality": "Rise Park",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM1 4UD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "550966",
+  "northing": "190881",
+  "url": "http://www.risepark-inf.havering.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

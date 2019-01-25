@@ -1,0 +1,18 @@
+{
+  "urn": "107970",
+  "name": "Whitecote Primary School",
+  "address": "Wellington Grove",
+  "locality": "Bramley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 2LQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "424622",
+  "northing": "435758",
+  "url": "www.whitecoteprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

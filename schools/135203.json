@@ -1,0 +1,18 @@
+{
+  "urn": "135203",
+  "name": "Knowle Park Primary School",
+  "address": "Queenshill Road",
+  "locality": "Knowle Park",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS4 2XG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "360160",
+  "northing": "170434",
+  "url": "www.knowlepark-pri.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

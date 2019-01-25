@@ -1,0 +1,18 @@
+{
+  "urn": "140855",
+  "name": "West Town Primary Academy",
+  "address": "Midland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "",
+  "postcode": "PE3 6DD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518200",
+  "northing": "299200",
+  "url": "www.westtownprimary.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

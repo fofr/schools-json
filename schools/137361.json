@@ -1,0 +1,18 @@
+{
+  "urn": "137361",
+  "name": "Whitefield School",
+  "address": "Claremont Road",
+  "locality": "Cricklewood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW2 1TR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "523520",
+  "northing": "187587",
+  "url": "http://www.whitefield.barnet.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

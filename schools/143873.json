@@ -1,0 +1,18 @@
+{
+  "urn": "143873",
+  "name": "Kennall Vale School",
+  "address": "Park Crescent",
+  "locality": "Ponsanooth",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR3 7HY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "175566",
+  "northing": "37829",
+  "url": "http://www.kennall-vale.ik.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

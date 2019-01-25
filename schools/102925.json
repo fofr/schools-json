@@ -1,0 +1,18 @@
+{
+  "urn": "102925",
+  "name": "Teddington School",
+  "address": "Broom Road",
+  "locality": "",
+  "address3": "",
+  "town": "Teddington",
+  "county": "",
+  "postcode": "TW11 9PJ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "517446",
+  "northing": "170646",
+  "url": "www.teddingtonschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

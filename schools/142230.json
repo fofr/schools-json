@@ -1,0 +1,18 @@
+{
+  "urn": "142230",
+  "name": "Prince Albert Junior and Infant School",
+  "address": "Albert Road",
+  "locality": "Aston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B6 5NH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "407346",
+  "northing": "289594",
+  "url": "www.princealbert.bham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

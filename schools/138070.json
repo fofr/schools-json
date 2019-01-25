@@ -1,0 +1,18 @@
+{
+  "urn": "138070",
+  "name": "Chetwynd Primary Academy",
+  "address": "Chetwynd Road",
+  "locality": "Toton",
+  "address3": "Beeston",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG9 6FW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "450336",
+  "northing": "334814",
+  "url": "http://www.chetwyndprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

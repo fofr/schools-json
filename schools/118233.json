@@ -1,0 +1,18 @@
+{
+  "urn": "118233",
+  "name": "Northwood Centre",
+  "address": "Highfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ramsgate",
+  "county": "Kent",
+  "postcode": "CT12 6QX",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "636780",
+  "northing": "166898",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

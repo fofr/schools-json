@@ -1,0 +1,18 @@
+{
+  "urn": "108155",
+  "name": "Ryhill First School",
+  "address": "Chapel Street",
+  "locality": "Ryhill",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF4 2AD",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "438555",
+  "northing": "414351",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

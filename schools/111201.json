@@ -1,0 +1,18 @@
+{
+  "urn": "111201",
+  "name": "Hood Manor Community Primary School",
+  "address": "Dorchester Road",
+  "locality": "Great Sankey",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA5 1XE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "358204",
+  "northing": "388537",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

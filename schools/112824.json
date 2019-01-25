@@ -1,0 +1,18 @@
+{
+  "urn": "112824",
+  "name": "Hartshorne CofE Primary School",
+  "address": "Main Street",
+  "locality": "Hartshorne",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE11 7ES",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432534",
+  "northing": "320994",
+  "url": "www.hartshorne.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

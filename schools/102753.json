@@ -1,0 +1,18 @@
+{
+  "urn": "102753",
+  "name": "Sheringham Primary School",
+  "address": "Sheringham Avenue",
+  "locality": "Manor Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E12 5PB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "542881",
+  "northing": "185860",
+  "url": "www.sheringhamjuniorschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

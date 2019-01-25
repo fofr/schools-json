@@ -1,0 +1,18 @@
+{
+  "urn": "131271",
+  "name": "Leverhulme Community Primary School",
+  "address": "Breightmet Drive",
+  "locality": "Breightmet",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL2 6EE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "374275",
+  "northing": "409248",
+  "url": "www.leverhulmecps.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

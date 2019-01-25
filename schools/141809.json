@@ -1,0 +1,18 @@
+{
+  "urn": "141809",
+  "name": "Sandbach Primary Academy",
+  "address": "Crewe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 4NS",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "375411",
+  "northing": "360548",
+  "url": "www.sandbach-pri.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

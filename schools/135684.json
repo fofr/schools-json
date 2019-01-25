@@ -1,0 +1,18 @@
+{
+  "urn": "135684",
+  "name": "CTC Kingshurst Academy",
+  "address": "Cooks Lane",
+  "locality": "Kingshurst",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B37 6NU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "417168",
+  "northing": "287579",
+  "url": "http://www.ctckingshurst.academy",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

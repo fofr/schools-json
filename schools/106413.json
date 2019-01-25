@@ -1,0 +1,18 @@
+{
+  "urn": "106413",
+  "name": "Shevington Community Primary School",
+  "address": "Miles Lane",
+  "locality": "Shevington",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN6 8EW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "353681",
+  "northing": "408648",
+  "url": "www.shevingtonprimary.wigan.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

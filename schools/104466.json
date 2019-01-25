@@ -1,0 +1,18 @@
+{
+  "urn": "104466",
+  "name": "St Marie's Catholic Primary School",
+  "address": "Bigdale Drive",
+  "locality": "Northwood",
+  "address3": "Kirkby",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L33 6XL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "342152",
+  "northing": "399262",
+  "url": "http://www.stmariescps.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

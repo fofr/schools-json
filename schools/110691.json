@@ -1,0 +1,18 @@
+{
+  "urn": "110691",
+  "name": "Southfields Primary School",
+  "address": "Southfields Estate",
+  "locality": "Stanground",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 8PU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "520692",
+  "northing": "296353",
+  "url": "www.southfieldsprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

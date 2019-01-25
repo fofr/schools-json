@@ -1,0 +1,18 @@
+{
+  "urn": "110272",
+  "name": "Rivers Infant School",
+  "address": "Trent Road",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK3 7BB",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "485329",
+  "northing": "234052",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

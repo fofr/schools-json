@@ -1,0 +1,18 @@
+{
+  "urn": "123852",
+  "name": "Bishop Henderson Church of England Primary School, Taunton",
+  "address": "Henderson Close",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 4TU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "321439",
+  "northing": "123695",
+  "url": "www.bishophendersonschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

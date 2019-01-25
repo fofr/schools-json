@@ -1,0 +1,18 @@
+{
+  "urn": "124061",
+  "name": "Moor First School",
+  "address": "School Lane",
+  "locality": "Biddulph Moor",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST8 7HR",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "390764",
+  "northing": "358403",
+  "url": "http://www.moorfirstschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

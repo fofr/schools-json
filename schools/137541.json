@@ -1,0 +1,18 @@
+{
+  "urn": "137541",
+  "name": "Lynn Grove Academy",
+  "address": "Lynn Grove",
+  "locality": "Gorleston",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR31 8AP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "651362",
+  "northing": "304880",
+  "url": "http://www.lynngroveacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

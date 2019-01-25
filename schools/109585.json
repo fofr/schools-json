@@ -1,0 +1,18 @@
+{
+  "urn": "109585",
+  "name": "Tithe Farm Primary School",
+  "address": "Tithe Farm Road",
+  "locality": "Houghton Regis",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 5JB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "501770",
+  "northing": "224604",
+  "url": "www.tithefarmprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

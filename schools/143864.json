@@ -1,0 +1,18 @@
+{
+  "urn": "143864",
+  "name": "Vale of York Academy",
+  "address": "Rawcliffe Drive",
+  "locality": "Clifton Without",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO30 6ZS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "459079",
+  "northing": "453721",
+  "url": "www.valeofyorkacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

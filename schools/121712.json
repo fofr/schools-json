@@ -1,0 +1,18 @@
+{
+  "urn": "121712",
+  "name": "Skipton Girls' High School",
+  "address": "Gargrave Road",
+  "locality": "",
+  "address3": "",
+  "town": "Skipton",
+  "county": "North Yorkshire",
+  "postcode": "BD23 1QL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "398304",
+  "northing": "451970",
+  "url": "http://www.sghs.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

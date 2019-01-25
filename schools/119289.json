@@ -1,0 +1,18 @@
+{
+  "urn": "119289",
+  "name": "Belthorn Primary School",
+  "address": "Belthorn Road",
+  "locality": "Belthorn",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB1 2NY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "371842",
+  "northing": "424568",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

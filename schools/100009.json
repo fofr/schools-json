@@ -1,0 +1,18 @@
+{
+  "urn": "100009",
+  "name": "Beckford Primary School",
+  "address": "Dornfell Street",
+  "locality": "West Hampstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW6 1QL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524888",
+  "northing": "185067",
+  "url": "http://www.beckford.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144575",
+  "name": "Higher Lane Primary School",
+  "address": "Egerton Road",
+  "locality": "Whitefield",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M45 7EX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "380544",
+  "northing": "405480",
+  "url": "www.higherlaneprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

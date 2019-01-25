@@ -1,0 +1,18 @@
+{
+  "urn": "145656",
+  "name": "Mount Wise Community Primary School",
+  "address": "James Street",
+  "locality": "Devonport",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 4LA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "245263",
+  "northing": "54274",
+  "url": "www.mountwiseprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

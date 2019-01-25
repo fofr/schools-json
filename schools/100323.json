@@ -1,0 +1,18 @@
+{
+  "urn": "100323",
+  "name": "Bentworth Primary School",
+  "address": "Bentworth Road",
+  "locality": "Westway",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W12 7AJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522755",
+  "northing": "181081",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

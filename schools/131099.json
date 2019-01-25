@@ -1,0 +1,18 @@
+{
+  "urn": "131099",
+  "name": "West Gate School",
+  "address": "Glenfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 6DG",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "456223",
+  "northing": "304757",
+  "url": "www.westgate.leicester.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Foundation special school"
+}

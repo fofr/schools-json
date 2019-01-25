@@ -1,0 +1,18 @@
+{
+  "urn": "111932",
+  "name": "Lewannick Community Primary School",
+  "address": "Hawks Tor Drive",
+  "locality": "Lewannick",
+  "address3": "",
+  "town": "Launceston",
+  "county": "Cornwall",
+  "postcode": "PL15 7QY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "227510",
+  "northing": "80593",
+  "url": "http://www.lewannick.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "134652",
+  "name": "Chiltern Primary School",
+  "address": "Chiltern Way",
+  "locality": "",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG22 5BB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "460620",
+  "northing": "151604",
+  "url": "www.chiltern-pri.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

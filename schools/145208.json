@@ -1,0 +1,18 @@
+{
+  "urn": "145208",
+  "name": "Gravel Hill Primary School",
+  "address": "Watling Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bexleyheath",
+  "county": "Kent",
+  "postcode": "DA6 7QJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "549770",
+  "northing": "175013",
+  "url": "http://www.gravelhillschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

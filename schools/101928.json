@@ -1,0 +1,18 @@
+{
+  "urn": "101928",
+  "name": "Villiers High School",
+  "address": "Boyd Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Southall",
+  "county": "Middlesex",
+  "postcode": "UB1 3BT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "512936",
+  "northing": "180128",
+  "url": "http://www.villiers.ealing.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

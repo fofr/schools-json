@@ -1,0 +1,18 @@
+{
+  "urn": "128134",
+  "name": "Redewood School",
+  "address": "Pooley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE5 2ST",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "420509",
+  "northing": "566038",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

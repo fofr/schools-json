@@ -1,0 +1,18 @@
+{
+  "urn": "142056",
+  "name": "Bruntcliffe Academy",
+  "address": "Bruntcliffe Lane",
+  "locality": "Morley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS27 0LZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "425146",
+  "northing": "427757",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

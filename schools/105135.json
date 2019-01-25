@@ -1,0 +1,18 @@
+{
+  "urn": "105135",
+  "name": "St Paul's Academy",
+  "address": "Finchale Road",
+  "locality": "Abbey Wood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE2 9PX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "546278",
+  "northing": "179196",
+  "url": "http://www.stpaulsacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

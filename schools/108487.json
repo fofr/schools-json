@@ -1,0 +1,18 @@
+{
+  "urn": "108487",
+  "name": "Wingrove Primary School",
+  "address": "Hadrian Road",
+  "locality": "Fenham",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 9HN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "422523",
+  "northing": "564902",
+  "url": "www.wingrove.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

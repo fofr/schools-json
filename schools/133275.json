@@ -1,0 +1,18 @@
+{
+  "urn": "133275",
+  "name": "Newgate Lane Primary School",
+  "address": "Newgate Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 2LB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454454",
+  "northing": "361066",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130591",
+  "name": "Craven College",
+  "address": "Gargrave Road",
+  "locality": "",
+  "address3": "",
+  "town": "Skipton",
+  "county": "North Yorkshire",
+  "postcode": "BD23 1US",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "397585",
+  "northing": "452004",
+  "url": "www.craven-college.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

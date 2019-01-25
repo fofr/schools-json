@@ -1,0 +1,18 @@
+{
+  "urn": "111626",
+  "name": "Berwick Hills Primary School",
+  "address": "Westerdale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS3 7QH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451181",
+  "northing": "518688",
+  "url": "www.berwickhills.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

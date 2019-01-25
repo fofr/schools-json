@@ -1,0 +1,18 @@
+{
+  "urn": "140290",
+  "name": "Priory Primary School",
+  "address": "Priory Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 5RU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505709",
+  "northing": "430421",
+  "url": "www.prioryprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

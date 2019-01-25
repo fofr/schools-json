@@ -1,0 +1,18 @@
+{
+  "urn": "110668",
+  "name": "The Grove Primary School",
+  "address": "Campkin Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 2NB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "545706",
+  "northing": "261003",
+  "url": "www.thegroveschool.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

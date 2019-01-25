@@ -1,0 +1,18 @@
+{
+  "urn": "146358",
+  "name": "Tameside Primary Academy",
+  "address": "Price Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wednesbury",
+  "county": "",
+  "postcode": "WS10 0EZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "400156",
+  "northing": "294947",
+  "url": "www.tameside.sandwell.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

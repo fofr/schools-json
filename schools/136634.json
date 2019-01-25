@@ -1,0 +1,18 @@
+{
+  "urn": "136634",
+  "name": "West Park School",
+  "address": "West Road",
+  "locality": "Spondon",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE21 7BT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "439572",
+  "northing": "336201",
+  "url": "http://www.westpark.derby.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

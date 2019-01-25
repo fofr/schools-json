@@ -1,0 +1,18 @@
+{
+  "urn": "123510",
+  "name": "Welshampton CofE Primary School",
+  "address": "Welshampton",
+  "locality": "",
+  "address3": "",
+  "town": "Ellesmere",
+  "county": "Shropshire",
+  "postcode": "SY12 0PG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "343320",
+  "northing": "334993",
+  "url": "www.welshamptonceprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

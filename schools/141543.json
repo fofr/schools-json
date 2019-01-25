@@ -1,0 +1,18 @@
+{
+  "urn": "141543",
+  "name": "Sawley Junior School",
+  "address": "Wilmot Street",
+  "locality": "Sawley",
+  "address3": "Long Eaton",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG10 3DQ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "447208",
+  "northing": "332028",
+  "url": "www.sawleyjunior.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

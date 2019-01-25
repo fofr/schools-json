@@ -1,0 +1,18 @@
+{
+  "urn": "130262",
+  "name": "Mossgate Primary School",
+  "address": "Kingsway",
+  "locality": "Heysham",
+  "address3": "",
+  "town": "Morecambe",
+  "county": "Lancashire",
+  "postcode": "LA3 2EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "341983",
+  "northing": "461992",
+  "url": "http://www.mossgate.lancsngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125112",
+  "name": "Kingfield Primary School",
+  "address": "Kingfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU22 9EQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "501123",
+  "northing": "157053",
+  "url": "http://www.kingfield.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

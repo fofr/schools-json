@@ -1,0 +1,18 @@
+{
+  "urn": "141298",
+  "name": "St John's Church of England Academy",
+  "address": "Winsford Avenue",
+  "locality": "Allesley Park",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV5 9HZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "430195",
+  "northing": "279572",
+  "url": "www.stjohnscofecov.net/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

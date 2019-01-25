@@ -1,0 +1,18 @@
+{
+  "urn": "142175",
+  "name": "Blackpool Gateway Academy",
+  "address": "Seymour Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "",
+  "postcode": "FY1 6JH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "331073",
+  "northing": "434593",
+  "url": "www.gateway.fcat.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

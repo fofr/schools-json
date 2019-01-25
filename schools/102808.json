@@ -1,0 +1,18 @@
+{
+  "urn": "102808",
+  "name": "Gordon Primary School",
+  "address": "Golfe Road",
+  "locality": "",
+  "address3": "E7 8pf",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG1 1SU",
+  "minimum_age": "3",
+  "maximum_age": "10",
+  "easting": "544788",
+  "northing": "186235",
+  "url": "http://www.gordonprimary.redbridge.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

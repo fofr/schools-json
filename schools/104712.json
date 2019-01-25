@@ -1,0 +1,18 @@
+{
+  "urn": "104712",
+  "name": "St Julie's Catholic High School",
+  "address": "Speke Road",
+  "locality": "Woolton",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L25 7TN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "342507",
+  "northing": "386517",
+  "url": "http://www.stjulies.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140315",
+  "name": "Kirby Muxloe Primary School",
+  "address": "Barwell Road",
+  "locality": "Kirby Muxloe",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE9 2AA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "451980",
+  "northing": "304222",
+  "url": "http://www.kmprimary.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

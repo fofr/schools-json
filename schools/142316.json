@@ -1,0 +1,18 @@
+{
+  "urn": "142316",
+  "name": "Bradon Forest School",
+  "address": "The Peak",
+  "locality": "Purton",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN5 4AT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "408962",
+  "northing": "187413",
+  "url": "http://www.bradonforest.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

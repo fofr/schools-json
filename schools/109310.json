@@ -1,0 +1,18 @@
+{
+  "urn": "109310",
+  "name": "Nailsea School",
+  "address": "Mizzymead Road",
+  "locality": "Nailsea",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Somerset",
+  "postcode": "BS48 2HN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "347475",
+  "northing": "170384",
+  "url": "http://www.nailseaschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

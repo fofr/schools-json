@@ -1,0 +1,18 @@
+{
+  "urn": "137457",
+  "name": "Cramlington Learning Village",
+  "address": "Highburn",
+  "locality": "",
+  "address3": "",
+  "town": "Cramlington",
+  "county": "Northumberland",
+  "postcode": "NE23 6BN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426176",
+  "northing": "575865",
+  "url": "http://www.cramlingtonlv.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

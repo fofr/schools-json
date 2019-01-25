@@ -1,0 +1,18 @@
+{
+  "urn": "124081",
+  "name": "Millfield Primary School",
+  "address": "Coleshill Street",
+  "locality": "Fazeley",
+  "address3": "",
+  "town": "Tamworth",
+  "county": "Staffordshire",
+  "postcode": "B78 3RQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "420304",
+  "northing": "301705",
+  "url": "http://www.millfield.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

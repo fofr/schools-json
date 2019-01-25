@@ -1,0 +1,18 @@
+{
+  "urn": "143599",
+  "name": "Deansfield Primary School",
+  "address": "Dairsie Road",
+  "locality": "Eltham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 1XP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "543353",
+  "northing": "175720",
+  "url": "http://www.deansfield.greenwich.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

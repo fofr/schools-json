@@ -1,0 +1,18 @@
+{
+  "urn": "110222",
+  "name": "Drayton Parslow Village School",
+  "address": "Main Road",
+  "locality": "Drayton Parslow",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK17 0JR",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "483997",
+  "northing": "228620",
+  "url": "www.three-schools-bucks.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

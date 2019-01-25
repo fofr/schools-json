@@ -1,0 +1,18 @@
+{
+  "urn": "142127",
+  "name": "IKB Academy",
+  "address": "68 Bath Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS31 1SP",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "366226",
+  "northing": "168158",
+  "url": "www.ikbacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

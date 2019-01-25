@@ -1,0 +1,18 @@
+{
+  "urn": "109571",
+  "name": "Surrey Street Primary School",
+  "address": "Cutenhoe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 3NJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "509750",
+  "northing": "220060",
+  "url": "www.surreystreetprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

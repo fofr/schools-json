@@ -1,0 +1,18 @@
+{
+  "urn": "113327",
+  "name": "Tor Bridge Primary School",
+  "address": "Miller Way",
+  "locality": "Estover",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 8UN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "250876",
+  "northing": "58876",
+  "url": "www.torbridge.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

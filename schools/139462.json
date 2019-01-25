@@ -1,0 +1,18 @@
+{
+  "urn": "139462",
+  "name": "Highwoods Community Primary School",
+  "address": "Tynedale Square",
+  "locality": "Highwoods",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO4 9SN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "600718",
+  "northing": "227615",
+  "url": "www.highwoodsprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

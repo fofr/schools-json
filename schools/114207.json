@@ -1,0 +1,18 @@
+{
+  "urn": "114207",
+  "name": "Sugar Hill Primary School",
+  "address": "Sheraton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newton Aycliffe",
+  "county": "County Durham",
+  "postcode": "DL5 5NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427892",
+  "northing": "524834",
+  "url": "www.sugarhill.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

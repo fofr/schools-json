@@ -1,0 +1,18 @@
+{
+  "urn": "123455",
+  "name": "Brookside Primary School and Early Years Centre",
+  "address": "Beaconsfield",
+  "locality": "Brookside",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 1LG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370048",
+  "northing": "305921",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

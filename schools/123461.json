@@ -1,0 +1,18 @@
+{
+  "urn": "123461",
+  "name": "Bicton CofE Primary School and Nursery",
+  "address": "Bicton Lane",
+  "locality": "Bicton",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 8EH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "344753",
+  "northing": "314740",
+  "url": "www.bictonschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

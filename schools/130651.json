@@ -1,0 +1,18 @@
+{
+  "urn": "130651",
+  "name": "Bicton College",
+  "address": "East Budleigh",
+  "locality": "",
+  "address3": "",
+  "town": "Budleigh Salterton",
+  "county": "Devon",
+  "postcode": "EX9 7BY",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "307050",
+  "northing": "86450",
+  "url": "http://www.bicton.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

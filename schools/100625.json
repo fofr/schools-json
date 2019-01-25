@@ -1,0 +1,18 @@
+{
+  "urn": "100625",
+  "name": "Lilian Baylis Technology School",
+  "address": "323 Kennington Lane",
+  "locality": "Kennington",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE11 5QY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "530793",
+  "northing": "178036",
+  "url": "http://www.lilianbaylis.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

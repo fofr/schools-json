@@ -1,0 +1,18 @@
+{
+  "urn": "120665",
+  "name": "Spalding Grammar School",
+  "address": "Priory Road",
+  "locality": "",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE11 2XH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "524640",
+  "northing": "322263",
+  "url": "http://www.spaldinggrammar.lincs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

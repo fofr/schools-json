@@ -1,0 +1,18 @@
+{
+  "urn": "138457",
+  "name": "Wembley High Technology College",
+  "address": "East Lane",
+  "locality": "",
+  "address3": "",
+  "town": "North Wembley",
+  "county": "Middlesex",
+  "postcode": "HA0 3NT",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "517203",
+  "northing": "186265",
+  "url": "http://www.whtc.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

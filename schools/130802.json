@@ -1,0 +1,18 @@
+{
+  "urn": "130802",
+  "name": "Ludlow College",
+  "address": "Mill Street",
+  "locality": "",
+  "address3": "",
+  "town": "Ludlow",
+  "county": "Shropshire",
+  "postcode": "SY8 1GD",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "350976",
+  "northing": "274629",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135967",
+  "name": "Kettering Science Academy",
+  "address": "Deeble Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN15 7AA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "487851",
+  "northing": "278484",
+  "url": "www.ketteringscienceacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

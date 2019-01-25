@@ -1,0 +1,18 @@
+{
+  "urn": "116730",
+  "name": "Woodrow First School",
+  "address": "Longdon Close",
+  "locality": "Woodrow South",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B98 7UZ",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "405695",
+  "northing": "265123",
+  "url": "http://woodrowfs.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

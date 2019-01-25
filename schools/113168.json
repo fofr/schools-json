@@ -1,0 +1,18 @@
+{
+  "urn": "113168",
+  "name": "South Molton Community Primary School",
+  "address": "North Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Molton",
+  "county": "Devon",
+  "postcode": "EX36 3BA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "271036",
+  "northing": "126161",
+  "url": "http://www.southmoltonprimary.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

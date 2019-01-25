@@ -1,0 +1,18 @@
+{
+  "urn": "118203",
+  "name": "Nodehill Middle School",
+  "address": "Upper St James Street",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Isle of Wight",
+  "postcode": "PO30 1LJ",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "449947",
+  "northing": "88853",
+  "url": "http://www.nodehill.iow.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

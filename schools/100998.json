@@ -1,0 +1,18 @@
+{
+  "urn": "100998",
+  "name": "Belleville Primary School",
+  "address": "Belleville Road",
+  "locality": "Battersea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 6PR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527681",
+  "northing": "174732",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127875",
+  "name": "Hamilton First School",
+  "address": "Hamilton Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS7 4EA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "431290",
+  "northing": "435712",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

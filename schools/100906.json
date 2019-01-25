@@ -1,0 +1,18 @@
+{
+  "urn": "100906",
+  "name": "John Scurr Primary School",
+  "address": "Cephas Street",
+  "locality": "Stepney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E1 4AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535216",
+  "northing": "182155",
+  "url": "www.johnscurr.towerhamlets.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101621",
+  "name": "Blenheim Infant School",
+  "address": "Blenheim Road",
+  "locality": "",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR6 9BH",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "547503",
+  "northing": "165864",
+  "url": "http://www.blenheim-inf.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

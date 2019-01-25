@@ -1,0 +1,18 @@
+{
+  "urn": "123466",
+  "name": "Childs Ercall CofE Primary School",
+  "address": "Childs Ercall",
+  "locality": "",
+  "address3": "",
+  "town": "Market Drayton",
+  "county": "Shropshire",
+  "postcode": "TF9 2DA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "366521",
+  "northing": "325096",
+  "url": "http://childsercall.shropshire.digitalbrain.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

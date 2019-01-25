@@ -1,0 +1,18 @@
+{
+  "urn": "109024",
+  "name": "Hambrook Primary School",
+  "address": "Moorend Road",
+  "locality": "Hambrook",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS16 1SJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "364679",
+  "northing": "179269",
+  "url": "http://www.hambrook-pri.s-gloucs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

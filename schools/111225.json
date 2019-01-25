@@ -1,0 +1,18 @@
+{
+  "urn": "111225",
+  "name": "Elton Primary School",
+  "address": "School Lane",
+  "locality": "Elton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH2 4LT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "345648",
+  "northing": "375593",
+  "url": "http://www.elton.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

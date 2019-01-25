@@ -1,0 +1,18 @@
+{
+  "urn": "105627",
+  "name": "Beever Primary School",
+  "address": "Moorby Street",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL1 3QU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393181",
+  "northing": "405634",
+  "url": "www.beever.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

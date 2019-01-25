@@ -1,0 +1,18 @@
+{
+  "urn": "107094",
+  "name": "Walkley Primary School",
+  "address": "Burnaby Crescent",
+  "locality": "Walkley",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S6 2RZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433572",
+  "northing": "388918",
+  "url": "www.walkleyprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

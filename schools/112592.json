@@ -1,0 +1,18 @@
+{
+  "urn": "112592",
+  "name": "Tansley Primary School",
+  "address": "Gold Hill",
+  "locality": "Tansley",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 5FG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "432353",
+  "northing": "359878",
+  "url": "http://www.tansleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

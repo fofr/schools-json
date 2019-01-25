@@ -1,0 +1,18 @@
+{
+  "urn": "137839",
+  "name": "Looe Community Academy",
+  "address": "Sunrising",
+  "locality": "East Looe",
+  "address3": "",
+  "town": "Looe",
+  "county": "Cornwall",
+  "postcode": "PL13 1NQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "225852",
+  "northing": "54541",
+  "url": "http://www.looe.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

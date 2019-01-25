@@ -1,0 +1,18 @@
+{
+  "urn": "123011",
+  "name": "King's Meadow Primary School",
+  "address": "Shakespeare Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Bicester",
+  "county": "Oxfordshire",
+  "postcode": "OX26 2LU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "457119",
+  "northing": "223381",
+  "url": "www.kings-meadow.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

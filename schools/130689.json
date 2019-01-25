@@ -1,0 +1,18 @@
+{
+  "urn": "130689",
+  "name": "Farnborough College of Technology",
+  "address": "Boundary Road",
+  "locality": "",
+  "address3": "",
+  "town": "Farnborough",
+  "county": "Hampshire",
+  "postcode": "GU14 6SB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "487208",
+  "northing": "154809",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

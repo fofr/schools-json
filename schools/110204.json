@@ -1,0 +1,18 @@
+{
+  "urn": "110204",
+  "name": "Manor Road Resource Centre",
+  "address": "Manor Road",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK2 2HP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "488072",
+  "northing": "233506",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

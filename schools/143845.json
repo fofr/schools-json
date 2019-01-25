@@ -1,0 +1,18 @@
+{
+  "urn": "143845",
+  "name": "Wyvern Academy",
+  "address": "Egglestone View",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL3 9SH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "426190",
+  "northing": "515899",
+  "url": "http://wyvernacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

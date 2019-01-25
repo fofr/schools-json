@@ -1,0 +1,18 @@
+{
+  "urn": "113866",
+  "name": "Rossmore Community College",
+  "address": "Herbert Avenue",
+  "locality": "Parkstone",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH12 4HS",
+  "minimum_age": "12",
+  "maximum_age": "18",
+  "easting": "404791",
+  "northing": "93663",
+  "url": "http://www.rossmore.poole.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

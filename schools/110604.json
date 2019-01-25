@@ -1,0 +1,18 @@
+{
+  "urn": "110604",
+  "name": "Cottenham Primary School",
+  "address": "Lambs Lane",
+  "locality": "Cottenham",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 8TA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "544653",
+  "northing": "267532",
+  "url": "www.cottenhamprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

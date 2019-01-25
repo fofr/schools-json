@@ -1,0 +1,18 @@
+{
+  "urn": "111383",
+  "name": "St Berteline's CofE Primary School",
+  "address": "Norton Lane",
+  "locality": "Norton",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 6QN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "355356",
+  "northing": "381895",
+  "url": "http://www.stbertelines.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

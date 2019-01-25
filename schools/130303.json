@@ -1,0 +1,18 @@
+{
+  "urn": "130303",
+  "name": "Gayhurst Community School",
+  "address": "Gayhurst Road",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E8 3EN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534450",
+  "northing": "184386",
+  "url": "http://www.gayhurst.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

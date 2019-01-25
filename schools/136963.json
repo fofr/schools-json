@@ -1,0 +1,18 @@
+{
+  "urn": "136963",
+  "name": "Finham Park School",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV3 6EA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "432254",
+  "northing": "276124",
+  "url": "http://finhampark.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

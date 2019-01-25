@@ -1,0 +1,18 @@
+{
+  "urn": "123597",
+  "name": "Charlton School",
+  "address": "Apley Avenue",
+  "locality": "Welllington",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 3FA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "364777",
+  "northing": "313061",
+  "url": "www.charlton.uk.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

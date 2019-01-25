@@ -1,0 +1,18 @@
+{
+  "urn": "100029",
+  "name": "Christ Church School",
+  "address": "Redhill Street",
+  "locality": "Camden",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW1 4BD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528821",
+  "northing": "182991",
+  "url": "http://www.cchurchnw1.camden.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

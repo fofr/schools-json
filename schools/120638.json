@@ -1,0 +1,18 @@
+{
+  "urn": "120638",
+  "name": "The Charles Read High School",
+  "address": "Bourne Road",
+  "locality": "Corby Glen",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG33 4NT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "500164",
+  "northing": "324654",
+  "url": "http://www.charles-read.lincs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

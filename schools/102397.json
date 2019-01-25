@@ -1,0 +1,18 @@
+{
+  "urn": "102397",
+  "name": "Ryefield Primary School",
+  "address": "Ryefield Avenue",
+  "locality": "Hillingdon",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "",
+  "postcode": "UB10 9DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508478",
+  "northing": "183834",
+  "url": "http://www.ryefield.hillingdon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

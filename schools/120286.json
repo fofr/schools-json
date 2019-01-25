@@ -1,0 +1,18 @@
+{
+  "urn": "120286",
+  "name": "Soar Valley College",
+  "address": "Gleneagles Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 7GY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "460560",
+  "northing": "307296",
+  "url": "http://www.soarvalley.leicester.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102117",
+  "name": "Earlham Infant School",
+  "address": "Earlham Grove",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N22 5HJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "531072",
+  "northing": "191060",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

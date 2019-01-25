@@ -1,0 +1,18 @@
+{
+  "urn": "136582",
+  "name": "Invicta Grammar School",
+  "address": "Huntsman Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME14 5DS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "577046",
+  "northing": "155881",
+  "url": "http://www.invicta.viat.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

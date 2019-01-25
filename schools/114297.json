@@ -1,0 +1,18 @@
+{
+  "urn": "114297",
+  "name": "Wolsingham School",
+  "address": "The Grammar School Building",
+  "locality": "West End",
+  "address3": "Wolsingham",
+  "town": "Bishop Auckland",
+  "county": "County Durham",
+  "postcode": "DL13 3DJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "406947",
+  "northing": "537243",
+  "url": "http://www.wolsinghamschool.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

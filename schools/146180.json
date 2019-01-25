@@ -1,0 +1,18 @@
+{
+  "urn": "146180",
+  "name": "Saint Francis Catholic Primary School",
+  "address": "Dalby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Melton Mowbray",
+  "county": "Leicestershire",
+  "postcode": "LE13 0BP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "475021",
+  "northing": "318588",
+  "url": "http://www.st-francis.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

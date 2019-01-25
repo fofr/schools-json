@@ -1,0 +1,18 @@
+{
+  "urn": "132006",
+  "name": "Clevedon School",
+  "address": "Valley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Clevedon",
+  "county": "Somerset",
+  "postcode": "BS21 6AH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "341531",
+  "northing": "172297",
+  "url": "www.clevedonschool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

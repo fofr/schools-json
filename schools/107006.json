@@ -1,0 +1,18 @@
+{
+  "urn": "107006",
+  "name": "Mundella Primary School",
+  "address": "Mundella Place",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S8 8SJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "435346",
+  "northing": "383238",
+  "url": "www.mundella.sheffield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

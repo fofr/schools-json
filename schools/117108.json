@@ -1,0 +1,18 @@
+{
+  "urn": "117108",
+  "name": "Two Waters Primary School",
+  "address": "High Ridge Close",
+  "locality": "Apsley",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP3 0AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "505650",
+  "northing": "204968",
+  "url": "http://www.twowaters.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

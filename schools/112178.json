@@ -1,0 +1,18 @@
+{
+  "urn": "112178",
+  "name": "Clifton Primary School",
+  "address": "Clifton",
+  "locality": "",
+  "address3": "",
+  "town": "Penrith",
+  "county": "Cumbria",
+  "postcode": "CA10 2EG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "353439",
+  "northing": "526570",
+  "url": "http://www.clifton.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

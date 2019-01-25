@@ -1,0 +1,18 @@
+{
+  "urn": "138116",
+  "name": "Campsmount Academy",
+  "address": "Ryecroft Road",
+  "locality": "Norton",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN6 9AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "453871",
+  "northing": "414591",
+  "url": "www.campsmount.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

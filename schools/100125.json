@@ -1,0 +1,18 @@
+{
+  "urn": "100125",
+  "name": "Fossdene Primary School",
+  "address": "Victoria Way",
+  "locality": "Charlton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE7 7NQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540841",
+  "northing": "178110",
+  "url": "www.fossdeneschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

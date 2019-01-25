@@ -1,0 +1,18 @@
+{
+  "urn": "101785",
+  "name": "Norbury Manor Primary School",
+  "address": "Abingdon Road",
+  "locality": "Norbury",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW16 5QR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530283",
+  "northing": "169557",
+  "url": "www.nmp.croydon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

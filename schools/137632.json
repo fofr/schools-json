@@ -1,0 +1,18 @@
+{
+  "urn": "137632",
+  "name": "Etonbury Academy",
+  "address": "Stotfold Road",
+  "locality": "",
+  "address3": "",
+  "town": "Arlesey",
+  "county": "Bedfordshire",
+  "postcode": "SG15 6XS",
+  "minimum_age": "9",
+  "maximum_age": "19",
+  "easting": "520449",
+  "northing": "237130",
+  "url": "http://www.etonbury.org.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

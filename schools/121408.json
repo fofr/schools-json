@@ -1,0 +1,18 @@
+{
+  "urn": "121408",
+  "name": "Langcliffe Community Primary School",
+  "address": "Main Street",
+  "locality": "Langcliffe",
+  "address3": "",
+  "town": "Settle",
+  "county": "North Yorkshire",
+  "postcode": "BD24 9NF",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "382336",
+  "northing": "465110",
+  "url": "http://www.langcliffe.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101665",
+  "name": "Hayes Primary School",
+  "address": "George Lane",
+  "locality": "Hayes",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR2 7LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "540917",
+  "northing": "166336",
+  "url": "http://www.hayes-pri.bromley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116504",
+  "name": "Applemore College",
+  "address": "Roman Road",
+  "locality": "Dibden Purlieu",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO45 4RQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "440221",
+  "northing": "107007",
+  "url": "http://www.applemore.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

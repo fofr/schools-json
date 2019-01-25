@@ -1,0 +1,18 @@
+{
+  "urn": "135149",
+  "name": "Madeley Academy",
+  "address": "Castlefields Way",
+  "locality": "Madeley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 5FB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "369117",
+  "northing": "305171",
+  "url": "www.madeleyacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

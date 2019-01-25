@@ -1,0 +1,18 @@
+{
+  "urn": "136483",
+  "name": "Oldfield School",
+  "address": "Kelston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA1 9AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "371937",
+  "northing": "166086",
+  "url": "http://oldfieldschool.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

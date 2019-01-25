@@ -1,0 +1,18 @@
+{
+  "urn": "115567",
+  "name": "Offa's Mead Primary School",
+  "address": "Beachley Road",
+  "locality": "Sedbury",
+  "address3": "",
+  "town": "Chepstow",
+  "county": "Gloucestershire",
+  "postcode": "NP16 7DT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "354276",
+  "northing": "193854",
+  "url": "http://www.offasmead.ik.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

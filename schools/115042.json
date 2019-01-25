@@ -1,0 +1,18 @@
+{
+  "urn": "115042",
+  "name": "Warley Primary School",
+  "address": "Chindits Lane",
+  "locality": "Warley",
+  "address3": "",
+  "town": "Brentwood",
+  "county": "Essex",
+  "postcode": "CM14 5LF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "559411",
+  "northing": "192073",
+  "url": "www.warleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

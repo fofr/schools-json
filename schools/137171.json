@@ -1,0 +1,18 @@
+{
+  "urn": "137171",
+  "name": "Wirral Grammar School for Girls",
+  "address": "Heath Road",
+  "locality": "Bebington",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH63 3AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "332590",
+  "northing": "383988",
+  "url": "http://www.wirralgirls.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

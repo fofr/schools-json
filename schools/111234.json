@@ -1,0 +1,18 @@
+{
+  "urn": "111234",
+  "name": "Barrow Hall Community Primary School",
+  "address": "Sophia Drive",
+  "locality": "Great Sankey",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA5 3TX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "356514",
+  "northing": "389977",
+  "url": "www.barrowhall.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

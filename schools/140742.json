@@ -1,0 +1,18 @@
+{
+  "urn": "140742",
+  "name": "Pewsey Primary School",
+  "address": "Wilcot Road",
+  "locality": "",
+  "address3": "",
+  "town": "Pewsey",
+  "county": "Wiltshire",
+  "postcode": "SN9 5EJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "415964",
+  "northing": "160203",
+  "url": "http://www.pewsey.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117303",
+  "name": "Newberries Primary School",
+  "address": "Newberries Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Radlett",
+  "county": "Hertfordshire",
+  "postcode": "WD7 7EL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "517094",
+  "northing": "199511",
+  "url": "www.newberries.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

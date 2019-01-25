@@ -1,0 +1,18 @@
+{
+  "urn": "130493",
+  "name": "Wirral Metropolitan College",
+  "address": "Conway Park Campus",
+  "locality": "Conway Park",
+  "address3": "Europa Boulevard",
+  "town": "Birkenhead",
+  "county": "Merseyside",
+  "postcode": "CH41 4NT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "332184",
+  "northing": "388979",
+  "url": "www.wmc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

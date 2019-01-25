@@ -1,0 +1,18 @@
+{
+  "urn": "142196",
+  "name": "Fairfield Primary School",
+  "address": "Gallowbarrow",
+  "locality": "",
+  "address3": "",
+  "town": "Cockermouth",
+  "county": "Cumbria",
+  "postcode": "CA13 0DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "311942",
+  "northing": "530460",
+  "url": "http://www.fairfieldprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

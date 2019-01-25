@@ -1,0 +1,18 @@
+{
+  "urn": "106677",
+  "name": "Toll Bar Primary School",
+  "address": "Askern Road",
+  "locality": "Toll Bar",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN5 0QR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "456103",
+  "northing": "408016",
+  "url": "www.tollbar.doncaster.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

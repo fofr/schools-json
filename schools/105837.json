@@ -1,0 +1,18 @@
+{
+  "urn": "105837",
+  "name": "Falinge Park High School",
+  "address": "Falinge Road",
+  "locality": "Shawclough",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL12 6LD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "388912",
+  "northing": "414290",
+  "url": "http://www.falingepark.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

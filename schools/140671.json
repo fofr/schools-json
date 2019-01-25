@@ -1,0 +1,18 @@
+{
+  "urn": "140671",
+  "name": "Pinkwell Primary School",
+  "address": "Pinkwell Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hayes",
+  "county": "Middlesex",
+  "postcode": "UB3 1PG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508426",
+  "northing": "178846",
+  "url": "www.pinkwellschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

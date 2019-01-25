@@ -1,0 +1,18 @@
+{
+  "urn": "144139",
+  "name": "Ranelagh Primary School",
+  "address": "Corporation Street",
+  "locality": "Stratford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E15 3DN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539467",
+  "northing": "183286",
+  "url": "www.ranelagh.newham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

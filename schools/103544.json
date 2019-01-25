@@ -1,0 +1,18 @@
+{
+  "urn": "103544",
+  "name": "Walmley Infant School",
+  "address": "Walmley Ash Road",
+  "locality": "Walmley",
+  "address3": "",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B76 1JB",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "414279",
+  "northing": "293095",
+  "url": "www.walmleyinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

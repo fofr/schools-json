@@ -1,0 +1,18 @@
+{
+  "urn": "103391",
+  "name": "Calshot Primary School",
+  "address": "Calshot Road",
+  "locality": "Great Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B42 2BY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405694",
+  "northing": "293841",
+  "url": "www.calshot.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

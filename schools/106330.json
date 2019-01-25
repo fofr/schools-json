@@ -1,0 +1,18 @@
+{
+  "urn": "106330",
+  "name": "Woodsend Primary School",
+  "address": "Lydney Road",
+  "locality": "Flixton",
+  "address3": "Urmston",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M41 8RN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "373703",
+  "northing": "395153",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

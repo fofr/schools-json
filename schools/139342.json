@@ -1,0 +1,18 @@
+{
+  "urn": "139342",
+  "name": "Great Dalby School",
+  "address": "Top End",
+  "locality": "Great Dalby",
+  "address3": "",
+  "town": "Melton Mowbray",
+  "county": "Leicestershire",
+  "postcode": "LE14 2HA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "474091",
+  "northing": "314420",
+  "url": "http://www.greatdalbyprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

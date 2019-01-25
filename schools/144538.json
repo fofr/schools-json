@@ -1,0 +1,18 @@
+{
+  "urn": "144538",
+  "name": "Kingsway Primary School",
+  "address": "Kingsway North",
+  "locality": "Braunstone Town",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 3BD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "455174",
+  "northing": "302643",
+  "url": "www.kingsway.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

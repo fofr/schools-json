@@ -1,0 +1,18 @@
+{
+  "urn": "102399",
+  "name": "Whitehall Junior School",
+  "address": "Cowley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "",
+  "postcode": "UB8 2LX",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "505413",
+  "northing": "183387",
+  "url": "http://www.whitehalljunior.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

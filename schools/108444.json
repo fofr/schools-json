@@ -1,0 +1,18 @@
+{
+  "urn": "108444",
+  "name": "Grange First School",
+  "address": "Norham Road",
+  "locality": "Gosforth",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE3 2NP",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "423882",
+  "northing": "568860",
+  "url": "www.grange.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

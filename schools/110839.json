@@ -1,0 +1,18 @@
+{
+  "urn": "110839",
+  "name": "St Pauls CofE VA Primary School",
+  "address": "Coronation Street",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB2 1HJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "545477",
+  "northing": "257514",
+  "url": "http://www.stpauls.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

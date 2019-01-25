@@ -1,0 +1,18 @@
+{
+  "urn": "104137",
+  "name": "Valley Nursery School",
+  "address": "Blakenall Heath",
+  "locality": "Blakenall",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 1HT",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "400747",
+  "northing": "301867",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

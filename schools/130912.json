@@ -1,0 +1,18 @@
+{
+  "urn": "130912",
+  "name": "Paddington Academy",
+  "address": "50 Marylands Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W9 2DR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "525518",
+  "northing": "182268",
+  "url": "www.paddington-academy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

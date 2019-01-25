@@ -1,0 +1,18 @@
+{
+  "urn": "102940",
+  "name": "Kew College",
+  "address": "24-26 Cumberland Road",
+  "locality": "Kew Gardens",
+  "address3": "Kew",
+  "town": "Richmond",
+  "county": "Surrey",
+  "postcode": "TW9 3HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "519208",
+  "northing": "177131",
+  "url": "kewcollege.com",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

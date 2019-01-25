@@ -1,0 +1,18 @@
+{
+  "urn": "138579",
+  "name": "Hersden Village Primary School",
+  "address": "Shaftesbury Road",
+  "locality": "Hersden",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT3 4HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "620217",
+  "northing": "162160",
+  "url": "www.hersden.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

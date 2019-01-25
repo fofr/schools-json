@@ -1,0 +1,18 @@
+{
+  "urn": "130649",
+  "name": "City College Plymouth",
+  "address": "Kings Road",
+  "locality": "Devonport",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 5QG",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "245964",
+  "northing": "54911",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

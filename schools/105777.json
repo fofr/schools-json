@@ -1,0 +1,18 @@
+{
+  "urn": "105777",
+  "name": "Lowerplace Primary School",
+  "address": "Kingsway",
+  "locality": "",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL16 4UU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390584",
+  "northing": "412003",
+  "url": "www.lowerplace.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

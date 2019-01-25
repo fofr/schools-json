@@ -1,0 +1,18 @@
+{
+  "urn": "145800",
+  "name": "Alderman Bolton Community Primary School",
+  "address": "Longdin Street",
+  "locality": "",
+  "address3": "Latchford",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 1PW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "362515",
+  "northing": "387419",
+  "url": "www.aldermanbolton.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

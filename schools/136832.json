@@ -1,0 +1,18 @@
+{
+  "urn": "136832",
+  "name": "Thomas Knyvett College",
+  "address": "Stanwell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Surrey",
+  "postcode": "TW15 3DU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "506324",
+  "northing": "172274",
+  "url": "http://thomasknyvett.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

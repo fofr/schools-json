@@ -1,0 +1,18 @@
+{
+  "urn": "116083",
+  "name": "Castle Primary School",
+  "address": "Castle Street",
+  "locality": "Portchester",
+  "address3": "",
+  "town": "Fareham",
+  "county": "Hampshire",
+  "postcode": "PO16 9QQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "461981",
+  "northing": "105129",
+  "url": "www.castleprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

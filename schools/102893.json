@@ -1,0 +1,18 @@
+{
+  "urn": "102893",
+  "name": "Meadlands Primary School",
+  "address": "Broughton Avenue",
+  "locality": "Ham",
+  "address3": "",
+  "town": "Richmond",
+  "county": "Surrey",
+  "postcode": "TW10 7TS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517185",
+  "northing": "171944",
+  "url": "www.meadlands.richmond.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127200",
+  "name": "Pelsall Community School",
+  "address": "Pelsall Lane",
+  "locality": "Rushall",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS4 1NG",
+  "minimum_age": "15",
+  "maximum_age": "17",
+  "easting": "402472",
+  "northing": "301941",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

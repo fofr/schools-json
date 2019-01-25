@@ -1,0 +1,18 @@
+{
+  "urn": "127325",
+  "name": "University Community School",
+  "address": "Mount Vernon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L7 3EA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "336240",
+  "northing": "390423",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

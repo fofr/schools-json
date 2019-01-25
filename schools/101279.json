@@ -1,0 +1,18 @@
+{
+  "urn": "101279",
+  "name": "Foulds School",
+  "address": "Byng Road",
+  "locality": "",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN5 4NR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "523906",
+  "northing": "196826",
+  "url": "www.fouldsp.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

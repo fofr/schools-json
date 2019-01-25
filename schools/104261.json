@@ -1,0 +1,18 @@
+{
+  "urn": "104261",
+  "name": "Queen Mary's High School",
+  "address": "Upper Forster Street",
+  "locality": "",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS4 2AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "401731",
+  "northing": "299105",
+  "url": "http://www.queenmaryshigh.walsall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

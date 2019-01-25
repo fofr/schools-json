@@ -1,0 +1,18 @@
+{
+  "urn": "137949",
+  "name": "Wayland Academy Norfolk",
+  "address": "Merton Road",
+  "locality": "Watton",
+  "address3": "",
+  "town": "Thetford",
+  "county": "Norfolk",
+  "postcode": "IP25 6BA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "591525",
+  "northing": "300203",
+  "url": "www.waylandacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

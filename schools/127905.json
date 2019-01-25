@@ -1,0 +1,18 @@
+{
+  "urn": "127905",
+  "name": "Ninelands Infant School",
+  "address": "Ninelands Lane",
+  "locality": "Garforth",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS25 1NT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "441102",
+  "northing": "432702",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

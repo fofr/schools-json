@@ -1,0 +1,18 @@
+{
+  "urn": "140126",
+  "name": "Bishop Milner Catholic College",
+  "address": "Burton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY1 3BY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "393174",
+  "northing": "291299",
+  "url": "http://www.bmilner.dudley.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

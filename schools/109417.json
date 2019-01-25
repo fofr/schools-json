@@ -1,0 +1,18 @@
+{
+  "urn": "109417",
+  "name": "Peter Pan Nursery School",
+  "address": "Edward Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 9DR",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "504576",
+  "northing": "248650",
+  "url": "www.bedfordnurseryschools.com",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

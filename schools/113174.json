@@ -1,0 +1,18 @@
+{
+  "urn": "113174",
+  "name": "Winkleigh Primary School",
+  "address": "Farmer Frank's Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Winkleigh",
+  "county": "Devon",
+  "postcode": "EX19 8JQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "263095",
+  "northing": "107779",
+  "url": "http://www.winkleigh.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123358",
+  "name": "Church Aston Infant School",
+  "address": "Church Aston",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Shropshire",
+  "postcode": "TF10 9JN",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "374479",
+  "northing": "317781",
+  "url": "www.churchastoninfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

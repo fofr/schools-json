@@ -1,0 +1,18 @@
+{
+  "urn": "138043",
+  "name": "Bursley Academy",
+  "address": "Bursley Way",
+  "locality": "Bradwell",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 8JQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384538",
+  "northing": "349659",
+  "url": "http://www.bursley.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

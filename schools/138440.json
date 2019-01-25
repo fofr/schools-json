@@ -1,0 +1,18 @@
+{
+  "urn": "138440",
+  "name": "Charles Warren Academy",
+  "address": "Old Groveway",
+  "locality": "Simpson",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK6 3AZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "487933",
+  "northing": "236182",
+  "url": "www.charleswarrenacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123672",
+  "name": "Bowlish Infant School",
+  "address": "Bowlish",
+  "locality": "",
+  "address3": "",
+  "town": "Shepton Mallet",
+  "county": "Somerset",
+  "postcode": "BA4 5JQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "361063",
+  "northing": "143935",
+  "url": "www.bowlishinfantschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

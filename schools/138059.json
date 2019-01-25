@@ -1,0 +1,18 @@
+{
+  "urn": "138059",
+  "name": "Rockwood Academy",
+  "address": "Naseby Road",
+  "locality": "Alum Rock",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B8 3HG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "410621",
+  "northing": "288154",
+  "url": "http://www.rockwood-academy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

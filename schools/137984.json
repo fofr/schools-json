@@ -1,0 +1,18 @@
+{
+  "urn": "137984",
+  "name": "Wigston Academy",
+  "address": "Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wigston",
+  "county": "Leicestershire",
+  "postcode": "LE18 2DT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "459962",
+  "northing": "298603",
+  "url": "www.wigstonacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

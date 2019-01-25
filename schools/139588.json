@@ -1,0 +1,18 @@
+{
+  "urn": "139588",
+  "name": "Liverpool Life Sciences UTC",
+  "address": "41 Greenland Street",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L1 0BS",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "335019",
+  "northing": "389087",
+  "url": "http://lifesciencesutc.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

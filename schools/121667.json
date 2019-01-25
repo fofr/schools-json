@@ -1,0 +1,18 @@
+{
+  "urn": "121667",
+  "name": "Caedmon College Whitby",
+  "address": "Prospect Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Whitby",
+  "county": "North Yorkshire",
+  "postcode": "YO21 1LA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "489227",
+  "northing": "510489",
+  "url": "http://www.ccwhitby.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

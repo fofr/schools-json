@@ -1,0 +1,18 @@
+{
+  "urn": "111260",
+  "name": "Tarporley CofE Primary School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tarporley",
+  "county": "Cheshire",
+  "postcode": "CW6 0AN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "355560",
+  "northing": "362489",
+  "url": "www.tarporleyce.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

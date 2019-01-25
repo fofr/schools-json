@@ -1,0 +1,18 @@
+{
+  "urn": "140003",
+  "name": "West End Academy",
+  "address": "Regent Street",
+  "locality": "Hemsworth",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 4QJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442522",
+  "northing": "413397",
+  "url": "www.west-endacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111624",
+  "name": "Layfield Primary School",
+  "address": "Everingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Yarm",
+  "county": "North Yorkshire",
+  "postcode": "TS15 9TF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "441703",
+  "northing": "511390",
+  "url": "www.sbcschools.org.uk/layfield",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

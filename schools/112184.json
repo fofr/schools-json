@@ -1,0 +1,18 @@
+{
+  "urn": "112184",
+  "name": "Milnthorpe Primary School",
+  "address": "Firs Road",
+  "locality": "",
+  "address3": "",
+  "town": "Milnthorpe",
+  "county": "Cumbria",
+  "postcode": "LA7 7QF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "349904",
+  "northing": "481347",
+  "url": "www.milnthorpe.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

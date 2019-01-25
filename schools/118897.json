@@ -1,0 +1,18 @@
+{
+  "urn": "118897",
+  "name": "The Malling School",
+  "address": "Beech Road",
+  "locality": "East Malling",
+  "address3": "",
+  "town": "West Malling",
+  "county": "Kent",
+  "postcode": "ME19 6DH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "569778",
+  "northing": "157407",
+  "url": "www.themallingschool.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

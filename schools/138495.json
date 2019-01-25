@@ -1,0 +1,18 @@
+{
+  "urn": "138495",
+  "name": "Harris Academy Morden",
+  "address": "Lilleshall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Morden",
+  "county": "Surrey",
+  "postcode": "SM4 6DU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "526739",
+  "northing": "167418",
+  "url": "http://www.harrismorden.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

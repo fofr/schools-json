@@ -1,0 +1,18 @@
+{
+  "urn": "101870",
+  "name": "North Ealing Primary School",
+  "address": "Pitshanger Lane",
+  "locality": "Ealing",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W5 1RP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "516812",
+  "northing": "182139",
+  "url": "www.northealingprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

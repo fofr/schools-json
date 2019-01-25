@@ -1,0 +1,18 @@
+{
+  "urn": "138872",
+  "name": "The Newark Academy",
+  "address": "London Road",
+  "locality": "Balderton",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG24 3AL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "481452",
+  "northing": "352403",
+  "url": "http://www.newarkacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

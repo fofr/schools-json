@@ -1,0 +1,18 @@
+{
+  "urn": "136581",
+  "name": "Valley Park School",
+  "address": "Huntsman Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME14 5DT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "577242",
+  "northing": "155795",
+  "url": "http://www.valleypark.viat.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

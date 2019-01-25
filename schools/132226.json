@@ -1,0 +1,18 @@
+{
+  "urn": "132226",
+  "name": "Greenfield Primary School",
+  "address": "Gwendoline Drive",
+  "locality": "Countesthorpe",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE8 5SG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458366",
+  "northing": "295684",
+  "url": "http://greenfieldprimary.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

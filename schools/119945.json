@@ -1,0 +1,18 @@
+{
+  "urn": "119945",
+  "name": "Oakthorpe Primary School",
+  "address": "School Street",
+  "locality": "Oakthorpe",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE12 7RE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "432507",
+  "northing": "313057",
+  "url": "www.oakthorpe.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

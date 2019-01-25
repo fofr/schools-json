@@ -1,0 +1,18 @@
+{
+  "urn": "135053",
+  "name": "Heronswood Primary School",
+  "address": "Heronswood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kidderminster",
+  "county": "Worcestershire",
+  "postcode": "DY10 4EX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "384293",
+  "northing": "274747",
+  "url": "www.heronwoodprimary.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

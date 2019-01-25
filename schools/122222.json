@@ -1,0 +1,18 @@
+{
+  "urn": "122222",
+  "name": "Beaufront First School",
+  "address": "Sandhoe",
+  "locality": "",
+  "address3": "",
+  "town": "Hexham",
+  "county": "Northumberland",
+  "postcode": "NE46 4LY",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "395782",
+  "northing": "566384",
+  "url": "beaufront-first-school.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

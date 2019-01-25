@@ -1,0 +1,18 @@
+{
+  "urn": "100582",
+  "name": "Stockwell Primary School",
+  "address": "Stockwell Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW9 9TG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "530821",
+  "northing": "175861",
+  "url": "http://www.stockwell-pri.lambeth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

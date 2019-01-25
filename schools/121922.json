@@ -1,0 +1,18 @@
+{
+  "urn": "121922",
+  "name": "Lyncrest Primary School",
+  "address": "Lyncrest Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN5 5PE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "473233",
+  "northing": "261136",
+  "url": "www.lyncrestprimary.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114730",
+  "name": "Langham Primary School",
+  "address": "School Road",
+  "locality": "Langham",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO4 5PB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "602683",
+  "northing": "231792",
+  "url": "http://www.langham.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

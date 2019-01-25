@@ -1,0 +1,18 @@
+{
+  "urn": "113109",
+  "name": "Shute Community Primary School",
+  "address": "Haddon Road",
+  "locality": "Shute",
+  "address3": "",
+  "town": "Axminster",
+  "county": "Devon",
+  "postcode": "EX13 7QR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "325346",
+  "northing": "97516",
+  "url": "www.shuteprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

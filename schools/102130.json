@@ -1,0 +1,18 @@
+{
+  "urn": "102130",
+  "name": "Weston Park Primary School",
+  "address": "Denton Road",
+  "locality": "Hornsey",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N8 9WP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530869",
+  "northing": "188546",
+  "url": "www.westonparkprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

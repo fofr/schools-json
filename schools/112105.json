@@ -1,0 +1,18 @@
+{
+  "urn": "112105",
+  "name": "Brampton Infant School",
+  "address": "Moat Street",
+  "locality": "",
+  "address3": "",
+  "town": "Brampton",
+  "county": "Cumbria",
+  "postcode": "CA8 1UJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "353163",
+  "northing": "561304",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

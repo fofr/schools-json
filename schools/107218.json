@@ -1,0 +1,18 @@
+{
+  "urn": "107218",
+  "name": "Newby Primary School",
+  "address": "Ryan Street",
+  "locality": "Manchester Road",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD5 7DQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415936",
+  "northing": "431440",
+  "url": "http://www.newbyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

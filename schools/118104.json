@@ -1,0 +1,18 @@
+{
+  "urn": "118104",
+  "name": "David Lister School",
+  "address": "Rustenburg Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU9 2PR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "512116",
+  "northing": "430008",
+  "url": "http://www.davidlister.net/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

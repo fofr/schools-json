@@ -1,0 +1,18 @@
+{
+  "urn": "142988",
+  "name": "Summerbank Primary Academy",
+  "address": "Summerbank Road",
+  "locality": "Tunstall",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 5HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385558",
+  "northing": "351841",
+  "url": "www.summerbank.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112104",
+  "name": "Blennerhasset School",
+  "address": "Blennerhasset",
+  "locality": "",
+  "address3": "",
+  "town": "Wigton",
+  "county": "Cumbria",
+  "postcode": "CA7 3RL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "317879",
+  "northing": "541564",
+  "url": "http://www.blennerhasset.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

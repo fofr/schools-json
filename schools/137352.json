@@ -1,0 +1,18 @@
+{
+  "urn": "137352",
+  "name": "Shelley College",
+  "address": "Huddersfield Road",
+  "locality": "Shelley",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD8 8NL",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "422249",
+  "northing": "410653",
+  "url": "http://home.shelleycollege.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

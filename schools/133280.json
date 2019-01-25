@@ -1,0 +1,18 @@
+{
+  "urn": "133280",
+  "name": "Abbey Primary School",
+  "address": "Stuart Avenue",
+  "locality": "",
+  "address3": "Forest Town",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 0AB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455666",
+  "northing": "361557",
+  "url": "http://www.abbeyprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

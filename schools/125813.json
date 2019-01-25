@@ -1,0 +1,18 @@
+{
+  "urn": "125813",
+  "name": "Area B - Out of School Learning Service",
+  "address": "The Flinstone Centre",
+  "locality": "East Street",
+  "address3": "",
+  "town": "Littlehampton",
+  "county": "West Sussex",
+  "postcode": "BN17 6AW",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "503013",
+  "northing": "102221",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137826",
+  "name": "Impington Village College",
+  "address": "New Road",
+  "locality": "Impington",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 9LX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "544620",
+  "northing": "263168",
+  "url": "http://www.impington.cambs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

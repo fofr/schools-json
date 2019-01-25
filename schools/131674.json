@@ -1,0 +1,18 @@
+{
+  "urn": "131674",
+  "name": "Northbrook Primary School",
+  "address": "Bannister Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Leyland",
+  "county": "Lancashire",
+  "postcode": "PR25 2GB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "353631",
+  "northing": "422390",
+  "url": "www.northbrookschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

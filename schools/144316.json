@@ -1,0 +1,18 @@
+{
+  "urn": "144316",
+  "name": "Dereham Neatherd High School",
+  "address": "Norwich Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dereham",
+  "county": "Norfolk",
+  "postcode": "NR20 3AX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "599949",
+  "northing": "313239",
+  "url": "http://neatherd.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

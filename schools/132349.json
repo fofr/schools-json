@@ -1,0 +1,18 @@
+{
+  "urn": "132349",
+  "name": "Anlaby Primary School",
+  "address": "First Lane",
+  "locality": "Anlaby",
+  "address3": "",
+  "town": "Hull",
+  "county": "East Yorkshire",
+  "postcode": "HU10 6UE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "504053",
+  "northing": "428567",
+  "url": "www.anlabyprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

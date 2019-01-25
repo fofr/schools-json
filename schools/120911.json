@@ -1,0 +1,18 @@
+{
+  "urn": "120911",
+  "name": "Bure Valley School",
+  "address": "Hungate Street",
+  "locality": "Aylsham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR11 6JZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "619259",
+  "northing": "326332",
+  "url": "www.burevalleyschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

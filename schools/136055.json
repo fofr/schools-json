@@ -1,0 +1,18 @@
+{
+  "urn": "136055",
+  "name": "Broadmead Primary School",
+  "address": "366 Sydenham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 2EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532944",
+  "northing": "167143",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

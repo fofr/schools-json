@@ -1,0 +1,18 @@
+{
+  "urn": "138690",
+  "name": "Barclay Primary School",
+  "address": "155 Canterbury Road",
+  "locality": "Leyton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E10 6EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538623",
+  "northing": "188214",
+  "url": "www.barclayprimary.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117070",
+  "name": "Heath Lane Nursery School",
+  "address": "Heath Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP1 1TT",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "505135",
+  "northing": "206809",
+  "url": "http://www.heathlane.herts.sch.uk/",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

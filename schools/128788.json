@@ -1,0 +1,18 @@
+{
+  "urn": "128788",
+  "name": "Castlefield School",
+  "address": "Queen's Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Dorchester",
+  "county": "Dorset",
+  "postcode": "DT1 2ET",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "368059",
+  "northing": "89960",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

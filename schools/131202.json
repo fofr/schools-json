@@ -1,0 +1,18 @@
+{
+  "urn": "131202",
+  "name": "Temple Primary School",
+  "address": "Smedley Lane",
+  "locality": "Cheetham",
+  "address3": "Temple Primary School",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M8 8SA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384665",
+  "northing": "400779",
+  "url": "www.temple.manchester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136913",
+  "name": "Crispin School Academy",
+  "address": "Church Road",
+  "locality": "",
+  "address3": "",
+  "town": "Street",
+  "county": "Somerset",
+  "postcode": "BA16 0AD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "348844",
+  "northing": "137043",
+  "url": "http://www.crispinschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

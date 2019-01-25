@@ -1,0 +1,18 @@
+{
+  "urn": "111033",
+  "name": "Buglawton Primary School",
+  "address": "Buxton Old Road",
+  "locality": "",
+  "address3": "",
+  "town": "Congleton",
+  "county": "Cheshire",
+  "postcode": "CW12 2EL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "387074",
+  "northing": "363702",
+  "url": "http://www.buglawtonprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

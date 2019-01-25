@@ -1,0 +1,18 @@
+{
+  "urn": "110338",
+  "name": "Long Crendon School",
+  "address": "Chilton Road",
+  "locality": "Long Crendon",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP18 9BZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "469157",
+  "northing": "209445",
+  "url": "http://www.longcrendon.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

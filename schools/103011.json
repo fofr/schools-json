@@ -1,0 +1,18 @@
+{
+  "urn": "103011",
+  "name": "Sutton Grammar School for Boys",
+  "address": "Manor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM1 4AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "526120",
+  "northing": "164447",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

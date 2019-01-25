@@ -1,0 +1,18 @@
+{
+  "urn": "131002",
+  "name": "Avenue Primary School",
+  "address": "Avenue Road Extension",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 3EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "459738",
+  "northing": "302262",
+  "url": "www.avenue.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

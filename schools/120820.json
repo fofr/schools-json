@@ -1,0 +1,18 @@
+{
+  "urn": "120820",
+  "name": "Hockwold Primary School",
+  "address": "Main Street",
+  "locality": "Hockwold",
+  "address3": "",
+  "town": "Thetford",
+  "county": "Norfolk",
+  "postcode": "IP26 4LP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "573360",
+  "northing": "288061",
+  "url": "http://www.hockwold.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

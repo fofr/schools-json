@@ -1,0 +1,18 @@
+{
+  "urn": "130895",
+  "name": "Weddington Primary School",
+  "address": "Winchester Avenue",
+  "locality": "",
+  "address3": "Weddington",
+  "town": "Nuneaton",
+  "county": "Warwickshire",
+  "postcode": "CV10 0DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "436640",
+  "northing": "293486",
+  "url": "www.weddingtonschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105682",
+  "name": "Alt Primary School",
+  "address": "Alt Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL8 2EL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394670",
+  "northing": "403410",
+  "url": "http://www.alt.oldham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

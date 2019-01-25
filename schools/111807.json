@@ -1,0 +1,18 @@
+{
+  "urn": "111807",
+  "name": "St Ives Infant School",
+  "address": "The Burrows",
+  "locality": "",
+  "address3": "",
+  "town": "St Ives",
+  "county": "Cornwall",
+  "postcode": "TR26 1DH",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "151305",
+  "northing": "40075",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

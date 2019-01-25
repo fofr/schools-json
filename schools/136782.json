@@ -1,0 +1,18 @@
+{
+  "urn": "136782",
+  "name": "Thomas Mills High School",
+  "address": "Saxtead Road",
+  "locality": "Framlingham",
+  "address3": "",
+  "town": "Woodbridge",
+  "county": "Suffolk",
+  "postcode": "IP13 9HE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "627387",
+  "northing": "264111",
+  "url": "http://www.thomasmills.suffolk.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

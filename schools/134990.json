@@ -1,0 +1,18 @@
+{
+  "urn": "134990",
+  "name": "Marsden Heights Community College",
+  "address": "Edge End Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Nelson",
+  "county": "Lancashire",
+  "postcode": "BB9 0PR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "384972",
+  "northing": "436739",
+  "url": "http://mhcc.co/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

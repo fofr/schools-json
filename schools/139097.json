@@ -1,0 +1,18 @@
+{
+  "urn": "139097",
+  "name": "Measham Church of England Primary School",
+  "address": "Bosworth Road",
+  "locality": "Measham",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE12 7LG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "433562",
+  "northing": "312041",
+  "url": "www.meashamschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

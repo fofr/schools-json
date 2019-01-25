@@ -1,0 +1,18 @@
+{
+  "urn": "100826",
+  "name": "St Francis RC Primary School",
+  "address": "Friary Road",
+  "locality": "Peckham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE15 1RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534323",
+  "northing": "177446",
+  "url": "www.stfrancis.southwark.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

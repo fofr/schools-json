@@ -1,0 +1,18 @@
+{
+  "urn": "138549",
+  "name": "Haywood Academy",
+  "address": "High Lane",
+  "locality": "Burslem",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 7AB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "387470",
+  "northing": "350864",
+  "url": "http://www.haywoodacademy.coop/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

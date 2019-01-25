@@ -1,0 +1,18 @@
+{
+  "urn": "130989",
+  "name": "Rubery Pupil Referral Unit",
+  "address": "The Bungalow",
+  "locality": "Gunner Lane",
+  "address3": "Rednal",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B45 9EY",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "397875",
+  "northing": "277257",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

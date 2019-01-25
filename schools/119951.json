@@ -1,0 +1,18 @@
+{
+  "urn": "119951",
+  "name": "Somerby Primary School",
+  "address": "High Street",
+  "locality": "Somerby",
+  "address3": "",
+  "town": "Melton Mowbray",
+  "county": "Leicestershire",
+  "postcode": "LE14 2PZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "477781",
+  "northing": "310543",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

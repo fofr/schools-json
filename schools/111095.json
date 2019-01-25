@@ -1,0 +1,18 @@
+{
+  "urn": "111095",
+  "name": "Netherpool County Infant School",
+  "address": "Forest Road",
+  "locality": "Overpool",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Merseyside",
+  "postcode": "CH66 1JY",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "338441",
+  "northing": "377339",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

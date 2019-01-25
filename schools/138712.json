@@ -1,0 +1,18 @@
+{
+  "urn": "138712",
+  "name": "Epworth Primary Academy",
+  "address": "Birchfield Road",
+  "locality": "Epworth",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN9 1DL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "477632",
+  "northing": "403863",
+  "url": "www.epworthprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

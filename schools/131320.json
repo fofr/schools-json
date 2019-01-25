@@ -1,0 +1,18 @@
+{
+  "urn": "131320",
+  "name": "St Edward's College",
+  "address": "North Drive",
+  "locality": "Sandfield Park",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L12 1LF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "339608",
+  "northing": "392388",
+  "url": "www.st-edwards.liverpool.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

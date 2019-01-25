@@ -1,0 +1,18 @@
+{
+  "urn": "109735",
+  "name": "Grange School",
+  "address": "Halsey Road",
+  "locality": "Kempston",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 8AU",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "503241",
+  "northing": "248173",
+  "url": "http://grangeschool.net",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Foundation special school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116665",
+  "name": "Blackwell First School",
+  "address": "St Catherine's Road",
+  "locality": "Blackwell",
+  "address3": "",
+  "town": "Bromsgrove",
+  "county": "Worcestershire",
+  "postcode": "B60 1BN",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "399026",
+  "northing": "272531",
+  "url": "www.blackwellfirstschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

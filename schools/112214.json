@@ -1,0 +1,18 @@
+{
+  "urn": "112214",
+  "name": "Yarlside Primary School",
+  "address": "Red Oak Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA13 0LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "322430",
+  "northing": "470194",
+  "url": "www.yarlside.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

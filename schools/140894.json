@@ -1,0 +1,18 @@
+{
+  "urn": "140894",
+  "name": "Smallwood CofE Primary School",
+  "address": "School Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 2UR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "380622",
+  "northing": "360176",
+  "url": "http://www.smallwood.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

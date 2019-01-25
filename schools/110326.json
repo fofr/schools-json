@@ -1,0 +1,18 @@
+{
+  "urn": "110326",
+  "name": "Claytons Primary School",
+  "address": "Wendover Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bourne End",
+  "county": "Buckinghamshire",
+  "postcode": "SL8 5NS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "489054",
+  "northing": "188075",
+  "url": "www.claytonsps.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

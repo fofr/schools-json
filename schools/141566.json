@@ -1,0 +1,18 @@
+{
+  "urn": "141566",
+  "name": "St Joseph's Catholic Primary School",
+  "address": "Plaistow Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR1 3JQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "540989",
+  "northing": "170054",
+  "url": "www.st-josephs.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

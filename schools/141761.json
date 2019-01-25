@@ -1,0 +1,18 @@
+{
+  "urn": "141761",
+  "name": "Brayford Academy",
+  "address": "Brayford",
+  "locality": "",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX32 7QJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "269072",
+  "northing": "134815",
+  "url": "www.brayford.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

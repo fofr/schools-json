@@ -1,0 +1,18 @@
+{
+  "urn": "117324",
+  "name": "Leavesden JMI School",
+  "address": "High Road",
+  "locality": "Leavesden",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD25 7QZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "510139",
+  "northing": "200423",
+  "url": "leavesden.education",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144911",
+  "name": "Hinckley Parks Primary School",
+  "address": "Leicester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 1LP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "442804",
+  "northing": "294268",
+  "url": "http://www.hinckleyparks.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

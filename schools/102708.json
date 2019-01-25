@@ -1,0 +1,18 @@
+{
+  "urn": "102708",
+  "name": "Tunmarsh School",
+  "address": "The Tunmarsh Centre",
+  "locality": "Tunmarsh Lane",
+  "address3": "Plaistow",
+  "town": "London",
+  "county": "",
+  "postcode": "E13 9NB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "541046",
+  "northing": "182696",
+  "url": "www.tunmarsh.newham.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140528",
+  "name": "St Joseph's Catholic Primary School",
+  "address": "Little Sutton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B75 6PB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "412209",
+  "northing": "297240",
+  "url": "www.stjosutton.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

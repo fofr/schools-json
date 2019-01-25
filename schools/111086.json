@@ -1,0 +1,18 @@
+{
+  "urn": "111086",
+  "name": "Westminster Community Primary School",
+  "address": "John Street",
+  "locality": "",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Cheshire",
+  "postcode": "CH65 2ED",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "339959",
+  "northing": "376836",
+  "url": "www.westminsterprimary.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

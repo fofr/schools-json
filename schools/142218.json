@@ -1,0 +1,18 @@
+{
+  "urn": "142218",
+  "name": "The Warriner School",
+  "address": "Banbury Road",
+  "locality": "Bloxham",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX15 4LJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "443490",
+  "northing": "236688",
+  "url": "http://www.warriner.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

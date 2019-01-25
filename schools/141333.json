@@ -1,0 +1,18 @@
+{
+  "urn": "141333",
+  "name": "Alt Academy",
+  "address": "Alt Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Lancashire",
+  "postcode": "OL8 2EL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394670",
+  "northing": "403410",
+  "url": "www.alt.theharmonytrust.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

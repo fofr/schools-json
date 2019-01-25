@@ -1,0 +1,18 @@
+{
+  "urn": "131343",
+  "name": "The Lyceum",
+  "address": "6 Paul Street",
+  "locality": "Shoreditch",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "EC2A 4JH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533010",
+  "northing": "182129",
+  "url": "lyceumschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

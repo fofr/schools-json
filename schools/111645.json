@@ -1,0 +1,18 @@
+{
+  "urn": "111645",
+  "name": "Roseworth Primary School",
+  "address": "Rudyard Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "North Yorkshire",
+  "postcode": "TS19 9LF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442510",
+  "northing": "521873",
+  "url": "http://www.stockton.schoolgrid.net/2346/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

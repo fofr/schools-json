@@ -1,0 +1,18 @@
+{
+  "urn": "133605",
+  "name": "Beaumont Community Primary School",
+  "address": "Durrant Road",
+  "locality": "Hadleigh",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP7 6GD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "602923",
+  "northing": "243430",
+  "url": "www.beaumontcp.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

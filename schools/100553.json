@@ -1,0 +1,18 @@
+{
+  "urn": "100553",
+  "name": "Maytree Nursery School",
+  "address": "4 Allingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW4 8EG",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "529960",
+  "northing": "174165",
+  "url": "www.maytree-nursery.lambeth.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

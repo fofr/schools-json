@@ -1,0 +1,18 @@
+{
+  "urn": "128408",
+  "name": "Elton County Infant School",
+  "address": "School Lane",
+  "locality": "Elton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH2 4LT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "345590",
+  "northing": "375540",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

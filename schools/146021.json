@@ -1,0 +1,18 @@
+{
+  "urn": "146021",
+  "name": "Claydon Primary School",
+  "address": "Lancaster Way",
+  "locality": "Claydon",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP6 0DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "613412",
+  "northing": "250117",
+  "url": "www.claydonprimary.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

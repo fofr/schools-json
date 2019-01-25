@@ -1,0 +1,18 @@
+{
+  "urn": "110277",
+  "name": "Danesfield School",
+  "address": "Henley Road",
+  "locality": "Medmenham",
+  "address3": "",
+  "town": "Marlow",
+  "county": "Buckinghamshire",
+  "postcode": "SL7 2EW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "482134",
+  "northing": "185083",
+  "url": "www.danesfieldschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

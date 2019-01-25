@@ -1,0 +1,18 @@
+{
+  "urn": "139805",
+  "name": "Rockingham Primary School",
+  "address": "Rockingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Corby",
+  "county": "Northamptonshire",
+  "postcode": "NN17 1AJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "489094",
+  "northing": "289685",
+  "url": "www.rockinghamprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

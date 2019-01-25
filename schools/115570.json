@@ -1,0 +1,18 @@
+{
+  "urn": "115570",
+  "name": "Callowell Primary School",
+  "address": "Barrowfield Road",
+  "locality": "Farm Hill",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL5 4DG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384134",
+  "northing": "206078",
+  "url": "http://www.callowellschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

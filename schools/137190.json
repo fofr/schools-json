@@ -1,0 +1,18 @@
+{
+  "urn": "137190",
+  "name": "The Commonweal School",
+  "address": "The Mall",
+  "locality": "Old Town",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN1 4JE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "414807",
+  "northing": "183381",
+  "url": "www.commonweal.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

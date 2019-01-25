@@ -1,0 +1,18 @@
+{
+  "urn": "137749",
+  "name": "Queen Elizabeth's Academy",
+  "address": "Chesterfield Road South",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 7AP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "453201",
+  "northing": "362301",
+  "url": "www.qeacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

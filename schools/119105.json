@@ -1,0 +1,18 @@
+{
+  "urn": "119105",
+  "name": "Preston Tutorial Centre",
+  "address": "Cromwell Road",
+  "locality": "Ribbleton",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 6YD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "355881",
+  "northing": "431335",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

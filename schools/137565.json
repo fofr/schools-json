@@ -1,0 +1,18 @@
+{
+  "urn": "137565",
+  "name": "William Alvey School",
+  "address": "Eastgate",
+  "locality": "",
+  "address3": "",
+  "town": "Sleaford",
+  "county": "Lincolnshire",
+  "postcode": "NG34 7EA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "507167",
+  "northing": "346141",
+  "url": "http://www.williamalvey.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

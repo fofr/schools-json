@@ -1,0 +1,18 @@
+{
+  "urn": "140295",
+  "name": "St Aidan's Catholic Primary Academy",
+  "address": "Benton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG1 4AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544933",
+  "northing": "187367",
+  "url": "www.staidansacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

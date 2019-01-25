@@ -1,0 +1,18 @@
+{
+  "urn": "105102",
+  "name": "Hilbre High School",
+  "address": "Frankby Road",
+  "locality": "West Kirby",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH48 6EQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "322844",
+  "northing": "387198",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

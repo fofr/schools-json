@@ -1,0 +1,18 @@
+{
+  "urn": "104067",
+  "name": "Castle Bromwich Infant and Nursery School",
+  "address": "Green Lane",
+  "locality": "Castle Bromwich",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B36 0BX",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "416242",
+  "northing": "289885",
+  "url": "www.cbins.solihull.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122959",
+  "name": "Ewing School",
+  "address": "Mansfield Road",
+  "locality": "Sherwood",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 3FN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "457601",
+  "northing": "343556",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

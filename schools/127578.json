@@ -1,0 +1,18 @@
+{
+  "urn": "127578",
+  "name": "Shafton First School",
+  "address": "High Street",
+  "locality": "Shafton",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S72 8QA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "439448",
+  "northing": "410739",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

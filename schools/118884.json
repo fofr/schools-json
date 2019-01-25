@@ -1,0 +1,18 @@
+{
+  "urn": "118884",
+  "name": "Simon Langton Grammar School for Boys",
+  "address": "Langton Lane",
+  "locality": "Nackington Road",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT4 7AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "615323",
+  "northing": "155825",
+  "url": "http://www.thelangton.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104117",
+  "name": "Whitesmore School",
+  "address": "Chapelhouse Road",
+  "locality": "Chelmsley Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B37 5JS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "416605",
+  "northing": "286409",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

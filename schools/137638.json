@@ -1,0 +1,18 @@
+{
+  "urn": "137638",
+  "name": "Consett Academy",
+  "address": "Ashdale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Consett",
+  "county": "County Durham",
+  "postcode": "DH8 6LZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "411098",
+  "northing": "551472",
+  "url": "http://www.consett-academy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

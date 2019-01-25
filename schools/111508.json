@@ -1,0 +1,18 @@
+{
+  "urn": "111508",
+  "name": "Park Lane School",
+  "address": "Park Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 8JR",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "390771",
+  "northing": "372628",
+  "url": "http://www.parklane.cheshire.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

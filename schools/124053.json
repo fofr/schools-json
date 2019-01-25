@@ -1,0 +1,18 @@
+{
+  "urn": "124053",
+  "name": "Mosley Primary School",
+  "address": "Main Road",
+  "locality": "Anslow",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE13 9QD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421144",
+  "northing": "325265",
+  "url": "http://www.mosley.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

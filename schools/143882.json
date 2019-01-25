@@ -1,0 +1,18 @@
+{
+  "urn": "143882",
+  "name": "Cleves Primary School",
+  "address": "Arragon Road",
+  "locality": "East Ham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 1QP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "541805",
+  "northing": "183725",
+  "url": "http://www.cleves.newham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

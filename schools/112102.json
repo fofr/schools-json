@@ -1,0 +1,18 @@
+{
+  "urn": "112102",
+  "name": "Armathwaite School",
+  "address": "Armathwaite",
+  "locality": "Station Road",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA4 9PW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "350453",
+  "northing": "546579",
+  "url": "www.armathwaite.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

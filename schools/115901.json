@@ -1,0 +1,18 @@
+{
+  "urn": "115901",
+  "name": "Hamble Primary School",
+  "address": "Hamble Lane",
+  "locality": "Hamble",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO31 4ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "447358",
+  "northing": "107549",
+  "url": "www.hamble-pri.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

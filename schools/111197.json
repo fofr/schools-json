@@ -1,0 +1,18 @@
+{
+  "urn": "111197",
+  "name": "Fairfield Primary School",
+  "address": "Peelhouse Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Widnes",
+  "county": "Cheshire",
+  "postcode": "WA8 6TH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "351800",
+  "northing": "386677",
+  "url": "www.fairfieldprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

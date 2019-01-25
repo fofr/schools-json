@@ -1,0 +1,18 @@
+{
+  "urn": "142668",
+  "name": "Tregony Community Primary School",
+  "address": "Back Lane",
+  "locality": "Tregony",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR2 5RP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "192832",
+  "northing": "45302",
+  "url": "www.tregony.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

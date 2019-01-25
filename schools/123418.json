@@ -1,0 +1,18 @@
+{
+  "urn": "123418",
+  "name": "Alexander Fleming Infant School",
+  "address": "109 Southgate",
+  "locality": "Sutton Hill",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 4HG",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "370231",
+  "northing": "303529",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

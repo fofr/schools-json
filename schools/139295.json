@@ -1,0 +1,18 @@
+{
+  "urn": "139295",
+  "name": "Coteford Junior School",
+  "address": "Fore Street",
+  "locality": "Eastcote",
+  "address3": "",
+  "town": "Pinner",
+  "county": "Middlesex",
+  "postcode": "HA5 2JQ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "510137",
+  "northing": "188820",
+  "url": "http://www.cotefordjunior.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

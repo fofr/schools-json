@@ -1,0 +1,18 @@
+{
+  "urn": "103364",
+  "name": "Foundry Primary School",
+  "address": "Foundry Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B18 4LP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404067",
+  "northing": "288488",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

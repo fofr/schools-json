@@ -1,0 +1,18 @@
+{
+  "urn": "109873",
+  "name": "Homer First School and Nursery",
+  "address": "Testwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Windsor",
+  "county": "Berkshire",
+  "postcode": "SL4 5RL",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "493739",
+  "northing": "176699",
+  "url": "http://www.homerfirstschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

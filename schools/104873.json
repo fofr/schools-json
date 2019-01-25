@@ -1,0 +1,18 @@
+{
+  "urn": "104873",
+  "name": "Beach Road Primary School",
+  "address": "Beach Road",
+  "locality": "Litherland",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L21 2PG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "333449",
+  "northing": "397370",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

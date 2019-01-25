@@ -1,0 +1,18 @@
+{
+  "urn": "107262",
+  "name": "Ingrow Primary School",
+  "address": "Broomhill Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD21 1BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405416",
+  "northing": "439906",
+  "url": "http://www.ingrow.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

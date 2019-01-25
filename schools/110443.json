@@ -1,0 +1,18 @@
+{
+  "urn": "110443",
+  "name": "St Andrew's CofE Infant School",
+  "address": "High Street",
+  "locality": "Great Linford",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 5AX",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "485268",
+  "northing": "241981",
+  "url": "www.standrewsinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

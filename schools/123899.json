@@ -1,0 +1,18 @@
+{
+  "urn": "123899",
+  "name": "Bruton Primary School",
+  "address": "Higher Backway",
+  "locality": "",
+  "address3": "",
+  "town": "Bruton",
+  "county": "Somerset",
+  "postcode": "BA10 0DP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "368178",
+  "northing": "134919",
+  "url": "http://www.brutonprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

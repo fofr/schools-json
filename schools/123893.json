@@ -1,0 +1,18 @@
+{
+  "urn": "123893",
+  "name": "Wadham School",
+  "address": "Yeovil Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crewkerne",
+  "county": "Somerset",
+  "postcode": "TA18 7NT",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "344862",
+  "northing": "110172",
+  "url": "http://www.wadhamschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

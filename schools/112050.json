@@ -1,0 +1,18 @@
+{
+  "urn": "112050",
+  "name": "Brannel School",
+  "address": "Rectory Road",
+  "locality": "St Stephen",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL26 7RN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "194358",
+  "northing": "52756",
+  "url": "http://www.brannel.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130620",
+  "name": "Mid-Cheshire College of Further Education",
+  "address": "Hartford Campus",
+  "locality": "Chester Road",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 1LJ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "364293",
+  "northing": "372625",
+  "url": "www.midchesh.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123627",
+  "name": "Thomas Telford School",
+  "address": "Old Park",
+  "locality": "",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 4NW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "369117",
+  "northing": "308960",
+  "url": "http://www.ttsonline.net/",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "City technology college"
+}

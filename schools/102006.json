@@ -1,0 +1,18 @@
+{
+  "urn": "102006",
+  "name": "Tottenhall Infant School",
+  "address": "Tottenhall Road",
+  "locality": "Palmers Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N13 6HX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "531249",
+  "northing": "191940",
+  "url": "www.tottenhall.enfield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112222",
+  "name": "Pennine Way Junior School",
+  "address": "Silverdale Road",
+  "locality": "Harraby",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA1 3RQ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "342694",
+  "northing": "554655",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

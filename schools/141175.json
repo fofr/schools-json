@@ -1,0 +1,18 @@
+{
+  "urn": "141175",
+  "name": "Priory School",
+  "address": "Fawcett Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southsea",
+  "county": "Hampshire",
+  "postcode": "PO4 0DL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "465167",
+  "northing": "99908",
+  "url": "http://www.priorysouthsea.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

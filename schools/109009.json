@@ -1,0 +1,18 @@
+{
+  "urn": "109009",
+  "name": "Callicroft Primary School",
+  "address": "Rodway Road",
+  "locality": "Patchway",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS34 5EG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "359643",
+  "northing": "181470",
+  "url": "http://www.callicroftprimary.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

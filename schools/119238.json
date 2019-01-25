@@ -1,0 +1,18 @@
+{
+  "urn": "119238",
+  "name": "Ashton Primary School",
+  "address": "Ainsdale Drive",
+  "locality": "Ashton-on-Ribble",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 1TU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "350195",
+  "northing": "430819",
+  "url": "www.ashton.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

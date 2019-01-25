@@ -1,0 +1,18 @@
+{
+  "urn": "100359",
+  "name": "Phoenix High School",
+  "address": "The Curve",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W12 0RQ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "522377",
+  "northing": "180823",
+  "url": "http://www.phoenixhighschool.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

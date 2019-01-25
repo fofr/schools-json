@@ -1,0 +1,18 @@
+{
+  "urn": "130438",
+  "name": "Capel Manor College",
+  "address": "Bullsmoor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN1 4RQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "534422",
+  "northing": "199697",
+  "url": "www.capel.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

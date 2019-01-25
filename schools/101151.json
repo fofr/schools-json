@@ -1,0 +1,18 @@
+{
+  "urn": "101151",
+  "name": "The Grey Coat Hospital",
+  "address": "Greycoat Place",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW1P 2DY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "529594",
+  "northing": "179104",
+  "url": "http://www.thegreycoathospital.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

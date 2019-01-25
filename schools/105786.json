@@ -1,0 +1,18 @@
+{
+  "urn": "105786",
+  "name": "Alkrington Primary School",
+  "address": "Manor Road",
+  "locality": "Alkrington",
+  "address3": "Middleton",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M24 1JZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387152",
+  "northing": "404795",
+  "url": "http://www.alkrington.rochdale.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

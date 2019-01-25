@@ -1,0 +1,18 @@
+{
+  "urn": "100486",
+  "name": "Park Walk Primary School",
+  "address": "Park Walk",
+  "locality": "King's Road",
+  "address3": "Chelsea",
+  "town": "London",
+  "county": "",
+  "postcode": "SW10 0AY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526612",
+  "northing": "177707",
+  "url": "http://www.parkwalk.rbkc.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

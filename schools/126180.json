@@ -1,0 +1,18 @@
+{
+  "urn": "126180",
+  "name": "Castle Combe School",
+  "address": "School Lane",
+  "locality": "Castle Combe",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN14 7HH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "384510",
+  "northing": "177579",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

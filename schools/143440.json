@@ -1,0 +1,18 @@
+{
+  "urn": "143440",
+  "name": "Babraham CofE (VC) Primary School",
+  "address": "High Street",
+  "locality": "Babraham",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB22 3AG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "551262",
+  "northing": "250281",
+  "url": "www.babraham.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

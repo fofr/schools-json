@@ -1,0 +1,18 @@
+{
+  "urn": "137945",
+  "name": "Manningtree High School",
+  "address": "Colchester Road",
+  "locality": "Lawford",
+  "address3": "",
+  "town": "Manningtree",
+  "county": "Essex",
+  "postcode": "CO11 2BW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "610009",
+  "northing": "231385",
+  "url": "http://www.manningtreehigh.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

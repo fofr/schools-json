@@ -1,0 +1,18 @@
+{
+  "urn": "107275",
+  "name": "Steeton Primary School",
+  "address": "Market Street",
+  "locality": "Steeton",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD20 6NN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "403547",
+  "northing": "444314",
+  "url": "http://www.steeton.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112932",
+  "name": "Chapel-en-le-Frith High School",
+  "address": "Long Lane",
+  "locality": "Chapel-en-le-Frith",
+  "address3": "",
+  "town": "High Peak",
+  "county": "Derbyshire",
+  "postcode": "SK23 0TQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "405276",
+  "northing": "380188",
+  "url": "www.chapelhigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

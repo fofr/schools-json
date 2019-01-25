@@ -1,0 +1,18 @@
+{
+  "urn": "110163",
+  "name": "Dolphin School",
+  "address": "Waltham Rd",
+  "locality": "Hurst",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG10 0FR",
+  "minimum_age": "3",
+  "maximum_age": "13",
+  "easting": "480322",
+  "northing": "174758",
+  "url": "www.dolphinschool.com",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

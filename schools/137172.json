@@ -1,0 +1,18 @@
+{
+  "urn": "137172",
+  "name": "Alcester Academy",
+  "address": "Gerard Road",
+  "locality": "",
+  "address3": "",
+  "town": "Alcester",
+  "county": "Warwickshire",
+  "postcode": "B49 6QQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "409853",
+  "northing": "258044",
+  "url": "http://www.alcesteracademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

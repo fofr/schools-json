@@ -1,0 +1,18 @@
+{
+  "urn": "140788",
+  "name": "Thomas Walling Primary Academy",
+  "address": "Lindfield Avenue",
+  "locality": "Blakelaw",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE5 3PL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "421177",
+  "northing": "566439",
+  "url": "www.thomaswallingacademy.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

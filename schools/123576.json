@@ -1,0 +1,18 @@
+{
+  "urn": "123576",
+  "name": "The Phoenix School",
+  "address": "Manor Road",
+  "locality": "Dawley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF4 3DZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "368377",
+  "northing": "306808",
+  "url": "http://www.taw.org.uk/phoenix",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

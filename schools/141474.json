@@ -1,0 +1,18 @@
+{
+  "urn": "141474",
+  "name": "Blackfield Primary School",
+  "address": "Hampton Lane",
+  "locality": "Blackfield",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO45 1XA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "444229",
+  "northing": "102346",
+  "url": "www.blackfield.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138630",
+  "name": "Devizes School",
+  "address": "The Green",
+  "locality": "",
+  "address3": "",
+  "town": "Devizes",
+  "county": "Wiltshire",
+  "postcode": "SN10 3AG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "400971",
+  "northing": "161271",
+  "url": "http://www.devizesschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

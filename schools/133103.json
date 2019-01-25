@@ -1,0 +1,18 @@
+{
+  "urn": "133103",
+  "name": "Sweet Street Centre",
+  "address": "38 Sweet Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 9DB",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "429632",
+  "northing": "432588",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

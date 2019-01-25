@@ -1,0 +1,18 @@
+{
+  "urn": "100695",
+  "name": "Lucas Vale Primary School",
+  "address": "Thornville Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE8 4QB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537042",
+  "northing": "176596",
+  "url": "http://www.lucasvale.lewisham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

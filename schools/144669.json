@@ -1,0 +1,18 @@
+{
+  "urn": "144669",
+  "name": "Broadacre Primary School",
+  "address": "Wawne Road",
+  "locality": "Bransholme",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU7 5YS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "509534",
+  "northing": "435349",
+  "url": "www.broadacreprimaryschool.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

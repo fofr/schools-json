@@ -1,0 +1,18 @@
+{
+  "urn": "122604",
+  "name": "Haggonfields Primary and Nursery School",
+  "address": "Marjorie Street",
+  "locality": "Rhodesia",
+  "address3": "",
+  "town": "Worksop",
+  "county": "Nottinghamshire",
+  "postcode": "S80 3HP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456360",
+  "northing": "379947",
+  "url": "www.haggonfields.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

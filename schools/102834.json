@@ -1,0 +1,18 @@
+{
+  "urn": "102834",
+  "name": "Woodlands Primary School",
+  "address": "Loxford Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG1 2PY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544578",
+  "northing": "185418",
+  "url": "https://www.woodlandsredbridge.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

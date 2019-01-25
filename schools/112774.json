@@ -1,0 +1,18 @@
+{
+  "urn": "112774",
+  "name": "Brookfield Primary School",
+  "address": "The Hollow",
+  "locality": "Mickleover",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE3 0BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "430886",
+  "northing": "333955",
+  "url": "www.brookfieldprimaryschool.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

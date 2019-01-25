@@ -1,0 +1,18 @@
+{
+  "urn": "140798",
+  "name": "Wolverhampton Girls' High School",
+  "address": "Tettenhall Road",
+  "locality": "Tettenhall",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV6 0BY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "389530",
+  "northing": "299253",
+  "url": "http://www.wghs.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

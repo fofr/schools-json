@@ -1,0 +1,18 @@
+{
+  "urn": "111148",
+  "name": "Middlewich County Infant School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Middlewich",
+  "county": "Cheshire",
+  "postcode": "CW10 9BS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "369966",
+  "northing": "366060",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

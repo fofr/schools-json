@@ -1,0 +1,18 @@
+{
+  "urn": "123551",
+  "name": "St John's Catholic Primary School",
+  "address": "Innage Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "BRIDGNORTH",
+  "county": "Shropshire",
+  "postcode": "WV16 4HW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "371329",
+  "northing": "293542",
+  "url": "www.st-johns.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143622",
+  "name": "Waterhouses CofE Primary Academy",
+  "address": "Waterfall Lane",
+  "locality": "Waterhouses",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST10 3HY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "407818",
+  "northing": "350821",
+  "url": "www.waterhouses.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

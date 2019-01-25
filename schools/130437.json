@@ -1,0 +1,18 @@
+{
+  "urn": "130437",
+  "name": "Enfield College",
+  "address": "73 Hertford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN3 5HA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "535244",
+  "northing": "196715",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

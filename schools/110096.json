@@ -1,0 +1,18 @@
+{
+  "urn": "110096",
+  "name": "Reading Girls' School",
+  "address": "Northumberland Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG2 7PY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "472269",
+  "northing": "171296",
+  "url": "http://www.readinggirlsschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

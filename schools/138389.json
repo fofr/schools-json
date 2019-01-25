@@ -1,0 +1,18 @@
+{
+  "urn": "138389",
+  "name": "Garden City Academy",
+  "address": "Radburn Way",
+  "locality": "",
+  "address3": "",
+  "town": "Letchworth Garden City",
+  "county": "Hertfordshire",
+  "postcode": "SG6 2JZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "523138",
+  "northing": "232031",
+  "url": "www.gardencityacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

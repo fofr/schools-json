@@ -1,0 +1,18 @@
+{
+  "urn": "127847",
+  "name": "Shadwell First School",
+  "address": "Main Street",
+  "locality": "Shadwell",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS17 8JF",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "434714",
+  "northing": "439636",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

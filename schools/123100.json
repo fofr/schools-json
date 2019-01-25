@@ -1,0 +1,18 @@
+{
+  "urn": "123100",
+  "name": "Charlton-on-Otmoor Church of England Primary School",
+  "address": "Fencott Road",
+  "locality": "Charlton-on-Otmoor",
+  "address3": "",
+  "town": "Kidlington",
+  "county": "Oxfordshire",
+  "postcode": "OX5 2UT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456388",
+  "northing": "215976",
+  "url": "www.charltononotmoor.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

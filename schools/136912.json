@@ -1,0 +1,18 @@
+{
+  "urn": "136912",
+  "name": "Honiton Community College",
+  "address": "School Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Honiton",
+  "county": "Devon",
+  "postcode": "EX14 1QT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "316181",
+  "northing": "100904",
+  "url": "http://www.honitoncollege.devon.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

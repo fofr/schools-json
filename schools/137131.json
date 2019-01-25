@@ -1,0 +1,18 @@
+{
+  "urn": "137131",
+  "name": "Queen Elizabeth's Girls' School",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN5 5RR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "524845",
+  "northing": "196314",
+  "url": "www.qegschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

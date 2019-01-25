@@ -1,0 +1,18 @@
+{
+  "urn": "137601",
+  "name": "Cheetham CofE Community Academy",
+  "address": "Halliwell Lane",
+  "locality": "Cheetham Hill",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M8 9FR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "383723",
+  "northing": "401188",
+  "url": "www.cheetham.manchester.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

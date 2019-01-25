@@ -1,0 +1,18 @@
+{
+  "urn": "133286",
+  "name": "Crompton Primary School",
+  "address": "Longfield Road",
+  "locality": "Shaw",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL2 7HD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393187",
+  "northing": "408821",
+  "url": "http://www.crompton.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

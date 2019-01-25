@@ -1,0 +1,18 @@
+{
+  "urn": "130841",
+  "name": "Crawley College",
+  "address": "College Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH10 1NR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "527379",
+  "northing": "136785",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

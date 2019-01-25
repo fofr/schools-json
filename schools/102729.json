@@ -1,0 +1,18 @@
+{
+  "urn": "102729",
+  "name": "Manor Primary School",
+  "address": "Richardson Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E15 3BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539324",
+  "northing": "183434",
+  "url": "www.manor.newham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

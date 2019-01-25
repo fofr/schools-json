@@ -1,0 +1,18 @@
+{
+  "urn": "102838",
+  "name": "John Bramston Primary School",
+  "address": "Newcastle Avenue",
+  "locality": "New North Road",
+  "address3": "Hainault",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG6 3EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "546040",
+  "northing": "191731",
+  "url": "http://www.johnbramston.redbridge.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

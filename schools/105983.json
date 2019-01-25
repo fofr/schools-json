@@ -1,0 +1,18 @@
+{
+  "urn": "105983",
+  "name": "The Swinton High School",
+  "address": "Sefton Road",
+  "locality": "",
+  "address3": "Swinton",
+  "town": "Salford",
+  "county": "Greater Manchester",
+  "postcode": "M27 6JU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "377525",
+  "northing": "402270",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

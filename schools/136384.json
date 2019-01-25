@@ -1,0 +1,18 @@
+{
+  "urn": "136384",
+  "name": "Newquay Junior Academy",
+  "address": "Edgcumbe Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Newquay",
+  "county": "Cornwall",
+  "postcode": "TR7 2NL",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "181820",
+  "northing": "61646",
+  "url": "http://www.newquayjunior.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113342",
+  "name": "Wilcombe Primary School",
+  "address": "Lazenby Road",
+  "locality": "Wilcombe",
+  "address3": "",
+  "town": "Tiverton",
+  "county": "Devon",
+  "postcode": "EX16 4AL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "296818",
+  "northing": "112428",
+  "url": "http://www.wilcombe-pri.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

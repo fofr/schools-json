@@ -1,0 +1,18 @@
+{
+  "urn": "109011",
+  "name": "Redfield Edge Primary School",
+  "address": "High Street",
+  "locality": "Oldland Common",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS30 9TL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367864",
+  "northing": "171881",
+  "url": "http://www.redfieldedgeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

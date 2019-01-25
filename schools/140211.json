@@ -1,0 +1,18 @@
+{
+  "urn": "140211",
+  "name": "Berewood Primary School",
+  "address": "Kentidge Way",
+  "locality": "",
+  "address3": "",
+  "town": "Waterlooville",
+  "county": "Hampshire",
+  "postcode": "PO7 3BE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "467839",
+  "northing": "109314",
+  "url": "www.berewoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

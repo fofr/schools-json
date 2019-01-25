@@ -1,0 +1,18 @@
+{
+  "urn": "130411",
+  "name": "St Charles Catholic Sixth Form College",
+  "address": "74 St Charles Square",
+  "locality": "North Kensington",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W10 6EY",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "523928",
+  "northing": "181778",
+  "url": "www.stcharles.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

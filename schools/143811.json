@@ -1,0 +1,18 @@
+{
+  "urn": "143811",
+  "name": "Horbury Primary Academy",
+  "address": "Northfield Lane",
+  "locality": "Horbury",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF4 5DW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "430036",
+  "northing": "418150",
+  "url": "www.horburyprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

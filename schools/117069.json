@@ -1,0 +1,18 @@
+{
+  "urn": "117069",
+  "name": "Birchwood Nursery School",
+  "address": "Birchway",
+  "locality": "Crawford Road",
+  "address3": "",
+  "town": "Hatfield",
+  "county": "Hertfordshire",
+  "postcode": "AL10 0PD",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "522508",
+  "northing": "209280",
+  "url": "www.birchwoodnursery.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

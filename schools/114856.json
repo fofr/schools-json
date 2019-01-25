@@ -1,0 +1,18 @@
+{
+  "urn": "114856",
+  "name": "Rettendon Primary School",
+  "address": "Main Road",
+  "locality": "Rettendon Common",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM3 8DW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "577095",
+  "northing": "196290",
+  "url": "www.rettendon.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

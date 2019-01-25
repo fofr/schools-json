@@ -1,0 +1,18 @@
+{
+  "urn": "141365",
+  "name": "Deeplish Primary Academy",
+  "address": "Derby Street",
+  "locality": "",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL11 1LT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390118",
+  "northing": "412377",
+  "url": "www.deeplishprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

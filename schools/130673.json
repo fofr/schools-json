@@ -1,0 +1,18 @@
+{
+  "urn": "130673",
+  "name": "Braintree College",
+  "address": "Church Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Braintree",
+  "county": "Essex",
+  "postcode": "CM7 5SN",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "576130",
+  "northing": "224374",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

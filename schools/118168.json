@@ -1,0 +1,18 @@
+{
+  "urn": "118168",
+  "name": "Haylands Primary School",
+  "address": "Bettesworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ryde",
+  "county": "Isle of Wight",
+  "postcode": "PO33 3HA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "458843",
+  "northing": "91207",
+  "url": "http://www.haylands.iow.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

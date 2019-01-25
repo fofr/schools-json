@@ -1,0 +1,18 @@
+{
+  "urn": "123077",
+  "name": "Dashwood School",
+  "address": "Merton Street",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 4RX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445573",
+  "northing": "240217",
+  "url": "http://www.dashwoodschool.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

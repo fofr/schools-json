@@ -1,0 +1,18 @@
+{
+  "urn": "123354",
+  "name": "Bishops Castle Primary School",
+  "address": "Oak Meadow",
+  "locality": "",
+  "address3": "",
+  "town": "Bishops Castle",
+  "county": "Shropshire",
+  "postcode": "SY9 5PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "331985",
+  "northing": "288774",
+  "url": "www.bishopscastle-pri.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

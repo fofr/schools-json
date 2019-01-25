@@ -1,0 +1,18 @@
+{
+  "urn": "109588",
+  "name": "Wigmore Primary School",
+  "address": "Twyford Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU2 9TB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "511974",
+  "northing": "222544",
+  "url": "http://www.wigmore.luton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

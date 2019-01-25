@@ -1,0 +1,18 @@
+{
+  "urn": "123335",
+  "name": "Ormerod School",
+  "address": "Waynflete Road",
+  "locality": "Headington",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 8DD",
+  "minimum_age": "2",
+  "maximum_age": "16",
+  "easting": "456032",
+  "northing": "207471",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

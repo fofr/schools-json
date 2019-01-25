@@ -1,0 +1,18 @@
+{
+  "urn": "123896",
+  "name": "The Kings of Wessex School",
+  "address": "Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cheddar",
+  "county": "Somerset",
+  "postcode": "BS27 3AQ",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "345738",
+  "northing": "153103",
+  "url": "http://www.rmplc.co.uk/eduweb/sites/kowessex",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

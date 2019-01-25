@@ -1,0 +1,18 @@
+{
+  "urn": "101363",
+  "name": "Ashmole School",
+  "address": "Cecil Road",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 5RJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "529324",
+  "northing": "194021",
+  "url": "http://www.ashmole.barnet.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

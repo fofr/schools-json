@@ -1,0 +1,18 @@
+{
+  "urn": "112773",
+  "name": "Heage Primary School",
+  "address": "School Lane",
+  "locality": "Heage",
+  "address3": "",
+  "town": "Belper",
+  "county": "Derbyshire",
+  "postcode": "DE56 2AL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "436764",
+  "northing": "350617",
+  "url": "http://www.heage.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

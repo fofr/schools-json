@@ -1,0 +1,18 @@
+{
+  "urn": "124431",
+  "name": "Cheadle High School",
+  "address": "Station Road",
+  "locality": "Cheadle",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST10 1LH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "400587",
+  "northing": "342676",
+  "url": "http://www.cheadle-high.staffs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

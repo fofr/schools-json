@@ -1,0 +1,18 @@
+{
+  "urn": "136318",
+  "name": "Sandy Hill Academy",
+  "address": "Sandy Hill",
+  "locality": "",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL25 3AT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "202898",
+  "northing": "52842",
+  "url": "www.sandyhill.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

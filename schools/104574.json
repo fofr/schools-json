@@ -1,0 +1,18 @@
+{
+  "urn": "104574",
+  "name": "Roscoe Infants' School",
+  "address": "Alison Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L13 9AD",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "338454",
+  "northing": "393045",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

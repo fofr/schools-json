@@ -1,0 +1,18 @@
+{
+  "urn": "112603",
+  "name": "Overseal Primary School",
+  "address": "Woodville Road",
+  "locality": "Overseal",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE12 6LU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "429942",
+  "northing": "315687",
+  "url": "www.oversealprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

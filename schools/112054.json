@@ -1,0 +1,18 @@
+{
+  "urn": "112054",
+  "name": "Redruth School",
+  "address": "Tolgus Vean",
+  "locality": "",
+  "address3": "",
+  "town": "Redruth",
+  "county": "Cornwall",
+  "postcode": "TR15 1TA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "169165",
+  "northing": "42173",
+  "url": "http://www.redruth.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

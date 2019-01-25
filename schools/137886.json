@@ -1,0 +1,18 @@
+{
+  "urn": "137886",
+  "name": "Stratton Upper School",
+  "address": "Eagle Farm Road",
+  "locality": "",
+  "address3": "",
+  "town": "Biggleswade",
+  "county": "Bedfordshire",
+  "postcode": "SG18 8JB",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "519989",
+  "northing": "244587",
+  "url": "http://www.stratton.beds.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

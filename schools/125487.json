@@ -1,0 +1,18 @@
+{
+  "urn": "125487",
+  "name": "Whitnash Nursery School",
+  "address": "Nursery Lane",
+  "locality": "Whitnash",
+  "address3": "",
+  "town": "Leamington Spa",
+  "county": "Warwickshire",
+  "postcode": "CV31 2PW",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "432534",
+  "northing": "264175",
+  "url": "www.whitnashnursery.co.uk/",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

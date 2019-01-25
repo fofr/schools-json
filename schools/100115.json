@@ -1,0 +1,18 @@
+{
+  "urn": "100115",
+  "name": "Cherry Orchard Primary School",
+  "address": "Rectory Field Crescent",
+  "locality": "Marlborough Lane",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE7 7DG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "541222",
+  "northing": "177219",
+  "url": "www.cherryorchardschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

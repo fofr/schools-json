@@ -1,0 +1,18 @@
+{
+  "urn": "136106",
+  "name": "The Eastbourne Academy",
+  "address": "Brodrick Road",
+  "locality": "",
+  "address3": "Hampden Park",
+  "town": "Eastbourne",
+  "county": "East Sussex",
+  "postcode": "BN22 9RQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "559978",
+  "northing": "102694",
+  "url": "http://www.theeastbourneacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105545",
+  "name": "St Mary's CofE Primary School Moston",
+  "address": "St. Mary's Road",
+  "locality": "Moston",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M40 0DF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388251",
+  "northing": "402274",
+  "url": "http://www.st-maryscofe.manchester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

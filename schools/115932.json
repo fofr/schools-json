@@ -1,0 +1,18 @@
+{
+  "urn": "115932",
+  "name": "North Waltham Primary School",
+  "address": "Church Road",
+  "locality": "North Waltham",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG25 2BL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "456119",
+  "northing": "146446",
+  "url": "http://www.northwaltham.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103287",
+  "name": "Yenton Infant School",
+  "address": "Chester Road",
+  "locality": "Erdington",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B24 0ED",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "412033",
+  "northing": "292538",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

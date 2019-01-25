@@ -1,0 +1,18 @@
+{
+  "urn": "100194",
+  "name": "St Paul's Catholic School",
+  "address": "Wickham Lane",
+  "locality": "Abbey Wood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE2 0XX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "546176",
+  "northing": "177800",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

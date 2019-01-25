@@ -1,0 +1,18 @@
+{
+  "urn": "118374",
+  "name": "Challock Primary School",
+  "address": "Church Lane",
+  "locality": "Challock",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Kent",
+  "postcode": "TN25 4BU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "600941",
+  "northing": "150288",
+  "url": "www.challockprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

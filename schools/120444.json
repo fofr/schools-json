@@ -1,0 +1,18 @@
+{
+  "urn": "120444",
+  "name": "The Donington-on-Bain School",
+  "address": "Main Road",
+  "locality": "Donington-on-Bain",
+  "address3": "",
+  "town": "Louth",
+  "county": "Lincolnshire",
+  "postcode": "LN11 9TJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "523511",
+  "northing": "382905",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

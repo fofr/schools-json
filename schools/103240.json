@@ -1,0 +1,18 @@
+{
+  "urn": "103240",
+  "name": "Paget Primary School",
+  "address": "Paget Road",
+  "locality": "Pype Hayes",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B24 0JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412461",
+  "northing": "291570",
+  "url": "www.paget.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123028",
+  "name": "RAF Benson Community Primary School",
+  "address": "RAF Benson",
+  "locality": "",
+  "address3": "",
+  "town": "Wallingford",
+  "county": "Oxfordshire",
+  "postcode": "OX10 6EP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "463743",
+  "northing": "190909",
+  "url": "http://www.raf-benson.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

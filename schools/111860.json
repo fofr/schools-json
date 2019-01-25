@@ -1,0 +1,18 @@
+{
+  "urn": "111860",
+  "name": "Gerrans School",
+  "address": "Tregassick Road",
+  "locality": "Portscatho",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR2 5ED",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "187210",
+  "northing": "34976",
+  "url": "http://www.gerrans.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138361",
+  "name": "Notre Dame High School",
+  "address": "Fulwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S10 3BT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "432224",
+  "northing": "386313",
+  "url": "http://www.notredame-high.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

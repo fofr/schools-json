@@ -1,0 +1,18 @@
+{
+  "urn": "141664",
+  "name": "Victoria Primary School",
+  "address": "Ainsworth Drive",
+  "locality": "The Meadows",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 1FX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456721",
+  "northing": "338334",
+  "url": "www.victoriaprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

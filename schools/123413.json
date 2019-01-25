@@ -1,0 +1,18 @@
+{
+  "urn": "123413",
+  "name": "Dothill Infant School",
+  "address": "Severn Drive",
+  "locality": "Wellington",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 3JB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "364529",
+  "northing": "312782",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

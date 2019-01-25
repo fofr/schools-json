@@ -1,0 +1,18 @@
+{
+  "urn": "113052",
+  "name": "Plym Bridge Nursery and Day Care",
+  "address": "Miller Way",
+  "locality": "Estover",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 8UN",
+  "minimum_age": "1",
+  "maximum_age": "5",
+  "easting": "250817",
+  "northing": "58856",
+  "url": "www.plymbridge.net",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110342",
+  "name": "Stokenchurch Primary School",
+  "address": "George Road",
+  "locality": "Stokenchurch",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP14 3RN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "476464",
+  "northing": "196221",
+  "url": "www.stokenchurchprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

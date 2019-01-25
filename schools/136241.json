@@ -1,0 +1,18 @@
+{
+  "urn": "136241",
+  "name": "Queen Emma Primary School",
+  "address": "Gunhild Way",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 8QY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "547969",
+  "northing": "256110",
+  "url": "www.queenemmaschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

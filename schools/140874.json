@@ -1,0 +1,18 @@
+{
+  "urn": "140874",
+  "name": "St Anselm's Catholic School, Canterbury",
+  "address": "Old Dover Road",
+  "locality": "",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT1 3EN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "616376",
+  "northing": "156068",
+  "url": "http://www.stanselmscanterbury.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

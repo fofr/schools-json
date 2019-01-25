@@ -1,0 +1,18 @@
+{
+  "urn": "136972",
+  "name": "Queen Elizabeth's Grammar School",
+  "address": "The Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashbourne",
+  "county": "Derbyshire",
+  "postcode": "DE6 1EP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "418251",
+  "northing": "347224",
+  "url": "http://www.queenelizabeths.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

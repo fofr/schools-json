@@ -1,0 +1,18 @@
+{
+  "urn": "111995",
+  "name": "King Charles Primary School",
+  "address": "Western Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Falmouth",
+  "county": "Cornwall",
+  "postcode": "TR11 4EP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "180491",
+  "northing": "32156",
+  "url": "http://www.king-charles.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

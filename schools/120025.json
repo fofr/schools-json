@@ -1,0 +1,18 @@
+{
+  "urn": "120025",
+  "name": "St Mary's Fields Primary School",
+  "address": "Heyworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 2DA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457333",
+  "northing": "302651",
+  "url": "www.st-marysfields.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114902",
+  "name": "Long Ridings Primary School",
+  "address": "Long Ridings Avenue",
+  "locality": "Hutton",
+  "address3": "",
+  "town": "Brentwood",
+  "county": "Essex",
+  "postcode": "CM13 1DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "561857",
+  "northing": "195544",
+  "url": "www.longridings-pri.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

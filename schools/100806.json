@@ -1,0 +1,18 @@
+{
+  "urn": "100806",
+  "name": "Peckham Rye Primary School",
+  "address": "Whorlton Road",
+  "locality": "Peckham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE15 3PD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534641",
+  "northing": "175729",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

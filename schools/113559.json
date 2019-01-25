@@ -1,0 +1,18 @@
+{
+  "urn": "113559",
+  "name": "Newton Abbot College",
+  "address": "Old Exeter Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newton Abbot",
+  "county": "Devon",
+  "postcode": "TQ12 2NF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "285672",
+  "northing": "71660",
+  "url": "http://www.nacollege.devon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

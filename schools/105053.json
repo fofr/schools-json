@@ -1,0 +1,18 @@
+{
+  "urn": "105053",
+  "name": "Church Drive Primary School",
+  "address": "Church Drive",
+  "locality": "Port Sunlight",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH62 5EF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "333783",
+  "northing": "384668",
+  "url": "www.churchdriveprimary.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

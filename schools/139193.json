@@ -1,0 +1,18 @@
+{
+  "urn": "139193",
+  "name": "Guildford County School",
+  "address": "Farnham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU2 4LU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "498854",
+  "northing": "149282",
+  "url": "http://www.guildfordcounty.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

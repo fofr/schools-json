@@ -1,0 +1,18 @@
+{
+  "urn": "117261",
+  "name": "Oaklands Primary School",
+  "address": "Great North Road",
+  "locality": "Oaklands",
+  "address3": "",
+  "town": "Welwyn",
+  "county": "Hertfordshire",
+  "postcode": "AL6 0PX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "524304",
+  "northing": "217416",
+  "url": "http://www.oaklands.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

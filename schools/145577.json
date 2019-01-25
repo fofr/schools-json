@@ -1,0 +1,18 @@
+{
+  "urn": "145577",
+  "name": "Longfield Academy",
+  "address": "Longfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "",
+  "postcode": "DL3 0HT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "428937",
+  "northing": "517085",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

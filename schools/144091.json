@@ -1,0 +1,18 @@
+{
+  "urn": "144091",
+  "name": "St Mary's Catholic Primary School",
+  "address": "Glenure Road",
+  "locality": "Eltham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 1UF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "543505",
+  "northing": "174748",
+  "url": "www.stmaryrc.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109591",
+  "name": "Greenleas School",
+  "address": "Derwent Road",
+  "locality": "Linslade",
+  "address3": "",
+  "town": "Leighton Buzzard",
+  "county": "Bedfordshire",
+  "postcode": "LU7 2AB",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "490006",
+  "northing": "225355",
+  "url": "www.greenleas.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

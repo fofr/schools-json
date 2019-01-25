@@ -1,0 +1,18 @@
+{
+  "urn": "146097",
+  "name": "Mount Street Primary School",
+  "address": "Mount Street",
+  "locality": "Greenbank",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "",
+  "postcode": "PL4 8NZ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "248292",
+  "northing": "54995",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

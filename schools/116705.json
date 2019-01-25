@@ -1,0 +1,18 @@
+{
+  "urn": "116705",
+  "name": "Longtown Community Primary School",
+  "address": "Longtown",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR2 0LE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "332025",
+  "northing": "229283",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

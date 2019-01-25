@@ -1,0 +1,18 @@
+{
+  "urn": "142040",
+  "name": "Orchard Park High (Croydon)",
+  "address": "Orchard Way",
+  "locality": "Shirley",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 7NJ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "536578",
+  "northing": "166771",
+  "url": "www.orchardparkhigh.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

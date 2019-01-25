@@ -1,0 +1,18 @@
+{
+  "urn": "141862",
+  "name": "The Kingston Academy",
+  "address": "Richmond Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingston upon Thames",
+  "county": "Surrey",
+  "postcode": "KT2 5PE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "518161",
+  "northing": "170781",
+  "url": "www.thekingstonacademy.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117126",
+  "name": "Little Hadham Primary School",
+  "address": "Stortford Road",
+  "locality": "Little Hadham",
+  "address3": "",
+  "town": "Ware",
+  "county": "Hertfordshire",
+  "postcode": "SG11 2DX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "544255",
+  "northing": "222605",
+  "url": "www.littlehadham.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

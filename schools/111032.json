@@ -1,0 +1,18 @@
+{
+  "urn": "111032",
+  "name": "Alsager Highfields Community Primary School",
+  "address": "Fairview Avenue",
+  "locality": "Alsager",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 2NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "379732",
+  "northing": "355686",
+  "url": "http://www.alsagerhighfields.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

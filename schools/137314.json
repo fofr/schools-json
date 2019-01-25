@@ -1,0 +1,18 @@
+{
+  "urn": "137314",
+  "name": "Woolmer Hill School",
+  "address": "Woolmer Hill",
+  "locality": "Woolmer Hill Road",
+  "address3": "",
+  "town": "Haslemere",
+  "county": "Surrey",
+  "postcode": "GU27 1QB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "487735",
+  "northing": "133362",
+  "url": "http://www.woolmerhill.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

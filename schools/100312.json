@@ -1,0 +1,18 @@
+{
+  "urn": "100312",
+  "name": "Ickburgh School",
+  "address": "Kenworthy Road",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E9 5RB",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "526230",
+  "northing": "185034",
+  "url": "www.ickburgh.org.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

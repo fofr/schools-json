@@ -1,0 +1,18 @@
+{
+  "urn": "105925",
+  "name": "Mossfield Primary School",
+  "address": "Mossfield Road",
+  "locality": "Swinton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M27 6EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "377557",
+  "northing": "402502",
+  "url": "www.mossfieldps.salford.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

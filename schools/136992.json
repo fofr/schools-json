@@ -1,0 +1,18 @@
+{
+  "urn": "136992",
+  "name": "Longsands Academy",
+  "address": "Longsands Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 1LQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "519469",
+  "northing": "260798",
+  "url": "http://www.longsands.cambs.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

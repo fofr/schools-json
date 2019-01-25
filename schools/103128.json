@@ -1,0 +1,18 @@
+{
+  "urn": "103128",
+  "name": "Goodway Nursery School",
+  "address": "5 Goodway Road",
+  "locality": "Great Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B44 8RL",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "407743",
+  "northing": "293560",
+  "url": "http://www.goodwayn.bham.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

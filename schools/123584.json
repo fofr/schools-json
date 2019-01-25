@@ -1,0 +1,18 @@
+{
+  "urn": "123584",
+  "name": "The Marches School and Technology College",
+  "address": "Morda Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY11 2AR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "328622",
+  "northing": "328902",
+  "url": "http://www.marches.shropshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

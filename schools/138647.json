@@ -1,0 +1,18 @@
+{
+  "urn": "138647",
+  "name": "Parklands High School",
+  "address": "Southport Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR7 1LL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "357422",
+  "northing": "417911",
+  "url": "http://www.parklandsacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141705",
+  "name": "Fairfield High School",
+  "address": "Allfoxton Road",
+  "locality": "Horfield",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS7 9NL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "360297",
+  "northing": "175316",
+  "url": "http://www.fairfield.bristol.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107199",
+  "name": "Clayton Village Primary School",
+  "address": "John Street",
+  "locality": "Clayton",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD14 6AD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "412131",
+  "northing": "431743",
+  "url": "www.claytonvillageprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

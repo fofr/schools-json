@@ -1,0 +1,18 @@
+{
+  "urn": "105096",
+  "name": "Park High School",
+  "address": "Park Road South",
+  "locality": "",
+  "address3": "",
+  "town": "Prenton",
+  "county": "Merseyside",
+  "postcode": "CH43 4UY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "330754",
+  "northing": "388709",
+  "url": "www.parkhigh.wirral.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

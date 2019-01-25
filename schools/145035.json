@@ -1,0 +1,18 @@
+{
+  "urn": "145035",
+  "name": "Excalibur Primary School",
+  "address": "Ivy Lane",
+  "locality": "Alsager",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Cheshire",
+  "postcode": "ST7 2RQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "380429",
+  "northing": "354811",
+  "url": "http://www.excalibur.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146177",
+  "name": "Rosehill Methodist Primary Academy",
+  "address": "Rose Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashton-under-Lyne",
+  "county": "Lancashire",
+  "postcode": "OL6 8YG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "395683",
+  "northing": "400580",
+  "url": "www.rosehill.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

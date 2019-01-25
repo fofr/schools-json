@@ -1,0 +1,18 @@
+{
+  "urn": "121924",
+  "name": "Chiltern Primary School",
+  "address": "Chiltern Way",
+  "locality": "Duston",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN5 6BW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "473027",
+  "northing": "261612",
+  "url": "www.chiltern.northants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113244",
+  "name": "Gatehouse Primary School",
+  "address": "Secmaton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Dawlish",
+  "county": "Devon",
+  "postcode": "EX7 0LW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "296126",
+  "northing": "77679",
+  "url": "http://www.gatehouse.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

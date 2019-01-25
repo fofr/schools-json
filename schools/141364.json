@@ -1,0 +1,18 @@
+{
+  "urn": "141364",
+  "name": "Millbrook Primary School",
+  "address": "School Lane",
+  "locality": "Grove",
+  "address3": "",
+  "town": "Wantage",
+  "county": "Oxfordshire",
+  "postcode": "OX12 7LB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "439997",
+  "northing": "190309",
+  "url": "www.millbrookschool.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

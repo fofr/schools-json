@@ -1,0 +1,18 @@
+{
+  "urn": "115566",
+  "name": "Mitton Manor Primary School",
+  "address": "Carrant Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tewkesbury",
+  "county": "Gloucestershire",
+  "postcode": "GL20 8AR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "390137",
+  "northing": "233577",
+  "url": "http://www.mittonmanor.gloucs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

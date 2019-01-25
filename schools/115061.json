@@ -1,0 +1,18 @@
+{
+  "urn": "115061",
+  "name": "Potter Street Primary School",
+  "address": "Carters Mead",
+  "locality": "",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM17 9EU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "547098",
+  "northing": "208745",
+  "url": "www.potterstreet.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

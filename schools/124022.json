@@ -1,0 +1,18 @@
+{
+  "urn": "124022",
+  "name": "Eaton Park Primary School",
+  "address": "Arbourfield Drive",
+  "locality": "Bucknall",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 9PF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390233",
+  "northing": "346649",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

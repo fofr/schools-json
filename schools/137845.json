@@ -1,0 +1,18 @@
+{
+  "urn": "137845",
+  "name": "Oakhill Primary Academy",
+  "address": "Doncaster Road",
+  "locality": "Ardsley",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S71 5AG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "437546",
+  "northing": "405580",
+  "url": "www.oakhillacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

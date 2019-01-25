@@ -1,0 +1,18 @@
+{
+  "urn": "145222",
+  "name": "Thornhill Primary School",
+  "address": "Byron Road",
+  "locality": "Thornhill",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 6FH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "446262",
+  "northing": "112477",
+  "url": "http://www.thornhillsch.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

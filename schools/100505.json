@@ -1,0 +1,18 @@
+{
+  "urn": "100505",
+  "name": "St Charles Catholic Primary School",
+  "address": "83 St Charles Square",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W10 6EB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "523928",
+  "northing": "181778",
+  "url": "http://www.st-charles.rbkc.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

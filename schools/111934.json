@@ -1,0 +1,18 @@
+{
+  "urn": "111934",
+  "name": "Coads Green Primary School",
+  "address": "Coads Green",
+  "locality": "",
+  "address3": "",
+  "town": "Launceston",
+  "county": "Cornwall",
+  "postcode": "PL15 7LY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "229507",
+  "northing": "76824",
+  "url": "www.coads-green.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

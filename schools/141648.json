@@ -1,0 +1,18 @@
+{
+  "urn": "141648",
+  "name": "Northwood Park Primary School",
+  "address": "Collingwood Road",
+  "locality": "Bushbury",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV10 8DS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "392237",
+  "northing": "302578",
+  "url": "www.northwoodparkprimary.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

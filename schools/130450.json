@@ -1,0 +1,18 @@
+{
+  "urn": "130450",
+  "name": "Phoenix College",
+  "address": "Central Road",
+  "locality": "",
+  "address3": "",
+  "town": "Morden",
+  "county": "Surrey",
+  "postcode": "SM4 5SE",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "525964",
+  "northing": "167834",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

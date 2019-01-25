@@ -1,0 +1,18 @@
+{
+  "urn": "123786",
+  "name": "Cannington Church of England Primary School",
+  "address": "Brook Street",
+  "locality": "Cannington",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA5 2HP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "325941",
+  "northing": "139566",
+  "url": "www.cannington.somerset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

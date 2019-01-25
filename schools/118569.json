@@ -1,0 +1,18 @@
+{
+  "urn": "118569",
+  "name": "The Canterbury Primary School",
+  "address": "City View",
+  "locality": "Franklyn Road",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT2 8PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "613518",
+  "northing": "157596",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

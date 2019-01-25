@@ -1,0 +1,18 @@
+{
+  "urn": "110043",
+  "name": "Thamesbridge College",
+  "address": "Northumberland Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG2 8DJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "472332",
+  "northing": "170286",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

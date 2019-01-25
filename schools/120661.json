@@ -1,0 +1,18 @@
+{
+  "urn": "120661",
+  "name": "Bourne Grammar School",
+  "address": "South Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bourne",
+  "county": "Lincolnshire",
+  "postcode": "PE10 9JE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "509841",
+  "northing": "319543",
+  "url": "http://www.bourne-grammar.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

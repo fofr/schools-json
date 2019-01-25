@@ -1,0 +1,18 @@
+{
+  "urn": "125220",
+  "name": "St Clement's Catholic Primary School",
+  "address": "Fennells Mead",
+  "locality": "Chessington Road",
+  "address3": "Ewell",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT17 1TX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "521589",
+  "northing": "162794",
+  "url": "www.stclements.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

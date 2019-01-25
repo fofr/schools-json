@@ -1,0 +1,18 @@
+{
+  "urn": "118109",
+  "name": "Baysgarth School",
+  "address": "Barrow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Barton-upon-Humber",
+  "county": "Lincolnshire",
+  "postcode": "DN18 6AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "503710",
+  "northing": "421649",
+  "url": "http://www.baysgarthschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

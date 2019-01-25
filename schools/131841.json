@@ -1,0 +1,18 @@
+{
+  "urn": "131841",
+  "name": "Alexander McLeod Primary School",
+  "address": "Fuchsia Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE2 0QS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "546803",
+  "northing": "178377",
+  "url": "www.alexmcleod.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

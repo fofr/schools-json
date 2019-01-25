@@ -1,0 +1,18 @@
+{
+  "urn": "140524",
+  "name": "Bishop Walsh Catholic School",
+  "address": "Wylde Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B76 1QT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "412891",
+  "northing": "294399",
+  "url": "http://bishopwalsh.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

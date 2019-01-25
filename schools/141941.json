@@ -1,0 +1,18 @@
+{
+  "urn": "141941",
+  "name": "Bolton UTC",
+  "address": "Deane Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Greater Manchester",
+  "postcode": "BL3 5AG",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "370974",
+  "northing": "408622",
+  "url": "www.utcbolton.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

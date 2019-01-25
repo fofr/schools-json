@@ -1,0 +1,18 @@
+{
+  "urn": "121172",
+  "name": "City of Norwich School",
+  "address": "Eaton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR4 6PP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "621825",
+  "northing": "306657",
+  "url": "http://www.cns-school.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

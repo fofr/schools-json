@@ -1,0 +1,18 @@
+{
+  "urn": "137577",
+  "name": "The Farnley Academy",
+  "address": "Chapel Lane",
+  "locality": "Farnley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 5EU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "425137",
+  "northing": "431969",
+  "url": "www.farnley.leeds.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102578",
+  "name": "Alexandra School",
+  "address": "Alexandra Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingston upon Thames",
+  "county": "Surrey",
+  "postcode": "KT2 6SE",
+  "minimum_age": "3",
+  "maximum_age": "10",
+  "easting": "519149",
+  "northing": "170071",
+  "url": "http://www.alexandra.kingston.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

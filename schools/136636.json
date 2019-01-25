@@ -1,0 +1,18 @@
+{
+  "urn": "136636",
+  "name": "Parkside Community College",
+  "address": "Parkside",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 1EH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "545550",
+  "northing": "258380",
+  "url": "http://www.parksidefederation.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

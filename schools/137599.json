@@ -1,0 +1,18 @@
+{
+  "urn": "137599",
+  "name": "Bourne Westfield Primary Academy",
+  "address": "Westbourne Park",
+  "locality": "",
+  "address3": "",
+  "town": "Bourne",
+  "county": "Lincolnshire",
+  "postcode": "PE10 9QS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508701",
+  "northing": "320236",
+  "url": "http://www.bournewestfield.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136521",
+  "name": "Langley Grammar School",
+  "address": "Reddington Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Langley",
+  "county": "Berkshire",
+  "postcode": "SL3 7QS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "500570",
+  "northing": "178781",
+  "url": "http://www.lgs.slough.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120485",
+  "name": "Waddingham Primary School",
+  "address": "The Green",
+  "locality": "Waddingham",
+  "address3": "",
+  "town": "Gainsborough",
+  "county": "Lincolnshire",
+  "postcode": "DN21 4SX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "498454",
+  "northing": "396141",
+  "url": "www.waddingham.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

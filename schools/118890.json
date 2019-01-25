@@ -1,0 +1,18 @@
+{
+  "urn": "118890",
+  "name": "The Skinners' School",
+  "address": "St John's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tunbridge Wells",
+  "county": "Kent",
+  "postcode": "TN4 9PG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "558264",
+  "northing": "140612",
+  "url": "http://www.skinners-school.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137930",
+  "name": "Tubbenden Primary School",
+  "address": "Sandy Bury",
+  "locality": "",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR6 9SD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "544854",
+  "northing": "165018",
+  "url": "www.tubbenden.bromley.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

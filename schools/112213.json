@@ -1,0 +1,18 @@
+{
+  "urn": "112213",
+  "name": "Dane Ghyll School",
+  "address": "Skelwith Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA14 4PG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "320981",
+  "northing": "472149",
+  "url": "www.daneghyll.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

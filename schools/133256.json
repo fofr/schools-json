@@ -1,0 +1,18 @@
+{
+  "urn": "133256",
+  "name": "Hadden Park High School",
+  "address": "Harvey Road",
+  "locality": "Bilborough",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 3GP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "453014",
+  "northing": "341306",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

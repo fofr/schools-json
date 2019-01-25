@@ -1,0 +1,18 @@
+{
+  "urn": "114747",
+  "name": "The Mayflower Primary School",
+  "address": "Main Road",
+  "locality": "Dovercourt",
+  "address3": "",
+  "town": "Harwich",
+  "county": "Essex",
+  "postcode": "CO12 4AJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "624927",
+  "northing": "231547",
+  "url": "http://www.mayflower-pri.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

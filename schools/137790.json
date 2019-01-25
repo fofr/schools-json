@@ -1,0 +1,18 @@
+{
+  "urn": "137790",
+  "name": "Plume School",
+  "address": "Fambridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maldon",
+  "county": "Essex",
+  "postcode": "CM9 6AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "584943",
+  "northing": "206788",
+  "url": "http://www.plume.essex.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

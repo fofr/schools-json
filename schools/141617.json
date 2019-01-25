@@ -1,0 +1,18 @@
+{
+  "urn": "141617",
+  "name": "The Hurlingham Academy",
+  "address": "Peterborough Road",
+  "locality": "Fulham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW6 3ED",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "525368",
+  "northing": "175859",
+  "url": "www.thehurlinghamacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

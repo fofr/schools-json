@@ -1,0 +1,18 @@
+{
+  "urn": "139130",
+  "name": "Colne Primet Academy",
+  "address": "Dent Street",
+  "locality": "",
+  "address3": "",
+  "town": "Colne",
+  "county": "Lancashire",
+  "postcode": "BB8 8JF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "387719",
+  "northing": "439221",
+  "url": "www.colneprimet.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

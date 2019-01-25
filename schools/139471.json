@@ -1,0 +1,18 @@
+{
+  "urn": "139471",
+  "name": "Birdwell Primary School",
+  "address": "Hollis Close",
+  "locality": "Long Ashton",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Somerset",
+  "postcode": "BS41 9AZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "354074",
+  "northing": "169952",
+  "url": "www.birdwellschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

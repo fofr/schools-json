@@ -1,0 +1,18 @@
+{
+  "urn": "133389",
+  "name": "Python Hill Primary School",
+  "address": "Kirklington Road",
+  "locality": "Rainworth",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG21 0JZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "459758",
+  "northing": "358310",
+  "url": "http://www.pythonhillschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

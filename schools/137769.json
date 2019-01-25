@@ -1,0 +1,18 @@
+{
+  "urn": "137769",
+  "name": "Townley Grammar School",
+  "address": "Townley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bexleyheath",
+  "county": "Kent",
+  "postcode": "DA6 7AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "548781",
+  "northing": "174532",
+  "url": "www.townleygrammar.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

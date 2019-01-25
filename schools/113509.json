@@ -1,0 +1,18 @@
+{
+  "urn": "113509",
+  "name": "Chulmleigh Community College",
+  "address": "Beacon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chulmleigh",
+  "county": "Devon",
+  "postcode": "EX18 7AA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "268614",
+  "northing": "114681",
+  "url": "http://www.chulmleigh.devon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

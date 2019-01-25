@@ -1,0 +1,18 @@
+{
+  "urn": "136555",
+  "name": "Debden Park High School",
+  "address": "Willingale Road",
+  "locality": "Debden",
+  "address3": "",
+  "town": "Loughton",
+  "county": "Essex",
+  "postcode": "IG10 2BQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "544661",
+  "northing": "197133",
+  "url": "http://www.debdenparkhighschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

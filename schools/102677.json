@@ -1,0 +1,18 @@
+{
+  "urn": "102677",
+  "name": "Rowan High School",
+  "address": "Rowan Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW16 5JF",
+  "minimum_age": "12",
+  "maximum_age": "16",
+  "easting": "529291",
+  "northing": "169438",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

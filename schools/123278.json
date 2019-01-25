@@ -1,0 +1,18 @@
+{
+  "urn": "123278",
+  "name": "Sibford School",
+  "address": "Sibford Ferris",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX15 5QL",
+  "minimum_age": "3",
+  "maximum_age": "18",
+  "easting": "435806",
+  "northing": "237118",
+  "url": "http://www.sibfordschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

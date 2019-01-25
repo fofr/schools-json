@@ -1,0 +1,18 @@
+{
+  "urn": "128088",
+  "name": "Willow House Hospital Education",
+  "address": "41 Barkham Road",
+  "locality": "Wokingham Hospital",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG41 2RE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "480342",
+  "northing": "168570",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

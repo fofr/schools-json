@@ -1,0 +1,18 @@
+{
+  "urn": "116630",
+  "name": "Waterside School",
+  "address": "Tipner Lane",
+  "locality": "Tipner",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO2 8RA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "463930",
+  "northing": "103393",
+  "url": "http://www.waterside.portsmouth.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

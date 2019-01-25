@@ -1,0 +1,18 @@
+{
+  "urn": "137321",
+  "name": "Felixstowe Academy",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Felixstowe",
+  "county": "Suffolk",
+  "postcode": "IP11 9QR",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "628956",
+  "northing": "235743",
+  "url": "http://felixstoweacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

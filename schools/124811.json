@@ -1,0 +1,18 @@
+{
+  "urn": "124811",
+  "name": "Deben High School",
+  "address": "Garrison Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Felixstowe",
+  "county": "Suffolk",
+  "postcode": "IP11 7RF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "629818",
+  "northing": "234879",
+  "url": "http://www.deben.suffolk.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

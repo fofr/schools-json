@@ -1,0 +1,18 @@
+{
+  "urn": "144045",
+  "name": "St Catherine's CofE Primary School",
+  "address": "Greenstone Avenue",
+  "locality": "Horwich",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL6 5SJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "363354",
+  "northing": "411054",
+  "url": "http://www.st-catherines.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

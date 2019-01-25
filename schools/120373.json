@@ -1,0 +1,18 @@
+{
+  "urn": "120373",
+  "name": "The Caythorpe Primary School",
+  "address": "High Street",
+  "locality": "Caythorpe",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG32 3DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "493813",
+  "northing": "348150",
+  "url": "www.caythorpe.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

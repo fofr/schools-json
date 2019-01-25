@@ -1,0 +1,18 @@
+{
+  "urn": "120709",
+  "name": "Robert Pattinson School",
+  "address": "Moor Lane",
+  "locality": "North Hykeham",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN6 9AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "494220",
+  "northing": "366383",
+  "url": "http://www.rps.lincs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

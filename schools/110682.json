@@ -1,0 +1,18 @@
+{
+  "urn": "110682",
+  "name": "Offord Primary School",
+  "address": "Millers Close",
+  "locality": "Offord Darcy",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 5SB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "522028",
+  "northing": "266755",
+  "url": "http://www.offord.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

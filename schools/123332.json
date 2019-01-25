@@ -1,0 +1,18 @@
+{
+  "urn": "123332",
+  "name": "Frank Wise School",
+  "address": "Hornbeam Close",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 9RL",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "444502",
+  "northing": "240181",
+  "url": "http://www.frankwise.oxon.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

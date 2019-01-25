@@ -1,0 +1,18 @@
+{
+  "urn": "111559",
+  "name": "The Village Primary",
+  "address": "Windsor Road",
+  "locality": "Thornaby",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "",
+  "postcode": "TS17 8PW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445175",
+  "northing": "516847",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

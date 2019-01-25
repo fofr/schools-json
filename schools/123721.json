@@ -1,0 +1,18 @@
+{
+  "urn": "123721",
+  "name": "Castle Primary School",
+  "address": "Castle Street",
+  "locality": "",
+  "address3": "",
+  "town": "Stoke-sub-Hamdon",
+  "county": "Somerset",
+  "postcode": "TA14 6RE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "347527",
+  "northing": "117598",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

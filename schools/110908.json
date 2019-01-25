@@ -1,0 +1,18 @@
+{
+  "urn": "110908",
+  "name": "Orton Longueville School",
+  "address": "Oundle Road",
+  "locality": "Orton Longueville",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 7EA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "516318",
+  "northing": "296372",
+  "url": "http://www.olsonline.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

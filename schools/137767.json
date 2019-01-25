@@ -1,0 +1,18 @@
+{
+  "urn": "137767",
+  "name": "Higham Lane School",
+  "address": "Shanklin Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Nuneaton",
+  "county": "Warwickshire",
+  "postcode": "CV10 0BJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "437036",
+  "northing": "292941",
+  "url": "http://www.highamlaneschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

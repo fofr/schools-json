@@ -1,0 +1,18 @@
+{
+  "urn": "144854",
+  "name": "St John's CofE School",
+  "address": "Boreham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Warminster",
+  "county": "Wiltshire",
+  "postcode": "BA12 9JY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "388445",
+  "northing": "144645",
+  "url": "www.st-johns-warminster.wilts.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104328",
+  "name": "Manor Primary School",
+  "address": "Ettingshall Road",
+  "locality": "Coseley",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 9UQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393496",
+  "northing": "294568",
+  "url": "www.manorprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

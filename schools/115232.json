@@ -1,0 +1,18 @@
+{
+  "urn": "115232",
+  "name": "Mayflower High School",
+  "address": "Stock Road",
+  "locality": "",
+  "address3": "",
+  "town": "Billericay",
+  "county": "Essex",
+  "postcode": "CM12 0RT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "568356",
+  "northing": "196127",
+  "url": "www.mayflowerhigh.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

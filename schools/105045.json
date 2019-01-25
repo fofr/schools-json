@@ -1,0 +1,18 @@
+{
+  "urn": "105045",
+  "name": "Rock Ferry Primary School",
+  "address": "Ionic Street",
+  "locality": "Rock Ferry",
+  "address3": "",
+  "town": "Birkenhead",
+  "county": "Merseyside",
+  "postcode": "CH42 2BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "332892",
+  "northing": "386828",
+  "url": "http://www.rockferryprimary.co.uk/website",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

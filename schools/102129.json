@@ -1,0 +1,18 @@
+{
+  "urn": "102129",
+  "name": "Crowland Primary School",
+  "address": "Crowland Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N15 6UX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534027",
+  "northing": "188633",
+  "url": "www.crowland.haringey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

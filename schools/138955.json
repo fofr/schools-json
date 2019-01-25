@@ -1,0 +1,18 @@
+{
+  "urn": "138955",
+  "name": "Lings Primary School",
+  "address": "Hayeswood Road",
+  "locality": "Lings",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN3 8NN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "479824",
+  "northing": "263625",
+  "url": "www.lings-primary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112549",
+  "name": "Etwall Primary School",
+  "address": "Egginton Road",
+  "locality": "Etwall",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE65 6NB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "426852",
+  "northing": "331670",
+  "url": "https://etwall-primary.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

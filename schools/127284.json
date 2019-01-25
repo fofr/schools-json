@@ -1,0 +1,18 @@
+{
+  "urn": "127284",
+  "name": "Roscommon County Primary School",
+  "address": "Roscommon Street",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L5 3NE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "335252",
+  "northing": "391898",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

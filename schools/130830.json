@@ -1,0 +1,18 @@
+{
+  "urn": "130830",
+  "name": "Esher College",
+  "address": "Weston Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Thames Ditton",
+  "county": "Surrey",
+  "postcode": "KT7 0JB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "515326",
+  "northing": "166742",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

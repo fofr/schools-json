@@ -1,0 +1,18 @@
+{
+  "urn": "140686",
+  "name": "Kings Cross Academy",
+  "address": "Plimsoll Building",
+  "locality": "4 Wollstonecraft Street",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1C 4BT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529992",
+  "northing": "183696",
+  "url": "kingscrossacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

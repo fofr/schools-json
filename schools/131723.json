@@ -1,0 +1,18 @@
+{
+  "urn": "131723",
+  "name": "Thornton Heath Nursery School",
+  "address": "51 Pridham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Thornton Heath",
+  "county": "Surrey",
+  "postcode": "CR7 8RS",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "532630",
+  "northing": "168142",
+  "url": "www.thns.org",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

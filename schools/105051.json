@@ -1,0 +1,18 @@
+{
+  "urn": "105051",
+  "name": "Thingwall Primary School",
+  "address": "Pensby Road",
+  "locality": "Thingwall",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH61 7UG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "327356",
+  "northing": "384937",
+  "url": "www.thingwall.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

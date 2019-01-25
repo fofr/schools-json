@@ -1,0 +1,18 @@
+{
+  "urn": "109680",
+  "name": "Alameda Middle School",
+  "address": "Station Road",
+  "locality": "Ampthill",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 2QR",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "503039",
+  "northing": "237763",
+  "url": "http://www.alameda.beds.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

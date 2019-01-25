@@ -1,0 +1,18 @@
+{
+  "urn": "102234",
+  "name": "St George's Primary School",
+  "address": "Sudbury Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA1 3SB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "515728",
+  "northing": "186230",
+  "url": "www.stgeorgesprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

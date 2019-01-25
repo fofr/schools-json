@@ -1,0 +1,18 @@
+{
+  "urn": "112047",
+  "name": "Falmouth School",
+  "address": "Trescobeas Road",
+  "locality": "",
+  "address3": "",
+  "town": "Falmouth",
+  "county": "Cornwall",
+  "postcode": "TR11 4LH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "179011",
+  "northing": "33245",
+  "url": "http://www.falmouth.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

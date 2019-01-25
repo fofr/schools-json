@@ -1,0 +1,18 @@
+{
+  "urn": "138418",
+  "name": "The Albion Academy",
+  "address": "1 London Street",
+  "locality": "",
+  "address3": "",
+  "town": "Salford",
+  "county": "Greater Manchester",
+  "postcode": "M6 6QT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "381717",
+  "northing": "399808",
+  "url": "http://www.albionacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

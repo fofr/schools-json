@@ -1,0 +1,18 @@
+{
+  "urn": "106142",
+  "name": "St James' Catholic High School",
+  "address": "St James Way",
+  "locality": "Cheadle Hulme",
+  "address3": "",
+  "town": "Cheadle",
+  "county": "Cheshire",
+  "postcode": "SK8 6PZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "386902",
+  "northing": "384794",
+  "url": "http://www.stjamescatholichighschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

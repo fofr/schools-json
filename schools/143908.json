@@ -1,0 +1,18 @@
+{
+  "urn": "143908",
+  "name": "Chandos Primary School",
+  "address": "Vaughton Street South",
+  "locality": "Highgate",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B12 0YN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "407473",
+  "northing": "285512",
+  "url": "www.chandosprimary.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

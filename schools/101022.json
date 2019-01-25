@@ -1,0 +1,18 @@
+{
+  "urn": "101022",
+  "name": "Swaffield Primary School",
+  "address": "St Ann's Hill",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW18 2SA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526161",
+  "northing": "174028",
+  "url": "www.swaffield.wandsworth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

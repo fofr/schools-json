@@ -1,0 +1,18 @@
+{
+  "urn": "120686",
+  "name": "The Lancaster School",
+  "address": "82 Jasmin Road",
+  "locality": "Birchwood",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN6 0QQ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "493230",
+  "northing": "369597",
+  "url": "www.lancaster.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

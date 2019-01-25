@@ -1,0 +1,18 @@
+{
+  "urn": "141047",
+  "name": "Brampton Primary Academy",
+  "address": "Brampton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bexleyheath",
+  "county": "Kent",
+  "postcode": "DA7 4SL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "547941",
+  "northing": "176369",
+  "url": "www.brampton.bexley.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

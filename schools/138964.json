@@ -1,0 +1,18 @@
+{
+  "urn": "138964",
+  "name": "East Leake Academy",
+  "address": "Lantern Lane",
+  "locality": "East Leake",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 6QN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "455846",
+  "northing": "326868",
+  "url": "http://www.eastleake-ac.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

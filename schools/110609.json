@@ -1,0 +1,18 @@
+{
+  "urn": "110609",
+  "name": "Gamlingay First School",
+  "address": "Green End",
+  "locality": "Gamlingay",
+  "address3": "",
+  "town": "Sandy",
+  "county": "Bedfordshire",
+  "postcode": "SG19 3LE",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "523649",
+  "northing": "252405",
+  "url": "www.gamlingayfirst.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

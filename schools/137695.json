@@ -1,0 +1,18 @@
+{
+  "urn": "137695",
+  "name": "Cox Green School",
+  "address": "Highfield Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Maidenhead",
+  "county": "Berkshire",
+  "postcode": "SL6 3AX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "486376",
+  "northing": "179567",
+  "url": "http://www.coxgreen.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

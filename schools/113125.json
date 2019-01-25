@@ -1,0 +1,18 @@
+{
+  "urn": "113125",
+  "name": "Appledore School",
+  "address": "Richmond Road",
+  "locality": "Appledore",
+  "address3": "",
+  "town": "Bideford",
+  "county": "Devon",
+  "postcode": "EX39 1PF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "246089",
+  "northing": "130265",
+  "url": "http://www.appledore-primary.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

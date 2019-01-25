@@ -1,0 +1,18 @@
+{
+  "urn": "137078",
+  "name": "Hewens College",
+  "address": "Hewens Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hayes",
+  "county": "Middlesex",
+  "postcode": "UB4 8JP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "508346",
+  "northing": "182206",
+  "url": "http://www.hewenscollege.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

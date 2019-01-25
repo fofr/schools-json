@@ -1,0 +1,18 @@
+{
+  "urn": "123650",
+  "name": "Keinton Mandeville Primary School",
+  "address": "Chistles Lane",
+  "locality": "Keinton Mandeville",
+  "address3": "",
+  "town": "Somerton",
+  "county": "Somerset",
+  "postcode": "TA11 6ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "354876",
+  "northing": "130551",
+  "url": "www.keintonmandevilleschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

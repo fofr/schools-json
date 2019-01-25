@@ -1,0 +1,18 @@
+{
+  "urn": "140555",
+  "name": "Djanogly Strelley Academy",
+  "address": "Helston Drive",
+  "locality": "Strelley",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 6JZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451782",
+  "northing": "342562",
+  "url": "www.djanoglystrelleyacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

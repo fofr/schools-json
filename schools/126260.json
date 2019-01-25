@@ -1,0 +1,18 @@
+{
+  "urn": "126260",
+  "name": "Redland Primary School",
+  "address": "Brook Street",
+  "locality": "",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN14 0JE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390899",
+  "northing": "173689",
+  "url": "www.redland.wilts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

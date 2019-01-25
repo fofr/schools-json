@@ -1,0 +1,18 @@
+{
+  "urn": "107517",
+  "name": "Midgley School",
+  "address": "Lane Ends",
+  "locality": "Midgley",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX2 6TX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "403451",
+  "northing": "426247",
+  "url": "http://www.midgleyschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

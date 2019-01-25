@@ -1,0 +1,18 @@
+{
+  "urn": "130581",
+  "name": "Wyke Sixth Form College",
+  "address": "Bricknell Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 4NT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "506303",
+  "northing": "430963",
+  "url": "http://www.wyke.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

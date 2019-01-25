@@ -1,0 +1,18 @@
+{
+  "urn": "124075",
+  "name": "Werrington Primary School",
+  "address": "Washerwall Lane",
+  "locality": "Werrington",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST9 0JU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393707",
+  "northing": "347404",
+  "url": "www.werringtonprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

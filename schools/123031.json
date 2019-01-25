@@ -1,0 +1,18 @@
+{
+  "urn": "123031",
+  "name": "Tetsworth Primary School",
+  "address": "15 High Street",
+  "locality": "Tetsworth",
+  "address3": "",
+  "town": "Thame",
+  "county": "Oxfordshire",
+  "postcode": "OX9 7AB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "468799",
+  "northing": "201717",
+  "url": "www.tetsworth.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

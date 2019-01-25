@@ -1,0 +1,18 @@
+{
+  "urn": "106014",
+  "name": "Belmont Nursery School",
+  "address": "Churchill Street",
+  "locality": "Heaton Norris",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 1ND",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "388905",
+  "northing": "391291",
+  "url": "http://www.belmont.stockport.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

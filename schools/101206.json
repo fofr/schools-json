@@ -1,0 +1,18 @@
+{
+  "urn": "101206",
+  "name": "Grafton Primary School",
+  "address": "Grafton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM8 3EX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548487",
+  "northing": "186607",
+  "url": "www.graftonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102451",
+  "name": "Harlington School",
+  "address": "Pinkwell Lane",
+  "locality": "Harlington",
+  "address3": "",
+  "town": "Hayes",
+  "county": "",
+  "postcode": "UB3 1PB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "508630",
+  "northing": "178733",
+  "url": "http://www.harlingtonschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

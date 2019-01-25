@@ -1,0 +1,18 @@
+{
+  "urn": "107664",
+  "name": "Grange Moor Primary School",
+  "address": "Liley Lane",
+  "locality": "Grange Moor",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF4 4EW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "422068",
+  "northing": "416005",
+  "url": "www.grangemoorps.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

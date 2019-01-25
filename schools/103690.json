@@ -1,0 +1,18 @@
+{
+  "urn": "103690",
+  "name": "John Gulson Primary School",
+  "address": "George Street",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV1 4HB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "433947",
+  "northing": "280169",
+  "url": "www.johngulson.coventry.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

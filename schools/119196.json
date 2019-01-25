@@ -1,0 +1,18 @@
+{
+  "urn": "119196",
+  "name": "Ramsbottom Stubbins Primary School",
+  "address": "Bolton Road North",
+  "locality": "Stubbins",
+  "address3": "Ramsbottom",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL0 0NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "379559",
+  "northing": "418374",
+  "url": "www.stubbins.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

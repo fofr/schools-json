@@ -1,0 +1,18 @@
+{
+  "urn": "116139",
+  "name": "West End Infant School",
+  "address": "York Road",
+  "locality": "",
+  "address3": "",
+  "town": "Aldershot",
+  "county": "Hampshire",
+  "postcode": "GU11 3JG",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "485827",
+  "northing": "150479",
+  "url": "http://www.hants.gov.uk/school/west-end/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

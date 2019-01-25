@@ -1,0 +1,18 @@
+{
+  "urn": "138275",
+  "name": "The Minerva Academy",
+  "address": "33-35 Praed Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W2 1NR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "527028",
+  "northing": "181509",
+  "url": "http://www.minerva.academy/",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

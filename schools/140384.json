@@ -1,0 +1,18 @@
+{
+  "urn": "140384",
+  "name": "Burfield Academy",
+  "address": "Oaklands Way",
+  "locality": "",
+  "address3": "",
+  "town": "Hailsham",
+  "county": "East Sussex",
+  "postcode": "BN27 3NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "558388",
+  "northing": "108528",
+  "url": "burfieldacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

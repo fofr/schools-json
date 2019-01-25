@@ -1,0 +1,18 @@
+{
+  "urn": "122904",
+  "name": "Greenwood Dale School",
+  "address": "Sneinton Boulevard",
+  "locality": "",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 4GL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "459277",
+  "northing": "339766",
+  "url": "http://www.greenwood.notts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

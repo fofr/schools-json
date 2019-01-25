@@ -1,0 +1,18 @@
+{
+  "urn": "145104",
+  "name": "Galmpton Church of England Primary School",
+  "address": "Greenway Road",
+  "locality": "Galmpton",
+  "address3": "",
+  "town": "Brixham",
+  "county": "Devon",
+  "postcode": "TQ5 0LT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "288816",
+  "northing": "56123",
+  "url": "http://www.galmptonprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

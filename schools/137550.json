@@ -1,0 +1,18 @@
+{
+  "urn": "137550",
+  "name": "Huntingdon Academy",
+  "address": "Alfred Street Central",
+  "locality": "St Ann's",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG3 4AY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457513",
+  "northing": "340748",
+  "url": "www.leadacademytrust.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

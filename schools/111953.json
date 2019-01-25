@@ -1,0 +1,18 @@
+{
+  "urn": "111953",
+  "name": "Harrowbarrow School",
+  "address": "School Road",
+  "locality": "Harrowbarrow",
+  "address3": "",
+  "town": "Callington",
+  "county": "Cornwall",
+  "postcode": "PL17 8BQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "240079",
+  "northing": "69877",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102379",
+  "name": "Field End Infant School",
+  "address": "Field End Road",
+  "locality": "Eastcote",
+  "address3": "",
+  "town": "Ruislip",
+  "county": "Middlesex",
+  "postcode": "HA4 9PQ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "511795",
+  "northing": "186560",
+  "url": "www.fieldend-inf.hillingdon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

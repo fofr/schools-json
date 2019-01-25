@@ -1,0 +1,18 @@
+{
+  "urn": "143350",
+  "name": "Meir Heath Academy",
+  "address": "Golborn Avenue",
+  "locality": "Meir Heath",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 7JQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "393149",
+  "northing": "339816",
+  "url": "www.meirheathprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

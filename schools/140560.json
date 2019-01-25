@@ -1,0 +1,18 @@
+{
+  "urn": "140560",
+  "name": "Beaminster St Mary's Academy",
+  "address": "Clay Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Beaminster",
+  "county": "Dorset",
+  "postcode": "DT8 3BY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "347386",
+  "northing": "101617",
+  "url": "www.stmarysbeaminster.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "126073",
+  "name": "Manhood Community College",
+  "address": "School Lane",
+  "locality": "Selsey",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO20 9EH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "485405",
+  "northing": "93649",
+  "url": "http://www.manhood.w-sussex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

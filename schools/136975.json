@@ -1,0 +1,18 @@
+{
+  "urn": "136975",
+  "name": "Signhills Academy",
+  "address": "Hardys Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cleethorpes",
+  "county": "North East Lincolnshire",
+  "postcode": "DN35 0DN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "531104",
+  "northing": "407529",
+  "url": "www.signhillsacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

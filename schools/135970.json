@@ -1,0 +1,18 @@
+{
+  "urn": "135970",
+  "name": "Ark St Alban's Academy",
+  "address": "Conybere Street",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B12 0YH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "407584",
+  "northing": "285384",
+  "url": "http://arkstalbans.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

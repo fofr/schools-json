@@ -1,0 +1,18 @@
+{
+  "urn": "145139",
+  "name": "Kingsdown School",
+  "address": "Hyde Rd",
+  "locality": "Stratton St Margaret",
+  "address3": "",
+  "town": "Swindon",
+  "county": "",
+  "postcode": "SN2 7SH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "416795",
+  "northing": "188147",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

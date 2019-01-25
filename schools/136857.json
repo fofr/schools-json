@@ -1,0 +1,18 @@
+{
+  "urn": "136857",
+  "name": "Bovingdon Primary Academy",
+  "address": "High Street",
+  "locality": "Bovingdon",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP3 0HL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "501517",
+  "northing": "203731",
+  "url": "http://www.bovingdonacademy.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

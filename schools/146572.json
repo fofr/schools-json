@@ -1,0 +1,18 @@
+{
+  "urn": "146572",
+  "name": "Wansdyke Primary School",
+  "address": "School Close",
+  "locality": "Whitchurch",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS14 0DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "359736",
+  "northing": "167686",
+  "url": "www.wansdyke.bristol.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

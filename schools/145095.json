@@ -1,0 +1,18 @@
+{
+  "urn": "145095",
+  "name": "Anston Park Infant School",
+  "address": "Park Avenue",
+  "locality": "",
+  "address3": "North Anston",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S25 4BT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "452330",
+  "northing": "385232",
+  "url": "www.anstonparkinfant.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138931",
+  "name": "Queniborough Church of England Primary School",
+  "address": "Coppice Lane",
+  "locality": "Queniborough",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE7 3DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "464542",
+  "northing": "312392",
+  "url": "www.queniboroughprimary.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

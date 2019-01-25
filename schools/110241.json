@@ -1,0 +1,18 @@
+{
+  "urn": "110241",
+  "name": "Jordans School",
+  "address": "Puers Lane",
+  "locality": "Jordans",
+  "address3": "",
+  "town": "Beaconsfield",
+  "county": "Buckinghamshire",
+  "postcode": "HP9 2TE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "497589",
+  "northing": "191805",
+  "url": "www.jordans.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100192",
+  "name": "The John Roan School",
+  "address": "Westcombe Park Road",
+  "locality": "Blackheath",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE3 7QR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "539630",
+  "northing": "177440",
+  "url": "http://www.thejohnroan.greenwich.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

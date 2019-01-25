@@ -1,0 +1,18 @@
+{
+  "urn": "117728",
+  "name": "Brigg Primary School",
+  "address": "Atherton Way",
+  "locality": "Ancholme Business Park",
+  "address3": "",
+  "town": "Brigg",
+  "county": "North Lincolnshire",
+  "postcode": "DN20 8AR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "499737",
+  "northing": "407987",
+  "url": "www.briggprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

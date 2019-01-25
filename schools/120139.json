@@ -1,0 +1,18 @@
+{
+  "urn": "120139",
+  "name": "Kibworth Church of England Primary School",
+  "address": "Hillcrest Avenue",
+  "locality": "Kibworth",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE8 0NH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "468022",
+  "northing": "294159",
+  "url": "www.kibprimary.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

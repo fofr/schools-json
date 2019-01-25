@@ -1,0 +1,18 @@
+{
+  "urn": "118167",
+  "name": "Hunnyhill Primary School",
+  "address": "Forest Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Isle of Wight",
+  "postcode": "PO30 5SH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449146",
+  "northing": "90025",
+  "url": "www.hunnyhillschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102539",
+  "name": "The Heathland School",
+  "address": "Wellington Road South",
+  "locality": "",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW4 5JD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "512912",
+  "northing": "174456",
+  "url": "http://www.heathland.hounslow.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

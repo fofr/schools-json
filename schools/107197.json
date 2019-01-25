@@ -1,0 +1,18 @@
+{
+  "urn": "107197",
+  "name": "Bradford Moor Community Primary School",
+  "address": "Marchbank Road",
+  "locality": "Barkerend Road",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD3 8QQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418424",
+  "northing": "433679",
+  "url": "http://www.bradmoor.ngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

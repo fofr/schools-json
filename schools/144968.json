@@ -1,0 +1,18 @@
+{
+  "urn": "144968",
+  "name": "Louth Academy",
+  "address": "Monks' Dyke Road",
+  "locality": "",
+  "address3": "",
+  "town": "Louth",
+  "county": "Lincolnshire",
+  "postcode": "LN11 9AW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "533462",
+  "northing": "387351",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

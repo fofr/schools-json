@@ -1,0 +1,18 @@
+{
+  "urn": "142255",
+  "name": "Mossbourne Parkside Academy",
+  "address": "Sigdon Road",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E8 1AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534440",
+  "northing": "185098",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

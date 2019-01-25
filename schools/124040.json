@@ -1,0 +1,18 @@
+{
+  "urn": "124040",
+  "name": "Victoria Community School",
+  "address": "Victoria Road",
+  "locality": "",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE14 2LU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "424417",
+  "northing": "323899",
+  "url": "www.victoria.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

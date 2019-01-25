@@ -1,0 +1,18 @@
+{
+  "urn": "104769",
+  "name": "Sherdley Primary School",
+  "address": "Mill Lane",
+  "locality": "Sutton",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA9 4HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "352321",
+  "northing": "392539",
+  "url": "www.sherdleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

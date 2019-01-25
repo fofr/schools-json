@@ -1,0 +1,18 @@
+{
+  "urn": "102291",
+  "name": "Clockhouse Primary School",
+  "address": "Clockhouse Lane",
+  "locality": "Collier Row",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM5 3QR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "549988",
+  "northing": "191473",
+  "url": "http://www.clockhouseprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100922",
+  "name": "Stebon Primary School",
+  "address": "Burdett Estate",
+  "locality": "Wallwood Street",
+  "address3": "Poplar",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 7AD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537074",
+  "northing": "181611",
+  "url": "http://www.stebon.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

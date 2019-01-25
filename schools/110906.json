@@ -1,0 +1,18 @@
+{
+  "urn": "110906",
+  "name": "St Peter's School",
+  "address": "St Peter's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE29 7DD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "523717",
+  "northing": "272783",
+  "url": "http://www.stpeters.cambs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

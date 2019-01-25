@@ -1,0 +1,18 @@
+{
+  "urn": "114409",
+  "name": "Peacehaven Infant School",
+  "address": "Roderick Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Peacehaven",
+  "county": "East Sussex",
+  "postcode": "BN10 8UZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "540967",
+  "northing": "101229",
+  "url": "http://www.peacehaveninfants.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

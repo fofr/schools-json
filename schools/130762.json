@@ -1,0 +1,18 @@
+{
+  "urn": "130762",
+  "name": "Lincoln College",
+  "address": "Monks Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN2 5HQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "498081",
+  "northing": "371438",
+  "url": "www.lincolncollege.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102316",
+  "name": "Scotts Primary School",
+  "address": "Bonington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hornchurch",
+  "county": "Essex",
+  "postcode": "RM12 6TH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "553545",
+  "northing": "185156",
+  "url": "http://www.scotts.havering.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109520",
+  "name": "The Firs Lower School",
+  "address": "Station Road",
+  "locality": "Ampthill",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 2QR",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "503077",
+  "northing": "237546",
+  "url": "http://www.firslower.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

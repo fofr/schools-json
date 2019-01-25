@@ -1,0 +1,18 @@
+{
+  "urn": "100041",
+  "name": "St Josephs Catholic Primary School",
+  "address": "Macklin Street",
+  "locality": "Covent Garden",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "WC2B 5NA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530415",
+  "northing": "181368",
+  "url": "http://www.stjosephs.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

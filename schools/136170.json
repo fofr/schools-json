@@ -1,0 +1,18 @@
+{
+  "urn": "136170",
+  "name": "The Bridge",
+  "address": "",
+  "locality": "Hertford Place",
+  "address3": "Bletchley",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK3 7HE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "485548",
+  "northing": "234593",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

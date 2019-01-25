@@ -1,0 +1,18 @@
+{
+  "urn": "135206",
+  "name": "Covingham Park Primary School",
+  "address": "The Harriers",
+  "locality": "Covingham Park",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN3 5BD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "418552",
+  "northing": "185260",
+  "url": "www.cpps.swindon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

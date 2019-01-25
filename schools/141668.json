@@ -1,0 +1,18 @@
+{
+  "urn": "141668",
+  "name": "Saltley Academy",
+  "address": "Belchers Lane",
+  "locality": "Bordesley Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B9 5RX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "411507",
+  "northing": "287349",
+  "url": "http://www.saltleyacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

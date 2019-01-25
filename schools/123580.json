@@ -1,0 +1,18 @@
+{
+  "urn": "123580",
+  "name": "The Grove School",
+  "address": "Newcastle Road",
+  "locality": "",
+  "address3": "",
+  "town": "Market Drayton",
+  "county": "Shropshire",
+  "postcode": "TF9 1HF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "367992",
+  "northing": "334369",
+  "url": "http://www.grove-school.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

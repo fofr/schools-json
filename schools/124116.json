@@ -1,0 +1,18 @@
+{
+  "urn": "124116",
+  "name": "Silverdale Primary School",
+  "address": "Racecourse",
+  "locality": "Silverdale",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 6PB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382417",
+  "northing": "346285",
+  "url": "http://www.silverdale.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

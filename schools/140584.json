@@ -1,0 +1,18 @@
+{
+  "urn": "140584",
+  "name": "Newbottle Primary Academy",
+  "address": "Houghton Road",
+  "locality": "Newbottle",
+  "address3": "",
+  "town": "Houghton le Spring",
+  "county": "Tyne and Wear",
+  "postcode": "DH4 4EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433574",
+  "northing": "551041",
+  "url": "www.newbottleprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

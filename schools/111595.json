@@ -1,0 +1,18 @@
+{
+  "urn": "111595",
+  "name": "The Avenue Primary School",
+  "address": "The Avenue",
+  "locality": "Nunthorpe",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "Cleveland",
+  "postcode": "TS7 0AG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453025",
+  "northing": "515165",
+  "url": "http://www.theavenueprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

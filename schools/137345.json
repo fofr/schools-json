@@ -1,0 +1,18 @@
+{
+  "urn": "137345",
+  "name": "Oaklands Catholic School",
+  "address": "Stakes Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Waterlooville",
+  "county": "Hampshire",
+  "postcode": "PO7 7BW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "468947",
+  "northing": "108108",
+  "url": "http://www.oaklandscatholicschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

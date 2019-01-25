@@ -1,0 +1,18 @@
+{
+  "urn": "123202",
+  "name": "Kidmore End Church of England (Aided) Primary School",
+  "address": "Chalkhouse Green Road",
+  "locality": "Kidmore End",
+  "address3": "",
+  "town": "Reading",
+  "county": "Oxfordshire",
+  "postcode": "RG4 9AU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "469884",
+  "northing": "179301",
+  "url": "http://moodle.kidmore-end.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

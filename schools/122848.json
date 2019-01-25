@@ -1,0 +1,18 @@
+{
+  "urn": "122848",
+  "name": "The Gedling School",
+  "address": "Wollaton Avenue",
+  "locality": "Gedling",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 4HX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "461018",
+  "northing": "343040",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

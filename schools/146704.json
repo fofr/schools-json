@@ -1,0 +1,18 @@
+{
+  "urn": "146704",
+  "name": "Blackbrook Primary School",
+  "address": "Ashbourne Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 2RA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "324641",
+  "northing": "124379",
+  "url": "www.blackbrookschool.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

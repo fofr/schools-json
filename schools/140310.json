@@ -1,0 +1,18 @@
+{
+  "urn": "140310",
+  "name": "Hillsborough Primary School",
+  "address": "Parkside Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S6 2AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433164",
+  "northing": "390499",
+  "url": "www.hillsboroughprimary.uk.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

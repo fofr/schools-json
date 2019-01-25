@@ -1,0 +1,18 @@
+{
+  "urn": "137200",
+  "name": "Humberston Academy",
+  "address": "Humberston Avenue",
+  "locality": "Humberston",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "North East Lincolnshire",
+  "postcode": "DN36 4TF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "530636",
+  "northing": "405405",
+  "url": "http://www.humberstonacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

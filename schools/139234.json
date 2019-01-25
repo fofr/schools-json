@@ -1,0 +1,18 @@
+{
+  "urn": "139234",
+  "name": "The JCB Academy",
+  "address": "Mill Street",
+  "locality": "",
+  "address3": "",
+  "town": "Rocester",
+  "county": "Staffordshire",
+  "postcode": "ST14 5JX",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "411020",
+  "northing": "339266",
+  "url": "http://www.jcbacademy.com/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

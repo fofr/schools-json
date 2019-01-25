@@ -1,0 +1,18 @@
+{
+  "urn": "119960",
+  "name": "Millfield Community School and Centre",
+  "address": "Hat Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 2WF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "455367",
+  "northing": "301508",
+  "url": "http://www.millfield.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

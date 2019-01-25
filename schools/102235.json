@@ -1,0 +1,18 @@
+{
+  "urn": "102235",
+  "name": "Hatch End High School",
+  "address": "Headstone Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA3 6NR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "513935",
+  "northing": "190977",
+  "url": "www.hatchend.harrow.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

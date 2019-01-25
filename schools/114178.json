@@ -1,0 +1,18 @@
+{
+  "urn": "114178",
+  "name": "Reid Street Primary School",
+  "address": "Reid Street",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL3 6EX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "428273",
+  "northing": "515384",
+  "url": "http://www.reidstreet.darlington.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

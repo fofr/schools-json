@@ -1,0 +1,18 @@
+{
+  "urn": "106902",
+  "name": "Rawmarsh Sandhill Primary School",
+  "address": "Kilnhurst Road",
+  "locality": "Rawmarsh",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S62 5LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445223",
+  "northing": "396937",
+  "url": "http://www.rawmarshsandhill.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123866",
+  "name": "Oakfield School",
+  "address": "Oakfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Frome",
+  "county": "Somerset",
+  "postcode": "BA11 4JF",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "376584",
+  "northing": "147924",
+  "url": "http://www.oakfieldmiddleschool.com",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

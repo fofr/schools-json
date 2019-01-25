@@ -1,0 +1,18 @@
+{
+  "urn": "120635",
+  "name": "The Deepings School",
+  "address": "Park Road",
+  "locality": "Deeping St James",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE6 8NF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "515249",
+  "northing": "309930",
+  "url": "http://www.deepings.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

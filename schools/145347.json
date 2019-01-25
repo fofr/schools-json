@@ -1,0 +1,18 @@
+{
+  "urn": "145347",
+  "name": "Dunsford Community Academy",
+  "address": "Dunsford",
+  "locality": "",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX6 7DD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "281164",
+  "northing": "89185",
+  "url": "http://www.dunsford.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

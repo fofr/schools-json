@@ -1,0 +1,18 @@
+{
+  "urn": "146232",
+  "name": "St Paul's Catholic School, a Voluntary Academy",
+  "address": "Spencefield Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 6HN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "463132",
+  "northing": "303882",
+  "url": "http://www.st-pauls.leicester.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

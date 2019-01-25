@@ -1,0 +1,18 @@
+{
+  "urn": "140593",
+  "name": "The Gateway Primary Academy",
+  "address": "Milestone Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA2 6DW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "555850",
+  "northing": "174010",
+  "url": "www.gateway-pri.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

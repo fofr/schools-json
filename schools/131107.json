@@ -1,0 +1,18 @@
+{
+  "urn": "131107",
+  "name": "Chopwell Primary School",
+  "address": "Derwent Street",
+  "locality": "Chopwell",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE17 7HS",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "411790",
+  "northing": "558135",
+  "url": "www.chopwellprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

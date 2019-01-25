@@ -1,0 +1,18 @@
+{
+  "urn": "113884",
+  "name": "Beaminster School",
+  "address": "Newtown",
+  "locality": "",
+  "address3": "",
+  "town": "Beaminster",
+  "county": "Dorset",
+  "postcode": "DT8 3EP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "347892",
+  "northing": "101937",
+  "url": "http://beaminster.dorset.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

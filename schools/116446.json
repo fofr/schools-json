@@ -1,0 +1,18 @@
+{
+  "urn": "116446",
+  "name": "Cove School",
+  "address": "St John's Road",
+  "locality": "Cove",
+  "address3": "",
+  "town": "Farnborough",
+  "county": "Hampshire",
+  "postcode": "GU14 9RN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "485148",
+  "northing": "156379",
+  "url": "http://www.cove.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

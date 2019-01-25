@@ -1,0 +1,18 @@
+{
+  "urn": "123449",
+  "name": "Priorslee Primary School",
+  "address": "Priorslee Avenue",
+  "locality": "Priorslee",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF2 9RS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "371306",
+  "northing": "309930",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

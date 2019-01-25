@@ -1,0 +1,18 @@
+{
+  "urn": "136183",
+  "name": "Sarum Academy",
+  "address": "Westwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Salisbury",
+  "county": "Wiltshire",
+  "postcode": "SP2 9HS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "411604",
+  "northing": "131859",
+  "url": "http://www.sarumacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

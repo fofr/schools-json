@@ -1,0 +1,18 @@
+{
+  "urn": "119312",
+  "name": "Balshaw Lane Community Primary School",
+  "address": "Bredon Avenue",
+  "locality": "Euxton",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR7 6NS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "356170",
+  "northing": "418336",
+  "url": "http://www.balshawlane.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

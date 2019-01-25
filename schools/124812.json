@@ -1,0 +1,18 @@
+{
+  "urn": "124812",
+  "name": "Orwell High School",
+  "address": "Maidstone Road",
+  "locality": "",
+  "address3": "",
+  "town": "Felixstowe",
+  "county": "Suffolk",
+  "postcode": "IP11 9EF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "629127",
+  "northing": "235341",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

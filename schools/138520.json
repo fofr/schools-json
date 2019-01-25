@@ -1,0 +1,18 @@
+{
+  "urn": "138520",
+  "name": "Worlaby Academy",
+  "address": "Low Road",
+  "locality": "Worlaby",
+  "address3": "",
+  "town": "Brigg",
+  "county": "North Lincolnshire",
+  "postcode": "DN20 0NA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "501357",
+  "northing": "413796",
+  "url": "http://www.worlabyacademy.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

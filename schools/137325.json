@@ -1,0 +1,18 @@
+{
+  "urn": "137325",
+  "name": "Central Bedfordshire PRU",
+  "address": "Kingsland Campus",
+  "locality": "Parkside Drive",
+  "address3": "Houghton Regis",
+  "town": "",
+  "county": "Bedfordshire",
+  "postcode": "LU5 5PY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "503033",
+  "northing": "224917",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

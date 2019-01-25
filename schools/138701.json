@@ -1,0 +1,18 @@
+{
+  "urn": "138701",
+  "name": "Highgate Primary Academy",
+  "address": "Nicholas Lane",
+  "locality": "Goldthorpe",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S63 9AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445389",
+  "northing": "404287",
+  "url": "www.highgateacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132219",
+  "name": "Immanuel College",
+  "address": "Leeds Road",
+  "locality": "Idle",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD10 9AQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "418072",
+  "northing": "438376",
+  "url": "www.immanuelcollege.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

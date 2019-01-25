@@ -1,0 +1,18 @@
+{
+  "urn": "142306",
+  "name": "Cockermouth School",
+  "address": "Castlegate Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Cockermouth",
+  "county": "Cumbria",
+  "postcode": "CA13 9HF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "312959",
+  "northing": "531073",
+  "url": "http://www.cockermouthschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

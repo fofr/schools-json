@@ -1,0 +1,18 @@
+{
+  "urn": "136501",
+  "name": "Sir Roger Manwood's School",
+  "address": "Manwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sandwich",
+  "county": "Kent",
+  "postcode": "CT13 9JX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "633436",
+  "northing": "157821",
+  "url": "http://www.manwoods.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

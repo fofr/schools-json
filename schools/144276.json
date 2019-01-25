@@ -1,0 +1,18 @@
+{
+  "urn": "144276",
+  "name": "Clements Primary Academy",
+  "address": "Greenfields Way",
+  "locality": "",
+  "address3": "",
+  "town": "Haverhill",
+  "county": "Suffolk",
+  "postcode": "CB9 8NJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "566261",
+  "northing": "244782",
+  "url": "www.clementsprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133099",
+  "name": "Coventry Secure Unit",
+  "address": "Stoke House",
+  "locality": "Lloyd Crescent",
+  "address3": "Wyken",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV2 5NY",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "437129",
+  "northing": "279078",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Secure units"
+}

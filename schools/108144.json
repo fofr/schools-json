@@ -1,0 +1,18 @@
+{
+  "urn": "108144",
+  "name": "Fitzwilliam First School",
+  "address": "Second Avenue",
+  "locality": "Fitzwilliam",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 5BA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "441462",
+  "northing": "415975",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

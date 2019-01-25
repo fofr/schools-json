@@ -1,0 +1,18 @@
+{
+  "urn": "132031",
+  "name": "Bushmead Primary School",
+  "address": "Bushmead Road",
+  "locality": "Eaton Socon",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 8BT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "516441",
+  "northing": "259285",
+  "url": "www.bushmead.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

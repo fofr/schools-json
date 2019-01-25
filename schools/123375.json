@@ -1,0 +1,18 @@
+{
+  "urn": "123375",
+  "name": "Ketley Infant School",
+  "address": "Holyhead Road",
+  "locality": "Ketley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 5AN",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "367923",
+  "northing": "310972",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

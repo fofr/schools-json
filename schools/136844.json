@@ -1,0 +1,18 @@
+{
+  "urn": "136844",
+  "name": "The Hazeley Academy",
+  "address": "Emperor Drive",
+  "locality": "Hazeley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK8 0PT",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "481650",
+  "northing": "236327",
+  "url": "www.thehazeleyacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

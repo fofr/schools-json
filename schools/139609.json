@@ -1,0 +1,18 @@
+{
+  "urn": "139609",
+  "name": "Charville Academy",
+  "address": "Bury Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hayes",
+  "county": "",
+  "postcode": "UB4 8LF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "509118",
+  "northing": "183116",
+  "url": "www.charvilleacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113721",
+  "name": "Southwell Primary School",
+  "address": "Sweethill Lane",
+  "locality": "Southwell",
+  "address3": "",
+  "town": "Portland",
+  "county": "Dorset",
+  "postcode": "DT5 2DT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "368326",
+  "northing": "70385",
+  "url": "http://www.southwell.dorset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

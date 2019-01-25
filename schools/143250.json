@@ -1,0 +1,18 @@
+{
+  "urn": "143250",
+  "name": "Newcroft Primary Academy",
+  "address": "Trueway Drive",
+  "locality": "Shepshed",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 9DU",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "448321",
+  "northing": "318951",
+  "url": "www.newcroftprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

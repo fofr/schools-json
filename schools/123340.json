@@ -1,0 +1,18 @@
+{
+  "urn": "123340",
+  "name": "Tesdale School",
+  "address": "Blacknall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 5HE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "449185",
+  "northing": "196427",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

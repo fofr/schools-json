@@ -1,0 +1,18 @@
+{
+  "urn": "117222",
+  "name": "Oakwood Primary School",
+  "address": "Oakwood Drive",
+  "locality": "",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL4 0XA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "517428",
+  "northing": "207858",
+  "url": "http://www.oakwood.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139637",
+  "name": "Woodhouse Primary Academy",
+  "address": "Woodhouse Road",
+  "locality": "Quinton",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B32 2DL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "401213",
+  "northing": "284646",
+  "url": "www.woodhouse.priacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

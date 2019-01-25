@@ -1,0 +1,18 @@
+{
+  "urn": "110825",
+  "name": "Eye CofE Primary School",
+  "address": "Eyebury Road",
+  "locality": "Eye",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE6 7TD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "522972",
+  "northing": "302524",
+  "url": "www.eyeprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

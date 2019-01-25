@@ -1,0 +1,18 @@
+{
+  "urn": "123453",
+  "name": "Muxton Primary School",
+  "address": "Marshbrook Way",
+  "locality": "Muxton",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF2 8SA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "371850",
+  "northing": "313695",
+  "url": "http://www.muxtonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

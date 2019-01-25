@@ -1,0 +1,18 @@
+{
+  "urn": "141523",
+  "name": "Axminster Community Primary Academy",
+  "address": "Stoney Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Axminster",
+  "county": "Devon",
+  "postcode": "EX13 5BU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "330193",
+  "northing": "98585",
+  "url": "www.acornacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

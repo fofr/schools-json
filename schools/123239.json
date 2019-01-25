@@ -1,0 +1,18 @@
+{
+  "urn": "123239",
+  "name": "Bartholomew School",
+  "address": "Witney Road",
+  "locality": "Eynsham",
+  "address3": "",
+  "town": "Witney",
+  "county": "Oxfordshire",
+  "postcode": "OX29 4AP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "442796",
+  "northing": "209461",
+  "url": "http://www.bartholomew.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

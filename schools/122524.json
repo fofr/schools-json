@@ -1,0 +1,18 @@
+{
+  "urn": "122524",
+  "name": "Central Infant and Nursery School",
+  "address": "Garden Avenue",
+  "locality": "Foxhill Road",
+  "address3": "Carlton",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 1QS",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "460850",
+  "northing": "341576",
+  "url": "www.carltoncentralinfants.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

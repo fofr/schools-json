@@ -1,0 +1,18 @@
+{
+  "urn": "109480",
+  "name": "Shillington Lower School",
+  "address": "Greenfields",
+  "locality": "Shillington",
+  "address3": "",
+  "town": "Hitchin",
+  "county": "Hertfordshire",
+  "postcode": "SG5 3NX",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "512330",
+  "northing": "234471",
+  "url": "www.shillingtonlower.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

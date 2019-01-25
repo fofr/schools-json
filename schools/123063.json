@@ -1,0 +1,18 @@
+{
+  "urn": "123063",
+  "name": "Dry Sandford Primary School",
+  "address": "Lashford Lane",
+  "locality": "Dry Sandford",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX13 6EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "446938",
+  "northing": "200607",
+  "url": "http://www.dry-sandford.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135389",
+  "name": "Ark Evelyn Grace Academy",
+  "address": "255 Shakespeare Road",
+  "locality": "Lambeth",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE24 0QN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "531808",
+  "northing": "175242",
+  "url": "http://evelyngraceacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

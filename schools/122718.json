@@ -1,0 +1,18 @@
+{
+  "urn": "122718",
+  "name": "Greencroft Primary School",
+  "address": "Greencroft",
+  "locality": "Clifton Estate",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG11 8EY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455656",
+  "northing": "335115",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

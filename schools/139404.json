@@ -1,0 +1,18 @@
+{
+  "urn": "139404",
+  "name": "Abbey Hey Primary Academy",
+  "address": "Abbey Hey Lane",
+  "locality": "Gorton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M18 8PF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389214",
+  "northing": "396376",
+  "url": "www.abbeyheyprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

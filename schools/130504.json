@@ -1,0 +1,18 @@
+{
+  "urn": "130504",
+  "name": "Xaverian College",
+  "address": "Lower Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M14 5RB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "385334",
+  "northing": "395437",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

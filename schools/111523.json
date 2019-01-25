@@ -1,0 +1,18 @@
+{
+  "urn": "111523",
+  "name": "High Clarence Primary School",
+  "address": "Port Clarence Road",
+  "locality": "",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS2 1SY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449486",
+  "northing": "521976",
+  "url": "http://www.highclarence.stockton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111900",
+  "name": "Whitemoor Community Primary School",
+  "address": "Whitemoor",
+  "locality": "",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL26 7XQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "197010",
+  "northing": "57407",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

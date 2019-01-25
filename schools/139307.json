@@ -1,0 +1,18 @@
+{
+  "urn": "139307",
+  "name": "Bower Park Academy",
+  "address": "Havering Road",
+  "locality": "",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM1 4YY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "551141",
+  "northing": "191853",
+  "url": "http://www.bowerpark.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

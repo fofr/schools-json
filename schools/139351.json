@@ -1,0 +1,18 @@
+{
+  "urn": "139351",
+  "name": "St. Mary's Menston, a Catholic Voluntary Academy",
+  "address": "Bradford Road",
+  "locality": "Menston",
+  "address3": "",
+  "town": "Ilkley",
+  "county": "West Yorkshire",
+  "postcode": "LS29 6AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "417987",
+  "northing": "442819",
+  "url": "http://www.stmarysmenston.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

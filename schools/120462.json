@@ -1,0 +1,18 @@
+{
+  "urn": "120462",
+  "name": "Marton Primary School",
+  "address": "Stow Park Road",
+  "locality": "Marton",
+  "address3": "",
+  "town": "Gainsborough",
+  "county": "Lincolnshire",
+  "postcode": "DN21 5AG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "484296",
+  "northing": "381859",
+  "url": "http://www.marton.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

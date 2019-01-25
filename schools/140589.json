@@ -1,0 +1,18 @@
+{
+  "urn": "140589",
+  "name": "St Chad's Church of England Primary School",
+  "address": "Rhodes Avenue",
+  "locality": "Uppermill",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Lancashire",
+  "postcode": "OL3 6EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "400186",
+  "northing": "406213",
+  "url": "http://www.stchads.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

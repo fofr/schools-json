@@ -1,0 +1,18 @@
+{
+  "urn": "131097",
+  "name": "Fern Hill Primary School",
+  "address": "Richmond Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingston upon Thames",
+  "county": "Surrey",
+  "postcode": "KT2 5PE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518141",
+  "northing": "170709",
+  "url": "www.fernhill.kingston.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

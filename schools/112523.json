@@ -1,0 +1,18 @@
+{
+  "urn": "112523",
+  "name": "Harpur Hill Primary School",
+  "address": "Trent Avenue",
+  "locality": "Harpur Hill",
+  "address3": "",
+  "town": "Buxton",
+  "county": "Derbyshire",
+  "postcode": "SK17 9LP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "406184",
+  "northing": "371890",
+  "url": "http://www.harpurhill.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

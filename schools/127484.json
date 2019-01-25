@@ -1,0 +1,18 @@
+{
+  "urn": "127484",
+  "name": "Wardley High School",
+  "address": "Mardale Avenue",
+  "locality": "Wardley",
+  "address3": "Swinton",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M27 3QP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "376379",
+  "northing": "402614",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

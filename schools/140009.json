@@ -1,0 +1,18 @@
+{
+  "urn": "140009",
+  "name": "Arundel Court Primary School and Nursery",
+  "address": "Northam Street",
+  "locality": "",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO1 1JE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "464794",
+  "northing": "100514",
+  "url": "http://arundelcourt.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122522",
+  "name": "Haddon Primary and Nursery School",
+  "address": "Haddon Close",
+  "locality": "Westdale Lane",
+  "address3": "Carlton",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 4GT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "460834",
+  "northing": "342505",
+  "url": "www.haddonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

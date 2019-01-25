@@ -1,0 +1,18 @@
+{
+  "urn": "117780",
+  "name": "Bottesford Infant School",
+  "address": "Manor Road",
+  "locality": "Bottesford",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "Lincolnshire",
+  "postcode": "DN16 3PB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "489219",
+  "northing": "407070",
+  "url": "http://www.bottesfordinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

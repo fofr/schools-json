@@ -1,0 +1,18 @@
+{
+  "urn": "140175",
+  "name": "St Michael's Community Academy",
+  "address": "Holland Street",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 3SL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "369960",
+  "northing": "356974",
+  "url": "www.stmichaelscommunityacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

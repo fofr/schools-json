@@ -1,0 +1,18 @@
+{
+  "urn": "141841",
+  "name": "The FitzWimarc School",
+  "address": "Hockley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rayleigh",
+  "county": "Essex",
+  "postcode": "SS6 8EB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "581060",
+  "northing": "191190",
+  "url": "http://www.fitzwimarc.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

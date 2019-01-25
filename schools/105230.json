@@ -1,0 +1,18 @@
+{
+  "urn": "105230",
+  "name": "St Bernard's RC Primary School, Bolton",
+  "address": "Wendover Drive",
+  "locality": "Ladybridge",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 4RX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "368323",
+  "northing": "408230",
+  "url": "www.st-bernards.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

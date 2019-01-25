@@ -1,0 +1,18 @@
+{
+  "urn": "112989",
+  "name": "Belper School and Sixth Form Centre",
+  "address": "John O'Gaunts Way",
+  "locality": "Off Kilburn Road",
+  "address3": "",
+  "town": "Belper",
+  "county": "Derbyshire",
+  "postcode": "DE56 0DA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "436500",
+  "northing": "347830",
+  "url": "http://www.belperschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

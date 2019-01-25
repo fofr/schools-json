@@ -1,0 +1,18 @@
+{
+  "urn": "104196",
+  "name": "Rushall Primary School",
+  "address": "Pelsall Lane",
+  "locality": "Rushall",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS4 1NQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "402629",
+  "northing": "301580",
+  "url": "www.rushall.walsall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

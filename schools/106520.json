@@ -1,0 +1,18 @@
+{
+  "urn": "106520",
+  "name": "PEMBEC High School",
+  "address": "Montrose Avenue",
+  "locality": "Pemberton",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN5 9XL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "355342",
+  "northing": "405476",
+  "url": "http://www.pembec.wigan.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

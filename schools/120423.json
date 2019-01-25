@@ -1,0 +1,18 @@
+{
+  "urn": "120423",
+  "name": "St Paul's Community Primary and Nursery School, Spalding",
+  "address": "Queen's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE11 2JQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "525915",
+  "northing": "323459",
+  "url": "www.spaldingstpauls.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

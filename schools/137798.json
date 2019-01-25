@@ -1,0 +1,18 @@
+{
+  "urn": "137798",
+  "name": "Bluecoat Aspley Academy",
+  "address": "Aspley Lane",
+  "locality": "Aspley",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 5GY",
+  "minimum_age": "7",
+  "maximum_age": "19",
+  "easting": "454301",
+  "northing": "341590",
+  "url": "www.bluecoataspley.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

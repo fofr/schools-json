@@ -1,0 +1,18 @@
+{
+  "urn": "135778",
+  "name": "Poplar Adolescent Unit",
+  "address": "Rochford Hospital",
+  "locality": "Union Lane",
+  "address3": "",
+  "town": "Rochford",
+  "county": "Essex",
+  "postcode": "SS4 1RB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "587496",
+  "northing": "190589",
+  "url": "http://www.poplaradolescentunit.essex.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

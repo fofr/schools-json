@@ -1,0 +1,18 @@
+{
+  "urn": "133997",
+  "name": "School Room",
+  "address": "Chaucer Ward",
+  "locality": "Northwick Park Hospital",
+  "address3": "Watford Road",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA1 3UJ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "516346",
+  "northing": "187581",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

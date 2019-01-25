@@ -1,0 +1,18 @@
+{
+  "urn": "114002",
+  "name": "Lumley Junior School",
+  "address": "Cocken Lane",
+  "locality": "Great Lumley",
+  "address3": "",
+  "town": "Chester le Street",
+  "county": "County Durham",
+  "postcode": "DH3 4JJ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "429608",
+  "northing": "549257",
+  "url": "www.lumley.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

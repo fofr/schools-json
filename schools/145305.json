@@ -1,0 +1,18 @@
+{
+  "urn": "145305",
+  "name": "Priory Primary School",
+  "address": "Limes Road",
+  "locality": "Priory Estate",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY1 4AQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393934",
+  "northing": "291270",
+  "url": "www.priory.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

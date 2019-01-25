@@ -1,0 +1,18 @@
+{
+  "urn": "124600",
+  "name": "Middleton Community Primary School",
+  "address": "Middleton",
+  "locality": "",
+  "address3": "",
+  "town": "Saxmundham",
+  "county": "Suffolk",
+  "postcode": "IP17 3NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "643003",
+  "northing": "267802",
+  "url": "www.yoxvalleypartnership.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

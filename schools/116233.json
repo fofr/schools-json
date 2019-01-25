@@ -1,0 +1,18 @@
+{
+  "urn": "116233",
+  "name": "Park Primary School",
+  "address": "Gloucester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Aldershot",
+  "county": "Hampshire",
+  "postcode": "GU11 3SL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "487230",
+  "northing": "149273",
+  "url": "www.park-pri.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

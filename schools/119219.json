@@ -1,0 +1,18 @@
+{
+  "urn": "119219",
+  "name": "Burnley Casterton Primary School",
+  "address": "Thames Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB10 2PZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "385141",
+  "northing": "435178",
+  "url": "www.casterton.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

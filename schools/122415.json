@@ -1,0 +1,18 @@
+{
+  "urn": "122415",
+  "name": "Douglas Primary and Nursery School",
+  "address": "Seely Road",
+  "locality": "Off Ilkeston Road",
+  "address3": "Radford",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 3GR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455984",
+  "northing": "340141",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120389",
+  "name": "South Witham Community Primary School",
+  "address": "Water Lane",
+  "locality": "South Witham",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG33 5PH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "492593",
+  "northing": "319297",
+  "url": "www.south-witham.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

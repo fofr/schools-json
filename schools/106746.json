@@ -1,0 +1,18 @@
+{
+  "urn": "106746",
+  "name": "Hayfield Lane Primary School",
+  "address": "Hayfield Lane",
+  "locality": "Auckley",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN9 3NB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "464998",
+  "northing": "399677",
+  "url": "http://www.hayfieldlane.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

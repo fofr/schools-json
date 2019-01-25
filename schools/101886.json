@@ -1,0 +1,18 @@
+{
+  "urn": "101886",
+  "name": "Selborne Primary School",
+  "address": "Conway Crescent",
+  "locality": "Perivale",
+  "address3": "",
+  "town": "Greenford",
+  "county": "Middlesex",
+  "postcode": "UB6 8JD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "515583",
+  "northing": "183332",
+  "url": "www.selborne.ealing.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

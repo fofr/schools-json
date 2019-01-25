@@ -1,0 +1,18 @@
+{
+  "urn": "138216",
+  "name": "The Priory School",
+  "address": "Longden Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 9EE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "348182",
+  "northing": "311194",
+  "url": "http://priory.tpstrust.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

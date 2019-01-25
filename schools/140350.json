@@ -1,0 +1,18 @@
+{
+  "urn": "140350",
+  "name": "Springfield Primary School",
+  "address": "Nursery Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sunbury-on-Thames",
+  "county": "Surrey",
+  "postcode": "TW16 6LY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "509607",
+  "northing": "169496",
+  "url": "www.springfieldsch.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

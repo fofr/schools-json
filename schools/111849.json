@@ -1,0 +1,18 @@
+{
+  "urn": "111849",
+  "name": "Penpol School",
+  "address": "2 St George's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hayle",
+  "county": "Cornwall",
+  "postcode": "TR27 4AH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "156030",
+  "northing": "37009",
+  "url": "www.penpolschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

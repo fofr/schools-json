@@ -1,0 +1,18 @@
+{
+  "urn": "116199",
+  "name": "Solent Infant School",
+  "address": "Evelegh Road",
+  "locality": "Farlington",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO6 1DH",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "467775",
+  "northing": "105875",
+  "url": "http://www.solent-inf.portsmouth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

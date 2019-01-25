@@ -1,0 +1,18 @@
+{
+  "urn": "125082",
+  "name": "New Monument School",
+  "address": "Alpha Road",
+  "locality": "Maybury",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU22 8HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "502199",
+  "northing": "159530",
+  "url": "http://www.newmonument.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

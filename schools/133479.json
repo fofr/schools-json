@@ -1,0 +1,18 @@
+{
+  "urn": "133479",
+  "name": "Kentmere Primary School",
+  "address": "Kentmere Avenue",
+  "locality": "Smallbridge",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL12 9EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390920",
+  "northing": "415113",
+  "url": "http://www.kentmereprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

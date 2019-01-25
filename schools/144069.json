@@ -1,0 +1,18 @@
+{
+  "urn": "144069",
+  "name": "The Pingle Academy",
+  "address": "Coronation Street",
+  "locality": "",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE11 0QA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "429393",
+  "northing": "320143",
+  "url": "http://www.pingleacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

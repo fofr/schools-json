@@ -1,0 +1,18 @@
+{
+  "urn": "136646",
+  "name": "Queen Elizabeth's",
+  "address": "Western Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crediton",
+  "county": "Devon",
+  "postcode": "EX17 3LU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "282666",
+  "northing": "100475",
+  "url": "http://www.qe.devon.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

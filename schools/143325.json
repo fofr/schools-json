@@ -1,0 +1,18 @@
+{
+  "urn": "143325",
+  "name": "Whixall CofE Primary School",
+  "address": "Brownsbrook",
+  "locality": "Whixall",
+  "address3": "",
+  "town": "Whitchurch",
+  "county": "Shropshire",
+  "postcode": "SY13 2SB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "350460",
+  "northing": "335066",
+  "url": "www.whixall.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

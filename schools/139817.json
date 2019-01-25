@@ -1,0 +1,18 @@
+{
+  "urn": "139817",
+  "name": "The Hyde School",
+  "address": "Hyde Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW9 7EY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521470",
+  "northing": "188530",
+  "url": "www.thehydeschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

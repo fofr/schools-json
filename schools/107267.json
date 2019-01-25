@@ -1,0 +1,18 @@
+{
+  "urn": "107267",
+  "name": "Parkwood Primary School",
+  "address": "Parkwood Street",
+  "locality": "",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD21 4QH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "406567",
+  "northing": "440889",
+  "url": "www.parkwood.bradford.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

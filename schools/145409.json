@@ -1,0 +1,18 @@
+{
+  "urn": "145409",
+  "name": "Springmead Primary School",
+  "address": "Hillyfields",
+  "locality": "",
+  "address3": "",
+  "town": "Welwyn Garden City",
+  "county": "",
+  "postcode": "AL7 2HB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526313",
+  "northing": "213209",
+  "url": "www.springmead.herts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

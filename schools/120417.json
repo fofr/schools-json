@@ -1,0 +1,18 @@
+{
+  "urn": "120417",
+  "name": "Moulton Chapel Primary School",
+  "address": "Eaugate Road",
+  "locality": "Moulton Chapel",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE12 0XJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "530160",
+  "northing": "318067",
+  "url": "www.moultonchapel.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

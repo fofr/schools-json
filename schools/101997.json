@@ -1,0 +1,18 @@
+{
+  "urn": "101997",
+  "name": "Hazelwood Infant School",
+  "address": "Hazelwood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N13 5HE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "531435",
+  "northing": "192682",
+  "url": "www.hazelwoodschools.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

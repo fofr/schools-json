@@ -1,0 +1,18 @@
+{
+  "urn": "113339",
+  "name": "Tidcombe Primary School",
+  "address": "Marina Way",
+  "locality": "",
+  "address3": "",
+  "town": "Tiverton",
+  "county": "Devon",
+  "postcode": "EX16 4BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "297328",
+  "northing": "112357",
+  "url": "http://www.tidcombe.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

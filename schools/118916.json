@@ -1,0 +1,18 @@
+{
+  "urn": "118916",
+  "name": "Barton Court Grammar School",
+  "address": "Longport",
+  "locality": "",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT1 1PH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "615693",
+  "northing": "157611",
+  "url": "http://www.bartoncourt.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

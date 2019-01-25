@@ -1,0 +1,18 @@
+{
+  "urn": "135936",
+  "name": "Fulwood Academy",
+  "address": "Black Bull Lane",
+  "locality": "",
+  "address3": "Fulwood",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 9YR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "352690",
+  "northing": "432551",
+  "url": "http://www.fulwoodacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

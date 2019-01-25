@@ -1,0 +1,18 @@
+{
+  "urn": "114044",
+  "name": "Westwood Primary School",
+  "address": "High Westwood",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE17 7RD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "411525",
+  "northing": "555796",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

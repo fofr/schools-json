@@ -1,0 +1,18 @@
+{
+  "urn": "106018",
+  "name": "Reddish Vale Nursery School",
+  "address": "Reddish Vale Road",
+  "locality": "Reddish",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK5 7EU",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "389745",
+  "northing": "393175",
+  "url": "www.reddishvalenursery.stockport.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

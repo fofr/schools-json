@@ -1,0 +1,18 @@
+{
+  "urn": "120832",
+  "name": "Martham First School and Nursery",
+  "address": "School Road",
+  "locality": "Martham",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR29 4PX",
+  "minimum_age": "3",
+  "maximum_age": "8",
+  "easting": "645541",
+  "northing": "318558",
+  "url": "http://www.marthamfirst.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

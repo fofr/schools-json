@@ -1,0 +1,18 @@
+{
+  "urn": "104154",
+  "name": "Green Rock Primary School",
+  "address": "Mersey Road",
+  "locality": "Blakenall",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 1NP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "401135",
+  "northing": "302340",
+  "url": "http://www.green-rock.walsall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

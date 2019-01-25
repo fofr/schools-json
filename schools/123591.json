@@ -1,0 +1,18 @@
+{
+  "urn": "123591",
+  "name": "The Grange Junior School",
+  "address": "Bainbridge Green",
+  "locality": "York Road",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 3QR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "350003",
+  "northing": "315685",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

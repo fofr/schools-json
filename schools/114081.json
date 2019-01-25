@@ -1,0 +1,18 @@
+{
+  "urn": "114081",
+  "name": "Kelloe Primary School",
+  "address": "Front Street",
+  "locality": "Kelloe",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH6 4PG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434140",
+  "northing": "536477",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

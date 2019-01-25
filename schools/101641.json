@@ -1,0 +1,18 @@
+{
+  "urn": "101641",
+  "name": "Poverest Primary School",
+  "address": "Tillingbourne Green",
+  "locality": "St Mary Cray",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR5 2JD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "546288",
+  "northing": "167923",
+  "url": "http://www.poverestprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

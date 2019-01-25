@@ -1,0 +1,18 @@
+{
+  "urn": "102017",
+  "name": "Eastfield Primary School",
+  "address": "Eastfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN3 5UX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535711",
+  "northing": "198153",
+  "url": "www.eastfieldprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

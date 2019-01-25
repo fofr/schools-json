@@ -1,0 +1,18 @@
+{
+  "urn": "101522",
+  "name": "Newfield Primary School",
+  "address": "Longstone Avenue",
+  "locality": "Willesden",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW10 3UD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521873",
+  "northing": "184023",
+  "url": "www.newfield.brent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

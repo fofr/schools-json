@@ -1,0 +1,18 @@
+{
+  "urn": "109451",
+  "name": "Pinchmill Primary School",
+  "address": "The Old Road",
+  "locality": "Felmersham",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK43 7JD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "499456",
+  "northing": "257903",
+  "url": "http://www.pinchmill.beds.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113517",
+  "name": "Dartmouth Community College",
+  "address": "Milton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Dartmouth",
+  "county": "Devon",
+  "postcode": "TQ6 9HW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "286606",
+  "northing": "50830",
+  "url": "http://www.dartmouthcollege.devon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

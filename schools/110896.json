@@ -1,0 +1,18 @@
+{
+  "urn": "110896",
+  "name": "The Queen's School",
+  "address": "Corporation Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 2SE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "546583",
+  "northing": "308578",
+  "url": "http://www.queensschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107912",
+  "name": "Alwoodley Primary School",
+  "address": "Cranmer Rise",
+  "locality": "Alwoodley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS17 5HX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429313",
+  "northing": "439468",
+  "url": "http://www.alwoodleyprimary.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

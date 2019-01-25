@@ -1,0 +1,18 @@
+{
+  "urn": "135270",
+  "name": "Newton Leys Primary School",
+  "address": "San Andres Drive",
+  "locality": "Newton Leys",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK3 5GG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "486944",
+  "northing": "231503",
+  "url": "www.newtonleysprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

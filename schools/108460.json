@@ -1,0 +1,18 @@
+{
+  "urn": "108460",
+  "name": "Hawthorn Primary School",
+  "address": "Park Close",
+  "locality": "Westgate",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 6SB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "423357",
+  "northing": "563851",
+  "url": "www.hawthorn.newcastle.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

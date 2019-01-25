@@ -1,0 +1,18 @@
+{
+  "urn": "144917",
+  "name": "Milton Park Primary School",
+  "address": "Milton Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Weston-Super-Mare",
+  "county": "Somerset",
+  "postcode": "BS22 8DY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "334100",
+  "northing": "162185",
+  "url": "www.miltonpark.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

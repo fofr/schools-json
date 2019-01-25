@@ -1,0 +1,18 @@
+{
+  "urn": "139219",
+  "name": "Whipperley Infant Academy",
+  "address": "Whipperley Ring",
+  "locality": "Farley Hill",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 5QY",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "507505",
+  "northing": "220910",
+  "url": "www.whipperleyinfantacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

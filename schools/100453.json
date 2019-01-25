@@ -1,0 +1,18 @@
+{
+  "urn": "100453",
+  "name": "Holloway School",
+  "address": "Hilldrop Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N7 0JG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "529750",
+  "northing": "185518",
+  "url": "http://www.holloway.islington.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

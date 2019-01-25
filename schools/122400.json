@@ -1,0 +1,18 @@
+{
+  "urn": "122400",
+  "name": "Newark Pupil Referral Unit",
+  "address": "Grove Hostel",
+  "locality": "49 London Road",
+  "address3": "New Balderton",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG24 3AL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "481452",
+  "northing": "352513",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

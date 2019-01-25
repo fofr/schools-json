@@ -1,0 +1,18 @@
+{
+  "urn": "101054",
+  "name": "Chestnut Grove School",
+  "address": "Chestnut Grove",
+  "locality": "Balham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW12 8JZ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "528283",
+  "northing": "173354",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

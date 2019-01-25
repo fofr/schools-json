@@ -1,0 +1,18 @@
+{
+  "urn": "121873",
+  "name": "Victoria Primary School",
+  "address": "Finedon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN8 4NT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "489794",
+  "northing": "268573",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137398",
+  "name": "Old Earth Primary School",
+  "address": "Lower Edge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Elland",
+  "county": "West Yorkshire",
+  "postcode": "HX5 9PL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412086",
+  "northing": "421327",
+  "url": "http://www.oldearth.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

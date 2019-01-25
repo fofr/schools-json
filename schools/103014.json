@@ -1,0 +1,18 @@
+{
+  "urn": "103014",
+  "name": "Wallington County Grammar School",
+  "address": "Croydon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wallington",
+  "county": "Surrey",
+  "postcode": "SM6 7PH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "528934",
+  "northing": "164954",
+  "url": "www.wcgs.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

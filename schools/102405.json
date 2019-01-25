@@ -1,0 +1,18 @@
+{
+  "urn": "102405",
+  "name": "Hermitage Primary School",
+  "address": "Belmont Road",
+  "locality": "",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "Middlesex",
+  "postcode": "UB8 1RB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "505909",
+  "northing": "184499",
+  "url": "www.hermitageprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112096",
+  "name": "West Cumbria Learning Centre",
+  "address": "Toll Bar",
+  "locality": "Distington",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 4PJ",
+  "minimum_age": "7",
+  "maximum_age": "16",
+  "easting": "300970",
+  "northing": "524377",
+  "url": "www.westcumbrialearningcentre.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

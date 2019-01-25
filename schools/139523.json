@@ -1,0 +1,18 @@
+{
+  "urn": "139523",
+  "name": "Goldington Green Academy",
+  "address": "Goldington Green",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK41 0DP",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "507614",
+  "northing": "250520",
+  "url": "www.goldingtongreenacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

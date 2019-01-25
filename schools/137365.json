@@ -1,0 +1,18 @@
+{
+  "urn": "137365",
+  "name": "Eastrop Infant School",
+  "address": "Eastrop",
+  "locality": "Highworth",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN6 7AP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "420404",
+  "northing": "192301",
+  "url": "www.eastropinfantschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

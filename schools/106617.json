@@ -1,0 +1,18 @@
+{
+  "urn": "106617",
+  "name": "Milefield Primary School",
+  "address": "Milefield Lane",
+  "locality": "Grimethorpe",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S72 7BH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "440630",
+  "northing": "409121",
+  "url": "www.milefieldprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

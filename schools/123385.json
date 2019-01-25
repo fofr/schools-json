@@ -1,0 +1,18 @@
+{
+  "urn": "123385",
+  "name": "Norbury Primary School and Nursery",
+  "address": "Norbury",
+  "locality": "",
+  "address3": "",
+  "town": "Bishops Castle",
+  "county": "Shropshire",
+  "postcode": "SY9 5EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "336962",
+  "northing": "292254",
+  "url": "www.norbury.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

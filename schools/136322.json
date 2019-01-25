@@ -1,0 +1,18 @@
+{
+  "urn": "136322",
+  "name": "Samuel Ward Academy",
+  "address": "Chalkstone Way",
+  "locality": "",
+  "address3": "",
+  "town": "Haverhill",
+  "county": "Suffolk",
+  "postcode": "CB9 0LD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "567770",
+  "northing": "246274",
+  "url": "http://www.samuelward.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

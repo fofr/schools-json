@@ -1,0 +1,18 @@
+{
+  "urn": "137202",
+  "name": "St Dunstan's School",
+  "address": "Wells Road",
+  "locality": "",
+  "address3": "",
+  "town": "Glastonbury",
+  "county": "Somerset",
+  "postcode": "BA6 9BY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "349928",
+  "northing": "139539",
+  "url": "http://www.stdunstansschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

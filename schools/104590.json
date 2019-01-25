@@ -1,0 +1,18 @@
+{
+  "urn": "104590",
+  "name": "Alderwood Junior School",
+  "address": "Alderwood Avenue",
+  "locality": "Speke",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L24 2UE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "344419",
+  "northing": "383264",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

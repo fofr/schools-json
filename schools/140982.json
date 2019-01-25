@@ -1,0 +1,18 @@
+{
+  "urn": "140982",
+  "name": "Brentwood County High School",
+  "address": "Shenfield Common",
+  "locality": "",
+  "address3": "",
+  "town": "Brentwood",
+  "county": "Essex",
+  "postcode": "CM14 4JF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "559902",
+  "northing": "193307",
+  "url": "http://www.bchs.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

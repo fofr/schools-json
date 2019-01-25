@@ -1,0 +1,18 @@
+{
+  "urn": "126213",
+  "name": "Even Swindon Primary School",
+  "address": "Pasture Close",
+  "locality": "Raybrook Park",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN2 2UJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "413581",
+  "northing": "185325",
+  "url": "www.evenswindon.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

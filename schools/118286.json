@@ -1,0 +1,18 @@
+{
+  "urn": "118286",
+  "name": "Sussex Road Community Primary School",
+  "address": "Sussex Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN9 2TP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "558245",
+  "northing": "145866",
+  "url": "http://www.sussex-road.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

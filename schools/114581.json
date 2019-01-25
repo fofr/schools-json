@@ -1,0 +1,18 @@
+{
+  "urn": "114581",
+  "name": "Longhill High School",
+  "address": "Falmer Road",
+  "locality": "Rottingdean",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN2 7FR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "536239",
+  "northing": "103942",
+  "url": "http://www.longhill.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

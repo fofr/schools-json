@@ -1,0 +1,18 @@
+{
+  "urn": "144231",
+  "name": "Tatsfield Primary School",
+  "address": "3 Ship Hill",
+  "locality": "Tatsfield",
+  "address3": "",
+  "town": "Nr Westerham",
+  "county": "Kent",
+  "postcode": "TN16 2AH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "541451",
+  "northing": "156620",
+  "url": "http://www.tatsfield.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

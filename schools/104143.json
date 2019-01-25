@@ -1,0 +1,18 @@
+{
+  "urn": "104143",
+  "name": "Alumwell Infant School",
+  "address": "Primley Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS2 9UP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "399551",
+  "northing": "298662",
+  "url": "http://www.alumwell-i.walsall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130436",
+  "name": "Southgate College",
+  "address": "High Street",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 6BS",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "529557",
+  "northing": "194050",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

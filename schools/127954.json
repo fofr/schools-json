@@ -1,0 +1,18 @@
+{
+  "urn": "127954",
+  "name": "City of Leeds School",
+  "address": "Woodhouse Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS2 8BP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "430000",
+  "northing": "433900",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122589",
+  "name": "Leen Mills Primary School",
+  "address": "Leen Mills Lane",
+  "locality": "Vaughan Estate",
+  "address3": "Hucknall",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG15 8BZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "453906",
+  "northing": "349915",
+  "url": "www.leenmillsprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

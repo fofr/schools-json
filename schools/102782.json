@@ -1,0 +1,18 @@
+{
+  "urn": "102782",
+  "name": "Plashet School",
+  "address": "Plashet Grove",
+  "locality": "East Ham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 1DG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "542240",
+  "northing": "184286",
+  "url": "http://www.plashetschoolnewham.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

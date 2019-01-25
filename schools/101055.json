@@ -1,0 +1,18 @@
+{
+  "urn": "101055",
+  "name": "Battersea Park School",
+  "address": "401 Battersea Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 5AP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "527924",
+  "northing": "176527",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

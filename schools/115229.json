@@ -1,0 +1,18 @@
+{
+  "urn": "115229",
+  "name": "The Laindon School",
+  "address": "High Road",
+  "locality": "Laindon",
+  "address3": "",
+  "town": "Basildon",
+  "county": "Essex",
+  "postcode": "SS15 6DD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "567839",
+  "northing": "189760",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

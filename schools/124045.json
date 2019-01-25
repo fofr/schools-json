@@ -1,0 +1,18 @@
+{
+  "urn": "124045",
+  "name": "Edge Hill Junior School",
+  "address": "Sycamore Road",
+  "locality": "Stapenhill",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE15 9NX",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "425753",
+  "northing": "321197",
+  "url": "http://www.edgehilljuniorschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

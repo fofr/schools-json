@@ -1,0 +1,18 @@
+{
+  "urn": "136115",
+  "name": "The Oldham Academy North",
+  "address": "Broadway",
+  "locality": "Royton",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL2 5BF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "391799",
+  "northing": "407084",
+  "url": "http://theoldhamacademynorth.e-act.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

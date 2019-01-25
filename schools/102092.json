@@ -1,0 +1,18 @@
+{
+  "urn": "102092",
+  "name": "Highgate Primary School",
+  "address": "North Hill",
+  "locality": "",
+  "address3": "Highgate",
+  "town": "London",
+  "county": "",
+  "postcode": "N6 4ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527936",
+  "northing": "188318",
+  "url": "www.highgateprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

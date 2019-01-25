@@ -1,0 +1,18 @@
+{
+  "urn": "113142",
+  "name": "Chulmleigh Primary School",
+  "address": "Beacon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chulmleigh",
+  "county": "Devon",
+  "postcode": "EX18 7AA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "268834",
+  "northing": "114686",
+  "url": "http://www.chulmleigh-primary.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

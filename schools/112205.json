@@ -1,0 +1,18 @@
+{
+  "urn": "112205",
+  "name": "Greengate Infant School",
+  "address": "Greengate Street",
+  "locality": "",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA13 9BY",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "320867",
+  "northing": "469458",
+  "url": "www.parksideggi.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

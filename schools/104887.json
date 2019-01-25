@@ -1,0 +1,18 @@
+{
+  "urn": "104887",
+  "name": "Larkfield Primary School",
+  "address": "Preston New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR9 8PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "336507",
+  "northing": "419248",
+  "url": "www.larkfieldprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

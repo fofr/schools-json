@@ -1,0 +1,18 @@
+{
+  "urn": "100765",
+  "name": "Greenvale School",
+  "address": "Waters Road",
+  "locality": "Catford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE6 1UF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "536370",
+  "northing": "172177",
+  "url": "www.greenvale.lewisham.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

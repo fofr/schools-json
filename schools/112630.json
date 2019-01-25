@@ -1,0 +1,18 @@
+{
+  "urn": "112630",
+  "name": "Duckmanton Primary School",
+  "address": "West Crescent",
+  "locality": "Duckmanton",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S44 5HD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "444026",
+  "northing": "372450",
+  "url": "www.duckmantonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

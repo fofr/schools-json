@@ -1,0 +1,18 @@
+{
+  "urn": "115882",
+  "name": "Denmead Infant School",
+  "address": "Hambledon Road",
+  "locality": "Denmead",
+  "address3": "",
+  "town": "Waterlooville",
+  "county": "Hampshire",
+  "postcode": "PO7 6PN",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "466130",
+  "northing": "111710",
+  "url": "http://denmeadinfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

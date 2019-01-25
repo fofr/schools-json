@@ -1,0 +1,18 @@
+{
+  "urn": "142243",
+  "name": "Newlyn School",
+  "address": "Carne Road",
+  "locality": "Newlyn",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR18 5QA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "146259",
+  "northing": "29244",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

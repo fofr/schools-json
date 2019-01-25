@@ -1,0 +1,18 @@
+{
+  "urn": "125877",
+  "name": "Fernhurst Primary School",
+  "address": "Haslemere Road",
+  "locality": "Fernhurst",
+  "address3": "",
+  "town": "Haslemere",
+  "county": "Surrey",
+  "postcode": "GU27 3EA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "489738",
+  "northing": "128828",
+  "url": "http://www.fernhurst.w-sussex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

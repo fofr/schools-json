@@ -1,0 +1,18 @@
+{
+  "urn": "125851",
+  "name": "Rustington Community Primary School",
+  "address": "North Lane",
+  "locality": "Rustington",
+  "address3": "",
+  "town": "Littlehampton",
+  "county": "West Sussex",
+  "postcode": "BN16 3PW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "504806",
+  "northing": "102888",
+  "url": "http://www.rustington.w-sussex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

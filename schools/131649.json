@@ -1,0 +1,18 @@
+{
+  "urn": "131649",
+  "name": "Larchwood Primary School",
+  "address": "Larchwood Gardens",
+  "locality": "Pilgrims Hatch",
+  "address3": "",
+  "town": "Brentwood",
+  "county": "Essex",
+  "postcode": "CM15 9NG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "558383",
+  "northing": "195392",
+  "url": "http://www.larchwoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105306",
+  "name": "Heaton Park Primary School",
+  "address": "Cuckoo Lane",
+  "locality": "Whitefield",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M45 6TE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "381614",
+  "northing": "404800",
+  "url": "www.heatonparkprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

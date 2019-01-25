@@ -1,0 +1,18 @@
+{
+  "urn": "102850",
+  "name": "Ilford County High School",
+  "address": "Fremantle Road",
+  "locality": "Barkingside",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG6 2JB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "543973",
+  "northing": "190161",
+  "url": "http://www.ichs.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

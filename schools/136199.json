@@ -1,0 +1,18 @@
+{
+  "urn": "136199",
+  "name": "Gloucester Academy",
+  "address": "Painswick Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL4 6RN",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "384653",
+  "northing": "216347",
+  "url": "http://www.gloucesteracademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

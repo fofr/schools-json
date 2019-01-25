@@ -1,0 +1,18 @@
+{
+  "urn": "138715",
+  "name": "Shepherdswell Academy",
+  "address": "Billingwell Place",
+  "locality": "Springfield",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK6 3NP",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "486971",
+  "northing": "238927",
+  "url": "www.orchardandshepherdswell.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

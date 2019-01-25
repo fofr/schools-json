@@ -1,0 +1,18 @@
+{
+  "urn": "123593",
+  "name": "Adams' Grammar School",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Shropshire",
+  "postcode": "TF10 7BD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "374337",
+  "northing": "319146",
+  "url": "http://www.adamsgs.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

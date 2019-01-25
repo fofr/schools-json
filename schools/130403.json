@@ -1,0 +1,18 @@
+{
+  "urn": "130403",
+  "name": "The Working Men's College",
+  "address": "44 Crowndale Road",
+  "locality": "Mill Hill Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW1 1TR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "529378",
+  "northing": "183461",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138067",
+  "name": "Daubeney Academy",
+  "address": "Orchard Street",
+  "locality": "Kempston",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 7PS",
+  "minimum_age": "10",
+  "maximum_age": "14",
+  "easting": "503824",
+  "northing": "247253",
+  "url": "http://www.daubeneyacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

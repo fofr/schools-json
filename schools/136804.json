@@ -1,0 +1,18 @@
+{
+  "urn": "136804",
+  "name": "Trinity Church School",
+  "address": "Woodborough Lane",
+  "locality": "Radstock",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA3 3DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "369319",
+  "northing": "155525",
+  "url": "www.trinitychurchschool.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

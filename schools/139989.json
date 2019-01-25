@@ -1,0 +1,18 @@
+{
+  "urn": "139989",
+  "name": "The Green School for Girls",
+  "address": "Busch Corner",
+  "locality": "London Road",
+  "address3": "",
+  "town": "Isleworth",
+  "county": "",
+  "postcode": "TW7 5BB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "516420",
+  "northing": "176903",
+  "url": "http://tgsgirls.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

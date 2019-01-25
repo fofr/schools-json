@@ -1,0 +1,18 @@
+{
+  "urn": "110053",
+  "name": "Shaw House School",
+  "address": "Church Road",
+  "locality": "Shaw",
+  "address3": "",
+  "town": "Newbury",
+  "county": "Berkshire",
+  "postcode": "RG14 2DU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "447496",
+  "northing": "168458",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143509",
+  "name": "Tang Hall Primary Academy",
+  "address": "Sixth Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO31 0UT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "461631",
+  "northing": "452311",
+  "url": "http://www.tanghallprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

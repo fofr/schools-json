@@ -1,0 +1,18 @@
+{
+  "urn": "111882",
+  "name": "Gorran School",
+  "address": "",
+  "locality": "",
+  "address3": "Gorran",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL26 6LH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "199896",
+  "northing": "41895",
+  "url": "www.gorranschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

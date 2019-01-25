@@ -1,0 +1,18 @@
+{
+  "urn": "131196",
+  "name": "Abbey Park School",
+  "address": "The Learning Campus",
+  "locality": "Redhouse Way",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN25 2ND",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "412703",
+  "northing": "189419",
+  "url": "http://www.abbeyparkschoool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

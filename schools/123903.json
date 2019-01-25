@@ -1,0 +1,18 @@
+{
+  "urn": "123903",
+  "name": "Brymore School",
+  "address": "Cannington",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA5 2NB",
+  "minimum_age": "13",
+  "maximum_age": "17",
+  "easting": "324582",
+  "northing": "139416",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

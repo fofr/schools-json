@@ -1,0 +1,18 @@
+{
+  "urn": "136979",
+  "name": "The Marches School",
+  "address": "Morda Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY11 2AR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "328622",
+  "northing": "328902",
+  "url": "http://marchesschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130708",
+  "name": "Peter Symonds College",
+  "address": "Owens Road",
+  "locality": "",
+  "address3": "",
+  "town": "Winchester",
+  "county": "Hampshire",
+  "postcode": "SO22 6RX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "447611",
+  "northing": "130451",
+  "url": "www.psc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

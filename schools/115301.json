@@ -1,0 +1,18 @@
+{
+  "urn": "115301",
+  "name": "Chase Lane Primary School and Nursery",
+  "address": "Chase Lane",
+  "locality": "Dovercourt",
+  "address3": "",
+  "town": "Harwich",
+  "county": "Essex",
+  "postcode": "CO12 4NB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "623267",
+  "northing": "230679",
+  "url": "www.chaselane.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

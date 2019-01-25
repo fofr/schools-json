@@ -1,0 +1,18 @@
+{
+  "urn": "129424",
+  "name": "Aylesham Secondary School",
+  "address": "Ackholt Road",
+  "locality": "Aylesham",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT3 3AJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "624140",
+  "northing": "152254",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

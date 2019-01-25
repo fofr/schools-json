@@ -1,0 +1,18 @@
+{
+  "urn": "124527",
+  "name": "Parkside Pupil Referral Unit",
+  "address": "291 Spring Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP4 5ND",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "618580",
+  "northing": "244917",
+  "url": "http://www.parksideschool.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

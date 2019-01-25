@@ -1,0 +1,18 @@
+{
+  "urn": "103528",
+  "name": "The Heartlands High School",
+  "address": "Great Francis Street",
+  "locality": "Nechells",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B7 4QR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "408595",
+  "northing": "287858",
+  "url": "http://www.thhs.bham.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

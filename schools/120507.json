@@ -1,0 +1,18 @@
+{
+  "urn": "120507",
+  "name": "Horncastle Community Primary School",
+  "address": "Bowl Alley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Horncastle",
+  "county": "Lincolnshire",
+  "postcode": "LN9 5EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526329",
+  "northing": "369898",
+  "url": "www.horncastleprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123581",
+  "name": "Madeley Academy",
+  "address": "Court Street",
+  "locality": "Madeley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 5FB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "369585",
+  "northing": "304820",
+  "url": "http://www.madeleyacademy.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

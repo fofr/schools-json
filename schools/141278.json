@@ -1,0 +1,18 @@
+{
+  "urn": "141278",
+  "name": "Featherstone Academy",
+  "address": "The Avenue",
+  "locality": "Featherstone",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV10 7AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393832",
+  "northing": "305037",
+  "url": "featherstoneacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

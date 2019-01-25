@@ -1,0 +1,18 @@
+{
+  "urn": "124848",
+  "name": "Holbrook High School",
+  "address": "Ipswich Road",
+  "locality": "Holbrook",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP9 2QX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "616843",
+  "northing": "236981",
+  "url": "http://www.holbrookhigh.suffolk.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

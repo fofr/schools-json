@@ -1,0 +1,18 @@
+{
+  "urn": "115384",
+  "name": "The Billericay School",
+  "address": "School Road",
+  "locality": "",
+  "address3": "",
+  "town": "Billericay",
+  "county": "Essex",
+  "postcode": "CM12 9LH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "567611",
+  "northing": "193819",
+  "url": "http://www.billericay.essex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

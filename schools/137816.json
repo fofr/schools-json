@@ -1,0 +1,18 @@
+{
+  "urn": "137816",
+  "name": "Eston Park Academy",
+  "address": "Burns Road",
+  "locality": "Eston",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "Cleveland",
+  "postcode": "TS6 9AW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "454522",
+  "northing": "519362",
+  "url": "http://www.estonpark.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

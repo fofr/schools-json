@@ -1,0 +1,18 @@
+{
+  "urn": "136085",
+  "name": "Bedford Academy",
+  "address": "Mile Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 9TR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "506020",
+  "northing": "247833",
+  "url": "http://bedfordacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

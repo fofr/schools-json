@@ -1,0 +1,18 @@
+{
+  "urn": "139257",
+  "name": "Orchard Meadow Primary School",
+  "address": "Wesley Close",
+  "locality": "Blackbird Leys",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 6BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "455387",
+  "northing": "202915",
+  "url": "www.orchardmeadowprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

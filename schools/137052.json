@@ -1,0 +1,18 @@
+{
+  "urn": "137052",
+  "name": "Ousedale School",
+  "address": "The Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Newport Pagnell",
+  "county": "Buckinghamshire",
+  "postcode": "MK16 0BJ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "486761",
+  "northing": "243164",
+  "url": "http://www.ousedale.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

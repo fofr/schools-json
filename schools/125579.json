@@ -1,0 +1,18 @@
+{
+  "urn": "125579",
+  "name": "Bilton Infant School",
+  "address": "Magnet Lane",
+  "locality": "Bilton",
+  "address3": "",
+  "town": "Rugby",
+  "county": "Warwickshire",
+  "postcode": "CV22 7NH",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "448346",
+  "northing": "273574",
+  "url": "http://www.biltoninfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

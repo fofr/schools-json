@@ -1,0 +1,18 @@
+{
+  "urn": "100013",
+  "name": "Edith Neville Primary School",
+  "address": "174 Ossulston Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW1 1DN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529725",
+  "northing": "183195",
+  "url": "http://www.edithneville.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

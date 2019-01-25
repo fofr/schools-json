@@ -1,0 +1,18 @@
+{
+  "urn": "101106",
+  "name": "Mary Paterson Nursery School",
+  "address": "13 Riverton Close",
+  "locality": "Off Ashmore Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W9 3DS",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "524829",
+  "northing": "182547",
+  "url": "www.marypatersonnurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137752",
+  "name": "Tewkesbury School",
+  "address": "Ashchurch Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tewkesbury",
+  "county": "Gloucestershire",
+  "postcode": "GL20 8DF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "391019",
+  "northing": "233074",
+  "url": "http://www.tewkesburyschool.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

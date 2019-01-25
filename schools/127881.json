@@ -1,0 +1,18 @@
+{
+  "urn": "127881",
+  "name": "Victoria First School",
+  "address": "Ivy Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS9 9ER",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "432819",
+  "northing": "433809",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

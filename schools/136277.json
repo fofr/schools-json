@@ -1,0 +1,18 @@
+{
+  "urn": "136277",
+  "name": "Healing Science Academy",
+  "address": "Low Road",
+  "locality": "Healing",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN41 7QD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "521615",
+  "northing": "410290",
+  "url": "http://www.healing-school.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

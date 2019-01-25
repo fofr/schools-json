@@ -1,0 +1,18 @@
+{
+  "urn": "133726",
+  "name": "Hensingham Community Primary School",
+  "address": "Main Street",
+  "locality": "",
+  "address3": "",
+  "town": "Whitehaven",
+  "county": "Cumbria",
+  "postcode": "CA28 8QZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "298873",
+  "northing": "516847",
+  "url": "http://www.hensingham.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123419",
+  "name": "Springfield Infant School",
+  "address": "Mereside",
+  "locality": "Springfield",
+  "address3": "Wenlock Road",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY2 6LE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "350993",
+  "northing": "310960",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

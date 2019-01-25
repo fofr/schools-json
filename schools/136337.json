@@ -1,0 +1,18 @@
+{
+  "urn": "136337",
+  "name": "Fort Pitt Grammar School",
+  "address": "Fort Pitt Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Chatham",
+  "county": "Kent",
+  "postcode": "ME4 6TJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "575049",
+  "northing": "167596",
+  "url": "http://www.fortpitt.medway.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

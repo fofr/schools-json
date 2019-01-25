@@ -1,0 +1,18 @@
+{
+  "urn": "108445",
+  "name": "Atkinson Road Primary School",
+  "address": "Atkinson Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 8XT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421604",
+  "northing": "563889",
+  "url": "www.atkinsonrd.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

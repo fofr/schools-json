@@ -1,0 +1,18 @@
+{
+  "urn": "111052",
+  "name": "Moulton School",
+  "address": "School Lane",
+  "locality": "Moulton",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW9 8PD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "365534",
+  "northing": "369757",
+  "url": "http://www.moulton.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

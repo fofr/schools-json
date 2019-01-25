@@ -1,0 +1,18 @@
+{
+  "urn": "143160",
+  "name": "Highfields Academy",
+  "address": "Cumberland Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 6HA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "365926",
+  "northing": "352990",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

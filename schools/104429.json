@@ -1,0 +1,18 @@
+{
+  "urn": "104429",
+  "name": "Park Brow Community Primary School",
+  "address": "Broad Lane",
+  "locality": "Southdene",
+  "address3": "Kirkby",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L32 6QH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "342053",
+  "northing": "397882",
+  "url": "www.parkbrowprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

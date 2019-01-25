@@ -1,0 +1,18 @@
+{
+  "urn": "120009",
+  "name": "Rushey Mead Primary School",
+  "address": "Gipsy Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 6RB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "460177",
+  "northing": "306874",
+  "url": "www.rusheymead-pri.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137134",
+  "name": "East Point Academy",
+  "address": "Kirkley Run",
+  "locality": "",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR33 0UQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "653336",
+  "northing": "292129",
+  "url": "http://www.inspirationtrust.org/eastpointacademy",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

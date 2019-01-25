@@ -1,0 +1,18 @@
+{
+  "urn": "112594",
+  "name": "Melbourne Infant School",
+  "address": "Packhorse Road",
+  "locality": "Melbourne",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE73 8JE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "438806",
+  "northing": "325740",
+  "url": "www.melbourne-inf.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

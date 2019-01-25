@@ -1,0 +1,18 @@
+{
+  "urn": "103786",
+  "name": "Fairhaven Primary School",
+  "address": "Barnett Lane",
+  "locality": "Wordsley",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY8 5PY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "388912",
+  "northing": "287306",
+  "url": "http://www.fairhaven.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

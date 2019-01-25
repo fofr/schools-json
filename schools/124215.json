@@ -1,0 +1,18 @@
+{
+  "urn": "124215",
+  "name": "Springhill Primary School",
+  "address": "Mossbank Avenue",
+  "locality": "Chasetown",
+  "address3": "",
+  "town": "Burntwood",
+  "county": "Staffordshire",
+  "postcode": "WS7 4UN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405495",
+  "northing": "308829",
+  "url": "http://www.springhillprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

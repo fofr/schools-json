@@ -1,0 +1,18 @@
+{
+  "urn": "102927",
+  "name": "Shene School",
+  "address": "Park Avenue",
+  "locality": "East Sheen",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW14 8RG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "521022",
+  "northing": "175147",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

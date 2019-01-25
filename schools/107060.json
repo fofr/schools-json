@@ -1,0 +1,18 @@
+{
+  "urn": "107060",
+  "name": "Coit Primary School",
+  "address": "Park Avenue",
+  "locality": "Chapeltown",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S35 1WH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "435363",
+  "northing": "395565",
+  "url": "www.coitprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

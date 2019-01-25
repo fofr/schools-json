@@ -1,0 +1,18 @@
+{
+  "urn": "109750",
+  "name": "Caversham Nursery School",
+  "address": "114 Amersham Road",
+  "locality": "Caversham",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG4 5NA",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "472737",
+  "northing": "174651",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

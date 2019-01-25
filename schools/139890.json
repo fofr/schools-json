@@ -1,0 +1,18 @@
+{
+  "urn": "139890",
+  "name": "New Monument Primary Academy",
+  "address": "Alpha Road",
+  "locality": "Maybury",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU22 8HA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "502199",
+  "northing": "159530",
+  "url": "http://www.newmonument.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

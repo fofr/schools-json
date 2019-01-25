@@ -1,0 +1,18 @@
+{
+  "urn": "133268",
+  "name": "Heathlands Primary School",
+  "address": "Ransom Road",
+  "locality": "Rainworth",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG21 0DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458011",
+  "northing": "359047",
+  "url": "http://www.heathlandsprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

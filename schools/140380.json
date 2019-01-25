@@ -1,0 +1,18 @@
+{
+  "urn": "140380",
+  "name": "Pemberley Academy",
+  "address": "Hodings Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM20 1NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "544151",
+  "northing": "210566",
+  "url": "www.pemberleyacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

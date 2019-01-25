@@ -1,0 +1,18 @@
+{
+  "urn": "101752",
+  "name": "Chipstead Valley Primary School",
+  "address": "Chipstead Valley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coulsdon",
+  "county": "Surrey",
+  "postcode": "CR5 3BW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "528288",
+  "northing": "159114",
+  "url": "http://www.chipsteadvalley.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119320",
+  "name": "Reedley Primary School",
+  "address": "Reedley Road",
+  "locality": "Reedley",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB10 2NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "385244",
+  "northing": "435912",
+  "url": "www.reedley.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137443",
+  "name": "Warren Primary Academy",
+  "address": "Bewcastle Road",
+  "locality": "Top Valley",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 9PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456283",
+  "northing": "346637",
+  "url": "www.warrenprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118524",
+  "name": "Kingswood Primary School",
+  "address": "Cayser Drive",
+  "locality": "Kingswood",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME17 3QF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "584054",
+  "northing": "150831",
+  "url": "www.kingswood.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

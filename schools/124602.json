@@ -1,0 +1,18 @@
+{
+  "urn": "124602",
+  "name": "Otley Primary School",
+  "address": "Chapel Road",
+  "locality": "Otley",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP6 9NT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "620545",
+  "northing": "255403",
+  "url": "www.otleyprimary.moonfruit.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

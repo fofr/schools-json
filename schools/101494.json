@@ -1,0 +1,18 @@
+{
+  "urn": "101494",
+  "name": "Peel Park Primary School and Nursery",
+  "address": "Peel Park Drive",
+  "locality": "Undercliffe",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD2 4PR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "417549",
+  "northing": "434592",
+  "url": "www.peelpark.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

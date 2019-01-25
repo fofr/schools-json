@@ -1,0 +1,18 @@
+{
+  "urn": "135904",
+  "name": "City Academy Norwich",
+  "address": "299 Bluebell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR4 7LP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "619907",
+  "northing": "308305",
+  "url": "http://cityacademynorwich.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

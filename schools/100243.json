@@ -1,0 +1,18 @@
+{
+  "urn": "100243",
+  "name": "Thomas Fairchild Community School",
+  "address": "Forston Street",
+  "locality": "Hoxton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 7HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532494",
+  "northing": "183307",
+  "url": "http://www.thomasfairchild.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

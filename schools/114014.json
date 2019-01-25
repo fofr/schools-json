@@ -1,0 +1,18 @@
+{
+  "urn": "114014",
+  "name": "Ouston Infant School",
+  "address": "Cromarty",
+  "locality": "Ouston",
+  "address3": "",
+  "town": "Chester le Street",
+  "county": "County Durham",
+  "postcode": "DH2 1JU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "426040",
+  "northing": "554445",
+  "url": "http://www.ouston-inf.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

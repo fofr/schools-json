@@ -1,0 +1,18 @@
+{
+  "urn": "100228",
+  "name": "Laburnum Primary School",
+  "address": "Laburnum Street",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 8BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533752",
+  "northing": "183613",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

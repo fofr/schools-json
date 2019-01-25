@@ -1,0 +1,18 @@
+{
+  "urn": "109131",
+  "name": "May Park Primary School",
+  "address": "Coombe Road",
+  "locality": "Eastville",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS5 6LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "361361",
+  "northing": "174880",
+  "url": "www.maypark.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

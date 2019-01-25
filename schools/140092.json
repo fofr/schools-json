@@ -1,0 +1,18 @@
+{
+  "urn": "140092",
+  "name": "Torre Church of England Academy",
+  "address": "Barton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Torquay",
+  "county": "Devon",
+  "postcode": "TQ1 4DN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "290487",
+  "northing": "65212",
+  "url": "https://www.torreacademytorquay.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120251",
+  "name": "Ivanhoe College Ashby-De-La-Zouch",
+  "address": "North Street",
+  "locality": "",
+  "address3": "",
+  "town": "Ashby-de-la-Zouch",
+  "county": "Leicestershire",
+  "postcode": "LE65 1HX",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "435974",
+  "northing": "317060",
+  "url": "www.ivanhoecollege.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

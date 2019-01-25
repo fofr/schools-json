@@ -1,0 +1,18 @@
+{
+  "urn": "110379",
+  "name": "The Willows School and Early Years Centre",
+  "address": "Fishermead Boulevard",
+  "locality": "Fishermead",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK6 2LP",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "486401",
+  "northing": "238560",
+  "url": "www.thewillowsmk.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

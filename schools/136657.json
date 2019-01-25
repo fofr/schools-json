@@ -1,0 +1,18 @@
+{
+  "urn": "136657",
+  "name": "Ringwood School Academy",
+  "address": "Parsonage Barn Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ringwood",
+  "county": "Hampshire",
+  "postcode": "BH24 1SE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "415321",
+  "northing": "105386",
+  "url": "http://www.ringwood.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

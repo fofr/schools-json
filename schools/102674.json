@@ -1,0 +1,18 @@
+{
+  "urn": "102674",
+  "name": "Raynes Park High School",
+  "address": "Bushey Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW20 0JL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "522579",
+  "northing": "168610",
+  "url": "http://www.raynespark.merton.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

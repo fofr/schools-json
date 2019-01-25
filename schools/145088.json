@@ -1,0 +1,18 @@
+{
+  "urn": "145088",
+  "name": "Earlham Primary School",
+  "address": "Earlham Grove",
+  "locality": "Forest Gate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E7 9AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539975",
+  "northing": "185050",
+  "url": "www.earlham.newham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

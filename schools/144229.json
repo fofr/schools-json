@@ -1,0 +1,18 @@
+{
+  "urn": "144229",
+  "name": "Bletchingley Village Primary School",
+  "address": "Coneybury",
+  "locality": "Bletchingley",
+  "address3": "",
+  "town": "Redhill",
+  "county": "Surrey",
+  "postcode": "RH1 4PP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533155",
+  "northing": "150489",
+  "url": "www.bletchingleyschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

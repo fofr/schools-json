@@ -1,0 +1,18 @@
+{
+  "urn": "143442",
+  "name": "Mousehole Community Primary School",
+  "address": "Foxes Lane",
+  "locality": "Mousehole",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR19 6QQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "146903",
+  "northing": "26603",
+  "url": "www.mousehole.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

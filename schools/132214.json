@@ -1,0 +1,18 @@
+{
+  "urn": "132214",
+  "name": "Kings High School",
+  "address": "Hadow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH10 5HS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "407113",
+  "northing": "95203",
+  "url": "http://www.kingshigh.bournemouth.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

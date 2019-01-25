@@ -1,0 +1,18 @@
+{
+  "urn": "112176",
+  "name": "Bolton Primary School",
+  "address": "Bolton",
+  "locality": "",
+  "address3": "",
+  "town": "Appleby-in-Westmorland",
+  "county": "Cumbria",
+  "postcode": "CA16 6AW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "363897",
+  "northing": "522945",
+  "url": "www.bolton.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

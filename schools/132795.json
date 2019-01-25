@@ -1,0 +1,18 @@
+{
+  "urn": "132795",
+  "name": "Asquith Primary School",
+  "address": "Horsfall Street",
+  "locality": "Morley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS27 9QY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425778",
+  "northing": "428852",
+  "url": "www.asquithprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

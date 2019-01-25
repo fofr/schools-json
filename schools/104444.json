@@ -1,0 +1,18 @@
+{
+  "urn": "104444",
+  "name": "Ravenscroft Community Primary School",
+  "address": "Ebony Way",
+  "locality": "Tower Hill",
+  "address3": "Kirkby",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L33 1XT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "341251",
+  "northing": "400150",
+  "url": "www.ravenscroftcp.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

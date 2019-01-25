@@ -1,0 +1,18 @@
+{
+  "urn": "131415",
+  "name": "St Ann's Junior and Infant School",
+  "address": "St Leonard's Road",
+  "locality": "Eastwood",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S65 1PD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443524",
+  "northing": "393382",
+  "url": "www.st-anns.rotherham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

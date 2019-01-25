@@ -1,0 +1,18 @@
+{
+  "urn": "142900",
+  "name": "WMG Academy for Young Engineers (Solihull)",
+  "address": "Chelmsley Road",
+  "locality": "Chelmsley Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "",
+  "postcode": "B37 5FD",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "417598",
+  "northing": "287207",
+  "url": "https://solihull.wmgacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

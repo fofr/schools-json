@@ -1,0 +1,18 @@
+{
+  "urn": "136287",
+  "name": "Uffculme School",
+  "address": "Chapel Hill",
+  "locality": "Uffculme",
+  "address3": "",
+  "town": "Cullompton",
+  "county": "Devon",
+  "postcode": "EX15 3AG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "306407",
+  "northing": "112895",
+  "url": "http://www.uffculmeschool.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

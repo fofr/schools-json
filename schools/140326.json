@@ -1,0 +1,18 @@
+{
+  "urn": "140326",
+  "name": "The Halifax Academy",
+  "address": "Gibbet Street",
+  "locality": "",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX2 0BA",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "407120",
+  "northing": "425316",
+  "url": "http://www.thehalifaxacademy.org",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

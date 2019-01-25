@@ -1,0 +1,18 @@
+{
+  "urn": "111120",
+  "name": "Greenfields Primary School",
+  "address": "Whitby's Lane",
+  "locality": "Over",
+  "address3": "",
+  "town": "Winsford",
+  "county": "Cheshire",
+  "postcode": "CW7 2LZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "363504",
+  "northing": "366123",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

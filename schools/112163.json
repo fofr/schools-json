@@ -1,0 +1,18 @@
+{
+  "urn": "112163",
+  "name": "Seascale Primary School",
+  "address": "Crofthead Road",
+  "locality": "Seaascale",
+  "address3": "",
+  "town": "Seascale",
+  "county": "Cumbria",
+  "postcode": "CA20 1LZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "304273",
+  "northing": "501702",
+  "url": "http://www.seascaleschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

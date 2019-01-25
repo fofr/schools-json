@@ -1,0 +1,18 @@
+{
+  "urn": "130644",
+  "name": "Broomfield College",
+  "address": "Morley",
+  "locality": "",
+  "address3": "",
+  "town": "Ilkeston",
+  "county": "Derbyshire",
+  "postcode": "DE7 6DN",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "438568",
+  "northing": "340064",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

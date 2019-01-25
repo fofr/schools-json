@@ -1,0 +1,18 @@
+{
+  "urn": "105114",
+  "name": "St Anselm's College",
+  "address": "Manor Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Prenton",
+  "county": "Merseyside",
+  "postcode": "CH43 1UQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "330342",
+  "northing": "388639",
+  "url": "www.st-anselms.wirral.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

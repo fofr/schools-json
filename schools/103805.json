@@ -1,0 +1,18 @@
+{
+  "urn": "103805",
+  "name": "The Ridge Primary School",
+  "address": "Gregory Road",
+  "locality": "Wollaston",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY8 3NF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388395",
+  "northing": "284275",
+  "url": "http://www.ridge.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

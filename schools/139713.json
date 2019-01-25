@@ -1,0 +1,18 @@
+{
+  "urn": "139713",
+  "name": "Ark Ayrton Primary Academy",
+  "address": "Somers Road",
+  "locality": "Southsea",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO5 4LS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "464750",
+  "northing": "99980",
+  "url": "www.arkayrtonprimary.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

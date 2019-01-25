@@ -1,0 +1,18 @@
+{
+  "urn": "111869",
+  "name": "St Agnes School",
+  "address": "Trelawney Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Agnes",
+  "county": "Cornwall",
+  "postcode": "TR5 0LZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "171754",
+  "northing": "50651",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

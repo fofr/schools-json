@@ -1,0 +1,18 @@
+{
+  "urn": "137378",
+  "name": "Ashingdon Primary Academy",
+  "address": "Fambridge Road",
+  "locality": "Ashingdon",
+  "address3": "",
+  "town": "Rochford",
+  "county": "Essex",
+  "postcode": "SS4 3LN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "585901",
+  "northing": "194051",
+  "url": "www.ashingdonprimaryacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

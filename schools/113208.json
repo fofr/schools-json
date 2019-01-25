@@ -1,0 +1,18 @@
+{
+  "urn": "113208",
+  "name": "Moretonhampstead Primary School",
+  "address": "Betton Way",
+  "locality": "Moretonhampstead",
+  "address3": "",
+  "town": "Newton Abbot",
+  "county": "Devon",
+  "postcode": "TQ13 8NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "275049",
+  "northing": "86081",
+  "url": "http://www.moretonhampstead.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

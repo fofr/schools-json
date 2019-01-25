@@ -1,0 +1,18 @@
+{
+  "urn": "136788",
+  "name": "The North Halifax Grammar School",
+  "address": "Moorbottom Road",
+  "locality": "Illingworth",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX2 9SU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "407826",
+  "northing": "428816",
+  "url": "http://www.nhgs.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

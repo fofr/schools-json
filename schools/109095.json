@@ -1,0 +1,18 @@
+{
+  "urn": "109095",
+  "name": "Uphill Primary School",
+  "address": "Old Church Road",
+  "locality": "Uphill Village",
+  "address3": "",
+  "town": "Weston-Super-Mare",
+  "county": "Somerset",
+  "postcode": "BS23 4XH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "331730",
+  "northing": "158692",
+  "url": "http://www.uphillprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

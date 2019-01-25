@@ -1,0 +1,18 @@
+{
+  "urn": "136639",
+  "name": "Kingsmead Academy",
+  "address": "Wiveliscombe",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA4 2NE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "308228",
+  "northing": "127457",
+  "url": "http://www.kingsmead-school.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

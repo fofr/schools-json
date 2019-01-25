@@ -1,0 +1,18 @@
+{
+  "urn": "111918",
+  "name": "Padstow School",
+  "address": "Grenville Road",
+  "locality": "",
+  "address3": "",
+  "town": "Padstow",
+  "county": "Cornwall",
+  "postcode": "PL28 8EX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "191345",
+  "northing": "74876",
+  "url": "http://www.padstow.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133973",
+  "name": "Northgate Primary School",
+  "address": "Green Lane",
+  "locality": "Northgate",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH10 8DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527259",
+  "northing": "137464",
+  "url": "http://www.northgate.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

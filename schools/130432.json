@@ -1,0 +1,18 @@
+{
+  "urn": "130432",
+  "name": "Croydon College",
+  "address": "Fairfield Campus",
+  "locality": "College Road",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR9 1DX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "532615",
+  "northing": "165558",
+  "url": "http://www.croydon.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

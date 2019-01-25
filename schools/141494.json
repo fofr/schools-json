@@ -1,0 +1,18 @@
+{
+  "urn": "141494",
+  "name": "Wordsworth Primary School",
+  "address": "Victor Street",
+  "locality": "Shirley",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO15 5LH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "439952",
+  "northing": "114064",
+  "url": "http://www.wordsworthprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

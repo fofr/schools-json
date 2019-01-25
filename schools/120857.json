@@ -1,0 +1,18 @@
+{
+  "urn": "120857",
+  "name": "Thompson Primary School",
+  "address": "School Road",
+  "locality": "Thompson",
+  "address3": "",
+  "town": "Thetford",
+  "county": "Norfolk",
+  "postcode": "IP24 1PY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "592294",
+  "northing": "296565",
+  "url": "http://www.thompson.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

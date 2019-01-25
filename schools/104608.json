@@ -1,0 +1,18 @@
+{
+  "urn": "104608",
+  "name": "Lawrence Infants' School",
+  "address": "Lawrence Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L15 0EE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "337967",
+  "northing": "389318",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

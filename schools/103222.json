@@ -1,0 +1,18 @@
+{
+  "urn": "103222",
+  "name": "Kings Norton Junior and Infant School",
+  "address": "Pershore Road South",
+  "locality": "Kings Norton",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B30 3EU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "405016",
+  "northing": "279044",
+  "url": "www.knps.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

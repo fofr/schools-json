@@ -1,0 +1,18 @@
+{
+  "urn": "131570",
+  "name": "Shire Oak VC Primary School",
+  "address": "Wood Lane",
+  "locality": "Headingley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS6 2DT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "428142",
+  "northing": "436290",
+  "url": "www.shireoak.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

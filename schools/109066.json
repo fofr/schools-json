@@ -1,0 +1,18 @@
+{
+  "urn": "109066",
+  "name": "Paulton Infant School",
+  "address": "Plumptre Close",
+  "locality": "Paulton",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Somerset",
+  "postcode": "BS39 7QY",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "365110",
+  "northing": "156192",
+  "url": "www.paultoninfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

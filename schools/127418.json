@@ -1,0 +1,18 @@
+{
+  "urn": "127418",
+  "name": "Birley High School",
+  "address": "Chichester Road",
+  "locality": "Hulme",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M15 5FU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "383600",
+  "northing": "396400",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

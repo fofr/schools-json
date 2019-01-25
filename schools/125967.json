@@ -1,0 +1,18 @@
+{
+  "urn": "125967",
+  "name": "Springfield Infant School",
+  "address": "Sackville Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worthing",
+  "county": "West Sussex",
+  "postcode": "BN14 8BQ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "515325",
+  "northing": "103751",
+  "url": "www.springfieldschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

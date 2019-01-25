@@ -1,0 +1,18 @@
+{
+  "urn": "103655",
+  "name": "Whitley Abbey Primary School",
+  "address": "Ashington Grove",
+  "locality": "Whitley",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV3 4DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "435138",
+  "northing": "276660",
+  "url": "www.whitleyabbeyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

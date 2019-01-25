@@ -1,0 +1,18 @@
+{
+  "urn": "109710",
+  "name": "Wootton Upper School",
+  "address": "Hall End Road",
+  "locality": "Wootton",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK43 9HT",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "500055",
+  "northing": "245115",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

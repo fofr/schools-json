@@ -1,0 +1,18 @@
+{
+  "urn": "127439",
+  "name": "Balderstone Upper School",
+  "address": "Queen Victoria Street",
+  "locality": "",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL11 2HJ",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "390186",
+  "northing": "411464",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

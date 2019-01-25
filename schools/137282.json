@@ -1,0 +1,18 @@
+{
+  "urn": "137282",
+  "name": "University Academy Holbeach",
+  "address": "Park Road",
+  "locality": "Holbeach",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE12 7PU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "536008",
+  "northing": "325426",
+  "url": "http://www.universityacademyholbeach.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

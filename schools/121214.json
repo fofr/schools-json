@@ -1,0 +1,18 @@
+{
+  "urn": "121214",
+  "name": "Sheringham High School and Sixth Form Centre",
+  "address": "Holt Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheringham",
+  "county": "Norfolk",
+  "postcode": "NR26 8ND",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "615019",
+  "northing": "342440",
+  "url": "http://www.sheringhamhigh.norfolk.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

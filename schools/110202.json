@@ -1,0 +1,18 @@
+{
+  "urn": "110202",
+  "name": "The Oaks Pupil Referral Unit",
+  "address": "Elangeni School",
+  "locality": "Woodside Avenue",
+  "address3": "",
+  "town": "Amersham",
+  "county": "Buckinghamshire",
+  "postcode": "HP6 6EG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "497111",
+  "northing": "199163",
+  "url": "office@theoaks-pru.bucks.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141045",
+  "name": "Barnes Infant Academy",
+  "address": "Mount Road",
+  "locality": "Barnes",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR4 7QF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "437966",
+  "northing": "555969",
+  "url": "http://barnesinfant.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

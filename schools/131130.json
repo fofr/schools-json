@@ -1,0 +1,18 @@
+{
+  "urn": "131130",
+  "name": "Castlewood Primary School",
+  "address": "Castlewood Road",
+  "locality": "Southwater",
+  "address3": "",
+  "town": "Horsham",
+  "county": "West Sussex",
+  "postcode": "RH13 9US",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "516311",
+  "northing": "126979",
+  "url": "http://www.castlewood.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

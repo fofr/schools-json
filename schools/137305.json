@@ -1,0 +1,18 @@
+{
+  "urn": "137305",
+  "name": "St Ivo School",
+  "address": "High Leys",
+  "locality": "",
+  "address3": "",
+  "town": "St Ives",
+  "county": "Cambridgeshire",
+  "postcode": "PE27 6RR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "530564",
+  "northing": "272046",
+  "url": "http://www.stivoschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

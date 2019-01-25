@@ -1,0 +1,18 @@
+{
+  "urn": "124939",
+  "name": "Walton-on-the-Hill Primary School",
+  "address": "Walton Street",
+  "locality": "Walton-on-the-Hill",
+  "address3": "",
+  "town": "Tadworth",
+  "county": "Surrey",
+  "postcode": "KT20 7RR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "522583",
+  "northing": "155232",
+  "url": "http://www.walton-on-the-hill.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

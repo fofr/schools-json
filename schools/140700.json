@@ -1,0 +1,18 @@
+{
+  "urn": "140700",
+  "name": "Barnwell Academy",
+  "address": "Whitefield Estate",
+  "locality": "Penshaw",
+  "address3": "",
+  "town": "Houghton le Spring",
+  "county": "Tyne and Wear",
+  "postcode": "DH4 7RT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432611",
+  "northing": "553202",
+  "url": "www.barnwellacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

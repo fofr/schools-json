@@ -1,0 +1,18 @@
+{
+  "urn": "130540",
+  "name": "Leeds College of Technology",
+  "address": "Cookridge Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS2 8BL",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "429990",
+  "northing": "434085",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

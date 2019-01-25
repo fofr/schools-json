@@ -1,0 +1,18 @@
+{
+  "urn": "123371",
+  "name": "Highley Community Primary School",
+  "address": "Grasmere Drive",
+  "locality": "Highley",
+  "address3": "",
+  "town": "Bridgnorth",
+  "county": "Shropshire",
+  "postcode": "WV16 6EH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "373619",
+  "northing": "283882",
+  "url": "www.highleyschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

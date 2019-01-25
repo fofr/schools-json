@@ -1,0 +1,18 @@
+{
+  "urn": "141308",
+  "name": "Adisham Church of England Primary School",
+  "address": "The Street",
+  "locality": "Adisham",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT3 3JW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "622676",
+  "northing": "153952",
+  "url": "www.adisham.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

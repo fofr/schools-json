@@ -1,0 +1,18 @@
+{
+  "urn": "134719",
+  "name": "Whinfield Primary School",
+  "address": "Augusta Close",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL1 3HT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "431138",
+  "northing": "516751",
+  "url": "www.whinfield.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

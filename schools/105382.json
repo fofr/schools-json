@@ -1,0 +1,18 @@
+{
+  "urn": "105382",
+  "name": "Mayfair Nursery School",
+  "address": "Ashgate Avenue",
+  "locality": "Crossacres",
+  "address3": "Wythenshawe",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M22 7ZE",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "383403",
+  "northing": "387561",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

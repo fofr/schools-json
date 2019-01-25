@@ -1,0 +1,18 @@
+{
+  "urn": "103268",
+  "name": "Thornton Primary School",
+  "address": "Thornton Road",
+  "locality": "Ward End",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B8 2LQ",
+  "minimum_age": "6",
+  "maximum_age": "11",
+  "easting": "411778",
+  "northing": "288114",
+  "url": "www.thornton.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

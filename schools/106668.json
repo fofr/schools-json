@@ -1,0 +1,18 @@
+{
+  "urn": "106668",
+  "name": "Highfields Primary School",
+  "address": "Highfields",
+  "locality": "",
+  "address3": "Market Street",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN6 7JE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453880",
+  "northing": "406773",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

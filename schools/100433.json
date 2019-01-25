@@ -1,0 +1,18 @@
+{
+  "urn": "100433",
+  "name": "Ashmount Infant School",
+  "address": "Ashmount Road",
+  "locality": "Hornsey Lane",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N19 3BH",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "529455",
+  "northing": "187610",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

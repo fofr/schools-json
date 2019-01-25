@@ -1,0 +1,18 @@
+{
+  "urn": "121212",
+  "name": "Marshland High School",
+  "address": "School Road",
+  "locality": "West Walton",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE14 7HA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "547854",
+  "northing": "313181",
+  "url": "http://www.marshlandhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

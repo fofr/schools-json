@@ -1,0 +1,18 @@
+{
+  "urn": "111831",
+  "name": "Parc Eglos School",
+  "address": "Church Hill",
+  "locality": "Parc Eglos",
+  "address3": "",
+  "town": "Helston",
+  "county": "Cornwall",
+  "postcode": "TR13 8UP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "165989",
+  "northing": "27808",
+  "url": "http://www.parc-eglos.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

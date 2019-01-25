@@ -1,0 +1,18 @@
+{
+  "urn": "140835",
+  "name": "Langford Village Academy",
+  "address": "Church Street",
+  "locality": "Langford",
+  "address3": "",
+  "town": "Biggleswade",
+  "county": "Bedfordshire",
+  "postcode": "SG18 9QA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "518650",
+  "northing": "241591",
+  "url": "www.langfordvillageacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

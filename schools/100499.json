@@ -1,0 +1,18 @@
+{
+  "urn": "100499",
+  "name": "Saint Mary's Catholic Primary School",
+  "address": "East Row",
+  "locality": "North Kensington",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W10 5AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524221",
+  "northing": "182203",
+  "url": "http://www.st-marys.rbkc.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

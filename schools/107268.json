@@ -1,0 +1,18 @@
+{
+  "urn": "107268",
+  "name": "Stanbury Village School",
+  "address": "Main Street",
+  "locality": "Stanbury",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD22 0HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "400807",
+  "northing": "436987",
+  "url": "http://www.stanburyvillageschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

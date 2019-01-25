@@ -1,0 +1,18 @@
+{
+  "urn": "101009",
+  "name": "Furzedown Primary School",
+  "address": "Beclands Road",
+  "locality": "Tooting",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW17 9TJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528505",
+  "northing": "170892",
+  "url": "www.furzedownschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

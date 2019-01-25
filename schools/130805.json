@@ -1,0 +1,18 @@
+{
+  "urn": "130805",
+  "name": "Yeovil College",
+  "address": "Mudford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA21 4DR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "355305",
+  "northing": "116693",
+  "url": "www.yeovil.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141551",
+  "name": "Wickham Market Primary School",
+  "address": "Dallinghoo Road",
+  "locality": "Wickham Market",
+  "address3": "",
+  "town": "Woodbridge",
+  "county": "Suffolk",
+  "postcode": "IP13 0RP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "629899",
+  "northing": "255872",
+  "url": "www.wickhammarketprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120028",
+  "name": "Wyvern Primary School",
+  "address": "Wyvern Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 7HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "460653",
+  "northing": "306963",
+  "url": "www.wyvern.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

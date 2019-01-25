@@ -1,0 +1,18 @@
+{
+  "urn": "123251",
+  "name": "The Cherwell School",
+  "address": "Marston Ferry Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX2 7EE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "451275",
+  "northing": "208809",
+  "url": "http://www.cherwell.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

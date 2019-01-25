@@ -1,0 +1,18 @@
+{
+  "urn": "105397",
+  "name": "Bowker Vale Primary School",
+  "address": "Middleton Road",
+  "locality": "Higher Crumpsall",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M8 4NB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "383910",
+  "northing": "403844",
+  "url": "www.bowkervale.manchester.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

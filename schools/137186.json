@@ -1,0 +1,18 @@
+{
+  "urn": "137186",
+  "name": "Dyson Perrins CofE Academy",
+  "address": "Yates Hay Road",
+  "locality": "",
+  "address3": "",
+  "town": "Malvern",
+  "county": "Worcestershire",
+  "postcode": "WR14 1WD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "377561",
+  "northing": "248358",
+  "url": "http://www.dysonperrins.worcs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

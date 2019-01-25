@@ -1,0 +1,18 @@
+{
+  "urn": "100325",
+  "name": "Canberra Primary School",
+  "address": "Australia Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W12 7PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522938",
+  "northing": "180698",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

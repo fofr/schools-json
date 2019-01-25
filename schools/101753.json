@@ -1,0 +1,18 @@
+{
+  "urn": "101753",
+  "name": "Kenley Primary School",
+  "address": "New Barn Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Whyteleafe",
+  "county": "Surrey",
+  "postcode": "CR3 0EX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533477",
+  "northing": "159145",
+  "url": "www.kenley.croydon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

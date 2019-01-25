@@ -1,0 +1,18 @@
+{
+  "urn": "103522",
+  "name": "John Willmott School",
+  "address": "Reddicap Heath Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B75 7DY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "413956",
+  "northing": "295870",
+  "url": "http://www.jws.bham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

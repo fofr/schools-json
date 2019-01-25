@@ -1,0 +1,18 @@
+{
+  "urn": "102155",
+  "name": "Northumberland Park Community School",
+  "address": "Trulock Road",
+  "locality": "Tottenham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N17 0PG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "534215",
+  "northing": "191340",
+  "url": "www.northumberlandpark.haringey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123699",
+  "name": "North Petherton Infants' School",
+  "address": "Schoolfields",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA6 6LU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "329172",
+  "northing": "132871",
+  "url": "http://www.npethertoninfant.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119713",
+  "name": "Hodgson School",
+  "address": "Moorland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Poulton-le-Fylde",
+  "county": "Lancashire",
+  "postcode": "FY6 7EU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "335543",
+  "northing": "439508",
+  "url": "http://www.hodgson.lancsngfl.ac.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

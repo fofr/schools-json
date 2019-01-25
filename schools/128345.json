@@ -1,0 +1,18 @@
+{
+  "urn": "128345",
+  "name": "Raans Secondary School",
+  "address": "Quill Hall Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Amersham",
+  "county": "Buckinghamshire",
+  "postcode": "HP6 6LX",
+  "minimum_age": "12",
+  "maximum_age": "16",
+  "easting": "497794",
+  "northing": "198248",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

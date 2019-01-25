@@ -1,0 +1,18 @@
+{
+  "urn": "118214",
+  "name": "Carisbrooke High School",
+  "address": "Mountbatten Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Isle of Wight",
+  "postcode": "PO30 5QU",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "448462",
+  "northing": "88795",
+  "url": "http://www.carisbrookehighschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141178",
+  "name": "The Warren School",
+  "address": "Whalebone Lane North",
+  "locality": "Chadwell Heath",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM6 6SB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "548476",
+  "northing": "188616",
+  "url": "http://www.thewarrenschool.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

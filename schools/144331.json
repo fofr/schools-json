@@ -1,0 +1,18 @@
+{
+  "urn": "144331",
+  "name": "Ackton Pastures Primary Academy",
+  "address": "College Grove",
+  "locality": "Whitwood",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 5NS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "441485",
+  "northing": "424575",
+  "url": "www.acktonpastures.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

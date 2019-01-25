@@ -1,0 +1,18 @@
+{
+  "urn": "120281",
+  "name": "Beaumont Leys School",
+  "address": "Anstey Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 0FL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "456860",
+  "northing": "306720",
+  "url": "http://www.beaumontleys.leicester.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

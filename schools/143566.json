@@ -1,0 +1,18 @@
+{
+  "urn": "143566",
+  "name": "Westbourne Primary School",
+  "address": "Skinner Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD8 7PL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "414973",
+  "northing": "434576",
+  "url": "www.westbourne.bradford.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

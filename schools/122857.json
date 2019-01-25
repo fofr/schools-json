@@ -1,0 +1,18 @@
+{
+  "urn": "122857",
+  "name": "Selston High School",
+  "address": "Chapel Road",
+  "locality": "Selston",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 6BW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "446509",
+  "northing": "353034",
+  "url": "http://www.selstonhighschool.notts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

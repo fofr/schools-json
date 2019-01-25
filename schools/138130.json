@@ -1,0 +1,18 @@
+{
+  "urn": "138130",
+  "name": "Oakwood Academy",
+  "address": "Chatsworth Road",
+  "locality": "Ellesmere Park",
+  "address3": "",
+  "town": "Eccles",
+  "county": "Lancashire",
+  "postcode": "M30 9DY",
+  "minimum_age": "9",
+  "maximum_age": "18",
+  "easting": "377777",
+  "northing": "399838",
+  "url": "www.oakwoodacademy.co.uk",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

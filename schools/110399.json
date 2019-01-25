@@ -1,0 +1,18 @@
+{
+  "urn": "110399",
+  "name": "Cedars Primary School",
+  "address": "Bury Street",
+  "locality": "",
+  "address3": "",
+  "town": "Newport Pagnell",
+  "county": "Buckinghamshire",
+  "postcode": "MK16 0DT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "487471",
+  "northing": "243751",
+  "url": "www.cedars.milton-keynes.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

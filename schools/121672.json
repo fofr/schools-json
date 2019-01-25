@@ -1,0 +1,18 @@
+{
+  "urn": "121672",
+  "name": "Caedmon School",
+  "address": "Airy Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Whitby",
+  "county": "North Yorkshire",
+  "postcode": "YO21 1QA",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "489672",
+  "northing": "510121",
+  "url": "http://www.caedmon.n-yorks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137847",
+  "name": "Stanborough School",
+  "address": "Lemsford Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Welwyn Garden City",
+  "county": "Hertfordshire",
+  "postcode": "AL8 6YR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "522890",
+  "northing": "211688",
+  "url": "http://www.stanborough.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

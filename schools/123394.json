@@ -1,0 +1,18 @@
+{
+  "urn": "123394",
+  "name": "St George's Junior School",
+  "address": "Woodfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 8LU",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "347806",
+  "northing": "312608",
+  "url": "www.stgeorgesjunior.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

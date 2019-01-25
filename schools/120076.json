@@ -1,0 +1,18 @@
+{
+  "urn": "120076",
+  "name": "Richmond Primary School",
+  "address": "Stoke Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 3EA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "442119",
+  "northing": "295160",
+  "url": "http://www.richmond.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

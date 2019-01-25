@@ -1,0 +1,18 @@
+{
+  "urn": "123735",
+  "name": "Ilchester Community School",
+  "address": "Somerton Road",
+  "locality": "Ilchester",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA22 8JL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "352195",
+  "northing": "123884",
+  "url": "www.ilchestercommunityprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

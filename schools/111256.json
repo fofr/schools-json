@@ -1,0 +1,18 @@
+{
+  "urn": "111256",
+  "name": "Elworth CofE Primary School",
+  "address": "School Lane",
+  "locality": "Elworth",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 3HU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "374085",
+  "northing": "361237",
+  "url": "www.elworthce.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

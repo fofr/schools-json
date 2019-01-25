@@ -1,0 +1,18 @@
+{
+  "urn": "123794",
+  "name": "Hatch Beauchamp Church of England Primary School",
+  "address": "Station Road",
+  "locality": "Hatch Beauchamp",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA3 6SQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "330387",
+  "northing": "120439",
+  "url": "www.hatchbeauchampschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

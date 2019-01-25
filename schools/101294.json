@@ -1,0 +1,18 @@
+{
+  "urn": "101294",
+  "name": "Moss Hall Junior School",
+  "address": "187 Nether Street",
+  "locality": "Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N3 1NR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "525719",
+  "northing": "191679",
+  "url": "http://www.mosshalljunior.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

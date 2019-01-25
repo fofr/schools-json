@@ -1,0 +1,18 @@
+{
+  "urn": "139766",
+  "name": "The Telford Langley School",
+  "address": "Duce Drive",
+  "locality": "Dawley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF4 3JS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "368682",
+  "northing": "307334",
+  "url": "http://www.telfordlangleyschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

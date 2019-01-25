@@ -1,0 +1,18 @@
+{
+  "urn": "119226",
+  "name": "Brookfield Community Primary School",
+  "address": "Watling Street Road",
+  "locality": "",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 6TU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "356274",
+  "northing": "432144",
+  "url": "www.brookfield.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

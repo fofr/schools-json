@@ -1,0 +1,18 @@
+{
+  "urn": "117196",
+  "name": "Hazelgrove Primary School",
+  "address": "Hazel Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Hatfield",
+  "county": "Hertfordshire",
+  "postcode": "AL10 9DX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "521812",
+  "northing": "206674",
+  "url": "http://www.hazelgrove.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116196",
+  "name": "Highbury Primary School",
+  "address": "Dovercourt Road",
+  "locality": "Cosham",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO6 2RZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "466215",
+  "northing": "104657",
+  "url": "http://www.highburyprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

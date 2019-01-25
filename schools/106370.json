@@ -1,0 +1,18 @@
+{
+  "urn": "106370",
+  "name": "Stretford High School",
+  "address": "Great Stone Road",
+  "locality": "Stretford",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M32 0XA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "380595",
+  "northing": "395646",
+  "url": "http://stretfordhigh.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138658",
+  "name": "Summerhill Academy",
+  "address": "Plummers Hill",
+  "locality": "St George",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS5 7JU",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "362454",
+  "northing": "173764",
+  "url": "www.summerhillacademy.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

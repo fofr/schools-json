@@ -1,0 +1,18 @@
+{
+  "urn": "110631",
+  "name": "Coates Primary School",
+  "address": "The Fold",
+  "locality": "Coates",
+  "address3": "Whittlesey",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 2BP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "530737",
+  "northing": "297934",
+  "url": "www.coatesprimaryschool.info",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

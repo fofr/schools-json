@@ -1,0 +1,18 @@
+{
+  "urn": "110689",
+  "name": "Somersham Primary School",
+  "address": "Parkhall Road",
+  "locality": "Somersham",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 3EU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "536137",
+  "northing": "278306",
+  "url": "http://somershamprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

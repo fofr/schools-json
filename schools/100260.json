@@ -1,0 +1,18 @@
+{
+  "urn": "100260",
+  "name": "Benthal Primary School",
+  "address": "Benthal Road",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N16 7AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534224",
+  "northing": "186153",
+  "url": "www.benthal.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116000",
+  "name": "Freegrounds Junior School",
+  "address": "Hobb Lane",
+  "locality": "Hedge End",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO30 0GG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "449612",
+  "northing": "112763",
+  "url": "http://www.freegrounds-jun.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

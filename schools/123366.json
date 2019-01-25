@@ -1,0 +1,18 @@
+{
+  "urn": "123366",
+  "name": "Gobowen Primary School",
+  "address": "School Lane",
+  "locality": "Gobowen",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY11 3LD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "330199",
+  "northing": "333997",
+  "url": "www.gobowenschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

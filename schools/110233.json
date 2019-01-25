@@ -1,0 +1,18 @@
+{
+  "urn": "110233",
+  "name": "King's Wood Infant School",
+  "address": "Totteridge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP13 7LR",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "488445",
+  "northing": "193850",
+  "url": "http://www.kingswoodf.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

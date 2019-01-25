@@ -1,0 +1,18 @@
+{
+  "urn": "137960",
+  "name": "The Vaynor First School",
+  "address": "Tennyson Road",
+  "locality": "Headless Cross",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B97 5BL",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "403238",
+  "northing": "265551",
+  "url": "www.thevaynor.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

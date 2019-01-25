@@ -1,0 +1,18 @@
+{
+  "urn": "131177",
+  "name": "Pennine Way Primary School",
+  "address": "Edgehill Road",
+  "locality": "Harraby",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA1 3SN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "342948",
+  "northing": "554444",
+  "url": "www.pennineway.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123977",
+  "name": "Goldenhill Primary School",
+  "address": "Broadfield Road",
+  "locality": "Goldenhill",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 4QE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385033",
+  "northing": "353076",
+  "url": "www.goldenhillprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

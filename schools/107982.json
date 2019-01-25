@@ -1,0 +1,18 @@
+{
+  "urn": "107982",
+  "name": "Rothwell Primary School",
+  "address": "Carlton Lane",
+  "locality": "Rothwell",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS26 0DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434369",
+  "northing": "427882",
+  "url": "www.rothwellprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

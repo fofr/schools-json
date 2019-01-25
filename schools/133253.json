@@ -1,0 +1,18 @@
+{
+  "urn": "133253",
+  "name": "Moat Primary School",
+  "address": "Juniper Avenue",
+  "locality": "Matson",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL4 6AP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384903",
+  "northing": "215718",
+  "url": "www.moatprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

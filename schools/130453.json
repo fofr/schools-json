@@ -1,0 +1,18 @@
+{
+  "urn": "130453",
+  "name": "Redbridge College",
+  "address": "Little Heath",
+  "locality": "Barley Lane",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM6 4XT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "546930",
+  "northing": "188916",
+  "url": "http://www.redbridge-college.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

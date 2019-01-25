@@ -1,0 +1,18 @@
+{
+  "urn": "142991",
+  "name": "Gladstone Primary Academy",
+  "address": "Anchor Road",
+  "locality": "Sandford Hill",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 5EW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "391443",
+  "northing": "344041",
+  "url": "http://www.gladstone.stoke.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

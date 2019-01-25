@@ -1,0 +1,18 @@
+{
+  "urn": "111107",
+  "name": "Farndon Primary School",
+  "address": "Churton Road",
+  "locality": "Farndon",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH3 6QP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "341345",
+  "northing": "354747",
+  "url": "http://www.farndon.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

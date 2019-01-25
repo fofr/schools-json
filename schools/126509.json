@@ -1,0 +1,18 @@
+{
+  "urn": "126509",
+  "name": "Hardenhuish School",
+  "address": "Hardenhuish Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN14 6RJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "390942",
+  "northing": "174658",
+  "url": "http://www.hardenhuish.wilts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

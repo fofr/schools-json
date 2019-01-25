@@ -1,0 +1,18 @@
+{
+  "urn": "138463",
+  "name": "St Francis Xavier's College",
+  "address": "High Lee",
+  "locality": "Woolton Hill Road",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L25 6EG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "341544",
+  "northing": "387674",
+  "url": "www.sfx.liverpool.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

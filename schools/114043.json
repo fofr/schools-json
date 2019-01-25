@@ -1,0 +1,18 @@
+{
+  "urn": "114043",
+  "name": "Castleside Primary School",
+  "address": "Moorland Crescent",
+  "locality": "Castleside",
+  "address3": "",
+  "town": "Consett",
+  "county": "County Durham",
+  "postcode": "DH8 9RG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407954",
+  "northing": "548713",
+  "url": "www.castleside.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

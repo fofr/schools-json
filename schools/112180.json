@@ -1,0 +1,18 @@
+{
+  "urn": "112180",
+  "name": "Kirkby Stephen Primary School",
+  "address": "Nateby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kirkby Stephen",
+  "county": "Cumbria",
+  "postcode": "CA17 4AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "377595",
+  "northing": "508408",
+  "url": "www.ksps-cumbria.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

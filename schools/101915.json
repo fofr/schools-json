@@ -1,0 +1,18 @@
+{
+  "urn": "101915",
+  "name": "Brentside Primary School",
+  "address": "Kennedy Road",
+  "locality": "Hanwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W7 1JL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "515273",
+  "northing": "182094",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

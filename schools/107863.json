@@ -1,0 +1,18 @@
+{
+  "urn": "107863",
+  "name": "Birchfield Primary School",
+  "address": "Birchfield Avenue",
+  "locality": "Gildersome",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS27 7HU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "424121",
+  "northing": "428881",
+  "url": "www.birchfieldprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

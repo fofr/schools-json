@@ -1,0 +1,18 @@
+{
+  "urn": "140501",
+  "name": "The Quinta Primary School",
+  "address": "Ullswater Road",
+  "locality": "",
+  "address3": "",
+  "town": "Congleton",
+  "county": "Cheshire",
+  "postcode": "CW12 4LX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "384066",
+  "northing": "362921",
+  "url": "www.thequinta.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

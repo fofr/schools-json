@@ -1,0 +1,18 @@
+{
+  "urn": "123379",
+  "name": "Ludlow Infant School",
+  "address": "Sandpits Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ludlow",
+  "county": "Shropshire",
+  "postcode": "SY8 1HG",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "351697",
+  "northing": "275231",
+  "url": "http://www.ludlow-inf.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

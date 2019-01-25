@@ -1,0 +1,18 @@
+{
+  "urn": "107635",
+  "name": "Birstall Community Primary School",
+  "address": "Chapel Lane",
+  "locality": "Birstall",
+  "address3": "",
+  "town": "Batley",
+  "county": "West Yorkshire",
+  "postcode": "WF17 9EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "422528",
+  "northing": "426112",
+  "url": "http://birstall.kgfl.digitalbrain.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

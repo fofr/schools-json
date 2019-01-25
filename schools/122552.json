@@ -1,0 +1,18 @@
+{
+  "urn": "122552",
+  "name": "Fairfield Primary School",
+  "address": "Toton Lane",
+  "locality": "Stapleford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG9 7HB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449020",
+  "northing": "336793",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

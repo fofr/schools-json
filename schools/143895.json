@@ -1,0 +1,18 @@
+{
+  "urn": "143895",
+  "name": "Smith's Wood Academy",
+  "address": "Windward Way",
+  "locality": "Smith's Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B36 0UE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "417428",
+  "northing": "288947",
+  "url": "http://smithswood.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

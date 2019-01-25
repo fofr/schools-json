@@ -1,0 +1,18 @@
+{
+  "urn": "123377",
+  "name": "Lawley Primary School",
+  "address": "Off Arleston Lane",
+  "locality": "Lawley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF4 2PR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "367159",
+  "northing": "309102",
+  "url": "www.lawleyprimary.taw.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

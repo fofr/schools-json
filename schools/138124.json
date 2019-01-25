@@ -1,0 +1,18 @@
+{
+  "urn": "138124",
+  "name": "Broadoak School",
+  "address": "Warburton Lane",
+  "locality": "Partington",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M31 4BU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "371534",
+  "northing": "390813",
+  "url": "http://broadoakschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

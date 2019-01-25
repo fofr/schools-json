@@ -1,0 +1,18 @@
+{
+  "urn": "111254",
+  "name": "Chelford CofE Primary School",
+  "address": "Oak Road",
+  "locality": "Chelford",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 9AY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "381089",
+  "northing": "375122",
+  "url": "www.chelford.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

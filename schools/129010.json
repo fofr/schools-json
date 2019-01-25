@@ -1,0 +1,18 @@
+{
+  "urn": "129010",
+  "name": "Belle Vue County Infant School",
+  "address": "Belle Vue Road",
+  "locality": "",
+  "address3": "",
+  "town": "Aldershot",
+  "county": "Hampshire",
+  "postcode": "GU12 4RZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "487745",
+  "northing": "150685",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

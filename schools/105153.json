@@ -1,0 +1,18 @@
+{
+  "urn": "105153",
+  "name": "Clarendon Primary School",
+  "address": "Recreation Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 6SN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "371271",
+  "northing": "407892",
+  "url": "www.clarendon.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122570",
+  "name": "Eastwood Infant and Nursery School",
+  "address": "Devonshire Drive",
+  "locality": "Eastwood",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 3BE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "446569",
+  "northing": "346877",
+  "url": "http://www.eastwood-infants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

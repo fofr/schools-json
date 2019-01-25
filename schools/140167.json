@@ -1,0 +1,18 @@
+{
+  "urn": "140167",
+  "name": "Tymberwood Academy",
+  "address": "Cerne Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA12 4BN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "566437",
+  "northing": "172049",
+  "url": "www.tymberwoodacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123007",
+  "name": "Brookside Primary School",
+  "address": "Bucknell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bicester",
+  "county": "Oxfordshire",
+  "postcode": "OX26 2DB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458039",
+  "northing": "222924",
+  "url": "www.brookside.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

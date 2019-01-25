@@ -1,0 +1,18 @@
+{
+  "urn": "117923",
+  "name": "Fairfield Primary School",
+  "address": "Mendip Avenue",
+  "locality": "Scartho",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "North East Lincolnshire",
+  "postcode": "DN33 3AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526240",
+  "northing": "405709",
+  "url": "http://www.fairfieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

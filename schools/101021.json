@@ -1,0 +1,18 @@
+{
+  "urn": "101021",
+  "name": "Smallwood Primary School and Language Unit",
+  "address": "Smallwood Road",
+  "locality": "Tooting",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW17 0TW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526650",
+  "northing": "171795",
+  "url": "www.smallwood.wandsworth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

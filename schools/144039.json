@@ -1,0 +1,18 @@
+{
+  "urn": "144039",
+  "name": "Elstow School",
+  "address": "Abbeyfields Road Abbeyfields",
+  "locality": "Elstow",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 9GP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505263",
+  "northing": "247143",
+  "url": "www.elstowschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

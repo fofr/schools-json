@@ -1,0 +1,18 @@
+{
+  "urn": "117282",
+  "name": "The Hammond Primary School",
+  "address": "Cambrian Way",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP2 5TD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "506677",
+  "northing": "208955",
+  "url": "http://www.hammond.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

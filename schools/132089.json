@@ -1,0 +1,18 @@
+{
+  "urn": "132089",
+  "name": "Claycots School",
+  "address": "Monksfield Way",
+  "locality": "",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL2 1QX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "495493",
+  "northing": "182488",
+  "url": "www.claycots.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

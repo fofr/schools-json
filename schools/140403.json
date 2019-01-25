@@ -1,0 +1,18 @@
+{
+  "urn": "140403",
+  "name": "Brookfield Primary Academy",
+  "address": "Lime Grove",
+  "locality": "Swinton",
+  "address3": "",
+  "town": "Mexborough",
+  "county": "South Yorkshire",
+  "postcode": "S64 8TQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445795",
+  "northing": "398719",
+  "url": "www.brookfield-academy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

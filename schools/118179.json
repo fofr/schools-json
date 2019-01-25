@@ -1,0 +1,18 @@
+{
+  "urn": "118179",
+  "name": "Dover Park Primary School",
+  "address": "Dover Street",
+  "locality": "",
+  "address3": "",
+  "town": "Ryde",
+  "county": "Isle of Wight",
+  "postcode": "PO33 2BN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "459538",
+  "northing": "92360",
+  "url": "www.doverpark.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

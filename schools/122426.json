@@ -1,0 +1,18 @@
+{
+  "urn": "122426",
+  "name": "Melbury Primary School",
+  "address": "Melbury Road",
+  "locality": "Bilborough",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 4AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451623",
+  "northing": "341603",
+  "url": "http://www.melburyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

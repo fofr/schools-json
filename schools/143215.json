@@ -1,0 +1,18 @@
+{
+  "urn": "143215",
+  "name": "Jesmond Gardens Primary School",
+  "address": "Jesmond Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS24 8PJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "449842",
+  "northing": "533448",
+  "url": "http://www.jesmondgardens.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

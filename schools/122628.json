@@ -1,0 +1,18 @@
+{
+  "urn": "122628",
+  "name": "Clarborough Primary School",
+  "address": "Hillview Crescent",
+  "locality": "Clarborough",
+  "address3": "",
+  "town": "Retford",
+  "county": "Nottinghamshire",
+  "postcode": "DN22 9JZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "473061",
+  "northing": "383572",
+  "url": "http://www.clarborough.notts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

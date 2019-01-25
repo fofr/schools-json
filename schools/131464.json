@@ -1,0 +1,18 @@
+{
+  "urn": "131464",
+  "name": "Spring Park Primary School",
+  "address": "Bridle Road",
+  "locality": "Shirley",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 8HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537228",
+  "northing": "165357",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

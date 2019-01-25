@@ -1,0 +1,18 @@
+{
+  "urn": "139301",
+  "name": "Sir Thomas Wharton Community College",
+  "address": "Tait Avenue",
+  "locality": "Edlington",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN12 1HH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "453970",
+  "northing": "397754",
+  "url": "www.stwcc.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

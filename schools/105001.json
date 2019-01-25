@@ -1,0 +1,18 @@
+{
+  "urn": "105001",
+  "name": "Eastway Primary School",
+  "address": "Rossall Road",
+  "locality": "Moreton",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH46 8TA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "326526",
+  "northing": "390435",
+  "url": "www.eastway.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

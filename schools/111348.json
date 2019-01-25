@@ -1,0 +1,18 @@
+{
+  "urn": "111348",
+  "name": "Backford CofE Primary School",
+  "address": "Church Lane",
+  "locality": "Backford",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH2 4BE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "339912",
+  "northing": "371680",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

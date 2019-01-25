@@ -1,0 +1,18 @@
+{
+  "urn": "135148",
+  "name": "Queen's Hill Primary School",
+  "address": "Kestrel Avenue",
+  "locality": "Queen's Hills",
+  "address3": "Costessey",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR8 5FT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "615256",
+  "northing": "312339",
+  "url": "www.queenshill.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

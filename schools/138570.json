@@ -1,0 +1,18 @@
+{
+  "urn": "138570",
+  "name": "Mansfield Primary Academy",
+  "address": "Newgate Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 2LB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454454",
+  "northing": "361066",
+  "url": "www.mansfieldprimaryacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

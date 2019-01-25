@@ -1,0 +1,18 @@
+{
+  "urn": "127868",
+  "name": "Raynville First School",
+  "address": "Cross Aston Grove",
+  "locality": "Bramley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 2TQ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "425183",
+  "northing": "434698",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

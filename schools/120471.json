@@ -1,0 +1,18 @@
+{
+  "urn": "120471",
+  "name": "Osgodby Primary School",
+  "address": "Main Street",
+  "locality": "Osgodby",
+  "address3": "",
+  "town": "Market Rasen",
+  "county": "Lincolnshire",
+  "postcode": "LN8 3TA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "507508",
+  "northing": "392611",
+  "url": "http://www.osgodbyschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

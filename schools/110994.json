@@ -1,0 +1,18 @@
+{
+  "urn": "110994",
+  "name": "Daresbury Primary School",
+  "address": "Chester Road",
+  "locality": "Daresbury",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 4AJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "357833",
+  "northing": "382556",
+  "url": "www.daresburyschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

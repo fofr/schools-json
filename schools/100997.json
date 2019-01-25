@@ -1,0 +1,18 @@
+{
+  "urn": "100997",
+  "name": "Beatrix Potter Primary School",
+  "address": "Magdalen Road",
+  "locality": "Earlsfield",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW18 3ER",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526418",
+  "northing": "173238",
+  "url": "www.beatrixpotterschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

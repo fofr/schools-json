@@ -1,0 +1,18 @@
+{
+  "urn": "103060",
+  "name": "Thorpe Hall Primary School",
+  "address": "Hale End Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 4DP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538521",
+  "northing": "190659",
+  "url": "www.thorpehallprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

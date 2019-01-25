@@ -1,0 +1,18 @@
+{
+  "urn": "112150",
+  "name": "Westfield Infant School",
+  "address": "Nilsson Drive",
+  "locality": "Westfield",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 5BD",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "299762",
+  "northing": "526962",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

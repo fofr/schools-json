@@ -1,0 +1,18 @@
+{
+  "urn": "123367",
+  "name": "Grafton Primary School",
+  "address": "Grafton",
+  "locality": "Montford Bridge",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY4 1HF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "343593",
+  "northing": "318355",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

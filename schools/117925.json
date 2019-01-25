@@ -1,0 +1,18 @@
+{
+  "urn": "117925",
+  "name": "Springfield Primary School",
+  "address": "Springwood Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN33 3HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525735",
+  "northing": "405387",
+  "url": "http://www.springfieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

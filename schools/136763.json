@@ -1,0 +1,18 @@
+{
+  "urn": "136763",
+  "name": "Highcliffe School",
+  "address": "Parkside",
+  "locality": "Highcliffe",
+  "address3": "",
+  "town": "Christchurch",
+  "county": "Dorset",
+  "postcode": "BH23 4QD",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "419713",
+  "northing": "94145",
+  "url": "http://www.highcliffe.dorset.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

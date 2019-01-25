@@ -1,0 +1,18 @@
+{
+  "urn": "106132",
+  "name": "Offerton School",
+  "address": "The Fairway",
+  "locality": "Offerton",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK2 5DS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "392204",
+  "northing": "389419",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

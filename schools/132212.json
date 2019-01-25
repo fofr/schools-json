@@ -1,0 +1,18 @@
+{
+  "urn": "132212",
+  "name": "Great Binfields Primary School",
+  "address": "Binfields Farm Lane",
+  "locality": "Chineham",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG24 8AJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "466049",
+  "northing": "154262",
+  "url": "www.greatbinfields.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

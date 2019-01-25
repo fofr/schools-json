@@ -1,0 +1,18 @@
+{
+  "urn": "110058",
+  "name": "The Holt School",
+  "address": "Holt Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG41 1EE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "480594",
+  "northing": "169256",
+  "url": "http://www.holtschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

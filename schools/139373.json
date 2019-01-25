@@ -1,0 +1,18 @@
+{
+  "urn": "139373",
+  "name": "Daventry UTC",
+  "address": "Ashby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Daventry",
+  "county": "Northamptonshire",
+  "postcode": "NN11 0QE",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "457145",
+  "northing": "263094",
+  "url": "http://www.daventryutc.com/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

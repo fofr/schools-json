@@ -1,0 +1,18 @@
+{
+  "urn": "106870",
+  "name": "Crags Community School",
+  "address": "Strauss Crescent",
+  "locality": "Maltby",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S66 7QJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "453844",
+  "northing": "391865",
+  "url": "www.crags-community-school.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

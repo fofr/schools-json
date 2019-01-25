@@ -1,0 +1,18 @@
+{
+  "urn": "132824",
+  "name": "Leicester City Primary PRU",
+  "address": "Gervas Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "",
+  "postcode": "LE5 2EJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "463614",
+  "northing": "304846",
+  "url": "www.pru.leicester.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110382",
+  "name": "Heelands School",
+  "address": "Glovers Lane",
+  "locality": "Heelands",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK13 7QL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "483761",
+  "northing": "239776",
+  "url": "www.heelands.milton-keynes.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119918",
+  "name": "Griffydam Primary School",
+  "address": "Top Road",
+  "locality": "Griffydam",
+  "address3": "",
+  "town": "Coalville",
+  "county": "Leicestershire",
+  "postcode": "LE67 8HU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "441407",
+  "northing": "318565",
+  "url": "http://www.griffydam.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

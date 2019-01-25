@@ -1,0 +1,18 @@
+{
+  "urn": "144354",
+  "name": "The Whitstable School",
+  "address": "Bellevue Road",
+  "locality": "",
+  "address3": "",
+  "town": "Whitstable",
+  "county": "Kent",
+  "postcode": "CT5 1PX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "611643",
+  "northing": "165739",
+  "url": "www.thewhitstableschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

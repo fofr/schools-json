@@ -1,0 +1,18 @@
+{
+  "urn": "130410",
+  "name": "Kensington and Chelsea College",
+  "address": "Hortensia Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW10 0QS",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "526059",
+  "northing": "177468",
+  "url": "http://www.kcc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

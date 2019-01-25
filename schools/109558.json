@@ -1,0 +1,18 @@
+{
+  "urn": "109558",
+  "name": "The Meads Primary School",
+  "address": "Sawtry Close",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU3 2UE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "507008",
+  "northing": "224740",
+  "url": "www.meads.luton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109785",
+  "name": "New Town Primary School",
+  "address": "School Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG1 3LS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "473039",
+  "northing": "173643",
+  "url": "http://www.newtown.reading.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

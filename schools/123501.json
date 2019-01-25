@@ -1,0 +1,18 @@
+{
+  "urn": "123501",
+  "name": "Meole Brace CofE Infant School",
+  "address": "Church Road",
+  "locality": "Meole Brace",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 9HG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "348466",
+  "northing": "310382",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

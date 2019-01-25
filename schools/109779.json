@@ -1,0 +1,18 @@
+{
+  "urn": "109779",
+  "name": "Coley Primary School",
+  "address": "Wolseley Street",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG1 6AZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "471132",
+  "northing": "172818",
+  "url": "www.coleyprimary.reading.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

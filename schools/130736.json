@@ -1,0 +1,18 @@
+{
+  "urn": "130736",
+  "name": "Blackburn College",
+  "address": "Blackburn College",
+  "locality": "Harrison Centre",
+  "address3": "Feilden Street",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB2 1LH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "367819",
+  "northing": "428078",
+  "url": "http://www.blackburn.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

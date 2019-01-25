@@ -1,0 +1,18 @@
+{
+  "urn": "132800",
+  "name": "Conway Primary School",
+  "address": "Gallosson Road",
+  "locality": "",
+  "address3": "Plumstead",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 1QY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "545112",
+  "northing": "178560",
+  "url": "www.conwayprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

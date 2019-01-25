@@ -1,0 +1,18 @@
+{
+  "urn": "134693",
+  "name": "Mossbourne Community Academy",
+  "address": "100 Downs Park Road",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E5 8JY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "534509",
+  "northing": "185417",
+  "url": "http://www.mca.mossbourne.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146247",
+  "name": "Temple Moor High School",
+  "address": "Field End Grove",
+  "locality": "Selby Road",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS15 0PT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "435580",
+  "northing": "433494",
+  "url": "www.tmhs.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

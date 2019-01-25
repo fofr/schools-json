@@ -1,0 +1,18 @@
+{
+  "urn": "136270",
+  "name": "Westlands Primary School",
+  "address": "Homewood Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 1XN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "589625",
+  "northing": "163383",
+  "url": "www.westlandsprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

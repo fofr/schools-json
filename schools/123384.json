@@ -1,0 +1,18 @@
+{
+  "urn": "123384",
+  "name": "Newport Infant School",
+  "address": "Granville Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Shropshire",
+  "postcode": "TF10 7DX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "374875",
+  "northing": "318588",
+  "url": "www.newportinfants.taw.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

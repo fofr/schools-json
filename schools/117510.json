@@ -1,0 +1,18 @@
+{
+  "urn": "117510",
+  "name": "The Hillside School",
+  "address": "Hillside Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Borehamwood",
+  "county": "Hertfordshire",
+  "postcode": "WD6 1HN",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "520037",
+  "northing": "196483",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

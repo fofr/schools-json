@@ -1,0 +1,18 @@
+{
+  "urn": "130804",
+  "name": "Somerset College of Arts and Technology",
+  "address": "Wellington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 5AX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "321616",
+  "northing": "124681",
+  "url": "http://www.somerset.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

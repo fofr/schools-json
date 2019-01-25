@@ -1,0 +1,18 @@
+{
+  "urn": "141534",
+  "name": "Dartford Primary Academy",
+  "address": "York Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 1SQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "554979",
+  "northing": "173734",
+  "url": "www.dartfordprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

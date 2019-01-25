@@ -1,0 +1,18 @@
+{
+  "urn": "102277",
+  "name": "Hacton Primary School",
+  "address": "Chepstow Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hornchurch",
+  "county": "Essex",
+  "postcode": "RM12 6AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "554419",
+  "northing": "186215",
+  "url": "http://www.hacton.havering.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

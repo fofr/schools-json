@@ -1,0 +1,18 @@
+{
+  "urn": "138558",
+  "name": "St. Augustine's Academy",
+  "address": "Oakwood Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 4AS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "503140",
+  "northing": "221284",
+  "url": "www.staugustinesacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

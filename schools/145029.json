@@ -1,0 +1,18 @@
+{
+  "urn": "145029",
+  "name": "Norwich Road Academy",
+  "address": "Norwich Road",
+  "locality": "",
+  "address3": "",
+  "town": "Thetford",
+  "county": "Norfolk",
+  "postcode": "IP24 2HT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "587144",
+  "northing": "283331",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

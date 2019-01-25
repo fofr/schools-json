@@ -1,0 +1,18 @@
+{
+  "urn": "140515",
+  "name": "Nova Hreod Academy",
+  "address": "Akers Way",
+  "locality": "Moredon",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN2 2NQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "413422",
+  "northing": "186735",
+  "url": "http://www.novahreodacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

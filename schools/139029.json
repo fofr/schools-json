@@ -1,0 +1,18 @@
+{
+  "urn": "139029",
+  "name": "Ridgeway Academy",
+  "address": "Evesham Road",
+  "locality": "Astwood Bank",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B96 6BD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "404263",
+  "northing": "261657",
+  "url": "http://www.ridgeway.academy",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

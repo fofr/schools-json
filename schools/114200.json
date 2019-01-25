@@ -1,0 +1,18 @@
+{
+  "urn": "114200",
+  "name": "Dene House Primary School",
+  "address": "Manor Way",
+  "locality": "",
+  "address3": "",
+  "town": "Peterlee",
+  "county": "County Durham",
+  "postcode": "SR8 5RL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "443913",
+  "northing": "540447",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

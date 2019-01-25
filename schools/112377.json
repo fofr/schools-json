@@ -1,0 +1,18 @@
+{
+  "urn": "112377",
+  "name": "Solway Community Technology College",
+  "address": "Liddell Street",
+  "locality": "Silloth",
+  "address3": "",
+  "town": "Wigton",
+  "county": "Cumbria",
+  "postcode": "CA7 4DD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "311264",
+  "northing": "553923",
+  "url": "http://www.solwayschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

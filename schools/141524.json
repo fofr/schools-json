@@ -1,0 +1,18 @@
+{
+  "urn": "141524",
+  "name": "Marshwood CofE Primary Academy",
+  "address": "Marshwood",
+  "locality": "",
+  "address3": "",
+  "town": "Bridport",
+  "county": "Dorset",
+  "postcode": "DT6 5QA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "338225",
+  "northing": "99637",
+  "url": "http://www.acornacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137107",
+  "name": "Kirkby Stephen Grammar School",
+  "address": "Christian Head",
+  "locality": "",
+  "address3": "",
+  "town": "Kirkby Stephen",
+  "county": "Cumbria",
+  "postcode": "CA17 4HA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "377253",
+  "northing": "508812",
+  "url": "www.ksgs.cumbria.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

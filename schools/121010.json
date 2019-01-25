@@ -1,0 +1,18 @@
+{
+  "urn": "121010",
+  "name": "Southtown Primary School",
+  "address": "Tamworth Lane",
+  "locality": "Southtown",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR31 0HJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "651810",
+  "northing": "306929",
+  "url": "www.southtownprimaryschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

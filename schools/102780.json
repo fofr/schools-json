@@ -1,0 +1,18 @@
+{
+  "urn": "102780",
+  "name": "Langdon School",
+  "address": "Sussex Road",
+  "locality": "East Ham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 2PS",
+  "minimum_age": "3",
+  "maximum_age": "16",
+  "easting": "543611",
+  "northing": "183507",
+  "url": "http://www.langdon.newham.sch.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

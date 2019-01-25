@@ -1,0 +1,18 @@
+{
+  "urn": "113317",
+  "name": "Pomphlett Primary School",
+  "address": "Howard Road",
+  "locality": "Plymstock",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL9 7ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "251286",
+  "northing": "53866",
+  "url": "http://www.pomphlettprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

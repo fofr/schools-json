@@ -1,0 +1,18 @@
+{
+  "urn": "127737",
+  "name": "St Paul's First School",
+  "address": "Ambler Street",
+  "locality": "Manningham",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD8 8AW",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "415217",
+  "northing": "434475",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

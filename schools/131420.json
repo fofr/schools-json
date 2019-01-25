@@ -1,0 +1,18 @@
+{
+  "urn": "131420",
+  "name": "Whiteley Primary School",
+  "address": "Gull Coppice",
+  "locality": "Whiteley",
+  "address3": "",
+  "town": "Fareham",
+  "county": "Hampshire",
+  "postcode": "PO15 7LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "452336",
+  "northing": "109216",
+  "url": "http://www.whiteleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132100",
+  "name": "Taunton Centre",
+  "address": "Co Somerset College, Wellington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 5AX",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "321616",
+  "northing": "124681",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

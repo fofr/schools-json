@@ -1,0 +1,18 @@
+{
+  "urn": "140386",
+  "name": "Kimbolton Primary Academy",
+  "address": "Newtown",
+  "locality": "Kimbolton",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 0HY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "509994",
+  "northing": "268238",
+  "url": "www.kimboltonprimaryacademy.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

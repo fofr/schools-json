@@ -1,0 +1,18 @@
+{
+  "urn": "123436",
+  "name": "Hollinswood Infant and Nursery School",
+  "address": "Dale Acre Way",
+  "locality": "Hollinswood",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 2EP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "370625",
+  "northing": "308389",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

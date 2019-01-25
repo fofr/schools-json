@@ -1,0 +1,18 @@
+{
+  "urn": "119906",
+  "name": "Moira Primary School",
+  "address": "Blackfordby Lane",
+  "locality": "Moira",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE12 6EX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "432670",
+  "northing": "316904",
+  "url": "www.moira.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

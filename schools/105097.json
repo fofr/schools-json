@@ -1,0 +1,18 @@
+{
+  "urn": "105097",
+  "name": "Ridgeway High School",
+  "address": "Noctorum Avenue",
+  "locality": "Noctorum",
+  "address3": "",
+  "town": "Prenton",
+  "county": "Merseyside",
+  "postcode": "CH43 9EB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "328709",
+  "northing": "387586",
+  "url": "http://www.ridgewayhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

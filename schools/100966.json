@@ -1,0 +1,18 @@
+{
+  "urn": "100966",
+  "name": "Langdon Park Community School",
+  "address": "Bright Street",
+  "locality": "Poplar",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 0RZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "538021",
+  "northing": "181467",
+  "url": "http://www.langdonparkschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

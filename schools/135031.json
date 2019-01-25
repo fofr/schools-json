@@ -1,0 +1,18 @@
+{
+  "urn": "135031",
+  "name": "Woodlands Primary School",
+  "address": "Ironbridge Road",
+  "locality": "Madeley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 5HX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "368292",
+  "northing": "304097",
+  "url": "www.woodlands-sch.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

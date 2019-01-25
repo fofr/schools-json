@@ -1,0 +1,18 @@
+{
+  "urn": "115544",
+  "name": "Thrupp School",
+  "address": "Thrupp Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL5 2EN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "386318",
+  "northing": "203291",
+  "url": "www.thruppschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

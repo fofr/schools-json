@@ -1,0 +1,18 @@
+{
+  "urn": "130740",
+  "name": "Preston College",
+  "address": "Fulwood Campus",
+  "locality": "St Vincent's Road",
+  "address3": "Fulwood",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 8UR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "353942",
+  "northing": "432178",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

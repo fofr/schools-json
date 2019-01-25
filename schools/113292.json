@@ -1,0 +1,18 @@
+{
+  "urn": "113292",
+  "name": "Drake Primary School",
+  "address": "1 Johnston Terrace Ope",
+  "locality": "Keyham",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL2 2EN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "245150",
+  "northing": "56582",
+  "url": "www.drakeprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

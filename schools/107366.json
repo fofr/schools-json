@@ -1,0 +1,18 @@
+{
+  "urn": "107366",
+  "name": "Tong High School",
+  "address": "Westgate Hill Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD4 6NR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "420272",
+  "northing": "429750",
+  "url": "http://www.tongschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

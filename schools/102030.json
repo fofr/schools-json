@@ -1,0 +1,18 @@
+{
+  "urn": "102030",
+  "name": "St Andrew's Southgate Primary School (CE)",
+  "address": "297 Chase Road",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 6JA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "529664",
+  "northing": "194475",
+  "url": "www.st-andrews-southgate.enfield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

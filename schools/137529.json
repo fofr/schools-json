@@ -1,0 +1,18 @@
+{
+  "urn": "137529",
+  "name": "Smarden Primary School",
+  "address": "Pluckley Road",
+  "locality": "Smarden",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Kent",
+  "postcode": "TN27 8ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "588338",
+  "northing": "142472",
+  "url": "www.smardenprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

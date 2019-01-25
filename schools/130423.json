@@ -1,0 +1,18 @@
+{
+  "urn": "130423",
+  "name": "United Colleges Group",
+  "address": "25 Paddington Green",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W2 1NB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "526707",
+  "northing": "181856",
+  "url": "www.cwc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

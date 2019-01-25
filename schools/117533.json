@@ -1,0 +1,18 @@
+{
+  "urn": "117533",
+  "name": "Collenswood School",
+  "address": "Collenswood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG2 9HQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "526350",
+  "northing": "223867",
+  "url": "http://www.collenswood.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

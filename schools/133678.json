@@ -1,0 +1,18 @@
+{
+  "urn": "133678",
+  "name": "Alder Brook",
+  "address": "Walnut Road",
+  "locality": "Winton",
+  "address3": "",
+  "town": "Salford",
+  "county": "Lancashire",
+  "postcode": "M30 8LE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "375347",
+  "northing": "399826",
+  "url": "http://alderbrook.salfordpru.org.uk/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

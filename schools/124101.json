@@ -1,0 +1,18 @@
+{
+  "urn": "124101",
+  "name": "Scotch Orchard Primary School",
+  "address": "Scotch Orchard",
+  "locality": "",
+  "address3": "",
+  "town": "Lichfield",
+  "county": "Staffordshire",
+  "postcode": "WS13 6DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412856",
+  "northing": "310235",
+  "url": "www.scotchorchard.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

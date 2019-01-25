@@ -1,0 +1,18 @@
+{
+  "urn": "118508",
+  "name": "Barming Primary School",
+  "address": "Belmont Close",
+  "locality": "Barming",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME16 9DY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "572627",
+  "northing": "154790",
+  "url": "http://www.barming.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

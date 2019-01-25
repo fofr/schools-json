@@ -1,0 +1,18 @@
+{
+  "urn": "142129",
+  "name": "Derby Manufacturing UTC",
+  "address": "Locomotive Way",
+  "locality": "Pride Park",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE24 8PU",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "436568",
+  "northing": "335234",
+  "url": "http://www.derbymanufacturingutc.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

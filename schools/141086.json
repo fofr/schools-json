@@ -1,0 +1,18 @@
+{
+  "urn": "141086",
+  "name": "University Technical College Norfolk",
+  "address": "Old Hall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR4 6FF",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "622227",
+  "northing": "305168",
+  "url": "http://utcn.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115580",
+  "name": "Innsworth Infant School",
+  "address": "Luke Lane",
+  "locality": "Innsworth",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL3 1HJ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "386285",
+  "northing": "220705",
+  "url": "www.innsworthinfant.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

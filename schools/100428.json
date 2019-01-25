@@ -1,0 +1,18 @@
+{
+  "urn": "100428",
+  "name": "Winton Primary School",
+  "address": "Killick Street",
+  "locality": "Pentonville Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 9AZ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "530634",
+  "northing": "183172",
+  "url": "www.wintonprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

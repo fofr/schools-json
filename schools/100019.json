@@ -1,0 +1,18 @@
+{
+  "urn": "100019",
+  "name": "New End Primary School",
+  "address": "Streatley Place",
+  "locality": "Hampstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW3 1HU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526483",
+  "northing": "185916",
+  "url": "http://www.newend.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

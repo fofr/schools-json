@@ -1,0 +1,18 @@
+{
+  "urn": "126200",
+  "name": "Luckington Community School",
+  "address": "The Green",
+  "locality": "Luckington",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN14 6NU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "383291",
+  "northing": "184017",
+  "url": "www.luckingtonschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

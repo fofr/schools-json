@@ -1,0 +1,18 @@
+{
+  "urn": "138394",
+  "name": "Bath Community Academy",
+  "address": "Rush Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "Avon",
+  "postcode": "BA2 2QL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "372824",
+  "northing": "162848",
+  "url": "http://www.bathcommunityacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

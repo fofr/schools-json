@@ -1,0 +1,18 @@
+{
+  "urn": "103067",
+  "name": "Riverley Primary School",
+  "address": "Park Road",
+  "locality": "Leyton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E10 7BZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537412",
+  "northing": "187139",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

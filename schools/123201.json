@@ -1,0 +1,18 @@
+{
+  "urn": "123201",
+  "name": "Goring Church of England Aided Primary School",
+  "address": "Wallingford Road",
+  "locality": "Goring-on-Thames",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG8 0BG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "460362",
+  "northing": "181390",
+  "url": "http://www.goring.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

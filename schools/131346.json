@@ -1,0 +1,18 @@
+{
+  "urn": "131346",
+  "name": "Northwick Park Primary School",
+  "address": "Third Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Canvey Island",
+  "county": "Essex",
+  "postcode": "SS8 9SU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "578132",
+  "northing": "183778",
+  "url": "www.northwickpark.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102276",
+  "name": "Hylands Primary School",
+  "address": "Granger Way",
+  "locality": "",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM1 2RU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "552372",
+  "northing": "188182",
+  "url": "http://hylands.havering.dbprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

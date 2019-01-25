@@ -1,0 +1,18 @@
+{
+  "urn": "135864",
+  "name": "Droylsden Academy",
+  "address": "Manor Road",
+  "locality": "",
+  "address3": "Droylsden",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M43 6QD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "389671",
+  "northing": "398410",
+  "url": "http://www.droylsdenacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

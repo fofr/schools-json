@@ -1,0 +1,18 @@
+{
+  "urn": "105555",
+  "name": "Mount Carmel RC Primary School",
+  "address": "Wilson Road",
+  "locality": "Blackley",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M9 8BG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385872",
+  "northing": "402534",
+  "url": "www.mountcarmel.manchester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

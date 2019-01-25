@@ -1,0 +1,18 @@
+{
+  "urn": "112508",
+  "name": "Westhouses Primary School",
+  "address": "Bolden Terrace",
+  "locality": "Westhouses",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 5AF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "442148",
+  "northing": "358312",
+  "url": "http://www.westhouses.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

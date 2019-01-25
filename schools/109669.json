@@ -1,0 +1,18 @@
+{
+  "urn": "109669",
+  "name": "Sandy Secondary School",
+  "address": "Engayne Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sandy",
+  "county": "Bedfordshire",
+  "postcode": "SG19 1BL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517109",
+  "northing": "250216",
+  "url": "http://www.sandyupper.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

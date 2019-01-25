@@ -1,0 +1,18 @@
+{
+  "urn": "113549",
+  "name": "Parkside Community Technology College",
+  "address": "Park Avenue",
+  "locality": "Devonport",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 4RL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "245406",
+  "northing": "55353",
+  "url": "http://www.parkside.plymouth.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

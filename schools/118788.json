@@ -1,0 +1,18 @@
+{
+  "urn": "118788",
+  "name": "Northfleet School for Girls",
+  "address": "Hall Road",
+  "locality": "Northfleet",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA11 8AQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "562828",
+  "northing": "172592",
+  "url": "http://www.nsfg.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

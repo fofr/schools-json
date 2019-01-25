@@ -1,0 +1,18 @@
+{
+  "urn": "130584",
+  "name": "Bishop Burton College",
+  "address": "York Road",
+  "locality": "Bishop Burton",
+  "address3": "",
+  "town": "Beverley",
+  "county": "",
+  "postcode": "HU17 8QG",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "498553",
+  "northing": "440127",
+  "url": "www.bishopburton.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

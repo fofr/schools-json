@@ -1,0 +1,18 @@
+{
+  "urn": "110867",
+  "name": "Cottenham Village College",
+  "address": "High Street",
+  "locality": "Cottenham",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 8UA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "545057",
+  "northing": "267062",
+  "url": "http://www.CVCweb.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

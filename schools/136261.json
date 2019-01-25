@@ -1,0 +1,18 @@
+{
+  "urn": "136261",
+  "name": "Oxford Spires Academy",
+  "address": "Glanville Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "",
+  "postcode": "OX4 2AU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "453950",
+  "northing": "205201",
+  "url": "http://www.oxfordspiresacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

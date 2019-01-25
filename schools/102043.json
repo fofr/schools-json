@@ -1,0 +1,18 @@
+{
+  "urn": "102043",
+  "name": "Edmonton County School",
+  "address": "Great Cambridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN1 1HQ",
+  "minimum_age": "4",
+  "maximum_age": "18",
+  "easting": "533832",
+  "northing": "194710",
+  "url": "http://www.edmonton.enfield.sch.uk",
+  "phase": "All through",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

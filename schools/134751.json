@@ -1,0 +1,18 @@
+{
+  "urn": "134751",
+  "name": "Pipworth Community Primary School",
+  "address": "Pipworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S2 1AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "438952",
+  "northing": "386461",
+  "url": "www.pipworthprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

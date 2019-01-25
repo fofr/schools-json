@@ -1,0 +1,18 @@
+{
+  "urn": "140551",
+  "name": "Quay Academy",
+  "address": "Oxford Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bridlington",
+  "county": "",
+  "postcode": "YO16 4LB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "517984",
+  "northing": "467144",
+  "url": "www.quayacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

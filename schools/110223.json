@@ -1,0 +1,18 @@
+{
+  "urn": "110223",
+  "name": "Dropmore Infant School",
+  "address": "Littleworth Road",
+  "locality": "Dropmore",
+  "address3": "Burnham",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL1 8PF",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "493223",
+  "northing": "186323",
+  "url": "www.dropmoreinfant.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138425",
+  "name": "The Shirestone Academy",
+  "address": "Shirestone Road",
+  "locality": "Tile Cross",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B33 0DH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415849",
+  "northing": "286884",
+  "url": "http://www.shirestn.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

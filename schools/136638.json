@@ -1,0 +1,18 @@
+{
+  "urn": "136638",
+  "name": "Clyst Vale Community College",
+  "address": "Station Road",
+  "locality": "Broadclyst",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX5 3AJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "298538",
+  "northing": "96426",
+  "url": "http://www.clystvale.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

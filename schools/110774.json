@@ -1,0 +1,18 @@
+{
+  "urn": "110774",
+  "name": "Thorpe Primary School",
+  "address": "Atherstone Avenue",
+  "locality": "Netherton",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE3 9UG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "516893",
+  "northing": "299460",
+  "url": "www.thorpeprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

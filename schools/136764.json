@@ -1,0 +1,18 @@
+{
+  "urn": "136764",
+  "name": "Winchcombe School",
+  "address": "Greet Road",
+  "locality": "Winchcombe",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL54 5LB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "402518",
+  "northing": "229493",
+  "url": "http://www.winchcombeschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

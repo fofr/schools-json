@@ -1,0 +1,18 @@
+{
+  "urn": "102892",
+  "name": "Lowther Primary School",
+  "address": "Stillingfleet Road",
+  "locality": "Barnes",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW13 9AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522410",
+  "northing": "177538",
+  "url": "www.lowther.richmond.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

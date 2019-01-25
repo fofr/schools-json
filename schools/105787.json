@@ -1,0 +1,18 @@
+{
+  "urn": "105787",
+  "name": "Boarshaw Community Primary School",
+  "address": "Stanycliffe Lane",
+  "locality": "Middleton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M24 2PB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387909",
+  "northing": "407043",
+  "url": "http://www.boarshawprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

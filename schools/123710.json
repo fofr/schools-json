@@ -1,0 +1,18 @@
+{
+  "urn": "123710",
+  "name": "Wellsprings Primary School",
+  "address": "Crowcombe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA2 7NF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "322673",
+  "northing": "126658",
+  "url": "https://slp5.somerset.org.uk/webs/wellsprings/SitePages/Home.aspx",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

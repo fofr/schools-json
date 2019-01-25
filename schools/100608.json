@@ -1,0 +1,18 @@
+{
+  "urn": "100608",
+  "name": "Streatham Wells Primary School",
+  "address": "50 Palace Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW2 3NJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "531042",
+  "northing": "172902",
+  "url": "www.streathamwells.lambeth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

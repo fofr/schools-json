@@ -1,0 +1,18 @@
+{
+  "urn": "138731",
+  "name": "Phoenix Infant Academy",
+  "address": "Warrington Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL1 3BQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "496481",
+  "northing": "181455",
+  "url": "www.phoenixinfants.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125511",
+  "name": "Great Alne Primary School",
+  "address": "School Road",
+  "locality": "Great Alne",
+  "address3": "",
+  "town": "Alcester",
+  "county": "Warwickshire",
+  "postcode": "B49 6HQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "411146",
+  "northing": "259130",
+  "url": "www.greatalneprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133001",
+  "name": "Dorton College",
+  "address": "36 High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bromley",
+  "county": "",
+  "postcode": "BR1 1EA",
+  "minimum_age": "16",
+  "maximum_age": "25",
+  "easting": "540373",
+  "northing": "168773",
+  "url": "www.rsbc.org.uk",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Special post 16 institution"
+}

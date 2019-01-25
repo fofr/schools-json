@@ -1,0 +1,18 @@
+{
+  "urn": "111009",
+  "name": "Styal Primary School",
+  "address": "Altrincham Road",
+  "locality": "Styal",
+  "address3": "",
+  "town": "Wilmslow",
+  "county": "Cheshire",
+  "postcode": "SK9 4JE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "383464",
+  "northing": "383512",
+  "url": "www.styal.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

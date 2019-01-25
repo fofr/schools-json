@@ -1,0 +1,18 @@
+{
+  "urn": "113122",
+  "name": "Ide Primary School",
+  "address": "High Street",
+  "locality": "Ide",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX2 9RN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "290024",
+  "northing": "90539",
+  "url": "www.ide.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

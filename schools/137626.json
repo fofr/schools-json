@@ -1,0 +1,18 @@
+{
+  "urn": "137626",
+  "name": "Bourn CofE Primary Academy",
+  "address": "Riddy  Lane",
+  "locality": "Bourn",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB23 2SP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "532079",
+  "northing": "256489",
+  "url": "www.bournschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

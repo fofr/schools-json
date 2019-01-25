@@ -1,0 +1,18 @@
+{
+  "urn": "110980",
+  "name": "Highfield County Infant School",
+  "address": "Blacon Point Road",
+  "locality": "Blacon",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH1 5LD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "338626",
+  "northing": "367636",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

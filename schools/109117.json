@@ -1,0 +1,18 @@
+{
+  "urn": "109117",
+  "name": "Elm Park Primary School",
+  "address": "Nicholls Lane",
+  "locality": "Winterbourne",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS36 1NF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "365397",
+  "northing": "180944",
+  "url": "http://www.elmparkprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

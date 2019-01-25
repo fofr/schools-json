@@ -1,0 +1,18 @@
+{
+  "urn": "139991",
+  "name": "West Thurrock Academy",
+  "address": "Schoolfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grays",
+  "county": "Essex",
+  "postcode": "RM20 3HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "558354",
+  "northing": "177796",
+  "url": "http://www.westthurrockacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

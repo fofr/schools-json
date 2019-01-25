@@ -1,0 +1,18 @@
+{
+  "urn": "102307",
+  "name": "Upminster Infant School",
+  "address": "St Mary's Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Upminster",
+  "county": "Essex",
+  "postcode": "RM14 3BS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "556105",
+  "northing": "186509",
+  "url": "http://www.upminster-inf.havering.lgfl.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

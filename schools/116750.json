@@ -1,0 +1,18 @@
+{
+  "urn": "116750",
+  "name": "Cranham Primary School",
+  "address": "Tetbury Drive",
+  "locality": "Warndon",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR4 9LS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386965",
+  "northing": "257381",
+  "url": "www.cranham.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111270",
+  "name": "Barrow CofE Primary School",
+  "address": "Barrow",
+  "locality": "School Lane",
+  "address3": "Great Barrow",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH3 7HW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "346947",
+  "northing": "368541",
+  "url": "www.educationbase.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114835",
+  "name": "Great Bardfield Primary School",
+  "address": "Braintree Road",
+  "locality": "Great Bardfield",
+  "address3": "",
+  "town": "Braintree",
+  "county": "Essex",
+  "postcode": "CM7 4RN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "567816",
+  "northing": "230543",
+  "url": "http://www.greatbardfieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

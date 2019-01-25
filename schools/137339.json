@@ -1,0 +1,18 @@
+{
+  "urn": "137339",
+  "name": "St Albans Girls' School",
+  "address": "Sandridgebury Lane",
+  "locality": "",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL3 6DB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "515194",
+  "northing": "209265",
+  "url": "http://www.stags.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102472",
+  "name": "Cavendish Primary School",
+  "address": "Edensor Road",
+  "locality": "Chiswick",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W4 2RG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521106",
+  "northing": "177281",
+  "url": "http://www.cavendishschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135780",
+  "name": "Victoria Park Primary School",
+  "address": "Atlas Road",
+  "locality": "Bedminster",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS3 4QS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "359205",
+  "northing": "171043",
+  "url": "www.victoriaparkprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

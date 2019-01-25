@@ -1,0 +1,18 @@
+{
+  "urn": "137367",
+  "name": "Limehurst Academy",
+  "address": "Bridge Street",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 1NH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "453551",
+  "northing": "320071",
+  "url": "http://www.limehurst.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

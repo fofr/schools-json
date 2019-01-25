@@ -1,0 +1,18 @@
+{
+  "urn": "116405",
+  "name": "John Hanson Community School",
+  "address": "Floral Way",
+  "locality": "",
+  "address3": "",
+  "town": "Andover",
+  "county": "Hampshire",
+  "postcode": "SP10 3PB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "434755",
+  "northing": "145204",
+  "url": "http://www.jhanson.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

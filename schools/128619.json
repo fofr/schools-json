@@ -1,0 +1,18 @@
+{
+  "urn": "128619",
+  "name": "Hollingwood Infant School",
+  "address": "Lilac Street",
+  "locality": "Hollingwood",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S43 2JG",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "441462",
+  "northing": "374066",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

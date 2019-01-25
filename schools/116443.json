@@ -1,0 +1,18 @@
+{
+  "urn": "116443",
+  "name": "Winton School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Andover",
+  "county": "Hampshire",
+  "postcode": "SP10 2PS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "437524",
+  "northing": "145803",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

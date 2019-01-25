@@ -1,0 +1,18 @@
+{
+  "urn": "130658",
+  "name": "Derwentside College",
+  "address": "Front Street",
+  "locality": "",
+  "address3": "",
+  "town": "Consett",
+  "county": "County Durham",
+  "postcode": "DH8 5EE",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "410629",
+  "northing": "550603",
+  "url": "http://www.derwentside.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

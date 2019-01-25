@@ -1,0 +1,18 @@
+{
+  "urn": "102382",
+  "name": "Harefield Infant School",
+  "address": "High Street",
+  "locality": "Harefield",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "",
+  "postcode": "UB9 6BT",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "505050",
+  "northing": "190544",
+  "url": "www.harefieldinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

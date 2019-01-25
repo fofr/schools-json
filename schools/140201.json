@@ -1,0 +1,18 @@
+{
+  "urn": "140201",
+  "name": "Westside School",
+  "address": "8-30 Galena Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W6 0LT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "522780",
+  "northing": "178656",
+  "url": "www.westsideschool.org.uk",
+  "phase": "Not applicable",
+  "type": "Free Schools",
+  "detailed_type": "Free schools alternative provision"
+}

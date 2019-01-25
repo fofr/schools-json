@@ -1,0 +1,18 @@
+{
+  "urn": "123479",
+  "name": "Hope CofE Primary School",
+  "address": "Hope",
+  "locality": "Minsterley",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY5 0JB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "334022",
+  "northing": "301648",
+  "url": "www.hopeschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114001",
+  "name": "Edmondsley Primary School",
+  "address": "Edmondsley",
+  "locality": "",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH7 6DU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "423757",
+  "northing": "549252",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112300",
+  "name": "Blackford CofE Primary School",
+  "address": "Blackford",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA6 4ES",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "339561",
+  "northing": "562480",
+  "url": "www.blackford-school.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

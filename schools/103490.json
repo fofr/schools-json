@@ -1,0 +1,18 @@
+{
+  "urn": "103490",
+  "name": "Sir Wilfrid Martineau School",
+  "address": "Gressel Lane",
+  "locality": "Tile Cross",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B33 9UE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "415580",
+  "northing": "287199",
+  "url": "http://www.swms.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

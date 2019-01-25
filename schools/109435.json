@@ -1,0 +1,18 @@
+{
+  "urn": "109435",
+  "name": "Castle Newnham School",
+  "address": "Goldington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK40 3EP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "505913",
+  "northing": "250180",
+  "url": "www.castlenewnham.school",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

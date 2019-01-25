@@ -1,0 +1,18 @@
+{
+  "urn": "116475",
+  "name": "Warblington School",
+  "address": "Southleigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Havant",
+  "county": "Hampshire",
+  "postcode": "PO9 2RR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "472653",
+  "northing": "106459",
+  "url": "www.warblingtonschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

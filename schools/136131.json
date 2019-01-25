@@ -1,0 +1,18 @@
+{
+  "urn": "136131",
+  "name": "Twydall Primary School",
+  "address": "Twydall Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME8 6JS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "579908",
+  "northing": "166888",
+  "url": "www.twydallprimary.medway.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

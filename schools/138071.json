@@ -1,0 +1,18 @@
+{
+  "urn": "138071",
+  "name": "Seal Primary Academy",
+  "address": "East Street",
+  "locality": "",
+  "address3": "",
+  "town": "Selsey",
+  "county": "West Sussex",
+  "postcode": "PO20 0BN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485640",
+  "northing": "93194",
+  "url": "www.seal-tkat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

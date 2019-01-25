@@ -1,0 +1,18 @@
+{
+  "urn": "105192",
+  "name": "Egerton Primary School",
+  "address": "Cox Green Road",
+  "locality": "Egerton",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL7 9RE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "370836",
+  "northing": "415345",
+  "url": "www.egerton.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

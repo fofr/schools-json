@@ -1,0 +1,18 @@
+{
+  "urn": "103217",
+  "name": "Ward End Primary School",
+  "address": "Ingleton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B8 2RA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "411560",
+  "northing": "288925",
+  "url": "www.wardend.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

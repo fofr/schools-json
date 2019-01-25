@@ -1,0 +1,18 @@
+{
+  "urn": "121673",
+  "name": "Huntington School",
+  "address": "Huntington Road",
+  "locality": "Huntington",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO32 9WT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "461347",
+  "northing": "455309",
+  "url": "http://www.huntingtonschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

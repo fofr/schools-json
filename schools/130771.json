@@ -1,0 +1,18 @@
+{
+  "urn": "130771",
+  "name": "Tresham College of Further and Higher Education",
+  "address": "Windmill Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN15 6ER",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "487770",
+  "northing": "277490",
+  "url": "www.tresham.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

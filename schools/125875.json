@@ -1,0 +1,18 @@
+{
+  "urn": "125875",
+  "name": "Southbourne Infant School",
+  "address": "New Road",
+  "locality": "Southbourne",
+  "address3": "",
+  "town": "Emsworth",
+  "county": "Hampshire",
+  "postcode": "PO10 8JX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "477152",
+  "northing": "105830",
+  "url": "www.southbourneinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

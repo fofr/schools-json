@@ -1,0 +1,18 @@
+{
+  "urn": "140101",
+  "name": "Sileby Redlands Community Primary School",
+  "address": "King Street",
+  "locality": "Sileby",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 7LZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "460266",
+  "northing": "315423",
+  "url": "http://www.redlands.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

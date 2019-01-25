@@ -1,0 +1,18 @@
+{
+  "urn": "144018",
+  "name": "Long Stratton High School",
+  "address": "Manor Road",
+  "locality": "Long Stratton",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR15 2XR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "619349",
+  "northing": "292888",
+  "url": "www.lshs.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

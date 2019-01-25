@@ -1,0 +1,18 @@
+{
+  "urn": "123574",
+  "name": "The Burton Borough School",
+  "address": "Audley Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Shropshire",
+  "postcode": "TF10 7DS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "375168",
+  "northing": "318705",
+  "url": "http://www.burtonborough.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

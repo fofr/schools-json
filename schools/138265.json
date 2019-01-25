@@ -1,0 +1,18 @@
+{
+  "urn": "138265",
+  "name": "Hackney University Technical College",
+  "address": "Falkirk Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 6HQ",
+  "minimum_age": "15",
+  "maximum_age": "16",
+  "easting": "533326",
+  "northing": "183062",
+  "url": "http://www.hackneyutc.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

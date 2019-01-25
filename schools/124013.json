@@ -1,0 +1,18 @@
+{
+  "urn": "124013",
+  "name": "Crescent Primary School",
+  "address": "Pinewood Crescent",
+  "locality": "Meir",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 6HZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394105",
+  "northing": "342463",
+  "url": "http://www.crescentinmeir.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

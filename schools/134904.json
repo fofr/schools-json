@@ -1,0 +1,18 @@
+{
+  "urn": "134904",
+  "name": "Fairview Community Primary School",
+  "address": "Drewery Drive",
+  "locality": "Wigmore",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME8 0NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "580272",
+  "northing": "164185",
+  "url": "www.fairviewprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

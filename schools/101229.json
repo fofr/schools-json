@@ -1,0 +1,18 @@
+{
+  "urn": "101229",
+  "name": "Henry Green Primary School",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM8 1UR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547581",
+  "northing": "186917",
+  "url": "www.henrygreen.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

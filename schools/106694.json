@@ -1,0 +1,18 @@
+{
+  "urn": "106694",
+  "name": "Barnburgh Primary School",
+  "address": "Church Lane",
+  "locality": "Barnburgh",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN5 7EZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448335",
+  "northing": "402978",
+  "url": "www.barnburghprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116060",
+  "name": "Kings Copse Primary School",
+  "address": "Kings Copse Road",
+  "locality": "Hedge End",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO30 0PQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "449458",
+  "northing": "112107",
+  "url": "www.kingscopse.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

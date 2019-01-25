@@ -1,0 +1,18 @@
+{
+  "urn": "100220",
+  "name": "Burbage Infants' School",
+  "address": "Ivy Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 5JD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "533197",
+  "northing": "183412",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

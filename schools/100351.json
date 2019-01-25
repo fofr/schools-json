@@ -1,0 +1,18 @@
+{
+  "urn": "100351",
+  "name": "St Paul's CofE Primary School",
+  "address": "Worlidge Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W6 9BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "523176",
+  "northing": "178344",
+  "url": "www.stpaulsprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

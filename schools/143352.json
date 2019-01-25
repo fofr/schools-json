@@ -1,0 +1,18 @@
+{
+  "urn": "143352",
+  "name": "St Wulstan's Catholic Primary School",
+  "address": "Church Lane",
+  "locality": "Wolstanton",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 0EF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385759",
+  "northing": "347936",
+  "url": "www.st-wulstans.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

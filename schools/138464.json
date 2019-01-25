@@ -1,0 +1,18 @@
+{
+  "urn": "138464",
+  "name": "Loreto Grammar School",
+  "address": "Dunham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Altrincham",
+  "county": "Cheshire",
+  "postcode": "WA14 4AH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "376337",
+  "northing": "387995",
+  "url": "www.loretogrammar.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

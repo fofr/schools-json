@@ -1,0 +1,18 @@
+{
+  "urn": "120048",
+  "name": "Woolden Hill Primary School",
+  "address": "Netherfield Road",
+  "locality": "Anstey",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE7 7ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "455212",
+  "northing": "309429",
+  "url": "http://www.wooldenhill.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119718",
+  "name": "Brierfield Mansfield High School",
+  "address": "Elland Road",
+  "locality": "Brierfield",
+  "address3": "",
+  "town": "Nelson",
+  "county": "Lancashire",
+  "postcode": "BB9 5RX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "384972",
+  "northing": "436739",
+  "url": "http://www.mansfieldhighschool.uklinux.net/index.htm",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

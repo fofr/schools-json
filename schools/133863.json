@@ -1,0 +1,18 @@
+{
+  "urn": "133863",
+  "name": "University of Oxford",
+  "address": "University Offices",
+  "locality": "Wellington Square",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX1 2JD",
+  "minimum_age": "",
+  "maximum_age": "",
+  "easting": "450974",
+  "northing": "206807",
+  "url": "http://www.ox.ac.uk/",
+  "phase": "Not applicable",
+  "type": "Universities",
+  "detailed_type": "Higher education institutions"
+}

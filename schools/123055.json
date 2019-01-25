@@ -1,0 +1,18 @@
+{
+  "urn": "123055",
+  "name": "Dunmore Infants' School",
+  "address": "Northcourt Road",
+  "locality": "",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 1NR",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "449687",
+  "northing": "198418",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

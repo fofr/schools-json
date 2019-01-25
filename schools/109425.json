@@ -1,0 +1,18 @@
+{
+  "urn": "109425",
+  "name": "Orchard Centre",
+  "address": "Strangers Way",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU4 9ND",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "505304",
+  "northing": "223701",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

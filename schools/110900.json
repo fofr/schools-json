@@ -1,0 +1,18 @@
+{
+  "urn": "110900",
+  "name": "Comberton Village College",
+  "address": "West Street",
+  "locality": "Comberton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB23 7DU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "537565",
+  "northing": "255968",
+  "url": "http://www.combertonvc.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103125",
+  "name": "Highfield Nursery School",
+  "address": "Highfield Road",
+  "locality": "Saltley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B8 3QU",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "410237",
+  "northing": "288181",
+  "url": "www.hifieldn.bham.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

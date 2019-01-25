@@ -1,0 +1,18 @@
+{
+  "urn": "101708",
+  "name": "The Span Centre",
+  "address": "10 Tavistock Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 2AL",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "532511",
+  "northing": "166409",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105477",
+  "name": "Claremont Infant School",
+  "address": "Claremont Road",
+  "locality": "Moss Side",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M14 7NA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "384482",
+  "northing": "395189",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

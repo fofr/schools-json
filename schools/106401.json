@@ -1,0 +1,18 @@
+{
+  "urn": "106401",
+  "name": "Scot Lane Community Primary School",
+  "address": "Scot Lane",
+  "locality": "Newtown",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN5 0UE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "356519",
+  "northing": "405487",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139078",
+  "name": "Seymour Road Academy",
+  "address": "Seymour Road South",
+  "locality": "",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M11 4PR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388723",
+  "northing": "398481",
+  "url": "www.seymourroad.manchester.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

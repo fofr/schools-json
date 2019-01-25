@@ -1,0 +1,18 @@
+{
+  "urn": "112410",
+  "name": "Flookburgh CofE Primary School",
+  "address": "Winder Lane",
+  "locality": "Flookburgh",
+  "address3": "",
+  "town": "Grange-over-Sands",
+  "county": "Cumbria",
+  "postcode": "LA11 7LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "336436",
+  "northing": "475691",
+  "url": "www.flookburgh.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

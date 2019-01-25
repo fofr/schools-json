@@ -1,0 +1,18 @@
+{
+  "urn": "141144",
+  "name": "Oyster Park Primary Academy",
+  "address": "Watling Road",
+  "locality": "Ferry Fryston",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 3SN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445810",
+  "northing": "425884",
+  "url": "www.oysterpark.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106582",
+  "name": "Keresforth Primary School",
+  "address": "Keresforth Road",
+  "locality": "Dodworth",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S75 3NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432197",
+  "northing": "404935",
+  "url": "http://www.keresforthprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

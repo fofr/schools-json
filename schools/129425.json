@@ -1,0 +1,18 @@
+{
+  "urn": "129425",
+  "name": "Castlemount Secondary School",
+  "address": "Laureston Place",
+  "locality": "",
+  "address3": "",
+  "town": "Dover",
+  "county": "Kent",
+  "postcode": "CT16 1QT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "631956",
+  "northing": "141736",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

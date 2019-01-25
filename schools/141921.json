@@ -1,0 +1,18 @@
+{
+  "urn": "141921",
+  "name": "Simon de Senlis Primary School",
+  "address": "Hilldrop Road",
+  "locality": "East Hunsbury",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN4 0PH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "474579",
+  "northing": "257692",
+  "url": "www.simondesenlis.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

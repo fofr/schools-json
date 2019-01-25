@@ -1,0 +1,18 @@
+{
+  "urn": "132823",
+  "name": "Kingsley College",
+  "address": "Woodrow Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B98 7UH",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "406236",
+  "northing": "264956",
+  "url": "http://www.kingsley.worcs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

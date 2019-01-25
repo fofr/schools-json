@@ -1,0 +1,18 @@
+{
+  "urn": "145364",
+  "name": "Nelson Primary School",
+  "address": "Napier Road",
+  "locality": "East Ham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 2SE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "543095",
+  "northing": "183520",
+  "url": "www.nelson.newham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

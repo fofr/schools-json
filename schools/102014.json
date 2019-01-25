@@ -1,0 +1,18 @@
+{
+  "urn": "102014",
+  "name": "Southbury Primary School",
+  "address": "Swansea Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "Middlesex",
+  "postcode": "EN3 4JG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535099",
+  "northing": "196350",
+  "url": "http://www.southbury.enfield.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

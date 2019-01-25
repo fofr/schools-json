@@ -1,0 +1,18 @@
+{
+  "urn": "120019",
+  "name": "Newry Junior School",
+  "address": "The Newry",
+  "locality": "Saffron Lane Estate",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 6ST",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "458812",
+  "northing": "300169",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

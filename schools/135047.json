@@ -1,0 +1,18 @@
+{
+  "urn": "135047",
+  "name": "Comberton Primary School",
+  "address": "Borrington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kidderminster",
+  "county": "Worcestershire",
+  "postcode": "DY10 3ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384775",
+  "northing": "275965",
+  "url": "www.combertonprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

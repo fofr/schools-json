@@ -1,0 +1,18 @@
+{
+  "urn": "141925",
+  "name": "St Helen's Catholic Primary School",
+  "address": "Chargeable Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E13 8DW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "540040",
+  "northing": "182405",
+  "url": "www.st-helens.newham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

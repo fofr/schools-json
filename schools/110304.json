@@ -1,0 +1,18 @@
+{
+  "urn": "110304",
+  "name": "Prestwood Junior School",
+  "address": "Clare Road",
+  "locality": "Prestwood",
+  "address3": "",
+  "town": "Great Missenden",
+  "county": "Buckinghamshire",
+  "postcode": "HP16 0NR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "487214",
+  "northing": "200695",
+  "url": "www.prestwoodjunior.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

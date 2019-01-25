@@ -1,0 +1,18 @@
+{
+  "urn": "125748",
+  "name": "North Leamington School",
+  "address": "Sandy Lane",
+  "locality": "Blackdown",
+  "address3": "",
+  "town": "Leamington Spa",
+  "county": "Warwickshire",
+  "postcode": "CV32 6RD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "432144",
+  "northing": "268053",
+  "url": "http://northleamingtonschool.warwickshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

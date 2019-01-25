@@ -1,0 +1,18 @@
+{
+  "urn": "104280",
+  "name": "Eastfield Nursery School",
+  "address": "Griffin Street",
+  "locality": "Off Colliery Rd",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV1 2HH",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "392918",
+  "northing": "298453",
+  "url": "www.eastfieldnurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

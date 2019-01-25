@@ -1,0 +1,18 @@
+{
+  "urn": "125819",
+  "name": "Bosham Primary School",
+  "address": "Walton Lane",
+  "locality": "Bosham",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO18 8QF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "481209",
+  "northing": "104433",
+  "url": "http://www.boshamprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

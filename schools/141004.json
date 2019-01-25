@@ -1,0 +1,18 @@
+{
+  "urn": "141004",
+  "name": "The Watford UTC",
+  "address": "18 Colonial Way",
+  "locality": "",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD24 4PT",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "511408",
+  "northing": "197723",
+  "url": "www.watfordutc.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

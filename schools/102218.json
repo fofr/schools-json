@@ -1,0 +1,18 @@
+{
+  "urn": "102218",
+  "name": "Roxeth Manor First School",
+  "address": "Eastcote Lane",
+  "locality": "South Harrow",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA2 9AG",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "513025",
+  "northing": "186247",
+  "url": "www.roxethmanorschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

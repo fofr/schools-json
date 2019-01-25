@@ -1,0 +1,18 @@
+{
+  "urn": "138217",
+  "name": "Henbury School",
+  "address": "Station Road",
+  "locality": "Henbury",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS10 7QH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "356369",
+  "northing": "179219",
+  "url": "www.henbury.bristol.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

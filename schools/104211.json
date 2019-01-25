@@ -1,0 +1,18 @@
+{
+  "urn": "104211",
+  "name": "Blackwood School",
+  "address": "Blackwood Road",
+  "locality": "Streetly",
+  "address3": "",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B74 3PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "407249",
+  "northing": "298122",
+  "url": "http://www.blackwood-school.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101115",
+  "name": "George Eliot Primary School",
+  "address": "Marlborough Hill",
+  "locality": "St Johns Wood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW8 0NH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526535",
+  "northing": "183794",
+  "url": "www.georgeeliotschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

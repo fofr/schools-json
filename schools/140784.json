@@ -1,0 +1,18 @@
+{
+  "urn": "140784",
+  "name": "St Peter's RC Primary School",
+  "address": "Brentford Avenue",
+  "locality": "Whitleigh",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL5 4HD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "246916",
+  "northing": "60103",
+  "url": "http://www.st-petersrc.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

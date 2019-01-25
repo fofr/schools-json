@@ -1,0 +1,18 @@
+{
+  "urn": "123542",
+  "name": "Coalbrookdale and Ironbridge CofE Primary School",
+  "address": "Dale End",
+  "locality": "Coalbrookdale",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF8 7DS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "366616",
+  "northing": "303890",
+  "url": "http://www.coalbrookdaleschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

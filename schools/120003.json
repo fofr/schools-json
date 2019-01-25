@@ -1,0 +1,18 @@
+{
+  "urn": "120003",
+  "name": "Catherine Junior School",
+  "address": "Brandon Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 6AZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "459626",
+  "northing": "305833",
+  "url": "www.catherine-jun.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

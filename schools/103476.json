@@ -1,0 +1,18 @@
+{
+  "urn": "103476",
+  "name": "St Clare's Catholic Primary School",
+  "address": "Robert Road",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B20 3RT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405989",
+  "northing": "290247",
+  "url": "www.stclare.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

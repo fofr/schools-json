@@ -1,0 +1,18 @@
+{
+  "urn": "110821",
+  "name": "Stilton CofE VC Primary School",
+  "address": "Church Street",
+  "locality": "Stilton",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 3RF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "515936",
+  "northing": "289334",
+  "url": "www.stiltonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

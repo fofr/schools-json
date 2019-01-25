@@ -1,0 +1,18 @@
+{
+  "urn": "127495",
+  "name": "Arden Infant School",
+  "address": "Osborne Street",
+  "locality": "Bredbury",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK6 2EX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "391843",
+  "northing": "391166",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

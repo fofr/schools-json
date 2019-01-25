@@ -1,0 +1,18 @@
+{
+  "urn": "108727",
+  "name": "Mortimer Community College",
+  "address": "Reading Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Shields",
+  "county": "Tyne and Wear",
+  "postcode": "NE33 4UG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "436817",
+  "northing": "565329",
+  "url": "http://www.mortimercommunitycollege.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

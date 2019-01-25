@@ -1,0 +1,18 @@
+{
+  "urn": "136974",
+  "name": "Sawtry Village Academy",
+  "address": "Fen Lane",
+  "locality": "Sawtry",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 5TQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517046",
+  "northing": "283486",
+  "url": "www.sawtryva.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

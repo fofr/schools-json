@@ -1,0 +1,18 @@
+{
+  "urn": "111169",
+  "name": "Hillview Primary School",
+  "address": "Beechwood Avenue",
+  "locality": "Beechwood East",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 3HB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "353464",
+  "northing": "379995",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

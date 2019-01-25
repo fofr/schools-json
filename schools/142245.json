@@ -1,0 +1,18 @@
+{
+  "urn": "142245",
+  "name": "Clifford Bridge Academy",
+  "address": "Coombe Park Road",
+  "locality": "Binley",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV3 2PD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "438040",
+  "northing": "279072",
+  "url": "www.cliffordbridgeacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

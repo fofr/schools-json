@@ -1,0 +1,18 @@
+{
+  "urn": "121181",
+  "name": "Taverham High School",
+  "address": "Beech Avenue",
+  "locality": "Taverham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR8 6HP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "615528",
+  "northing": "314617",
+  "url": "http://www.rmplc.co.uk/eduweb/sites/thsnet/index.html",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109303",
+  "name": "Writhlington School",
+  "address": "Knobsbury Lane",
+  "locality": "Writhlington",
+  "address3": "",
+  "town": "Radstock",
+  "county": "Somerset",
+  "postcode": "BA3 3NQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "370022",
+  "northing": "154306",
+  "url": "http://www.wsbe.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

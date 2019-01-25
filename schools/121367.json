@@ -1,0 +1,18 @@
+{
+  "urn": "121367",
+  "name": "Headlands Primary School",
+  "address": "Oak Tree Lane",
+  "locality": "Holly Tree Meadows",
+  "address3": "Haxby",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO32 2YH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "460566",
+  "northing": "457495",
+  "url": "www.headlandsprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

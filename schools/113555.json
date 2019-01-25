@@ -1,0 +1,18 @@
+{
+  "urn": "113555",
+  "name": "Colyton Grammar School",
+  "address": "Whitwell Lane",
+  "locality": "Colyford",
+  "address3": "",
+  "town": "Colyton",
+  "county": "Devon",
+  "postcode": "EX24 6HN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "324425",
+  "northing": "92556",
+  "url": "http://www.colytongrammar.devon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

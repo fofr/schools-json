@@ -1,0 +1,18 @@
+{
+  "urn": "141448",
+  "name": "Blackfriars Academy",
+  "address": "Priory Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-under-Lyme",
+  "county": "Staffordshire",
+  "postcode": "ST5 2TF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "384543",
+  "northing": "345682",
+  "url": "http://www.blackfriarsacademy.org.uk",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118313",
+  "name": "Staplehurst School",
+  "address": "Gybbon Rise",
+  "locality": "Staplehurst",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN12 0LZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "578439",
+  "northing": "143382",
+  "url": "www.staplehurstschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

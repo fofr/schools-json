@@ -1,0 +1,18 @@
+{
+  "urn": "102502",
+  "name": "Springwell Infant and Nursery School",
+  "address": "Speart Lane",
+  "locality": "Heston",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "Middlesex",
+  "postcode": "TW5 9EF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "512230",
+  "northing": "177125",
+  "url": "www.springwell.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121469",
+  "name": "Woodfield Primary School",
+  "address": "Woodfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG1 4HZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431082",
+  "northing": "456574",
+  "url": "http://www.woodfieldprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

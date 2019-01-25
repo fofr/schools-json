@@ -1,0 +1,18 @@
+{
+  "urn": "115833",
+  "name": "Austen Pupil Referral Unit",
+  "address": "Chiltern Way",
+  "locality": "Worting Junior School",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG22 5BB",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "460620",
+  "northing": "151604",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

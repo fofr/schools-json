@@ -1,0 +1,18 @@
+{
+  "urn": "118925",
+  "name": "Montgomery School",
+  "address": "Bredlands Lane",
+  "locality": "Sturry",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT2 0HD",
+  "minimum_age": "11",
+  "maximum_age": "17",
+  "easting": "619494",
+  "northing": "161797",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

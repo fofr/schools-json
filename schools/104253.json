@@ -1,0 +1,18 @@
+{
+  "urn": "104253",
+  "name": "Manor Farm Community School",
+  "address": "King George Crescent",
+  "locality": "Rushall",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS4 1EG",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "402709",
+  "northing": "300798",
+  "url": "www.manorfarm.walsall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101877",
+  "name": "Mayfield Primary School",
+  "address": "High Lane",
+  "locality": "Hanwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W7 3RT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "514713",
+  "northing": "181489",
+  "url": "http://www.mayfield.ealing.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111872",
+  "name": "Devoran School",
+  "address": "Devoran Lane",
+  "locality": "Devoran",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR3 6PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "179390",
+  "northing": "39322",
+  "url": "www.devoran.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114405",
+  "name": "Wallands Community Primary School",
+  "address": "Gundreda Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lewes",
+  "county": "East Sussex",
+  "postcode": "BN7 1PU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540411",
+  "northing": "110710",
+  "url": "http://wallandsschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

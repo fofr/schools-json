@@ -1,0 +1,18 @@
+{
+  "urn": "112281",
+  "name": "Burlington CofE School",
+  "address": "School Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kirkby-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA17 7UH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "323325",
+  "northing": "482692",
+  "url": "www.burlingtonschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

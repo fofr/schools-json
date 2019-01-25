@@ -1,0 +1,18 @@
+{
+  "urn": "101038",
+  "name": "Roehampton CofE Primary School",
+  "address": "245 Roehampton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW15 4AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522568",
+  "northing": "173689",
+  "url": "www.roehampton.wandsworth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

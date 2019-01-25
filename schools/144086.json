@@ -1,0 +1,18 @@
+{
+  "urn": "144086",
+  "name": "Noak Bridge Primary School",
+  "address": "Coppice Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Basildon",
+  "county": "Essex",
+  "postcode": "SS15 4JS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "569531",
+  "northing": "190363",
+  "url": "http://www.noakbridgeschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

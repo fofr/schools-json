@@ -1,0 +1,18 @@
+{
+  "urn": "112562",
+  "name": "Marlpool Infant School",
+  "address": "Prospect Road",
+  "locality": "Marlpool",
+  "address3": "",
+  "town": "Heanor",
+  "county": "Derbyshire",
+  "postcode": "DE75 7NF",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "444191",
+  "northing": "345895",
+  "url": "www.marlpoolinfants.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

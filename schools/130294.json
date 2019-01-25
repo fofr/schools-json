@@ -1,0 +1,18 @@
+{
+  "urn": "130294",
+  "name": "Colwell Primary School",
+  "address": "Colwell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L14 8XZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "342271",
+  "northing": "392930",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

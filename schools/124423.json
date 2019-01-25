@@ -1,0 +1,18 @@
+{
+  "urn": "124423",
+  "name": "Penkridge Middle School",
+  "address": "Marsh Lane",
+  "locality": "Penkridge",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST19 5BW",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "393127",
+  "northing": "314586",
+  "url": "http://penkridge.staffs.sch.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

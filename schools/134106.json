@@ -1,0 +1,18 @@
+{
+  "urn": "134106",
+  "name": "Pear Tree Primary School",
+  "address": "Pear Tree Field",
+  "locality": "Stapeley",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 7GZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "366167",
+  "northing": "351554",
+  "url": "www.peartreeprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105788",
+  "name": "Moorhouse Primary School",
+  "address": "Crossley Street",
+  "locality": "Milnrow",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL16 4DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "392231",
+  "northing": "412946",
+  "url": "http://www.moorhouse.rochdale.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

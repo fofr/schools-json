@@ -1,0 +1,18 @@
+{
+  "urn": "140264",
+  "name": "Moredon Primary School",
+  "address": "Moredon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN2 2JG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "413525",
+  "northing": "187063",
+  "url": "www.moredonprimary.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120257",
+  "name": "Shepshed High School",
+  "address": "Forest Street",
+  "locality": "Shepshed",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 9DA",
+  "minimum_age": "10",
+  "maximum_age": "14",
+  "easting": "448299",
+  "northing": "319608",
+  "url": "http://www.shepshed-high.leics.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

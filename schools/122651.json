@@ -1,0 +1,18 @@
+{
+  "urn": "122651",
+  "name": "Kinoulton Primary School",
+  "address": "Main Street",
+  "locality": "Kinoulton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG12 3EL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "467226",
+  "northing": "330503",
+  "url": "www.kinoulton.notts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

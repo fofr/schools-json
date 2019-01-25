@@ -1,0 +1,18 @@
+{
+  "urn": "125854",
+  "name": "Stedham Primary School",
+  "address": "School Lane",
+  "locality": "Stedham",
+  "address3": "",
+  "town": "Midhurst",
+  "county": "West Sussex",
+  "postcode": "GU29 0NY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485893",
+  "northing": "122210",
+  "url": "http://www.stedham.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142695",
+  "name": "Chiltern Way Academy",
+  "address": "Church Lane",
+  "locality": "Wendover",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP22 6NL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "487230",
+  "northing": "207246",
+  "url": "www.chilternway.org",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

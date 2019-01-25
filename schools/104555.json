@@ -1,0 +1,18 @@
+{
+  "urn": "104555",
+  "name": "Lister Infant and Nursery School",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L13 7DT",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "338426",
+  "northing": "392297",
+  "url": "www.listerinfants.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

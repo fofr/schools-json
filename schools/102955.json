@@ -1,0 +1,18 @@
+{
+  "urn": "102955",
+  "name": "Spencer Nursery School",
+  "address": "Spencer Road",
+  "locality": "Mitcham Junction",
+  "address3": "",
+  "town": "Mitcham Junction",
+  "county": "Surrey",
+  "postcode": "CR4 4JP",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "528036",
+  "northing": "166609",
+  "url": "www.spencernurseryschool.org.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

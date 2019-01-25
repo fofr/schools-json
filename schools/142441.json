@@ -1,0 +1,18 @@
+{
+  "urn": "142441",
+  "name": "Shavington Primary School",
+  "address": "Southbank Avenue",
+  "locality": "Shavington",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW2 5BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370194",
+  "northing": "352011",
+  "url": "www.shavingtonprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

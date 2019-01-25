@@ -1,0 +1,18 @@
+{
+  "urn": "139063",
+  "name": "Sutton Community Academy",
+  "address": "High Pavement",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton-in-Ashfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 1EE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "449577",
+  "northing": "358768",
+  "url": "www.suttonacademy.attrust.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

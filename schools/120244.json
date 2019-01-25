@@ -1,0 +1,18 @@
+{
+  "urn": "120244",
+  "name": "Lutterworth High School",
+  "address": "Woodway Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lutterworth",
+  "county": "Leicestershire",
+  "postcode": "LE17 4QH",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "453830",
+  "northing": "284133",
+  "url": "http://www.lutterworthhigh.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

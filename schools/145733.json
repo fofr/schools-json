@@ -1,0 +1,18 @@
+{
+  "urn": "145733",
+  "name": "Methley Primary School",
+  "address": "Savile Road",
+  "locality": "Methley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS26 9HT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "439964",
+  "northing": "427048",
+  "url": "www.methleyprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

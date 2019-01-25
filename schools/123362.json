@@ -1,0 +1,18 @@
+{
+  "urn": "123362",
+  "name": "Crudgington Primary School",
+  "address": "School Lane",
+  "locality": "Crudgington",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF6 6JF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "363242",
+  "northing": "318585",
+  "url": "www.crudgingtonschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

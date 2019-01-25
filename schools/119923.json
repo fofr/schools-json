@@ -1,0 +1,18 @@
+{
+  "urn": "119923",
+  "name": "Foxton Primary School",
+  "address": "Gallow Field Road",
+  "locality": "Foxton",
+  "address3": "",
+  "town": "Market Harborough",
+  "county": "Leicestershire",
+  "postcode": "LE16 7QZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "469982",
+  "northing": "289527",
+  "url": "http://www.foxton.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

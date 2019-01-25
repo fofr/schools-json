@@ -1,0 +1,18 @@
+{
+  "urn": "136103",
+  "name": "Hampton Academy",
+  "address": "Hanworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hampton",
+  "county": "Middlesex",
+  "postcode": "TW12 3HB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "513129",
+  "northing": "171293",
+  "url": "http://hamptonacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

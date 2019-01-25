@@ -1,0 +1,18 @@
+{
+  "urn": "117369",
+  "name": "Cranborne Primary School",
+  "address": "Laurel Fields",
+  "locality": "",
+  "address3": "",
+  "town": "Potters Bar",
+  "county": "Hertfordshire",
+  "postcode": "EN6 2BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524548",
+  "northing": "201674",
+  "url": "http://www.cranborne.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

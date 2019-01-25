@@ -1,0 +1,18 @@
+{
+  "urn": "131581",
+  "name": "St James Primary School",
+  "address": "Great Charles Street",
+  "locality": "Brownhills",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS8 6AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404872",
+  "northing": "305575",
+  "url": "www.stjamesprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

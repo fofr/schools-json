@@ -1,0 +1,18 @@
+{
+  "urn": "130697",
+  "name": "Highbury College",
+  "address": "Tudor Crescent",
+  "locality": "Cosham",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO6 2SA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "466413",
+  "northing": "104558",
+  "url": "www.highbury.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

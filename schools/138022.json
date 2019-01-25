@@ -1,0 +1,18 @@
+{
+  "urn": "138022",
+  "name": "St Mary's CofE Academy Stotfold",
+  "address": "Rook Tree Lane",
+  "locality": "Stotfold",
+  "address3": "",
+  "town": "Hitchin",
+  "county": "Hertfordshire",
+  "postcode": "SG5 4DL",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "522033",
+  "northing": "236827",
+  "url": "http://www.stmarysacademystotfold.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

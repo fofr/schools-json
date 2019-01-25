@@ -1,0 +1,18 @@
+{
+  "urn": "137924",
+  "name": "St Bede's Inter-Church School",
+  "address": "Birdwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 3TD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "547915",
+  "northing": "256902",
+  "url": "http://www.st-bedes.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

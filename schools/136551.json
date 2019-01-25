@@ -1,0 +1,18 @@
+{
+  "urn": "136551",
+  "name": "Newstead Wood School",
+  "address": "Avebury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR6 9SA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "544472",
+  "northing": "165153",
+  "url": "http://www.newsteadwood.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

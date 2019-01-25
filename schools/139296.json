@@ -1,0 +1,18 @@
+{
+  "urn": "139296",
+  "name": "Gipsey Bridge Academy",
+  "address": "Leagate Road",
+  "locality": "Gipsey Bridge",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE22 7BP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "528053",
+  "northing": "349846",
+  "url": "www.gipseybridgeschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

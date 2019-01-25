@@ -1,0 +1,18 @@
+{
+  "urn": "137408",
+  "name": "Churchfields Academy",
+  "address": "Salcombe Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN3 1ER",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "416539",
+  "northing": "184052",
+  "url": "http://www.churchfields.swindon.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105023",
+  "name": "West Kirby Primary School",
+  "address": "Anglesey Road",
+  "locality": "West Kirby",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH48 5EQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "321372",
+  "northing": "387405",
+  "url": "www.westkirbyprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

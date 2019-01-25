@@ -1,0 +1,18 @@
+{
+  "urn": "118391",
+  "name": "Priory Fields School",
+  "address": "Astor Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Dover",
+  "county": "Kent",
+  "postcode": "CT17 0FS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "630848",
+  "northing": "141634",
+  "url": "http://www.prioryfields.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

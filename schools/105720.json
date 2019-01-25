@@ -1,0 +1,18 @@
+{
+  "urn": "105720",
+  "name": "St Edward's RC School",
+  "address": "Rowland Way",
+  "locality": "Lees",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Lancashire",
+  "postcode": "OL4 3LQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "395343",
+  "northing": "405037",
+  "url": "www.st-edwards.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

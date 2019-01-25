@@ -1,0 +1,18 @@
+{
+  "urn": "145002",
+  "name": "Oldham Sixth Form College",
+  "address": "Union Street West",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL8 1XU",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "392234",
+  "northing": "404674",
+  "url": "www.osfc.ac.uk",
+  "phase": "16 plus",
+  "type": "Academies",
+  "detailed_type": "Academy 16-19 converter"
+}

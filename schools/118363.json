@@ -1,0 +1,18 @@
+{
+  "urn": "118363",
+  "name": "Westmeads Community Infant School",
+  "address": "Cromwell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Whitstable",
+  "county": "Kent",
+  "postcode": "CT5 1NA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "611013",
+  "northing": "166711",
+  "url": "www.westmeads.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

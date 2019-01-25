@@ -1,0 +1,18 @@
+{
+  "urn": "107520",
+  "name": "Castle Hill Primary School",
+  "address": "Halifax Road",
+  "locality": "",
+  "address3": "",
+  "town": "Todmorden",
+  "county": "West Yorkshire",
+  "postcode": "OL14 5SQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394765",
+  "northing": "424495",
+  "url": "www.castlehillprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

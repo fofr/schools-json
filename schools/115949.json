@@ -1,0 +1,18 @@
+{
+  "urn": "115949",
+  "name": "Stockbridge Primary School",
+  "address": "Old London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stockbridge",
+  "county": "Hampshire",
+  "postcode": "SO20 6EJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "435994",
+  "northing": "135108",
+  "url": "http://www.stockbridgeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

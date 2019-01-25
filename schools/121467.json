@@ -1,0 +1,18 @@
+{
+  "urn": "121467",
+  "name": "Lakeside Primary School",
+  "address": "Oakdale Road",
+  "locality": "Clifton Moor",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO30 4YL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "458886",
+  "northing": "454734",
+  "url": "http://www.lakesideprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

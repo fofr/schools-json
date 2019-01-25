@@ -1,0 +1,18 @@
+{
+  "urn": "104146",
+  "name": "Busill Jones Primary School",
+  "address": "Ashley Road",
+  "locality": "Bloxwich",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 2QF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "398824",
+  "northing": "301905",
+  "url": "http://www.busill-jones.walsall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

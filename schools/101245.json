@@ -1,0 +1,18 @@
+{
+  "urn": "101245",
+  "name": "Robert Clack School",
+  "address": "Gosfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM8 1JU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "548825",
+  "northing": "186950",
+  "url": "http://www.robertclack.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

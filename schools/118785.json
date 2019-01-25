@@ -1,0 +1,18 @@
+{
+  "urn": "118785",
+  "name": "Dartford Science & Technology College",
+  "address": "Heath Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 2LY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "553232",
+  "northing": "173727",
+  "url": "http://www.dstc.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

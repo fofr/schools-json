@@ -1,0 +1,18 @@
+{
+  "urn": "137420",
+  "name": "Lees Brook Community School",
+  "address": "Morley Road",
+  "locality": "Chaddesden",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE21 4QX",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "438868",
+  "northing": "337555",
+  "url": "http://www.leesbrook.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

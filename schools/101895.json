@@ -1,0 +1,18 @@
+{
+  "urn": "101895",
+  "name": "Derwentwater Primary School",
+  "address": "Shakespeare Road",
+  "locality": "Acton",
+  "address3": "",
+  "town": "London",
+  "county": "Middlesex",
+  "postcode": "W3 6SA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "520204",
+  "northing": "180451",
+  "url": "www.derwentwaterschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

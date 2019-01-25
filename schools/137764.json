@@ -1,0 +1,18 @@
+{
+  "urn": "137764",
+  "name": "Cathedral Academy",
+  "address": "Thornes Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF2 8QF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "432056",
+  "northing": "419482",
+  "url": "http://www.cathedralacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

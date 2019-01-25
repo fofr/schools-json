@@ -1,0 +1,18 @@
+{
+  "urn": "110711",
+  "name": "Hartford Infant School",
+  "address": "Mayfield Crescent",
+  "locality": "Hartford",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE29 1UL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "524840",
+  "northing": "272524",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

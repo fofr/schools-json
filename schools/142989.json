@@ -1,0 +1,18 @@
+{
+  "urn": "142989",
+  "name": "Park Hall Academy",
+  "address": "Carberry Way",
+  "locality": "Weston Coyney",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 5QU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393175",
+  "northing": "343729",
+  "url": "www.parkhallacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

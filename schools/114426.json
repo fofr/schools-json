@@ -1,0 +1,18 @@
+{
+  "urn": "114426",
+  "name": "Chyngton School",
+  "address": "Millberg Road",
+  "locality": "",
+  "address3": "",
+  "town": "Seaford",
+  "county": "East Sussex",
+  "postcode": "BN25 3ST",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "549950",
+  "northing": "99922",
+  "url": "http://www.chyngton-primary.e-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

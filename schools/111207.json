@@ -1,0 +1,18 @@
+{
+  "urn": "111207",
+  "name": "Chatfield Community Primary School",
+  "address": "Chatfield Drive",
+  "locality": "Birchwood",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA3 6QW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "365157",
+  "northing": "391410",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

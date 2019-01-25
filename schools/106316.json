@@ -1,0 +1,18 @@
+{
+  "urn": "106316",
+  "name": "Davyhulme Primary School",
+  "address": "Canterbury Road",
+  "locality": "Davyhulme",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M41 0RX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "376779",
+  "northing": "395303",
+  "url": "www.davyhulmeprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

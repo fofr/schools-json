@@ -1,0 +1,18 @@
+{
+  "urn": "138726",
+  "name": "St Thomas' Catholic Primary School",
+  "address": "Parklands Road",
+  "locality": "Tean",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST10 4DS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "401011",
+  "northing": "339748",
+  "url": "http://www.st-thomas-tean.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

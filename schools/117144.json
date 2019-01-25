@@ -1,0 +1,18 @@
+{
+  "urn": "117144",
+  "name": "St Paul's Walden Primary School",
+  "address": "Bendish Lane",
+  "locality": "Whitwell",
+  "address3": "",
+  "town": "Hitchin",
+  "county": "Hertfordshire",
+  "postcode": "SG4 8HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518025",
+  "northing": "221194",
+  "url": "http://www.stpaulswalden.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

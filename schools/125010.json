@@ -1,0 +1,18 @@
+{
+  "urn": "125010",
+  "name": "Hurst Green Infant School",
+  "address": "Wolfs Wood",
+  "locality": "Hurst Green",
+  "address3": "",
+  "town": "Oxted",
+  "county": "Surrey",
+  "postcode": "RH8 0HJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "540276",
+  "northing": "151404",
+  "url": "www.hurstgreenschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

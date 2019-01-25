@@ -1,0 +1,18 @@
+{
+  "urn": "136341",
+  "name": "Lampton Academy",
+  "address": "Lampton Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "Middlesex",
+  "postcode": "TW3 4EP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "513439",
+  "northing": "176624",
+  "url": "http://www.lampton.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

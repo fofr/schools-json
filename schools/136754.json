@@ -1,0 +1,18 @@
+{
+  "urn": "136754",
+  "name": "Oakfield School",
+  "address": "Hospital Lane",
+  "locality": "Blaby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE8 4FE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "457936",
+  "northing": "296693",
+  "url": "www.oakfield.leics.sch.uk/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

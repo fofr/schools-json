@@ -1,0 +1,18 @@
+{
+  "urn": "116468",
+  "name": "Kings' School",
+  "address": "Romsey Road",
+  "locality": "",
+  "address3": "",
+  "town": "Winchester",
+  "county": "Hampshire",
+  "postcode": "SO22 5PN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "445895",
+  "northing": "129033",
+  "url": "http://www.kings-winchester.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

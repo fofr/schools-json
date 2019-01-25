@@ -1,0 +1,18 @@
+{
+  "urn": "143295",
+  "name": "Greenwood Primary and Nursery School",
+  "address": "Sutton Middle Lane",
+  "locality": "Kirkby-in-Ashfield",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 8FX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449487",
+  "northing": "356905",
+  "url": "www.greenwoodprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

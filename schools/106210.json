@@ -1,0 +1,18 @@
+{
+  "urn": "106210",
+  "name": "Livingstone Primary School",
+  "address": "Valeside",
+  "locality": "Mossley",
+  "address3": "",
+  "town": "Ashton-under-Lyne",
+  "county": "Lancashire",
+  "postcode": "OL5 0AP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "397079",
+  "northing": "401931",
+  "url": "www.livingstone.tameside.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

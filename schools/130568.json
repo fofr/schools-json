@@ -1,0 +1,18 @@
+{
+  "urn": "130568",
+  "name": "Hartlepool Sixth Form College",
+  "address": "Brinkburn",
+  "locality": "Blakelock Road",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "County Durham",
+  "postcode": "TS25 5PF",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "449784",
+  "northing": "531572",
+  "url": "www.hpoolsfc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

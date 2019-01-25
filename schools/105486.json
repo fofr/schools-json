@@ -1,0 +1,18 @@
+{
+  "urn": "105486",
+  "name": "Crumpsall Lane Primary School",
+  "address": "Crumpsall Lane",
+  "locality": "Crumpsall",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M8 5SR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384368",
+  "northing": "402362",
+  "url": "www.crumpsalllaneprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

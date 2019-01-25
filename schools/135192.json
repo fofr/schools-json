@@ -1,0 +1,18 @@
+{
+  "urn": "135192",
+  "name": "Thomas Clarkson Community College",
+  "address": "Corporation Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 2SE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "546583",
+  "northing": "308578",
+  "url": "www.thomasclarkson.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

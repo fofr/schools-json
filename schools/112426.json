@@ -1,0 +1,18 @@
+{
+  "urn": "112426",
+  "name": "Longtown Junior School",
+  "address": "Mary Street",
+  "locality": "Longtown",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA6 5UG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "338265",
+  "northing": "568876",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

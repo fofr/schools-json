@@ -1,0 +1,18 @@
+{
+  "urn": "143389",
+  "name": "Orrell Holgate Academy",
+  "address": "Moor Road",
+  "locality": "Orrell",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN5 8SJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "353056",
+  "northing": "404439",
+  "url": "http://www.holgate.wigan.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

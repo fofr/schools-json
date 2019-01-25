@@ -1,0 +1,18 @@
+{
+  "urn": "110046",
+  "name": "Charters School",
+  "address": "Charters Road",
+  "locality": "Sunningdale",
+  "address3": "",
+  "town": "Ascot",
+  "county": "Berkshire",
+  "postcode": "SL5 9QY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "493914",
+  "northing": "166793",
+  "url": "www.chartersschool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

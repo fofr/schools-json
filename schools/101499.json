@@ -1,0 +1,18 @@
+{
+  "urn": "101499",
+  "name": "Harlesden Primary School",
+  "address": "Acton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW10 8UT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521137",
+  "northing": "183464",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

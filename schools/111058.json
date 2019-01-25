@@ -1,0 +1,18 @@
+{
+  "urn": "111058",
+  "name": "Rudheath Community Primary School",
+  "address": "Gadbrook Road",
+  "locality": "Rudheath",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW9 7JL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367984",
+  "northing": "372760",
+  "url": "http://www.rudheathpri.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123883",
+  "name": "Heathfield Community School",
+  "address": "School Road",
+  "locality": "Monkton Heathfield",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA2 8PD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "325577",
+  "northing": "126720",
+  "url": "http://www.heathfieldcommunityschool.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

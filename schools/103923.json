@@ -1,0 +1,18 @@
+{
+  "urn": "103923",
+  "name": "Eaton Valley Primary School",
+  "address": "Dagger Lane",
+  "locality": "",
+  "address3": "",
+  "town": "West Bromwich",
+  "county": "West Midlands",
+  "postcode": "B71 4BU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "401246",
+  "northing": "292184",
+  "url": "http://www.eatonvalley.sandwell.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

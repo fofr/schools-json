@@ -1,0 +1,18 @@
+{
+  "urn": "108912",
+  "name": "Ashton Gate Primary School",
+  "address": "Ashton Gate Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS3 1SZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "357389",
+  "northing": "171752",
+  "url": "www.ashtongate.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

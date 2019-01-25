@@ -1,0 +1,18 @@
+{
+  "urn": "125559",
+  "name": "Westgate Primary School",
+  "address": "Bowling Green Street",
+  "locality": "",
+  "address3": "",
+  "town": "Warwick",
+  "county": "Warwickshire",
+  "postcode": "CV34 4DD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "427943",
+  "northing": "264762",
+  "url": "http://www.westgateprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

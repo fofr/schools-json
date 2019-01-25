@@ -1,0 +1,18 @@
+{
+  "urn": "140474",
+  "name": "Grove Church of England School",
+  "address": "North Drive",
+  "locality": "Grove",
+  "address3": "",
+  "town": "Wantage",
+  "county": "Oxfordshire",
+  "postcode": "OX12 7PW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "440368",
+  "northing": "190625",
+  "url": "www.groveprimary.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

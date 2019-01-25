@@ -1,0 +1,18 @@
+{
+  "urn": "117902",
+  "name": "Dorchester Primary School",
+  "address": "Dorchester Road",
+  "locality": "Bransholme",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU7 6AH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "510942",
+  "northing": "432891",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

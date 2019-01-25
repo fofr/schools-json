@@ -1,0 +1,18 @@
+{
+  "urn": "123610",
+  "name": "Wrekin College",
+  "address": "Sutherland Road",
+  "locality": "Wellington",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 3BH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "365612",
+  "northing": "311782",
+  "url": "http://www.wrekincollege.com",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

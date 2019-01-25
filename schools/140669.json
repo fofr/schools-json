@@ -1,0 +1,18 @@
+{
+  "urn": "140669",
+  "name": "Newmarket Academy",
+  "address": "Exning Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newmarket",
+  "county": "Suffolk",
+  "postcode": "CB8 0EB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "563680",
+  "northing": "264040",
+  "url": "http://www.newmarketacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

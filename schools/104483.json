@@ -1,0 +1,18 @@
+{
+  "urn": "104483",
+  "name": "Brookfield High School",
+  "address": "Bracknell Avenue",
+  "locality": "Southdene",
+  "address3": "Kirkby",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L32 9PP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "341004",
+  "northing": "397747",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122174",
+  "name": "Amble First School",
+  "address": "Edwin Street",
+  "locality": "Amble",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE65 0EF",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "426350",
+  "northing": "604107",
+  "url": "http://www.amble.firstschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

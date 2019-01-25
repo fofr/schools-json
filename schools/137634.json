@@ -1,0 +1,18 @@
+{
+  "urn": "137634",
+  "name": "Churchdown School",
+  "address": "Winston Road",
+  "locality": "Churchdown",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL3 2RB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "387849",
+  "northing": "220385",
+  "url": "http://www.churchdownschool.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

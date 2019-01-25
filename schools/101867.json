@@ -1,0 +1,18 @@
+{
+  "urn": "101867",
+  "name": "Berrymede Infant School",
+  "address": "Castle Close",
+  "locality": "Acton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W3 8RN",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "519947",
+  "northing": "179646",
+  "url": "www.berrymedeinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

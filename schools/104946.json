@@ -1,0 +1,18 @@
+{
+  "urn": "104946",
+  "name": "Hillside High School",
+  "address": "Breeze Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Bootle",
+  "county": "Merseyside",
+  "postcode": "L20 9NU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "335340",
+  "northing": "395078",
+  "url": "http://www.hillsidehigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

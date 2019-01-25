@@ -1,0 +1,18 @@
+{
+  "urn": "117313",
+  "name": "The Ryde School",
+  "address": "Pleasant Rise",
+  "locality": "",
+  "address3": "",
+  "town": "Hatfield",
+  "county": "Hertfordshire",
+  "postcode": "AL9 5DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "523455",
+  "northing": "209712",
+  "url": "http://www.ryde.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144755",
+  "name": "Manchester Enterprise Academy Central",
+  "address": "Lytham Road",
+  "locality": "Levenshulme",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M14 6PL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "386554",
+  "northing": "394397",
+  "url": "www.meacentral.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

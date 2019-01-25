@@ -1,0 +1,18 @@
+{
+  "urn": "123372",
+  "name": "Hinstock Primary School",
+  "address": "Hinstock",
+  "locality": "",
+  "address3": "",
+  "town": "Market Drayton",
+  "county": "Shropshire",
+  "postcode": "TF9 2TE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "369322",
+  "northing": "326697",
+  "url": "www.hinstockprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137237",
+  "name": "Thamesmead School",
+  "address": "Manygate Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Shepperton",
+  "county": "Middlesex",
+  "postcode": "TW17 9EE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "508486",
+  "northing": "167240",
+  "url": "http://www.thamesmead.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137188",
+  "name": "Tendring Technology College",
+  "address": "Rochford Way",
+  "locality": "",
+  "address3": "",
+  "town": "Frinton-on-Sea",
+  "county": "Essex",
+  "postcode": "CO13 0AZ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "624073",
+  "northing": "221035",
+  "url": "http://tendringtechnologycollege.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

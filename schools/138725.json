@@ -1,0 +1,18 @@
+{
+  "urn": "138725",
+  "name": "St Mary's Catholic Academy",
+  "address": "Cruso Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leek",
+  "county": "Staffordshire",
+  "postcode": "ST13 8BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "398042",
+  "northing": "356251",
+  "url": "www.st-marys-leek.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104114",
+  "name": "Lyndon School",
+  "address": "Daylesford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B92 8EJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "414230",
+  "northing": "283392",
+  "url": "www.lyndon.solihull.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

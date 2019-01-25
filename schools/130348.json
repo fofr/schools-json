@@ -1,0 +1,18 @@
+{
+  "urn": "130348",
+  "name": "The Park Education Support Centre",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Potters Bar",
+  "county": "Hertfordshire",
+  "postcode": "EN6 5AB",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "526039",
+  "northing": "201091",
+  "url": "http://www.theparkesc.herts.sch.uk/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

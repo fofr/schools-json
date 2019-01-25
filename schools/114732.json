@@ -1,0 +1,18 @@
+{
+  "urn": "114732",
+  "name": "Stanway Primary School",
+  "address": "Villa Road",
+  "locality": "Stanway",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO3 0RH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "595480",
+  "northing": "224570",
+  "url": "http://www.stanway-pri.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

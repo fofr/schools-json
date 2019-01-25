@@ -1,0 +1,18 @@
+{
+  "urn": "140142",
+  "name": "Park Road Sale Primary School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sale",
+  "county": "Greater Manchester",
+  "postcode": "M33 6HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "378230",
+  "northing": "392600",
+  "url": "www.parkroadsale.trafford.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

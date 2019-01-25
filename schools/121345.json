@@ -1,0 +1,18 @@
+{
+  "urn": "121345",
+  "name": "Whitby, Airy Hill Community Primary School",
+  "address": "Waterstead Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Whitby",
+  "county": "North Yorkshire",
+  "postcode": "YO21 1PZ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "489710",
+  "northing": "510176",
+  "url": "www.airyhillprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

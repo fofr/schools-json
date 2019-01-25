@@ -1,0 +1,18 @@
+{
+  "urn": "109504",
+  "name": "Thornhill Primary School",
+  "address": "Grove Road",
+  "locality": "Houghton Regis",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 5PE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "502571",
+  "northing": "225328",
+  "url": "http://www.thornhill-primary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

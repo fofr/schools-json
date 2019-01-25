@@ -1,0 +1,18 @@
+{
+  "urn": "120371",
+  "name": "Billingborough Primary School",
+  "address": "Victoria Street",
+  "locality": "Billingborough",
+  "address3": "",
+  "town": "Sleaford",
+  "county": "Lincolnshire",
+  "postcode": "NG34 0NX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511689",
+  "northing": "334484",
+  "url": "http://www.billingborough.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

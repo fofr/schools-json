@@ -1,0 +1,18 @@
+{
+  "urn": "114823",
+  "name": "Roach Vale Primary School",
+  "address": "Roach Vale",
+  "locality": "Parsons Heath",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO4 3YN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "602300",
+  "northing": "226252",
+  "url": "www.roachvaleprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

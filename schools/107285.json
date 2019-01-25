@@ -1,0 +1,18 @@
+{
+  "urn": "107285",
+  "name": "Nessfield Primary School",
+  "address": "Nessfield Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD22 6NP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404818",
+  "northing": "440441",
+  "url": "www.nessfieldprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

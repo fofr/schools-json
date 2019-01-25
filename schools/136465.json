@@ -1,0 +1,18 @@
+{
+  "urn": "136465",
+  "name": "Herne Bay High School",
+  "address": "Bullockstone Road",
+  "locality": "",
+  "address3": "",
+  "town": "Herne Bay",
+  "county": "Kent",
+  "postcode": "CT6 7NS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "616784",
+  "northing": "167105",
+  "url": "http://www.hernebayhigh.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

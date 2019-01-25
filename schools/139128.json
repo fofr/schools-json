@@ -1,0 +1,18 @@
+{
+  "urn": "139128",
+  "name": "Oasis Academy Woodview",
+  "address": "Woodview Drive",
+  "locality": "Edgbaston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B15 2HU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406495",
+  "northing": "285470",
+  "url": "www.oasisacademywoodview.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

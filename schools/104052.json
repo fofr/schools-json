@@ -1,0 +1,18 @@
+{
+  "urn": "104052",
+  "name": "Valley Primary",
+  "address": "Old Lode Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B92 8LW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415273",
+  "northing": "283232",
+  "url": "www.valley.solihull.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108628",
+  "name": "Norham High School",
+  "address": "Alnwick Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "North Shields",
+  "county": "Tyne and Wear",
+  "postcode": "NE29 7BU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "433812",
+  "northing": "568057",
+  "url": "http://www.norhamhigh.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

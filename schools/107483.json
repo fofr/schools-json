@@ -1,0 +1,18 @@
+{
+  "urn": "107483",
+  "name": "Lee Mount Primary School",
+  "address": "Lee Mount Road",
+  "locality": "Lee Mount",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX3 5EB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "408183",
+  "northing": "426226",
+  "url": "http://www.leemount.calderdale.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106715",
+  "name": "Wadworth Primary School",
+  "address": "Meadow Rise",
+  "locality": "Wadworth",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN11 9AP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "457144",
+  "northing": "396816",
+  "url": "www.wadworthprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

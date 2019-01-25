@@ -1,0 +1,18 @@
+{
+  "urn": "134814",
+  "name": "Northampton Academy",
+  "address": "Wellingborough Road",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN3 8NH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "479706",
+  "northing": "262873",
+  "url": "http://www.northampton-academy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

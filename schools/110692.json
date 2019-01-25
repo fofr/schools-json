@@ -1,0 +1,18 @@
+{
+  "urn": "110692",
+  "name": "Woodston Primary School",
+  "address": "Celta Road",
+  "locality": "Woodston",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 9ER",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518500",
+  "northing": "296983",
+  "url": "www.woodstonprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

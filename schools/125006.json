@@ -1,0 +1,18 @@
+{
+  "urn": "125006",
+  "name": "Lorraine School",
+  "address": "Highland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU15 4EX",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "488288",
+  "northing": "161590",
+  "url": "www.pineridgeandlorraine.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

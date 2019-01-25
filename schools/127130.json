@@ -1,0 +1,18 @@
+{
+  "urn": "127130",
+  "name": "Coventry Hospital School",
+  "address": "Smith-Clarke Ward",
+  "locality": "Stoney Stanton Road",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV1 4FH",
+  "minimum_age": "5",
+  "maximum_age": "15",
+  "easting": "433571",
+  "northing": "279664",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

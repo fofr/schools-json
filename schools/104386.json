@@ -1,0 +1,18 @@
+{
+  "urn": "104386",
+  "name": "Highfields School",
+  "address": "Boundary Way",
+  "locality": "Penn",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 4NT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "388091",
+  "northing": "296434",
+  "url": "http://www.hswv.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

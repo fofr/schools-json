@@ -1,0 +1,18 @@
+{
+  "urn": "119352",
+  "name": "Duke Street Primary School",
+  "address": "Duke Street",
+  "locality": "",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR7 3DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "358390",
+  "northing": "416880",
+  "url": "http://www.dukestreet-pri.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

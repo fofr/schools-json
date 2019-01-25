@@ -1,0 +1,18 @@
+{
+  "urn": "136303",
+  "name": "Park Hall Infant Academy",
+  "address": "Park Hall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS5 3HF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "403353",
+  "northing": "296999",
+  "url": "http://www.parkhall-inf.walsall.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

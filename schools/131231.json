@@ -1,0 +1,18 @@
+{
+  "urn": "131231",
+  "name": "Grange Primary School",
+  "address": "Cambridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "",
+  "postcode": "DN34 5TA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524836",
+  "northing": "408339",
+  "url": "www.grangeprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

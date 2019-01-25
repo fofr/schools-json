@@ -1,0 +1,18 @@
+{
+  "urn": "138893",
+  "name": "Lane End Primary School",
+  "address": "Beeston Road",
+  "locality": "Holbeck",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 6AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429710",
+  "northing": "432035",
+  "url": "www.laneendprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

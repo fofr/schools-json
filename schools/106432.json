@@ -1,0 +1,18 @@
+{
+  "urn": "106432",
+  "name": "Perry Brook Community Primary School",
+  "address": "Landgate Lane",
+  "locality": "Bryn",
+  "address3": "Ashton-in-Makerfield",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN4 0EP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "356997",
+  "northing": "401364",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

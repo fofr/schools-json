@@ -1,0 +1,18 @@
+{
+  "urn": "101451",
+  "name": "Foster's Primary School",
+  "address": "Westbrooke Road",
+  "locality": "",
+  "address3": "",
+  "town": "Welling",
+  "county": "Kent",
+  "postcode": "DA16 1PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547493",
+  "northing": "175925",
+  "url": "www.fosters.bexley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

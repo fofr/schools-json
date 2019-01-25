@@ -1,0 +1,18 @@
+{
+  "urn": "142053",
+  "name": "The North School",
+  "address": "Essella Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Kent",
+  "postcode": "TN24 8AL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "601952",
+  "northing": "142258",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

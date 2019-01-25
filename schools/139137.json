@@ -1,0 +1,18 @@
+{
+  "urn": "139137",
+  "name": "Mansel Primary",
+  "address": "Chaucer Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S5 9QN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434204",
+  "northing": "393014",
+  "url": "www.mansel.sheffield.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

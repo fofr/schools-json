@@ -1,0 +1,18 @@
+{
+  "urn": "113103",
+  "name": "Newton Poppleford Primary School",
+  "address": "School Lane",
+  "locality": "Newton Poppleford",
+  "address3": "",
+  "town": "Sidmouth",
+  "county": "Devon",
+  "postcode": "EX10 0EL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "308649",
+  "northing": "89615",
+  "url": "http://www.newton-poppleford.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102189",
+  "name": "Belmont School",
+  "address": "Hibbert Road",
+  "locality": "Harrow Weald",
+  "address3": "",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA3 7JT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "515938",
+  "northing": "190307",
+  "url": "http://www.belmont.harrow.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

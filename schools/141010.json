@@ -1,0 +1,18 @@
+{
+  "urn": "141010",
+  "name": "Nottingham Free School",
+  "address": "The Courtaulds Building",
+  "locality": "290 Haydn Road",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 1EB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "456525",
+  "northing": "342816",
+  "url": "http://www.nottinghamfreeschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

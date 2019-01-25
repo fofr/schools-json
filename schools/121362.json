@@ -1,0 +1,18 @@
+{
+  "urn": "121362",
+  "name": "Lindhead School",
+  "address": "Limestone Road",
+  "locality": "Burniston",
+  "address3": "",
+  "town": "Scarborough",
+  "county": "North Yorkshire",
+  "postcode": "YO13 0DG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "500732",
+  "northing": "493432",
+  "url": "www.lindhead.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

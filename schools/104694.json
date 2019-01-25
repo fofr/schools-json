@@ -1,0 +1,18 @@
+{
+  "urn": "104694",
+  "name": "The Queen Mary School",
+  "address": "Long Lane",
+  "locality": "Aintree",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L9 6AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "337954",
+  "northing": "395603",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

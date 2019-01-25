@@ -1,0 +1,18 @@
+{
+  "urn": "135260",
+  "name": "Southwark Inclusive Learning Service (Sils)",
+  "address": "2 Davey Street",
+  "locality": "Peckham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE15 6LF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "533743",
+  "northing": "177638",
+  "url": "www.silsschools.org",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

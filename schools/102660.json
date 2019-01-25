@@ -1,0 +1,18 @@
+{
+  "urn": "102660",
+  "name": "Stanford Primary School",
+  "address": "Chilmark Road",
+  "locality": "Norbury",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW16 5HB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529841",
+  "northing": "169520",
+  "url": "www.stanford.merton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

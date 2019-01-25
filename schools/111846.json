@@ -1,0 +1,18 @@
+{
+  "urn": "111846",
+  "name": "Gwinear Community Primary School",
+  "address": "40 Gwinear Lane",
+  "locality": "Gwinear",
+  "address3": "",
+  "town": "Hayle",
+  "county": "Cornwall",
+  "postcode": "TR27 5LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "160745",
+  "northing": "37379",
+  "url": "www.gwinear.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

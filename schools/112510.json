@@ -1,0 +1,18 @@
+{
+  "urn": "112510",
+  "name": "Brockley Primary School",
+  "address": "Clowne Road",
+  "locality": "Shuttlewood",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S44 6AF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "446872",
+  "northing": "373031",
+  "url": "www.brockley.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

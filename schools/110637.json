@@ -1,0 +1,18 @@
+{
+  "urn": "110637",
+  "name": "Littleport Community Primary School",
+  "address": "Parsons Lane",
+  "locality": "Littleport",
+  "address3": "",
+  "town": "Ely",
+  "county": "Cambridgeshire",
+  "postcode": "CB6 1JT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "555845",
+  "northing": "286907",
+  "url": "www.littleport.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

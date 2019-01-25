@@ -1,0 +1,18 @@
+{
+  "urn": "131095",
+  "name": "Richmond Adult Community College",
+  "address": "Parkshot",
+  "locality": "",
+  "address3": "",
+  "town": "Richmond",
+  "county": "Surrey",
+  "postcode": "TW9 2RE",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "518005",
+  "northing": "175296",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

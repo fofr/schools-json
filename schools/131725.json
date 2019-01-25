@@ -1,0 +1,18 @@
+{
+  "urn": "131725",
+  "name": "Firs Primary School",
+  "address": "Dreghorn Road",
+  "locality": "Castle Bromwich",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B36 8LL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "413534",
+  "northing": "289577",
+  "url": "www.firs.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

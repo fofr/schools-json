@@ -1,0 +1,18 @@
+{
+  "urn": "111252",
+  "name": "Bollington Cross CofE Primary School",
+  "address": "Bollington Road",
+  "locality": "Bollington",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK10 5EG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "392185",
+  "northing": "377244",
+  "url": "http://www.bollingtoncross.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111402",
+  "name": "Tytherington High School",
+  "address": "Manchester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK10 2EE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "391626",
+  "northing": "374738",
+  "url": "http://www.tytheringtonhs.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139952",
+  "name": "Reynolds Primary Academy",
+  "address": "Machray Place",
+  "locality": "",
+  "address3": "",
+  "town": "Cleethorpes",
+  "county": "Lincolnshire",
+  "postcode": "DN35 7LJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529961",
+  "northing": "409185",
+  "url": "www.reynoldsacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

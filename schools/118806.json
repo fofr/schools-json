@@ -1,0 +1,18 @@
+{
+  "urn": "118806",
+  "name": "Dover Grammar School for Girls",
+  "address": "Frith Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dover",
+  "county": "Kent",
+  "postcode": "CT16 2PZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "631484",
+  "northing": "142361",
+  "url": "http://dggs.kent.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

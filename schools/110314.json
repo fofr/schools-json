@@ -1,0 +1,18 @@
+{
+  "urn": "110314",
+  "name": "Burford School",
+  "address": "Marlow Bottom",
+  "locality": "",
+  "address3": "",
+  "town": "Marlow",
+  "county": "Buckinghamshire",
+  "postcode": "SL7 3PQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "484409",
+  "northing": "188436",
+  "url": "http://www.burfordschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

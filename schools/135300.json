@@ -1,0 +1,18 @@
+{
+  "urn": "135300",
+  "name": "Bristol Brunel Academy",
+  "address": "Speedwell Road",
+  "locality": "Speedwell",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS15 1NU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "363406",
+  "northing": "174377",
+  "url": "http://www.bba.bristol.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

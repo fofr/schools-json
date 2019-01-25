@@ -1,0 +1,18 @@
+{
+  "urn": "112936",
+  "name": "New Mills School",
+  "address": "Church Lane",
+  "locality": "New Mills",
+  "address3": "",
+  "town": "High Peak",
+  "county": "Derbyshire",
+  "postcode": "SK22 4NR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "400361",
+  "northing": "385556",
+  "url": "http://www.newmillsschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

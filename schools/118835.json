@@ -1,0 +1,18 @@
+{
+  "urn": "118835",
+  "name": "Maidstone Grammar School",
+  "address": "Barton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME15 7BT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "576678",
+  "northing": "154844",
+  "url": "www.mgs.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

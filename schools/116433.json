@@ -1,0 +1,18 @@
+{
+  "urn": "116433",
+  "name": "Yateley School",
+  "address": "School Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Yateley",
+  "county": "Hampshire",
+  "postcode": "GU46 6NW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "481123",
+  "northing": "160528",
+  "url": "http://www.yateleyschool.net/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143060",
+  "name": "Burford Primary and Nursery School",
+  "address": "Oxclose Lane",
+  "locality": "Arnold",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 6FX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457288",
+  "northing": "344852",
+  "url": "www.burfordprimaryandnursery.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143404",
+  "name": "Ely College",
+  "address": "Downham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ely",
+  "county": "Cambridgeshire",
+  "postcode": "CB6 2SH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "553659",
+  "northing": "281128",
+  "url": "www.elycollege.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

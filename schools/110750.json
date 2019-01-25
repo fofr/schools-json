@@ -1,0 +1,18 @@
+{
+  "urn": "110750",
+  "name": "St Matthew's Primary School",
+  "address": "19 Norfolk Street",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 2LD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "545951",
+  "northing": "258423",
+  "url": "www.stmatthews.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

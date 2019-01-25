@@ -1,0 +1,18 @@
+{
+  "urn": "140190",
+  "name": "Abbey CofE Academy",
+  "address": "Vicar Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Daventry",
+  "county": "Northamptonshire",
+  "postcode": "NN11 4GD",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "457629",
+  "northing": "262446",
+  "url": "www.abbeyceacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

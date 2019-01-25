@@ -1,0 +1,18 @@
+{
+  "urn": "115378",
+  "name": "The Stanway School",
+  "address": "Winstree Road",
+  "locality": "Stanway",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO3 0QA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "595552",
+  "northing": "224320",
+  "url": "http://www.stanway.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

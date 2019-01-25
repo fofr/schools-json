@@ -1,0 +1,18 @@
+{
+  "urn": "118351",
+  "name": "Regis Manor Community Primary School",
+  "address": "Middletune Avenue",
+  "locality": "Milton Regis",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 2HT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "590298",
+  "northing": "165171",
+  "url": "http://www.regis-manor.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

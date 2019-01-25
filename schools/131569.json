@@ -1,0 +1,18 @@
+{
+  "urn": "131569",
+  "name": "Parkwood Primary School",
+  "address": "Plymouth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "Lincolnshire",
+  "postcode": "DN17 1SS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "487441",
+  "northing": "409906",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140738",
+  "name": "Old Trafford Community Academy",
+  "address": "Malvern Street",
+  "locality": "Old Trafford",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M15 4FL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382495",
+  "northing": "396518",
+  "url": "www.oldtraffordcommunityacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

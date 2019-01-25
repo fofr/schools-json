@@ -1,0 +1,18 @@
+{
+  "urn": "137236",
+  "name": "Stratford Upon Avon School",
+  "address": "Alcester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stratford-upon-Avon",
+  "county": "Warwickshire",
+  "postcode": "CV37 9DH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "419228",
+  "northing": "255075",
+  "url": "www.stratforduponavonschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

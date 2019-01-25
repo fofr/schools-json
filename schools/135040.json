@@ -1,0 +1,18 @@
+{
+  "urn": "135040",
+  "name": "Burlish Park Primary School",
+  "address": "Windermere Way",
+  "locality": "",
+  "address3": "",
+  "town": "Stourport-on-Severn",
+  "county": "Worcestershire",
+  "postcode": "DY13 8LA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "380951",
+  "northing": "272450",
+  "url": "www.burlishpark.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

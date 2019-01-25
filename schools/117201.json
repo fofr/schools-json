@@ -1,0 +1,18 @@
+{
+  "urn": "117201",
+  "name": "Flamstead End Junior School",
+  "address": "Longfield Lane",
+  "locality": "Flamstead End",
+  "address3": "Cheshunt",
+  "town": "Waltham Cross",
+  "county": "Hertfordshire",
+  "postcode": "EN7 6AG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "534377",
+  "northing": "203715",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

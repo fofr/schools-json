@@ -1,0 +1,18 @@
+{
+  "urn": "143572",
+  "name": "Lilycroft Primary School",
+  "address": "Lilycroft Road",
+  "locality": "Manningham",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD9 5AD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "414613",
+  "northing": "434524",
+  "url": "http://www.lilycroftprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114789",
+  "name": "Heycroft Primary School",
+  "address": "Benvenue Avenue",
+  "locality": "Eastwood",
+  "address3": "",
+  "town": "Leigh-on-Sea",
+  "county": "Essex",
+  "postcode": "SS9 5SJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "584686",
+  "northing": "188955",
+  "url": "http://www.heycroftschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

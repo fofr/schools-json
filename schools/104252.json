@@ -1,0 +1,18 @@
+{
+  "urn": "104252",
+  "name": "Sneyd Community School",
+  "address": "Vernon Way",
+  "locality": "Sneyd Lane",
+  "address3": "Bloxwich",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 2PA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "398037",
+  "northing": "302490",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

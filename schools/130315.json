@@ -1,0 +1,18 @@
+{
+  "urn": "130315",
+  "name": "Sherborne Learning Centre",
+  "address": "Simons Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sherborne",
+  "county": "Dorset",
+  "postcode": "DT9 4DN",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "363966",
+  "northing": "117323",
+  "url": "http://www.sherborne-lc.dorset.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

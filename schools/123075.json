@@ -1,0 +1,18 @@
+{
+  "urn": "123075",
+  "name": "Edward Feild Primary School",
+  "address": "Bicester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kidlington",
+  "county": "Oxfordshire",
+  "postcode": "OX5 2LG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449964",
+  "northing": "213333",
+  "url": "http://www.efs.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

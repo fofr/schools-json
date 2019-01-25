@@ -1,0 +1,18 @@
+{
+  "urn": "119242",
+  "name": "Devonshire Infant School",
+  "address": "Caunce Street",
+  "locality": "",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY3 8AF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "331807",
+  "northing": "436698",
+  "url": "http://www.devonshire-infants.blackpool.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

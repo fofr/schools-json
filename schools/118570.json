@@ -1,0 +1,18 @@
+{
+  "urn": "118570",
+  "name": "Meopham Community Primary School",
+  "address": "Longfield Road",
+  "locality": "Meopham",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA13 0JW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "564320",
+  "northing": "166643",
+  "url": "http://www.meopham-primary.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

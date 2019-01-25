@@ -1,0 +1,18 @@
+{
+  "urn": "127144",
+  "name": "High Park School",
+  "address": "Park Road West",
+  "locality": "",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY8 3NQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "388489",
+  "northing": "284415",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107963",
+  "name": "Cobden Primary School",
+  "address": "Cobden Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 5LA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425754",
+  "northing": "431895",
+  "url": "www.cobden.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

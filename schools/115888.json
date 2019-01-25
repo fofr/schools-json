@@ -1,0 +1,18 @@
+{
+  "urn": "115888",
+  "name": "Shakespeare Infant School",
+  "address": "Shakespeare Road",
+  "locality": "",
+  "address3": "",
+  "town": "Eastleigh",
+  "county": "Hampshire",
+  "postcode": "SO50 4FZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "445283",
+  "northing": "119972",
+  "url": "www.shakespeareinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

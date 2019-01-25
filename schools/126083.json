@@ -1,0 +1,18 @@
+{
+  "urn": "126083",
+  "name": "Durrington High School",
+  "address": "The Boulevard",
+  "locality": "",
+  "address3": "",
+  "town": "Worthing",
+  "county": "West Sussex",
+  "postcode": "BN13 1JX",
+  "minimum_age": "12",
+  "maximum_age": "16",
+  "easting": "512308",
+  "northing": "104335",
+  "url": "http://www.durringtonhigh.w-sussex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

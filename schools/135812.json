@@ -1,0 +1,18 @@
+{
+  "urn": "135812",
+  "name": "Crowlands Primary School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Romford",
+  "county": "",
+  "postcode": "RM7 9EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "550109",
+  "northing": "188376",
+  "url": "http://www.crowlandsprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

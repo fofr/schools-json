@@ -1,0 +1,18 @@
+{
+  "urn": "125070",
+  "name": "Reigate Priory Community Junior School",
+  "address": "Bell Street",
+  "locality": "",
+  "address3": "",
+  "town": "Reigate",
+  "county": "Surrey",
+  "postcode": "RH2 7RL",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "525330",
+  "northing": "150030",
+  "url": "www.reigate-priory.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

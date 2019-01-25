@@ -1,0 +1,18 @@
+{
+  "urn": "140150",
+  "name": "St Peter's Catholic Academy",
+  "address": "Waterloo Road",
+  "locality": "Cobridge",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 3HL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387386",
+  "northing": "348751",
+  "url": "www.st-peters-catholic.stoke.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146203",
+  "name": "Waddington Redwood Primary Academy",
+  "address": "Redwood Drive",
+  "locality": "Brant Road",
+  "address3": "Waddington",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN5 9BN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "496589",
+  "northing": "365960",
+  "url": "http://www.redwood.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

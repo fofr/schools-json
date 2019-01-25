@@ -1,0 +1,18 @@
+{
+  "urn": "100429",
+  "name": "Yerbury Primary School",
+  "address": "Foxham Road",
+  "locality": "Yerbury Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N19 4RR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529695",
+  "northing": "186359",
+  "url": "www.yerbury.islington.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

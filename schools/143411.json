@@ -1,0 +1,18 @@
+{
+  "urn": "143411",
+  "name": "Tweeddale Primary School",
+  "address": "Tweeddale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Carshalton",
+  "county": "Surrey",
+  "postcode": "SM5 1SW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526761",
+  "northing": "166569",
+  "url": "www.tweeddaleprimary.sutton.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

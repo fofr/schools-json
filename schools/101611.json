@@ -1,0 +1,18 @@
+{
+  "urn": "101611",
+  "name": "Crofton Infant School",
+  "address": "Towncourt Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR5 1EL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "544822",
+  "northing": "166769",
+  "url": "www.crofton-inf.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

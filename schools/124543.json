@@ -1,0 +1,18 @@
+{
+  "urn": "124543",
+  "name": "Nayland Primary School",
+  "address": "Bear Street",
+  "locality": "Nayland",
+  "address3": "",
+  "town": "Nr Colchester",
+  "county": "Suffolk",
+  "postcode": "CO6 4HZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "597083",
+  "northing": "234373",
+  "url": "www.naylandschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

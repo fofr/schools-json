@@ -1,0 +1,18 @@
+{
+  "urn": "138236",
+  "name": "High Weald Academy",
+  "address": "Angley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cranbrook",
+  "county": "Kent",
+  "postcode": "TN17 2PJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "577050",
+  "northing": "136427",
+  "url": "www.highwealdacademy.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

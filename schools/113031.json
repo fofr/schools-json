@@ -1,0 +1,18 @@
+{
+  "urn": "113031",
+  "name": "Brackenfield Special School",
+  "address": "Bracken Road",
+  "locality": "Long Eaton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Derbyshire",
+  "postcode": "NG10 4DA",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "447607",
+  "northing": "334202",
+  "url": "www.brackenfield.derbyshire.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

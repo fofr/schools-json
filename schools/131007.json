@@ -1,0 +1,18 @@
+{
+  "urn": "131007",
+  "name": "Robin Hood Primary School",
+  "address": "Beckhampton Road",
+  "locality": "Bestwood Park",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 5NA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456368",
+  "northing": "344973",
+  "url": "www.robinhoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

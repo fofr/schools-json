@@ -1,0 +1,18 @@
+{
+  "urn": "100103",
+  "name": "Newhaven Pupil Referral Unit",
+  "address": "Newhaven Gardens",
+  "locality": "Eltham",
+  "address3": "Greenwich",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 6HR",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "541731",
+  "northing": "175472",
+  "url": "www.newhavenschool.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

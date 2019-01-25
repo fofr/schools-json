@@ -1,0 +1,18 @@
+{
+  "urn": "111301",
+  "name": "St Andrew's CofE Primary School",
+  "address": "Mardale Avenue",
+  "locality": "Orford",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA2 9HF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "361168",
+  "northing": "391204",
+  "url": "www.standrews-cp.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140450",
+  "name": "Manor Oak Primary School",
+  "address": "Sweeps Lane",
+  "locality": "St Mary Cray",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR5 3PE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547926",
+  "northing": "167914",
+  "url": "www.manoroakprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

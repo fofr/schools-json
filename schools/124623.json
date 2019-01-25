@@ -1,0 +1,18 @@
+{
+  "urn": "124623",
+  "name": "Reydon Primary School",
+  "address": "Jermyns Road",
+  "locality": "Reydon",
+  "address3": "",
+  "town": "Southwold",
+  "county": "Suffolk",
+  "postcode": "IP18 6QB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "649976",
+  "northing": "277553",
+  "url": "http://www.reydon.suffolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

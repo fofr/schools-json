@@ -1,0 +1,18 @@
+{
+  "urn": "110533",
+  "name": "The Cottesloe School",
+  "address": "Aylesbury Road",
+  "locality": "Wing",
+  "address3": "",
+  "town": "Leighton Buzzard",
+  "county": "Bedfordshire",
+  "postcode": "LU7 0NY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "488072",
+  "northing": "222311",
+  "url": "http://www.cottesloe.bucks.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

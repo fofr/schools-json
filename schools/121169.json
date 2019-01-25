@@ -1,0 +1,18 @@
+{
+  "urn": "121169",
+  "name": "Old Buckenham High School",
+  "address": "Abbey Road",
+  "locality": "Old Buckenham",
+  "address3": "",
+  "town": "Attleborough",
+  "county": "Norfolk",
+  "postcode": "NR17 1RL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "606721",
+  "northing": "291745",
+  "url": "http://www.obhs.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

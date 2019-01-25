@@ -1,0 +1,18 @@
+{
+  "urn": "100186",
+  "name": "Abbey Wood School",
+  "address": "Eynsham Drive",
+  "locality": "Abbey Wood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE2 9AJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "546423",
+  "northing": "179244",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

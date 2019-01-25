@@ -1,0 +1,18 @@
+{
+  "urn": "137199",
+  "name": "Canons High School",
+  "address": "Shaldon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Edgware",
+  "county": "",
+  "postcode": "HA8 6AN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518709",
+  "northing": "190352",
+  "url": "www.canons.harrow.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

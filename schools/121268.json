@@ -1,0 +1,18 @@
+{
+  "urn": "121268",
+  "name": "Brougham Street Nursery School",
+  "address": "Brougham Street",
+  "locality": "",
+  "address3": "",
+  "town": "Skipton",
+  "county": "North Yorkshire",
+  "postcode": "BD23 2ES",
+  "minimum_age": "0",
+  "maximum_age": "4",
+  "easting": "399379",
+  "northing": "451426",
+  "url": "http://www.broughamstreetnursery.org.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

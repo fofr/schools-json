@@ -1,0 +1,18 @@
+{
+  "urn": "102679",
+  "name": "Rutlish School",
+  "address": "Watery Lane",
+  "locality": "Merton Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW20 9AD",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "524743",
+  "northing": "169223",
+  "url": "www.rutlish.merton.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

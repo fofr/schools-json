@@ -1,0 +1,18 @@
+{
+  "urn": "130592",
+  "name": "Selby College",
+  "address": "Abbot's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Selby",
+  "county": "North Yorkshire",
+  "postcode": "YO8 8AT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "462545",
+  "northing": "431414",
+  "url": "http://selby.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

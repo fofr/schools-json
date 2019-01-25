@@ -1,0 +1,18 @@
+{
+  "urn": "100479",
+  "name": "Bevington Primary School",
+  "address": "Bevington Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W10 5TW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524414",
+  "northing": "181794",
+  "url": "http://www.bevington.rbkc.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

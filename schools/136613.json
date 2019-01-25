@@ -1,0 +1,18 @@
+{
+  "urn": "136613",
+  "name": "Airedale Academy",
+  "address": "Crewe Road",
+  "locality": "Airedale",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 3JU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "445485",
+  "northing": "425204",
+  "url": "http://www.airedaleacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

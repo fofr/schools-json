@@ -1,0 +1,18 @@
+{
+  "urn": "115749",
+  "name": "Heron Primary School",
+  "address": "Heron Way",
+  "locality": "Abbeydale",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL4 4BN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "385708",
+  "northing": "216040",
+  "url": "http://www.heronprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

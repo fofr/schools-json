@@ -1,0 +1,18 @@
+{
+  "urn": "120393",
+  "name": "Cliffedale Primary School",
+  "address": "Northcliffe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG31 8DP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "491325",
+  "northing": "337112",
+  "url": "www.cliffedale.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

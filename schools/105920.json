@@ -1,0 +1,18 @@
+{
+  "urn": "105920",
+  "name": "Dukesgate Primary School",
+  "address": "Earlesdon Crescent",
+  "locality": "Little Hulton",
+  "address3": "",
+  "town": "Salford",
+  "county": "Greater Manchester",
+  "postcode": "M38 9HF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "372209",
+  "northing": "404433",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

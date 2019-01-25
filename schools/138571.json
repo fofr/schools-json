@@ -1,0 +1,18 @@
+{
+  "urn": "138571",
+  "name": "Queensbury Academy",
+  "address": "Langdale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU6 3BU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "501408",
+  "northing": "220987",
+  "url": "www.queensburyacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101111",
+  "name": "Essendine Primary School",
+  "address": "Essendine Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W9 2LR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "525311",
+  "northing": "182561",
+  "url": "www.essendineprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

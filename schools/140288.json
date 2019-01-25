@@ -1,0 +1,18 @@
+{
+  "urn": "140288",
+  "name": "Patchway Community College",
+  "address": "Hempton Lane",
+  "locality": "Almondsbury",
+  "address3": "",
+  "town": "Bristol",
+  "county": "South Gloucestershire",
+  "postcode": "BS32 4AJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "360720",
+  "northing": "182520",
+  "url": "http://www.patchwaycc.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137088",
+  "name": "The Palmer Catholic Academy",
+  "address": "Aldborough Road South",
+  "locality": "Seven Kings",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG3 8EU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "545277",
+  "northing": "187125",
+  "url": "www.thepalmercatholicacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

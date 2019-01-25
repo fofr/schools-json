@@ -1,0 +1,18 @@
+{
+  "urn": "130541",
+  "name": "Park Lane College, Leeds",
+  "address": "Park Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS3 1AA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "429182",
+  "northing": "433935",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

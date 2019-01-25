@@ -1,0 +1,18 @@
+{
+  "urn": "120829",
+  "name": "Walsingham Community Primary School",
+  "address": "Wells Road",
+  "locality": "Great Walsingham",
+  "address3": "",
+  "town": "Walsingham",
+  "county": "Norfolk",
+  "postcode": "NR22 6DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "593586",
+  "northing": "337269",
+  "url": "http://www.walsingham.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100670",
+  "name": "John Evelyn Education Centre",
+  "address": "Dressington Lodge",
+  "locality": "Dressington Avenue",
+  "address3": "Brockley",
+  "town": "London",
+  "county": "",
+  "postcode": "SE4 1JQ",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "537311",
+  "northing": "174487",
+  "url": "http://schoolsite.edex.net.uk/1316/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "134687",
+  "name": "Kings Oak Primary Learning Centre",
+  "address": "Bondfield Close",
+  "locality": "Wombwell",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S73 8TX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "439543",
+  "northing": "403024",
+  "url": "www.kingsoakprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

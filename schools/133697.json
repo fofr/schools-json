@@ -1,0 +1,18 @@
+{
+  "urn": "133697",
+  "name": "Walsall Academy",
+  "address": "Lichfield Road",
+  "locality": "Bloxwich",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 3LX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "400180",
+  "northing": "302866",
+  "url": "http://www.walsallacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131247",
+  "name": "Bonneville Primary School",
+  "address": "Bonneville Gardens",
+  "locality": "",
+  "address3": "Clapham",
+  "town": "London",
+  "county": "",
+  "postcode": "SW4 9LB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529358",
+  "northing": "174325",
+  "url": "www.bonneville-primary.lambeth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118292",
+  "name": "Hollingbourne Primary School",
+  "address": "Eyhorne Street",
+  "locality": "Hollingbourne",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME17 1UA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "584016",
+  "northing": "154881",
+  "url": "www.hollingbourne.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

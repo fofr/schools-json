@@ -1,0 +1,18 @@
+{
+  "urn": "104201",
+  "name": "Walsall Wood School",
+  "address": "Brownhills Road",
+  "locality": "Brownhills",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS8 7BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405072",
+  "northing": "303806",
+  "url": "www.walsallwoodschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

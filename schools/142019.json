@@ -1,0 +1,18 @@
+{
+  "urn": "142019",
+  "name": "Salfords Primary School",
+  "address": "Copsleigh Avenue",
+  "locality": "Salfords",
+  "address3": "",
+  "town": "Redhill",
+  "county": "Surrey",
+  "postcode": "RH1 5BQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "528172",
+  "northing": "147056",
+  "url": "www.salfordsschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

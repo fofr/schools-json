@@ -1,0 +1,18 @@
+{
+  "urn": "139456",
+  "name": "Saint Paul's Catholic High School",
+  "address": "Firbank Road",
+  "locality": "Newall Green",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M23 2YS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "381566",
+  "northing": "387565",
+  "url": "http://www.st-paulshigh.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

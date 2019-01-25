@@ -1,0 +1,18 @@
+{
+  "urn": "100191",
+  "name": "Waterfield School",
+  "address": "Waterfield Close",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE28 8AT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "546432",
+  "northing": "180397",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

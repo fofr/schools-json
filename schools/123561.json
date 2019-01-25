@@ -1,0 +1,18 @@
+{
+  "urn": "123561",
+  "name": "Newport Girls' High School",
+  "address": "Wellington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newport",
+  "county": "Shropshire",
+  "postcode": "TF10 7HL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "374373",
+  "northing": "318470",
+  "url": "http://www.newporthigh.wrekin.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

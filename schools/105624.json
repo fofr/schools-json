@@ -1,0 +1,18 @@
+{
+  "urn": "105624",
+  "name": "Castlefield School",
+  "address": "Jackson Crescent",
+  "locality": "Hulme",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M15 5AL",
+  "minimum_age": "5",
+  "maximum_age": "12",
+  "easting": "383124",
+  "northing": "397052",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

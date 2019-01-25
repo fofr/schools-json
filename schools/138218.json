@@ -1,0 +1,18 @@
+{
+  "urn": "138218",
+  "name": "Dorrington Academy",
+  "address": "Dorrington Road",
+  "locality": "Perry Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B42 1QR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405328",
+  "northing": "292444",
+  "url": "www.dorringtonacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

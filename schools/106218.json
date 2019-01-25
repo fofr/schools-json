@@ -1,0 +1,18 @@
+{
+  "urn": "106218",
+  "name": "Greenside Primary School",
+  "address": "Greenside Lane",
+  "locality": "Droylsden",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M43 7RA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389992",
+  "northing": "398854",
+  "url": "www.greenside.tameside.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

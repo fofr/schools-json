@@ -1,0 +1,18 @@
+{
+  "urn": "139465",
+  "name": "Brookvale Primary School",
+  "address": "Mallard Drive",
+  "locality": "Erdington",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B23 7YB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "408836",
+  "northing": "291474",
+  "url": "www.brookvaleschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

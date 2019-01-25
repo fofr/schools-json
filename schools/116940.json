@@ -1,0 +1,18 @@
+{
+  "urn": "116940",
+  "name": "Lady Hawkins High School",
+  "address": "Park View",
+  "locality": "",
+  "address3": "",
+  "town": "Kington",
+  "county": "Herefordshire",
+  "postcode": "HR5 3AR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "329066",
+  "northing": "256522",
+  "url": "http://www.lhs.hereford.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

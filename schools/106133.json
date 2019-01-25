@@ -1,0 +1,18 @@
+{
+  "urn": "106133",
+  "name": "Priestnall School",
+  "address": "Priestnall Road",
+  "locality": "Heaton Mersey",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 3HP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "386834",
+  "northing": "391241",
+  "url": "www.priestnall.stockport.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

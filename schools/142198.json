@@ -1,0 +1,18 @@
+{
+  "urn": "142198",
+  "name": "Harrogate, Bilton Grange Community Primary School",
+  "address": "Bilton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG1 3BA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "430346",
+  "northing": "456753",
+  "url": "http://www.biltongrange.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

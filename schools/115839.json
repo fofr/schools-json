@@ -1,0 +1,18 @@
+{
+  "urn": "115839",
+  "name": "Sevenoaks Pupil Referral Unit",
+  "address": "Sundridge Close",
+  "locality": "Cosham",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO6 3JL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "465615",
+  "northing": "105826",
+  "url": "office@sevenoaks.portsmouth.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

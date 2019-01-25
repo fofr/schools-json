@@ -1,0 +1,18 @@
+{
+  "urn": "134880",
+  "name": "Burton PRU",
+  "address": "Church Hill Street",
+  "locality": "Winshill",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE15 0HR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "426933",
+  "northing": "323521",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

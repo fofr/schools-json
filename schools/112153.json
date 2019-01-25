@@ -1,0 +1,18 @@
+{
+  "urn": "112153",
+  "name": "Distington Infant School",
+  "address": "Church Road",
+  "locality": "Distington",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 5TE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "300505",
+  "northing": "523543",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

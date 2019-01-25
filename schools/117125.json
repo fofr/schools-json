@@ -1,0 +1,18 @@
+{
+  "urn": "117125",
+  "name": "Hertford Heath Primary and Nursery School",
+  "address": "Woodland Road",
+  "locality": "Hertford Heath",
+  "address3": "",
+  "town": "Hertford",
+  "county": "Hertfordshire",
+  "postcode": "SG13 7QW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535093",
+  "northing": "211497",
+  "url": "http://www.hertfordheath.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

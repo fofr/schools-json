@@ -1,0 +1,18 @@
+{
+  "urn": "127116",
+  "name": "Finham Infant School",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV3 6EJ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "432790",
+  "northing": "275268",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

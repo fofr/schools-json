@@ -1,0 +1,18 @@
+{
+  "urn": "115328",
+  "name": "The Rickstones School",
+  "address": "Conrad Road",
+  "locality": "",
+  "address3": "",
+  "town": "Witham",
+  "county": "Essex",
+  "postcode": "CM8 2SD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "581894",
+  "northing": "216583",
+  "url": "www.rickstones.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

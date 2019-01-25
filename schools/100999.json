@@ -1,0 +1,18 @@
+{
+  "urn": "100999",
+  "name": "Bolingbroke Primary School",
+  "address": "Westbridge Road",
+  "locality": "Battersea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 3NE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527035",
+  "northing": "176960",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

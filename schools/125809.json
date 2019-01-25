@@ -1,0 +1,18 @@
+{
+  "urn": "125809",
+  "name": "Horsham Nursery School",
+  "address": "Harwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Horsham",
+  "county": "West Sussex",
+  "postcode": "RH13 5UT",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "518392",
+  "northing": "131222",
+  "url": "www.horshamnursery.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

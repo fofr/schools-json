@@ -1,0 +1,18 @@
+{
+  "urn": "130612",
+  "name": "Huntingdonshire Regional College",
+  "address": "California Road",
+  "locality": "",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE29 1BL",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "524224",
+  "northing": "272714",
+  "url": "www.huntingdon.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122535",
+  "name": "Westdale Infant School",
+  "address": "Digby Avenue, Westdale Lane",
+  "locality": "Mapperley",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG3 6ET",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "460011",
+  "northing": "343113",
+  "url": "www.westdaleinfants.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

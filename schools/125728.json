@@ -1,0 +1,18 @@
+{
+  "urn": "125728",
+  "name": "Coleshill CofE Primary School",
+  "address": "Wingfield Road",
+  "locality": "Coleshill",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B46 3LL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "419966",
+  "northing": "288539",
+  "url": "www.coleshillprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

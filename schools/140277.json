@@ -1,0 +1,18 @@
+{
+  "urn": "140277",
+  "name": "Friars Academy",
+  "address": "Friars Close",
+  "locality": "",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN8 2LA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "489118",
+  "northing": "267422",
+  "url": "http://www.friarsacademy.org",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

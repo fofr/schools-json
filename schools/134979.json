@@ -1,0 +1,18 @@
+{
+  "urn": "134979",
+  "name": "Orchard Park Community Primary School",
+  "address": "Ringfort Road",
+  "locality": "Orchard Park",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 2GR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544587",
+  "northing": "261599",
+  "url": "www.orchardparkprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

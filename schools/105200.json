@@ -1,0 +1,18 @@
+{
+  "urn": "105200",
+  "name": "Red Lane Primary School",
+  "address": "Red Lane",
+  "locality": "Breightmet",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL2 5HP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "374555",
+  "northing": "410095",
+  "url": "http://www.red-lane.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

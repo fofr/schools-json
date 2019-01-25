@@ -1,0 +1,18 @@
+{
+  "urn": "124542",
+  "name": "West Row Academy",
+  "address": "Beeches Road",
+  "locality": "West Row",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP28 8NY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "567288",
+  "northing": "276116",
+  "url": "http://www.westrow-academy.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104182",
+  "name": "Beacon Infant School",
+  "address": "Davis Road",
+  "locality": "New Invention",
+  "address3": "",
+  "town": "Willenhall",
+  "county": "West Midlands",
+  "postcode": "WV12 5HA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "397581",
+  "northing": "301913",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

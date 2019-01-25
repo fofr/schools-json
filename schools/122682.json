@@ -1,0 +1,18 @@
+{
+  "urn": "122682",
+  "name": "Winthorpe Primary School",
+  "address": "Thoroughfare Lane",
+  "locality": "Winthorpe",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG24 2NN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "481793",
+  "northing": "357091",
+  "url": "http://www.winthorpe.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

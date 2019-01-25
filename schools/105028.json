@@ -1,0 +1,18 @@
+{
+  "urn": "105028",
+  "name": "Brookdale Primary School",
+  "address": "Escolme Drive",
+  "locality": "Greasby",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH49 1SE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "326094",
+  "northing": "387406",
+  "url": "www.brookdale.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

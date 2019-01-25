@@ -1,0 +1,18 @@
+{
+  "urn": "126277",
+  "name": "Northview Primary School",
+  "address": "The Dormers",
+  "locality": "Highworth",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN6 7PQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "420493",
+  "northing": "193148",
+  "url": "www.northview-pri.swindon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

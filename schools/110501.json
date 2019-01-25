@@ -1,0 +1,18 @@
+{
+  "urn": "110501",
+  "name": "Burnham Upper School",
+  "address": "Opendale Road",
+  "locality": "Burnham",
+  "address3": "",
+  "town": "Slough",
+  "county": "Buckinghamshire",
+  "postcode": "SL1 7LZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "492934",
+  "northing": "181925",
+  "url": "www.burnhamupper.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

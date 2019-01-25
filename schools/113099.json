@@ -1,0 +1,18 @@
+{
+  "urn": "113099",
+  "name": "Littletown Primary School",
+  "address": "Honiton Bottom Road",
+  "locality": "",
+  "address3": "",
+  "town": "Honiton",
+  "county": "Devon",
+  "postcode": "EX14 2EG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "316177",
+  "northing": "99812",
+  "url": "http://www.devon.gov.uk/eal/schools/littletown/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

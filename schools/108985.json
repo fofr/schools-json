@@ -1,0 +1,18 @@
+{
+  "urn": "108985",
+  "name": "Burnbush Primary School",
+  "address": "Whittock Road",
+  "locality": "Stockwood",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS14 8DQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "361717",
+  "northing": "168422",
+  "url": "www.burnbush.bristol.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

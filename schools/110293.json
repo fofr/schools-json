@@ -1,0 +1,18 @@
+{
+  "urn": "110293",
+  "name": "The John Hampden School",
+  "address": "Wharf Road",
+  "locality": "Wendover",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP22 6HF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "486968",
+  "northing": "208392",
+  "url": "www.johnhampdenwendover.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

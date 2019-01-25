@@ -1,0 +1,18 @@
+{
+  "urn": "144864",
+  "name": "Headley Park Primary School",
+  "address": "Headley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS13 7QB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "357689",
+  "northing": "168959",
+  "url": "www.headleypark.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

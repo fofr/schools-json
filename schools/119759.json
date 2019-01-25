@@ -1,0 +1,18 @@
+{
+  "urn": "119759",
+  "name": "Broughton High School",
+  "address": "Woodplumpton Lane",
+  "locality": "Broughton",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR3 5JJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "352237",
+  "northing": "434818",
+  "url": "http://www.broughtonhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "134222",
+  "name": "City of London Academy (Southwark)",
+  "address": "240 Lynton Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE1 5LA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "534379",
+  "northing": "178443",
+  "url": "http://www.cityacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

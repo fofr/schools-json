@@ -1,0 +1,18 @@
+{
+  "urn": "105914",
+  "name": "Hilton Lane Primary School",
+  "address": "Madam's Wood Road",
+  "locality": "Little Hulton",
+  "address3": "Worsley",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M28 0JY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "372415",
+  "northing": "403200",
+  "url": "www.hiltonlaneprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

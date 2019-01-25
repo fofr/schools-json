@@ -1,0 +1,18 @@
+{
+  "urn": "137968",
+  "name": "Redmoor Academy",
+  "address": "Wykin Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 0EP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "441739",
+  "northing": "295055",
+  "url": "http://www.redmooracademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

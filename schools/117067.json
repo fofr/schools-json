@@ -1,0 +1,18 @@
+{
+  "urn": "117067",
+  "name": "Greenfield Nursery School",
+  "address": "Hurst Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Waltham Cross",
+  "county": "Hertfordshire",
+  "postcode": "EN8 8DH",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "535629",
+  "northing": "200175",
+  "url": "www.greenfieldnursery.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

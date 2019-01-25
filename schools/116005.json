@@ -1,0 +1,18 @@
+{
+  "urn": "116005",
+  "name": "Castle Hill Primary School",
+  "address": "Winklebury Way",
+  "locality": "",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG23 8BN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "461025",
+  "northing": "152475",
+  "url": "www.castlehillprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

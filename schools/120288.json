@@ -1,0 +1,18 @@
+{
+  "urn": "120288",
+  "name": "Riverside Business and Enterprise College",
+  "address": "Lyncote Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 2EL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "456777",
+  "northing": "301845",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100236",
+  "name": "Randal Cremer Primary School",
+  "address": "Ormsby Street",
+  "locality": "Shoreditch",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 8JG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533638",
+  "northing": "183358",
+  "url": "www.randalcremer.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

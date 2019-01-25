@@ -1,0 +1,18 @@
+{
+  "urn": "145764",
+  "name": "Combe Martin Primary School",
+  "address": "Hangman Path",
+  "locality": "Combe Martin",
+  "address3": "",
+  "town": "Ilfracombe",
+  "county": "Devon",
+  "postcode": "EX34 0DF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "257913",
+  "northing": "147207",
+  "url": "www.combemartin-sch.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

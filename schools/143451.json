@@ -1,0 +1,18 @@
+{
+  "urn": "143451",
+  "name": "Woodfield Primary School",
+  "address": "Gurney Road",
+  "locality": "Balby",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN4 8LA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456548",
+  "northing": "400799",
+  "url": "www.woodfieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

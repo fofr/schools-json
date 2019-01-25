@@ -1,0 +1,18 @@
+{
+  "urn": "140916",
+  "name": "Freeland Church of England Primary School",
+  "address": "Parklands",
+  "locality": "Freeland",
+  "address3": "Freeland Primary School",
+  "town": "Witney",
+  "county": "Oxfordshire",
+  "postcode": "OX29 8HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "441026",
+  "northing": "213247",
+  "url": "www.freeland.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

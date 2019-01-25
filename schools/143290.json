@@ -1,0 +1,18 @@
+{
+  "urn": "143290",
+  "name": "East Whitby Primary Academy",
+  "address": "Stainsacre Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Whitby",
+  "county": "North Yorkshire",
+  "postcode": "YO22 4HU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "490606",
+  "northing": "509724",
+  "url": "www.eastwhitbyschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139992",
+  "name": "Wingfield Academy",
+  "address": "Wingfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S61 4AU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "441080",
+  "northing": "394853",
+  "url": "http://www.wingfield.rotherham.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

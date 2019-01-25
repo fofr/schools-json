@@ -1,0 +1,18 @@
+{
+  "urn": "136895",
+  "name": "The Oldershaw Academy",
+  "address": "Valkyrie Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wallasey",
+  "county": "Merseyside",
+  "postcode": "CH45 4RJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "330307",
+  "northing": "392270",
+  "url": "http://www.oldershaw.wirral.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137901",
+  "name": "Stradbroke High School",
+  "address": "Wilby Road",
+  "locality": "Stradbroke",
+  "address3": "",
+  "town": "Eye",
+  "county": "Suffolk",
+  "postcode": "IP21 5JN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "623198",
+  "northing": "273590",
+  "url": "http://www.stradbrokehigh.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142930",
+  "name": "FUEL",
+  "address": "Unit 7 Ellesmere Business Park",
+  "locality": "Haydn Road",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 1DX",
+  "minimum_age": "13",
+  "maximum_age": "16",
+  "easting": "456460",
+  "northing": "342690",
+  "url": "www.fueleducation.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

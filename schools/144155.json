@@ -1,0 +1,18 @@
+{
+  "urn": "144155",
+  "name": "Barton Church of England Primary School",
+  "address": "Silver Street",
+  "locality": "Barton",
+  "address3": "Silver Street",
+  "town": "Richmond",
+  "county": "North Yorkshire",
+  "postcode": "DL10 6LJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "423188",
+  "northing": "508877",
+  "url": "http://www.barton.dalesmat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

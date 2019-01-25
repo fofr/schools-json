@@ -1,0 +1,18 @@
+{
+  "urn": "107904",
+  "name": "Gledhow Primary School",
+  "address": "Lidgett Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS8 1PL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431621",
+  "northing": "437428",
+  "url": "www.gledhow.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

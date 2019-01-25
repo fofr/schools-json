@@ -1,0 +1,18 @@
+{
+  "urn": "110044",
+  "name": "Highdown School and Sixth Form Centre",
+  "address": "Surley Row",
+  "locality": "Emmer Green",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG4 8LR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "471232",
+  "northing": "176358",
+  "url": "http://www.highdown.reading.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

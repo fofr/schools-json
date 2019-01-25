@@ -1,0 +1,18 @@
+{
+  "urn": "143326",
+  "name": "Ellesmere Primary School",
+  "address": "Elson Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ellesmere",
+  "county": "Shropshire",
+  "postcode": "SY12 9EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "339443",
+  "northing": "334913",
+  "url": "www.ellesmereprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

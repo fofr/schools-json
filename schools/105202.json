@@ -1,0 +1,18 @@
+{
+  "urn": "105202",
+  "name": "Eatock Primary School",
+  "address": "St George's Avenue",
+  "locality": "Daisy Hill",
+  "address3": "Westhoughton",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL5 2ER",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "365179",
+  "northing": "404908",
+  "url": "http://www.eatock.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

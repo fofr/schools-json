@@ -1,0 +1,18 @@
+{
+  "urn": "135174",
+  "name": "The Belvedere Academy",
+  "address": "17 Belvidere Road",
+  "locality": "Princes Park",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L8 3TF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "336447",
+  "northing": "387971",
+  "url": "www.belvedereacademy.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

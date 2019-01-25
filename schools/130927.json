@@ -1,0 +1,18 @@
+{
+  "urn": "130927",
+  "name": "Dovelands Primary School",
+  "address": "Hinckley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 0TJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456593",
+  "northing": "304234",
+  "url": "www.dovelands.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

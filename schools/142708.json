@@ -1,0 +1,18 @@
+{
+  "urn": "142708",
+  "name": "Hartley Primary School",
+  "address": "Hartley Avenue",
+  "locality": "East Ham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 1NT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "542283",
+  "northing": "183629",
+  "url": "http://www.hartley.newham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

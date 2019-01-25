@@ -1,0 +1,18 @@
+{
+  "urn": "101606",
+  "name": "Castlecombe Primary School",
+  "address": "Castlecombe Road",
+  "locality": "Mottingham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 4AT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "542250",
+  "northing": "171446",
+  "url": "www.castlecombe.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

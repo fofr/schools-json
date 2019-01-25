@@ -1,0 +1,18 @@
+{
+  "urn": "138184",
+  "name": "Wyvern College",
+  "address": "Botley Road",
+  "locality": "Fair Oak",
+  "address3": "",
+  "town": "Eastleigh",
+  "county": "Hampshire",
+  "postcode": "SO50 7AN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "449422",
+  "northing": "118187",
+  "url": "http://www.wyvern.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

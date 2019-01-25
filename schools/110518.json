@@ -1,0 +1,18 @@
+{
+  "urn": "110518",
+  "name": "Brookmead School",
+  "address": "High Street",
+  "locality": "Ivinghoe",
+  "address3": "",
+  "town": "Leighton Buzzard",
+  "county": "Bedfordshire",
+  "postcode": "LU7 9EX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "494179",
+  "northing": "216133",
+  "url": "www.brookmead.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

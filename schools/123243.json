@@ -1,0 +1,18 @@
+{
+  "urn": "123243",
+  "name": "Wheatley Park School",
+  "address": "Holton",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX33 1QH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "459678",
+  "northing": "206538",
+  "url": "http://www.wheatley-park.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

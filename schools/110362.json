@@ -1,0 +1,18 @@
+{
+  "urn": "110362",
+  "name": "Cornhill First School",
+  "address": "Jonathans",
+  "locality": "Coffee Hall",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK6 5DT",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "486180",
+  "northing": "236773",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

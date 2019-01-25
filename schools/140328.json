@@ -1,0 +1,18 @@
+{
+  "urn": "140328",
+  "name": "Falmouth Primary Academy",
+  "address": "Tregothan Road",
+  "locality": "",
+  "address3": "",
+  "town": "Falmouth",
+  "county": "Cornwall",
+  "postcode": "TR11 2DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "180114",
+  "northing": "33092",
+  "url": "www.falmouthprimary.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

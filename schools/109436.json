@@ -1,0 +1,18 @@
+{
+  "urn": "109436",
+  "name": "Priory Primary School",
+  "address": "Greyfriars",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK40 1JD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "504470",
+  "northing": "249933",
+  "url": "www.prioryprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

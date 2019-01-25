@@ -1,0 +1,18 @@
+{
+  "urn": "136579",
+  "name": "The Appleton School",
+  "address": "Croft Road",
+  "locality": "",
+  "address3": "",
+  "town": "Benfleet",
+  "county": "Essex",
+  "postcode": "SS7 5RN",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "577050",
+  "northing": "188041",
+  "url": "http://www.theappletonschool.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

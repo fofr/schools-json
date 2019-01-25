@@ -1,0 +1,18 @@
+{
+  "urn": "140650",
+  "name": "Esher Church of England High School",
+  "address": "More Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Esher",
+  "county": "Surrey",
+  "postcode": "KT10 8AP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "513471",
+  "northing": "165285",
+  "url": "http://www.esherhigh.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

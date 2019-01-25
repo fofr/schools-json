@@ -1,0 +1,18 @@
+{
+  "urn": "101418",
+  "name": "Peareswood Primary School",
+  "address": "Peareswood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Erith",
+  "county": "Kent",
+  "postcode": "DA8 3PR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "551660",
+  "northing": "176927",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

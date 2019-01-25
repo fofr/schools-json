@@ -1,0 +1,18 @@
+{
+  "urn": "120026",
+  "name": "Shaftesbury Junior School",
+  "address": "Latimer Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 0QE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "457585",
+  "northing": "303844",
+  "url": "http://www.shaftesbury.leicester.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

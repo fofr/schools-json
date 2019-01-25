@@ -1,0 +1,18 @@
+{
+  "urn": "144111",
+  "name": "John Wycliffe Primary School",
+  "address": "Moorbarns Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Lutterworth",
+  "county": "Leicestershire",
+  "postcode": "LE17 4QJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "453931",
+  "northing": "284070",
+  "url": "http://www.johnwycliffe.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135881",
+  "name": "Nottingham Academy",
+  "address": "Greenwood Road",
+  "locality": "",
+  "address3": "Bakersfield",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG3 7EB",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "459915",
+  "northing": "340241",
+  "url": "http://www.nottinghamacademy.org/",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

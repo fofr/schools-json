@@ -1,0 +1,18 @@
+{
+  "urn": "117736",
+  "name": "East Halton Primary School",
+  "address": "College Road",
+  "locality": "East Halton",
+  "address3": "",
+  "town": "Immingham",
+  "county": "Lincolnshire",
+  "postcode": "DN40 3PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "513654",
+  "northing": "419610",
+  "url": "www.easthaltonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124004",
+  "name": "Glebe Primary School",
+  "address": "Park Place",
+  "locality": "Fenton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 3HZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389501",
+  "northing": "344663",
+  "url": "http://www.glebe.stoke.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

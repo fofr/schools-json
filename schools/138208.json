@@ -1,0 +1,18 @@
+{
+  "urn": "138208",
+  "name": "Woodfield Academy",
+  "address": "Studley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B98 7HH",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "405353",
+  "northing": "266530",
+  "url": "http://www.woodfield.worcs.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

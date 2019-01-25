@@ -1,0 +1,18 @@
+{
+  "urn": "140984",
+  "name": "Nottingham University Academy of Science and Technology",
+  "address": "93 Abbey Street",
+  "locality": "Dunkirk",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 2PL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "455147",
+  "northing": "338460",
+  "url": "www.nuast.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

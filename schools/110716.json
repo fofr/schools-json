@@ -1,0 +1,18 @@
+{
+  "urn": "110716",
+  "name": "Middlefield Community Primary School",
+  "address": "Andrew Road",
+  "locality": "Eynesbury",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 2QE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "518671",
+  "northing": "258710",
+  "url": "http://www.middlefield.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125940",
+  "name": "The Gattons Infant School",
+  "address": "Royal George Road",
+  "locality": "",
+  "address3": "",
+  "town": "Burgess Hill",
+  "county": "West Sussex",
+  "postcode": "RH15 9SL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "530270",
+  "northing": "119380",
+  "url": "http://www.thegattons.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

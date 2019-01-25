@@ -1,0 +1,18 @@
+{
+  "urn": "121695",
+  "name": "Sherburn High School",
+  "address": "Garden Lane",
+  "locality": "Sherburn-in-Elmet",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS25 6AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "449027",
+  "northing": "432955",
+  "url": "http://www.sherburnhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

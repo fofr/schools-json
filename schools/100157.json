@@ -1,0 +1,18 @@
+{
+  "urn": "100157",
+  "name": "Windrush Primary School",
+  "address": "2 Bentham Road",
+  "locality": "Thamesmead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE28 8AR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "546939",
+  "northing": "180338",
+  "url": "http://webfronter.com/greenwich/Windrush/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

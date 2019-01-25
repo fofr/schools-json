@@ -1,0 +1,18 @@
+{
+  "urn": "105283",
+  "name": "Hoyle Nursery School",
+  "address": "Chesham Fold Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL9 6HR",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "381926",
+  "northing": "411527",
+  "url": "www.hoylenurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

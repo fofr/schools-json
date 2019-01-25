@@ -1,0 +1,18 @@
+{
+  "urn": "110535",
+  "name": "Great Marlow School",
+  "address": "Bobmore Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Marlow",
+  "county": "Buckinghamshire",
+  "postcode": "SL7 1JE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "485669",
+  "northing": "187545",
+  "url": "www.gms.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

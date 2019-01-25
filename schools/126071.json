@@ -1,0 +1,18 @@
+{
+  "urn": "126071",
+  "name": "Ifield Community College",
+  "address": "Crawley Avenue",
+  "locality": "Ifield",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH11 0DB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "525222",
+  "northing": "137231",
+  "url": "http://www.ifieldcc.w-sussex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

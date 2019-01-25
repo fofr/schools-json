@@ -1,0 +1,18 @@
+{
+  "urn": "117275",
+  "name": "Tower Primary School",
+  "address": "Tower Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ware",
+  "county": "Hertfordshire",
+  "postcode": "SG12 7LP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "536372",
+  "northing": "215059",
+  "url": "www.tower.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

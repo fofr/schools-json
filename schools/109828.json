@@ -1,0 +1,18 @@
+{
+  "urn": "109828",
+  "name": "College Town Primary School",
+  "address": "Branksome Hill Road",
+  "locality": "College Town",
+  "address3": "",
+  "town": "Sandhurst",
+  "county": "Berkshire",
+  "postcode": "GU47 0QF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "485203",
+  "northing": "161575",
+  "url": "http://www.collegetownprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

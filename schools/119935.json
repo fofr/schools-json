@@ -1,0 +1,18 @@
+{
+  "urn": "119935",
+  "name": "Rendell Primary School",
+  "address": "Rendell Street",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 1LL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "453838",
+  "northing": "320296",
+  "url": "http://www.rendellps.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

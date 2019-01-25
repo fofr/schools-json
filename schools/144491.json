@@ -1,0 +1,18 @@
+{
+  "urn": "144491",
+  "name": "Gosberton Academy",
+  "address": "High Street",
+  "locality": "Gosberton",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE11 4NW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "524264",
+  "northing": "331413",
+  "url": "www.gosbertonacademy.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

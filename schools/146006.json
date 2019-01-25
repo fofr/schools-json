@@ -1,0 +1,18 @@
+{
+  "urn": "146006",
+  "name": "Kellington Primary School",
+  "address": "Roall Lane",
+  "locality": "Kellington",
+  "address3": "",
+  "town": "Goole",
+  "county": "North Yorkshire",
+  "postcode": "DN14 0NY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455338",
+  "northing": "424973",
+  "url": "www.kellington.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

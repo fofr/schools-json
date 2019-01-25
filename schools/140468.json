@@ -1,0 +1,18 @@
+{
+  "urn": "140468",
+  "name": "Ladock CofE School",
+  "address": "Ladock",
+  "locality": "",
+  "address3": "Ladock C of E School",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR2 4PL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "189492",
+  "northing": "50977",
+  "url": "www.ladock.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137326",
+  "name": "Discovery New School",
+  "address": "Broadfield House",
+  "locality": "Broadfield House",
+  "address3": "Brighton Road",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH11 9RZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "526391",
+  "northing": "134555",
+  "url": "www.discoverynewschool.org",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

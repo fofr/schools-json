@@ -1,0 +1,18 @@
+{
+  "urn": "131304",
+  "name": "Mayespark Primary School",
+  "address": "Goodmayes Lane",
+  "locality": "Goodmayes",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG3 9PX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "546124",
+  "northing": "186315",
+  "url": "www.mayesparkprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139030",
+  "name": "Southfield Primary School",
+  "address": "Banbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Brackley",
+  "county": "Northamptonshire",
+  "postcode": "NN13 6AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458236",
+  "northing": "236699",
+  "url": "http://www.southfieldprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

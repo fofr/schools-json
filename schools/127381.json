@@ -1,0 +1,18 @@
+{
+  "urn": "127381",
+  "name": "Grove Street Infant School",
+  "address": "Grove Street",
+  "locality": "New Ferry",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH62 5BA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "333506",
+  "northing": "385385",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

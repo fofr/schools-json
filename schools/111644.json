@@ -1,0 +1,18 @@
+{
+  "urn": "111644",
+  "name": "Oxbridge Lane Primary School",
+  "address": "Oxbridge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "Cleveland",
+  "postcode": "TS18 4DA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443638",
+  "northing": "518616",
+  "url": "www.oxbridgelane.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123999",
+  "name": "The Willows Primary School",
+  "address": "Greatbatch Avenue",
+  "locality": "Penkhull",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 7JY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386922",
+  "northing": "345227",
+  "url": "www.willowsprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137629",
+  "name": "Rowena Academy",
+  "address": "Gardens Lane",
+  "locality": "Conisbrough",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN12 3JY",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "450553",
+  "northing": "398873",
+  "url": "www.rowenaacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

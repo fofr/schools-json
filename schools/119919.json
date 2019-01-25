@@ -1,0 +1,18 @@
+{
+  "urn": "119919",
+  "name": "Cosby Primary School",
+  "address": "Portland Street",
+  "locality": "Cosby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE9 1TE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "454711",
+  "northing": "295711",
+  "url": "http://www.cosby.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

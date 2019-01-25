@@ -1,0 +1,18 @@
+{
+  "urn": "144272",
+  "name": "Tyneview Primary School",
+  "address": "Winslow Place",
+  "locality": "Off Titan Road",
+  "address3": "Walker",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE6 3QP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "429418",
+  "northing": "564476",
+  "url": "www.tyneview.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

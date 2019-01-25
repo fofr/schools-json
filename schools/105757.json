@@ -1,0 +1,18 @@
+{
+  "urn": "105757",
+  "name": "Howard Street Nursery School",
+  "address": "Howard Street",
+  "locality": "",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL12 0PP",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "389572",
+  "northing": "413951",
+  "url": "http://www.howardstreet.rochdale.sch.uk/",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

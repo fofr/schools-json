@@ -1,0 +1,18 @@
+{
+  "urn": "103676",
+  "name": "Holbrook Primary School",
+  "address": "Gateside Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 6FR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434239",
+  "northing": "282415",
+  "url": "http://www.holbrookprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

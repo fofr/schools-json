@@ -1,0 +1,18 @@
+{
+  "urn": "110642",
+  "name": "Murrow Primary School",
+  "address": "73 Murrow Bank",
+  "locality": "Murrow",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 4HD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "537399",
+  "northing": "306476",
+  "url": "www.murrowschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

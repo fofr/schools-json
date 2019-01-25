@@ -1,0 +1,18 @@
+{
+  "urn": "123070",
+  "name": "Rush Common School",
+  "address": "Hendred Way",
+  "locality": "",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 2AW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "450574",
+  "northing": "198191",
+  "url": "http://www.rush-common.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

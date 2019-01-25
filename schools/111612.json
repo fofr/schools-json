@@ -1,0 +1,18 @@
+{
+  "urn": "111612",
+  "name": "Throston Primary School",
+  "address": "Flint Walk",
+  "locality": "Throston Grange Estate",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS26 0TJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449163",
+  "northing": "533825",
+  "url": "http://www.throstonschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

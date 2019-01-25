@@ -1,0 +1,18 @@
+{
+  "urn": "138939",
+  "name": "Sundon Lower School",
+  "address": "Streatley Road",
+  "locality": "Upper Sundon",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU3 3PQ",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "504790",
+  "northing": "227857",
+  "url": "www.sundonlower.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

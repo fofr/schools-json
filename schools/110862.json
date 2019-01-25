@@ -1,0 +1,18 @@
+{
+  "urn": "110862",
+  "name": "Linton Village College",
+  "address": "Cambridge Road",
+  "locality": "Linton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB21 4JB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "555719",
+  "northing": "246911",
+  "url": "www.lvc.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

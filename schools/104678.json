@@ -1,0 +1,18 @@
+{
+  "urn": "104678",
+  "name": "St Gregory's Catholic Primary School",
+  "address": "Montreal Road",
+  "locality": "Netherley",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L27 7AG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "344315",
+  "northing": "388368",
+  "url": "http://www.stgregorysliverpool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

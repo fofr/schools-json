@@ -1,0 +1,18 @@
+{
+  "urn": "144924",
+  "name": "Ashcombe Primary School",
+  "address": "Earlham Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Weston-super-Mare",
+  "county": "Somerset",
+  "postcode": "BS23 3JW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "333306",
+  "northing": "161398",
+  "url": "http://www.ashcombeprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

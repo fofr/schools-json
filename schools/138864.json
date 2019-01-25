@@ -1,0 +1,18 @@
+{
+  "urn": "138864",
+  "name": "Montgomery Primary Academy",
+  "address": "White Road",
+  "locality": "Sparkbrook",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B11 1EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409226",
+  "northing": "285072",
+  "url": "www.montgomeryprimaryacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

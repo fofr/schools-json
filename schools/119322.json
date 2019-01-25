@@ -1,0 +1,18 @@
+{
+  "urn": "119322",
+  "name": "Caton Community Primary School",
+  "address": "Broadacre",
+  "locality": "Caton",
+  "address3": "",
+  "town": "Lancaster",
+  "county": "Lancashire",
+  "postcode": "LA2 9NH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "353160",
+  "northing": "464020",
+  "url": "www.catoncps.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

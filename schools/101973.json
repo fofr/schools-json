@@ -1,0 +1,18 @@
+{
+  "urn": "101973",
+  "name": "Newbury Unit",
+  "address": "Bury Street",
+  "locality": "Edmonton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N9 7JR",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "534159",
+  "northing": "194362",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119307",
+  "name": "Abbey Village Primary School",
+  "address": "Bolton Road",
+  "locality": "Abbey Village",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR6 8DD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "364178",
+  "northing": "422504",
+  "url": "www.abbeyvillage.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

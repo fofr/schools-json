@@ -1,0 +1,18 @@
+{
+  "urn": "119950",
+  "name": "Newcroft Primary School",
+  "address": "Trueway Drive",
+  "locality": "Shepshed",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 9DU",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "448321",
+  "northing": "318951",
+  "url": "www.newcroft-primary-school.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

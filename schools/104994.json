@@ -1,0 +1,18 @@
+{
+  "urn": "104994",
+  "name": "Liscard Primary School",
+  "address": "Withens Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Wallasey",
+  "county": "Merseyside",
+  "postcode": "CH45 7NQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "331187",
+  "northing": "392430",
+  "url": "www.liscard.wirral.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

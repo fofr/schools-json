@@ -1,0 +1,18 @@
+{
+  "urn": "120297",
+  "name": "The City of Leicester College",
+  "address": "Downing Drive",
+  "locality": "Evington",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 6LN",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "463626",
+  "northing": "303492",
+  "url": "http://www.cityleicester.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

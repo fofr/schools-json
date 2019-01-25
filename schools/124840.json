@@ -1,0 +1,18 @@
+{
+  "urn": "124840",
+  "name": "Northgate High School",
+  "address": "Sidegate Lane West",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP4 3DL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "618086",
+  "northing": "246281",
+  "url": "http://www.northgate.suffolk.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

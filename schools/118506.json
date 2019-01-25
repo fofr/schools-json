@@ -1,0 +1,18 @@
+{
+  "urn": "118506",
+  "name": "Park Farm Primary School",
+  "address": "Park Farm Road",
+  "locality": "",
+  "address3": "",
+  "town": "Folkestone",
+  "county": "Kent",
+  "postcode": "CT19 5DH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "622435",
+  "northing": "136978",
+  "url": "http://www.parkfarm.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

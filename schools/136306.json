@@ -1,0 +1,18 @@
+{
+  "urn": "136306",
+  "name": "Sir Thomas Rich's School",
+  "address": "Oakleaze",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL2 0LF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "385957",
+  "northing": "219468",
+  "url": "http://strschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

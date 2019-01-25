@@ -1,0 +1,18 @@
+{
+  "urn": "105195",
+  "name": "Claypool Primary School",
+  "address": "Salisbury Road",
+  "locality": "Horwich",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL6 6LN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "365522",
+  "northing": "410099",
+  "url": "http://www.claypool.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107049",
+  "name": "Loxley Primary School",
+  "address": "Rodney Hill",
+  "locality": "Loxley",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S6 6SG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "431068",
+  "northing": "390036",
+  "url": "www.loxleyschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

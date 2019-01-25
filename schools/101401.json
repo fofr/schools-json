@@ -1,0 +1,18 @@
+{
+  "urn": "101401",
+  "name": "Brampton Primary School",
+  "address": "Brampton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bexleyheath",
+  "county": "Kent",
+  "postcode": "DA7 4SL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "547941",
+  "northing": "176369",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

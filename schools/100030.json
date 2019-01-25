@@ -1,0 +1,18 @@
+{
+  "urn": "100030",
+  "name": "Emmanuel Church of England Primary School",
+  "address": "152-158 Mill Lane",
+  "locality": "West Hampstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW6 1TF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525336",
+  "northing": "185264",
+  "url": "http://www.emmanuel.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

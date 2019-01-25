@@ -1,0 +1,18 @@
+{
+  "urn": "105413",
+  "name": "Crowcroft Park Primary School",
+  "address": "Northmoor Road",
+  "locality": "Longsight",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M12 5SY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387440",
+  "northing": "395012",
+  "url": "www.crowcroftpark.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

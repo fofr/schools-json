@@ -1,0 +1,18 @@
+{
+  "urn": "142902",
+  "name": "Greater Peterborough UTC",
+  "address": "Park Crescent Campus",
+  "locality": "Park Crescent",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "",
+  "postcode": "PE1 4DZ",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "519839",
+  "northing": "300206",
+  "url": "www.gputc.com",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

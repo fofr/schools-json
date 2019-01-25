@@ -1,0 +1,18 @@
+{
+  "urn": "127167",
+  "name": "West Park College",
+  "address": "Holly Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Smethwick",
+  "county": "West Midlands",
+  "postcode": "B67 7JF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "401065",
+  "northing": "289040",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

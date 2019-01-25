@@ -1,0 +1,18 @@
+{
+  "urn": "112611",
+  "name": "Ripley Junior School",
+  "address": "Poplar Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Ripley",
+  "county": "Derbyshire",
+  "postcode": "DE5 3PN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "439605",
+  "northing": "349851",
+  "url": "http://www.ripley-jun.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

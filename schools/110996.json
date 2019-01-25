@@ -1,0 +1,18 @@
+{
+  "urn": "110996",
+  "name": "Stockton Heath Primary School",
+  "address": "West Avenue",
+  "locality": "Stockton Heath",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 6HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "361070",
+  "northing": "386060",
+  "url": "www.stocktonheathprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

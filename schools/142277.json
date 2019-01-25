@@ -1,0 +1,18 @@
+{
+  "urn": "142277",
+  "name": "Newcastle Academy",
+  "address": "Gallowstree Lane",
+  "locality": "The Westlands",
+  "address3": "",
+  "town": "Newcastle Under Lyme",
+  "county": "Staffordshire",
+  "postcode": "ST5 2QS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "383564",
+  "northing": "345157",
+  "url": "http://www.newcastleacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

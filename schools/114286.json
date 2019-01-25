@@ -1,0 +1,18 @@
+{
+  "urn": "114286",
+  "name": "Seaham High School",
+  "address": "Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Seaham",
+  "county": "County Durham",
+  "postcode": "SR7 0BH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "440914",
+  "northing": "549664",
+  "url": "http://www.seahamhighschool.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

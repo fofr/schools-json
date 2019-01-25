@@ -1,0 +1,18 @@
+{
+  "urn": "143537",
+  "name": "Hurst Hill Primary School",
+  "address": "Paul Street",
+  "locality": "Hurst Hill",
+  "address3": "Coseley",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 9AJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "393341",
+  "northing": "293987",
+  "url": "http://www.hursthillprimaryschool.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

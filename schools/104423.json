@@ -1,0 +1,18 @@
+{
+  "urn": "104423",
+  "name": "Knowsley Village School",
+  "address": "Sugar Lane",
+  "locality": "Knowsley",
+  "address3": "",
+  "town": "Prescot",
+  "county": "Merseyside",
+  "postcode": "L34 0ER",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "343368",
+  "northing": "395035",
+  "url": "www.knowsleyvillageschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

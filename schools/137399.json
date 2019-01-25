@@ -1,0 +1,18 @@
+{
+  "urn": "137399",
+  "name": "Castle Hall Academy",
+  "address": "Richard Thorpe Avenue",
+  "locality": "Crowlees Road",
+  "address3": "",
+  "town": "Mirfield",
+  "county": "West Yorkshire",
+  "postcode": "WF14 9PH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "420660",
+  "northing": "420444",
+  "url": "http://www.castlehall.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

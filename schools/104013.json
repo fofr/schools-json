@@ -1,0 +1,18 @@
+{
+  "urn": "104013",
+  "name": "Shireland Language College",
+  "address": "Waterloo Road",
+  "locality": "",
+  "address3": "",
+  "town": "Smethwick",
+  "county": "West Midlands",
+  "postcode": "B66 4ND",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "402490",
+  "northing": "287367",
+  "url": "http://www.shirelandlc.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

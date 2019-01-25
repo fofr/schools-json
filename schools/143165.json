@@ -1,0 +1,18 @@
+{
+  "urn": "143165",
+  "name": "Bugle School",
+  "address": "Fore Street",
+  "locality": "Bugle",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL26 8PD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "201632",
+  "northing": "58990",
+  "url": "www.bugleschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

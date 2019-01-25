@@ -1,0 +1,18 @@
+{
+  "urn": "122214",
+  "name": "Seahouses Primary School",
+  "address": "James Street",
+  "locality": "",
+  "address3": "",
+  "town": "Seahouses",
+  "county": "Northumberland",
+  "postcode": "NE68 7YF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421562",
+  "northing": "631560",
+  "url": "www.seahousesfirst.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

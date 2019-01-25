@@ -1,0 +1,18 @@
+{
+  "urn": "107441",
+  "name": "Oakbank School",
+  "address": "Oakworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD22 7DU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "404911",
+  "northing": "439811",
+  "url": "http://www.oakbank.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

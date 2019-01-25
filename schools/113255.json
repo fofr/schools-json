@@ -1,0 +1,18 @@
+{
+  "urn": "113255",
+  "name": "Manor Primary School, Ivybridge",
+  "address": "Manor Way",
+  "locality": "",
+  "address3": "",
+  "town": "Ivybridge",
+  "county": "Devon",
+  "postcode": "PL21 9BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "263196",
+  "northing": "56111",
+  "url": "http://www.manor.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

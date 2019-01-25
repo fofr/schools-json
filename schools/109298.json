@@ -1,0 +1,18 @@
+{
+  "urn": "109298",
+  "name": "The Ridings High School",
+  "address": "High Street",
+  "locality": "Winterbourne",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS36 1JL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "364920",
+  "northing": "180747",
+  "url": "http://www.ridingshigh.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110375",
+  "name": "Germander Park School",
+  "address": "1 Germander Place",
+  "locality": "Conniburrow",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 7DU",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "484944",
+  "northing": "239647",
+  "url": "http://www.germanderpark.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

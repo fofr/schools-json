@@ -1,0 +1,18 @@
+{
+  "urn": "114943",
+  "name": "Broadfields Primary School",
+  "address": "Freshwaters",
+  "locality": "",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM20 3QA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "545361",
+  "northing": "210295",
+  "url": "http://www.broadfields.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

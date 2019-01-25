@@ -1,0 +1,18 @@
+{
+  "urn": "101775",
+  "name": "Broadmead Nursery and Infant School",
+  "address": "366 Sydenham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 2EA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "532926",
+  "northing": "166996",
+  "url": "http://www.broadmead-inf.croydon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142346",
+  "name": "Culverstone Green Primary School",
+  "address": "Wrotham Road",
+  "locality": "Meopham",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA13 0RF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "563542",
+  "northing": "163114",
+  "url": "http://www.cgps.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

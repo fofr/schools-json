@@ -1,0 +1,18 @@
+{
+  "urn": "112736",
+  "name": "Brackensdale Primary School",
+  "address": "Walthamstow Drive",
+  "locality": "Mackworth Estate",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE22 4BS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432807",
+  "northing": "336609",
+  "url": "www.bps.derby.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117153",
+  "name": "Therfield First School",
+  "address": "The Causeway",
+  "locality": "Therfield",
+  "address3": "",
+  "town": "Royston",
+  "county": "Hertfordshire",
+  "postcode": "SG8 9PP",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "533592",
+  "northing": "237297",
+  "url": "http://www.therfield.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

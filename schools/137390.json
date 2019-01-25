@@ -1,0 +1,18 @@
+{
+  "urn": "137390",
+  "name": "Pegasus Academy",
+  "address": "Scotts Green Close",
+  "locality": "",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY1 2DU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "392995",
+  "northing": "289637",
+  "url": "http://www.pegasusacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

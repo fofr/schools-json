@@ -1,0 +1,18 @@
+{
+  "urn": "137491",
+  "name": "Sandbach School",
+  "address": "Crewe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 3NS",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "375296",
+  "northing": "360699",
+  "url": "http://sandbachschool.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

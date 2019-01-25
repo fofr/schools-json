@@ -1,0 +1,18 @@
+{
+  "urn": "120682",
+  "name": "The Old Leake Primary and Nursery School",
+  "address": "Old Main Road",
+  "locality": "Old Leake",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE22 9HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540967",
+  "northing": "350237",
+  "url": "www.oldleakeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

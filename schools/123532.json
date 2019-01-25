@@ -1,0 +1,18 @@
+{
+  "urn": "123532",
+  "name": "Brown Clee CofE Primary School",
+  "address": "Station Road",
+  "locality": "Ditton Priors",
+  "address3": "",
+  "town": "Bridgnorth",
+  "county": "Shropshire",
+  "postcode": "WV16 6SS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "361005",
+  "northing": "289310",
+  "url": "http://www.browncleeschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109110",
+  "name": "Hannah More Primary School",
+  "address": "New Kingsley Road",
+  "locality": "St Philips",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS2 0LT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "359847",
+  "northing": "172914",
+  "url": "www.hannahmore.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135491",
+  "name": "Pupil Support Centre",
+  "address": "Netherby Road",
+  "locality": "Beech Hill",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Greater Manchester",
+  "postcode": "WN6 7PT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "357024",
+  "northing": "407140",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

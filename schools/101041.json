@@ -1,0 +1,18 @@
+{
+  "urn": "101041",
+  "name": "St Anne's CofE Primary School",
+  "address": "208 St Ann's Hill",
+  "locality": "Wandsworth",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW18 2RU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525950",
+  "northing": "174606",
+  "url": "www.st-annes.wandsworth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

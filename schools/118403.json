@@ -1,0 +1,18 @@
+{
+  "urn": "118403",
+  "name": "Wingham Primary School",
+  "address": "School Lane",
+  "locality": "Wingham",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT3 1BD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "624160",
+  "northing": "157221",
+  "url": "www.winghamprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120091",
+  "name": "Highcliffe Primary School and Community Centre",
+  "address": "Greengate Lane",
+  "locality": "Birstall",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 3DL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "458731",
+  "northing": "309483",
+  "url": "www.highcliffe.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

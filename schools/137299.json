@@ -1,0 +1,18 @@
+{
+  "urn": "137299",
+  "name": "Richard Challoner School",
+  "address": "Manor Drive North",
+  "locality": "",
+  "address3": "",
+  "town": "New Malden",
+  "county": "Surrey",
+  "postcode": "KT3 5PE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "520779",
+  "northing": "166528",
+  "url": "www.richardchalloner.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142177",
+  "name": "Avenue Primary Academy",
+  "address": "Avenue Road",
+  "locality": "Belmont",
+  "address3": "",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM2 6JE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525167",
+  "northing": "162352",
+  "url": "www.avenue.sutton.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122513",
+  "name": "Ernehale Infant School",
+  "address": "Derwent Crescent",
+  "locality": "Gedling Road",
+  "address3": "Arnold",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 6TA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "459260",
+  "northing": "344648",
+  "url": "www.ernehaleinfant.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

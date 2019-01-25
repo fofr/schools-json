@@ -1,0 +1,18 @@
+{
+  "urn": "125838",
+  "name": "Barns Green Primary School",
+  "address": "The Hordens",
+  "locality": "",
+  "address3": "Barns Green",
+  "town": "Horsham",
+  "county": "West Sussex",
+  "postcode": "RH13 0PJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "512789",
+  "northing": "127056",
+  "url": "http://www.barnsgreen.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

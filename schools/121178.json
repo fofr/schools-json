@@ -1,0 +1,18 @@
+{
+  "urn": "121178",
+  "name": "Springwood High School",
+  "address": "Queensway",
+  "locality": "Gaywood",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE30 4AW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "564245",
+  "northing": "320925",
+  "url": "http://www.springwood.norfolk.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

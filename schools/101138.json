@@ -1,0 +1,18 @@
+{
+  "urn": "101138",
+  "name": "St Matthew's School, Westminster",
+  "address": "18 Old Pye Street",
+  "locality": "Westminster",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW1P 2DG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529827",
+  "northing": "179261",
+  "url": "www.stmwschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

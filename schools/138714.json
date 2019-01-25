@@ -1,0 +1,18 @@
+{
+  "urn": "138714",
+  "name": "The Vale Academy",
+  "address": "Wilbury Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 4QP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "503124",
+  "northing": "222874",
+  "url": "http://vale.thesharedlearningtrust.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

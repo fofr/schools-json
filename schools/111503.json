@@ -1,0 +1,18 @@
+{
+  "urn": "111503",
+  "name": "Greenbank School",
+  "address": "Greenbank Lane",
+  "locality": "Hartford",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 1LD",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "364945",
+  "northing": "372477",
+  "url": "http://www.greenbankschool.org/",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

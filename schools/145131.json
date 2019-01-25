@@ -1,0 +1,18 @@
+{
+  "urn": "145131",
+  "name": "Castle Hill Academy",
+  "address": "Dunley Drive",
+  "locality": "New Addington",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 0RJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538083",
+  "northing": "163637",
+  "url": "http://www.castlehillacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

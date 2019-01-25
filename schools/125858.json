@@ -1,0 +1,18 @@
+{
+  "urn": "125858",
+  "name": "Westbourne Primary School",
+  "address": "River Street",
+  "locality": "Westbourne",
+  "address3": "",
+  "town": "Emsworth",
+  "county": "Hampshire",
+  "postcode": "PO10 8TG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "475886",
+  "northing": "107943",
+  "url": "www.westbourneprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

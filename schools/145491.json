@@ -1,0 +1,18 @@
+{
+  "urn": "145491",
+  "name": "Langley Mill Academy",
+  "address": "Bailey Brook Crescent",
+  "locality": "Langley Mill",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 4FZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "444049",
+  "northing": "347603",
+  "url": "www.langleymillacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

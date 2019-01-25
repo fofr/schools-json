@@ -1,0 +1,18 @@
+{
+  "urn": "133114",
+  "name": "The Gateway Academy",
+  "address": "Marshfoot Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grays",
+  "county": "Essex",
+  "postcode": "RM16 4LU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "564236",
+  "northing": "176845",
+  "url": "http://www.theglc-gatewayacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

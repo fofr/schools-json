@@ -1,0 +1,18 @@
+{
+  "urn": "115904",
+  "name": "Fairfield Infant School",
+  "address": "Fairfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Havant",
+  "county": "Hampshire",
+  "postcode": "PO9 1AY",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "472007",
+  "northing": "106447",
+  "url": "http://www.fairfield.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

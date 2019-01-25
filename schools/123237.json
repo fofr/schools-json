@@ -1,0 +1,18 @@
+{
+  "urn": "123237",
+  "name": "The Henry Box School",
+  "address": "Church Green",
+  "locality": "",
+  "address3": "",
+  "town": "Witney",
+  "county": "Oxfordshire",
+  "postcode": "OX28 4AX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "435459",
+  "northing": "209293",
+  "url": "http://www.henrybox.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106676",
+  "name": "Arksey Primary School",
+  "address": "Ings Way",
+  "locality": "Arksey",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN5 0TE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "457935",
+  "northing": "406580",
+  "url": "www.arkseyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

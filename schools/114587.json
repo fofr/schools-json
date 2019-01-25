@@ -1,0 +1,18 @@
+{
+  "urn": "114587",
+  "name": "Heathfield Community College",
+  "address": "Cade Street",
+  "locality": "",
+  "address3": "",
+  "town": "Heathfield",
+  "county": "East Sussex",
+  "postcode": "TN21 8RJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "560060",
+  "northing": "121082",
+  "url": "http://www.heathfieldcc.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

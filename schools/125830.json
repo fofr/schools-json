@@ -1,0 +1,18 @@
+{
+  "urn": "125830",
+  "name": "Funtington Primary School",
+  "address": "Heather Close",
+  "locality": "West Ashling",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO18 8DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "480897",
+  "northing": "107287",
+  "url": "http://www.funtington.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

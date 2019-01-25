@@ -1,0 +1,18 @@
+{
+  "urn": "103059",
+  "name": "Handsworth Primary School",
+  "address": "Handsworth Avenue",
+  "locality": "Highams Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E4 9PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538751",
+  "northing": "191778",
+  "url": "www.handsworthprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

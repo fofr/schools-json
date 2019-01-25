@@ -1,0 +1,18 @@
+{
+  "urn": "100252",
+  "name": "Grasmere Primary School",
+  "address": "92 Albion Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N16 9PD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532960",
+  "northing": "185754",
+  "url": "www.grasmere.hackney.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

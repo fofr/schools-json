@@ -1,0 +1,18 @@
+{
+  "urn": "115549",
+  "name": "Berry Hill Primary School",
+  "address": "Nine Wells Road",
+  "locality": "Berry Hill",
+  "address3": "",
+  "town": "Coleford",
+  "county": "Gloucestershire",
+  "postcode": "GL16 7AT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "357854",
+  "northing": "212806",
+  "url": "http://www.berryhill.gloucs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

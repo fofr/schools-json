@@ -1,0 +1,18 @@
+{
+  "urn": "139448",
+  "name": "St Louis Catholic Academy",
+  "address": "Fordham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newmarket",
+  "county": "Suffolk",
+  "postcode": "CB8 7AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "564447",
+  "northing": "263948",
+  "url": "http://www.stlouisacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

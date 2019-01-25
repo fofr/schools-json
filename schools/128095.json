@@ -1,0 +1,18 @@
+{
+  "urn": "128095",
+  "name": "Kelvin Grove Infant School",
+  "address": "Kelvin Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Gateshead",
+  "county": "Tyne and Wear",
+  "postcode": "NE8 4UN",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "425060",
+  "northing": "561609",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109832",
+  "name": "Waltham St Lawrence Primary School",
+  "address": "School Road",
+  "locality": "West End",
+  "address3": "Waltham St Lawrence",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG10 0NU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "482623",
+  "northing": "175371",
+  "url": "www.wslprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

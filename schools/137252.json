@@ -1,0 +1,18 @@
+{
+  "urn": "137252",
+  "name": "William Howard School",
+  "address": "Longtown Road",
+  "locality": "",
+  "address3": "",
+  "town": "Brampton",
+  "county": "Cumbria",
+  "postcode": "CA8 1AR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "352532",
+  "northing": "561293",
+  "url": "http://www.williamhoward.cumbria.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

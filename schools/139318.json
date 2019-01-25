@@ -1,0 +1,18 @@
+{
+  "urn": "139318",
+  "name": "Conyers School",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Yarm",
+  "county": "Cleveland",
+  "postcode": "TS15 9ET",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "442187",
+  "northing": "511367",
+  "url": "www.conyers.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

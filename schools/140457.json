@@ -1,0 +1,18 @@
+{
+  "urn": "140457",
+  "name": "Adelaide School",
+  "address": "Adelaide Street",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 3DT",
+  "minimum_age": "9",
+  "maximum_age": "18",
+  "easting": "370053",
+  "northing": "356123",
+  "url": "http://www.adelaideschool.net",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

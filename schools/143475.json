@@ -1,0 +1,18 @@
+{
+  "urn": "143475",
+  "name": "Woodfield Primary School",
+  "address": "Taunton Avenue",
+  "locality": "Whitleigh",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL5 4HW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "247326",
+  "northing": "60070",
+  "url": "www.woodfieldpri.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

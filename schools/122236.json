@@ -1,0 +1,18 @@
+{
+  "urn": "122236",
+  "name": "Wooler First School",
+  "address": "Brewery Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wooler",
+  "county": "Northumberland",
+  "postcode": "NE71 6QF",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "399807",
+  "northing": "627900",
+  "url": "www.wooler.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

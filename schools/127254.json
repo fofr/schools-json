@@ -1,0 +1,18 @@
+{
+  "urn": "127254",
+  "name": "Arnot County Infant School",
+  "address": "Arnot Street",
+  "locality": "Walton-on-the-Hill",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L4 4ED",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "335761",
+  "northing": "394382",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

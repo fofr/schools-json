@@ -1,0 +1,18 @@
+{
+  "urn": "143011",
+  "name": "Gorsey Bank Primary School",
+  "address": "Altrincham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wilmslow",
+  "county": "Cheshire",
+  "postcode": "SK9 5NQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "383595",
+  "northing": "381291",
+  "url": "gorseybank.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

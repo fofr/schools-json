@@ -1,0 +1,18 @@
+{
+  "urn": "124009",
+  "name": "Meir Primary School",
+  "address": "Colclough Road",
+  "locality": "Meir",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 6DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393575",
+  "northing": "342263",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

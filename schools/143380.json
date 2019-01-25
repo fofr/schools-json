@@ -1,0 +1,18 @@
+{
+  "urn": "143380",
+  "name": "Partington Central Academy",
+  "address": "Central Road",
+  "locality": "Partington",
+  "address3": "Urmston",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M31 4FL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "371745",
+  "northing": "391237",
+  "url": "http://partingtoncentralacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

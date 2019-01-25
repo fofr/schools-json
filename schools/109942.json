@@ -1,0 +1,18 @@
+{
+  "urn": "109942",
+  "name": "Meadow Vale Primary School",
+  "address": "Moordale Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bracknell",
+  "county": "Berkshire",
+  "postcode": "RG42 1SY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "485727",
+  "northing": "170029",
+  "url": "http://www.meadowvaleprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

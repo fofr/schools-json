@@ -1,0 +1,18 @@
+{
+  "urn": "135727",
+  "name": "Finlay Community School",
+  "address": "Finlay Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL4 6TR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384311",
+  "northing": "216539",
+  "url": "www.finlayschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

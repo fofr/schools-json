@@ -1,0 +1,18 @@
+{
+  "urn": "111341",
+  "name": "St Bede's Catholic Primary School, Weaverham",
+  "address": "Keepers Lane",
+  "locality": "Weaverham",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 3BY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "362517",
+  "northing": "373298",
+  "url": "http://www.st-bedes.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

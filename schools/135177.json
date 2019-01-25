@@ -1,0 +1,18 @@
+{
+  "urn": "135177",
+  "name": "Lyneham Primary School",
+  "address": "Preston Lane",
+  "locality": "Lyneham",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN15 4QJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "402607",
+  "northing": "178712",
+  "url": "www.lynehamprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

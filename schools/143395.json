@@ -1,0 +1,18 @@
+{
+  "urn": "143395",
+  "name": "Bredon Hill Academy",
+  "address": "Elmley Road",
+  "locality": "Ashton-Under-Hill",
+  "address3": "",
+  "town": "Evesham",
+  "county": "Worcestershire",
+  "postcode": "WR11 7SW",
+  "minimum_age": "10",
+  "maximum_age": "13",
+  "easting": "400032",
+  "northing": "238710",
+  "url": "http://www.bredon.worcs.sch.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

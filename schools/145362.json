@@ -1,0 +1,18 @@
+{
+  "urn": "145362",
+  "name": "Elmhurst Primary School",
+  "address": "Upton Park Road",
+  "locality": "Forest Gate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E7 8JY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540776",
+  "northing": "184298",
+  "url": "www.elmhurstprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

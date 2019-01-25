@@ -1,0 +1,18 @@
+{
+  "urn": "103332",
+  "name": "Chad Vale Primary School",
+  "address": "Nursery Road",
+  "locality": "Edgbaston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B15 3JU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "403803",
+  "northing": "285142",
+  "url": "www.chadvale.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

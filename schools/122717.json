@@ -1,0 +1,18 @@
+{
+  "urn": "122717",
+  "name": "Morven Park Primary and Nursery School",
+  "address": "School Street",
+  "locality": "Kirkby-in-Ashfield",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 7BT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450891",
+  "northing": "356063",
+  "url": "http://www.morvenpark.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

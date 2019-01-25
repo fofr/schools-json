@@ -1,0 +1,18 @@
+{
+  "urn": "134775",
+  "name": "Eden Park Primary School",
+  "address": "Eden Park",
+  "locality": "",
+  "address3": "",
+  "town": "Brixham",
+  "county": "Devon",
+  "postcode": "TQ5 9NH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "292025",
+  "northing": "55229",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

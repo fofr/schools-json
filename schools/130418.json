@@ -1,0 +1,18 @@
+{
+  "urn": "130418",
+  "name": "New City College",
+  "address": "Poplar High Street",
+  "locality": "Poplar",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 0AF",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "537729",
+  "northing": "180726",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

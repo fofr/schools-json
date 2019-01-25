@@ -1,0 +1,18 @@
+{
+  "urn": "141237",
+  "name": "Preston Primary School",
+  "address": "Old Paignton Road",
+  "locality": "Livermead",
+  "address3": "",
+  "town": "Torquay",
+  "county": "Devon",
+  "postcode": "TQ2 6UY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "289641",
+  "northing": "62739",
+  "url": "www.preston.torbay.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

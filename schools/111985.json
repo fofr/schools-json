@@ -1,0 +1,18 @@
+{
+  "urn": "111985",
+  "name": "Porthleven School",
+  "address": "Torleven Road",
+  "locality": "Porthleven",
+  "address3": "",
+  "town": "Helston",
+  "county": "Cornwall",
+  "postcode": "TR13 9BX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "163180",
+  "northing": "26466",
+  "url": "http://www.porthleven.cornwall.sch.uk/website",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

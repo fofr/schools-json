@@ -1,0 +1,18 @@
+{
+  "urn": "135775",
+  "name": "Grange Primary",
+  "address": "Bainbridge Green",
+  "locality": "York Road",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 3QR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "350107",
+  "northing": "315787",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

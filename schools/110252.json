@@ -1,0 +1,18 @@
+{
+  "urn": "110252",
+  "name": "Russell Street School",
+  "address": "Russell Street",
+  "locality": "Stony Stratford",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK11 1BT",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "478880",
+  "northing": "240495",
+  "url": "www.russell-street-school.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137373",
+  "name": "St Dominic's Catholic Primary School",
+  "address": "St Mary's Hill",
+  "locality": "Inchbrook",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL5 5HP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "384064",
+  "northing": "200989",
+  "url": "www.st-dominics.gloucs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

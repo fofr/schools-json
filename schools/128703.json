@@ -1,0 +1,18 @@
+{
+  "urn": "128703",
+  "name": "Southway Infant School",
+  "address": "Bampfylde Way",
+  "locality": "Southway",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 6SR",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "248127",
+  "northing": "60767",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123700",
+  "name": "Bishops Hull Primary School",
+  "address": "Bishops Hull Hill",
+  "locality": "Bishops Hull",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 5EB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "320576",
+  "northing": "124682",
+  "url": "http://www.bishopshull.somerset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

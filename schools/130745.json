@@ -1,0 +1,18 @@
+{
+  "urn": "130745",
+  "name": "Cardinal Newman College",
+  "address": "Lark Hill Road",
+  "locality": "",
+  "address3": "Avenham",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR1 4HD",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "354679",
+  "northing": "429192",
+  "url": "www.cardinalnewman.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

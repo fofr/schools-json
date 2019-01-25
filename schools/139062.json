@@ -1,0 +1,18 @@
+{
+  "urn": "139062",
+  "name": "The Dukeries Academy",
+  "address": "Whinney Lane",
+  "locality": "New Ollerton",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG22 9TD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "466836",
+  "northing": "368454",
+  "url": "http://www.dukeriesacademy.attrust.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

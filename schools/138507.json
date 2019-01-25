@@ -1,0 +1,18 @@
+{
+  "urn": "138507",
+  "name": "The Grove Academy",
+  "address": "Fourth Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD25 9RH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511688",
+  "northing": "199532",
+  "url": "www.thegroveacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

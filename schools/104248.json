@@ -1,0 +1,18 @@
+{
+  "urn": "104248",
+  "name": "Brownhills School",
+  "address": "Deakin Avenue",
+  "locality": "Brownhills",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS8 7QG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "404750",
+  "northing": "306337",
+  "url": "http://www.brownhills.walsall.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

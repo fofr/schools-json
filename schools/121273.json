@@ -1,0 +1,18 @@
+{
+  "urn": "121273",
+  "name": "Carr Infant School",
+  "address": "Ostman Road",
+  "locality": "Acomb",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO26 5QA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "457222",
+  "northing": "452320",
+  "url": "www.carrinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

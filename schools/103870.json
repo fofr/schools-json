@@ -1,0 +1,18 @@
+{
+  "urn": "103870",
+  "name": "Old Swinford Hospital",
+  "address": "Heath Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY8 1QX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "390294",
+  "northing": "283653",
+  "url": "http://www.oshsch.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

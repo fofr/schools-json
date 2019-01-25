@@ -1,0 +1,18 @@
+{
+  "urn": "110361",
+  "name": "Moorland Primary School",
+  "address": "Maslin Drive",
+  "locality": "Beanhill",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK6 4ND",
+  "minimum_age": "2",
+  "maximum_age": "10",
+  "easting": "486813",
+  "northing": "236308",
+  "url": "http://www.moorlandprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

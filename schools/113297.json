@@ -1,0 +1,18 @@
+{
+  "urn": "113297",
+  "name": "Pennycross Primary School",
+  "address": "Arden Grove",
+  "locality": "Pennycross",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL2 3RL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "247172",
+  "northing": "57546",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

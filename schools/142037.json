@@ -1,0 +1,18 @@
+{
+  "urn": "142037",
+  "name": "Nantwich Primary Academy",
+  "address": "Manor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 5LX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "365174",
+  "northing": "352628",
+  "url": "nantwichprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

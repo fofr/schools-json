@@ -1,0 +1,18 @@
+{
+  "urn": "130095",
+  "name": "Wembley Primary School",
+  "address": "East Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Wembley",
+  "county": "",
+  "postcode": "HA9 7NW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518376",
+  "northing": "186130",
+  "url": "www.wembleyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

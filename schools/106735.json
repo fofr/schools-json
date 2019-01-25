@@ -1,0 +1,18 @@
+{
+  "urn": "106735",
+  "name": "Waverley Primary School",
+  "address": "Douglas Road",
+  "locality": "Balby",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN4 0UB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455241",
+  "northing": "400944",
+  "url": "www.waverley.doncaster.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

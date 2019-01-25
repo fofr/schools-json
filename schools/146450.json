@@ -1,0 +1,18 @@
+{
+  "urn": "146450",
+  "name": "Laceyfields Academy",
+  "address": "Laceyfields Road",
+  "locality": "Langley",
+  "address3": "",
+  "town": "Heanor",
+  "county": "Derbyshire",
+  "postcode": "DE75 7HJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "444493",
+  "northing": "346306",
+  "url": "http://www.heanorlangley.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123249",
+  "name": "Milham Ford Girls' School",
+  "address": "Harberton Mead",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 0DF",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "453040",
+  "northing": "207339",
+  "url": "http://www.milhamford.oxon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132186",
+  "name": "Kent Education Health Needs Service",
+  "address": "Woodview",
+  "locality": "40 Teddington Drive",
+  "address3": "Leybourne",
+  "town": "West Malling",
+  "county": "Kent",
+  "postcode": "ME19 5FF",
+  "minimum_age": "5",
+  "maximum_age": "17",
+  "easting": "567660",
+  "northing": "159170",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

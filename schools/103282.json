@@ -1,0 +1,18 @@
+{
+  "urn": "103282",
+  "name": "Yarnfield Primary School",
+  "address": "Yarnfield Road",
+  "locality": "Tyseley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B11 3PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "411211",
+  "northing": "283087",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

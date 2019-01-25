@@ -1,0 +1,18 @@
+{
+  "urn": "117541",
+  "name": "Bridgewater Primary School",
+  "address": "Bridle Way",
+  "locality": "Billet Lane",
+  "address3": "",
+  "town": "Berkhamsted",
+  "county": "Hertfordshire",
+  "postcode": "HP4 1ES",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "498350",
+  "northing": "208951",
+  "url": "http://www.bridgewater.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120379",
+  "name": "Helpringham School",
+  "address": "Highgate",
+  "locality": "Helpringham",
+  "address3": "",
+  "town": "Sleaford",
+  "county": "Lincolnshire",
+  "postcode": "NG34 0RD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "513609",
+  "northing": "340633",
+  "url": "http://www.helpringhamschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

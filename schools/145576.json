@@ -1,0 +1,18 @@
+{
+  "urn": "145576",
+  "name": "St Botolphs CE Academy",
+  "address": "Primrose Vale",
+  "locality": "Wakefield",
+  "address3": "",
+  "town": "Knottingley",
+  "county": "West Yorkshire",
+  "postcode": "WF11 9BT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450264",
+  "northing": "423946",
+  "url": "stbotolphsacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

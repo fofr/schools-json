@@ -1,0 +1,18 @@
+{
+  "urn": "133274",
+  "name": "King Edward Primary School",
+  "address": "St Andrew Street",
+  "locality": "Littleworth",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 2RG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454165",
+  "northing": "360470",
+  "url": "http://www.kingedwardprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

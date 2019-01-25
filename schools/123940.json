@@ -1,0 +1,18 @@
+{
+  "urn": "123940",
+  "name": "Fairmead School",
+  "address": "Mudford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA21 4NZ",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "356280",
+  "northing": "117854",
+  "url": "http://www.fairmeadschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

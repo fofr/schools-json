@@ -1,0 +1,18 @@
+{
+  "urn": "121883",
+  "name": "Silverstone Infant School",
+  "address": "High Street",
+  "locality": "Silverstone",
+  "address3": "",
+  "town": "Towcester",
+  "county": "Northamptonshire",
+  "postcode": "NN12 8US",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "466863",
+  "northing": "243800",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

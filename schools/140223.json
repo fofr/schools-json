@@ -1,0 +1,18 @@
+{
+  "urn": "140223",
+  "name": "Castle Mead School",
+  "address": "Mascroft Road",
+  "locality": "Hilperton",
+  "address3": "",
+  "town": "Trowbridge",
+  "county": "Wiltshire",
+  "postcode": "BA14 6GD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "387508",
+  "northing": "157529",
+  "url": "www.castlemead.wilts.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

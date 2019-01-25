@@ -1,0 +1,18 @@
+{
+  "urn": "123010",
+  "name": "Eynsham Community Primary School",
+  "address": "Beech Road",
+  "locality": "Eynsham",
+  "address3": "",
+  "town": "Witney",
+  "county": "Oxfordshire",
+  "postcode": "OX29 4LJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443622",
+  "northing": "209738",
+  "url": "http://eynsham.oxon.digitalbrain.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

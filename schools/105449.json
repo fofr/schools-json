@@ -1,0 +1,18 @@
+{
+  "urn": "105449",
+  "name": "Ravensbury Community School",
+  "address": "Tartan Street",
+  "locality": "Clayton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M11 4EG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387576",
+  "northing": "398894",
+  "url": "www.ravensbury.manchester.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

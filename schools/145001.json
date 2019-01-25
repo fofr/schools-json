@@ -1,0 +1,18 @@
+{
+  "urn": "145001",
+  "name": "Bretforton Village School",
+  "address": "New Street",
+  "locality": "Bretforton",
+  "address3": "",
+  "town": "Evesham",
+  "county": "Worcestershire",
+  "postcode": "WR11 7JS",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "409329",
+  "northing": "243839",
+  "url": "www.bretfortonvillageschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

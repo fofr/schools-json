@@ -1,0 +1,18 @@
+{
+  "urn": "139506",
+  "name": "Penketh High School",
+  "address": "Heath Road",
+  "locality": "Penketh",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA5 2BY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "357020",
+  "northing": "388117",
+  "url": "http://penkethhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

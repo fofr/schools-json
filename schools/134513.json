@@ -1,0 +1,18 @@
+{
+  "urn": "134513",
+  "name": "Hollybush Primary",
+  "address": "Broad Lane",
+  "locality": "Bramley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 2JJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425332",
+  "northing": "435355",
+  "url": "www.hollybushprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

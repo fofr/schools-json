@@ -1,0 +1,18 @@
+{
+  "urn": "110100",
+  "name": "Denefield School",
+  "address": "Long Lane",
+  "locality": "Tilehurst",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG31 6XY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "465665",
+  "northing": "175151",
+  "url": "http://www.denefield.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

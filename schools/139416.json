@@ -1,0 +1,18 @@
+{
+  "urn": "139416",
+  "name": "The Elstree UTC",
+  "address": "Studio Way",
+  "locality": "Elstree",
+  "address3": "",
+  "town": "Borehamwood",
+  "county": "Hertfordshire",
+  "postcode": "WD6 5NN",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "520350",
+  "northing": "197187",
+  "url": "http://www.elstreeutc.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

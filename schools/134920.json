@@ -1,0 +1,18 @@
+{
+  "urn": "134920",
+  "name": "Dolphins",
+  "address": "Dolphins Ward",
+  "locality": "Royal Berkshire Hospital",
+  "address3": "Craven Road",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG1 5AN",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "472458",
+  "northing": "173005",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

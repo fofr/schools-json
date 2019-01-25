@@ -1,0 +1,18 @@
+{
+  "urn": "135271",
+  "name": "Brooklands Farm Primary School",
+  "address": "152 Fen Street",
+  "locality": "Brooklands",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK10 7EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "489544",
+  "northing": "240044",
+  "url": "www.brooklandsfarm.milton-keynes.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

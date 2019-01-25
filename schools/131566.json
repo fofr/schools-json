@@ -1,0 +1,18 @@
+{
+  "urn": "131566",
+  "name": "Drove Primary School",
+  "address": "Drove Road",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN1 3AH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415922",
+  "northing": "184726",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

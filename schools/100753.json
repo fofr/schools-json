@@ -1,0 +1,18 @@
+{
+  "urn": "100753",
+  "name": "Turnham Primary Foundation School",
+  "address": "Turnham Road",
+  "locality": "Brockley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE4 2HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536124",
+  "northing": "175140",
+  "url": "http://www.turnhamprimaryfoundationschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

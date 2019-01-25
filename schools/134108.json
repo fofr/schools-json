@@ -1,0 +1,18 @@
+{
+  "urn": "134108",
+  "name": "The Surrey Teaching Centre",
+  "address": "Tadworth Street",
+  "locality": "Tadworth Court",
+  "address3": "",
+  "town": "Tadworth",
+  "county": "Surrey",
+  "postcode": "KT20 5RU",
+  "minimum_age": "1",
+  "maximum_age": "19",
+  "easting": "523791",
+  "northing": "156605",
+  "url": "http://www.tadworthcourt.surrey.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

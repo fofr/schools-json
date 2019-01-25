@@ -1,0 +1,18 @@
+{
+  "urn": "139006",
+  "name": "St Helen's Primary Academy",
+  "address": "St Helen's Way",
+  "locality": "Monk Bretton",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "",
+  "postcode": "S71 2PS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "436684",
+  "northing": "408388",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

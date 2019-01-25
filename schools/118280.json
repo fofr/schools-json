@@ -1,0 +1,18 @@
+{
+  "urn": "118280",
+  "name": "Pembury School",
+  "address": "Lower Green Road",
+  "locality": "Pembury",
+  "address3": "",
+  "town": "Tunbridge Wells",
+  "county": "Kent",
+  "postcode": "TN2 4EB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "562858",
+  "northing": "141702",
+  "url": "http://www.pembury.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

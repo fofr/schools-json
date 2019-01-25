@@ -1,0 +1,18 @@
+{
+  "urn": "120769",
+  "name": "The Locksley School",
+  "address": "Locksley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR4 6LG",
+  "minimum_age": "7",
+  "maximum_age": "16",
+  "easting": "622323",
+  "northing": "305753",
+  "url": "www.locksley-school.org",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

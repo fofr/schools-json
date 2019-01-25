@@ -1,0 +1,18 @@
+{
+  "urn": "132118",
+  "name": "Sunny Bank Primary School",
+  "address": "Field View Road",
+  "locality": "",
+  "address3": "",
+  "town": "Potters Bar",
+  "county": "Hertfordshire",
+  "postcode": "EN6 2NA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525266",
+  "northing": "200431",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

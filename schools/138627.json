@@ -1,0 +1,18 @@
+{
+  "urn": "138627",
+  "name": "Groby Community College",
+  "address": "Ratby Road",
+  "locality": "Groby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE6 0GE",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "451790",
+  "northing": "307026",
+  "url": "http://www.brookvalegroby.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

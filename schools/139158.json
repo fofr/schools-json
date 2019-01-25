@@ -1,0 +1,18 @@
+{
+  "urn": "139158",
+  "name": "Magdalen College School",
+  "address": "Waynflete Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Brackley",
+  "county": "Northamptonshire",
+  "postcode": "NN13 6FB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458394",
+  "northing": "237150",
+  "url": "http://www.magdalen.northants.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

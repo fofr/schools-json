@@ -1,0 +1,18 @@
+{
+  "urn": "102579",
+  "name": "King Athelstan Primary School",
+  "address": "Villiers Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingston upon Thames",
+  "county": "Surrey",
+  "postcode": "KT1 3AR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "518673",
+  "northing": "168767",
+  "url": "www.kingathelstan.kingston.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

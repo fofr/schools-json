@@ -1,0 +1,18 @@
+{
+  "urn": "115508",
+  "name": "Brockworth Primary School",
+  "address": "Moorfield Road",
+  "locality": "Brockworth",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL3 4JL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "389372",
+  "northing": "216476",
+  "url": "http://www.brockworthprimary.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

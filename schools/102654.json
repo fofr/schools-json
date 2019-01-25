@@ -1,0 +1,18 @@
+{
+  "urn": "102654",
+  "name": "Gorringe Park Primary School",
+  "address": "Sandy Lane",
+  "locality": "Figges Marsh",
+  "address3": "",
+  "town": "Mitcham",
+  "county": "Surrey",
+  "postcode": "CR4 2YA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528303",
+  "northing": "169740",
+  "url": "www.gorringepark.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

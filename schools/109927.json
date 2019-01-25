@@ -1,0 +1,18 @@
+{
+  "urn": "109927",
+  "name": "Radstock Primary School",
+  "address": "Radstock Lane",
+  "locality": "Earley",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG6 5UZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "474563",
+  "northing": "170556",
+  "url": "www.radstockprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112100",
+  "name": "Allonby Primary School",
+  "address": "Moss Lane",
+  "locality": "Allonby",
+  "address3": "",
+  "town": "Maryport",
+  "county": "Cumbria",
+  "postcode": "CA15 6QG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "308252",
+  "northing": "543298",
+  "url": "http://www.allonby.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

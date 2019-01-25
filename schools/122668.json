@@ -1,0 +1,18 @@
+{
+  "urn": "122668",
+  "name": "Orston Primary School",
+  "address": "Church Street",
+  "locality": "Orston",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG13 9NS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "477064",
+  "northing": "341187",
+  "url": "www.orston.primarysite.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

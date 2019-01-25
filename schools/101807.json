@@ -1,0 +1,18 @@
+{
+  "urn": "101807",
+  "name": "Selsdon High School",
+  "address": "Farnborough Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "South Croydon",
+  "county": "Surrey",
+  "postcode": "CR2 8HD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "535903",
+  "northing": "163120",
+  "url": "www.selsdonhighschool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

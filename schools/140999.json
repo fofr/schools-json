@@ -1,0 +1,18 @@
+{
+  "urn": "140999",
+  "name": "La Fontaine Academy",
+  "address": "Nightingale Lane",
+  "locality": "Bickley",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR1 2SQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "541374",
+  "northing": "169020",
+  "url": "www.lafontaineacademy.org",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

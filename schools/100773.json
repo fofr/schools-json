@@ -1,0 +1,18 @@
+{
+  "urn": "100773",
+  "name": "The Education Support Centre",
+  "address": "18 St Mary's Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE15 2DW",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "535183",
+  "northing": "176578",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

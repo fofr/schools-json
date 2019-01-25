@@ -1,0 +1,18 @@
+{
+  "urn": "105801",
+  "name": "Furrow Community School",
+  "address": "Windermere Road",
+  "locality": "Langley",
+  "address3": "Middleton",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M24 4LA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385581",
+  "northing": "406935",
+  "url": "http://www.furrow.rochdale.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

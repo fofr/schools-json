@@ -1,0 +1,18 @@
+{
+  "urn": "137110",
+  "name": "Longdean School",
+  "address": "Rumballs Rd",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP3 8JB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "507604",
+  "northing": "205954",
+  "url": "http://moodle.longdean.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

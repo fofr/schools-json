@@ -1,0 +1,18 @@
+{
+  "urn": "120463",
+  "name": "The Middle Rasen Primary School",
+  "address": "North Street",
+  "locality": "Middle Rasen",
+  "address3": "",
+  "town": "Market Rasen",
+  "county": "Lincolnshire",
+  "postcode": "LN8 3TS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "508807",
+  "northing": "389547",
+  "url": "http://www.middle-rasen.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

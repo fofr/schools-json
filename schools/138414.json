@@ -1,0 +1,18 @@
+{
+  "urn": "138414",
+  "name": "Chaucer School",
+  "address": "Wordsworth Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S5 8NH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "434179",
+  "northing": "392315",
+  "url": "http://www.chaucer.sheffield.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

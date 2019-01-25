@@ -1,0 +1,18 @@
+{
+  "urn": "141282",
+  "name": "Walton Primary Academy",
+  "address": "The Grove",
+  "locality": "Walton",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF2 6LD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "435601",
+  "northing": "417022",
+  "url": "www.waltonprimary.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

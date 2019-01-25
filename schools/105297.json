@@ -1,0 +1,18 @@
+{
+  "urn": "105297",
+  "name": "Butterstile Primary School",
+  "address": "School Grove",
+  "locality": "Prestwich",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M25 9RJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "381081",
+  "northing": "402805",
+  "url": "http://www.butterstile.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

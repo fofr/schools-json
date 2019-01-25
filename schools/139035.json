@@ -1,0 +1,18 @@
+{
+  "urn": "139035",
+  "name": "Crowle Primary Academy",
+  "address": "Manor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crowle",
+  "county": "Lincolnshire",
+  "postcode": "DN17 4ET",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "477043",
+  "northing": "412981",
+  "url": "www.crowleprimaryschool.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

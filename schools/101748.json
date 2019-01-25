@@ -1,0 +1,18 @@
+{
+  "urn": "101748",
+  "name": "Wolsey Infant School",
+  "address": "King Henry's Drive",
+  "locality": "New Addington",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 0PA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "538488",
+  "northing": "162969",
+  "url": "www.wolseyinfants.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

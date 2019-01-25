@@ -1,0 +1,18 @@
+{
+  "urn": "136333",
+  "name": "Arden",
+  "address": "Station Road",
+  "locality": "Knowle",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B93 0PT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "417909",
+  "northing": "276383",
+  "url": "http://www.arden.solihull.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

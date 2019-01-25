@@ -1,0 +1,18 @@
+{
+  "urn": "124076",
+  "name": "Cheadle Primary School",
+  "address": "The Avenue",
+  "locality": "Cheadle",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST10 1EN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "400927",
+  "northing": "342889",
+  "url": "www.cheadle-primary.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

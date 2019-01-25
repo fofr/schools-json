@@ -1,0 +1,18 @@
+{
+  "urn": "111664",
+  "name": "Hemlington Hall Primary School",
+  "address": "Briscoe Way",
+  "locality": "Hemlington",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS8 9SJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448476",
+  "northing": "514410",
+  "url": "http://www.hemlingtonhallprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

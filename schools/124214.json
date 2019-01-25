@@ -1,0 +1,18 @@
+{
+  "urn": "124214",
+  "name": "Ridgeway Primary School",
+  "address": "Grange Road",
+  "locality": "Chasetown",
+  "address3": "",
+  "town": "Burntwood",
+  "county": "Staffordshire",
+  "postcode": "WS7 4TU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "405231",
+  "northing": "308174",
+  "url": "www.ridgeway.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

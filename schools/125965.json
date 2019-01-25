@@ -1,0 +1,18 @@
+{
+  "urn": "125965",
+  "name": "Holbrook Primary School",
+  "address": "Holbrook School Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Horsham",
+  "county": "West Sussex",
+  "postcode": "RH12 5PP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518087",
+  "northing": "133138",
+  "url": "www.holbrookschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

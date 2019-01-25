@@ -1,0 +1,18 @@
+{
+  "urn": "101282",
+  "name": "Garden Suburb Infant School",
+  "address": "Childs Way",
+  "locality": "Hampstead Garden Suburb",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW11 6XU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "524978",
+  "northing": "188877",
+  "url": "www.gardensuburbschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

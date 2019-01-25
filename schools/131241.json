@@ -1,0 +1,18 @@
+{
+  "urn": "131241",
+  "name": "Spon Gate Primary School",
+  "address": "Upper Spon Street",
+  "locality": "Coventry",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV1 3BQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432511",
+  "northing": "279082",
+  "url": "www.spongate-coventry.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

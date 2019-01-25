@@ -1,0 +1,18 @@
+{
+  "urn": "114485",
+  "name": "Bevendean Primary School",
+  "address": "Heath Hill Avenue",
+  "locality": "Lower Bevendean",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN2 4JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533920",
+  "northing": "106426",
+  "url": "bevendean.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

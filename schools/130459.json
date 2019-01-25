@@ -1,0 +1,18 @@
+{
+  "urn": "130459",
+  "name": "Bournville College of Further Education",
+  "address": "1 Longbridge Lane",
+  "locality": "Longbridge",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B31 2AJ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "401075",
+  "northing": "277567",
+  "url": "http://www.bournville.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

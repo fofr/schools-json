@@ -1,0 +1,18 @@
+{
+  "urn": "122203",
+  "name": "Hexham First School",
+  "address": "Beaufront Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hexham",
+  "county": "Northumberland",
+  "postcode": "NE46 1JD",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "394408",
+  "northing": "563638",
+  "url": "www.hexhamfirst.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

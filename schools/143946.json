@@ -1,0 +1,18 @@
+{
+  "urn": "143946",
+  "name": "Hornchurch High School",
+  "address": "Broadstone Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hornchurch",
+  "county": "Essex",
+  "postcode": "RM12 4AJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "552646",
+  "northing": "186721",
+  "url": "www.hornchurchhigh.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

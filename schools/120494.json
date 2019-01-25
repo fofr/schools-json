@@ -1,0 +1,18 @@
+{
+  "urn": "120494",
+  "name": "The Richmond School, Skegness",
+  "address": "Richmond Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Skegness",
+  "county": "Lincolnshire",
+  "postcode": "PE25 3SH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "556239",
+  "northing": "362780",
+  "url": "http://www.therichmondschoolskegness.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

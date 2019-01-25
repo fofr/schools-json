@@ -1,0 +1,18 @@
+{
+  "urn": "108951",
+  "name": "Parson Street Primary School",
+  "address": "Bedminster Road",
+  "locality": "Bedminster",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS3 5NR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "358025",
+  "northing": "170555",
+  "url": "www.parsonstreet.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

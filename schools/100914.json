@@ -1,0 +1,18 @@
+{
+  "urn": "100914",
+  "name": "Mowlem Primary School",
+  "address": "Mowlem Street",
+  "locality": "Bishops Way",
+  "address3": "Bethnal Green",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 9HE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535051",
+  "northing": "183434",
+  "url": "www.mowlem.towerhamlets.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

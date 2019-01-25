@@ -1,0 +1,18 @@
+{
+  "urn": "110882",
+  "name": "Ken Stimpson Community School",
+  "address": "Staniland Way",
+  "locality": "Werrington",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE4 6JT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "516777",
+  "northing": "303852",
+  "url": "http://www.kscs.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

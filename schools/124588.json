@@ -1,0 +1,18 @@
+{
+  "urn": "124588",
+  "name": "Holbrook Primary School",
+  "address": "The Street",
+  "locality": "Holbrook",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP9 2PZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "616754",
+  "northing": "236771",
+  "url": "http://www.holbrook-pri.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

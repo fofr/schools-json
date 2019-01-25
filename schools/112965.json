@@ -1,0 +1,18 @@
+{
+  "urn": "112965",
+  "name": "Shirebrook School",
+  "address": "Common Lane",
+  "locality": "Shirebrook",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG20 8QF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "451648",
+  "northing": "368369",
+  "url": "http://www.shirebrook.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136572",
+  "name": "The Roseland Academy",
+  "address": "Tregony",
+  "locality": "",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR2 5SE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "193004",
+  "northing": "45305",
+  "url": "www.theroseland.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

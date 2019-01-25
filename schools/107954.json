@@ -1,0 +1,18 @@
+{
+  "urn": "107954",
+  "name": "Westwood Primary School",
+  "address": "Bodmin Garth",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS10 4NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429369",
+  "northing": "427945",
+  "url": "www.westwood.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

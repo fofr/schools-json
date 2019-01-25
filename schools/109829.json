@@ -1,0 +1,18 @@
+{
+  "urn": "109829",
+  "name": "Farley Hill Primary School",
+  "address": "Church Road",
+  "locality": "Farley Hill",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG7 1UB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "475569",
+  "northing": "164301",
+  "url": "www.farleyhillprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

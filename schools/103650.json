@@ -1,0 +1,18 @@
+{
+  "urn": "103650",
+  "name": "Southfields Primary School",
+  "address": "East Street",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV1 5LS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434459",
+  "northing": "279232",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

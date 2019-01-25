@@ -1,0 +1,18 @@
+{
+  "urn": "131783",
+  "name": "The John Moore Primary School",
+  "address": "Columbine Road",
+  "locality": "Walton Cardiff",
+  "address3": "",
+  "town": "Tewkesbury",
+  "county": "Gloucestershire",
+  "postcode": "GL20 7SP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390337",
+  "northing": "231277",
+  "url": "www.thejohnmooreprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

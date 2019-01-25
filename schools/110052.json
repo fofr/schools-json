@@ -1,0 +1,18 @@
+{
+  "urn": "110052",
+  "name": "Park House School",
+  "address": "Andover Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newbury",
+  "county": "Berkshire",
+  "postcode": "RG14 6NQ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "445992",
+  "northing": "164723",
+  "url": "http://www.parkhouse.westberks.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

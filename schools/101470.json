@@ -1,0 +1,18 @@
+{
+  "urn": "101470",
+  "name": "Bexleyheath School",
+  "address": "Woolwich Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bexleyheath",
+  "county": "Kent",
+  "postcode": "DA6 7DA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "549194",
+  "northing": "175388",
+  "url": "http://schoolsite.edex.net.uk/736/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

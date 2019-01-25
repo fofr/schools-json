@@ -1,0 +1,18 @@
+{
+  "urn": "119101",
+  "name": "Basnett Street Nursery School",
+  "address": "Basnett Street",
+  "locality": "",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB10 3ES",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "385285",
+  "northing": "433922",
+  "url": "http://www.basnettstreet.lancs.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

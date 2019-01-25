@@ -1,0 +1,18 @@
+{
+  "urn": "130456",
+  "name": "Waltham Forest College",
+  "address": "Forest Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 4JB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "537933",
+  "northing": "189920",
+  "url": "www.waltham.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

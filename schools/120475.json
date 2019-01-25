@@ -1,0 +1,18 @@
+{
+  "urn": "120475",
+  "name": "Skegness Infant School",
+  "address": "Cavendish Road",
+  "locality": "",
+  "address3": "",
+  "town": "Skegness",
+  "county": "Lincolnshire",
+  "postcode": "PE25 2QU",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "556331",
+  "northing": "363781",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

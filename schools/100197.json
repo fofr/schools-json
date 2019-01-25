@@ -1,0 +1,18 @@
+{
+  "urn": "100197",
+  "name": "Hawksmoor School",
+  "address": "Bentham Road",
+  "locality": "Thamesmead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE28 8AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "546726",
+  "northing": "180495",
+  "url": "www.hawksmoor.greenwich.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142741",
+  "name": "Swanwick Hall School",
+  "address": "Derby Road",
+  "locality": "Swanwick",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 1AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "440511",
+  "northing": "353058",
+  "url": "http://www.swanwickhall.derbyshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

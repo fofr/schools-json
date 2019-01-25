@@ -1,0 +1,18 @@
+{
+  "urn": "140678",
+  "name": "Bourne End Academy",
+  "address": "New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bourne End",
+  "county": "Buckinghamshire",
+  "postcode": "SL8 5BW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "489794",
+  "northing": "187672",
+  "url": "http://www.bea.bucks.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

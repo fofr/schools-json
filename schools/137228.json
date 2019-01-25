@@ -1,0 +1,18 @@
+{
+  "urn": "137228",
+  "name": "Great Torrington School",
+  "address": "Calvesford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Torrington",
+  "county": "Devon",
+  "postcode": "EX38 7DJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "250222",
+  "northing": "119493",
+  "url": "http://www.gts.devon.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

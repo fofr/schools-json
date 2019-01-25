@@ -1,0 +1,18 @@
+{
+  "urn": "112179",
+  "name": "Holme Primary School",
+  "address": "North Road",
+  "locality": "Holme",
+  "address3": "",
+  "town": "Carnforth",
+  "county": "Lancashire",
+  "postcode": "LA6 1QA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "352498",
+  "northing": "479012",
+  "url": "http://www.holmeschool.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119330",
+  "name": "Adlington Primary School",
+  "address": "Park Road",
+  "locality": "Adlington",
+  "address3": "",
+  "town": "Chorley",
+  "county": "Lancashire",
+  "postcode": "PR7 4JA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "359848",
+  "northing": "413038",
+  "url": "http://www.adlingtonprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

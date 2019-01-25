@@ -1,0 +1,18 @@
+{
+  "urn": "121440",
+  "name": "Bishopthorpe Infant School",
+  "address": "Sim Balk Lane",
+  "locality": "Bishopthorpe",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO23 2QQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "459233",
+  "northing": "447731",
+  "url": "www.bishopthorpeinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125105",
+  "name": "Broadmere Community Primary School",
+  "address": "Devonshire Avenue",
+  "locality": "Sheerwater",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 5QE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "502686",
+  "northing": "160596",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

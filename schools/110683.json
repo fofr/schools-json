@@ -1,0 +1,18 @@
+{
+  "urn": "110683",
+  "name": "Old Fletton Primary School",
+  "address": "London Road",
+  "locality": "Old Fletton",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 9DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518790",
+  "northing": "296943",
+  "url": "www.oldfletton.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122621",
+  "name": "Carnarvon Primary School",
+  "address": "Nursery Road",
+  "locality": "Bingham",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG13 8EH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "471524",
+  "northing": "339828",
+  "url": "http://www.carnarvon.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

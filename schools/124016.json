@@ -1,0 +1,18 @@
+{
+  "urn": "124016",
+  "name": "Sutherland Primary School",
+  "address": "Beaconsfield Drive",
+  "locality": "Blurton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 3DY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389670",
+  "northing": "342243",
+  "url": "http://www.sutherlandprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

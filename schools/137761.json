@@ -1,0 +1,18 @@
+{
+  "urn": "137761",
+  "name": "New Waltham Academy",
+  "address": "Peaks Lane",
+  "locality": "New Waltham",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "North East Lincolnshire",
+  "postcode": "DN36 4NH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "528528",
+  "northing": "405058",
+  "url": "http://www.newwaltham.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

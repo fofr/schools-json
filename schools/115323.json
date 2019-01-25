@@ -1,0 +1,18 @@
+{
+  "urn": "115323",
+  "name": "The Bromfords School",
+  "address": "Grange Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Wickford",
+  "county": "Essex",
+  "postcode": "SS12 0LZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "573802",
+  "northing": "192550",
+  "url": "http://www.bromfords.essex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

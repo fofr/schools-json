@@ -1,0 +1,18 @@
+{
+  "urn": "143271",
+  "name": "Cheviot Primary School",
+  "address": "Yetholm Place",
+  "locality": "Newbiggin Hall",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE5 4EB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "420275",
+  "northing": "567782",
+  "url": "www.cheviot.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123991",
+  "name": "Carmountside Primary School",
+  "address": "Woodhead Road",
+  "locality": "Abbey Hulton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 8DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390963",
+  "northing": "349407",
+  "url": "www.carmountsideprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

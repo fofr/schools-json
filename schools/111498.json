@@ -1,0 +1,18 @@
+{
+  "urn": "111498",
+  "name": "Chaigeley School",
+  "address": "Lymm Road",
+  "locality": "Thelwall",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 2TE",
+  "minimum_age": "8",
+  "maximum_age": "16",
+  "easting": "365469",
+  "northing": "387596",
+  "url": "www.chaigeley.org.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Non-maintained special school"
+}

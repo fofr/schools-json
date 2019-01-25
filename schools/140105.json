@@ -1,0 +1,18 @@
+{
+  "urn": "140105",
+  "name": "Chichester High School",
+  "address": "Kingsham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO19 8EB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "486297",
+  "northing": "104031",
+  "url": "http://www.chs-tkat.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143817",
+  "name": "Queen's Park High School",
+  "address": "Queens Park Road",
+  "locality": "Handbridge",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH4 7AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "340905",
+  "northing": "365622",
+  "url": "www.qphs.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110725",
+  "name": "Walton Infant School",
+  "address": "Mountsteven Avenue",
+  "locality": "Walton",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE4 6HX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "517517",
+  "northing": "302180",
+  "url": "http://www.waltoninfant.peterborough.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

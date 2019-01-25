@@ -1,0 +1,18 @@
+{
+  "urn": "105774",
+  "name": "Norden Community Primary School",
+  "address": "Shawfield Lane",
+  "locality": "Norden",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL12 7RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386672",
+  "northing": "414636",
+  "url": "http://www.norden.rochdale.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135035",
+  "name": "The Bewdley School",
+  "address": "Stourport Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bewdley",
+  "county": "Worcestershire",
+  "postcode": "DY12 1BL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "379285",
+  "northing": "274910",
+  "url": "www.bewdley.worcs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

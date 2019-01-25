@@ -1,0 +1,18 @@
+{
+  "urn": "123074",
+  "name": "Wood Farm Primary School",
+  "address": "Titup Hall Drive",
+  "locality": "Headington",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 8QQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "455237",
+  "northing": "206161",
+  "url": "www.woodfarmschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

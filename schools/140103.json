@@ -1,0 +1,18 @@
+{
+  "urn": "140103",
+  "name": "Hastings High School",
+  "address": "St Catherine's Close",
+  "locality": "Burbage",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 2QE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "443748",
+  "northing": "293273",
+  "url": "http://www.hastings.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

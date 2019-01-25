@@ -1,0 +1,18 @@
+{
+  "urn": "117218",
+  "name": "Anstey First School",
+  "address": "Anstey",
+  "locality": "",
+  "address3": "",
+  "town": "Buntingford",
+  "county": "Hertfordshire",
+  "postcode": "SG9 0BY",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "540430",
+  "northing": "232780",
+  "url": "www.anstey.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

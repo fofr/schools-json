@@ -1,0 +1,18 @@
+{
+  "urn": "101996",
+  "name": "Hazelwood Junior School",
+  "address": "Hazelwood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N13 5HE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "531435",
+  "northing": "192682",
+  "url": "www.hazelwoodschools.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

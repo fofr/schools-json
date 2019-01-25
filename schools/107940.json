@@ -1,0 +1,18 @@
+{
+  "urn": "107940",
+  "name": "Manston Primary School",
+  "address": "Dennil Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS15 8SD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "436604",
+  "northing": "435409",
+  "url": "www.manstonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

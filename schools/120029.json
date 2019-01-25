@@ -1,0 +1,18 @@
+{
+  "urn": "120029",
+  "name": "Montrose School",
+  "address": "Wigston Lane",
+  "locality": "Aylestone",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 8TN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457752",
+  "northing": "300615",
+  "url": "www.montrose.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

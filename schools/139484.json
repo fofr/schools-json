@@ -1,0 +1,18 @@
+{
+  "urn": "139484",
+  "name": "Fairway Primary Academy",
+  "address": "Muirfield Gardens",
+  "locality": "Kings Norton",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B38 8XQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "403747",
+  "northing": "278460",
+  "url": "www.fairwayprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

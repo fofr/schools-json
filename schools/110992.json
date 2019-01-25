@@ -1,0 +1,18 @@
+{
+  "urn": "110992",
+  "name": "Victoria Road Primary School",
+  "address": "Victoria Road",
+  "locality": "",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 5BN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "351229",
+  "northing": "382529",
+  "url": "victoria-road.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

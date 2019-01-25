@@ -1,0 +1,18 @@
+{
+  "urn": "137964",
+  "name": "Hamilton Academy",
+  "address": "Priory Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP13 6SG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "486547",
+  "northing": "193337",
+  "url": "www.hamiltonacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

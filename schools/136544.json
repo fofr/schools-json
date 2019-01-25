@@ -1,0 +1,18 @@
+{
+  "urn": "136544",
+  "name": "Manor Church of England Academy",
+  "address": "Millfield Lane",
+  "locality": "Nether Poppleton",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO26 6PA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "456691",
+  "northing": "453546",
+  "url": "http://www.manorceacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

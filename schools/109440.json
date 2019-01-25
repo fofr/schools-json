@@ -1,0 +1,18 @@
+{
+  "urn": "109440",
+  "name": "Slip End Village School",
+  "address": "Ross Way",
+  "locality": "Slip End",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 4DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "507904",
+  "northing": "218220",
+  "url": "www.slipend.beds.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

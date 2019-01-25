@@ -1,0 +1,18 @@
+{
+  "urn": "109422",
+  "name": "Westfield Nursery School",
+  "address": "Westfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU6 1DL",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "500672",
+  "northing": "222133",
+  "url": "http://www.westfieldnurseryschool.org",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

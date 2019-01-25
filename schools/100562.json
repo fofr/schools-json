@@ -1,0 +1,18 @@
+{
+  "urn": "100562",
+  "name": "Effra Primary School",
+  "address": "37 Effra Parade",
+  "locality": "Brixton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW2 1PL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "531443",
+  "northing": "174834",
+  "url": "http://atschool.eduweb.co.uk/effra/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

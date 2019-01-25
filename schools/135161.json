@@ -1,0 +1,18 @@
+{
+  "urn": "135161",
+  "name": "Beamont Community Primary School",
+  "address": "O'leary Street",
+  "locality": "",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA2 7RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "361402",
+  "northing": "389444",
+  "url": "www.beamontcp.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

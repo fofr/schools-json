@@ -1,0 +1,18 @@
+{
+  "urn": "139034",
+  "name": "Mountfields Lodge School",
+  "address": "Epinal Way",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 3GE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "452850",
+  "northing": "318678",
+  "url": "http://www.mountfieldslodge.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

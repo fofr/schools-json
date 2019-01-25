@@ -1,0 +1,18 @@
+{
+  "urn": "144705",
+  "name": "Ivy Lane Primary School",
+  "address": "Ivy Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN15 1HE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "391692",
+  "northing": "173440",
+  "url": "www.ivylane.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

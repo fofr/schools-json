@@ -1,0 +1,18 @@
+{
+  "urn": "118875",
+  "name": "Wilmington Grammar School for Boys",
+  "address": "Common Lane",
+  "locality": "Wilmington",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA2 7DA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "552660",
+  "northing": "172195",
+  "url": "http://www.wgsb.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

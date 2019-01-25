@@ -1,0 +1,18 @@
+{
+  "urn": "137109",
+  "name": "Ormiston Ilkeston Enterprise Academy",
+  "address": "King George Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Ilkeston",
+  "county": "Derbyshire",
+  "postcode": "DE7 5HS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "446044",
+  "northing": "341827",
+  "url": "http://www.OIEA.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

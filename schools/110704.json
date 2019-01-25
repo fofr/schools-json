@@ -1,0 +1,18 @@
+{
+  "urn": "110704",
+  "name": "Thorndown Community Infant School",
+  "address": "Hill Rise",
+  "locality": "",
+  "address3": "",
+  "town": "St Ives",
+  "county": "Cambridgeshire",
+  "postcode": "PE27 6SE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "530402",
+  "northing": "272677",
+  "url": "http://thorndown-inf.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

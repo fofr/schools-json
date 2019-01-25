@@ -1,0 +1,18 @@
+{
+  "urn": "144704",
+  "name": "Aloeric Primary School",
+  "address": "St Michael's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Melksham",
+  "county": "Wiltshire",
+  "postcode": "SN12 6HN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390301",
+  "northing": "163310",
+  "url": "www.aloeric.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146535",
+  "name": "Beacon Primary School",
+  "address": "Lord Street",
+  "locality": "Horwich",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL6 7AL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "363772",
+  "northing": "411875",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

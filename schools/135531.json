@@ -1,0 +1,18 @@
+{
+  "urn": "135531",
+  "name": "Chelsea Academy",
+  "address": "Lots Road",
+  "locality": "Chelsea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW10 0AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "526279",
+  "northing": "177011",
+  "url": "http://chelsea-academy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

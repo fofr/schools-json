@@ -1,0 +1,18 @@
+{
+  "urn": "110102",
+  "name": "The Downs School",
+  "address": "Manor Crescent",
+  "locality": "Compton",
+  "address3": "",
+  "town": "Newbury",
+  "county": "Berkshire",
+  "postcode": "RG20 6AD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "451908",
+  "northing": "179635",
+  "url": "http://www.thedownsschool.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

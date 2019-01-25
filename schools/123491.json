@@ -1,0 +1,18 @@
+{
+  "urn": "123491",
+  "name": "Norton-in-Hales CofE Primary School",
+  "address": "Main Road",
+  "locality": "Norton-in-Hales",
+  "address3": "",
+  "town": "Market Drayton",
+  "county": "Shropshire",
+  "postcode": "TF9 4AT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "370022",
+  "northing": "338271",
+  "url": "www.nortoninhalesschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

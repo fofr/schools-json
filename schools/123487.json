@@ -1,0 +1,18 @@
+{
+  "urn": "123487",
+  "name": "Myddle CofE Primary School",
+  "address": "Myddle",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY4 3RP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "346911",
+  "northing": "323881",
+  "url": "www.myddleschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

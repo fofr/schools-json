@@ -1,0 +1,18 @@
+{
+  "urn": "127468",
+  "name": "Mossfield Infant School",
+  "address": "Mossfield Road",
+  "locality": "Swinton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M27 2EQ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "377728",
+  "northing": "402534",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118242",
+  "name": "Charles Street Unit",
+  "address": "Charles Street",
+  "locality": "Southborough",
+  "address3": "",
+  "town": "Tunbridge Wells",
+  "county": "Kent",
+  "postcode": "TN4 0DS",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "558073",
+  "northing": "141848",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113661",
+  "name": "Broadmayne First School",
+  "address": "Knighton Lane",
+  "locality": "Broadmayne",
+  "address3": "",
+  "town": "Dorchester",
+  "county": "Dorset",
+  "postcode": "DT2 8PH",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "373309",
+  "northing": "87225",
+  "url": "http://www.broadmayne.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

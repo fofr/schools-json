@@ -1,0 +1,18 @@
+{
+  "urn": "102055",
+  "name": "The Latymer School",
+  "address": "Haselbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N9 9TN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "533405",
+  "northing": "193668",
+  "url": "http://www.latymer.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

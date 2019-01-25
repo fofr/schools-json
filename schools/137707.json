@@ -1,0 +1,18 @@
+{
+  "urn": "137707",
+  "name": "The Streetly Academy",
+  "address": "Queslett Road East",
+  "locality": "",
+  "address3": "Streetly",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B74 2EX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "408080",
+  "northing": "296870",
+  "url": "www.thestreetlyacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

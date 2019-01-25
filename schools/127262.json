@@ -1,0 +1,18 @@
+{
+  "urn": "127262",
+  "name": "Stonebridge Lane County Primary School",
+  "address": "Stonebridge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L11 9AY",
+  "minimum_age": "3",
+  "maximum_age": "6",
+  "easting": "339900",
+  "northing": "395700",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

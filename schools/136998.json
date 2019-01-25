@@ -1,0 +1,18 @@
+{
+  "urn": "136998",
+  "name": "Bungay High School",
+  "address": "Queen's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bungay",
+  "county": "Suffolk",
+  "postcode": "NR35 1RW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "634095",
+  "northing": "288623",
+  "url": "http://www.bungayhigh.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

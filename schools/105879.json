@@ -1,0 +1,18 @@
+{
+  "urn": "105879",
+  "name": "Grosvenor Community Nursery Centre",
+  "address": "Clarence Street",
+  "locality": "Grosvenor Square",
+  "address3": "",
+  "town": "Salford",
+  "county": "Lancashire",
+  "postcode": "M7 9UQ",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "383000",
+  "northing": "399700",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

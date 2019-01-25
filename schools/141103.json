@@ -1,0 +1,18 @@
+{
+  "urn": "141103",
+  "name": "LIPA Primary School",
+  "address": "Upper Duke Street",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L1 7BT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "335277",
+  "northing": "389587",
+  "url": "www.lipaprimary.org",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123992",
+  "name": "Cauldon Primary School",
+  "address": "Cauldon Road",
+  "locality": "Shelton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 2DZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388013",
+  "northing": "346078",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

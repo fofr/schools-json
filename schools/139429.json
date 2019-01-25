@@ -1,0 +1,18 @@
+{
+  "urn": "139429",
+  "name": "Berridge Primary and Nursery School",
+  "address": "Brushfield Site",
+  "locality": "Berridge Road West",
+  "address3": "Hyson Green",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 5LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455334",
+  "northing": "341175",
+  "url": "http://www.berridgeprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

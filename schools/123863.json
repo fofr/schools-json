@@ -1,0 +1,18 @@
+{
+  "urn": "123863",
+  "name": "Bishop Fox's Community School",
+  "address": "Bishop Fox Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 3HQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "323394",
+  "northing": "123512",
+  "url": "http://www.bishopfoxs.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138895",
+  "name": "Bexhill High Academy",
+  "address": "Gunters Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bexhill-on-Sea",
+  "county": "East Sussex",
+  "postcode": "TN39 4BY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "572910",
+  "northing": "109061",
+  "url": "http://www.bexhillacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

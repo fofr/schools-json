@@ -1,0 +1,18 @@
+{
+  "urn": "104593",
+  "name": "Booker Avenue Infant School",
+  "address": "Booker Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L18 9SB",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "339817",
+  "northing": "386398",
+  "url": "http://www.bookeravenue-inf.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

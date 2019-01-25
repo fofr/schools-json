@@ -1,0 +1,18 @@
+{
+  "urn": "126280",
+  "name": "Shaw Ridge Primary School",
+  "address": "Ridge Green",
+  "locality": "Shaw",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN5 5PU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "411803",
+  "northing": "185071",
+  "url": "http://www.shawridgeprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

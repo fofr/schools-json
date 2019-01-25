@@ -1,0 +1,18 @@
+{
+  "urn": "144884",
+  "name": "Reffley Academy",
+  "address": "Reffley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE30 3SF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "564643",
+  "northing": "321891",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

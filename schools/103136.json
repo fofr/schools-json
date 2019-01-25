@@ -1,0 +1,18 @@
+{
+  "urn": "103136",
+  "name": "Jakeman Nursery School",
+  "address": "Jakeman Road",
+  "locality": "Balsall Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B12 9NX",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "407244",
+  "northing": "284370",
+  "url": "www.jakeman.bham.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

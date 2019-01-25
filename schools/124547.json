@@ -1,0 +1,18 @@
+{
+  "urn": "124547",
+  "name": "Stanton Community Primary School",
+  "address": "Upthorpe Road",
+  "locality": "Stanton",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP31 2AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "597010",
+  "northing": "273250",
+  "url": "www.stantonprimarysch.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

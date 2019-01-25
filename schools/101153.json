@@ -1,0 +1,18 @@
+{
+  "urn": "101153",
+  "name": "Westminster City School",
+  "address": "55 Palace Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW1E 5HJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "529272",
+  "northing": "179311",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

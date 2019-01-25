@@ -1,0 +1,18 @@
+{
+  "urn": "123073",
+  "name": "Thomas Reade Primary School",
+  "address": "Radley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 3RR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450757",
+  "northing": "197857",
+  "url": "www.thomasreadeschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108091",
+  "name": "Boston Spa Academy",
+  "address": "Clifford Moor Road",
+  "locality": "Boston Spa",
+  "address3": "",
+  "town": "Wetherby",
+  "county": "West Yorkshire",
+  "postcode": "LS23 6RW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "442021",
+  "northing": "445103",
+  "url": "http://www.bostonspa.leeds.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

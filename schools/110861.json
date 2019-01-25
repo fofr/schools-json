@@ -1,0 +1,18 @@
+{
+  "urn": "110861",
+  "name": "Impington Village College",
+  "address": "New Road",
+  "locality": "Impington",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 9LX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "544600",
+  "northing": "263045",
+  "url": "http://www.impington.cambs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

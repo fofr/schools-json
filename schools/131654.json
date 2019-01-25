@@ -1,0 +1,18 @@
+{
+  "urn": "131654",
+  "name": "The James Hornsby High School",
+  "address": "Leinster Road",
+  "locality": "Laindon",
+  "address3": "",
+  "town": "Basildon",
+  "county": "Essex",
+  "postcode": "SS15 5NX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "568528",
+  "northing": "189143",
+  "url": "www.jameshornsby.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

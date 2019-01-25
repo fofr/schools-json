@@ -1,0 +1,18 @@
+{
+  "urn": "123001",
+  "name": "Enstone Primary School",
+  "address": "Oxford Road",
+  "locality": "Enstone",
+  "address3": "",
+  "town": "Chipping Norton",
+  "county": "Oxfordshire",
+  "postcode": "OX7 4LP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "437633",
+  "northing": "224253",
+  "url": "http://www.enstone.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

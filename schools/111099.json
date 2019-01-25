@@ -1,0 +1,18 @@
+{
+  "urn": "111099",
+  "name": "Atherton Nursery and Infant School",
+  "address": "Regent Street",
+  "locality": "",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Merseyside",
+  "postcode": "CH65 8HL",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "338903",
+  "northing": "376358",
+  "url": "http://www.atherton.school.cheshire.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

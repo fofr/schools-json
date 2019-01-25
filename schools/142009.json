@@ -1,0 +1,18 @@
+{
+  "urn": "142009",
+  "name": "Hoe Valley School",
+  "address": "Egley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU22 0NH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "499584",
+  "northing": "156507",
+  "url": "http://hoevalleyschool.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

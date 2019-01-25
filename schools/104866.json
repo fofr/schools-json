@@ -1,0 +1,18 @@
+{
+  "urn": "104866",
+  "name": "Marshside Primary School",
+  "address": "Elswick Road",
+  "locality": "Marshside",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR9 9XA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "336033",
+  "northing": "420120",
+  "url": "www.marshsideprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

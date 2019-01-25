@@ -1,0 +1,18 @@
+{
+  "urn": "100116",
+  "name": "Conway Junior School",
+  "address": "Gallosson Road",
+  "locality": "Plumstead High Street",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 1QY",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "545170",
+  "northing": "178615",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

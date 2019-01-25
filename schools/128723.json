@@ -1,0 +1,18 @@
+{
+  "urn": "128723",
+  "name": "Honicknowle Secondary School",
+  "address": "Honicknowle Green",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL5 3PY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "246670",
+  "northing": "59051",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127449",
+  "name": "Durnford High School",
+  "address": "Rectory Street",
+  "locality": "Middleton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M24 3TS",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "386702",
+  "northing": "406229",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

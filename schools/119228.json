@@ -1,0 +1,18 @@
+{
+  "urn": "119228",
+  "name": "Deepdale Community Primary School",
+  "address": "St Stephens Road",
+  "locality": "Deepdale",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR1 6TD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "354620",
+  "northing": "430673",
+  "url": "www.deepdalecommunityprimaryschool.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

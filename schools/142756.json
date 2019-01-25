@@ -1,0 +1,18 @@
+{
+  "urn": "142756",
+  "name": "Wheelock Primary School",
+  "address": "Crewe Road",
+  "locality": "Wheelock",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 3RT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "375097",
+  "northing": "359818",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

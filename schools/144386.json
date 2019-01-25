@@ -1,0 +1,18 @@
+{
+  "urn": "144386",
+  "name": "Churchfield CofE Primary Academy",
+  "address": "Sandy Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Rugeley",
+  "county": "Staffordshire",
+  "postcode": "WS15 2LB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "404335",
+  "northing": "317669",
+  "url": "www.churchfield.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

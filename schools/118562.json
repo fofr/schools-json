@@ -1,0 +1,18 @@
+{
+  "urn": "118562",
+  "name": "Newlands Primary School",
+  "address": "Dumpton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ramsgate",
+  "county": "Kent",
+  "postcode": "CT11 7AJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "638271",
+  "northing": "166231",
+  "url": "http://www.newlands.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

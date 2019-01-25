@@ -1,0 +1,18 @@
+{
+  "urn": "105484",
+  "name": "Barlow Hall Primary School",
+  "address": "Darley Avenue",
+  "locality": "Chorlton-Cum-Hardy",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M21 7JG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382278",
+  "northing": "392295",
+  "url": "http://barlowhallprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

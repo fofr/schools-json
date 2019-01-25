@@ -1,0 +1,18 @@
+{
+  "urn": "103378",
+  "name": "Green Meadow Primary School",
+  "address": "Green Meadow Road",
+  "locality": "Selly Oak",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B29 4EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "401896",
+  "northing": "281185",
+  "url": "http://www.greenmeadow.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

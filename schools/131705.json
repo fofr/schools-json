@@ -1,0 +1,18 @@
+{
+  "urn": "131705",
+  "name": "Wheatfield Primary School",
+  "address": "Wheatfield Drive",
+  "locality": "Bradley Stoke",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS32 9DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "361653",
+  "northing": "182397",
+  "url": "www.wheatfieldprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143256",
+  "name": "The Morton Church of England (Controlled) Primary School",
+  "address": "Station Road",
+  "locality": "Morton",
+  "address3": "",
+  "town": "Bourne",
+  "county": "Lincolnshire",
+  "postcode": "PE10 0NN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "510033",
+  "northing": "323976",
+  "url": "www.morton.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

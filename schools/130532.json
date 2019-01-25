@@ -1,0 +1,18 @@
+{
+  "urn": "130532",
+  "name": "Bradford College",
+  "address": "Great Horton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD7 1AY",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "415804",
+  "northing": "432766",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

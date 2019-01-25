@@ -1,0 +1,18 @@
+{
+  "urn": "102977",
+  "name": "Brookfield Primary School",
+  "address": "Ridge Road",
+  "locality": "North Cheam",
+  "address3": "",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM3 9LY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524295",
+  "northing": "166033",
+  "url": "http://www.brookfield.sutton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

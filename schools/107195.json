@@ -1,0 +1,18 @@
+{
+  "urn": "107195",
+  "name": "Bolton Lane First School",
+  "address": "Bolton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD2 4AA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "416856",
+  "northing": "435009",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

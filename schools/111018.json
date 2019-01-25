@@ -1,0 +1,18 @@
+{
+  "urn": "111018",
+  "name": "Adlington Primary School",
+  "address": "Brookledge Lane",
+  "locality": "Adlington",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK10 4JX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "392439",
+  "northing": "380301",
+  "url": "http://www.adlington.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

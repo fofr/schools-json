@@ -1,0 +1,18 @@
+{
+  "urn": "124841",
+  "name": "Chantry High School",
+  "address": "Mallard Way",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP2 9LR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "614696",
+  "northing": "243131",
+  "url": "http://www.chantryhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

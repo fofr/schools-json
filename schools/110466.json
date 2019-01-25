@@ -1,0 +1,18 @@
+{
+  "urn": "110466",
+  "name": "Little Marlow CofE School",
+  "address": "School Lane",
+  "locality": "Little Marlow",
+  "address3": "",
+  "town": "Marlow",
+  "county": "Buckinghamshire",
+  "postcode": "SL7 3SA",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "487494",
+  "northing": "188178",
+  "url": "www.littlemarlowschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

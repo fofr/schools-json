@@ -1,0 +1,18 @@
+{
+  "urn": "121461",
+  "name": "Sherburn in Elmet, Athelstan Community Primary School",
+  "address": "Milford Road",
+  "locality": "Sherburn-in-Elmet",
+  "address3": "",
+  "town": "Leeds",
+  "county": "North Yorkshire",
+  "postcode": "LS25 6QN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "449402",
+  "northing": "432681",
+  "url": "http://www.athelstan.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

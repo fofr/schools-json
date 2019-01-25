@@ -1,0 +1,18 @@
+{
+  "urn": "117353",
+  "name": "Sheredes Primary School",
+  "address": "Benford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hoddesdon",
+  "county": "Hertfordshire",
+  "postcode": "EN11 8LL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536742",
+  "northing": "207821",
+  "url": "www.sheredesprimary.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

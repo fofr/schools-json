@@ -1,0 +1,18 @@
+{
+  "urn": "102377",
+  "name": "Deanesfield Primary School",
+  "address": "Queens Walk",
+  "locality": "",
+  "address3": "",
+  "town": "Ruislip",
+  "county": "Middlesex",
+  "postcode": "HA4 0LR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511664",
+  "northing": "185752",
+  "url": "www.deanesfieldschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

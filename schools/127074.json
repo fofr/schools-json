@@ -1,0 +1,18 @@
+{
+  "urn": "127074",
+  "name": "Paradise Nursery School",
+  "address": "Station Street East",
+  "locality": "Foleshill",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 5FR",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "434589",
+  "northing": "281199",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122181",
+  "name": "Stead Lane Primary School",
+  "address": "Stead Lane",
+  "locality": "The Oval",
+  "address3": "",
+  "town": "Bedlington",
+  "county": "Northumberland",
+  "postcode": "NE22 5JS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427196",
+  "northing": "582225",
+  "url": "www.steadlaneprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

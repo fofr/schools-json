@@ -1,0 +1,18 @@
+{
+  "urn": "134057",
+  "name": "The Discovery School",
+  "address": "Discovery Drive",
+  "locality": "Kings Hill",
+  "address3": "",
+  "town": "West Malling",
+  "county": "Kent",
+  "postcode": "ME19 4GJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "568757",
+  "northing": "155312",
+  "url": "www.discovery.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

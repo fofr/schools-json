@@ -1,0 +1,18 @@
+{
+  "urn": "120242",
+  "name": "Ibstock Community College",
+  "address": "Central Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Ibstock",
+  "county": "Leicestershire",
+  "postcode": "LE67 6NE",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "440628",
+  "northing": "310368",
+  "url": "http://www.ibstockcollege.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121681",
+  "name": "Malton School",
+  "address": "Middlecave Road",
+  "locality": "",
+  "address3": "",
+  "town": "Malton",
+  "county": "North Yorkshire",
+  "postcode": "YO17 7NH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "477721",
+  "northing": "472122",
+  "url": "http://www.maltonschool.org/",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

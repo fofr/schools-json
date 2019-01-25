@@ -1,0 +1,18 @@
+{
+  "urn": "103922",
+  "name": "Whitecrest Primary School",
+  "address": "Whitecrest",
+  "locality": "Great Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B43 6HQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "405238",
+  "northing": "294612",
+  "url": "www.whitecrest.sandwell.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

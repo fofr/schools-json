@@ -1,0 +1,18 @@
+{
+  "urn": "114050",
+  "name": "Moorside Primary School",
+  "address": "Chester Road",
+  "locality": "Moorside",
+  "address3": "",
+  "town": "Consett",
+  "county": "County Durham",
+  "postcode": "DH8 8EQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "408201",
+  "northing": "549318",
+  "url": "http://www.consettmoorside.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

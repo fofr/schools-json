@@ -1,0 +1,18 @@
+{
+  "urn": "138198",
+  "name": "Sandymoor",
+  "address": "Wharford Lane",
+  "locality": "Sandymoor",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 1QU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "356414",
+  "northing": "383281",
+  "url": "www.sandymoorschool.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130518",
+  "name": "Ashton Sixth Form College",
+  "address": "Darnton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashton-under-Lyne",
+  "county": "Greater Manchester",
+  "postcode": "OL6 9RL",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "395088",
+  "northing": "399487",
+  "url": "http://www.asfc.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

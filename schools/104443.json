@@ -1,0 +1,18 @@
+{
+  "urn": "104443",
+  "name": "Southmead Community Primary School",
+  "address": "Lickers Lane",
+  "locality": "Whiston",
+  "address3": "",
+  "town": "Prescot",
+  "county": "Merseyside",
+  "postcode": "L35 3JY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "347382",
+  "northing": "390689",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

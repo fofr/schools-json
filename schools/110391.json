@@ -1,0 +1,18 @@
+{
+  "urn": "110391",
+  "name": "Halton Community Combined School",
+  "address": "Tring Road",
+  "locality": "Halton",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP22 5PN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "487641",
+  "northing": "209037",
+  "url": "www.halton.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

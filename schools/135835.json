@@ -1,0 +1,18 @@
+{
+  "urn": "135835",
+  "name": "The City Academy, Hackney",
+  "address": "Homerton Row",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E9 6EA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "535413",
+  "northing": "185117",
+  "url": "www.thecityacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

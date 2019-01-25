@@ -1,0 +1,18 @@
+{
+  "urn": "101020",
+  "name": "Shaftesbury Park Primary School",
+  "address": "Ashbury Road",
+  "locality": "Battersea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 5UW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528099",
+  "northing": "176014",
+  "url": "www.shaftesburypark.wandsworth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102385",
+  "name": "Heathrow Primary School",
+  "address": "Harmondsworth Lane",
+  "locality": "Sipson",
+  "address3": "",
+  "town": "West Drayton",
+  "county": "",
+  "postcode": "UB7 0JQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "506988",
+  "northing": "177916",
+  "url": "www.heathrowprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

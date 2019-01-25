@@ -1,0 +1,18 @@
+{
+  "urn": "101252",
+  "name": "Hampden Way Nursery School",
+  "address": "Hampden Way",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 5DJ",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "528689",
+  "northing": "194167",
+  "url": "www.hampdenway.barnet.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

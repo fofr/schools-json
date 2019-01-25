@@ -1,0 +1,18 @@
+{
+  "urn": "137009",
+  "name": "Rivers Academy West London",
+  "address": "Tachbrook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Feltham",
+  "county": "Middlesex",
+  "postcode": "TW14 9PE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "509821",
+  "northing": "173842",
+  "url": "http://www.rivers-aspirations.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

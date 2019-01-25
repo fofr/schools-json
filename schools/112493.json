@@ -1,0 +1,18 @@
+{
+  "urn": "112493",
+  "name": "Croft Infant School",
+  "address": "Marshall Street",
+  "locality": "",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 7BW",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "441111",
+  "northing": "355476",
+  "url": "www.croftinfant.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

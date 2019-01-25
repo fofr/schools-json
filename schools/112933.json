@@ -1,0 +1,18 @@
+{
+  "urn": "112933",
+  "name": "Tupton Hall School",
+  "address": "Station New Road",
+  "locality": "Old Tupton",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S42 6LG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "439559",
+  "northing": "365181",
+  "url": "http://www.tuptonhall.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

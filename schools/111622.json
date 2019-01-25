@@ -1,0 +1,18 @@
+{
+  "urn": "111622",
+  "name": "Easterside Primary School",
+  "address": "Erith Grove",
+  "locality": "Easterside",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS4 3RG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450708",
+  "northing": "516490",
+  "url": "http://www.easterside.mgrid.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

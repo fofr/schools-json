@@ -1,0 +1,18 @@
+{
+  "urn": "131189",
+  "name": "Chalkhill Education Centre, Chalkhill Hospital",
+  "address": "Chalkhill",
+  "locality": "Princess Royal Hospital Site",
+  "address3": "Lewes Road",
+  "town": "Haywards Heath",
+  "county": "West Sussex",
+  "postcode": "RH16 4NQ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "533892",
+  "northing": "123034",
+  "url": "www.apcollege.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

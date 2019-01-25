@@ -1,0 +1,18 @@
+{
+  "urn": "137094",
+  "name": "Enfield Grammar School",
+  "address": "Market Place",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN2 6LN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "532700",
+  "northing": "196652",
+  "url": "http://www.enfieldgrammar.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

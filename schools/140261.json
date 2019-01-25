@@ -1,0 +1,18 @@
+{
+  "urn": "140261",
+  "name": "Regency High School",
+  "address": "Carnforth Drive",
+  "locality": "Warndon",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR4 9JL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "386873",
+  "northing": "256718",
+  "url": "www.regency.worcs.sch.uk",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

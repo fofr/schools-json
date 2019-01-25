@@ -1,0 +1,18 @@
+{
+  "urn": "136358",
+  "name": "Branston Community Academy",
+  "address": "Station Road",
+  "locality": "Branston",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN4 1LH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "502566",
+  "northing": "367994",
+  "url": "http://www.branstonca.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

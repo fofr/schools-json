@@ -1,0 +1,18 @@
+{
+  "urn": "112515",
+  "name": "Brassington Primary School",
+  "address": "Brassington",
+  "locality": "",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 4HB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "423172",
+  "northing": "354232",
+  "url": "http://www.brassington.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

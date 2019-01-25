@@ -1,0 +1,18 @@
+{
+  "urn": "137635",
+  "name": "Vyners School",
+  "address": "Warren Road",
+  "locality": "Ickenham",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "",
+  "postcode": "UB10 8AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "506711",
+  "northing": "185521",
+  "url": "http://www.vynersschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

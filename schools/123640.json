@@ -1,0 +1,18 @@
+{
+  "urn": "123640",
+  "name": "Castle Cary Community Primary School",
+  "address": "Park Street",
+  "locality": "",
+  "address3": "",
+  "town": "Castle Cary",
+  "county": "Somerset",
+  "postcode": "BA7 7EH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "363979",
+  "northing": "132044",
+  "url": "www.castlecaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

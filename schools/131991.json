@@ -1,0 +1,18 @@
+{
+  "urn": "131991",
+  "name": "The Vale Primary School",
+  "address": "84-92 Beaconsfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT18 6HP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "521349",
+  "northing": "157545",
+  "url": "www.vale.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

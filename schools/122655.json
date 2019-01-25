@@ -1,0 +1,18 @@
+{
+  "urn": "122655",
+  "name": "Mattersey Primary School",
+  "address": "Thorpe Road",
+  "locality": "Mattersey",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN10 5ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "468793",
+  "northing": "389369",
+  "url": "http://www.mattersey.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

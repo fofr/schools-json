@@ -1,0 +1,18 @@
+{
+  "urn": "137473",
+  "name": "Corelli College",
+  "address": "Corelli Road",
+  "locality": "Blackheath",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE3 8EP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "542034",
+  "northing": "176480",
+  "url": "www.corellicollege.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

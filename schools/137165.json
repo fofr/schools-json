@@ -1,0 +1,18 @@
+{
+  "urn": "137165",
+  "name": "Woodlands Academy",
+  "address": "Broad Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV5 7FF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "427909",
+  "northing": "279575",
+  "url": "http://www.woodlands.coventry.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

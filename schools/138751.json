@@ -1,0 +1,18 @@
+{
+  "urn": "138751",
+  "name": "Carlton Road Academy",
+  "address": "Carlton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE21 8QX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532106",
+  "northing": "344204",
+  "url": "www.carltonroad.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

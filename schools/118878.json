@@ -1,0 +1,18 @@
+{
+  "urn": "118878",
+  "name": "Dartford Grammar School",
+  "address": "West Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 2HW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "553364",
+  "northing": "174104",
+  "url": "http://www.dartfordgrammar.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

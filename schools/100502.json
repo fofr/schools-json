@@ -1,0 +1,18 @@
+{
+  "urn": "100502",
+  "name": "Saint Thomas More Language College",
+  "address": "Cadogan Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW3 2QS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "527685",
+  "northing": "178707",
+  "url": "http://www.stmlc.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

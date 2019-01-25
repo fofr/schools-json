@@ -1,0 +1,18 @@
+{
+  "urn": "110238",
+  "name": "Ickford Combined School",
+  "address": "Sheldon Road",
+  "locality": "Ickford",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP18 9HY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "464991",
+  "northing": "207291",
+  "url": "http://www.ickford.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

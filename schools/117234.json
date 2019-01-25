@@ -1,0 +1,18 @@
+{
+  "urn": "117234",
+  "name": "The Reddings Primary School",
+  "address": "Bennetts End Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP3 8DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "507014",
+  "northing": "206282",
+  "url": "http://www.reddings.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

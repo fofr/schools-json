@@ -1,0 +1,18 @@
+{
+  "urn": "108438",
+  "name": "Archibald First School",
+  "address": "Archibald Street",
+  "locality": "Gosforth",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE3 1EB",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "424095",
+  "northing": "568136",
+  "url": "www.archibaldfirstschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

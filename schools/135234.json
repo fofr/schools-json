@@ -1,0 +1,18 @@
+{
+  "urn": "135234",
+  "name": "George Salter Academy",
+  "address": "Davey Road",
+  "locality": "",
+  "address3": "",
+  "town": "West Bromwich",
+  "county": "West Midlands",
+  "postcode": "B70 9UW",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "399266",
+  "northing": "291978",
+  "url": "http://www.georgesalter.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

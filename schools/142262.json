@@ -1,0 +1,18 @@
+{
+  "urn": "142262",
+  "name": "King Edward VI Grammar School",
+  "address": "Edward Street",
+  "locality": "",
+  "address3": "",
+  "town": "Louth",
+  "county": "Lincolnshire",
+  "postcode": "LN11 9LL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "532547",
+  "northing": "387094",
+  "url": "http://www.kevigs.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

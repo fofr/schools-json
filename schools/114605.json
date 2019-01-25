@@ -1,0 +1,18 @@
+{
+  "urn": "114605",
+  "name": "The Cavendish School",
+  "address": "Eldon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Eastbourne",
+  "county": "East Sussex",
+  "postcode": "BN21 1UE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "559466",
+  "northing": "100305",
+  "url": "http://www.cavendish.e-sussex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

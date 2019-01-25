@@ -1,0 +1,18 @@
+{
+  "urn": "109876",
+  "name": "Winnersh Primary School",
+  "address": "Greenwood Grove",
+  "locality": "Winnersh",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG41 5LH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "478620",
+  "northing": "171215",
+  "url": "www.winnershprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

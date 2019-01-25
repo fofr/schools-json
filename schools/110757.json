@@ -1,0 +1,18 @@
+{
+  "urn": "110757",
+  "name": "Gladstone Primary School",
+  "address": "Gladstone Street",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE1 2BZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518652",
+  "northing": "299962",
+  "url": "http://www.gladstoneschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

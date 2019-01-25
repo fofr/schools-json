@@ -1,0 +1,18 @@
+{
+  "urn": "123688",
+  "name": "Northmoor Green Primary School",
+  "address": "Moorland",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA7 0AS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "333531",
+  "northing": "132423",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

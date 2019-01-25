@@ -1,0 +1,18 @@
+{
+  "urn": "146152",
+  "name": "Tadcaster Primary Academy",
+  "address": "Grange Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Tadcaster",
+  "county": "North Yorkshire",
+  "postcode": "LS24 8AN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449219",
+  "northing": "443617",
+  "url": "tadcaster.ebor.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

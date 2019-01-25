@@ -1,0 +1,18 @@
+{
+  "urn": "144335",
+  "name": "Crowle CofE First School",
+  "address": "School Lane",
+  "locality": "Crowle",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR7 4AT",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "392299",
+  "northing": "256143",
+  "url": "www.crowle.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

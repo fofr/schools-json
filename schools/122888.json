@@ -1,0 +1,18 @@
+{
+  "urn": "122888",
+  "name": "The Brunts School",
+  "address": "The Park",
+  "locality": "Park Avenue",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 2AT",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "454480",
+  "northing": "362016",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120703",
+  "name": "Yarborough School",
+  "address": "Riseholme Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN1 3SP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "497583",
+  "northing": "373174",
+  "url": "http://www.yarborough.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

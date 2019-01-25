@@ -1,0 +1,18 @@
+{
+  "urn": "115546",
+  "name": "Toddington Primary School",
+  "address": "Stow Road",
+  "locality": "Toddington",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL54 5DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "404104",
+  "northing": "232414",
+  "url": "http://www.toddingtonschool.ik.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

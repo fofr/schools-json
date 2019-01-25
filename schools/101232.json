@@ -1,0 +1,18 @@
+{
+  "urn": "101232",
+  "name": "John Perry Primary School",
+  "address": "Charles Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM10 8UR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "550639",
+  "northing": "184798",
+  "url": "www.johnperryprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

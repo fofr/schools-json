@@ -1,0 +1,18 @@
+{
+  "urn": "123499",
+  "name": "Selattyn CofE Primary School",
+  "address": "Glyn Road",
+  "locality": "Selattyn",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY10 7DH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "326794",
+  "northing": "333959",
+  "url": "www.selattyn.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

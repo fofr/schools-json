@@ -1,0 +1,18 @@
+{
+  "urn": "113547",
+  "name": "Stoke Damerel Community College",
+  "address": "Somerset Place",
+  "locality": "Stoke",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL3 4BD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "246592",
+  "northing": "55719",
+  "url": "http://www.sdcc.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

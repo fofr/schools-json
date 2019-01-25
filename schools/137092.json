@@ -1,0 +1,18 @@
+{
+  "urn": "137092",
+  "name": "Diss High School",
+  "address": "Walcot Road",
+  "locality": "",
+  "address3": "",
+  "town": "Diss",
+  "county": "Norfolk",
+  "postcode": "IP22 4DH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "612113",
+  "northing": "280334",
+  "url": "http://www.disshigh.norfolk.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

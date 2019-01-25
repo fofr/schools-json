@@ -1,0 +1,18 @@
+{
+  "urn": "138733",
+  "name": "Christow Primary School",
+  "address": "Dry Lane",
+  "locality": "Christow",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX6 7PE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "283225",
+  "northing": "85094",
+  "url": "http://www.christowschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

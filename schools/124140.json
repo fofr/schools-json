@@ -1,0 +1,18 @@
+{
+  "urn": "124140",
+  "name": "Whittington Primary School",
+  "address": "Common Lane",
+  "locality": "Whittington",
+  "address3": "",
+  "town": "Lichfield",
+  "county": "Staffordshire",
+  "postcode": "WS14 9LG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "416029",
+  "northing": "307940",
+  "url": "www.whittington-school.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

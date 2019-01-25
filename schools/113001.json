@@ -1,0 +1,18 @@
+{
+  "urn": "113001",
+  "name": "Mill Hill School",
+  "address": "Peasehill",
+  "locality": "",
+  "address3": "",
+  "town": "Ripley",
+  "county": "Derbyshire",
+  "postcode": "DE5 3JQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "440817",
+  "northing": "349915",
+  "url": "http://www.millhill.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

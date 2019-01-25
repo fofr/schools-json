@@ -1,0 +1,18 @@
+{
+  "urn": "138885",
+  "name": "The Clarendon Academy",
+  "address": "Frome Road",
+  "locality": "",
+  "address3": "",
+  "town": "Trowbridge",
+  "county": "Wiltshire",
+  "postcode": "BA14 0DJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "384913",
+  "northing": "156961",
+  "url": "http://www.clarendonacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137232",
+  "name": "Ringmer Community College",
+  "address": "Lewes Road",
+  "locality": "",
+  "address3": "Ringmer",
+  "town": "Lewes",
+  "county": "East Sussex",
+  "postcode": "BN8 5RB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "545474",
+  "northing": "112699",
+  "url": "http://www.ringmeracademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

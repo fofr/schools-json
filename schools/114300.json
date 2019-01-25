@@ -1,0 +1,18 @@
+{
+  "urn": "114300",
+  "name": "Whitworth Park School and Sixth Form College",
+  "address": "Whitworth Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Spennymoor",
+  "county": "County Durham",
+  "postcode": "DL16 7LN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "424974",
+  "northing": "533377",
+  "url": "www.whitworthpark.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

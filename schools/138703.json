@@ -1,0 +1,18 @@
+{
+  "urn": "138703",
+  "name": "Castle Academy",
+  "address": "Station Road",
+  "locality": "Conisbrough",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN12 3DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "451181",
+  "northing": "399193",
+  "url": "http://www.castleacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

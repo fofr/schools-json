@@ -1,0 +1,18 @@
+{
+  "urn": "111961",
+  "name": "St Cleer Primary School",
+  "address": "Well Lane",
+  "locality": "St Cleer",
+  "address3": "",
+  "town": "Liskeard",
+  "county": "Cornwall",
+  "postcode": "PL14 5EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "225046",
+  "northing": "68368",
+  "url": "http://www.st-cleer.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

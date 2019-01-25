@@ -1,0 +1,18 @@
+{
+  "urn": "105041",
+  "name": "Manor Primary School",
+  "address": "Beechwood Drive",
+  "locality": "Greenfields",
+  "address3": "Beechwood",
+  "town": "Prenton",
+  "county": "Merseyside",
+  "postcode": "CH43 7ZU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "328240",
+  "northing": "389082",
+  "url": "https://www.manorprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118551",
+  "name": "Sevenoaks Primary School",
+  "address": "Bradbourne Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN13 3LB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "552671",
+  "northing": "156229",
+  "url": "www.sevenoaks.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

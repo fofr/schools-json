@@ -1,0 +1,18 @@
+{
+  "urn": "105189",
+  "name": "Hardy Mill Primary School",
+  "address": "Hardy Mill Road",
+  "locality": "Harwood",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL2 4EF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "374714",
+  "northing": "411617",
+  "url": "www.hardymill.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

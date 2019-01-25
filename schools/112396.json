@@ -1,0 +1,18 @@
+{
+  "urn": "112396",
+  "name": "Whitehaven School",
+  "address": "Cleator Moor Road",
+  "locality": "Hensingham",
+  "address3": "",
+  "town": "Whitehaven",
+  "county": "Cumbria",
+  "postcode": "CA28 8TY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "299335",
+  "northing": "517087",
+  "url": "http://www.whitehaven.cumbria.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111072",
+  "name": "Haslington Primary School",
+  "address": "Crewe Road",
+  "locality": "Haslington",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 5SL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "373615",
+  "northing": "355619",
+  "url": "www.haslington.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

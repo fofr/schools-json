@@ -1,0 +1,18 @@
+{
+  "urn": "136644",
+  "name": "Hayes School",
+  "address": "West Common Road",
+  "locality": "Hayes",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR2 7DB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "540620",
+  "northing": "165814",
+  "url": "http://www.hayes.bromley.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

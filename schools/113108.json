@@ -1,0 +1,18 @@
+{
+  "urn": "113108",
+  "name": "Seaton Primary School",
+  "address": "Valley View",
+  "locality": "",
+  "address3": "",
+  "town": "Seaton",
+  "county": "Devon",
+  "postcode": "EX12 2HF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "324384",
+  "northing": "90871",
+  "url": "http://www.seatonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

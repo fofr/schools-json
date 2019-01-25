@@ -1,0 +1,18 @@
+{
+  "urn": "125490",
+  "name": "Warwick Nursery School",
+  "address": "Coventry Road",
+  "locality": "",
+  "address3": "",
+  "town": "Warwick",
+  "county": "Warwickshire",
+  "postcode": "CV34 4LJ",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "428619",
+  "northing": "265277",
+  "url": "www.warwicknurseryschool.org",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

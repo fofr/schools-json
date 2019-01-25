@@ -1,0 +1,18 @@
+{
+  "urn": "104950",
+  "name": "Manor High School",
+  "address": "St Michael's Road",
+  "locality": "Crosby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L23 7UL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "331464",
+  "northing": "400646",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

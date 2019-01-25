@@ -1,0 +1,18 @@
+{
+  "urn": "104441",
+  "name": "Plantation Primary School",
+  "address": "Hollies Road",
+  "locality": "Halewood",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L26 0TH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "344761",
+  "northing": "385767",
+  "url": "www.plantationprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

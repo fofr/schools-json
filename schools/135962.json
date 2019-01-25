@@ -1,0 +1,18 @@
+{
+  "urn": "135962",
+  "name": "Shoreham Academy",
+  "address": "Kingston Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Shoreham-by-Sea",
+  "county": "West Sussex",
+  "postcode": "BN43 6YT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "523634",
+  "northing": "105620",
+  "url": "http://www.shoreham-academy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

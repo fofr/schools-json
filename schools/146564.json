@@ -1,0 +1,18 @@
+{
+  "urn": "146564",
+  "name": "Farnborough Academy",
+  "address": "Farnborough Road",
+  "locality": "",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "",
+  "postcode": "NG11 8JW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "456138",
+  "northing": "334978",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

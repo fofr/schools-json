@@ -1,0 +1,18 @@
+{
+  "urn": "109685",
+  "name": "Putteridge High School",
+  "address": "Putteridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU2 8HJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "511422",
+  "northing": "224286",
+  "url": "http://www.putteridgehigh.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

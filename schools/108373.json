@@ -1,0 +1,18 @@
+{
+  "urn": "108373",
+  "name": "Barley Mow Primary School",
+  "address": "Pembroke Avenue",
+  "locality": "Barley Mow",
+  "address3": "Birtley",
+  "town": "Chester le Street",
+  "county": "County Durham",
+  "postcode": "DH3 2DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427658",
+  "northing": "554480",
+  "url": "www.barleymowprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

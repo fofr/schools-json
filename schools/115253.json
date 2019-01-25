@@ -1,0 +1,18 @@
+{
+  "urn": "115253",
+  "name": "Woodville Primary School",
+  "address": "Brent Avenue",
+  "locality": "South Woodham Ferrers",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM3 5SE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "580605",
+  "northing": "198122",
+  "url": "http://www.woodvilleschool.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

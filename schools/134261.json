@@ -1,0 +1,18 @@
+{
+  "urn": "134261",
+  "name": "New Park School",
+  "address": "Valley Park Campus",
+  "locality": "Cromer Gardens",
+  "address3": "Valley Park",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV6 0UB",
+  "minimum_age": "7",
+  "maximum_age": "16",
+  "easting": "390044",
+  "northing": "300014",
+  "url": "http://www.newparkschool.org.uk/",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

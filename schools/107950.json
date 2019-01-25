@@ -1,0 +1,18 @@
+{
+  "urn": "107950",
+  "name": "Hunslet Carr Primary School",
+  "address": "Woodhouse Hill Road",
+  "locality": "Hunslet",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS10 2DN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431170",
+  "northing": "430765",
+  "url": "www.hunsletcarr.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

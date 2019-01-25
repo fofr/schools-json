@@ -1,0 +1,18 @@
+{
+  "urn": "109318",
+  "name": "Hanham High School",
+  "address": "Memorial Road",
+  "locality": "Hanham",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS15 3LA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "364012",
+  "northing": "171717",
+  "url": "http://www.hanhamhighschool.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

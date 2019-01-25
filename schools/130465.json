@@ -1,0 +1,18 @@
+{
+  "urn": "130465",
+  "name": "City College, Birmingham",
+  "address": "Fordrough Campus",
+  "locality": "",
+  "address3": "300 Bordesley Green",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B9 5NA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "410260",
+  "northing": "286657",
+  "url": "www.citycol.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144418",
+  "name": "Netherton CofE Primary School",
+  "address": "Highbridge Road",
+  "locality": "Netherton",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY2 0HU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "393763",
+  "northing": "287962",
+  "url": "http://www.netherton.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

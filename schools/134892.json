@@ -1,0 +1,18 @@
+{
+  "urn": "134892",
+  "name": "Hillbourne Primary School",
+  "address": "Kitchener Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH17 7HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "400613",
+  "northing": "94501",
+  "url": "www.hillbourne.poole.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

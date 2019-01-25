@@ -1,0 +1,18 @@
+{
+  "urn": "127500",
+  "name": "Heaton Moor Infant School",
+  "address": "Thornfield Road",
+  "locality": "Heaton Moor",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 3LD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "387378",
+  "northing": "391139",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

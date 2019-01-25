@@ -1,0 +1,18 @@
+{
+  "urn": "110627",
+  "name": "Benwick Primary School",
+  "address": "High Street",
+  "locality": "Benwick",
+  "address3": "",
+  "town": "March",
+  "county": "Cambridgeshire",
+  "postcode": "PE15 0XA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "534292",
+  "northing": "290119",
+  "url": "www.benwickprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

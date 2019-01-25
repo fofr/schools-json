@@ -1,0 +1,18 @@
+{
+  "urn": "110084",
+  "name": "St Bernard's Catholic Grammar School",
+  "address": "1 Langley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL3 7AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "499084",
+  "northing": "179540",
+  "url": "http://www.st-bernards.slough.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

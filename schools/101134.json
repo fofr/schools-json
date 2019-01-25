@@ -1,0 +1,18 @@
+{
+  "urn": "101134",
+  "name": "St Luke's CofE Primary School",
+  "address": "Fernhead Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W9 3EJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "524741",
+  "northing": "183012",
+  "url": "www.stlukesprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

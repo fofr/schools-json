@@ -1,0 +1,18 @@
+{
+  "urn": "141451",
+  "name": "The Lacon Childe School",
+  "address": "Love Lane",
+  "locality": "Cleobury Mortimer",
+  "address3": "",
+  "town": "Kidderminster",
+  "county": "Worcestershire",
+  "postcode": "DY14 8PE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "367125",
+  "northing": "275939",
+  "url": "http://www.lacon-childe.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

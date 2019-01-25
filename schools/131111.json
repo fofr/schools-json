@@ -1,0 +1,18 @@
+{
+  "urn": "131111",
+  "name": "Valley View Community Primary School",
+  "address": "Coal Hill Drive",
+  "locality": "Rodley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 1DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "422594",
+  "northing": "435580",
+  "url": "www.valleyview-pri.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

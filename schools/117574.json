@@ -1,0 +1,18 @@
+{
+  "urn": "117574",
+  "name": "Francis Bacon School",
+  "address": "Drakes Drive",
+  "locality": "",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL1 5AR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "516718",
+  "northing": "205808",
+  "url": "http://www.francisbacon.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

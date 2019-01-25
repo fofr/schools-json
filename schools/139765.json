@@ -1,0 +1,18 @@
+{
+  "urn": "139765",
+  "name": "The Nottingham Emmanuel School",
+  "address": "Gresham Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "West Bridgford",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 7YF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "457130",
+  "northing": "337616",
+  "url": "http://www.emmanuel.nottingham.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

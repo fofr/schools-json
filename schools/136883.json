@@ -1,0 +1,18 @@
+{
+  "urn": "136883",
+  "name": "Chestnut Grove School",
+  "address": "Chestnut Grove",
+  "locality": "Balham",
+  "address3": "45 Chestnut Grove",
+  "town": "London",
+  "county": "",
+  "postcode": "SW12 8JZ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "528283",
+  "northing": "173354",
+  "url": "http://www.chestnutgrove.wandsworth.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

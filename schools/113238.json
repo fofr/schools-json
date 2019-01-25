@@ -1,0 +1,18 @@
+{
+  "urn": "113238",
+  "name": "Chestnut Primary School",
+  "address": "Chestnut Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Brixham",
+  "county": "Devon",
+  "postcode": "TQ5 0EQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "291047",
+  "northing": "54576",
+  "url": "http://www.chestnut-primary.torbay.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

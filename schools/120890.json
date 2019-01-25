@@ -1,0 +1,18 @@
+{
+  "urn": "120890",
+  "name": "West Walton Community Primary School",
+  "address": "School Road",
+  "locality": "West Walton",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE14 7HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547992",
+  "northing": "313186",
+  "url": "www.westwaltonprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

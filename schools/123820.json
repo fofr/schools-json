@@ -1,0 +1,18 @@
+{
+  "urn": "123820",
+  "name": "West Chinnock Church of England Primary School",
+  "address": "Scotts Way",
+  "locality": "West Chinnock",
+  "address3": "",
+  "town": "Crewkerne",
+  "county": "Somerset",
+  "postcode": "TA18 7PU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "346788",
+  "northing": "113483",
+  "url": "http://www.westchinnockprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

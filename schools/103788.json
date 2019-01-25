@@ -1,0 +1,18 @@
+{
+  "urn": "103788",
+  "name": "Foxyards Primary School",
+  "address": "Foxyards Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tipton",
+  "county": "West Midlands",
+  "postcode": "DY4 8BH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394447",
+  "northing": "292432",
+  "url": "www.foxyards.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

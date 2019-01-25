@@ -1,0 +1,18 @@
+{
+  "urn": "114395",
+  "name": "Hankham Primary School",
+  "address": "Hankham Road",
+  "locality": "Hankham",
+  "address3": "",
+  "town": "Pevensey",
+  "county": "East Sussex",
+  "postcode": "BN24 5AY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "561878",
+  "northing": "105543",
+  "url": "www.hankhamschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140950",
+  "name": "Lincoln UTC",
+  "address": "Lindum Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN2 1PF",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "497911",
+  "northing": "371610",
+  "url": "http://lincolnutc.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

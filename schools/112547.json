@@ -1,0 +1,18 @@
+{
+  "urn": "112547",
+  "name": "Egginton Primary School",
+  "address": "Church Road",
+  "locality": "Egginton",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE65 6HP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "426777",
+  "northing": "328116",
+  "url": "www.egginton.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

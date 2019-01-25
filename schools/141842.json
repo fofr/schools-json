@@ -1,0 +1,18 @@
+{
+  "urn": "141842",
+  "name": "The Oaks Primary School",
+  "address": "Aster Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP2 0NR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "614162",
+  "northing": "243448",
+  "url": "http://www.theoaksprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

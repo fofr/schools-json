@@ -1,0 +1,18 @@
+{
+  "urn": "109124",
+  "name": "Compass Point: South Street School and Children's Centre",
+  "address": "South Street",
+  "locality": "Bedminster",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS3 3AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "357992",
+  "northing": "171176",
+  "url": "www.compasspoint.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

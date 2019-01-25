@@ -1,0 +1,18 @@
+{
+  "urn": "145930",
+  "name": "Montagu Academy",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mexborough",
+  "county": "South Yorkshire",
+  "postcode": "S64 9PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "447174",
+  "northing": "400543",
+  "url": "www.montaguacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

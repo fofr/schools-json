@@ -1,0 +1,18 @@
+{
+  "urn": "119342",
+  "name": "Shakespeare Primary School",
+  "address": "Manor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Fleetwood",
+  "county": "Lancashire",
+  "postcode": "FY7 7LL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "332445",
+  "northing": "447695",
+  "url": "www.shakespeare.lancsngfl.ac.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

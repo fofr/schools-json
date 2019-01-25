@@ -1,0 +1,18 @@
+{
+  "urn": "118326",
+  "name": "Halling Primary School",
+  "address": "Howlsmere Close",
+  "locality": "Halling",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 1ER",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "570607",
+  "northing": "163387",
+  "url": "http://www.hallingprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

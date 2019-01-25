@@ -1,0 +1,18 @@
+{
+  "urn": "114377",
+  "name": "Stanford Infant School",
+  "address": "Highcroft Villas",
+  "locality": "",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN1 5PS",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "530234",
+  "northing": "105905",
+  "url": "www.stanfordinfants.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

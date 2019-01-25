@@ -1,0 +1,18 @@
+{
+  "urn": "136148",
+  "name": "Waterhead Academy",
+  "address": "Huddersfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL4 3NY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "395417",
+  "northing": "405999",
+  "url": "http://www.waterheadacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

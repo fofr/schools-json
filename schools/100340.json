@@ -1,0 +1,18 @@
+{
+  "urn": "100340",
+  "name": "Wendell Park Primary School",
+  "address": "Cobbold Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W12 9LB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521631",
+  "northing": "179719",
+  "url": "www.wendellparkprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

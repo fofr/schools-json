@@ -1,0 +1,18 @@
+{
+  "urn": "102280",
+  "name": "Langtons Infant School",
+  "address": "Westland Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hornchurch",
+  "county": "Essex",
+  "postcode": "RM11 3SD",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "554073",
+  "northing": "187242",
+  "url": "http://www.langtonsinfant.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

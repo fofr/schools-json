@@ -1,0 +1,18 @@
+{
+  "urn": "119812",
+  "name": "Clitheroe Royal Grammar School",
+  "address": "York Street",
+  "locality": "",
+  "address3": "",
+  "town": "Clitheroe",
+  "county": "Lancashire",
+  "postcode": "BB7 2DJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "374554",
+  "northing": "442122",
+  "url": "http://www.crgs.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

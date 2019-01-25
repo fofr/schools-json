@@ -1,0 +1,18 @@
+{
+  "urn": "100891",
+  "name": "Bonner Primary School",
+  "address": "Stainsbury Street",
+  "locality": "Bethnal Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 0NF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "535452",
+  "northing": "183006",
+  "url": "www.bonner.towerhamlets.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

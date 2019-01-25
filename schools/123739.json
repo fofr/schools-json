@@ -1,0 +1,18 @@
+{
+  "urn": "123739",
+  "name": "Holway Park Community Primary School",
+  "address": "Shakespeare Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 2JA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "324273",
+  "northing": "124019",
+  "url": "www.holwaypark.somerset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

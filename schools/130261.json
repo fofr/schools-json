@@ -1,0 +1,18 @@
+{
+  "urn": "130261",
+  "name": "Longsands Community Primary School",
+  "address": "Longsands Lane",
+  "locality": "Fulwood",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 9PS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "355654",
+  "northing": "432419",
+  "url": "http://www.longsandscp.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

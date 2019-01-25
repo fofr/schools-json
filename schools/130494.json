@@ -1,0 +1,18 @@
+{
+  "urn": "130494",
+  "name": "Birkenhead Sixth Form College",
+  "address": "Park Road West",
+  "locality": "Claughton",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH43 8SQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "329959",
+  "northing": "389196",
+  "url": "www.bsfc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

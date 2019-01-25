@@ -1,0 +1,18 @@
+{
+  "urn": "121458",
+  "name": "Rillington Community Primary School",
+  "address": "High Street",
+  "locality": "Rillington",
+  "address3": "",
+  "town": "Malton",
+  "county": "North Yorkshire",
+  "postcode": "YO17 8LA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "485320",
+  "northing": "474189",
+  "url": "http://www.rillingtonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121207",
+  "name": "Docking Primary School",
+  "address": "Chequers Street",
+  "locality": "Docking",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE31 8LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "576603",
+  "northing": "336980",
+  "url": "www.docking.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

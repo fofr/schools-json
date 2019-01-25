@@ -1,0 +1,18 @@
+{
+  "urn": "104420",
+  "name": "Roby Park Primary School",
+  "address": "Easton Road",
+  "locality": "Huyton",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L36 4NY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "342475",
+  "northing": "391320",
+  "url": "www.robyparkprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

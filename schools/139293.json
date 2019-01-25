@@ -1,0 +1,18 @@
+{
+  "urn": "139293",
+  "name": "Connaught School for Girls",
+  "address": "Connaught Road",
+  "locality": "Leytonstone",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E11 4AB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "539036",
+  "northing": "187172",
+  "url": "http://www.connaught-school.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

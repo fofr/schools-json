@@ -1,0 +1,18 @@
+{
+  "urn": "115850",
+  "name": "Alton Infant School",
+  "address": "Normandy Street",
+  "locality": "",
+  "address3": "",
+  "town": "Alton",
+  "county": "Hampshire",
+  "postcode": "GU34 1DH",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "472080",
+  "northing": "139716",
+  "url": "www.alton-inf.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

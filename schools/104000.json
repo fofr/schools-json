@@ -1,0 +1,18 @@
+{
+  "urn": "104000",
+  "name": "St Matthew's CofE Primary School",
+  "address": "Windmill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Smethwick",
+  "county": "West Midlands",
+  "postcode": "B66 3LX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "403010",
+  "northing": "288125",
+  "url": "www.stmatthews-primary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

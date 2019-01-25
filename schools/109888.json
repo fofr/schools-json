@@ -1,0 +1,18 @@
+{
+  "urn": "109888",
+  "name": "Oldfield Primary School",
+  "address": "Bray Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maidenhead",
+  "county": "Berkshire",
+  "postcode": "SL6 1UE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "489683",
+  "northing": "180400",
+  "url": "www.oldfieldprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

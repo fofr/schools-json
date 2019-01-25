@@ -1,0 +1,18 @@
+{
+  "urn": "130543",
+  "name": "Airedale and Wharfedale College",
+  "address": "Calverley Lane",
+  "locality": "Horsforth",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS18 4RQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "422880",
+  "northing": "437261",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

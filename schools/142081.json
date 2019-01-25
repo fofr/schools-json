@@ -1,0 +1,18 @@
+{
+  "urn": "142081",
+  "name": "Medway UTC",
+  "address": "South Side Three Rd",
+  "locality": "",
+  "address3": "",
+  "town": "Chatham",
+  "county": "Kent",
+  "postcode": "ME4 4FQ",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "577419",
+  "northing": "169555",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

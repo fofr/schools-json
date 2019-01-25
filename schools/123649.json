@@ -1,0 +1,18 @@
+{
+  "urn": "123649",
+  "name": "Ilton First School",
+  "address": "Copse Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ilminster",
+  "county": "Somerset",
+  "postcode": "TA19 9EX",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "335109",
+  "northing": "117440",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

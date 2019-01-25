@@ -1,0 +1,18 @@
+{
+  "urn": "136522",
+  "name": "Cranford Community College",
+  "address": "High Street",
+  "locality": "Cranford",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "Middlesex",
+  "postcode": "TW5 9PD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "510734",
+  "northing": "177722",
+  "url": "http://www.cranford.hounslow.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

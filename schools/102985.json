@@ -1,0 +1,18 @@
+{
+  "urn": "102985",
+  "name": "Nonsuch Primary School",
+  "address": "Chadacre Road",
+  "locality": "Stoneleigh",
+  "address3": "",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT17 2HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522823",
+  "northing": "164316",
+  "url": "www.nonsuchprimary.sutton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

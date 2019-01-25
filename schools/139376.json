@@ -1,0 +1,18 @@
+{
+  "urn": "139376",
+  "name": "The Swanage School",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Swanage",
+  "county": "Dorset",
+  "postcode": "BH19 2PH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "401210",
+  "northing": "79026",
+  "url": "http://www.theswanageschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

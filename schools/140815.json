@@ -1,0 +1,18 @@
+{
+  "urn": "140815",
+  "name": "Jane Austen College",
+  "address": "46-48 Colegate",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR3 1DD",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "622950",
+  "northing": "308981",
+  "url": "http://www.inspirationtrust.org/janeaustencollege",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

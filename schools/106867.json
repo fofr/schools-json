@@ -1,0 +1,18 @@
+{
+  "urn": "106867",
+  "name": "Dinnington Community Primary School",
+  "address": "School Street",
+  "locality": "Dinnington",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S25 2RE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "452818",
+  "northing": "386508",
+  "url": "http://www.dcpschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104079",
+  "name": "Greswold Primary School",
+  "address": "Buryfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B91 2AZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "414939",
+  "northing": "280647",
+  "url": "http://www.greswold.solihull.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

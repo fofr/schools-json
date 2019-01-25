@@ -1,0 +1,18 @@
+{
+  "urn": "118544",
+  "name": "Murston Infant School",
+  "address": "Church Road",
+  "locality": "Murston",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 3RU",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "591836",
+  "northing": "163945",
+  "url": "www.murston-infant.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

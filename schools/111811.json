@@ -1,0 +1,18 @@
+{
+  "urn": "111811",
+  "name": "Leedstown Community Primary School",
+  "address": "Townshend Road",
+  "locality": "Leedstown",
+  "address3": "",
+  "town": "Hayle",
+  "county": "Cornwall",
+  "postcode": "TR27 6AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "160245",
+  "northing": "34122",
+  "url": "www.leedstownprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

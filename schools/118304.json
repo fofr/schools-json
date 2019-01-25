@@ -1,0 +1,18 @@
+{
+  "urn": "118304",
+  "name": "Shepway Infant School",
+  "address": "Oxford Road",
+  "locality": "Shepway",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME15 8DF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "578070",
+  "northing": "153905",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

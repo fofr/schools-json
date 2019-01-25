@@ -1,0 +1,18 @@
+{
+  "urn": "101905",
+  "name": "Oaklands Primary School",
+  "address": "Oaklands Road",
+  "locality": "Hanwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W7 2DP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "515915",
+  "northing": "179783",
+  "url": "www.oaklands-primary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

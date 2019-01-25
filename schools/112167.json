@@ -1,0 +1,18 @@
+{
+  "urn": "112167",
+  "name": "Bransty Primary School",
+  "address": "Mona Road",
+  "locality": "Bransty",
+  "address3": "",
+  "town": "Whitehaven",
+  "county": "Cumbria",
+  "postcode": "CA28 6EG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "297837",
+  "northing": "519347",
+  "url": "www.bransty.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

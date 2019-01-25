@@ -1,0 +1,18 @@
+{
+  "urn": "104200",
+  "name": "Ogley Hay Infant School",
+  "address": "Church Road",
+  "locality": "Brownhills",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS8 6AB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "404848",
+  "northing": "305472",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

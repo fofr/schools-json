@@ -1,0 +1,18 @@
+{
+  "urn": "110693",
+  "name": "Upwood Primary School",
+  "address": "Ramsey Road",
+  "locality": "Upwood",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE26 2QA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "526646",
+  "northing": "283084",
+  "url": "www.upwood.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

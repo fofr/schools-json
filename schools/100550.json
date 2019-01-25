@@ -1,0 +1,18 @@
+{
+  "urn": "100550",
+  "name": "Triangle Nursery School",
+  "address": "25 William Bonney Estate",
+  "locality": "Clapham Crescent",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW4 7JQ",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "529788",
+  "northing": "175189",
+  "url": "www.trianglenursery.org",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

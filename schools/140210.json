@@ -1,0 +1,18 @@
+{
+  "urn": "140210",
+  "name": "Mossbourne Victoria Park Academy",
+  "address": "Victoria Park Road",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E9 7HD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "535855",
+  "northing": "184061",
+  "url": "www.mvpa.mossbourne.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

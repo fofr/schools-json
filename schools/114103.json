@@ -1,0 +1,18 @@
+{
+  "urn": "114103",
+  "name": "Escomb Primary School",
+  "address": "Three Lane Ends",
+  "locality": "Escomb",
+  "address3": "",
+  "town": "Bishop Auckland",
+  "county": "County Durham",
+  "postcode": "DL14 7SR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "418621",
+  "northing": "529318",
+  "url": "http://www.escomb.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

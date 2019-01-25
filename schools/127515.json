@@ -1,0 +1,18 @@
+{
+  "urn": "127515",
+  "name": "The Manor County Secondary School",
+  "address": "North Downs Road",
+  "locality": "Cheadle Hulme",
+  "address3": "",
+  "town": "Cheadle",
+  "county": "Cheshire",
+  "postcode": "SK8 5HA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "386563",
+  "northing": "387276",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

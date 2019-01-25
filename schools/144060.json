@@ -1,0 +1,18 @@
+{
+  "urn": "144060",
+  "name": "Pennoweth Primary School",
+  "address": "Drump Road",
+  "locality": "",
+  "address3": "",
+  "town": "Redruth",
+  "county": "Cornwall",
+  "postcode": "TR15 1NA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "170067",
+  "northing": "42441",
+  "url": "http://www.pennoweth.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

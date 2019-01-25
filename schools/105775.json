@@ -1,0 +1,18 @@
+{
+  "urn": "105775",
+  "name": "Oakenrod Primary School",
+  "address": "Bury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL11 4EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388727",
+  "northing": "413185",
+  "url": "http://www.oakenrod.rochdale.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

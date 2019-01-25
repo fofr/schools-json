@@ -1,0 +1,18 @@
+{
+  "urn": "141142",
+  "name": "St Bartholomew's Primary Academy",
+  "address": "The Rosary",
+  "locality": "Royal Wootton Bassett",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN4 8AZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407134",
+  "northing": "182935",
+  "url": "www.st-bartholomews.dsat.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

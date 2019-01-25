@@ -1,0 +1,18 @@
+{
+  "urn": "101598",
+  "name": "Pickhurst Infant School",
+  "address": "Pickhurst Lane",
+  "locality": "",
+  "address3": "",
+  "town": "West Wickham",
+  "county": "Kent",
+  "postcode": "BR4 0HL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "539640",
+  "northing": "167158",
+  "url": "http://www.pickhurst-inf.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

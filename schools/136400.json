@@ -1,0 +1,18 @@
+{
+  "urn": "136400",
+  "name": "The St Leonards Academy",
+  "address": "Edinburgh Campus,",
+  "locality": "Edinburgh Road",
+  "address3": "",
+  "town": "St Leonards-on-Sea",
+  "county": "East Sussex",
+  "postcode": "TN38 8HH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "578436",
+  "northing": "109477",
+  "url": "http://www.thestleonardsacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

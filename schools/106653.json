@@ -1,0 +1,18 @@
+{
+  "urn": "106653",
+  "name": "Penistone Grammar School",
+  "address": "Huddersfield Road",
+  "locality": "Penistone",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S36 7BX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "424232",
+  "northing": "404138",
+  "url": "http://www.penistone-gs.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123051",
+  "name": "Wolvercote Primary School",
+  "address": "First Turn",
+  "locality": "Wolvercote",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX2 8AQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449718",
+  "northing": "209815",
+  "url": "http://www.wolvercote.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

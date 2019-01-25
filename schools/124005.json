@@ -1,0 +1,18 @@
+{
+  "urn": "124005",
+  "name": "Queen's Primary School",
+  "address": "Brocksford Street",
+  "locality": "Fenton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 3HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390407",
+  "northing": "344259",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119967",
+  "name": "Fernvale Primary School",
+  "address": "Somerby Road",
+  "locality": "Thurnby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE7 9PR",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "464915",
+  "northing": "304784",
+  "url": "www.fernvale.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132834",
+  "name": "Ormskirk School",
+  "address": "Wigan Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ormskirk",
+  "county": "Lancashire",
+  "postcode": "L39 2AT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "342702",
+  "northing": "408115",
+  "url": "http://www.ormskirk.lancs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

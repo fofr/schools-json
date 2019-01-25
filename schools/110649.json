@@ -1,0 +1,18 @@
+{
+  "urn": "110649",
+  "name": "Clarkson Infants School",
+  "address": "Trafford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 2ES",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "547095",
+  "northing": "310262",
+  "url": "http://www.clarksonschool.info",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

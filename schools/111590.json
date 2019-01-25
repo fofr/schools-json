@@ -1,0 +1,18 @@
+{
+  "urn": "111590",
+  "name": "Lynnfield Primary School",
+  "address": "Grosvenor Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS26 8RL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "450377",
+  "northing": "532759",
+  "url": "www.lynnfieldschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

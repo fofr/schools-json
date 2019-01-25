@@ -1,0 +1,18 @@
+{
+  "urn": "140550",
+  "name": "Portland Spencer Academy",
+  "address": "Westwick Road",
+  "locality": "Bilborough",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 4HB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451129",
+  "northing": "340527",
+  "url": "www.portlandspenceracademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

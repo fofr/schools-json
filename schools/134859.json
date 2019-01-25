@@ -1,0 +1,18 @@
+{
+  "urn": "134859",
+  "name": "Devon Hospitals' Short Stay School",
+  "address": "Schoolrooms, Bramble Unit",
+  "locality": "RD&E Hospital",
+  "address3": "Barrack Road",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX2 5DW",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "293730",
+  "northing": "91870",
+  "url": "www.devonhospitalschool.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140823",
+  "name": "Grove Primary School",
+  "address": "Framfield Road",
+  "locality": "Carlton Colville",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR33 8RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "651412",
+  "northing": "290697",
+  "url": "www.groveprimaryschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

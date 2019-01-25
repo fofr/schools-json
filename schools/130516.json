@@ -1,0 +1,18 @@
+{
+  "urn": "130516",
+  "name": "Tameside College",
+  "address": "Beaufort Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashton-under-Lyne",
+  "county": "Greater Manchester",
+  "postcode": "OL6 6NX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "394738",
+  "northing": "399028",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

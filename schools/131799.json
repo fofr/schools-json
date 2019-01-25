@@ -1,0 +1,18 @@
+{
+  "urn": "131799",
+  "name": "Parkview Primary School",
+  "address": "Springwood Drive",
+  "locality": "Oakwood",
+  "address3": "",
+  "town": "Derby.",
+  "county": "Derbyshire",
+  "postcode": "DE21 2RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "438323",
+  "northing": "338796",
+  "url": "http://www.parkview-sch.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

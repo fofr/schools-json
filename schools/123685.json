@@ -1,0 +1,18 @@
+{
+  "urn": "123685",
+  "name": "East Huntspill School",
+  "address": "New Road",
+  "locality": "East Huntspill",
+  "address3": "",
+  "town": "Highbridge",
+  "county": "Somerset",
+  "postcode": "TA9 3PT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "334416",
+  "northing": "145491",
+  "url": "www.huntspillfederation.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

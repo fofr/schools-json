@@ -1,0 +1,18 @@
+{
+  "urn": "128319",
+  "name": "Terriers First School",
+  "address": "Totteridge Lane",
+  "locality": "Terriers",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP13 7PG",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "488040",
+  "northing": "194688",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

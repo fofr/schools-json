@@ -1,0 +1,18 @@
+{
+  "urn": "122117",
+  "name": "Northampton School for Boys",
+  "address": "Billing Road",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN1 5RT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "477426",
+  "northing": "260718",
+  "url": "http://www.nsb.northants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

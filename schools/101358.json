@@ -1,0 +1,18 @@
+{
+  "urn": "101358",
+  "name": "Queen Elizabeth's School, Barnet",
+  "address": "Queen's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN5 4DQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "523744",
+  "northing": "196731",
+  "url": "www.qebarnet.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

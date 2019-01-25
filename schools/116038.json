@@ -1,0 +1,18 @@
+{
+  "urn": "116038",
+  "name": "Roman Way Primary School",
+  "address": "Roman Way",
+  "locality": "",
+  "address3": "",
+  "town": "Andover",
+  "county": "Hampshire",
+  "postcode": "SP10 5JY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "436630",
+  "northing": "147714",
+  "url": "http://www.romanwayprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143977",
+  "name": "Godolphin Primary School",
+  "address": "Godolphin Cross",
+  "locality": "Breage",
+  "address3": "",
+  "town": "Helston",
+  "county": "Cornwall",
+  "postcode": "TR13 9RB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "160688",
+  "northing": "31315",
+  "url": "www.godolphin.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

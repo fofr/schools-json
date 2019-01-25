@@ -1,0 +1,18 @@
+{
+  "urn": "128955",
+  "name": "Longlevens School",
+  "address": "Paygrove Lane",
+  "locality": "Longlevens",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "",
+  "postcode": "GL2 0AY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "385700",
+  "northing": "219700",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

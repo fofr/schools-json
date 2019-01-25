@@ -1,0 +1,18 @@
+{
+  "urn": "100324",
+  "name": "Brackenbury Primary School",
+  "address": "Dalling Road",
+  "locality": "Hammersmith",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W6 0BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522760",
+  "northing": "179365",
+  "url": "www.brackenbury.lbhf.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

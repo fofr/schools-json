@@ -1,0 +1,18 @@
+{
+  "urn": "121164",
+  "name": "Aylsham High School",
+  "address": "Sir Williams Lane",
+  "locality": "Aylsham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR11 6AN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "619836",
+  "northing": "327085",
+  "url": "http://www.aylshamhigh.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

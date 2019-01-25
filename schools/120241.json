@@ -1,0 +1,18 @@
+{
+  "urn": "120241",
+  "name": "Heathfield High School",
+  "address": "Belle Vue Road",
+  "locality": "Earl Shilton",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE9 7PA",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "445454",
+  "northing": "297387",
+  "url": "http://www.heathfield.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145711",
+  "name": "Coughton CofE Primary School",
+  "address": "Coughton Lane",
+  "locality": "Coughton",
+  "address3": "",
+  "town": "Alcester",
+  "county": "Warwickshire",
+  "postcode": "B49 5HN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407949",
+  "northing": "260256",
+  "url": "http://www.coughtonschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132948",
+  "name": "Sarisbury Pupil Referral Unit",
+  "address": "Coldeast Way",
+  "locality": "Sarisbury Green",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO31 7AT",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "450959",
+  "northing": "108450",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

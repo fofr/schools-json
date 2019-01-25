@@ -1,0 +1,18 @@
+{
+  "urn": "101674",
+  "name": "Beaverwood School for Girls",
+  "address": "Beaverwood Road",
+  "locality": "Perry Street",
+  "address3": "",
+  "town": "Chislehurst",
+  "county": "Kent",
+  "postcode": "BR7 6HE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "545368",
+  "northing": "170915",
+  "url": "http://www.beaverwood.bromley.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

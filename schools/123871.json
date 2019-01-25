@@ -1,0 +1,18 @@
+{
+  "urn": "123871",
+  "name": "Dulverton Junior School",
+  "address": "Barns Close West",
+  "locality": "",
+  "address3": "",
+  "town": "Dulverton",
+  "county": "Somerset",
+  "postcode": "TA22 9EE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "291755",
+  "northing": "127605",
+  "url": "http://www.dulvertonjuniorschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

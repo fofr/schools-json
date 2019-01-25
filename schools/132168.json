@@ -1,0 +1,18 @@
+{
+  "urn": "132168",
+  "name": "Garden Primary School",
+  "address": "Abbotts Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mitcham",
+  "county": "Surrey",
+  "postcode": "CR4 1JW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529751",
+  "northing": "168655",
+  "url": "http://www.gardenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

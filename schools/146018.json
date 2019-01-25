@@ -1,0 +1,18 @@
+{
+  "urn": "146018",
+  "name": "Wolviston Primary School",
+  "address": "The Green",
+  "locality": "Wolviston",
+  "address3": "",
+  "town": "Billingham",
+  "county": "",
+  "postcode": "TS22 5LN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445141",
+  "northing": "525607",
+  "url": "http://www.sbcschools.org.uk/wolviston/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117245",
+  "name": "Eastbury Farm Primary School",
+  "address": "Bishops Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Northwood",
+  "county": "Hertfordshire",
+  "postcode": "HA6 3DG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "509573",
+  "northing": "192878",
+  "url": "http://www.eastburyfarm.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

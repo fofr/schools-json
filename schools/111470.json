@@ -1,0 +1,18 @@
+{
+  "urn": "111470",
+  "name": "Firs School",
+  "address": "45 Newton Lane",
+  "locality": "Upton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH2 2HJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "341338",
+  "northing": "368250",
+  "url": "www.firsschool.net",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

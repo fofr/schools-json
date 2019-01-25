@@ -1,0 +1,18 @@
+{
+  "urn": "125568",
+  "name": "Hillmorton First School",
+  "address": "Watts Lane",
+  "locality": "Hillmorton",
+  "address3": "",
+  "town": "Rugby",
+  "county": "Warwickshire",
+  "postcode": "CV21 4PE",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "453759",
+  "northing": "273785",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

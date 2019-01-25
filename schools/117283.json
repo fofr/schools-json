@@ -1,0 +1,18 @@
+{
+  "urn": "117283",
+  "name": "Kings Langley Primary School",
+  "address": "Common Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Kings Langley",
+  "county": "Hertfordshire",
+  "postcode": "WD4 8DQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "506724",
+  "northing": "203199",
+  "url": "http://www.kingslangley-pri.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

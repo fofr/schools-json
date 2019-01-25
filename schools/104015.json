@@ -1,0 +1,18 @@
+{
+  "urn": "104015",
+  "name": "Britannia High School",
+  "address": "Britannia Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rowley Regis",
+  "county": "West Midlands",
+  "postcode": "B65 9NF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "397536",
+  "northing": "286902",
+  "url": "http://www.britannia-high.sandwell.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

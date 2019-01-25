@@ -1,0 +1,18 @@
+{
+  "urn": "100597",
+  "name": "Elm Wood School",
+  "address": "Carnac Street",
+  "locality": "West Norwood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE27 9RR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532733",
+  "northing": "172061",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

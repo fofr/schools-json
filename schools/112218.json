@@ -1,0 +1,18 @@
+{
+  "urn": "112218",
+  "name": "Newtown Community Primary School",
+  "address": "Newtown Road",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA2 7LW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "338316",
+  "northing": "555923",
+  "url": "www.newtown.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

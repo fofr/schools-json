@@ -1,0 +1,18 @@
+{
+  "urn": "118902",
+  "name": "The Bradbourne School",
+  "address": "Bradbourne Vale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN13 3LE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "552379",
+  "northing": "156485",
+  "url": "http://www.bradbourne.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

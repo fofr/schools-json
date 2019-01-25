@@ -1,0 +1,18 @@
+{
+  "urn": "120292",
+  "name": "Moat Community College",
+  "address": "Maidstone Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 0TU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "459664",
+  "northing": "304298",
+  "url": "http://moatcommunitycollege.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

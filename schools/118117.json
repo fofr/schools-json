@@ -1,0 +1,18 @@
+{
+  "urn": "118117",
+  "name": "St Mary's College",
+  "address": "Cranbrook Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU6 7TN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "507965",
+  "northing": "432240",
+  "url": "http://www.smchull.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

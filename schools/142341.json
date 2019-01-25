@@ -1,0 +1,18 @@
+{
+  "urn": "142341",
+  "name": "Burford Primary School",
+  "address": "Priory Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Burford",
+  "county": "Oxfordshire",
+  "postcode": "OX18 4SG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "425113",
+  "northing": "212356",
+  "url": "http://www.burford-pri.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

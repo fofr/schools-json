@@ -1,0 +1,18 @@
+{
+  "urn": "101211",
+  "name": "Marsh Green Primary School",
+  "address": "South Close",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM10 9NJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "549365",
+  "northing": "183556",
+  "url": "http://www.marshgreenprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

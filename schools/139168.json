@@ -1,0 +1,18 @@
+{
+  "urn": "139168",
+  "name": "Sir John Gleed School",
+  "address": "Neville Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE11 2EJ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "525707",
+  "northing": "322533",
+  "url": "http://www.spaldingacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

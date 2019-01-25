@@ -1,0 +1,18 @@
+{
+  "urn": "112937",
+  "name": "Deincourt Community School",
+  "address": "Chesterfield Road",
+  "locality": "North Wingfield",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S42 5LE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "440908",
+  "northing": "365711",
+  "url": "http://www.deincourt.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

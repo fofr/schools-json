@@ -1,0 +1,18 @@
+{
+  "urn": "139187",
+  "name": "Welton St Mary's Church of England Primary Academy",
+  "address": "School Drive",
+  "locality": "Welton",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN2 3LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "500973",
+  "northing": "379940",
+  "url": "http://www.welton-st-marys.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

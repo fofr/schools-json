@@ -1,0 +1,18 @@
+{
+  "urn": "145628",
+  "name": "Angel Road Infant School",
+  "address": "Angel Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR3 3HR",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "622822",
+  "northing": "310123",
+  "url": "www.angelroadinfant.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

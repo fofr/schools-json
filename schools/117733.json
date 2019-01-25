@@ -1,0 +1,18 @@
+{
+  "urn": "117733",
+  "name": "Queen Mary Avenue Infant School",
+  "address": "Queen Mary Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Cleethorpes",
+  "county": "Lincolnshire",
+  "postcode": "DN35 7SY",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "529160",
+  "northing": "409282",
+  "url": "http://www.queenmaryinfants.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

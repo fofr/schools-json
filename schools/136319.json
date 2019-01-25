@@ -1,0 +1,18 @@
+{
+  "urn": "136319",
+  "name": "Denbigh High School",
+  "address": "Alexandra Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU3 1HE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "508462",
+  "northing": "222596",
+  "url": "http://www.denbighhigh.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132182",
+  "name": "Lower Fields Primary School",
+  "address": "Fenby Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD4 8RG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418059",
+  "northing": "431619",
+  "url": "http://www.lowerfields.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

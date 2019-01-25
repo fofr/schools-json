@@ -1,0 +1,18 @@
+{
+  "urn": "122544",
+  "name": "Meadow Lane Infant School",
+  "address": "Meadow Lane",
+  "locality": "Chilwell",
+  "address3": "Beeston",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG9 5AA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "452137",
+  "northing": "335983",
+  "url": "www.meadowlane.notts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

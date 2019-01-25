@@ -1,0 +1,18 @@
+{
+  "urn": "127893",
+  "name": "Weston Lane School",
+  "address": "Weston Ridge",
+  "locality": "",
+  "address3": "",
+  "town": "Otley",
+  "county": "West Yorkshire",
+  "postcode": "LS21 2EF",
+  "minimum_age": "8",
+  "maximum_age": "12",
+  "easting": "419359",
+  "northing": "446529",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

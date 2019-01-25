@@ -1,0 +1,18 @@
+{
+  "urn": "136527",
+  "name": "Cirencester Deer Park School",
+  "address": "Stroud Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cirencester",
+  "county": "Gloucestershire",
+  "postcode": "GL7 1XB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "400928",
+  "northing": "201518",
+  "url": "http://www.deerparkschool.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101005",
+  "name": "Earlsfield Primary School",
+  "address": "Tranmere Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW18 3QQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526162",
+  "northing": "172951",
+  "url": "www.earlsfield.wandsworth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

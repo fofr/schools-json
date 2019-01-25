@@ -1,0 +1,18 @@
+{
+  "urn": "125962",
+  "name": "Maidenbower Infant School",
+  "address": "Harvest Road",
+  "locality": "Maidenbower",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH10 7RA",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "529459",
+  "northing": "135960",
+  "url": "http://www.maidenbowerinfantschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109294",
+  "name": "Kingsfield School",
+  "address": "Brook Road",
+  "locality": "Kingswood",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS15 4JT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "366443",
+  "northing": "173688",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

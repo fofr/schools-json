@@ -1,0 +1,18 @@
+{
+  "urn": "123484",
+  "name": "Morda CofE Primary School",
+  "address": "Morda",
+  "locality": "",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY10 9NR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "328821",
+  "northing": "327570",
+  "url": "www.morda.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

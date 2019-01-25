@@ -1,0 +1,18 @@
+{
+  "urn": "124184",
+  "name": "Perton Sandown First School",
+  "address": "Sandown Drive",
+  "locality": "Perton",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV6 7PS",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "386637",
+  "northing": "299805",
+  "url": "www.sandown-first-school.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

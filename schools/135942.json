@@ -1,0 +1,18 @@
+{
+  "urn": "135942",
+  "name": "De Warenne Academy",
+  "address": "Gardens Lane",
+  "locality": "Conisbrough",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN12 3JY",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "450597",
+  "northing": "398820",
+  "url": "http://www.dewarenne.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

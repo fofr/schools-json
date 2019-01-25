@@ -1,0 +1,18 @@
+{
+  "urn": "138030",
+  "name": "Huxlow Science College",
+  "address": "Finedon Road",
+  "locality": "Irthlingborough",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN9 5TY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "494055",
+  "northing": "271020",
+  "url": "www.huxlow.northants.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

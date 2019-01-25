@@ -1,0 +1,18 @@
+{
+  "urn": "100051",
+  "name": "Regent High School",
+  "address": "Chalton Street",
+  "locality": "Camden",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW1 1RX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "529555",
+  "northing": "183356",
+  "url": "http://www.regenthighschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

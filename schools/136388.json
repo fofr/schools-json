@@ -1,0 +1,18 @@
+{
+  "urn": "136388",
+  "name": "Churston Ferrers Grammar School Academy",
+  "address": "Greenway Road",
+  "locality": "Churston Ferrers",
+  "address3": "",
+  "town": "Brixham",
+  "county": "Devon",
+  "postcode": "TQ5 0LN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "289314",
+  "northing": "56287",
+  "url": "http://www.churstongrammar.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

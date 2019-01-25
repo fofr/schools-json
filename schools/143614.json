@@ -1,0 +1,18 @@
+{
+  "urn": "143614",
+  "name": "Silverstone Church of England Primary School",
+  "address": "Towcester Road",
+  "locality": "Silverstone",
+  "address3": "",
+  "town": "Towcester",
+  "county": "Northamptonshire",
+  "postcode": "NN12 8UB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "466771",
+  "northing": "243787",
+  "url": "http://www.silverstoneprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109894",
+  "name": "Rivermead Primary School",
+  "address": "Loddon Bridge Road",
+  "locality": "Woodley",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG5 4BS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "476785",
+  "northing": "172780",
+  "url": "http://www.rivermead.wokingham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

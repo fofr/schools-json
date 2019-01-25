@@ -1,0 +1,18 @@
+{
+  "urn": "135488",
+  "name": "The Phoenix Centre",
+  "address": "Leyland Park House",
+  "locality": "Park Road",
+  "address3": "Hindley",
+  "town": "Wigan",
+  "county": "Greater Manchester",
+  "postcode": "WN2 3RX",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "362031",
+  "northing": "403576",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

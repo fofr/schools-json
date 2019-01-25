@@ -1,0 +1,18 @@
+{
+  "urn": "139746",
+  "name": "Hamstead Hall Academy",
+  "address": "Craythorne Avenue",
+  "locality": "Handsworth Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B20 1HL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "404025",
+  "northing": "292495",
+  "url": "www.hamsteadhall.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130723",
+  "name": "Oaklands College",
+  "address": "Oaklands Campus",
+  "locality": "Hatfield Road",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL4 0JA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "518254",
+  "northing": "207645",
+  "url": "http://www.oaklands.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

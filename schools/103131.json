@@ -1,0 +1,18 @@
+{
+  "urn": "103131",
+  "name": "Rubery Nursery School",
+  "address": "Leybrook Road",
+  "locality": "Rubery",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B45 9PB",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "399847",
+  "northing": "277658",
+  "url": "http://www.ruberyn.bham.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

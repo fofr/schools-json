@@ -1,0 +1,18 @@
+{
+  "urn": "137468",
+  "name": "St Ives Infant School",
+  "address": "Trenwith Burrows",
+  "locality": "",
+  "address3": "",
+  "town": "St Ives",
+  "county": "Cornwall",
+  "postcode": "TR26 1DH",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "151305",
+  "northing": "40075",
+  "url": "www.st-ives-inf.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

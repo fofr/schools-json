@@ -1,0 +1,18 @@
+{
+  "urn": "102775",
+  "name": "Forest Gate Community School",
+  "address": "Forest Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E7 9BB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "540379",
+  "northing": "185369",
+  "url": "http://www.forestgate.newham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141221",
+  "name": "Northfield House Primary Academy",
+  "address": "Northfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 9DL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "461073",
+  "northing": "306391",
+  "url": "www.northfield-tmet.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

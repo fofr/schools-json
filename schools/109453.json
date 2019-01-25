@@ -1,0 +1,18 @@
+{
+  "urn": "109453",
+  "name": "Gravenhurst Lower School",
+  "address": "High Street",
+  "locality": "Gravenhurst",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 4HY",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "511146",
+  "northing": "235847",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

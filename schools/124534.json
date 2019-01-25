@@ -1,0 +1,18 @@
+{
+  "urn": "124534",
+  "name": "Elmswell Community Primary School",
+  "address": "Oxer Close",
+  "locality": "Elmswell",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP30 9UE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "599312",
+  "northing": "263703",
+  "url": "http://www.elmswell.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

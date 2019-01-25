@@ -1,0 +1,18 @@
+{
+  "urn": "102115",
+  "name": "West Green Primary School",
+  "address": "Woodlands Park Road",
+  "locality": "Tottenham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N15 3RT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "532173",
+  "northing": "189052",
+  "url": "www.westgreen.haringey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

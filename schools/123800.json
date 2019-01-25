@@ -1,0 +1,18 @@
+{
+  "urn": "123800",
+  "name": "Rockwell Green Church of England Primary School",
+  "address": "Brooklands Road",
+  "locality": "Rockwell Green",
+  "address3": "",
+  "town": "Wellington",
+  "county": "Somerset",
+  "postcode": "TA21 9DJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "312592",
+  "northing": "120457",
+  "url": "http://www.rockwellgreenprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

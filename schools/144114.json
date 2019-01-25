@@ -1,0 +1,18 @@
+{
+  "urn": "144114",
+  "name": "Ullesthorpe Church of England Primary School",
+  "address": "Ashby Road",
+  "locality": "Ullesthorpe",
+  "address3": "",
+  "town": "Lutterworth",
+  "county": "Leicestershire",
+  "postcode": "LE17 5DN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "450855",
+  "northing": "287677",
+  "url": "www.ullesthorpe.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

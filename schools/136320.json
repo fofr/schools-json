@@ -1,0 +1,18 @@
+{
+  "urn": "136320",
+  "name": "St Patricks Church of England Primary Academy",
+  "address": "Salter Street",
+  "locality": "Earlswood",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B94 6DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412282",
+  "northing": "274841",
+  "url": "www.st-patricks-ce.solihull.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100200",
+  "name": "Riverston School",
+  "address": "63-69 Eltham Road",
+  "locality": "Lee Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE12 8UF",
+  "minimum_age": "1",
+  "maximum_age": "21",
+  "easting": "540433",
+  "northing": "174828",
+  "url": "www.riverstonschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

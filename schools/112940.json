@@ -1,0 +1,18 @@
+{
+  "urn": "112940",
+  "name": "Granville Sports College",
+  "address": "Burton Road",
+  "locality": "Woodville",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE11 7JR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "431325",
+  "northing": "319951",
+  "url": "http://www.granville.derbyshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

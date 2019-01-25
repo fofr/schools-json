@@ -1,0 +1,18 @@
+{
+  "urn": "117076",
+  "name": "Kingswood Nursery School",
+  "address": "Briar Road",
+  "locality": "",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD25 0DX",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "510707",
+  "northing": "200068",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100691",
+  "name": "Kender Primary School",
+  "address": "Kender Street",
+  "locality": "New Cross",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE14 5JA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535468",
+  "northing": "176916",
+  "url": "http://www.kender.lewisham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

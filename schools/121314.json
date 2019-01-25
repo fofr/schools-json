@@ -1,0 +1,18 @@
+{
+  "urn": "121314",
+  "name": "Barrowcliff School",
+  "address": "Ash Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Scarborough",
+  "county": "North Yorkshire",
+  "postcode": "YO12 6NQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "502145",
+  "northing": "489054",
+  "url": "http://www.barrowcliff.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

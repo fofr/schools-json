@@ -1,0 +1,18 @@
+{
+  "urn": "140518",
+  "name": "Twickenham Primary School",
+  "address": "Twickenham Road",
+  "locality": "Kingstanding",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B44 0NR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409146",
+  "northing": "294323",
+  "url": "www.twicknhm.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

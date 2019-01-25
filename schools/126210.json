@@ -1,0 +1,18 @@
+{
+  "urn": "126210",
+  "name": "Beechcroft Infant School",
+  "address": "Beechcroft Road",
+  "locality": "Upper Stratton",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN2 7QE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "416095",
+  "northing": "187618",
+  "url": "www.beechcroft.swindon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

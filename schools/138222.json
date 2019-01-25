@@ -1,0 +1,18 @@
+{
+  "urn": "138222",
+  "name": "Aston University Engineering Academy",
+  "address": "1 Lister Street",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B7 4AG",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "407809",
+  "northing": "287905",
+  "url": "www.auea.co.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

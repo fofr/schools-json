@@ -1,0 +1,18 @@
+{
+  "urn": "117312",
+  "name": "Crabtree Infants' School",
+  "address": "Crabtree Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Harpenden",
+  "county": "Hertfordshire",
+  "postcode": "AL5 5PU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "514458",
+  "northing": "214306",
+  "url": "http://www.crabtreeinfants.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

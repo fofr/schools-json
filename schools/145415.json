@@ -1,0 +1,18 @@
+{
+  "urn": "145415",
+  "name": "Salford Priors CofE Academy",
+  "address": "School Road",
+  "locality": "Salford Priors",
+  "address3": "",
+  "town": "Evesham",
+  "county": "",
+  "postcode": "WR11 8XD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "407196",
+  "northing": "251515",
+  "url": "www.salfordpriors.covmat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

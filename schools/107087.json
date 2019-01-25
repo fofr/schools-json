@@ -1,0 +1,18 @@
+{
+  "urn": "107087",
+  "name": "Carfield Primary School",
+  "address": "Argyle Close",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S8 9HJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "435616",
+  "northing": "384273",
+  "url": "www.carfieldprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

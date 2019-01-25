@@ -1,0 +1,18 @@
+{
+  "urn": "112156",
+  "name": "Frizington Community Primary School",
+  "address": "Main Street",
+  "locality": "",
+  "address3": "",
+  "town": "Frizington",
+  "county": "Cumbria",
+  "postcode": "CA26 3PF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "303676",
+  "northing": "517585",
+  "url": "http://www.frizington-pri.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

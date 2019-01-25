@@ -1,0 +1,18 @@
+{
+  "urn": "131146",
+  "name": "Chase High School",
+  "address": "Prittlewell Chase",
+  "locality": "",
+  "address3": "",
+  "town": "Westcliff-on-Sea",
+  "county": "Essex",
+  "postcode": "SS0 0RT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "586545",
+  "northing": "187177",
+  "url": "www.chasehigh.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

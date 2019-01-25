@@ -1,0 +1,18 @@
+{
+  "urn": "144953",
+  "name": "Sacriston Academy",
+  "address": "Witton Road",
+  "locality": "Sacriston",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH7 6LQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "424013",
+  "northing": "546882",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

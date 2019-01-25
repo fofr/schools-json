@@ -1,0 +1,18 @@
+{
+  "urn": "118284",
+  "name": "Shoreham Village School",
+  "address": "Church Street",
+  "locality": "Shoreham",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN14 7SN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "551878",
+  "northing": "161599",
+  "url": "www.shorehamvillageschool.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131230",
+  "name": "Waltham Leas Primary School",
+  "address": "Manor Drive",
+  "locality": "Waltham",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "North East Lincolnshire",
+  "postcode": "DN37 0NU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "526130",
+  "northing": "404055",
+  "url": "walthamleas.ne-lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

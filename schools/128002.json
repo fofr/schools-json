@@ -1,0 +1,18 @@
+{
+  "urn": "128002",
+  "name": "Silver Royd School",
+  "address": "Swallow Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 4RB",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "426032",
+  "northing": "432925",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

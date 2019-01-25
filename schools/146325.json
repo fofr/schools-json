@@ -1,0 +1,18 @@
+{
+  "urn": "146325",
+  "name": "Cape Cornwall School",
+  "address": "Cape Cornwall Street",
+  "locality": "St Just",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR19 7JX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "136502",
+  "northing": "31467",
+  "url": "www.cape.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

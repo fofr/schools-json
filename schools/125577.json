@@ -1,0 +1,18 @@
+{
+  "urn": "125577",
+  "name": "Rokeby Infant School",
+  "address": "Anderson Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Rugby",
+  "county": "Warwickshire",
+  "postcode": "CV22 5PE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "450232",
+  "northing": "273844",
+  "url": "http://www.rokeby.wgfl.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

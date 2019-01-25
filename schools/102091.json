@@ -1,0 +1,18 @@
+{
+  "urn": "102091",
+  "name": "Earlsmead Primary School",
+  "address": "Broad Lane",
+  "locality": "Tottenham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N15 4PW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533919",
+  "northing": "188987",
+  "url": "www.earlsmead.haringey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

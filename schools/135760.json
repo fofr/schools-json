@@ -1,0 +1,18 @@
+{
+  "urn": "135760",
+  "name": "Midhurst Rother College",
+  "address": "North Street",
+  "locality": "",
+  "address3": "",
+  "town": "Midhurst",
+  "county": "West Sussex",
+  "postcode": "GU29 9DT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "488620",
+  "northing": "121878",
+  "url": "http://www.mrc-academy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

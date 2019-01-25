@@ -1,0 +1,18 @@
+{
+  "urn": "111332",
+  "name": "Brereton CofE Primary School",
+  "address": "School Lane",
+  "locality": "Brereton Green",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 1RN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "377752",
+  "northing": "364166",
+  "url": "www.breretonprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

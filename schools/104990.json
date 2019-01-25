@@ -1,0 +1,18 @@
+{
+  "urn": "104990",
+  "name": "Woodlands Primary School",
+  "address": "Hollybank Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birkenhead",
+  "county": "Merseyside",
+  "postcode": "CH41 2SY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "331807",
+  "northing": "388209",
+  "url": "woodlandswirral.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120168",
+  "name": "Tugby Church of England Primary School",
+  "address": "Main Street",
+  "locality": "Tugby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE7 9WD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "476190",
+  "northing": "300929",
+  "url": "http://www.tugby.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

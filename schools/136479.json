@@ -1,0 +1,18 @@
+{
+  "urn": "136479",
+  "name": "Charles Read Academy",
+  "address": "Bourne Road",
+  "locality": "Corby Glen",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG33 4NT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "500164",
+  "northing": "324654",
+  "url": "www.charlesreadacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

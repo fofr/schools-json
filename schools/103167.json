@@ -1,0 +1,18 @@
+{
+  "urn": "103167",
+  "name": "Billesley Infant School",
+  "address": "Trittiford Road",
+  "locality": "Billesley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B13 0ES",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "409080",
+  "northing": "280778",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

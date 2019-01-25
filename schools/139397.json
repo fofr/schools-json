@@ -1,0 +1,18 @@
+{
+  "urn": "139397",
+  "name": "Milton Court Primary Academy",
+  "address": "Brewery Road",
+  "locality": "Milton Regis",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 2EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "590434",
+  "northing": "164874",
+  "url": "www.milton-court.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

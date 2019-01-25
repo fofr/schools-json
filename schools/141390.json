@@ -1,0 +1,18 @@
+{
+  "urn": "141390",
+  "name": "Ingoldsby Academy",
+  "address": "Lenton Road",
+  "locality": "Ingoldsby",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG33 4HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "501552",
+  "northing": "330210",
+  "url": "www.ingoldsbyacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

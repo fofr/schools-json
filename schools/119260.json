@@ -1,0 +1,18 @@
+{
+  "urn": "119260",
+  "name": "Barden Primary School",
+  "address": "Burnley Campus, Barden Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB10 1JD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "384423",
+  "northing": "434479",
+  "url": "www.barden.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130726",
+  "name": "MidKent College",
+  "address": "Medway Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME7 1FN",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "577029",
+  "northing": "169187",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

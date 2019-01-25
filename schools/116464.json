@@ -1,0 +1,18 @@
+{
+  "urn": "116464",
+  "name": "Oaklands Community School",
+  "address": "Fairisle Road",
+  "locality": "Lordshill",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 8BY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "438528",
+  "northing": "116074",
+  "url": "http://www.oaklands.southampton.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

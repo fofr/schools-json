@@ -1,0 +1,18 @@
+{
+  "urn": "144862",
+  "name": "Farnham Primary School",
+  "address": "Stratford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD7 3HU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "414571",
+  "northing": "432291",
+  "url": "http://www.farnhamprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

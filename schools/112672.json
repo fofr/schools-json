@@ -1,0 +1,18 @@
+{
+  "urn": "112672",
+  "name": "The Park Infant & Nursery School",
+  "address": "Orchard Close",
+  "locality": "Park Road",
+  "address3": "Shirebrook",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG20 8JX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "452075",
+  "northing": "368182",
+  "url": "www.parkfed.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127104",
+  "name": "Templars Junior School",
+  "address": "Tile Hill Lane",
+  "locality": "Tile Hill",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV4 9DX",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "429174",
+  "northing": "278289",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

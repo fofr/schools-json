@@ -1,0 +1,18 @@
+{
+  "urn": "121152",
+  "name": "Hellesdon High School",
+  "address": "187 Middletons Lane",
+  "locality": "Hellesdon",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR6 5SB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "620319",
+  "northing": "311945",
+  "url": "http://www.hellesdon.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

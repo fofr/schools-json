@@ -1,0 +1,18 @@
+{
+  "urn": "125913",
+  "name": "Glebe Primary School",
+  "address": "Church Lane",
+  "locality": "Southwick",
+  "address3": "",
+  "town": "Brighton",
+  "county": "West Sussex",
+  "postcode": "BN42 4GB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "523838",
+  "northing": "105411",
+  "url": "http://www.glebeprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

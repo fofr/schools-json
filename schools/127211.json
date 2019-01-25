@@ -1,0 +1,18 @@
+{
+  "urn": "127211",
+  "name": "Woden Infant School",
+  "address": "Springfield Road",
+  "locality": "Springfields",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV10 0LH",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "392161",
+  "northing": "299581",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

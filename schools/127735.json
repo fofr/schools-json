@@ -1,0 +1,18 @@
+{
+  "urn": "127735",
+  "name": "Menston Junior School",
+  "address": "Main Street",
+  "locality": "Menston",
+  "address3": "",
+  "town": "Ilkley",
+  "county": "West Yorkshire",
+  "postcode": "LS29 6LF",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "417077",
+  "northing": "443697",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

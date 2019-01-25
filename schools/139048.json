@@ -1,0 +1,18 @@
+{
+  "urn": "139048",
+  "name": "Greenwood Academy",
+  "address": "Farnborough Road",
+  "locality": "",
+  "address3": "Castle Vale",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B35 7NL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "414873",
+  "northing": "291387",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

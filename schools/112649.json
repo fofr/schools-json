@@ -1,0 +1,18 @@
+{
+  "urn": "112649",
+  "name": "Whitwell Primary School",
+  "address": "Southfield Lane",
+  "locality": "Whitwell",
+  "address3": "",
+  "town": "Worksop",
+  "county": "Nottinghamshire",
+  "postcode": "S80 4NR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453057",
+  "northing": "376201",
+  "url": "www.whitwellprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

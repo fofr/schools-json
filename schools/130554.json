@@ -1,0 +1,18 @@
+{
+  "urn": "130554",
+  "name": "Tynemouth College",
+  "address": "Hawkeys Lane",
+  "locality": "",
+  "address3": "",
+  "town": "North Shields",
+  "county": "Tyne and Wear",
+  "postcode": "NE29 9BZ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "434624",
+  "northing": "569010",
+  "url": "http://www.tynecoll.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

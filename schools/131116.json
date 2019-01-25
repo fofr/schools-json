@@ -1,0 +1,18 @@
+{
+  "urn": "131116",
+  "name": "Holbrook Primary School",
+  "address": "Wych Lane",
+  "locality": "Bridgemary",
+  "address3": "",
+  "town": "Gosport",
+  "county": "Hampshire",
+  "postcode": "PO13 0JN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458089",
+  "northing": "103179",
+  "url": "www.holbrookprimaryhants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

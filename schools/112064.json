@@ -1,0 +1,18 @@
+{
+  "urn": "112064",
+  "name": "St Ives School, A Technology College",
+  "address": "Higher Tregenna",
+  "locality": "",
+  "address3": "",
+  "town": "St Ives",
+  "county": "Cornwall",
+  "postcode": "TR26 2BB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "151733",
+  "northing": "39332",
+  "url": "http://www.st-ives.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

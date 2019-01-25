@@ -1,0 +1,18 @@
+{
+  "urn": "100008",
+  "name": "Argyle Primary School",
+  "address": "Tonbridge Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "WC1H 9EG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530238",
+  "northing": "182761",
+  "url": "http://www.argyle.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

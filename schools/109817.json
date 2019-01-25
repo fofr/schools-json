@@ -1,0 +1,18 @@
+{
+  "urn": "109817",
+  "name": "Inkpen Primary School",
+  "address": "Weavers Lane",
+  "locality": "Inkpen",
+  "address3": "",
+  "town": "Hungerford",
+  "county": "Berkshire",
+  "postcode": "RG17 9QE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "436875",
+  "northing": "164536",
+  "url": "http://www.inkpen.westberks.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110755",
+  "name": "Wittering Primary School",
+  "address": "Church Road",
+  "locality": "Wittering",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE8 6AF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505520",
+  "northing": "302205",
+  "url": "www.wittering.peterborough.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

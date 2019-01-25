@@ -1,0 +1,18 @@
+{
+  "urn": "125874",
+  "name": "Storrington Primary School",
+  "address": "Spierbridge Road",
+  "locality": "Storrington",
+  "address3": "",
+  "town": "Pulborough",
+  "county": "West Sussex",
+  "postcode": "RH20 4PG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "508453",
+  "northing": "114609",
+  "url": "www.storringtonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

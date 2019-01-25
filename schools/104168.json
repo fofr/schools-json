@@ -1,0 +1,18 @@
+{
+  "urn": "104168",
+  "name": "Abbey Primary School",
+  "address": "Glastonbury Crescent",
+  "locality": "Mossley Estate",
+  "address3": "Bloxwich",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 2RP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "398437",
+  "northing": "302969",
+  "url": "http://www.abbey.walsall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

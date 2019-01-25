@@ -1,0 +1,18 @@
+{
+  "urn": "135348",
+  "name": "Riverside Community Primary School",
+  "address": "210 Poole Park Road",
+  "locality": "St Budeaux",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL5 1DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "244292",
+  "northing": "57627",
+  "url": "www.riversideprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137253",
+  "name": "The Ormiston Ilkeston Academy",
+  "address": "King George Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Ilkeston",
+  "county": "Derbyshire",
+  "postcode": "DE7 5HS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "446044",
+  "northing": "341827",
+  "url": "www.ilkeston.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

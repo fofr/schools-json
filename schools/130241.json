@@ -1,0 +1,18 @@
+{
+  "urn": "130241",
+  "name": "Nottinghamshire Learning Centre",
+  "address": "Daybrook Learning Centre, Sherbrook Road",
+  "locality": "Daybrook",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 6AT",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "457107",
+  "northing": "338685",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

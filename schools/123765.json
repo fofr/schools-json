@@ -1,0 +1,18 @@
+{
+  "urn": "123765",
+  "name": "Kingsdon Church of England Primary School",
+  "address": "Kingsdon",
+  "locality": "",
+  "address3": "",
+  "town": "Somerton",
+  "county": "Somerset",
+  "postcode": "TA11 7JX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "351653",
+  "northing": "126151",
+  "url": "http://www.kingsdon.somerset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

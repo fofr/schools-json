@@ -1,0 +1,18 @@
+{
+  "urn": "112147",
+  "name": "Ashfield Junior School",
+  "address": "High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 4ES",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "300853",
+  "northing": "528252",
+  "url": "www.ashfieldjuniorschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

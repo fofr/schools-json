@@ -1,0 +1,18 @@
+{
+  "urn": "112484",
+  "name": "South Normanton Nursery School",
+  "address": "Hamlet Lane",
+  "locality": "South Normanton",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 2JB",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "444215",
+  "northing": "356386",
+  "url": "http://www.southnormantonnurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

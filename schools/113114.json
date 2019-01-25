@@ -1,0 +1,18 @@
+{
+  "urn": "113114",
+  "name": "Willand School",
+  "address": "Gables Road",
+  "locality": "Willand",
+  "address3": "",
+  "town": "Cullompton",
+  "county": "Devon",
+  "postcode": "EX15 2QL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "303648",
+  "northing": "110923",
+  "url": "www.willand.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122408",
+  "name": "Berridge Junior School",
+  "address": "Berridge Road West",
+  "locality": "Hyson Green",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 5LE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "455334",
+  "northing": "341175",
+  "url": "http://www.berridgejuniorschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

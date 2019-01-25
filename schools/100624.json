@@ -1,0 +1,18 @@
+{
+  "urn": "100624",
+  "name": "Norwood School",
+  "address": "Crown Dale",
+  "locality": "Lambeth",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE19 3NY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "532224",
+  "northing": "171065",
+  "url": "http://www.thenorwoodschool.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

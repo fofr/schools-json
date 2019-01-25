@@ -1,0 +1,18 @@
+{
+  "urn": "100111",
+  "name": "Millennium Primary School",
+  "address": "50 John Harrison Way",
+  "locality": "Greenwich",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE10 0BG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539725",
+  "northing": "179099",
+  "url": "www.millenniumprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

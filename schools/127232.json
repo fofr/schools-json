@@ -1,0 +1,18 @@
+{
+  "urn": "127232",
+  "name": "Parkdale School",
+  "address": "1 Parkdale West",
+  "locality": "Tettenhall Road",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV1 4TE",
+  "minimum_age": "2",
+  "maximum_age": "10",
+  "easting": "390143",
+  "northing": "299197",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

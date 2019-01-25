@@ -1,0 +1,18 @@
+{
+  "urn": "127361",
+  "name": "Bedford Infant School",
+  "address": "Bedford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bootle",
+  "county": "Merseyside",
+  "postcode": "L20 9NB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "334960",
+  "northing": "394553",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

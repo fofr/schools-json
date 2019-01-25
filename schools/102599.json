@@ -1,0 +1,18 @@
+{
+  "urn": "102599",
+  "name": "Chessington School",
+  "address": "Garrison Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chessington",
+  "county": "Surrey",
+  "postcode": "KT9 2JS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "517780",
+  "northing": "163323",
+  "url": "http://www.chessingtoncommunitycollege.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

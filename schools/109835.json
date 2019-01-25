@@ -1,0 +1,18 @@
+{
+  "urn": "109835",
+  "name": "Cranbourne Primary School",
+  "address": "Lovel Road",
+  "locality": "Winkfield",
+  "address3": "",
+  "town": "Windsor",
+  "county": "Berkshire",
+  "postcode": "SL4 2EU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "492009",
+  "northing": "171682",
+  "url": "www.cranbourne.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103930",
+  "name": "Abbey Infant School",
+  "address": "Maurice Road",
+  "locality": "",
+  "address3": "",
+  "town": "Smethwick",
+  "county": "West Midlands",
+  "postcode": "B67 5LR",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "401438",
+  "northing": "286647",
+  "url": "http://www.abbeyfederation.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143377",
+  "name": "Dowson Primary Academy",
+  "address": "Marlborough Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hyde",
+  "county": "Cheshire",
+  "postcode": "SK14 5HU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "395211",
+  "northing": "393679",
+  "url": "www.dowson.tameside.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

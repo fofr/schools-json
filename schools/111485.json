@@ -1,0 +1,18 @@
+{
+  "urn": "111485",
+  "name": "The King's School",
+  "address": "Wrexham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH4 7QL",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "339935",
+  "northing": "363793",
+  "url": "http://www.kingschester.co.uk/",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

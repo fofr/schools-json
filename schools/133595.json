@@ -1,0 +1,18 @@
+{
+  "urn": "133595",
+  "name": "Hospital and Medical Tuition Service",
+  "address": "The School Room, Dolphin Ward",
+  "locality": "Medway Maritime Hospital",
+  "address3": "Windmill Road",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME7 5NY",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "577021",
+  "northing": "167424",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Miscellaneous"
+}

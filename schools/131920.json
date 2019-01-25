@@ -1,0 +1,18 @@
+{
+  "urn": "131920",
+  "name": "Four Oaks Primary School",
+  "address": "Edge Hill Road",
+  "locality": "Four Oaks",
+  "address3": "",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B74 4PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "410110",
+  "northing": "299761",
+  "url": "www.fouroaksprimary.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

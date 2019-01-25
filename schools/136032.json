@@ -1,0 +1,18 @@
+{
+  "urn": "136032",
+  "name": "North Birmingham Academy",
+  "address": "395 College Road",
+  "locality": "",
+  "address3": "Erdington",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B44 0HF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "408348",
+  "northing": "292910",
+  "url": "www.nbacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

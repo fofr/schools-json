@@ -1,0 +1,18 @@
+{
+  "urn": "107980",
+  "name": "East Ardsley Primary School",
+  "address": "Main Street",
+  "locality": "East Ardsley",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF3 2BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "430786",
+  "northing": "425613",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

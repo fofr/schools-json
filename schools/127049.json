@@ -1,0 +1,18 @@
+{
+  "urn": "127049",
+  "name": "Grove Infant and Nursery School",
+  "address": "Grove Lane",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B21 9HB",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "404614",
+  "northing": "289753",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

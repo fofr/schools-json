@@ -1,0 +1,18 @@
+{
+  "urn": "106065",
+  "name": "Norris Bank Primary School",
+  "address": "Green Lane",
+  "locality": "Heaton Norris",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 2NF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "387929",
+  "northing": "391019",
+  "url": "www.norrisbank.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

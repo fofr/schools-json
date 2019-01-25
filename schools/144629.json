@@ -1,0 +1,18 @@
+{
+  "urn": "144629",
+  "name": "Hamilton Academy",
+  "address": "Keyham Lane West",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 1RT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "464245",
+  "northing": "306482",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

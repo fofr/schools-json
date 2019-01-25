@@ -1,0 +1,18 @@
+{
+  "urn": "138910",
+  "name": "Shirley Junior School",
+  "address": "Bellemoor Road",
+  "locality": "Shirley",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO15 5XE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "440414",
+  "northing": "114462",
+  "url": "http://www.shirleyjuniorschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

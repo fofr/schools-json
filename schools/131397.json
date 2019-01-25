@@ -1,0 +1,18 @@
+{
+  "urn": "131397",
+  "name": "Wavendon Gate School",
+  "address": "Gregories Drive",
+  "locality": "Wavendon Gate",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK7 7HL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "490637",
+  "northing": "236689",
+  "url": "http://www.wavendongateschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

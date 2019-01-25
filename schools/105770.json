@@ -1,0 +1,18 @@
+{
+  "urn": "105770",
+  "name": "Heybrook Primary School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL12 9BJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "390450",
+  "northing": "414127",
+  "url": "www.heybrook.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

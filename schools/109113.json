@@ -1,0 +1,18 @@
+{
+  "urn": "109113",
+  "name": "Wellesley Primary School",
+  "address": "Edgeworth",
+  "locality": "Yate",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS37 8YR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "370532",
+  "northing": "180829",
+  "url": "http://www.wellesleyschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

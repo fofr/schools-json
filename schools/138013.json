@@ -1,0 +1,18 @@
+{
+  "urn": "138013",
+  "name": "Cippenham Primary School",
+  "address": "Elmshott Lane",
+  "locality": "Cippenham",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL1 5RB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "494046",
+  "northing": "180751",
+  "url": "http://www.cstrust.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

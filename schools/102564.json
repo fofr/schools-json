@@ -1,0 +1,18 @@
+{
+  "urn": "102564",
+  "name": "Burlington Junior School",
+  "address": "Burlington Road",
+  "locality": "",
+  "address3": "",
+  "town": "New Malden",
+  "county": "Surrey",
+  "postcode": "KT3 4LT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "521978",
+  "northing": "168166",
+  "url": "http://www.burlingtonj.kingston.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

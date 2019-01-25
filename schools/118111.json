@@ -1,0 +1,18 @@
+{
+  "urn": "118111",
+  "name": "Bridlington School",
+  "address": "Bessingby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bridlington",
+  "county": "",
+  "postcode": "YO16 4QU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517065",
+  "northing": "466943",
+  "url": "http://www.bridlingtonschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

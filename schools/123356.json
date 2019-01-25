@@ -1,0 +1,18 @@
+{
+  "urn": "123356",
+  "name": "Buildwas Primary School",
+  "address": "Buildwas Road",
+  "locality": "Buildwas",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF8 7DA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "363767",
+  "northing": "304706",
+  "url": "www.buildwas.shropshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

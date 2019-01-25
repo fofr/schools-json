@@ -1,0 +1,18 @@
+{
+  "urn": "111136",
+  "name": "Oaklands Community Infant School",
+  "address": "Tudor Road",
+  "locality": "Dean Row",
+  "address3": "",
+  "town": "Wilmslow",
+  "county": "Cheshire",
+  "postcode": "SK9 2HB",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "386423",
+  "northing": "382137",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139408",
+  "name": "Cambourne Village College",
+  "address": "Sheepfold Lane",
+  "locality": "Cambourne",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB23 6FR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "531075",
+  "northing": "259516",
+  "url": "http://www.cambournevc.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

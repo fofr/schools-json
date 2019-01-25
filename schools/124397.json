@@ -1,0 +1,18 @@
+{
+  "urn": "124397",
+  "name": "Kingsmead School",
+  "address": "Kings Avenue",
+  "locality": "",
+  "address3": "Hednesford",
+  "town": "Cannock",
+  "county": "Staffordshire",
+  "postcode": "WS12 1DH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "400426",
+  "northing": "311623",
+  "url": "http://www.kingsmeadonline.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

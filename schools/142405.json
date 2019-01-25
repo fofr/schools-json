@@ -1,0 +1,18 @@
+{
+  "urn": "142405",
+  "name": "David Nieper Academy",
+  "address": "Grange Street",
+  "locality": "",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 7JA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "441342",
+  "northing": "355405",
+  "url": "http://davidnieper.academy/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

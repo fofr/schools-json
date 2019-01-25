@@ -1,0 +1,18 @@
+{
+  "urn": "109676",
+  "name": "Potton Middle School",
+  "address": "Mill Lane",
+  "locality": "Potton",
+  "address3": "",
+  "town": "Sandy",
+  "county": "Bedfordshire",
+  "postcode": "SG19 2PG",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "521865",
+  "northing": "249504",
+  "url": "http://www.pottonfederation.co.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

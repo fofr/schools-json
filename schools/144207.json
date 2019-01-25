@@ -1,0 +1,18 @@
+{
+  "urn": "144207",
+  "name": "The Co-op Academy Friarswood",
+  "address": "Abbots Way",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 2ES",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384623",
+  "northing": "345189",
+  "url": "www.friarswoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

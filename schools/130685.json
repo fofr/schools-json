@@ -1,0 +1,18 @@
+{
+  "urn": "130685",
+  "name": "Stroud College of Further Education",
+  "address": "Stratford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL5 4AH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "384174",
+  "northing": "205677",
+  "url": "http://www.stroud.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

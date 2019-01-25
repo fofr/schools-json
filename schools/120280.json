@@ -1,0 +1,18 @@
+{
+  "urn": "120280",
+  "name": "Wycliffe Community College",
+  "address": "Hamelin Road",
+  "locality": "Braunstone",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 1JN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "455783",
+  "northing": "303881",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

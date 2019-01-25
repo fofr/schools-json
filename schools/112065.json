@@ -1,0 +1,18 @@
+{
+  "urn": "112065",
+  "name": "Hayle Community School",
+  "address": "3 High Lanes",
+  "locality": "",
+  "address3": "",
+  "town": "Hayle",
+  "county": "Cornwall",
+  "postcode": "TR27 4DN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "156622",
+  "northing": "37210",
+  "url": "http://www.hayleschool.net/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

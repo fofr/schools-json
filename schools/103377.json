@@ -1,0 +1,18 @@
+{
+  "urn": "103377",
+  "name": "Great Barr Primary School",
+  "address": "Aldridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B44 8NT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "406686",
+  "northing": "294102",
+  "url": "http://www.greatbarr-pri.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115300",
+  "name": "Walton on the Naze Primary School",
+  "address": "Standley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Walton on the Naze",
+  "county": "Essex",
+  "postcode": "CO14 8PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "625585",
+  "northing": "222134",
+  "url": "www.waltonprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

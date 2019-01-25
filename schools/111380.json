@@ -1,0 +1,18 @@
+{
+  "urn": "111380",
+  "name": "St Martin's Catholic Primary School",
+  "address": "St Martin's Lane",
+  "locality": "Murdishaw",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 6HZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "355998",
+  "northing": "381027",
+  "url": "www.st-martins.halton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

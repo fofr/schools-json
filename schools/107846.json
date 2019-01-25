@@ -1,0 +1,18 @@
+{
+  "urn": "107846",
+  "name": "West End Primary School",
+  "address": "West End Lane",
+  "locality": "Horsforth",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS18 5JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "422920",
+  "northing": "438403",
+  "url": "www.westendprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

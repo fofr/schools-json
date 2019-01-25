@@ -1,0 +1,18 @@
+{
+  "urn": "128602",
+  "name": "Eden School",
+  "address": "Rickerby",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA3 9AA",
+  "minimum_age": "11",
+  "maximum_age": "15",
+  "easting": "341449",
+  "northing": "557036",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

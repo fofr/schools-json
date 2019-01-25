@@ -1,0 +1,18 @@
+{
+  "urn": "127539",
+  "name": "Sale Boys' Grammar School",
+  "address": "Moss Lane",
+  "locality": "The Avenue",
+  "address3": "",
+  "town": "Sale",
+  "county": "Cheshire",
+  "postcode": "M33 4NA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "376662",
+  "northing": "390921",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

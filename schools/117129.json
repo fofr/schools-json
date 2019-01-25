@@ -1,0 +1,18 @@
+{
+  "urn": "117129",
+  "name": "Reed First School",
+  "address": "Jacksons Lane",
+  "locality": "Reed",
+  "address3": "",
+  "town": "Royston",
+  "county": "Hertfordshire",
+  "postcode": "SG8 8AB",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "536287",
+  "northing": "236362",
+  "url": "www.reed.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

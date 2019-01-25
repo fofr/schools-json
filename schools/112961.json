@@ -1,0 +1,18 @@
+{
+  "urn": "112961",
+  "name": "Parkside Community School",
+  "address": "Boythorpe Avenue",
+  "locality": "Boythorpe",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S40 2NS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "437559",
+  "northing": "370465",
+  "url": "www.parkside.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

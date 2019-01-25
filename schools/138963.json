@@ -1,0 +1,18 @@
+{
+  "urn": "138963",
+  "name": "Whitemoor Academy",
+  "address": "Whitemoor",
+  "locality": "",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL26 7XQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "197010",
+  "northing": "57407",
+  "url": "www.whitemoor.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

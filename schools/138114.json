@@ -1,0 +1,18 @@
+{
+  "urn": "138114",
+  "name": "The Priory School",
+  "address": "Tintagel Road",
+  "locality": "",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR5 4LG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "547332",
+  "northing": "166105",
+  "url": "http://www.priory.bromley.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

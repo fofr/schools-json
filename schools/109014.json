@@ -1,0 +1,18 @@
+{
+  "urn": "109014",
+  "name": "Shield Road Primary School",
+  "address": "Shields Avenue",
+  "locality": "Northville",
+  "address3": "",
+  "town": "Bristol",
+  "county": "South Gloucestershire",
+  "postcode": "BS7 0RR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "360391",
+  "northing": "178478",
+  "url": "www.shieldroadprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

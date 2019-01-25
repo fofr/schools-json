@@ -1,0 +1,18 @@
+{
+  "urn": "110242",
+  "name": "Lavendon School",
+  "address": "High Street",
+  "locality": "Lavendon",
+  "address3": "",
+  "town": "Olney",
+  "county": "Buckinghamshire",
+  "postcode": "MK46 4HA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "491850",
+  "northing": "253585",
+  "url": "www.lavendonschoolmk.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

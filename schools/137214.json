@@ -1,0 +1,18 @@
+{
+  "urn": "137214",
+  "name": "William Edwards School",
+  "address": "Stifford Clays Road",
+  "locality": "Stifford Clays",
+  "address3": "",
+  "town": "Grays",
+  "county": "Essex",
+  "postcode": "RM16 3NJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "562008",
+  "northing": "180873",
+  "url": "http://williamedwards.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

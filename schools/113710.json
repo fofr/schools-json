@@ -1,0 +1,18 @@
+{
+  "urn": "113710",
+  "name": "Grove Infant School",
+  "address": "Grove Road",
+  "locality": "",
+  "address3": "",
+  "town": "Portland",
+  "county": "Dorset",
+  "postcode": "DT5 1DB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "369954",
+  "northing": "72555",
+  "url": "http://www.groveportland.dorset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

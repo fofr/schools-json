@@ -1,0 +1,18 @@
+{
+  "urn": "132152",
+  "name": "Dore Primary School",
+  "address": "Furniss Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S17 3QP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "430853",
+  "northing": "380939",
+  "url": "www.dore.sheffield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

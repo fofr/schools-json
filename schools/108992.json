@@ -1,0 +1,18 @@
+{
+  "urn": "108992",
+  "name": "Cabot Primary School",
+  "address": "Halston Drive",
+  "locality": "St Paul's",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS2 9JE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "359719",
+  "northing": "173935",
+  "url": "www.cabot.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

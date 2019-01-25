@@ -1,0 +1,18 @@
+{
+  "urn": "123059",
+  "name": "Drayton Community Primary School",
+  "address": "Hilliat Fields",
+  "locality": "Drayton",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 4JF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "447574",
+  "northing": "194569",
+  "url": "http://www.drayton-pri.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121213",
+  "name": "Acle High School",
+  "address": "South Walsham Road",
+  "locality": "Acle",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR13 3ER",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "639676",
+  "northing": "310728",
+  "url": "http://www.acle.norfolk.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121385",
+  "name": "Burton Salmon Community Primary School",
+  "address": "Burton Salmon",
+  "locality": "Ledgate Lane",
+  "address3": "",
+  "town": "Leeds",
+  "county": "North Yorkshire",
+  "postcode": "LS25 5JY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449078",
+  "northing": "427464",
+  "url": "http://www.burtonsalmon.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

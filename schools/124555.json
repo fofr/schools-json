@@ -1,0 +1,18 @@
+{
+  "urn": "124555",
+  "name": "Howard Community Primary School",
+  "address": "Beard Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP32 6SA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "583765",
+  "northing": "265945",
+  "url": "www.howardprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121342",
+  "name": "Sheriff Hutton Primary School",
+  "address": "West End",
+  "locality": "Sheriff Hutton",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO60 6SH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "464818",
+  "northing": "466421",
+  "url": "http://www.sheriffhuttonschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

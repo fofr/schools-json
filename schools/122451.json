@@ -1,0 +1,18 @@
+{
+  "urn": "122451",
+  "name": "Forest Town Infant School",
+  "address": "Clipstone Road West",
+  "locality": "Forest Town",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 0ED",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "456260",
+  "northing": "362163",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

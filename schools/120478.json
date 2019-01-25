@@ -1,0 +1,18 @@
+{
+  "urn": "120478",
+  "name": "Sturton by Stow Primary School",
+  "address": "School Lane",
+  "locality": "Sturton-by-Stow",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN1 2BY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "488987",
+  "northing": "381017",
+  "url": "www.sturtonbystow.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

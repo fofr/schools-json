@@ -1,0 +1,18 @@
+{
+  "urn": "132211",
+  "name": "Caldecote Community Primary School",
+  "address": "164 Hallam Crescent East",
+  "locality": "Braunstone",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 1FF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456142",
+  "northing": "302416",
+  "url": "www.caldecote.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

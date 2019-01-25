@@ -1,0 +1,18 @@
+{
+  "urn": "112545",
+  "name": "Renishaw Primary School",
+  "address": "Hague Lane",
+  "locality": "Renishaw",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "Derbyshire",
+  "postcode": "S21 3UR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "444544",
+  "northing": "377895",
+  "url": "www.renishawprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

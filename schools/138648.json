@@ -1,0 +1,18 @@
+{
+  "urn": "138648",
+  "name": "Hilltop Primary School",
+  "address": "Ditchling Hill",
+  "locality": "Southgate West",
+  "address3": "",
+  "town": "Crawley",
+  "county": "West Sussex",
+  "postcode": "RH11 8QL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "526418",
+  "northing": "135596",
+  "url": "www.hilltop-tkat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

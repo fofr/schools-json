@@ -1,0 +1,18 @@
+{
+  "urn": "137480",
+  "name": "Southwark Primary School",
+  "address": "Park Lane",
+  "locality": "Old Basford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG6 0DT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455136",
+  "northing": "343824",
+  "url": "www.southwarkprimary.net/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

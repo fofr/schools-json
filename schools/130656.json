@@ -1,0 +1,18 @@
+{
+  "urn": "130656",
+  "name": "Darlington College",
+  "address": "Central Park",
+  "locality": "Haughton Road",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL1 1DR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "429760",
+  "northing": "515081",
+  "url": "http://www.darlington.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

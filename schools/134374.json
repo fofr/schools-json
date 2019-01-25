@@ -1,0 +1,18 @@
+{
+  "urn": "134374",
+  "name": "Christchurch Learning Centre",
+  "address": "29 Stour Road",
+  "locality": "",
+  "address3": "",
+  "town": "Christchurch",
+  "county": "Dorset",
+  "postcode": "BH23 1PJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "415320",
+  "northing": "93103",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

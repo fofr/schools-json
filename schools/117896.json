@@ -1,0 +1,18 @@
+{
+  "urn": "117896",
+  "name": "Wold Primary School",
+  "address": "Wold Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 5QG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "504892",
+  "northing": "430434",
+  "url": "http://www.woldprimaryschool.ik.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

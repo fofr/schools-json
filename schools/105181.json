@@ -1,0 +1,18 @@
+{
+  "urn": "105181",
+  "name": "Fourgates Primary School",
+  "address": "Chorley Road",
+  "locality": "Westhoughton",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL5 3NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "363989",
+  "northing": "408125",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

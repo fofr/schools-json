@@ -1,0 +1,18 @@
+{
+  "urn": "113153",
+  "name": "Brayford Primary School",
+  "address": "Brayford",
+  "locality": "",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX32 7QJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "269072",
+  "northing": "134815",
+  "url": "http://www.brayford.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145155",
+  "name": "UTC Swindon",
+  "address": "Bristol Street",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN1 5ET",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "414387",
+  "northing": "184776",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

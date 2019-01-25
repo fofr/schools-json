@@ -1,0 +1,18 @@
+{
+  "urn": "113315",
+  "name": "Boringdon Primary School",
+  "address": "Courtland Crescent",
+  "locality": "Plympton",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL7 4HJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "253687",
+  "northing": "57037",
+  "url": "http://www.boringdon.plymouth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

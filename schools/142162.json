@@ -1,0 +1,18 @@
+{
+  "urn": "142162",
+  "name": "St Mary's Catholic Primary School, Whitstable",
+  "address": "Northwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Whitstable",
+  "county": "Kent",
+  "postcode": "CT5 2EY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "611618",
+  "northing": "166842",
+  "url": "http://www.st-marys-whitstable.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141028",
+  "name": "Burnley High School",
+  "address": "Byron Street",
+  "locality": "",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB12 6NX",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "380780",
+  "northing": "433277",
+  "url": "http://burnleyhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142478",
+  "name": "West Lancashire College",
+  "address": "College Way",
+  "locality": "",
+  "address3": "",
+  "town": "Skelmersdale",
+  "county": "Lancashire",
+  "postcode": "WN8 6DX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "348415",
+  "northing": "406522",
+  "url": "www.westlancs.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

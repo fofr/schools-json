@@ -1,0 +1,18 @@
+{
+  "urn": "124440",
+  "name": "Haywood Engineering College",
+  "address": "High Lane",
+  "locality": "Burslem",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 7AB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "387470",
+  "northing": "350864",
+  "url": "http://www.haywood.stoke.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101148",
+  "name": "Pimlico School",
+  "address": "Lupus Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW1V 3AT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "529431",
+  "northing": "178226",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

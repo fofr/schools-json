@@ -1,0 +1,18 @@
+{
+  "urn": "101995",
+  "name": "Hazelbury Primary School",
+  "address": "Haselbury Road",
+  "locality": "Edmonton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N9 9TT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533311",
+  "northing": "193331",
+  "url": "www.hazelburyinfants.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110234",
+  "name": "Marsh School",
+  "address": "Abbey Barn Road",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP11 1RW",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "488616",
+  "northing": "191766",
+  "url": "http://www.marshschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

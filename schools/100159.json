@@ -1,0 +1,18 @@
+{
+  "urn": "100159",
+  "name": "Linton Mead Primary School",
+  "address": "Central Way",
+  "locality": "Thamesmead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE28 8DT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "546738",
+  "northing": "180895",
+  "url": "www.lintonmead.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

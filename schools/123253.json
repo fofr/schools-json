@@ -1,0 +1,18 @@
+{
+  "urn": "123253",
+  "name": "Cheney School",
+  "address": "Cheney Lane",
+  "locality": "Headington",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 7QH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "453790",
+  "northing": "206314",
+  "url": "http://www.cheney.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

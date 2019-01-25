@@ -1,0 +1,18 @@
+{
+  "urn": "121748",
+  "name": "Read School",
+  "address": "Drax",
+  "locality": "",
+  "address3": "",
+  "town": "Selby",
+  "county": "North Yorkshire",
+  "postcode": "YO8 8NL",
+  "minimum_age": "3",
+  "maximum_age": "18",
+  "easting": "467706",
+  "northing": "426701",
+  "url": "http://www.readschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102344",
+  "name": "Gaynes School",
+  "address": "Brackendale Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Upminster",
+  "county": "Essex",
+  "postcode": "RM14 3UX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "556274",
+  "northing": "185453",
+  "url": "http://www.gaynes.havering.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

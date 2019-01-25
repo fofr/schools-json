@@ -1,0 +1,18 @@
+{
+  "urn": "138497",
+  "name": "Harpfield Primary Academy",
+  "address": "Palmers Green",
+  "locality": "Hartshill",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 6AP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385755",
+  "northing": "345910",
+  "url": "www.harpfieldprimaryacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

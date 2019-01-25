@@ -1,0 +1,18 @@
+{
+  "urn": "101817",
+  "name": "Atwood Primary School",
+  "address": "Limpsfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Croydon",
+  "county": "Surrey",
+  "postcode": "CR2 9EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534231",
+  "northing": "160564",
+  "url": "www.atwoodschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

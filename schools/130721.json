@@ -1,0 +1,18 @@
+{
+  "urn": "130721",
+  "name": "North Hertfordshire College",
+  "address": "Monkswood Way",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG1 1LA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "523974",
+  "northing": "223560",
+  "url": "www.nhc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

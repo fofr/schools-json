@@ -1,0 +1,18 @@
+{
+  "urn": "104863",
+  "name": "Farnborough Road Infant School",
+  "address": "Farnborough Road",
+  "locality": "Birkdale",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR8 3DF",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "333059",
+  "northing": "413751",
+  "url": "www.farnboroughroadinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

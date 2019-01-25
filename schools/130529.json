@@ -1,0 +1,18 @@
+{
+  "urn": "130529",
+  "name": "Dearne Valley College",
+  "address": "Manvers Park",
+  "locality": "Wath-upon-Dearne",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S63 7EW",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "445470",
+  "northing": "400343",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

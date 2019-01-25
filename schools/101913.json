@@ -1,0 +1,18 @@
+{
+  "urn": "101913",
+  "name": "Tudor Primary School",
+  "address": "Tudor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southall",
+  "county": "",
+  "postcode": "UB1 1NX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "512183",
+  "northing": "180763",
+  "url": "http://www.tudorprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

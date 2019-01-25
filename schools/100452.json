@@ -1,0 +1,18 @@
+{
+  "urn": "100452",
+  "name": "Highbury Grove School",
+  "address": "8 Highbury Grove",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N5 2EQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "531981",
+  "northing": "185153",
+  "url": "http://www.highburygrove.islington.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

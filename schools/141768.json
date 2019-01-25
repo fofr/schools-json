@@ -1,0 +1,18 @@
+{
+  "urn": "141768",
+  "name": "Colehill First School",
+  "address": "Pilford Heath Road",
+  "locality": "Colehill",
+  "address3": "",
+  "town": "Wimborne",
+  "county": "Dorset",
+  "postcode": "BH21 2LZ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "403445",
+  "northing": "101085",
+  "url": "www.colehillfirst.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

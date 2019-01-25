@@ -1,0 +1,18 @@
+{
+  "urn": "138841",
+  "name": "King Ecgbert School",
+  "address": "Totley Brook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S17 3QU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "430964",
+  "northing": "380507",
+  "url": "http://www.ecgbert.sheffield.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

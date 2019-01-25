@@ -1,0 +1,18 @@
+{
+  "urn": "130547",
+  "name": "Leeds Arts University",
+  "address": "Blenheim Walk",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS2 9AQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "429635",
+  "northing": "434834",
+  "url": "www.leeds-art.ac.uk",
+  "phase": "Not applicable",
+  "type": "Universities",
+  "detailed_type": "Higher education institutions"
+}

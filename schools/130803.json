@@ -1,0 +1,18 @@
+{
+  "urn": "130803",
+  "name": "Bridgwater and Taunton College",
+  "address": "Bath Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA6 4PZ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "331024",
+  "northing": "137335",
+  "url": "http://www.btc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

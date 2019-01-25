@@ -1,0 +1,18 @@
+{
+  "urn": "109121",
+  "name": "Blackhorse Primary School",
+  "address": "Blackhorse Lane",
+  "locality": "Emersons Green",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS16 6TR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "366330",
+  "northing": "178015",
+  "url": "www.blackhorseprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

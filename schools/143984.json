@@ -1,0 +1,18 @@
+{
+  "urn": "143984",
+  "name": "Icknield Community College",
+  "address": "Love Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Watlington",
+  "county": "Oxfordshire",
+  "postcode": "OX49 5RB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "468795",
+  "northing": "194866",
+  "url": "http://www.icknield.oxon.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

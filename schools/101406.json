@@ -1,0 +1,18 @@
+{
+  "urn": "101406",
+  "name": "East Wickham Infant School",
+  "address": "Wickham Street",
+  "locality": "",
+  "address3": "",
+  "town": "Welling",
+  "county": "Kent",
+  "postcode": "DA16 3BP",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "546123",
+  "northing": "176548",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

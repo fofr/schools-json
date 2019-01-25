@@ -1,0 +1,18 @@
+{
+  "urn": "123669",
+  "name": "Wookey Primary School",
+  "address": "Wells Road",
+  "locality": "Wookey",
+  "address3": "",
+  "town": "Wells",
+  "county": "Somerset",
+  "postcode": "BA5 1LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "351327",
+  "northing": "145262",
+  "url": "www.wookeyprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

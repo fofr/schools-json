@@ -1,0 +1,18 @@
+{
+  "urn": "130570",
+  "name": "Middlesbrough College",
+  "address": "Middlehaven",
+  "locality": "Dock Street",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS2 1AD",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "449996",
+  "northing": "520789",
+  "url": "http://www.middlesbro.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139981",
+  "name": "Eastfield Primary Academy",
+  "address": "Margaret Street",
+  "locality": "",
+  "address3": "",
+  "town": "Immingham",
+  "county": "North East Lincolnshire",
+  "postcode": "DN40 1LD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518263",
+  "northing": "414032",
+  "url": "www.eastfieldprimary.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

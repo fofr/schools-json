@@ -1,0 +1,18 @@
+{
+  "urn": "108274",
+  "name": "Hemsworth Arts and Community College",
+  "address": "Station Road",
+  "locality": "Hemsworth",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 4HW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "443073",
+  "northing": "413330",
+  "url": "http://www.hemsworth.wakefield.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

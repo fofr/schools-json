@@ -1,0 +1,18 @@
+{
+  "urn": "113252",
+  "name": "Holbeton School",
+  "address": "The Square",
+  "locality": "Holbeton",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL8 1LT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "261462",
+  "northing": "50160",
+  "url": "www.holbeton.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

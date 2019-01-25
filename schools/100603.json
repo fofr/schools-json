@@ -1,0 +1,18 @@
+{
+  "urn": "100603",
+  "name": "Loughborough Infant School",
+  "address": "Minet Road",
+  "locality": "Brixton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW9 7UA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "531716",
+  "northing": "176212",
+  "url": "http://atschool.eduweb.co.uk/loughinf/index.html",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

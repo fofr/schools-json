@@ -1,0 +1,18 @@
+{
+  "urn": "145682",
+  "name": "St Augustine's CofE Academy",
+  "address": "Pipehay Lane",
+  "locality": "Draycott-in-the-Clay",
+  "address3": "",
+  "town": "Ashbourne",
+  "county": "Derbyshire",
+  "postcode": "DE6 5BY",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "415673",
+  "northing": "328296",
+  "url": "www.st-augustines.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

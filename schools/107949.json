@@ -1,0 +1,18 @@
+{
+  "urn": "107949",
+  "name": "Greenmount Primary School",
+  "address": "Lodge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 6BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429555",
+  "northing": "431290",
+  "url": "www.greenmountprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

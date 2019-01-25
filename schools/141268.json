@@ -1,0 +1,18 @@
+{
+  "urn": "141268",
+  "name": "Northgate High School",
+  "address": "Cemetery Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dereham",
+  "county": "Norfolk",
+  "postcode": "NR19 2EU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "598973",
+  "northing": "314051",
+  "url": "http://www.northgate.norfolk.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

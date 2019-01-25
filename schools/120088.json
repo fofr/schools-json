@@ -1,0 +1,18 @@
+{
+  "urn": "120088",
+  "name": "Parks Primary School",
+  "address": "New Parks Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 9NZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456518",
+  "northing": "305644",
+  "url": "www.parksprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

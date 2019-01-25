@@ -1,0 +1,18 @@
+{
+  "urn": "122598",
+  "name": "West Bridgford Infant School",
+  "address": "Avon Gardens",
+  "locality": "George Road",
+  "address3": "West Bridgford",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 6BP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "458481",
+  "northing": "337363",
+  "url": "www.westbridgfordinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

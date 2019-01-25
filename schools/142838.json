@@ -1,0 +1,18 @@
+{
+  "urn": "142838",
+  "name": "Badger Hill Primary Academy",
+  "address": "Crossways",
+  "locality": "Badger Hill",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO10 5JF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "463028",
+  "northing": "450907",
+  "url": "http://www.badgerhillprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

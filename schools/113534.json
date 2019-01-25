@@ -1,0 +1,18 @@
+{
+  "urn": "113534",
+  "name": "Southway Community College",
+  "address": "Rockfield Avenue",
+  "locality": "Southway",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 6DY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "248613",
+  "northing": "60897",
+  "url": "http://www.southwaycc.btinternet.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

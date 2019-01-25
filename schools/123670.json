@@ -1,0 +1,18 @@
+{
+  "urn": "123670",
+  "name": "Manor Court Community Primary School",
+  "address": "Duck Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chard",
+  "county": "Somerset",
+  "postcode": "TA20 2ES",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "332173",
+  "northing": "108270",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

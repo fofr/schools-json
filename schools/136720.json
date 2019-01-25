@@ -1,0 +1,18 @@
+{
+  "urn": "136720",
+  "name": "Welling School",
+  "address": "Elsa Road",
+  "locality": "",
+  "address3": "",
+  "town": "Welling",
+  "county": "Kent",
+  "postcode": "DA16 1LB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "546941",
+  "northing": "176454",
+  "url": "http://www.wellingschool-tkat.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107000",
+  "name": "Marlcliffe Community Primary School",
+  "address": "Marlcliffe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S6 4AJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "432542",
+  "northing": "390852",
+  "url": "www.marlcliffe.sheffield.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

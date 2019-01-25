@@ -1,0 +1,18 @@
+{
+  "urn": "101874",
+  "name": "St Mark's Primary School",
+  "address": "Lower Boston Road",
+  "locality": "Hanwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W7 2NR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "515260",
+  "northing": "179972",
+  "url": "www.st-marks.ealing.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

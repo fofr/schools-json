@@ -1,0 +1,18 @@
+{
+  "urn": "110330",
+  "name": "Pepper Hill School",
+  "address": "Kingsfold",
+  "locality": "Bradville",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK13 7BQ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "483362",
+  "northing": "241214",
+  "url": "http://www.pepperhillschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

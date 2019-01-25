@@ -1,0 +1,18 @@
+{
+  "urn": "114315",
+  "name": "Wellfield School",
+  "address": "North Road East",
+  "locality": "",
+  "address3": "",
+  "town": "Wingate",
+  "county": "County Durham",
+  "postcode": "TS28 5AX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "440204",
+  "northing": "537592",
+  "url": "www.wellfieldschool.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

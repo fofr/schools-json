@@ -1,0 +1,18 @@
+{
+  "urn": "119153",
+  "name": "Kennington Primary School",
+  "address": "Kennington Road",
+  "locality": "Fulwood",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 8ER",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "354244",
+  "northing": "431703",
+  "url": "www.kennington.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

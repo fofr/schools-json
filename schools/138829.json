@@ -1,0 +1,18 @@
+{
+  "urn": "138829",
+  "name": "Reepham High School and College",
+  "address": "Whitwell Road",
+  "locality": "Reepham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR10 4JT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "609780",
+  "northing": "322345",
+  "url": "http://www.reephamhigh.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

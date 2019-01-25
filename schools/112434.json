@@ -1,0 +1,18 @@
+{
+  "urn": "112434",
+  "name": "Appleby Grammar School",
+  "address": "Battlebarrow",
+  "locality": "",
+  "address3": "",
+  "town": "Appleby-in-Westmorland",
+  "county": "Cumbria",
+  "postcode": "CA16 6XU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "368104",
+  "northing": "521037",
+  "url": "http://www.appleby.cumbria.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

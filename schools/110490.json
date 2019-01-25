@@ -1,0 +1,18 @@
+{
+  "urn": "110490",
+  "name": "The Misbourne School",
+  "address": "Misbourne Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Great Missenden",
+  "county": "Buckinghamshire",
+  "postcode": "HP16 0BN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "489619",
+  "northing": "200782",
+  "url": "www.misbourne.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

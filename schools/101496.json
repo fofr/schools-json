@@ -1,0 +1,18 @@
+{
+  "urn": "101496",
+  "name": "Brentfield Primary School",
+  "address": "41-43 Meadow Garth",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW10 0SL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "520547",
+  "northing": "184530",
+  "url": "www.brentfield.brent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

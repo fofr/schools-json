@@ -1,0 +1,18 @@
+{
+  "urn": "138719",
+  "name": "Hook-With-Warsash Church of England Academy",
+  "address": "Church Road",
+  "locality": "Warsash",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO31 9GF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449737",
+  "northing": "105859",
+  "url": "http://www.hookwithwarsash.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

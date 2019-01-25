@@ -1,0 +1,18 @@
+{
+  "urn": "121392",
+  "name": "Giggleswick Primary School",
+  "address": "Church Street",
+  "locality": "Giggleswick",
+  "address3": "",
+  "town": "Settle",
+  "county": "North Yorkshire",
+  "postcode": "BD24 0BJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "380997",
+  "northing": "464074",
+  "url": "http://www.giggleswick-pri.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

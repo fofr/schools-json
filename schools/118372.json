@@ -1,0 +1,18 @@
+{
+  "urn": "118372",
+  "name": "Bethersden Primary School",
+  "address": "School Road",
+  "locality": "Bethersden",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Kent",
+  "postcode": "TN26 3AH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "592556",
+  "northing": "140108",
+  "url": "www.bethersden.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

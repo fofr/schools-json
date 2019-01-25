@@ -1,0 +1,18 @@
+{
+  "urn": "111937",
+  "name": "St Teath Community Primary School",
+  "address": "North Road",
+  "locality": "St Teath",
+  "address3": "",
+  "town": "Bodmin",
+  "county": "Cornwall",
+  "postcode": "PL30 3JX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "206382",
+  "northing": "80704",
+  "url": "www.ststeathschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

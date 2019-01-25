@@ -1,0 +1,18 @@
+{
+  "urn": "111159",
+  "name": "Rode Heath Primary School",
+  "address": "Heath Avenue",
+  "locality": "Rode Heath",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 3RY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "380768",
+  "northing": "357416",
+  "url": "www.rodeheath.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143474",
+  "name": "Chaddlewood Primary School",
+  "address": "Hemerdon Heights",
+  "locality": "Plympton",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL7 2EU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "255295",
+  "northing": "56432",
+  "url": "www.chaddlewood-primary.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108380",
+  "name": "Caedmon Community Primary School",
+  "address": "Whitehall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gateshead",
+  "county": "Tyne and Wear",
+  "postcode": "NE8 4LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425388",
+  "northing": "562061",
+  "url": "http://www.caedmonprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

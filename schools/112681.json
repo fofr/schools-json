@@ -1,0 +1,18 @@
+{
+  "urn": "112681",
+  "name": "Ladywood Primary School",
+  "address": "Oliver Road",
+  "locality": "Kirk Hallam",
+  "address3": "",
+  "town": "Ilkeston",
+  "county": "Derbyshire",
+  "postcode": "DE7 4NH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445635",
+  "northing": "340452",
+  "url": "www.ladywoodschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

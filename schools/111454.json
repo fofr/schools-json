@@ -1,0 +1,18 @@
+{
+  "urn": "111454",
+  "name": "St Gregory's Catholic High School",
+  "address": "Cromwell Avenue",
+  "locality": "Westbrook",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA5 1HG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "358803",
+  "northing": "388412",
+  "url": "http://www.stgregoryshigh.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

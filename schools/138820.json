@@ -1,0 +1,18 @@
+{
+  "urn": "138820",
+  "name": "Castle Donington College",
+  "address": "Mount Pleasant",
+  "locality": "Castle Donington",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE74 2LN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "444827",
+  "northing": "327131",
+  "url": "http://www.castledonington.leics.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

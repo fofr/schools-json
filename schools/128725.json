@@ -1,0 +1,18 @@
+{
+  "urn": "128725",
+  "name": "Penlee Secondary School",
+  "address": "Somerset Place",
+  "locality": "Stoke",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL3 4BD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "246592",
+  "northing": "55719",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

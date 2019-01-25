@@ -1,0 +1,18 @@
+{
+  "urn": "104178",
+  "name": "Salisbury Primary School",
+  "address": "Salisbury Street",
+  "locality": "Darlaston",
+  "address3": "",
+  "town": "Wednesbury",
+  "county": "West Midlands",
+  "postcode": "WS10 8BQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "398477",
+  "northing": "297131",
+  "url": "www.salisbury.walsall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

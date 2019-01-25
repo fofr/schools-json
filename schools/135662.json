@@ -1,0 +1,18 @@
+{
+  "urn": "135662",
+  "name": "The Hereford Academy",
+  "address": "Marlbrook Road",
+  "locality": "Redhill",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR2 7NG",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "350132",
+  "northing": "237991",
+  "url": "http://www.theherefordacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

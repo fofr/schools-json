@@ -1,0 +1,18 @@
+{
+  "urn": "141686",
+  "name": "Manor Community Academy",
+  "address": "Owton Manor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "Teesside",
+  "postcode": "TS25 3PS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "449048",
+  "northing": "529391",
+  "url": "http://www.manoracademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

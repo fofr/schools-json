@@ -1,0 +1,18 @@
+{
+  "urn": "100404",
+  "name": "Ecclesbourne Primary School",
+  "address": "Ecclesbourne Road",
+  "locality": "Islington",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 3AG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532490",
+  "northing": "184260",
+  "url": "office@ecclesbourne.islington.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

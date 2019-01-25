@@ -1,0 +1,18 @@
+{
+  "urn": "140151",
+  "name": "St Wilfrid's Catholic Primary School",
+  "address": "Queen's Avenue",
+  "locality": "Tunstall",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 6EE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386491",
+  "northing": "351307",
+  "url": "www.st-wilfrids.stoke.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

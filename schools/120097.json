@@ -1,0 +1,18 @@
+{
+  "urn": "120097",
+  "name": "Cobden Primary School & Community Centre",
+  "address": "Cobden Street",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 1AF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "454026",
+  "northing": "319616",
+  "url": "www.cobden.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

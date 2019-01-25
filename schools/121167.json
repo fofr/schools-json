@@ -1,0 +1,18 @@
+{
+  "urn": "121167",
+  "name": "Attleborough High School",
+  "address": "9 Norwich Road",
+  "locality": "",
+  "address3": "",
+  "town": "Attleborough",
+  "county": "Norfolk",
+  "postcode": "NR17 2AJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "604917",
+  "northing": "295591",
+  "url": "http://www.attleboroughhigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140433",
+  "name": "Martello Primary",
+  "address": "Warren Way",
+  "locality": "",
+  "address3": "",
+  "town": "Folkestone",
+  "county": "Kent",
+  "postcode": "CT19 6DT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "623927",
+  "northing": "137063",
+  "url": "www.turnermartello.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

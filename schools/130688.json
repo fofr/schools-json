@@ -1,0 +1,18 @@
+{
+  "urn": "130688",
+  "name": "Basingstoke College of Technology",
+  "address": "Worting Road",
+  "locality": "",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG21 8TN",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "463194",
+  "northing": "151986",
+  "url": "www.bcot.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123585",
+  "name": "Sutherland Business and Enterprise College",
+  "address": "Gibbons Road",
+  "locality": "Trench",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF2 7JR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "369877",
+  "northing": "312970",
+  "url": "http://www.sutherland.wrekin.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

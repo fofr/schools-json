@@ -1,0 +1,18 @@
+{
+  "urn": "141151",
+  "name": "Market Harborough Church of England Academy",
+  "address": "Fairfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Market Harborough",
+  "county": "Leicestershire",
+  "postcode": "LE16 9QH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "472937",
+  "northing": "287470",
+  "url": "http://www.marketharboroughcofe.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120015",
+  "name": "Inglehurst Infant School",
+  "address": "Ingle Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 9FS",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "456925",
+  "northing": "305150",
+  "url": "www.inglehurstinfants.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

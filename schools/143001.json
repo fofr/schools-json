@@ -1,0 +1,18 @@
+{
+  "urn": "143001",
+  "name": "Wallace Fields Infant School and Nursery",
+  "address": "Wallace Fields",
+  "locality": "Ewell",
+  "address3": "",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT17 3AS",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "522183",
+  "northing": "160959",
+  "url": "www.wallacefieldsinfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

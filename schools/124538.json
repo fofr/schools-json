@@ -1,0 +1,18 @@
+{
+  "urn": "124538",
+  "name": "Hundon Community Primary School",
+  "address": "North Street",
+  "locality": "Hundon",
+  "address3": "",
+  "town": "Sudbury",
+  "county": "Suffolk",
+  "postcode": "CO10 8EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "573772",
+  "northing": "248785",
+  "url": "http://www.hundon.suffolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

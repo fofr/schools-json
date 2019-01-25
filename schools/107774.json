@@ -1,0 +1,18 @@
+{
+  "urn": "107774",
+  "name": "Birkdale High School",
+  "address": "Wheelwright Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Dewsbury",
+  "county": "West Yorkshire",
+  "postcode": "WF13 4JB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "423615",
+  "northing": "422695",
+  "url": "www.birkdalehigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

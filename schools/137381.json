@@ -1,0 +1,18 @@
+{
+  "urn": "137381",
+  "name": "Plumberow Primary Academy",
+  "address": "Hamilton Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Hockley",
+  "county": "Essex",
+  "postcode": "SS5 5BX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "584460",
+  "northing": "193400",
+  "url": "www.plumberowprimaryacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

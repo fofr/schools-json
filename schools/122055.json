@@ -1,0 +1,18 @@
+{
+  "urn": "122055",
+  "name": "Moulton School and Science College",
+  "address": "Pound Lane",
+  "locality": "Moulton",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN3 7SD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "478047",
+  "northing": "266166",
+  "url": "http://www.moultonschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

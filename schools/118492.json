@@ -1,0 +1,18 @@
+{
+  "urn": "118492",
+  "name": "Borstal Manor Community School",
+  "address": "Warwick Crescent",
+  "locality": "Borstal",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME1 3LF",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "572839",
+  "northing": "166723",
+  "url": "http://www.medway.org.uk/schools/borstalmanor_www",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

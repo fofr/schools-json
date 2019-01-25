@@ -1,0 +1,18 @@
+{
+  "urn": "117700",
+  "name": "Scartho Nursery School",
+  "address": "Pinfold Lane",
+  "locality": "Scartho",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "North East Lincolnshire",
+  "postcode": "DN33 2EW",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "526588",
+  "northing": "406139",
+  "url": "www.scarthonursery.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

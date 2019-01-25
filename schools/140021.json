@@ -1,0 +1,18 @@
+{
+  "urn": "140021",
+  "name": "South Shore Academy",
+  "address": "St Anne's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY4 2AR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "331418",
+  "northing": "433806",
+  "url": "http://southshoreacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112191",
+  "name": "Goodly Dale Primary School",
+  "address": "Lake Road",
+  "locality": "",
+  "address3": "",
+  "town": "Windermere",
+  "county": "Cumbria",
+  "postcode": "LA23 2JX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "340755",
+  "northing": "497579",
+  "url": "www.goodlydaleprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

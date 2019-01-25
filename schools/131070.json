@@ -1,0 +1,18 @@
+{
+  "urn": "131070",
+  "name": "Stanley Primary School",
+  "address": "Wordsworth Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY3 9UT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "333656",
+  "northing": "434714",
+  "url": "www.stanleyprimaryschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

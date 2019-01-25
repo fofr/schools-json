@@ -1,0 +1,18 @@
+{
+  "urn": "134195",
+  "name": "Manchester Mesivta School",
+  "address": "Beechwood",
+  "locality": "Charlton Avenue",
+  "address3": "",
+  "town": "Prestwich",
+  "county": "Greater Manchester",
+  "postcode": "M25 0PH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "381751",
+  "northing": "403180",
+  "url": "http://mesivta.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136135",
+  "name": "Kearsley Academy",
+  "address": "Springfield Road",
+  "locality": "Kearsley",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL4 8HY",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "374436",
+  "northing": "404705",
+  "url": "http://www.kearsleyacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

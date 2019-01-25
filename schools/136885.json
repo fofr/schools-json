@@ -1,0 +1,18 @@
+{
+  "urn": "136885",
+  "name": "Barr Beacon School",
+  "address": "Old Hall Lane",
+  "locality": "Aldridge",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS9 0RF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "405828",
+  "northing": "296082",
+  "url": "http://www.barrbeaconschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

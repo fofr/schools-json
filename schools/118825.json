@@ -1,0 +1,18 @@
+{
+  "urn": "118825",
+  "name": "Castle Community College",
+  "address": "Mill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Deal",
+  "county": "Kent",
+  "postcode": "CT14 9BD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "636990",
+  "northing": "151795",
+  "url": "http://atschool.eduweb.co.uk/dcastle/index.html",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

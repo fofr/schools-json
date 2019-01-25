@@ -1,0 +1,18 @@
+{
+  "urn": "143332",
+  "name": "Mark First and Pre-School CE Academy",
+  "address": "The Causeway",
+  "locality": "Mark",
+  "address3": "",
+  "town": "Highbridge",
+  "county": "Somerset",
+  "postcode": "TA9 4QA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "336026",
+  "northing": "147620",
+  "url": "www.markfirstschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130558",
+  "name": "Bath College",
+  "address": "Avon Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "Avon",
+  "postcode": "BA1 1UP",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "374858",
+  "northing": "164582",
+  "url": "www.bathcollege.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

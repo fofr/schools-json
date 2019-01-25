@@ -1,0 +1,18 @@
+{
+  "urn": "140048",
+  "name": "Downview Primary School",
+  "address": "Wroxham Way",
+  "locality": "Felpham",
+  "address3": "",
+  "town": "Bognor Regis",
+  "county": "West Sussex",
+  "postcode": "PO22 8ER",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "494875",
+  "northing": "100659",
+  "url": "www.downviewprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

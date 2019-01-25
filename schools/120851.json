@@ -1,0 +1,18 @@
+{
+  "urn": "120851",
+  "name": "Sheringham Community Primary School",
+  "address": "Cooper Road",
+  "locality": "Off Holway Road",
+  "address3": "",
+  "town": "Sheringham",
+  "county": "Norfolk",
+  "postcode": "NR26 8UH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "615220",
+  "northing": "342356",
+  "url": "http://www.sheringhamprimary.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

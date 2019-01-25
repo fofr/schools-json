@@ -1,0 +1,18 @@
+{
+  "urn": "141321",
+  "name": "Darwen Vale High School",
+  "address": "Blackburn Road",
+  "locality": "",
+  "address3": "",
+  "town": "Darwen",
+  "county": "Lancashire",
+  "postcode": "BB3 0AL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "369133",
+  "northing": "424408",
+  "url": "www.darwenvale.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

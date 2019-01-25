@@ -1,0 +1,18 @@
+{
+  "urn": "138706",
+  "name": "King James's School",
+  "address": "St Helen's Gate",
+  "locality": "Almondbury",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD4 6SG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "417129",
+  "northing": "414790",
+  "url": "www.kingjames.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109477",
+  "name": "Laburnum Primary School",
+  "address": "Laburnum Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sandy",
+  "county": "Bedfordshire",
+  "postcode": "SG19 1HQ",
+  "minimum_age": "3",
+  "maximum_age": "10",
+  "easting": "516855",
+  "northing": "249275",
+  "url": "www.laburnumprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

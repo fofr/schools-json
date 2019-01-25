@@ -1,0 +1,18 @@
+{
+  "urn": "109475",
+  "name": "Potton Lower School",
+  "address": "Everton Road",
+  "locality": "Potton",
+  "address3": "",
+  "town": "Sandy",
+  "county": "Bedfordshire",
+  "postcode": "SG19 2PB",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "521942",
+  "northing": "249512",
+  "url": "www.pottonfederation.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

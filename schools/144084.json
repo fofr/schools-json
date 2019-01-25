@@ -1,0 +1,18 @@
+{
+  "urn": "144084",
+  "name": "The Lea Valley Academy",
+  "address": "Bullsmoor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN3 6TW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "535460",
+  "northing": "199772",
+  "url": "http://www.leavalleyacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

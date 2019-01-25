@@ -1,0 +1,18 @@
+{
+  "urn": "136327",
+  "name": "Kingsmead School",
+  "address": "196 Southbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN1 1YQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "534226",
+  "northing": "196459",
+  "url": "http://www.kingsmeadschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

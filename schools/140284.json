@@ -1,0 +1,18 @@
+{
+  "urn": "140284",
+  "name": "Millbrook Primary School",
+  "address": "Worsley Road",
+  "locality": "Freshbrook",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN5 8NU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "411238",
+  "northing": "183417",
+  "url": "www.millbrook.swindon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

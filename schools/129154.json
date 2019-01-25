@@ -1,0 +1,18 @@
+{
+  "urn": "129154",
+  "name": "Durrants School",
+  "address": "Manor Way",
+  "locality": "Croxley Green",
+  "address3": "",
+  "town": "Rickmansworth",
+  "county": "Hertfordshire",
+  "postcode": "WD3 3LX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "507500",
+  "northing": "196300",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

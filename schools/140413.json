@@ -1,0 +1,18 @@
+{
+  "urn": "140413",
+  "name": "Hillcrest Academy",
+  "address": "Cowper Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS7 4DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431271",
+  "northing": "435486",
+  "url": "www.hillcrest.leeds.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

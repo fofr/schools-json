@@ -1,0 +1,18 @@
+{
+  "urn": "130485",
+  "name": "Bilston Community College",
+  "address": "Westfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 6ER",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "393834",
+  "northing": "297320",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

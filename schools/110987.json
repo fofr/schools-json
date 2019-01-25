@@ -1,0 +1,18 @@
+{
+  "urn": "110987",
+  "name": "Neston Primary School",
+  "address": "Burton Road",
+  "locality": "Little Neston",
+  "address3": "",
+  "town": "Neston",
+  "county": "Cheshire",
+  "postcode": "CH64 9RE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "329336",
+  "northing": "377146",
+  "url": "www.nestonprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

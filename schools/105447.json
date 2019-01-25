@@ -1,0 +1,18 @@
+{
+  "urn": "105447",
+  "name": "Princess Infant School",
+  "address": "Flaxpool Close",
+  "locality": "Moss Side",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M16 7EU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "383039",
+  "northing": "395610",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

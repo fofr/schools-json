@@ -1,0 +1,18 @@
+{
+  "urn": "105567",
+  "name": "Ducie High School",
+  "address": "Lloyd Street North",
+  "locality": "Moss Side",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M14 4GA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "384488",
+  "northing": "395963",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

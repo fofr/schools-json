@@ -1,0 +1,18 @@
+{
+  "urn": "115870",
+  "name": "Burley Primary School",
+  "address": "Church Lane",
+  "locality": "Burley",
+  "address3": "",
+  "town": "Ringwood",
+  "county": "Hampshire",
+  "postcode": "BH24 4AP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421348",
+  "northing": "103004",
+  "url": "www.burley.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

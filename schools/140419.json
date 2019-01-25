@@ -1,0 +1,18 @@
+{
+  "urn": "140419",
+  "name": "Queen's Church of England Academy",
+  "address": "Bentley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Nuneaton",
+  "county": "Warwickshire",
+  "postcode": "CV11 5LR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "435269",
+  "northing": "291706",
+  "url": "http://www.queens.covmat.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

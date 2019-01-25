@@ -1,0 +1,18 @@
+{
+  "urn": "106723",
+  "name": "Armthorpe Southfield Primary School",
+  "address": "Tranmoor Lane",
+  "locality": "Armthorpe",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN3 3BN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "462692",
+  "northing": "404382",
+  "url": "https://southfield.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

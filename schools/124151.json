@@ -1,0 +1,18 @@
+{
+  "urn": "124151",
+  "name": "Hayes Meadow Primary School",
+  "address": "Spode Avenue",
+  "locality": "Handsacre",
+  "address3": "",
+  "town": "Rugeley",
+  "county": "Staffordshire",
+  "postcode": "WS15 4EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409374",
+  "northing": "315670",
+  "url": "www.hayesmeadow.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

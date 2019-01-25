@@ -1,0 +1,18 @@
+{
+  "urn": "136839",
+  "name": "Ansford Academy",
+  "address": "Maggs Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Castle Cary",
+  "county": "Somerset",
+  "postcode": "BA7 7JJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "364173",
+  "northing": "133013",
+  "url": "http://www.ansford.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

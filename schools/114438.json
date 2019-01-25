@@ -1,0 +1,18 @@
+{
+  "urn": "114438",
+  "name": "Hawkes Farm Primary School",
+  "address": "Hawks Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hailsham",
+  "county": "East Sussex",
+  "postcode": "BN27 1ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "558735",
+  "northing": "111024",
+  "url": "http://www.hawkesfarm.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

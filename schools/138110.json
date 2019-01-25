@@ -1,0 +1,18 @@
+{
+  "urn": "138110",
+  "name": "Hawkley Hall High School",
+  "address": "Carr Lane",
+  "locality": "Hawkley Hall",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN3 5NY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "357952",
+  "northing": "403148",
+  "url": "http://hhhs.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

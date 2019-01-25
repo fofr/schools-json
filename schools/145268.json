@@ -1,0 +1,18 @@
+{
+  "urn": "145268",
+  "name": "Gunthorpe Primary School",
+  "address": "The Pentlands",
+  "locality": "Hallfields Lane",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE4 7YP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518238",
+  "northing": "302904",
+  "url": "www.gunthorpeprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

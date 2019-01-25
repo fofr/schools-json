@@ -1,0 +1,18 @@
+{
+  "urn": "121457",
+  "name": "Riccall Community Primary School",
+  "address": "Coppergate",
+  "locality": "Riccall",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO19 6PF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "461806",
+  "northing": "438044",
+  "url": "http://www.riccallprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

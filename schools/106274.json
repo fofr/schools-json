@@ -1,0 +1,18 @@
+{
+  "urn": "106274",
+  "name": "West Hill School",
+  "address": "Thompson Cross",
+  "locality": "Stamford Street",
+  "address3": "",
+  "town": "Stalybridge",
+  "county": "Cheshire",
+  "postcode": "SK15 1LX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "395729",
+  "northing": "398869",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

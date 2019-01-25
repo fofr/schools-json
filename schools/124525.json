@@ -1,0 +1,18 @@
+{
+  "urn": "124525",
+  "name": "Highfield Nursery School",
+  "address": "Chesterfield Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP1 6DW",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "614766",
+  "northing": "246576",
+  "url": "www.highfield.suffolk.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

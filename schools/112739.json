@@ -1,0 +1,18 @@
+{
+  "urn": "112739",
+  "name": "Markeaton Primary School",
+  "address": "Bromley Street",
+  "locality": "",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE22 1HL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "434240",
+  "northing": "337456",
+  "url": "www.markeaton.derby.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

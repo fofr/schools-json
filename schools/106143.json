@@ -1,0 +1,18 @@
+{
+  "urn": "106143",
+  "name": "Harrytown Catholic High School",
+  "address": "Harrytown",
+  "locality": "Romiley",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK6 3BU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "393153",
+  "northing": "390733",
+  "url": "http://www.harrytownschool.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

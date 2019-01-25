@@ -1,0 +1,18 @@
+{
+  "urn": "144277",
+  "name": "Shrewton CofE Primary Academy",
+  "address": "Tanners Lane",
+  "locality": "Shrewton",
+  "address3": "",
+  "town": "Salisbury",
+  "county": "Wiltshire",
+  "postcode": "SP3 4JT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406843",
+  "northing": "144000",
+  "url": "www.shrewton.dsat.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

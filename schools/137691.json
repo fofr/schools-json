@@ -1,0 +1,18 @@
+{
+  "urn": "137691",
+  "name": "Bilton School",
+  "address": "Lawford Lane",
+  "locality": "Bilton",
+  "address3": "",
+  "town": "Rugby",
+  "county": "Warwickshire",
+  "postcode": "CV22 7JT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "447968",
+  "northing": "274137",
+  "url": "http://www.biltonschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103208",
+  "name": "Gunter Primary School",
+  "address": "Gunter Road",
+  "locality": "Pype Hayes",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B24 0RU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "413095",
+  "northing": "291483",
+  "url": "www.gunterprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

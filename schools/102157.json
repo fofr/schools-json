@@ -1,0 +1,18 @@
+{
+  "urn": "102157",
+  "name": "Gladesmore Community School",
+  "address": "Crowland Road",
+  "locality": "Tottenham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N15 6EB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "534098",
+  "northing": "188572",
+  "url": "http://www.gladesmore.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125131",
+  "name": "The Grove Primary School",
+  "address": "Chobham Road",
+  "locality": "Frimley",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU16 8PG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "488490",
+  "northing": "158736",
+  "url": "http://www.grove.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

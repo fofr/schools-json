@@ -1,0 +1,18 @@
+{
+  "urn": "125509",
+  "name": "Exhall First School",
+  "address": "School Lane",
+  "locality": "Exhall",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV7 9GG",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "435119",
+  "northing": "285244",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

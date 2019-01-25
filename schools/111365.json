@@ -1,0 +1,18 @@
+{
+  "urn": "111365",
+  "name": "Winwick CofE Primary School",
+  "address": "Myddleton Lane",
+  "locality": "Winwick",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA2 8LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "360470",
+  "northing": "392838",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

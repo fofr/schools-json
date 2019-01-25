@@ -1,0 +1,18 @@
+{
+  "urn": "103145",
+  "name": "Osborne Nursery School",
+  "address": "Station Road",
+  "locality": "Erdington",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B23 6UB",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "411130",
+  "northing": "292159",
+  "url": "www.osbornenurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

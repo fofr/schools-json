@@ -1,0 +1,18 @@
+{
+  "urn": "113203",
+  "name": "Ipplepen Primary School",
+  "address": "Biltor Road",
+  "locality": "Ipplepen",
+  "address3": "",
+  "town": "Newton Abbot",
+  "county": "Devon",
+  "postcode": "TQ12 5QL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "283499",
+  "northing": "66419",
+  "url": "http://www.ipplepen-primary.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

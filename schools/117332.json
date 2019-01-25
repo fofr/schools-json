@@ -1,0 +1,18 @@
+{
+  "urn": "117332",
+  "name": "Roman Way First School",
+  "address": "Burns Road",
+  "locality": "",
+  "address3": "",
+  "town": "Royston",
+  "county": "Hertfordshire",
+  "postcode": "SG8 5EQ",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "535551",
+  "northing": "241971",
+  "url": "http://www.romanway.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

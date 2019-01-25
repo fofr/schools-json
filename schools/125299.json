@@ -1,0 +1,18 @@
+{
+  "urn": "125299",
+  "name": "Burpham Foundation Primary School",
+  "address": "Burpham Lane",
+  "locality": "Burpham",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU4 7LZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "501245",
+  "northing": "152509",
+  "url": "www.burpham.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

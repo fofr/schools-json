@@ -1,0 +1,18 @@
+{
+  "urn": "142232",
+  "name": "Sharples School",
+  "address": "Hill Cot Road",
+  "locality": "Sharples",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL1 8SN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "372028",
+  "northing": "412381",
+  "url": "http://www.sharplesschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113658",
+  "name": "Bere Regis School",
+  "address": "Southbrook",
+  "locality": "Bere Regis",
+  "address3": "",
+  "town": "Wareham",
+  "county": "Dorset",
+  "postcode": "BH20 7DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384374",
+  "northing": "94646",
+  "url": "http://www.bereregis.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

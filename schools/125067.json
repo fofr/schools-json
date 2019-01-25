@@ -1,0 +1,18 @@
+{
+  "urn": "125067",
+  "name": "Onslow Infant School",
+  "address": "Powell Close",
+  "locality": "Onslow Village",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU2 7DD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "497665",
+  "northing": "149246",
+  "url": "www.onslow.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

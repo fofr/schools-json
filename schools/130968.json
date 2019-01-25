@@ -1,0 +1,18 @@
+{
+  "urn": "130968",
+  "name": "Hemsworth Grove Lea Primary School",
+  "address": "Grove Terrace",
+  "locality": "Hemsworth",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF9 4BQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443172",
+  "northing": "412874",
+  "url": "http://www.groveleaprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

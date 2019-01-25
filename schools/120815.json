@@ -1,0 +1,18 @@
+{
+  "urn": "120815",
+  "name": "Hempnall Primary School",
+  "address": "The Street",
+  "locality": "Hempnall",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR15 2AD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "623966",
+  "northing": "294561",
+  "url": "www.shhsfederation.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

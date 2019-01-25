@@ -1,0 +1,18 @@
+{
+  "urn": "125252",
+  "name": "Therfield School",
+  "address": "Dilston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leatherhead",
+  "county": "Surrey",
+  "postcode": "KT22 7NZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "516174",
+  "northing": "157614",
+  "url": "http://www.therfield.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

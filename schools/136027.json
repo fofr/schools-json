@@ -1,0 +1,18 @@
+{
+  "urn": "136027",
+  "name": "Oasis Academy Oldham",
+  "address": "Hollins Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL8 4JZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "391519",
+  "northing": "402991",
+  "url": "http://www.oasisacademyoldham.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

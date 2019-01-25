@@ -1,0 +1,18 @@
+{
+  "urn": "111440",
+  "name": "Helsby High School",
+  "address": "Chester Road",
+  "locality": "Helsby",
+  "address3": "",
+  "town": "Frodsham",
+  "county": "Cheshire",
+  "postcode": "WA6 0HY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "349941",
+  "northing": "376146",
+  "url": "www.helsbyhigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

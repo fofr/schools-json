@@ -1,0 +1,18 @@
+{
+  "urn": "121286",
+  "name": "Westfield Infant School",
+  "address": "Askham Lane",
+  "locality": "Acomb",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO24 3HP",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "456580",
+  "northing": "450769",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

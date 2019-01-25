@@ -1,0 +1,18 @@
+{
+  "urn": "145371",
+  "name": "Willow Farm Primary School",
+  "address": "Willow Lane",
+  "locality": "Gedling",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 4BN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "462131",
+  "northing": "342723",
+  "url": "www.willowfarm.notts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

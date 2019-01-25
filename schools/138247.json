@@ -1,0 +1,18 @@
+{
+  "urn": "138247",
+  "name": "Outwood Academy Valley",
+  "address": "Valley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worksop",
+  "county": "Nottinghamshire",
+  "postcode": "S81 7EN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458145",
+  "northing": "380333",
+  "url": "http://www.valley.outwood.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

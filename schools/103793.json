@@ -1,0 +1,18 @@
+{
+  "urn": "103793",
+  "name": "Colley Lane Primary School",
+  "address": "Colley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Halesowen",
+  "county": "West Midlands",
+  "postcode": "B63 2TN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394170",
+  "northing": "284821",
+  "url": "http://www.colley.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

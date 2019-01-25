@@ -1,0 +1,18 @@
+{
+  "urn": "106838",
+  "name": "East Dene Primary School",
+  "address": "Doncaster Road",
+  "locality": "East Dene",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S65 2DF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "444322",
+  "northing": "393489",
+  "url": "http://www.eastdeneschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

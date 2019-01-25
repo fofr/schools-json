@@ -1,0 +1,18 @@
+{
+  "urn": "101350",
+  "name": "Christ's College Finchley",
+  "address": "East End Road",
+  "locality": "East Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N2 0SE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "525672",
+  "northing": "189571",
+  "url": "www.christscollege.barnet.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

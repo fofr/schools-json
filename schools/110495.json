@@ -1,0 +1,18 @@
+{
+  "urn": "110495",
+  "name": "Dr Challoner's High School",
+  "address": "Cokes Lane",
+  "locality": "Little Chalfont",
+  "address3": "",
+  "town": "Amersham",
+  "county": "Buckinghamshire",
+  "postcode": "HP7 9QB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "499004",
+  "northing": "197471",
+  "url": "www.dchs.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

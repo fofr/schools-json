@@ -1,0 +1,18 @@
+{
+  "urn": "124916",
+  "name": "Fordway Centre",
+  "address": "Stanwell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Middlesex",
+  "postcode": "TW15 3DU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "506382",
+  "northing": "172225",
+  "url": "http://fordway-centre.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110826",
+  "name": "Newborough CofE Primary School",
+  "address": "School Road",
+  "locality": "Newborough",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE6 7RG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "520469",
+  "northing": "305940",
+  "url": "http://www.newboroughschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143486",
+  "name": "Northwood Broom Academy",
+  "address": "Keelings Road",
+  "locality": "Northwood",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST1 6QA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "389114",
+  "northing": "348010",
+  "url": "http://www.northwoodbroom.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

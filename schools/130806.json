@@ -1,0 +1,18 @@
+{
+  "urn": "130806",
+  "name": "Strode College",
+  "address": "Church Road",
+  "locality": "",
+  "address3": "",
+  "town": "Street",
+  "county": "Somerset",
+  "postcode": "BA16 0AB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "348814",
+  "northing": "137032",
+  "url": "http://www.strode-college.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

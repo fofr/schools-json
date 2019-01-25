@@ -1,0 +1,18 @@
+{
+  "urn": "110497",
+  "name": "The Mandeville School",
+  "address": "Ellen Road",
+  "locality": "",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP21 8ES",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "481861",
+  "northing": "211829",
+  "url": "www.mandeville.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

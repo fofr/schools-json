@@ -1,0 +1,18 @@
+{
+  "urn": "118110",
+  "name": "Amy Johnson School",
+  "address": "Ringrose Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU3 5NW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "506637",
+  "northing": "428059",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

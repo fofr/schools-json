@@ -1,0 +1,18 @@
+{
+  "urn": "146652",
+  "name": "East Coast College",
+  "address": "St. Peters Street",
+  "locality": "",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "",
+  "postcode": "NR32 2NB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "654289",
+  "northing": "293751",
+  "url": "www.eastcoast.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

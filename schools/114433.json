@@ -1,0 +1,18 @@
+{
+  "urn": "114433",
+  "name": "Denton Community Primary School and Nursery",
+  "address": "Acacia Road",
+  "locality": "Denton",
+  "address3": "",
+  "town": "Newhaven",
+  "county": "East Sussex",
+  "postcode": "BN9 0QJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "545151",
+  "northing": "102469",
+  "url": "www.dentonprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

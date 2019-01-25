@@ -1,0 +1,18 @@
+{
+  "urn": "139594",
+  "name": "The Archer Academy",
+  "address": "Eagans Close",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N2 8GA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "526880",
+  "northing": "189661",
+  "url": "http://thearcheracademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

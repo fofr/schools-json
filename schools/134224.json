@@ -1,0 +1,18 @@
+{
+  "urn": "134224",
+  "name": "Manchester Academy",
+  "address": "Moss Lane East",
+  "locality": "Moss Side",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M14 4PX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "384510",
+  "northing": "395698",
+  "url": "http://www.manchester-academy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106059",
+  "name": "Mersey Vale Primary School",
+  "address": "Valley Road",
+  "locality": "Heaton Mersey",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 2BZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387407",
+  "northing": "390340",
+  "url": "www.merseyvale.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

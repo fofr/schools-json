@@ -1,0 +1,18 @@
+{
+  "urn": "137046",
+  "name": "King Edward VI Five Ways School",
+  "address": "Scotland Lane",
+  "locality": "Bartley Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B32 4BT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "400144",
+  "northing": "281569",
+  "url": "www.kefw.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

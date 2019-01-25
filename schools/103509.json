@@ -1,0 +1,18 @@
+{
+  "urn": "103509",
+  "name": "Holte School",
+  "address": "Wheeler Street",
+  "locality": "Lozells",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B19 2EP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "406784",
+  "northing": "289217",
+  "url": "http://www.holte.bham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

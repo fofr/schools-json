@@ -1,0 +1,18 @@
+{
+  "urn": "101446",
+  "name": "Hurst Primary School",
+  "address": "Dorchester Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bexley",
+  "county": "Kent",
+  "postcode": "DA5 3AJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547956",
+  "northing": "173514",
+  "url": "www.hurst.bexley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

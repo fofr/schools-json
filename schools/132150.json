@@ -1,0 +1,18 @@
+{
+  "urn": "132150",
+  "name": "West Town Lane Primary School",
+  "address": "West Town Lane",
+  "locality": "Brislington",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS4 5DT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "361415",
+  "northing": "169967",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

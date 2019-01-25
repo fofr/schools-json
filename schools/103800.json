@@ -1,0 +1,18 @@
+{
+  "urn": "103800",
+  "name": "Wollescote Primary School",
+  "address": "Drummond Road",
+  "locality": "Wollescote",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY9 8YA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "392813",
+  "northing": "283963",
+  "url": "http://www.wollescoteschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

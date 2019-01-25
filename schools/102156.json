@@ -1,0 +1,18 @@
+{
+  "urn": "102156",
+  "name": "Fortismere School",
+  "address": "Southwing",
+  "locality": "Tetherdown",
+  "address3": "Muswell Hill",
+  "town": "London",
+  "county": "",
+  "postcode": "N10 1NE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "528180",
+  "northing": "189842",
+  "url": "www.fortismere.haringey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

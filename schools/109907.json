@@ -1,0 +1,18 @@
+{
+  "urn": "109907",
+  "name": "Wraysbury Primary School",
+  "address": "Welley Road",
+  "locality": "Wraysbury",
+  "address3": "",
+  "town": "Staines",
+  "county": "Middlesex",
+  "postcode": "TW19 5DJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "500070",
+  "northing": "174227",
+  "url": "http://www.wraysburyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

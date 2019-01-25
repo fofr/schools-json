@@ -1,0 +1,18 @@
+{
+  "urn": "117501",
+  "name": "Richard Hale School",
+  "address": "Hale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hertford",
+  "county": "Hertfordshire",
+  "postcode": "SG13 8EN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "532672",
+  "northing": "212172",
+  "url": "http://www.richardhale.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

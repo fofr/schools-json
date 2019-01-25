@@ -1,0 +1,18 @@
+{
+  "urn": "110665",
+  "name": "Colville Primary School",
+  "address": "Colville Road",
+  "locality": "Cherry Hinton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 9EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548880",
+  "northing": "256511",
+  "url": "www.colvilleschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

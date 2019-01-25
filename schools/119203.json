@@ -1,0 +1,18 @@
+{
+  "urn": "119203",
+  "name": "Brindle Gregson Lane Primary School",
+  "address": "Bournes Row",
+  "locality": "Gregson Lane",
+  "address3": "Hoghton",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR5 0DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "359317",
+  "northing": "426142",
+  "url": "www.bgl.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

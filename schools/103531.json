@@ -1,0 +1,18 @@
+{
+  "urn": "103531",
+  "name": "St Paul's School for Girls",
+  "address": "Vernon Road",
+  "locality": "Edgbaston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B16 9SL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "404121",
+  "northing": "286405",
+  "url": "http://www.stpaulgl.bham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

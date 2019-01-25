@@ -1,0 +1,18 @@
+{
+  "urn": "120981",
+  "name": "Northgate Primary School, Great Yarmouth",
+  "address": "Northgate Street",
+  "locality": "",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR30 1BP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "652364",
+  "northing": "308825",
+  "url": "http://www.northgateprimary.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

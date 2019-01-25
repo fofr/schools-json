@@ -1,0 +1,18 @@
+{
+  "urn": "140405",
+  "name": "Thomas Gamuel Primary School",
+  "address": "Colchester Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 8LG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537162",
+  "northing": "188106",
+  "url": "www.thomasgamuel.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

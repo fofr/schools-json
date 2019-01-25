@@ -1,0 +1,18 @@
+{
+  "urn": "107248",
+  "name": "Bankfoot Primary School",
+  "address": "Bolingbroke Street",
+  "locality": "Bankfoot",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD5 9NR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415719",
+  "northing": "430735",
+  "url": "www.bankfootprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

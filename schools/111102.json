@@ -1,0 +1,18 @@
+{
+  "urn": "111102",
+  "name": "Woodlands Infant School",
+  "address": "Eddisbury Road",
+  "locality": "Whitby",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Cheshire",
+  "postcode": "CH66 2JX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "338853",
+  "northing": "374577",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

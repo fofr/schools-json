@@ -1,0 +1,18 @@
+{
+  "urn": "113249",
+  "name": "Ermington Primary School",
+  "address": "School Road",
+  "locality": "Ermington",
+  "address3": "",
+  "town": "Ivybridge",
+  "county": "Devon",
+  "postcode": "PL21 9NH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "263809",
+  "northing": "53064",
+  "url": "https://beaconfederation.com/devon/primary/beaconfederation",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

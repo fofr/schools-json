@@ -1,0 +1,18 @@
+{
+  "urn": "130602",
+  "name": "Newbury College",
+  "address": "Monks Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Newbury",
+  "county": "Berkshire",
+  "postcode": "RG14 7TD",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "447208",
+  "northing": "165047",
+  "url": "http://www.newbury-college.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

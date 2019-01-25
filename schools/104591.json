@@ -1,0 +1,18 @@
+{
+  "urn": "104591",
+  "name": "Middlefield Community Primary School",
+  "address": "Alderwood Avenue",
+  "locality": "Speke",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L24 2UE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "344579",
+  "northing": "383185",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

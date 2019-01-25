@@ -1,0 +1,18 @@
+{
+  "urn": "143436",
+  "name": "Princethorpe Infant School",
+  "address": "Princethorpe Road",
+  "locality": "Weoley Castle",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B29 5QB",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "402201",
+  "northing": "282040",
+  "url": "www.princethorpeinfants.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

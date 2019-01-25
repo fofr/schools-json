@@ -1,0 +1,18 @@
+{
+  "urn": "142594",
+  "name": "Pool Hayes Academy",
+  "address": "Castle Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Willenhall",
+  "county": "West Midlands",
+  "postcode": "WV12 4QZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "396542",
+  "northing": "300421",
+  "url": "www.poolhayes.attrust.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

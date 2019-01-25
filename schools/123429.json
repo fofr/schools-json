@@ -1,0 +1,18 @@
+{
+  "urn": "123429",
+  "name": "Holmer Lake Primary School",
+  "address": "Brookside",
+  "locality": "",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 1LD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "370644",
+  "northing": "305826",
+  "url": "www.holmerlakeprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

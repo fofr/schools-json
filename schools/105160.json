@@ -1,0 +1,18 @@
+{
+  "urn": "105160",
+  "name": "Oxford Grove Primary School",
+  "address": "Shepherd Cross Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL1 3EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370396",
+  "northing": "410408",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

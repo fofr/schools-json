@@ -1,0 +1,18 @@
+{
+  "urn": "112901",
+  "name": "Saint Mary's Catholic Primary",
+  "address": "Gladstone Street",
+  "locality": "",
+  "address3": "",
+  "town": "Glossop",
+  "county": "Derbyshire",
+  "postcode": "SK13 8NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "403548",
+  "northing": "393705",
+  "url": "www.st-marysrc.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104042",
+  "name": "Cranmore Infant School",
+  "address": "Northland Road",
+  "locality": "Shirley",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B90 4SA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "413387",
+  "northing": "278152",
+  "url": "www.cranmore.solihull.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

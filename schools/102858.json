@@ -1,0 +1,18 @@
+{
+  "urn": "102858",
+  "name": "Mayfield School",
+  "address": "Pedley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM8 1XE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "547083",
+  "northing": "187196",
+  "url": "http://www.mayfieldschool.net/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

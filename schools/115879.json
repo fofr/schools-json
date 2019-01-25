@@ -1,0 +1,18 @@
+{
+  "urn": "115879",
+  "name": "Curdridge Primary School",
+  "address": "Church Lane",
+  "locality": "Curdridge",
+  "address3": "Near Botley",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO32 2DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "452812",
+  "northing": "113941",
+  "url": "http://www.curdridge.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

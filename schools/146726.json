@@ -1,0 +1,18 @@
+{
+  "urn": "146726",
+  "name": "Braybrook Primary Academy",
+  "address": "Braybrook",
+  "locality": "Orton Goldhay",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 5QL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "516639",
+  "northing": "295569",
+  "url": "www.braybrookprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

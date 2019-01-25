@@ -1,0 +1,18 @@
+{
+  "urn": "114046",
+  "name": "The Grove Primary School",
+  "address": "Oakfield Lane",
+  "locality": "The Grove",
+  "address3": "",
+  "town": "Consett",
+  "county": "County Durham",
+  "postcode": "DH8 8AP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409276",
+  "northing": "550276",
+  "url": "http://www.grove.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

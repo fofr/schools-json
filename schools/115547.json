@@ -1,0 +1,18 @@
+{
+  "urn": "115547",
+  "name": "Twyning School",
+  "address": "Twyning Green",
+  "locality": "Twyning",
+  "address3": "",
+  "town": "Tewkesbury",
+  "county": "Gloucestershire",
+  "postcode": "GL20 6DF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390012",
+  "northing": "236773",
+  "url": "www.twyningschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111125",
+  "name": "Woodside Primary School",
+  "address": "Whitchurch Way",
+  "locality": "Halton Lodge Estate",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 5YP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "352918",
+  "northing": "381121",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

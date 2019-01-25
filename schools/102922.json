@@ -1,0 +1,18 @@
+{
+  "urn": "102922",
+  "name": "Grey Court School",
+  "address": "Ham Street",
+  "locality": "Ham",
+  "address3": "",
+  "town": "Richmond",
+  "county": "Surrey",
+  "postcode": "TW10 7HN",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "517406",
+  "northing": "172452",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

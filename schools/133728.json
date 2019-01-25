@@ -1,0 +1,18 @@
+{
+  "urn": "133728",
+  "name": "Marshgate Primary School",
+  "address": "157 Queens Road",
+  "locality": "",
+  "address3": "",
+  "town": "Richmond",
+  "county": "Surrey",
+  "postcode": "TW10 6HY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518896",
+  "northing": "174985",
+  "url": "www.marshgate.richmond.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114070",
+  "name": "Byers Green Primary School",
+  "address": "Wear View",
+  "locality": "Byers Green",
+  "address3": "",
+  "town": "Spennymoor",
+  "county": "County Durham",
+  "postcode": "DL16 7PN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421982",
+  "northing": "534021",
+  "url": "www.byersgreen.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

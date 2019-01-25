@@ -1,0 +1,18 @@
+{
+  "urn": "111611",
+  "name": "Wilton Primary School",
+  "address": "Lazenby",
+  "locality": "",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS6 8DY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457453",
+  "northing": "519877",
+  "url": "www.wiltonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

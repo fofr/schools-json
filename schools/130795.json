@@ -1,0 +1,18 @@
+{
+  "urn": "130795",
+  "name": "Plater College",
+  "address": "Pullens Lane",
+  "locality": "",
+  "address3": "Headington",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 0DT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "453478",
+  "northing": "206861",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

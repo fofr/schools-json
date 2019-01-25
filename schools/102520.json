@@ -1,0 +1,18 @@
+{
+  "urn": "102520",
+  "name": "Beavers Community Primary School",
+  "address": "Arundel Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW4 6HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511171",
+  "northing": "175731",
+  "url": "http://www.beaversprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

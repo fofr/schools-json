@@ -1,0 +1,18 @@
+{
+  "urn": "105902",
+  "name": "Clarendon Road Community Primary School",
+  "address": "Clarendon Road",
+  "locality": "Eccles",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M30 9BJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "377822",
+  "northing": "399060",
+  "url": "www.clarendonroadschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119339",
+  "name": "Sherwood Primary School",
+  "address": "Sherwood Way",
+  "locality": "Fulwood",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 9GA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "354252",
+  "northing": "433205",
+  "url": "www.sherwood.lancsngfl.ac.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

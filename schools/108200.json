@@ -1,0 +1,18 @@
+{
+  "urn": "108200",
+  "name": "Featherstone Purston Infant School",
+  "address": "Nunns Lane",
+  "locality": "Featherstone",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF7 5HF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "442553",
+  "northing": "419824",
+  "url": "www.purstoninfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

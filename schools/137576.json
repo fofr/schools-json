@@ -1,0 +1,18 @@
+{
+  "urn": "137576",
+  "name": "The Samuel Lister Academy",
+  "address": "Cottingley New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bingley",
+  "county": "West Yorkshire",
+  "postcode": "BD16 1TZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "412134",
+  "northing": "437095",
+  "url": "http://samuellister.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

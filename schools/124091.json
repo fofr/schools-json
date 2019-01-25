@@ -1,0 +1,18 @@
+{
+  "urn": "124091",
+  "name": "Castle Primary School",
+  "address": "Mow Cop Road",
+  "locality": "Mow Cop",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 4NE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385620",
+  "northing": "356750",
+  "url": "castle.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

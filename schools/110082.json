@@ -1,0 +1,18 @@
+{
+  "urn": "110082",
+  "name": "Ranelagh School",
+  "address": "Ranelagh Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Bracknell",
+  "county": "Berkshire",
+  "postcode": "RG12 9DA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "487301",
+  "northing": "168759",
+  "url": "http://www.ranelagh.bracknell-forest.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

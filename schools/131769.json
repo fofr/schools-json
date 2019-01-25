@@ -1,0 +1,18 @@
+{
+  "urn": "131769",
+  "name": "College Hall",
+  "address": "West Road",
+  "locality": "Off Old Wokingham Road",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG40 3BT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "483933",
+  "northing": "166535",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

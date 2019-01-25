@@ -1,0 +1,18 @@
+{
+  "urn": "130557",
+  "name": "Wearside College",
+  "address": "Tunstall Centre",
+  "locality": "Sea View Road West",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR2 9LH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "440060",
+  "northing": "554659",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

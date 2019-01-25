@@ -1,0 +1,18 @@
+{
+  "urn": "116424",
+  "name": "Swanmore College",
+  "address": "New Road",
+  "locality": "Swanmore",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO32 2RB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "457114",
+  "northing": "115933",
+  "url": "http://swanmore-school.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "134993",
+  "name": "Sandwell Academy",
+  "address": "Halfords Lane",
+  "locality": "",
+  "address3": "",
+  "town": "West Bromwich",
+  "county": "West Midlands",
+  "postcode": "B71 4LG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "402278",
+  "northing": "290070",
+  "url": "http://www.sandwellacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

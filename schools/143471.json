@@ -1,0 +1,18 @@
+{
+  "urn": "143471",
+  "name": "Horsendale Primary School",
+  "address": "Assarts Road",
+  "locality": "Nuthall",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 1AP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "452389",
+  "northing": "343491",
+  "url": "www.horsendale.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

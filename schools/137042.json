@@ -1,0 +1,18 @@
+{
+  "urn": "137042",
+  "name": "West Park Academy",
+  "address": "Alderman Leach Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL2 2GF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426854",
+  "northing": "516886",
+  "url": "www.westparkacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

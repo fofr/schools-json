@@ -1,0 +1,18 @@
+{
+  "urn": "131402",
+  "name": "Reigate Park Primary School",
+  "address": "Reigate Drive",
+  "locality": "Mackworth Estate",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE22 4EQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431936",
+  "northing": "337114",
+  "url": "www.reigatepark.derby.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

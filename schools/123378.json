@@ -1,0 +1,18 @@
+{
+  "urn": "123378",
+  "name": "Lilleshall Primary School",
+  "address": "Limekiln Lane",
+  "locality": "Lilleshall",
+  "address3": "",
+  "town": "Newport",
+  "county": "Shropshire",
+  "postcode": "TF10 9EY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "373102",
+  "northing": "315614",
+  "url": "http://lilleshallschool.taw.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

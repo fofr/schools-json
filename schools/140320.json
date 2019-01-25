@@ -1,0 +1,18 @@
+{
+  "urn": "140320",
+  "name": "Barnehurst Infant School",
+  "address": "Barnehurst Close",
+  "locality": "Northumberland Heath",
+  "address3": "",
+  "town": "Erith",
+  "county": "Kent",
+  "postcode": "DA8 3NL",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "550289",
+  "northing": "176697",
+  "url": "www.barnehurstfederation.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

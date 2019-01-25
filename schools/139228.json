@@ -1,0 +1,18 @@
+{
+  "urn": "139228",
+  "name": "Maple Court Academy",
+  "address": "Beverley Drive",
+  "locality": "Bentilee",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 0QD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "391967",
+  "northing": "345879",
+  "url": "www.maplecourt.stoke.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

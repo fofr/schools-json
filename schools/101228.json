@@ -1,0 +1,18 @@
+{
+  "urn": "101228",
+  "name": "Five Elms Primary School",
+  "address": "Wood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM9 5TB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548829",
+  "northing": "186204",
+  "url": "www.five-elms.bardag.dbprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

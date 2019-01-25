@@ -1,0 +1,18 @@
+{
+  "urn": "142307",
+  "name": "Thorpepark Academy",
+  "address": "Laxthorpe",
+  "locality": "Orchard Park Estate",
+  "address3": "",
+  "town": "Hull",
+  "county": "East Yorkshire",
+  "postcode": "HU6 9EG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "507345",
+  "northing": "433627",
+  "url": "www.thorpepark.hull.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

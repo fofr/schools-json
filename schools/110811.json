@@ -1,0 +1,18 @@
+{
+  "urn": "110811",
+  "name": "Farcet CofE (C) Primary School",
+  "address": "St Mary's Street",
+  "locality": "Farcet",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 3AR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "520491",
+  "northing": "294721",
+  "url": "www.farcet.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

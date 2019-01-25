@@ -1,0 +1,18 @@
+{
+  "urn": "112651",
+  "name": "Deer Park Primary School",
+  "address": "New Road",
+  "locality": "Wingerworth",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S42 6TD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "437490",
+  "northing": "367116",
+  "url": "http://www.deerpark.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

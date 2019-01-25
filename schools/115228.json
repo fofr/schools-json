@@ -1,0 +1,18 @@
+{
+  "urn": "115228",
+  "name": "Woodlands School",
+  "address": "Woodlands Approach",
+  "locality": "",
+  "address3": "",
+  "town": "Basildon",
+  "county": "Essex",
+  "postcode": "SS16 5BA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "570340",
+  "northing": "187968",
+  "url": "http://www.woodlandsschool.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

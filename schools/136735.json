@@ -1,0 +1,18 @@
+{
+  "urn": "136735",
+  "name": "St Edward's College",
+  "address": "Sandfield Park",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L12 1LF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "339608",
+  "northing": "392388",
+  "url": "http://www.st-edwards.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

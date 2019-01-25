@@ -1,0 +1,18 @@
+{
+  "urn": "122991",
+  "name": "Hornton Primary School",
+  "address": "Church Lane",
+  "locality": "Hornton",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX15 6BZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "439351",
+  "northing": "244971",
+  "url": "www.horntonprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

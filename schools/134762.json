@@ -1,0 +1,18 @@
+{
+  "urn": "134762",
+  "name": "Harbour",
+  "address": "Harbour Pupil Referral Unit",
+  "locality": "Saturn Close",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR32 4TD",
+  "minimum_age": "8",
+  "maximum_age": "14",
+  "easting": "654733",
+  "northing": "294693",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

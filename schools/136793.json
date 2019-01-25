@@ -1,0 +1,18 @@
+{
+  "urn": "136793",
+  "name": "Tower Road Academy",
+  "address": "Ashlawn Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE21 9PX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "533513",
+  "northing": "344649",
+  "url": "http://www.towerroadacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

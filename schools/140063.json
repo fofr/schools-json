@@ -1,0 +1,18 @@
+{
+  "urn": "140063",
+  "name": "Cockington Primary School",
+  "address": "Old Mill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Torquay",
+  "county": "Devon",
+  "postcode": "TQ2 6AP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "290495",
+  "northing": "64157",
+  "url": "www.cockingtonprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

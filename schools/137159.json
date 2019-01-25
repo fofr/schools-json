@@ -1,0 +1,18 @@
+{
+  "urn": "137159",
+  "name": "The National CofE Academy",
+  "address": "Annesley Road",
+  "locality": "Hucknall",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG15 7DB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "452789",
+  "northing": "350021",
+  "url": "http://www.nationalce-ac.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144436",
+  "name": "Puriton Primary School",
+  "address": "Rowlands Rise",
+  "locality": "Puriton",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA7 8BT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "332061",
+  "northing": "141340",
+  "url": "www.puritonprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

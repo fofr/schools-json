@@ -1,0 +1,18 @@
+{
+  "urn": "137099",
+  "name": "Gravesend Grammar School",
+  "address": "Church Walk",
+  "locality": "",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA12 2PR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "565789",
+  "northing": "173594",
+  "url": "http://gravesendgrammar.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103968",
+  "name": "Lyng Primary School",
+  "address": "Horton Street",
+  "locality": "",
+  "address3": "",
+  "town": "West Bromwich",
+  "county": "West Midlands",
+  "postcode": "B70 7SQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "400126",
+  "northing": "290439",
+  "url": "http://www.lyng.sandwell.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103862",
+  "name": "Cradley High School",
+  "address": "Homer Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Halesowen",
+  "county": "West Midlands",
+  "postcode": "B63 2UP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "393865",
+  "northing": "285018",
+  "url": "http://www.cradley-h.dudley.gov.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

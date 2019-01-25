@@ -1,0 +1,18 @@
+{
+  "urn": "140186",
+  "name": "Lordswood School",
+  "address": "Lordswood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chatham",
+  "county": "Kent",
+  "postcode": "ME5 8NN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "576856",
+  "northing": "163264",
+  "url": "www.lordswood-gst.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

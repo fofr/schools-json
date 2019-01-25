@@ -1,0 +1,18 @@
+{
+  "urn": "141767",
+  "name": "Clutton Primary School",
+  "address": "Station Road",
+  "locality": "Clutton",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Somerset",
+  "postcode": "BS39 5RA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "362400",
+  "northing": "159242",
+  "url": "www.cluttonschool.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

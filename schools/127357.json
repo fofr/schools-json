@@ -1,0 +1,18 @@
+{
+  "urn": "127357",
+  "name": "Rivington High School",
+  "address": "Rivington Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Helen's",
+  "county": "Merseyside",
+  "postcode": "WA10 4ND",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "349926",
+  "northing": "395829",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

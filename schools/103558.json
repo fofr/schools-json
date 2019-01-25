@@ -1,0 +1,18 @@
+{
+  "urn": "103558",
+  "name": "Ninestiles School",
+  "address": "Hartfield Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B27 7QG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "411478",
+  "northing": "282393",
+  "url": "http://www.ninestiles.bham.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

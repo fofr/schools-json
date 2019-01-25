@@ -1,0 +1,18 @@
+{
+  "urn": "146045",
+  "name": "My Life learning",
+  "address": "C/O Thompson House",
+  "locality": "Pepper Lane",
+  "address3": "Standish",
+  "town": "Wigan",
+  "county": "",
+  "postcode": "WN6 0PP",
+  "minimum_age": "16",
+  "maximum_age": "25",
+  "easting": "354828",
+  "northing": "411439",
+  "url": "www.my-life.org.uk",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Special post 16 institution"
+}

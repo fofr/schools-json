@@ -1,0 +1,18 @@
+{
+  "urn": "113679",
+  "name": "Wimborne First School",
+  "address": "School Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Wimborne",
+  "county": "Dorset",
+  "postcode": "BH21 1HQ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "400759",
+  "northing": "100335",
+  "url": "http://www.wimbornefirst.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

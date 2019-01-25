@@ -1,0 +1,18 @@
+{
+  "urn": "104982",
+  "name": "Newfield School",
+  "address": "Edge Lane",
+  "locality": "Crosby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L23 4TG",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "333873",
+  "northing": "400308",
+  "url": "www.newfieldschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

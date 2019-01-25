@@ -1,0 +1,18 @@
+{
+  "urn": "103318",
+  "name": "Featherstone Primary School",
+  "address": "Glenville Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B23 6PR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "410262",
+  "northing": "292017",
+  "url": "http://www.featherstoneprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

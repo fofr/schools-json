@@ -1,0 +1,18 @@
+{
+  "urn": "136627",
+  "name": "Carlton le Willows Academy",
+  "address": "Wood Lane",
+  "locality": "Gedling",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 4AA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "462557",
+  "northing": "342427",
+  "url": "http://www.clwacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

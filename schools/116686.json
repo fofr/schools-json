@@ -1,0 +1,18 @@
+{
+  "urn": "116686",
+  "name": "Trinity Primary School",
+  "address": "Barricombe Drive",
+  "locality": "Moor Farm",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR4 0NU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "349216",
+  "northing": "241326",
+  "url": "www.trinity.hereford.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

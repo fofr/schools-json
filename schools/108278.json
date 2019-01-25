@@ -1,0 +1,18 @@
+{
+  "urn": "108278",
+  "name": "Airedale High School",
+  "address": "Crewe Road",
+  "locality": "Airedale",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 3JU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "445485",
+  "northing": "425204",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

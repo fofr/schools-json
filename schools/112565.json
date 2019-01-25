@@ -1,0 +1,18 @@
+{
+  "urn": "112565",
+  "name": "Penny Acres Primary School",
+  "address": "The Common",
+  "locality": "Holmesfield",
+  "address3": "",
+  "town": "Dronfield",
+  "county": "Derbyshire",
+  "postcode": "S18 7WP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "431685",
+  "northing": "377571",
+  "url": "www.pennyacres.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

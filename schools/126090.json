@@ -1,0 +1,18 @@
+{
+  "urn": "126090",
+  "name": "Worthing High School",
+  "address": "South Farm Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worthing",
+  "county": "West Sussex",
+  "postcode": "BN14 7AR",
+  "minimum_age": "12",
+  "maximum_age": "16",
+  "easting": "514143",
+  "northing": "103889",
+  "url": "http://www.worthinghigh.w-sussex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

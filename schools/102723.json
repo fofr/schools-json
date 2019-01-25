@@ -1,0 +1,18 @@
+{
+  "urn": "102723",
+  "name": "Grange Primary School",
+  "address": "Suffolk Road",
+  "locality": "Plaistow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E13 0HE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540020",
+  "northing": "182582",
+  "url": "www.grange.newham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

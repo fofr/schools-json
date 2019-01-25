@@ -1,0 +1,18 @@
+{
+  "urn": "130503",
+  "name": "Loreto College",
+  "address": "Chichester Road",
+  "locality": "Hulme",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M15 5PB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "383305",
+  "northing": "396244",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

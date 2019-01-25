@@ -1,0 +1,18 @@
+{
+  "urn": "137455",
+  "name": "Pheasant Bank Academy",
+  "address": "West End Lane",
+  "locality": "Rossington",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN11 0PQ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "460979",
+  "northing": "398490",
+  "url": "www.pheasantbankacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

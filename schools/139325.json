@@ -1,0 +1,18 @@
+{
+  "urn": "139325",
+  "name": "Kingswood Primary Academy",
+  "address": "Southbrook",
+  "locality": "",
+  "address3": "",
+  "town": "Corby",
+  "county": "Northamptonshire",
+  "postcode": "NN18 9BE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "487126",
+  "northing": "287418",
+  "url": "www.kingswoodprimaryacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

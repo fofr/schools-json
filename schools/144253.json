@@ -1,0 +1,18 @@
+{
+  "urn": "144253",
+  "name": "Parkfield Primary School",
+  "address": "Dimmock Street",
+  "locality": "Parkfield",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 6HB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "392523",
+  "northing": "296398",
+  "url": "www.parkfieldprimary.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123523",
+  "name": "Broseley CE Primary School",
+  "address": "Dark Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Broseley",
+  "county": "Shropshire",
+  "postcode": "TF12 5LW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367696",
+  "northing": "302092",
+  "url": "www.broseleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

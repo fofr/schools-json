@@ -1,0 +1,18 @@
+{
+  "urn": "140852",
+  "name": "Snettisham Primary School",
+  "address": "School Road",
+  "locality": "Snettisham",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE31 7LT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "568671",
+  "northing": "334136",
+  "url": "www.snettisham-primary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

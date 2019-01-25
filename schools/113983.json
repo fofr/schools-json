@@ -1,0 +1,18 @@
+{
+  "urn": "113983",
+  "name": "George Dent Nursery School",
+  "address": "Elms Road",
+  "locality": "",
+  "address3": "Elms Road",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL3 7PY",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "428389",
+  "northing": "514936",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

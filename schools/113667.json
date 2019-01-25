@@ -1,0 +1,18 @@
+{
+  "urn": "113667",
+  "name": "Ferndown First School",
+  "address": "Mountbatten Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Ferndown",
+  "county": "Dorset",
+  "postcode": "BH22 9FB",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "407250",
+  "northing": "100231",
+  "url": "http://www.fernfirst.dorset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

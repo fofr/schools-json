@@ -1,0 +1,18 @@
+{
+  "urn": "100245",
+  "name": "Shoreditch Park Primary School",
+  "address": "Bridport Place",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 5JN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532859",
+  "northing": "183527",
+  "url": "www.shoreditchpark.hackney.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

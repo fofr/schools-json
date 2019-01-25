@@ -1,0 +1,18 @@
+{
+  "urn": "142952",
+  "name": "Roche Community Primary School",
+  "address": "Fore Street",
+  "locality": "Roche",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL26 8EP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "198739",
+  "northing": "60188",
+  "url": "http://www.roche.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

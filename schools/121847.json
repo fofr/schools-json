@@ -1,0 +1,18 @@
+{
+  "urn": "121847",
+  "name": "Nassington Primary School",
+  "address": "Church Street",
+  "locality": "Nassington",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE8 6QG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "506559",
+  "northing": "296189",
+  "url": "www.nassingtonschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

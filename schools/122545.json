@@ -1,0 +1,18 @@
+{
+  "urn": "122545",
+  "name": "Eskdale Junior School",
+  "address": "Eskdale Drive",
+  "locality": "Chilwell",
+  "address3": "Beeston",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG9 5NA",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "450778",
+  "northing": "336058",
+  "url": "www.eskdale.notts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

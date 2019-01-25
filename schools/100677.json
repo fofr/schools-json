@@ -1,0 +1,18 @@
+{
+  "urn": "100677",
+  "name": "Dalmain Primary School",
+  "address": "Grove Close",
+  "locality": "Brockley Rise",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE23 1AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536070",
+  "northing": "173436",
+  "url": "http://www.dalmain.lewisham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

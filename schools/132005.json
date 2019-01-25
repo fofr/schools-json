@@ -1,0 +1,18 @@
+{
+  "urn": "132005",
+  "name": "Backwell School",
+  "address": "",
+  "locality": "Backwell",
+  "address3": "",
+  "town": "North Somerset",
+  "county": "",
+  "postcode": "BS48 3BX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "348692",
+  "northing": "168840",
+  "url": "http://www.backwellschool.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

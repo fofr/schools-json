@@ -1,0 +1,18 @@
+{
+  "urn": "144768",
+  "name": "The Suthers School",
+  "address": "The Banks",
+  "locality": "",
+  "address3": "The Suthers School Building",
+  "town": "Bingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG13 8BL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "470589",
+  "northing": "339573",
+  "url": "http://www.suthersschool.co.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

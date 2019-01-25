@@ -1,0 +1,18 @@
+{
+  "urn": "132130",
+  "name": "Northumberland Pupil Referral Unit",
+  "address": "Hepscott Park",
+  "locality": "Stannington",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE61 6NF",
+  "minimum_age": "6",
+  "maximum_age": "14",
+  "easting": "422376",
+  "northing": "582407",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

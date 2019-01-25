@@ -1,0 +1,18 @@
+{
+  "urn": "108605",
+  "name": "Forest Hall Primary School",
+  "address": "Delaval Road",
+  "locality": "Forest Hall",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE12 9BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427920",
+  "northing": "570146",
+  "url": "www.foresthallprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

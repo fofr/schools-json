@@ -1,0 +1,18 @@
+{
+  "urn": "141750",
+  "name": "Halley House School",
+  "address": "Arcola Street",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E8 2DJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533743",
+  "northing": "185415",
+  "url": "www.halleyhouseschool.org.uk",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

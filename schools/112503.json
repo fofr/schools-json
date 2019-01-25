@@ -1,0 +1,18 @@
+{
+  "urn": "112503",
+  "name": "Bramley Vale Primary School",
+  "address": "York Crescent",
+  "locality": "Doe Lea",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S44 5PF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "446385",
+  "northing": "366078",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125289",
+  "name": "Yattendon School",
+  "address": "Oakwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Horley",
+  "county": "Surrey",
+  "postcode": "RH6 7BZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "528435",
+  "northing": "143590",
+  "url": "www.yattendon.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141631",
+  "name": "Fairfield Academy",
+  "address": "Mendip Avenue",
+  "locality": "Scartho",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "North East Lincolnshire",
+  "postcode": "DN33 3AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526240",
+  "northing": "405709",
+  "url": "http://www.fairfield-academy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

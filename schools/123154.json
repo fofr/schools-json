@@ -1,0 +1,18 @@
+{
+  "urn": "123154",
+  "name": "Longworth Primary School",
+  "address": "School Close",
+  "locality": "Longworth",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX13 5EU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "439010",
+  "northing": "199448",
+  "url": "www.longworthprimaryschool.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

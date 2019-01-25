@@ -1,0 +1,18 @@
+{
+  "urn": "138747",
+  "name": "Hertswood Academy",
+  "address": "Cowley Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Borehamwood",
+  "county": "Hertfordshire",
+  "postcode": "WD6 5LG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "519998",
+  "northing": "197839",
+  "url": "www.hertswoodacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

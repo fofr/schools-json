@@ -1,0 +1,18 @@
+{
+  "urn": "141915",
+  "name": "Prestolee Primary School",
+  "address": "Church Road",
+  "locality": "Stoneclough",
+  "address3": "Radcliffe",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M26 1HJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "375521",
+  "northing": "405819",
+  "url": "www.prestolee.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

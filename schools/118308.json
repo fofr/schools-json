@@ -1,0 +1,18 @@
+{
+  "urn": "118308",
+  "name": "Offham Primary School",
+  "address": "Church Road",
+  "locality": "Offham",
+  "address3": "",
+  "town": "West Malling",
+  "county": "Kent",
+  "postcode": "ME19 5NX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "565935",
+  "northing": "157744",
+  "url": "http://www.offham.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

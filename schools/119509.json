@@ -1,0 +1,18 @@
+{
+  "urn": "119509",
+  "name": "Rivington Foundation Primary School",
+  "address": "Horrobin Lane",
+  "locality": "Rivington",
+  "address3": "Horwich",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL6 7SE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "362553",
+  "northing": "414350",
+  "url": "www.rivington.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

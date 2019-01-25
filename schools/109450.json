@@ -1,0 +1,18 @@
+{
+  "urn": "109450",
+  "name": "Everton Heath Primary School",
+  "address": "33 Potton Road",
+  "locality": "Everton",
+  "address3": "",
+  "town": "Nr Sandy",
+  "county": "Bedfordshire",
+  "postcode": "SG19 2LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "520485",
+  "northing": "251064",
+  "url": "www.evertonheath.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

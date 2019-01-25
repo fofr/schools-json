@@ -1,0 +1,18 @@
+{
+  "urn": "114054",
+  "name": "Hunwick Primary School",
+  "address": "Church Lane",
+  "locality": "Hunwick",
+  "address3": "",
+  "town": "Crook",
+  "county": "County Durham",
+  "postcode": "DL15 0JX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "419041",
+  "northing": "532631",
+  "url": "http://www.hunwick.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

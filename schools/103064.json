@@ -1,0 +1,18 @@
+{
+  "urn": "103064",
+  "name": "Chingford Hall Primary School",
+  "address": "4 Burnside Avenue",
+  "locality": "Chingford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E4 8YJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536931",
+  "northing": "191785",
+  "url": "www.chingfordhallinformation.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102326",
+  "name": "Pinewood Primary School",
+  "address": "Thistledene Avenue",
+  "locality": "Collier Row",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM5 2TX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "549795",
+  "northing": "192411",
+  "url": "http://pinewood.havering.lgfl.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

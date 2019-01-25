@@ -1,0 +1,18 @@
+{
+  "urn": "119929",
+  "name": "Westfield Infant School",
+  "address": "Ashford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 0JL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "441821",
+  "northing": "293254",
+  "url": "http://www.westfield-inf.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

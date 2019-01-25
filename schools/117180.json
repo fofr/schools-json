@@ -1,0 +1,18 @@
+{
+  "urn": "117180",
+  "name": "Hurst Drive Primary School",
+  "address": "Hurst Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Waltham Cross",
+  "county": "Hertfordshire",
+  "postcode": "EN8 8DH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "535648",
+  "northing": "200321",
+  "url": "www.hurstdrive.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

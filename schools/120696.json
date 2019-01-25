@@ -1,0 +1,18 @@
+{
+  "urn": "120696",
+  "name": "The Skegness Grammar School",
+  "address": "Vernon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Skegness",
+  "county": "Lincolnshire",
+  "postcode": "PE25 2QS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "556181",
+  "northing": "363869",
+  "url": "http://www.skegnessgrammar.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

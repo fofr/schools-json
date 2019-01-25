@@ -1,0 +1,18 @@
+{
+  "urn": "102656",
+  "name": "Liberty Primary",
+  "address": "Western Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mitcham",
+  "county": "Surrey",
+  "postcode": "CR4 3EB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527324",
+  "northing": "169465",
+  "url": "www.liberty.merton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

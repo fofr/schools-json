@@ -1,0 +1,18 @@
+{
+  "urn": "115210",
+  "name": "Shoeburyness High School",
+  "address": "Caulfield Road",
+  "locality": "Shoeburyness",
+  "address3": "",
+  "town": "Southend-on-Sea",
+  "county": "Essex",
+  "postcode": "SS3 9LL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "592621",
+  "northing": "185207",
+  "url": "http://www.shoeburynesshigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

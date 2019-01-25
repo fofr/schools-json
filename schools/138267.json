@@ -1,0 +1,18 @@
+{
+  "urn": "138267",
+  "name": "Ark Bolingbroke Academy",
+  "address": "Wakehurst Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 6BF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "527362",
+  "northing": "174607",
+  "url": "http://arkbolingbrokeacademy.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

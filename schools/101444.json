@@ -1,0 +1,18 @@
+{
+  "urn": "101444",
+  "name": "Castilion Primary School",
+  "address": "Copperfield Road",
+  "locality": "Thamesmead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE28 8QA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547307",
+  "northing": "181174",
+  "url": "www.castilion.bexley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143501",
+  "name": "Great Meols Primary School",
+  "address": "Elwyn Road",
+  "locality": "Meols",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH47 7AP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "323230",
+  "northing": "390393",
+  "url": "www.greatmeols.wirral.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

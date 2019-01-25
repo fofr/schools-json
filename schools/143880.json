@@ -1,0 +1,18 @@
+{
+  "urn": "143880",
+  "name": "Balfour Junior Academy",
+  "address": "Balfour Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chatham",
+  "county": "Kent",
+  "postcode": "ME4 6QX",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "575169",
+  "northing": "166802",
+  "url": "www.balfourjuniorschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

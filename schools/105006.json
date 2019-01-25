@@ -1,0 +1,18 @@
+{
+  "urn": "105006",
+  "name": "Stanton Road Primary School",
+  "address": "Stanton Road",
+  "locality": "Bebington",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH63 3HW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "333065",
+  "northing": "383501",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

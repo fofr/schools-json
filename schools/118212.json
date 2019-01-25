@@ -1,0 +1,18 @@
+{
+  "urn": "118212",
+  "name": "Solent Middle School",
+  "address": "Baring Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cowes",
+  "county": "Isle of Wight",
+  "postcode": "PO31 8DS",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "448166",
+  "northing": "95906",
+  "url": "http://www.solent.iow.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

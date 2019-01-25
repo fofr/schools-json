@@ -1,0 +1,18 @@
+{
+  "urn": "145352",
+  "name": "The Orchard Primary School",
+  "address": "Gammons Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD24 5JW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "509805",
+  "northing": "199150",
+  "url": "http://www.orchard.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

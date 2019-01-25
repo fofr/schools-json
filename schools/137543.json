@@ -1,0 +1,18 @@
+{
+  "urn": "137543",
+  "name": "Pennine Way Junior Academy",
+  "address": "Pennine Way",
+  "locality": "",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE11 9EY",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "429420",
+  "northing": "318878",
+  "url": "www.pennineway.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

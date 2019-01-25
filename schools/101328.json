@@ -1,0 +1,18 @@
+{
+  "urn": "101328",
+  "name": "Trent CofE Primary School",
+  "address": "Church Way",
+  "locality": "Off Chalk Lane",
+  "address3": "Cockfosters",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN4 9JH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "527895",
+  "northing": "196294",
+  "url": "www.trentceprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

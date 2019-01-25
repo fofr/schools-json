@@ -1,0 +1,18 @@
+{
+  "urn": "118306",
+  "name": "Marden Primary School",
+  "address": "Goudhurst Road",
+  "locality": "Marden",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN12 9JX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "574009",
+  "northing": "144505",
+  "url": "www.marden.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

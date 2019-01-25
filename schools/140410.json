@@ -1,0 +1,18 @@
+{
+  "urn": "140410",
+  "name": "University Primary Academy Weaverham",
+  "address": "Northwich Road",
+  "locality": "Weaverham",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 3BD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "362105",
+  "northing": "373778",
+  "url": "www.UPAWeaverham.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145299",
+  "name": "Corpusty Primary School",
+  "address": "Norwich Road",
+  "locality": "Corpusty",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR11 6QG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "611357",
+  "northing": "330153",
+  "url": "http://www.corpusty.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

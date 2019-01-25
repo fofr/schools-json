@@ -1,0 +1,18 @@
+{
+  "urn": "140800",
+  "name": "Whitehill Primary School",
+  "address": "Sun Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA12 5HN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "565183",
+  "northing": "172378",
+  "url": "www.whitehillprimary.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

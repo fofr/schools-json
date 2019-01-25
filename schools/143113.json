@@ -1,0 +1,18 @@
+{
+  "urn": "143113",
+  "name": "Queensbury Academy",
+  "address": "Deanstones Lane",
+  "locality": "Queensbury",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD13 2AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "410212",
+  "northing": "429884",
+  "url": "http://queensbury-academy.fetrust.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

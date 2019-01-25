@@ -1,0 +1,18 @@
+{
+  "urn": "131867",
+  "name": "Bolton Sixth Form College",
+  "address": "Town Centre Campus",
+  "locality": "Deane Road",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 5BU",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "371233",
+  "northing": "408827",
+  "url": "www.bolton-sfc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

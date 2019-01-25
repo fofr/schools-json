@@ -1,0 +1,18 @@
+{
+  "urn": "118275",
+  "name": "Four Elms Primary School",
+  "address": "Bough Beech Road",
+  "locality": "Four Elms",
+  "address3": "",
+  "town": "Edenbridge",
+  "county": "Kent",
+  "postcode": "TN8 6NE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "546847",
+  "northing": "148273",
+  "url": "www.four-elms.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

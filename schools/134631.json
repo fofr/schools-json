@@ -1,0 +1,18 @@
+{
+  "urn": "134631",
+  "name": "Hazeley School",
+  "address": "Emperor Drive",
+  "locality": "Hazeley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK8 0PT",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "481650",
+  "northing": "236327",
+  "url": "www.hazeley.milton-keynes.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

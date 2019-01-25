@@ -1,0 +1,18 @@
+{
+  "urn": "127556",
+  "name": "Whelley Middle School",
+  "address": "Moore Street",
+  "locality": "Whelley",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN1 3XX",
+  "minimum_age": "10",
+  "maximum_age": "13",
+  "easting": "359015",
+  "northing": "406508",
+  "url": "",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

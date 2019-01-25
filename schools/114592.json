@@ -1,0 +1,18 @@
+{
+  "urn": "114592",
+  "name": "Willingdon Community School",
+  "address": "Broad Road",
+  "locality": "Lower Willingdon",
+  "address3": "",
+  "town": "Eastbourne",
+  "county": "East Sussex",
+  "postcode": "BN20 9QX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "557960",
+  "northing": "103728",
+  "url": "http://willingdonschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

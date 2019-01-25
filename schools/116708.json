@@ -1,0 +1,18 @@
+{
+  "urn": "116708",
+  "name": "Madley Primary School",
+  "address": "Madley",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR2 9PH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "341870",
+  "northing": "238828",
+  "url": "www.madleyprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

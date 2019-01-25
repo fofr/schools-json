@@ -1,0 +1,18 @@
+{
+  "urn": "115600",
+  "name": "Beech Green Primary School",
+  "address": "St James",
+  "locality": "Quedgeley",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL2 4WD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "380671",
+  "northing": "214315",
+  "url": "http://www.beechgreenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

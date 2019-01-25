@@ -1,0 +1,18 @@
+{
+  "urn": "143222",
+  "name": "The Boulevard Centre",
+  "address": "172 Boulevard",
+  "locality": "Kingston-upon-Hull",
+  "address3": "",
+  "town": "HULL",
+  "county": "",
+  "postcode": "HU3 3EL",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "507909",
+  "northing": "428069",
+  "url": "www.theboulevardcentre.org.uk",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy alternative provision converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144697",
+  "name": "Merstham Primary School",
+  "address": "London Road South",
+  "locality": "Merstham",
+  "address3": "",
+  "town": "Redhill",
+  "county": "Surrey",
+  "postcode": "RH1 3AZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529023",
+  "northing": "153012",
+  "url": "www.merstham.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

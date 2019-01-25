@@ -1,0 +1,18 @@
+{
+  "urn": "124561",
+  "name": "Hardwick Primary School",
+  "address": "Steward Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP33 2PW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "586005",
+  "northing": "262920",
+  "url": "www.hardwickprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

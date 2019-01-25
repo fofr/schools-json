@@ -1,0 +1,18 @@
+{
+  "urn": "105463",
+  "name": "Wilbraham Infant School",
+  "address": "Platt Lane",
+  "locality": "Fallowfield",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M14 7FB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "384383",
+  "northing": "394481",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

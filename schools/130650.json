@@ -1,0 +1,18 @@
+{
+  "urn": "130650",
+  "name": "Plymouth College of Art",
+  "address": "Tavistock Place",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL4 8AT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "248106",
+  "northing": "54797",
+  "url": "www.plymouthart.ac.uk",
+  "phase": "Not applicable",
+  "type": "Universities",
+  "detailed_type": "Higher education institutions"
+}

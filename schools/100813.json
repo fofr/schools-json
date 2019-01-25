@@ -1,0 +1,18 @@
+{
+  "urn": "100813",
+  "name": "Tower Bridge Primary School",
+  "address": "Fair Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE1 2AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533570",
+  "northing": "179825",
+  "url": "www.thebridgesfederation.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

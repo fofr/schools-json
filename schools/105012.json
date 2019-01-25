@@ -1,0 +1,18 @@
+{
+  "urn": "105012",
+  "name": "Bromborough Pool Primary School",
+  "address": "York Street",
+  "locality": "Bromborough",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH62 4TZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "334977",
+  "northing": "384184",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

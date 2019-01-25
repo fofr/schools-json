@@ -1,0 +1,18 @@
+{
+  "urn": "138789",
+  "name": "Minerva Primary Academy",
+  "address": "The Greenway",
+  "locality": "Hillfields Park",
+  "address3": "Fishponds",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS16 4HA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "364291",
+  "northing": "175013",
+  "url": "http://www.minervaacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

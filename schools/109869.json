@@ -1,0 +1,18 @@
+{
+  "urn": "109869",
+  "name": "Walter Infant School",
+  "address": "Murray Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG41 2TA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "480259",
+  "northing": "168860",
+  "url": "www.walter.wokingham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

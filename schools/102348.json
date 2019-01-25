@@ -1,0 +1,18 @@
+{
+  "urn": "102348",
+  "name": "Bower Park School",
+  "address": "Havering Road North",
+  "locality": "",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM1 4YY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "551141",
+  "northing": "191853",
+  "url": "http://www.bowerpark.havering.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

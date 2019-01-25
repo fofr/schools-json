@@ -1,0 +1,18 @@
+{
+  "urn": "104888",
+  "name": "Shoreside Primary School",
+  "address": "Westminster Drive",
+  "locality": "",
+  "address3": "Ainsdale",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR8 2QZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "330369",
+  "northing": "411993",
+  "url": "www.shoresideprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

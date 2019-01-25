@@ -1,0 +1,18 @@
+{
+  "urn": "102003",
+  "name": "The Raglan Junior School",
+  "address": "Raglan Road",
+  "locality": "Bush Hill Park",
+  "address3": "",
+  "town": "Enfield",
+  "county": "Middlesex",
+  "postcode": "EN1 2RG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "533517",
+  "northing": "194889",
+  "url": "www.raglanschools.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

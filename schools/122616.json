@@ -1,0 +1,18 @@
+{
+  "urn": "122616",
+  "name": "Besthorpe Primary School",
+  "address": "Besthorpe",
+  "locality": "",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG23 7HR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "482655",
+  "northing": "364718",
+  "url": "http://www.besthorpeschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

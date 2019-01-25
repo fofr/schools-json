@@ -1,0 +1,18 @@
+{
+  "urn": "110616",
+  "name": "Over Primary School",
+  "address": "Long Furlong",
+  "locality": "Over",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 5PG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "537624",
+  "northing": "270359",
+  "url": "http://over.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

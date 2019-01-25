@@ -1,0 +1,18 @@
+{
+  "urn": "110976",
+  "name": "Newton Primary School",
+  "address": "Kingsway West",
+  "locality": "Newton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH2 2LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "341344",
+  "northing": "367844",
+  "url": "www.newtonprimary.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

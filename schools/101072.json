@@ -1,0 +1,18 @@
+{
+  "urn": "101072",
+  "name": "Putney High School",
+  "address": "35 Putney Hill",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW15 6BH",
+  "minimum_age": "4",
+  "maximum_age": "18",
+  "easting": "523900",
+  "northing": "174602",
+  "url": "http://www.putneyhigh.gdst.net",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

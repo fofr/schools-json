@@ -1,0 +1,18 @@
+{
+  "urn": "119730",
+  "name": "Witton Park High School",
+  "address": "Buncer Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB2 6TD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "366457",
+  "northing": "427630",
+  "url": "www.wittonpark.blackburn.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

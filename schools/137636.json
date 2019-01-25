@@ -1,0 +1,18 @@
+{
+  "urn": "137636",
+  "name": "Brooklands Middle School",
+  "address": "Brooklands Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Leighton Buzzard",
+  "county": "Bedfordshire",
+  "postcode": "LU7 3PF",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "493195",
+  "northing": "225022",
+  "url": "http://www.brooklandsschool.co.uk/",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

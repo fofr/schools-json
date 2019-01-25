@@ -1,0 +1,18 @@
+{
+  "urn": "110597",
+  "name": "Colleges Nursery School",
+  "address": "Campkin Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 2LD",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "545465",
+  "northing": "260860",
+  "url": "www.colleges.cambs.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

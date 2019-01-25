@@ -1,0 +1,18 @@
+{
+  "urn": "128683",
+  "name": "Aylesbeare Primary School",
+  "address": "Aylesbeare",
+  "locality": "",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX5 2BY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "304003",
+  "northing": "91573",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

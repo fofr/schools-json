@@ -1,0 +1,18 @@
+{
+  "urn": "122086",
+  "name": "Millway Primary School",
+  "address": "Millway",
+  "locality": "Duston",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN5 6ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "472508",
+  "northing": "260675",
+  "url": "www.millwayprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

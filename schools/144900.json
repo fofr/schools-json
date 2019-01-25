@@ -1,0 +1,18 @@
+{
+  "urn": "144900",
+  "name": "Duke's Aldridge",
+  "address": "Trulock Road",
+  "locality": "Tottenham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N17 0PG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "534215",
+  "northing": "191340",
+  "url": "www.dukesacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

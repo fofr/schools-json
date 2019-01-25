@@ -1,0 +1,18 @@
+{
+  "urn": "135661",
+  "name": "Oasis Academy MediaCityUK",
+  "address": "King William Street",
+  "locality": "Salford",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M50 3UQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "381282",
+  "northing": "397646",
+  "url": "http://www.oasisacademymediacityuk.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140819",
+  "name": "Stalham Academy",
+  "address": "Old Yarmouth Road",
+  "locality": "Stalham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR12 9PS",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "637924",
+  "northing": "324857",
+  "url": "www.stalhamacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

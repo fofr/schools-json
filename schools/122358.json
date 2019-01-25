@@ -1,0 +1,18 @@
+{
+  "urn": "122358",
+  "name": "Ponteland High School",
+  "address": "Callerton Lane",
+  "locality": "Ponteland",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE20 9EY",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "416508",
+  "northing": "572103",
+  "url": "http://ponthigh.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

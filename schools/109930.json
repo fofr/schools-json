@@ -1,0 +1,18 @@
+{
+  "urn": "109930",
+  "name": "Hillside Primary School",
+  "address": "Rushey Way",
+  "locality": "Lower Earley",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG6 4HQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "473809",
+  "northing": "169992",
+  "url": "www.hillside.wokingham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116226",
+  "name": "Manor Infant School",
+  "address": "Inverness Road",
+  "locality": "",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO1 5QR",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "465231",
+  "northing": "101231",
+  "url": "www.manorinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

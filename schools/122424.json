@@ -1,0 +1,18 @@
+{
+  "urn": "122424",
+  "name": "Arkwright Primary and Nursery School",
+  "address": "Orange Gardens",
+  "locality": "Off Kirkby Gardens",
+  "address3": "Wilford Grove the Meadows",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 2JE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457700",
+  "northing": "338570",
+  "url": "http://www.arkwright.nottingham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

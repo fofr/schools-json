@@ -1,0 +1,18 @@
+{
+  "urn": "101732",
+  "name": "Ryelands Primary School",
+  "address": "Albert Road",
+  "locality": "South Norwood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE25 4QL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534919",
+  "northing": "167791",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

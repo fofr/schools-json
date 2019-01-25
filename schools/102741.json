@@ -1,0 +1,18 @@
+{
+  "urn": "102741",
+  "name": "Rosetta Primary School",
+  "address": "Sophia Road",
+  "locality": "Custom House",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E16 3PB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "540767",
+  "northing": "181590",
+  "url": "www.rosettaprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145679",
+  "name": "St Peter's CofE Academy Alton",
+  "address": "Town Head",
+  "locality": "Alton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST10 4AW",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "407479",
+  "northing": "342372",
+  "url": "www.st-peters-alton.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

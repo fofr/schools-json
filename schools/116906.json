@@ -1,0 +1,18 @@
+{
+  "urn": "116906",
+  "name": "Pembridge CofE Primary School",
+  "address": "Bearwood Lane",
+  "locality": "Pembridge",
+  "address3": "",
+  "town": "Leominster",
+  "county": "Herefordshire",
+  "postcode": "HR6 9EA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "338949",
+  "northing": "258081",
+  "url": "www.pembridgeprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109686",
+  "name": "Lealands High School",
+  "address": "Sundon Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU3 3AL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "505321",
+  "northing": "225596",
+  "url": "http://www.lealands.luton.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

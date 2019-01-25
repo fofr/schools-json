@@ -1,0 +1,18 @@
+{
+  "urn": "130870",
+  "name": "St John's Primary School",
+  "address": "Mortimer Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kenilworth",
+  "county": "Warwickshire",
+  "postcode": "CV8 1FS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "428705",
+  "northing": "270951",
+  "url": "www.st-johns.warwickshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

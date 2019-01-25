@@ -1,0 +1,18 @@
+{
+  "urn": "118329",
+  "name": "Balfour Infant School",
+  "address": "Pattens Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME1 2QT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "575083",
+  "northing": "166460",
+  "url": "http://www.balfourinf.medway.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

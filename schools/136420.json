@@ -1,0 +1,18 @@
+{
+  "urn": "136420",
+  "name": "Upton Court Grammar School",
+  "address": "Lascelles Road",
+  "locality": "",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL3 7PR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "498744",
+  "northing": "179318",
+  "url": "http://www.uptoncourtgrammar.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

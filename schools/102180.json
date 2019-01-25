@@ -1,0 +1,18 @@
+{
+  "urn": "102180",
+  "name": "The Helix Education Centre",
+  "address": "94 Uxbridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA3 6DH",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "515284",
+  "northing": "191728",
+  "url": "www.thehelix.harrow.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

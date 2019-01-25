@@ -1,0 +1,18 @@
+{
+  "urn": "110217",
+  "name": "Newtown School",
+  "address": "Berkhampstead Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chesham",
+  "county": "Buckinghamshire",
+  "postcode": "HP5 3AT",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "496322",
+  "northing": "202606",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

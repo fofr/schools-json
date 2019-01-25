@@ -1,0 +1,18 @@
+{
+  "urn": "103855",
+  "name": "The Dormston School",
+  "address": "Mill Bank",
+  "locality": "Sedgley",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY3 1SN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "392052",
+  "northing": "293709",
+  "url": "http://www.dormston.dudley.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

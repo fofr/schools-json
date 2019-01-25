@@ -1,0 +1,18 @@
+{
+  "urn": "140200",
+  "name": "Langdale Free School",
+  "address": "95 Warbreck Drive",
+  "locality": "Bispham",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY2 9RZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "330984",
+  "northing": "438437",
+  "url": "www.langdaleschool.co.uk/",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

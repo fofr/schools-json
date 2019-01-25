@@ -1,0 +1,18 @@
+{
+  "urn": "136297",
+  "name": "Urmston Grammar Academy",
+  "address": "Newton Road",
+  "locality": "Urmston",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M41 5UG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "376120",
+  "northing": "394926",
+  "url": "http://www.urmstongrammar.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

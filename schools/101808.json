@@ -1,0 +1,18 @@
+{
+  "urn": "101808",
+  "name": "Ashburton Community School",
+  "address": "Shirley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR9 7AL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "534881",
+  "northing": "166671",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

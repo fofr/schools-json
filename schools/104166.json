@@ -1,0 +1,18 @@
+{
+  "urn": "104166",
+  "name": "Mossley Junior School",
+  "address": "Tintern Crescent",
+  "locality": "Bloxwich",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 2SQ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "398750",
+  "northing": "302565",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

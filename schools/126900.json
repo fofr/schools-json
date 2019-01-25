@@ -1,0 +1,18 @@
+{
+  "urn": "126900",
+  "name": "Crowland Infant School",
+  "address": "Crowland Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N15 6UX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "534027",
+  "northing": "188633",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

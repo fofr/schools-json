@@ -1,0 +1,18 @@
+{
+  "urn": "100152",
+  "name": "De Lucy Primary School",
+  "address": "Cookhill Road",
+  "locality": "Abbey Wood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE2 9PD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "546656",
+  "northing": "179560",
+  "url": "www.delucyprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

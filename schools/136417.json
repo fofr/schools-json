@@ -1,0 +1,18 @@
+{
+  "urn": "136417",
+  "name": "Tonbridge Grammar School",
+  "address": "Deakin Leas",
+  "locality": "",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN9 2JR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "559055",
+  "northing": "145279",
+  "url": "http://www.tgs.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

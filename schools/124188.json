@@ -1,0 +1,18 @@
+{
+  "urn": "124188",
+  "name": "Ellison Primary School",
+  "address": "Ellison Street",
+  "locality": "Wolstanton",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 0BL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "385565",
+  "northing": "348416",
+  "url": "www.ellison.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

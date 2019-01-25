@@ -1,0 +1,18 @@
+{
+  "urn": "121271",
+  "name": "Acomb Primary School",
+  "address": "West Bank",
+  "locality": "Acomb",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO24 4ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458161",
+  "northing": "451178",
+  "url": "www.acombprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

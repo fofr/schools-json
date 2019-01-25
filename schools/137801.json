@@ -1,0 +1,18 @@
+{
+  "urn": "137801",
+  "name": "Trinity CofE High School",
+  "address": "Higher Cambridge Street",
+  "locality": "",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M15 6HP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "384235",
+  "northing": "396576",
+  "url": "http://www.trinityhigh.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

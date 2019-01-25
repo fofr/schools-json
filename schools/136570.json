@@ -1,0 +1,18 @@
+{
+  "urn": "136570",
+  "name": "Queen Elizabeth's Grammar School",
+  "address": "Abbey Place",
+  "locality": "",
+  "address3": "",
+  "town": "Faversham",
+  "county": "Kent",
+  "postcode": "ME13 7BQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "601923",
+  "northing": "161598",
+  "url": "http://www.queenelizabeths.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

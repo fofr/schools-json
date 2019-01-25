@@ -1,0 +1,18 @@
+{
+  "urn": "136611",
+  "name": "The Corsham School",
+  "address": "The Tynings",
+  "locality": "",
+  "address3": "",
+  "town": "Corsham",
+  "county": "Wiltshire",
+  "postcode": "SN13 9DF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "386724",
+  "northing": "170180",
+  "url": "http://www.corsham.wilts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

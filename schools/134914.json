@@ -1,0 +1,18 @@
+{
+  "urn": "134914",
+  "name": "Stoke Park Primary School",
+  "address": "Romney Avenue",
+  "locality": "Lockleaze",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS7 9BY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "360886",
+  "northing": "176662",
+  "url": "www.stokeparkschools.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

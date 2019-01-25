@@ -1,0 +1,18 @@
+{
+  "urn": "104424",
+  "name": "Beechwood Primary School",
+  "address": "Hillside Avenue",
+  "locality": "Huyton",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L36 8EQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "343371",
+  "northing": "392886",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

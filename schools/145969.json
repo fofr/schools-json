@@ -1,0 +1,18 @@
+{
+  "urn": "145969",
+  "name": "Mount Pleasant Lane Primary School",
+  "address": "Mount Pleasant Lane",
+  "locality": "Bricket Wood",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL2 3XA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "512091",
+  "northing": "202003",
+  "url": "http://www.mountpleasant.herts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123692",
+  "name": "Otterhampton Primary School",
+  "address": "School Lane",
+  "locality": "Combwich",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA5 2QS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "325664",
+  "northing": "142363",
+  "url": "http://www.otterhamptonprisch.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

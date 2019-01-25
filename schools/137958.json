@@ -1,0 +1,18 @@
+{
+  "urn": "137958",
+  "name": "St James' Roman Catholic Primary School",
+  "address": "Maybury Close",
+  "locality": "Petts Wood",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR5 1BL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "543870",
+  "northing": "167619",
+  "url": "www.st-james.bromley.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

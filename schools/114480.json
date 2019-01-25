@@ -1,0 +1,18 @@
+{
+  "urn": "114480",
+  "name": "Woodingdean Primary School",
+  "address": "Warren Road",
+  "locality": "Woodingdean",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN2 6BB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "535385",
+  "northing": "105644",
+  "url": "http://www.woodingdeanprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

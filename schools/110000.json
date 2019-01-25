@@ -1,0 +1,18 @@
+{
+  "urn": "110000",
+  "name": "Colnbrook Church of England Primary School",
+  "address": "High Street",
+  "locality": "Colnbrook",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL3 0JZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "502597",
+  "northing": "177031",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

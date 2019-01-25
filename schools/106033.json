@@ -1,0 +1,18 @@
+{
+  "urn": "106033",
+  "name": "Brindale Primary School",
+  "address": "Brindale Road",
+  "locality": "Brinnington",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK5 8DN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "391368",
+  "northing": "391789",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

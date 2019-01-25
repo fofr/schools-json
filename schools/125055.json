@@ -1,0 +1,18 @@
+{
+  "urn": "125055",
+  "name": "Burhill Primary School",
+  "address": "New Berry Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hersham",
+  "county": "Surrey",
+  "postcode": "KT12 4HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511589",
+  "northing": "163993",
+  "url": "www.burhill.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

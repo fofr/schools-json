@@ -1,0 +1,18 @@
+{
+  "urn": "140837",
+  "name": "Gulval School",
+  "address": "Gulval",
+  "locality": "",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR18 3BJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "148209",
+  "northing": "31728",
+  "url": "gulvalschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109284",
+  "name": "Withywood Community School",
+  "address": "Molesworth Drive",
+  "locality": "Withywood",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS13 9BL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "357372",
+  "northing": "168129",
+  "url": "http://www.withywood.bristol.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

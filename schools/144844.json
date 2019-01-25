@@ -1,0 +1,18 @@
+{
+  "urn": "144844",
+  "name": "Stuart Road Primary School",
+  "address": "Palmerston Street",
+  "locality": "Stoke",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 5LL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "246812",
+  "northing": "55277",
+  "url": "http://www.stuartroad.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

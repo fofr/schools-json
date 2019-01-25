@@ -1,0 +1,18 @@
+{
+  "urn": "138891",
+  "name": "Broom Leys School",
+  "address": "Broom Leys Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coalville",
+  "county": "Leicestershire",
+  "postcode": "LE67 4DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "444212",
+  "northing": "314086",
+  "url": "http://www.broom-leys.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139750",
+  "name": "Ladygrove Park Primary School",
+  "address": "Avon Way",
+  "locality": "",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 7GB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "452651",
+  "northing": "191043",
+  "url": "http://www.ladygrove-park.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

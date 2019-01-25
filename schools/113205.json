@@ -1,0 +1,18 @@
+{
+  "urn": "113205",
+  "name": "Kingsbridge Community Primary School",
+  "address": "Belle Cross Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingsbridge",
+  "county": "Devon",
+  "postcode": "TQ7 1NL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "274059",
+  "northing": "44616",
+  "url": "www.kingsbridgeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

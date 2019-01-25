@@ -1,0 +1,18 @@
+{
+  "urn": "130746",
+  "name": "St Mary's College",
+  "address": "Shear Brow",
+  "locality": "",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB1 8DX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "367985",
+  "northing": "429392",
+  "url": "stmarysblackburn.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

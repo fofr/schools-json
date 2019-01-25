@@ -1,0 +1,18 @@
+{
+  "urn": "100967",
+  "name": "Morpeth School",
+  "address": "Portman Place",
+  "locality": "Bethnal Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 0PX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "535529",
+  "northing": "182654",
+  "url": "http://www.morpethschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

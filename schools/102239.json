@@ -1,0 +1,18 @@
+{
+  "urn": "102239",
+  "name": "Whitmore High School",
+  "address": "Porlock Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA2 0AD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "514224",
+  "northing": "187316",
+  "url": "http://www.whitmore.harrow.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

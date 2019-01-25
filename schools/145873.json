@@ -1,0 +1,18 @@
+{
+  "urn": "145873",
+  "name": "CHS South",
+  "address": "550 Mauldeth Road West",
+  "locality": "Chorlton-Cum-Hardy",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M21 7AA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "382506",
+  "northing": "393227",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

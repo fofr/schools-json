@@ -1,0 +1,18 @@
+{
+  "urn": "140108",
+  "name": "Alsager School",
+  "address": "Hassall Road",
+  "locality": "Alsager",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Cheshire",
+  "postcode": "ST7 2HR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "378788",
+  "northing": "355809",
+  "url": "http://www.alsagerschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

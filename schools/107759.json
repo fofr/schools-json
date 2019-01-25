@@ -1,0 +1,18 @@
+{
+  "urn": "107759",
+  "name": "Fartown High School",
+  "address": "Woodhouse Hall Road",
+  "locality": "Fartown",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD2 1DJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "415373",
+  "northing": "418850",
+  "url": "http://www.fartownhs.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

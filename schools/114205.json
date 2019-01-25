@@ -1,0 +1,18 @@
+{
+  "urn": "114205",
+  "name": "Stephenson Way Primary School",
+  "address": "Stephenson Way",
+  "locality": "",
+  "address3": "",
+  "town": "Newton Aycliffe",
+  "county": "",
+  "postcode": "DL5 7DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426953",
+  "northing": "525033",
+  "url": "http://www.stephenson-way.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

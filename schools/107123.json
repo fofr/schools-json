@@ -1,0 +1,18 @@
+{
+  "urn": "107123",
+  "name": "Earl Marshal School",
+  "address": "Earl Marshal Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S4 8LA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "436466",
+  "northing": "389974",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

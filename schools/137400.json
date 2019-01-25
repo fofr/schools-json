@@ -1,0 +1,18 @@
+{
+  "urn": "137400",
+  "name": "Yewlands Academy",
+  "address": "Creswick Lane",
+  "locality": "Grenoside",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S35 8NN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "434153",
+  "northing": "393203",
+  "url": "http://www.yewlands.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

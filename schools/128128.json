@@ -1,0 +1,18 @@
+{
+  "urn": "128128",
+  "name": "Ravenswood Infant School",
+  "address": "Ravenswood Road",
+  "locality": "Heaton",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE6 5TU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "427075",
+  "northing": "566473",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

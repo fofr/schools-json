@@ -1,0 +1,18 @@
+{
+  "urn": "101234",
+  "name": "William Ford CofE Junior School",
+  "address": "Ford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM10 9JS",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "549383",
+  "northing": "184397",
+  "url": "www.williamfordschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

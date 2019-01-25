@@ -1,0 +1,18 @@
+{
+  "urn": "100783",
+  "name": "Comber Grove School",
+  "address": "Comber Grove",
+  "locality": "Camberwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE5 0LQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532228",
+  "northing": "177123",
+  "url": "www.combergrove.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

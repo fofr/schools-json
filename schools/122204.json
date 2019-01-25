@@ -1,0 +1,18 @@
+{
+  "urn": "122204",
+  "name": "Lowgate First School",
+  "address": "Lowgate",
+  "locality": "",
+  "address3": "",
+  "town": "Hexham",
+  "county": "Northumberland",
+  "postcode": "NE46 2NN",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "390351",
+  "northing": "563957",
+  "url": "http://www.lowgate.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

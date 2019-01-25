@@ -1,0 +1,18 @@
+{
+  "urn": "131239",
+  "name": "Mount Nod Primary School",
+  "address": "Greenleaf Close",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV5 7BG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "428997",
+  "northing": "279421",
+  "url": "www.mountnod.coventry.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

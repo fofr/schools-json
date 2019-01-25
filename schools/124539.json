@@ -1,0 +1,18 @@
+{
+  "urn": "124539",
+  "name": "Lakenheath Community Primary School",
+  "address": "Mill Road",
+  "locality": "Lakenheath",
+  "address3": "",
+  "town": "Brandon",
+  "county": "Suffolk",
+  "postcode": "IP27 9DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "571849",
+  "northing": "282781",
+  "url": "www.lakenheath.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108818",
+  "name": "Rickleton Primary School",
+  "address": "Vigo Lane",
+  "locality": "Rickleton",
+  "address3": "",
+  "town": "Washington",
+  "county": "Tyne and Wear",
+  "postcode": "NE38 9EZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "428878",
+  "northing": "553783",
+  "url": "www.rickletonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

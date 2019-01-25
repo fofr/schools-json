@@ -1,0 +1,18 @@
+{
+  "urn": "144344",
+  "name": "Temple Normanton Junior Academy",
+  "address": "Elm Street",
+  "locality": "Temple Normanton",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S42 5DW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442048",
+  "northing": "367707",
+  "url": "www.templenormantonacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

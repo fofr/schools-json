@@ -1,0 +1,18 @@
+{
+  "urn": "121189",
+  "name": "Notre Dame High School, Norwich",
+  "address": "Surrey Street",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR1 3PB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "623235",
+  "northing": "307892",
+  "url": "http://www.ndhs.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

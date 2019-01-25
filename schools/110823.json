@@ -1,0 +1,18 @@
+{
+  "urn": "110823",
+  "name": "Barnack CofE (Controlled) Primary School",
+  "address": "School Road",
+  "locality": "Barnack",
+  "address3": "",
+  "town": "Stamford",
+  "county": "Lincolnshire",
+  "postcode": "PE9 3DZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "507529",
+  "northing": "305129",
+  "url": "http://www.barnackprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106082",
+  "name": "Vernon Park Primary School",
+  "address": "Peak Street",
+  "locality": "",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK1 2NF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390305",
+  "northing": "390516",
+  "url": "www.vernonpark.stockport.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

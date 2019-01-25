@@ -1,0 +1,18 @@
+{
+  "urn": "138314",
+  "name": "Armthorpe Academy",
+  "address": "Mere Lane",
+  "locality": "Armthorpe",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN3 2DA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "462410",
+  "northing": "405237",
+  "url": "http://www.armthorpeschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

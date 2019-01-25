@@ -1,0 +1,18 @@
+{
+  "urn": "103008",
+  "name": "Nonsuch High School for Girls",
+  "address": "Ewell Road",
+  "locality": "Cheam",
+  "address3": "",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM3 8AB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "523770",
+  "northing": "163313",
+  "url": "http://www.nonsuch.sutton.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

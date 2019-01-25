@@ -1,0 +1,18 @@
+{
+  "urn": "143482",
+  "name": "Aughton Junior Academy",
+  "address": "Turnshaw Avenue",
+  "locality": "Aughton",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S26 3XQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445505",
+  "northing": "386291",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

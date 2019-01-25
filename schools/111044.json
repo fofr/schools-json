@@ -1,0 +1,18 @@
+{
+  "urn": "111044",
+  "name": "Havannah Primary School",
+  "address": "Malhamdale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Congleton",
+  "county": "Cheshire",
+  "postcode": "CW12 2DF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387063",
+  "northing": "364476",
+  "url": "www.havannah.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

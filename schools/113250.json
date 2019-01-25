@@ -1,0 +1,18 @@
+{
+  "urn": "113250",
+  "name": "Gulworthy Primary School",
+  "address": "Gulworthy",
+  "locality": "",
+  "address3": "",
+  "town": "Tavistock",
+  "county": "Devon",
+  "postcode": "PL19 8JA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "244733",
+  "northing": "72789",
+  "url": "www.gulworthyprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

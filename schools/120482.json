@@ -1,0 +1,18 @@
+{
+  "urn": "120482",
+  "name": "Tetney Primary School",
+  "address": "Humberston Road",
+  "locality": "Tetney",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN36 5NG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "531395",
+  "northing": "401484",
+  "url": "http://www.tetney.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

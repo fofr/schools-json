@@ -1,0 +1,18 @@
+{
+  "urn": "136208",
+  "name": "Richmond Park Academy",
+  "address": "Park Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW14 8RG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "521022",
+  "northing": "175147",
+  "url": "http://www.richmondparkacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

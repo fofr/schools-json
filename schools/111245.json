@@ -1,0 +1,18 @@
+{
+  "urn": "111245",
+  "name": "Willaston CofE Primary School",
+  "address": "Neston Road",
+  "locality": "Willaston",
+  "address3": "",
+  "town": "Neston",
+  "county": "Cheshire",
+  "postcode": "CH64 2TN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "332594",
+  "northing": "377880",
+  "url": "www.willastonceprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

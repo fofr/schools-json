@@ -1,0 +1,18 @@
+{
+  "urn": "116715",
+  "name": "Pebworth First School",
+  "address": "Back Lane",
+  "locality": "Pebworth",
+  "address3": "",
+  "town": "Stratford-upon-Avon",
+  "county": "Worcestershire",
+  "postcode": "CV37 8XA",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "413162",
+  "northing": "246835",
+  "url": "www.pebworthfirst.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

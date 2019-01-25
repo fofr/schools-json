@@ -1,0 +1,18 @@
+{
+  "urn": "130781",
+  "name": "Arnold and Carlton College",
+  "address": "Digby Avenue",
+  "locality": "Mapperley",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG3 6DR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "460279",
+  "northing": "343209",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

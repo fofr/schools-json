@@ -1,0 +1,18 @@
+{
+  "urn": "107862",
+  "name": "Lowtown Primary School",
+  "address": "Kent Road",
+  "locality": "",
+  "address3": "",
+  "town": "Pudsey",
+  "county": "West Yorkshire",
+  "postcode": "LS28 9BB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "422889",
+  "northing": "433471",
+  "url": "www.pudseylowtown.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

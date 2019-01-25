@@ -1,0 +1,18 @@
+{
+  "urn": "137699",
+  "name": "Luddendenfoot Academy",
+  "address": "Burnley Road",
+  "locality": "Luddendenfoot",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX2 6AU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "404094",
+  "northing": "424423",
+  "url": "http://www.luddendenfoot.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122828",
+  "name": "Ellis Guilford School",
+  "address": "Bar Lane",
+  "locality": "Basford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG6 0HT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "454515",
+  "northing": "342828",
+  "url": "http://www.ellisguilfordschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

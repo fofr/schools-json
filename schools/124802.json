@@ -1,0 +1,18 @@
+{
+  "urn": "124802",
+  "name": "Thurston Community College",
+  "address": "Norton Road",
+  "locality": "Thurston",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP31 3PB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "591870",
+  "northing": "265552",
+  "url": "http://www.thurstoncollege.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

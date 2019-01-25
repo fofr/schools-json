@@ -1,0 +1,18 @@
+{
+  "urn": "100020",
+  "name": "Primrose Hill School",
+  "address": "Princess Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW1 8JL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "528304",
+  "northing": "183909",
+  "url": "http://www.primrosehill.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

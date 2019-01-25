@@ -1,0 +1,18 @@
+{
+  "urn": "104315",
+  "name": "Loxdale Primary School",
+  "address": "Chapel Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 0PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "395648",
+  "northing": "295903",
+  "url": "www.loxdaleprimaryschool.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

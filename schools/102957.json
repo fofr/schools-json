@@ -1,0 +1,18 @@
+{
+  "urn": "102957",
+  "name": "The Limes College",
+  "address": "Sutton West Site",
+  "locality": "",
+  "address3": "Robin Hood Lane",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM1 2SD",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "525311",
+  "northing": "164378",
+  "url": "www.thelimescollege.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

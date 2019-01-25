@@ -1,0 +1,18 @@
+{
+  "urn": "130472",
+  "name": "Coventry College",
+  "address": "Henley Road",
+  "locality": "Bell Green",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV2 1ED",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "436205",
+  "northing": "281719",
+  "url": "http://www.coventrycollege.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

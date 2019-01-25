@@ -1,0 +1,18 @@
+{
+  "urn": "101332",
+  "name": "St Agnes RC School",
+  "address": "Thorverton Road",
+  "locality": "Cricklewood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW2 1RG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524125",
+  "northing": "186126",
+  "url": "http://stagnesrc.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131609",
+  "name": "The Bridge Academy",
+  "address": "Laburnum Street",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 8BA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "533752",
+  "northing": "183613",
+  "url": "http://www.bridgeacademy.hackney.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

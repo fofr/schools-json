@@ -1,0 +1,18 @@
+{
+  "urn": "134109",
+  "name": "St Peter's Centre",
+  "address": "Corby Drive",
+  "locality": "Englefield Green",
+  "address3": "",
+  "town": "Egham",
+  "county": "Surrey",
+  "postcode": "KT16 0PZ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "502655",
+  "northing": "165050",
+  "url": "st.peterscentre.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

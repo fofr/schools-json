@@ -1,0 +1,18 @@
+{
+  "urn": "112144",
+  "name": "Victoria Infant and Nursery School",
+  "address": "Islay Place",
+  "locality": "",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 3XB",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "299829",
+  "northing": "527932",
+  "url": "http://www.victoriaschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

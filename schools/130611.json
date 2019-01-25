@@ -1,0 +1,18 @@
+{
+  "urn": "130611",
+  "name": "Isle College",
+  "address": "Ramnoth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 2JE",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "546774",
+  "northing": "309082",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144383",
+  "name": "St Giles CofE Primary School",
+  "address": "Sheepcote Road",
+  "locality": "Killamarsh",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S21 1DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445301",
+  "northing": "380603",
+  "url": "www.stgilesprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

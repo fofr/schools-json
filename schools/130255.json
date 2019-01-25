@@ -1,0 +1,18 @@
+{
+  "urn": "130255",
+  "name": "Forest Town Primary School",
+  "address": "Forest Town Primary School, Clipstone Road West",
+  "locality": "Forest Town",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 0ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456135",
+  "northing": "362072",
+  "url": "www.foresttownprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

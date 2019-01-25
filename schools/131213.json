@@ -1,0 +1,18 @@
+{
+  "urn": "131213",
+  "name": "Gibside School",
+  "address": "Burnthouse Lane",
+  "locality": "Whickham",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE16 5AT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "420165",
+  "northing": "560472",
+  "url": "http://www.gibsideschool.org/",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

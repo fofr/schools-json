@@ -1,0 +1,18 @@
+{
+  "urn": "111747",
+  "name": "Henry Smith School",
+  "address": "King Oswy Drive",
+  "locality": "West View",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS24 9PB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "449474",
+  "northing": "535479",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

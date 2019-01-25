@@ -1,0 +1,18 @@
+{
+  "urn": "109507",
+  "name": "Kingsmoor Lower School",
+  "address": "Kingsmoor Close",
+  "locality": "Flitwick",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 1EY",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "503870",
+  "northing": "235010",
+  "url": "www.kingsmoorschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

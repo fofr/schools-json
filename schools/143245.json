@@ -1,0 +1,18 @@
+{
+  "urn": "143245",
+  "name": "Braunstone Community Primary School",
+  "address": "Cort Crescent",
+  "locality": "Braunstone",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 1QH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455411",
+  "northing": "303740",
+  "url": "http://braunstone.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

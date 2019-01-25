@@ -1,0 +1,18 @@
+{
+  "urn": "141541",
+  "name": "Sparken Hill Academy",
+  "address": "Sparken Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Worksop",
+  "county": "Nottinghamshire",
+  "postcode": "S80 1AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458792",
+  "northing": "377713",
+  "url": "www.sparkenhill.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125256",
+  "name": "France Hill School",
+  "address": "Watchetts Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU15 2PQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "487207",
+  "northing": "158916",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117101",
+  "name": "Gaddesden Row JMI School",
+  "address": "Gaddesden Row",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP2 6HG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505018",
+  "northing": "212999",
+  "url": "http://www.gaddesdenrow.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

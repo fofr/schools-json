@@ -1,0 +1,18 @@
+{
+  "urn": "139819",
+  "name": "Weavers Academy",
+  "address": "Brickhill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN8 3JH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "487848",
+  "northing": "267885",
+  "url": "http://www.weaversacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

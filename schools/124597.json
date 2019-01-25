@@ -1,0 +1,18 @@
+{
+  "urn": "124597",
+  "name": "Melton Primary School",
+  "address": "Melton Road",
+  "locality": "Melton",
+  "address3": "",
+  "town": "Woodbridge",
+  "county": "Suffolk",
+  "postcode": "IP12 1PG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "628165",
+  "northing": "250356",
+  "url": "http://www.melton.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

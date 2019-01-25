@@ -1,0 +1,18 @@
+{
+  "urn": "107662",
+  "name": "Shelley First School",
+  "address": "School Terrace",
+  "locality": "Far Bank",
+  "address3": "Shelley",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD8 8HU",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "420054",
+  "northing": "411067",
+  "url": "www.shelleyfirstschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

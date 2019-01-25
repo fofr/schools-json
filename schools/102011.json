@@ -1,0 +1,18 @@
+{
+  "urn": "102011",
+  "name": "Houndsfield Primary School",
+  "address": "Ripon Road",
+  "locality": "Edmonton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N9 7RE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "534709",
+  "northing": "194642",
+  "url": "www.houndsfield.school",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

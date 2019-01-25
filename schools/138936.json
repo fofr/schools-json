@@ -1,0 +1,18 @@
+{
+  "urn": "138936",
+  "name": "The Wilnecote School",
+  "address": "Tinkers Green Road",
+  "locality": "Wilnecote",
+  "address3": "",
+  "town": "Tamworth",
+  "county": "Staffordshire",
+  "postcode": "B77 5LF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "422751",
+  "northing": "300880",
+  "url": "http://www.thewilnecoteschool.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

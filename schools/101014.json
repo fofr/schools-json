@@ -1,0 +1,18 @@
+{
+  "urn": "101014",
+  "name": "John Burns Primary School",
+  "address": "Wycliffe Road",
+  "locality": "Lavender Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 5QR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528402",
+  "northing": "176123",
+  "url": "www.johnburns.wandsworth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

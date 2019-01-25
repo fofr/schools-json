@@ -1,0 +1,18 @@
+{
+  "urn": "145966",
+  "name": "Friesland School",
+  "address": "Nursery Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sandiacre",
+  "county": "Nottinghamshire",
+  "postcode": "NG10 5AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "446868",
+  "northing": "336279",
+  "url": "http://www.frieslandschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

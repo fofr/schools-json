@@ -1,0 +1,18 @@
+{
+  "urn": "106080",
+  "name": "Tithe Barn Primary School",
+  "address": "Mauldeth Road",
+  "locality": "Heaton Mersey",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 3NG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "387006",
+  "northing": "391506",
+  "url": "www.tithebarnschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113330",
+  "name": "Stowford Primary School",
+  "address": "Exeter Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ivybridge",
+  "county": "Devon",
+  "postcode": "PL21 0BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "264143",
+  "northing": "56456",
+  "url": "http://www.stowford.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

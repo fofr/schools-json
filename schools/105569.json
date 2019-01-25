@@ -1,0 +1,18 @@
+{
+  "urn": "105569",
+  "name": "Chorlton High School",
+  "address": "Nell Lane",
+  "locality": "Chorlton-Cum-Hardy",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M21 7SL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "382528",
+  "northing": "393334",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115598",
+  "name": "Benhall Infant School",
+  "address": "Robert Burns Avenue",
+  "locality": "Benhall",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL51 6PS",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "391892",
+  "northing": "221434",
+  "url": "http://www.benhallinfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

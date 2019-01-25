@@ -1,0 +1,18 @@
+{
+  "urn": "110213",
+  "name": "Castlethorpe First School",
+  "address": "Castlethorpe",
+  "locality": "",
+  "address3": "Castlethorpe School",
+  "town": "milton keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK19 7EW",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "479924",
+  "northing": "244421",
+  "url": "http://www.castlethorpeschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

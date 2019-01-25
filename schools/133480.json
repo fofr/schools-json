@@ -1,0 +1,18 @@
+{
+  "urn": "133480",
+  "name": "Bay Primary School",
+  "address": "St Alban Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bridlington",
+  "county": "",
+  "postcode": "YO16 7SZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518163",
+  "northing": "467986",
+  "url": "http://www.bayprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

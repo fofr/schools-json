@@ -1,0 +1,18 @@
+{
+  "urn": "138615",
+  "name": "Upperwood Academy",
+  "address": "Dartree Walk",
+  "locality": "Darfield",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S73 9NL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "440666",
+  "northing": "404782",
+  "url": "www.upperwoodacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

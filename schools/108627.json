@@ -1,0 +1,18 @@
+{
+  "urn": "108627",
+  "name": "Marden High School",
+  "address": "Hartington Road",
+  "locality": "Cullercoats",
+  "address3": "",
+  "town": "North Shields",
+  "county": "Tyne and Wear",
+  "postcode": "NE30 3RZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "435807",
+  "northing": "570445",
+  "url": "www.mardenhigh.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

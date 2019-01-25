@@ -1,0 +1,18 @@
+{
+  "urn": "142166",
+  "name": "Waingels College",
+  "address": "Waingels Road",
+  "locality": "Woodley",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG5 4RF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "477240",
+  "northing": "174577",
+  "url": "http://www.waingels.wokingham.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

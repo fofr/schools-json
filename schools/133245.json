@@ -1,0 +1,18 @@
+{
+  "urn": "133245",
+  "name": "Pelham Infant School",
+  "address": "Pelham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bexleyheath",
+  "county": "Kent",
+  "postcode": "DA7 4HL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "549396",
+  "northing": "175545",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

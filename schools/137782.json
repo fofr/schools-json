@@ -1,0 +1,18 @@
+{
+  "urn": "137782",
+  "name": "The Regis School",
+  "address": "Westloats Lane",
+  "locality": "Bognor Regis",
+  "address3": "",
+  "town": "West Sussex",
+  "county": "",
+  "postcode": "PO21 5LH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "492369",
+  "northing": "100173",
+  "url": "http://www.theregisschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

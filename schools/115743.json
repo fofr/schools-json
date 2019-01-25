@@ -1,0 +1,18 @@
+{
+  "urn": "115743",
+  "name": "St David's School",
+  "address": "East Street",
+  "locality": "",
+  "address3": "",
+  "town": "Moreton-in-Marsh",
+  "county": "Gloucestershire",
+  "postcode": "GL56 0LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "420706",
+  "northing": "232291",
+  "url": "http://www.stdavidsprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135449",
+  "name": "Q3 Academy",
+  "address": "Wilderness Lane",
+  "locality": "Great Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B43 7SD",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "403796",
+  "northing": "294995",
+  "url": "http://www.q3academy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

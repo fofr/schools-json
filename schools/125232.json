@@ -1,0 +1,18 @@
+{
+  "urn": "125232",
+  "name": "Waverley Abbey Junior School",
+  "address": "The Street",
+  "locality": "Tilford",
+  "address3": "",
+  "town": "Farnham",
+  "county": "Surrey",
+  "postcode": "GU10 2AE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "487547",
+  "northing": "144223",
+  "url": "www.waverley-abbey.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

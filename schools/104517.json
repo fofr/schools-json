@@ -1,0 +1,18 @@
+{
+  "urn": "104517",
+  "name": "Barlows Primary School",
+  "address": "Barlows Lane",
+  "locality": "Fazakerley",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L9 9EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "337641",
+  "northing": "397357",
+  "url": "www.barlowsprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

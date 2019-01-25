@@ -1,0 +1,18 @@
+{
+  "urn": "135844",
+  "name": "Heartlands High School",
+  "address": "Station Road",
+  "locality": "Wood Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N22 7ST",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "530345",
+  "northing": "190441",
+  "url": "http://www.haringey.gov.uk/heartlandshighschool",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

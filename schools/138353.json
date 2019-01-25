@@ -1,0 +1,18 @@
+{
+  "urn": "138353",
+  "name": "Cotgrave Candleby Lane School",
+  "address": "Candleby Lane",
+  "locality": "Cotgrave",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG12 3JG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "464734",
+  "northing": "335166",
+  "url": "http://www.candlebylane.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

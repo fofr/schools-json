@@ -1,0 +1,18 @@
+{
+  "urn": "111727",
+  "name": "Egglescliffe School",
+  "address": "Urlay Nook Road",
+  "locality": "Eaglescliffe",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "",
+  "postcode": "TS16 0LA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "441541",
+  "northing": "513641",
+  "url": "http://www.egglescliffe.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

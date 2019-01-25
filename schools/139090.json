@@ -1,0 +1,18 @@
+{
+  "urn": "139090",
+  "name": "St Mabyn CofE School",
+  "address": "St Mabyn",
+  "locality": "",
+  "address3": "",
+  "town": "Bodmin",
+  "county": "Cornwall",
+  "postcode": "PL30 3BQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "204183",
+  "northing": "73146",
+  "url": "www.celticcross.education",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

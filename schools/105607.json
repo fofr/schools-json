@@ -1,0 +1,18 @@
+{
+  "urn": "105607",
+  "name": "Ewing School",
+  "address": "Central Road",
+  "locality": "Didsbury",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M20 4ZA",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "384396",
+  "northing": "392256",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

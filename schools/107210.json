@@ -1,0 +1,18 @@
+{
+  "urn": "107210",
+  "name": "High Fernley Primary School",
+  "address": "High Fernley Road",
+  "locality": "Wyke",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD12 8EX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415591",
+  "northing": "427315",
+  "url": "http://www.highfernleyprimarybradford.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100389",
+  "name": "Ecclesbourne Class Base (East)",
+  "address": "C/O Ecclesbourne School",
+  "locality": "Ecclesbourne Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 3AG",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "532490",
+  "northing": "184260",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

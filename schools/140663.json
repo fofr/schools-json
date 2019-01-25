@@ -1,0 +1,18 @@
+{
+  "urn": "140663",
+  "name": "Eastgate Academy",
+  "address": "Littleport Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE30 1QA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "562312",
+  "northing": "320292",
+  "url": "http://eastgateacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

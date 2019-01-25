@@ -1,0 +1,18 @@
+{
+  "urn": "101056",
+  "name": "Ethelburga Primary School",
+  "address": "Rosenau Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 4QP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "527482",
+  "northing": "176764",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

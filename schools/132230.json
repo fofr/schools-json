@@ -1,0 +1,18 @@
+{
+  "urn": "132230",
+  "name": "The Henry Moore Primary School",
+  "address": "Kiln Lane",
+  "locality": "Church Langley",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM17 9LW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "547848",
+  "northing": "209328",
+  "url": "http://www.henrymoore.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121427",
+  "name": "Moorside Junior School",
+  "address": "Harrogate Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ripon",
+  "county": "North Yorkshire",
+  "postcode": "HG4 1SU",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "430814",
+  "northing": "470215",
+  "url": "www.moorsideschools.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

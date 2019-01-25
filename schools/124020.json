@@ -1,0 +1,18 @@
+{
+  "urn": "124020",
+  "name": "Ball Green Primary School",
+  "address": "Whitfield Road",
+  "locality": "Ball Green",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 8AJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388752",
+  "northing": "352527",
+  "url": "www.ballgreenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

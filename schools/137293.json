@@ -1,0 +1,18 @@
+{
+  "urn": "137293",
+  "name": "Springhill Catholic Primary School",
+  "address": "Milton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO15 2HW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "441239",
+  "northing": "112841",
+  "url": "http://www.springhillcatholic.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

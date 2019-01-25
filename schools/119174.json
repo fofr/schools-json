@@ -1,0 +1,18 @@
+{
+  "urn": "119174",
+  "name": "West Street Community Primary School",
+  "address": "West Street",
+  "locality": "",
+  "address3": "",
+  "town": "Colne",
+  "county": "Lancashire",
+  "postcode": "BB8 0HW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389104",
+  "northing": "439979",
+  "url": "www.west-street.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

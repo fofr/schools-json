@@ -1,0 +1,18 @@
+{
+  "urn": "117810",
+  "name": "Priory Primary School",
+  "address": "Priory Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 5RU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505709",
+  "northing": "430421",
+  "url": "http://www.priory-primary.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

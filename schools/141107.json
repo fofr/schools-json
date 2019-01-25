@@ -1,0 +1,18 @@
+{
+  "urn": "141107",
+  "name": "Manchester Creative Studio",
+  "address": "16 Blossom Street",
+  "locality": "",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M4 5AW",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "384859",
+  "northing": "398594",
+  "url": "http://mcstudio.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

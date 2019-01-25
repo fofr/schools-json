@@ -1,0 +1,18 @@
+{
+  "urn": "145791",
+  "name": "Woodfield Infant School",
+  "address": "Woodfield Road",
+  "locality": "Copthorne",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY3 8LU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "347739",
+  "northing": "312673",
+  "url": "www.woodfield.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

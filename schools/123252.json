@@ -1,0 +1,18 @@
+{
+  "urn": "123252",
+  "name": "Oxford School",
+  "address": "Glanville Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 2AU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "453869",
+  "northing": "205241",
+  "url": "http://www.oxford.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

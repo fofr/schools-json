@@ -1,0 +1,18 @@
+{
+  "urn": "130449",
+  "name": "Merton College",
+  "address": "Morden Park",
+  "locality": "London Road",
+  "address3": "",
+  "town": "Morden",
+  "county": "Surrey",
+  "postcode": "SM4 5QX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "525008",
+  "northing": "167613",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

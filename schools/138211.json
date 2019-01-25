@@ -1,0 +1,18 @@
+{
+  "urn": "138211",
+  "name": "Kibblesworth Academy",
+  "address": "West View",
+  "locality": "Kibblesworth",
+  "address3": "",
+  "town": "Gateshead",
+  "county": "Tyne and Wear",
+  "postcode": "NE11 0XP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "424624",
+  "northing": "556749",
+  "url": "www.kibblesworthacademy.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

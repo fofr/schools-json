@@ -1,0 +1,18 @@
+{
+  "urn": "130750",
+  "name": "South Leicestershire College",
+  "address": "South Wigston Campus",
+  "locality": "Blaby Road",
+  "address3": "South Wigston",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE18 4PH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "459954",
+  "northing": "298710",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144204",
+  "name": "Harton Academy",
+  "address": "Lisle Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Shields",
+  "county": "Tyne and Wear",
+  "postcode": "NE34 6DL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "438028",
+  "northing": "564724",
+  "url": "www.harton-tc.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

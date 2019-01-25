@@ -1,0 +1,18 @@
+{
+  "urn": "142714",
+  "name": "Monks Coppenhall Academy",
+  "address": "Remer Street",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 4LY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "371088",
+  "northing": "357235",
+  "url": "www.monkscoppenhall.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111141",
+  "name": "Pewithall Primary School",
+  "address": "Kenilworth Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 4XQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "351641",
+  "northing": "381412",
+  "url": "www.pewithall.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

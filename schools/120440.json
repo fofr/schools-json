@@ -1,0 +1,18 @@
+{
+  "urn": "120440",
+  "name": "Alford Primary School",
+  "address": "Hanby Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Alford",
+  "county": "Lincolnshire",
+  "postcode": "LN13 9BJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "545692",
+  "northing": "375582",
+  "url": "http://www.alford.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

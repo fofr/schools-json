@@ -1,0 +1,18 @@
+{
+  "urn": "133128",
+  "name": "Kilburn Polytechnic",
+  "address": "Priory Park Road",
+  "locality": "Kilburn",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW6 7UJ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "525093",
+  "northing": "183884",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Miscellaneous"
+}

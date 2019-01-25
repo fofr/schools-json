@@ -1,0 +1,18 @@
+{
+  "urn": "100801",
+  "name": "Dulwich Wood Primary School",
+  "address": "Bowen Drive",
+  "locality": "Kingswood Estate",
+  "address3": "West Dulwich",
+  "town": "London",
+  "county": "",
+  "postcode": "SE21 8NS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533366",
+  "northing": "172068",
+  "url": "www.dulwichwood.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113163",
+  "name": "North Molton School",
+  "address": "Fore Street",
+  "locality": "North Molton",
+  "address3": "",
+  "town": "South Molton",
+  "county": "Devon",
+  "postcode": "EX36 3HL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "273402",
+  "northing": "129602",
+  "url": "http://www.north-molton-primary.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123994",
+  "name": "Hamilton Infant School",
+  "address": "Barthomley Road",
+  "locality": "Birches Head",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST1 6NW",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "388773",
+  "northing": "348678",
+  "url": "http://www.hamilton.stoke.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

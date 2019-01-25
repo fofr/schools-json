@@ -1,0 +1,18 @@
+{
+  "urn": "100241",
+  "name": "Shacklewell Primary School",
+  "address": "Shacklewell Row",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E8 2EA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "533714",
+  "northing": "185576",
+  "url": "www.shacklewell.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

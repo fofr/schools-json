@@ -1,0 +1,18 @@
+{
+  "urn": "110230",
+  "name": "Hanslope Primary School",
+  "address": "Long Street Road",
+  "locality": "Hanslope",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK19 7BL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "480074",
+  "northing": "247147",
+  "url": "www.hanslopeschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101669",
+  "name": "Ravens Wood School",
+  "address": "Oakley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR2 8HP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "541797",
+  "northing": "165342",
+  "url": "http://www.ravenswood.bromley.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

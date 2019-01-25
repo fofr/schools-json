@@ -1,0 +1,18 @@
+{
+  "urn": "138788",
+  "name": "Forest Gate Academy",
+  "address": "Daniel Adamson Avenue",
+  "locality": "Partington",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M31 4PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370771",
+  "northing": "391127",
+  "url": "http://forestgateacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

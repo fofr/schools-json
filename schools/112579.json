@@ -1,0 +1,18 @@
+{
+  "urn": "112579",
+  "name": "Killamarsh Infant School",
+  "address": "Sheffield Road",
+  "locality": "Killamarsh",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S21 2DX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "446221",
+  "northing": "381305",
+  "url": "www.killamarshinfants.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

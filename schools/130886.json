@@ -1,0 +1,18 @@
+{
+  "urn": "130886",
+  "name": "Binley Woods Primary School",
+  "address": "Coombe Drive",
+  "locality": "Binley Woods",
+  "address3": "",
+  "town": "Coventry",
+  "county": "Warwickshire",
+  "postcode": "CV3 2QU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "440252",
+  "northing": "277134",
+  "url": "http://www.binleywoodsprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

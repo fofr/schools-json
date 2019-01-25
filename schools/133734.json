@@ -1,0 +1,18 @@
+{
+  "urn": "133734",
+  "name": "The Gerard Pupil Referral Unit",
+  "address": "YMCA Building",
+  "locality": "Hilton Street",
+  "address3": "Ashton-in-Makerfield",
+  "town": "Wigan",
+  "county": "",
+  "postcode": "WN4 8PD",
+  "minimum_age": "13",
+  "maximum_age": "16",
+  "easting": "358046",
+  "northing": "399254",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105010",
+  "name": "Town Lane Infant School",
+  "address": "Town Lane",
+  "locality": "Bebington",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH63 8LD",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "332109",
+  "northing": "384843",
+  "url": "www.townlaneinfantschool.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

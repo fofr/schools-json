@@ -1,0 +1,18 @@
+{
+  "urn": "117512",
+  "name": "Adeyfield School",
+  "address": "Longlands",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP2 4DE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "507158",
+  "northing": "207208",
+  "url": "http://www.adeyfieldschool.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

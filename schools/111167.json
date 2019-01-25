@@ -1,0 +1,18 @@
+{
+  "urn": "111167",
+  "name": "Weaver Primary School",
+  "address": "Western Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 7AJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "365459",
+  "northing": "351055",
+  "url": "www.weaver.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

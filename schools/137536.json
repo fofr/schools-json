@@ -1,0 +1,18 @@
+{
+  "urn": "137536",
+  "name": "Arnold Hill Academy",
+  "address": "Gedling Road",
+  "locality": "Arnold",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 6NZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "459314",
+  "northing": "344819",
+  "url": "www.arnoldhillacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

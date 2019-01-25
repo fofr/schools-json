@@ -1,0 +1,18 @@
+{
+  "urn": "125084",
+  "name": "Sythwood Primary School",
+  "address": "Sythwood",
+  "locality": "Horsell",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 3AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "498744",
+  "northing": "159180",
+  "url": "http://www.sythwood.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

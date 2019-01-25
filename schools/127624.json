@@ -1,0 +1,18 @@
+{
+  "urn": "127624",
+  "name": "Warmsworth First School",
+  "address": "Mill Lane",
+  "locality": "Warmsworth",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN4 9RG",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "454207",
+  "northing": "400550",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

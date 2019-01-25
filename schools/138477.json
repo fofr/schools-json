@@ -1,0 +1,18 @@
+{
+  "urn": "138477",
+  "name": "Mount Grace High School",
+  "address": "Leicester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hinckley",
+  "county": "Leicestershire",
+  "postcode": "LE10 1LP",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "443322",
+  "northing": "294388",
+  "url": "http://www.mountgrace.leics.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

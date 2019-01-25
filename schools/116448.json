@@ -1,0 +1,18 @@
+{
+  "urn": "116448",
+  "name": "The Wavell School",
+  "address": "Lynchford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Farnborough",
+  "county": "Hampshire",
+  "postcode": "GU14 6BH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "486924",
+  "northing": "153318",
+  "url": "http://www.wavellschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

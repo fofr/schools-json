@@ -1,0 +1,18 @@
+{
+  "urn": "108472",
+  "name": "Hilton Primary School",
+  "address": "Hilton Avenue",
+  "locality": "Blakelaw",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE5 3RN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "420809",
+  "northing": "566719",
+  "url": "www.hilton.newcastle.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

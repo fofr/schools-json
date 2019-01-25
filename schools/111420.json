@@ -1,0 +1,18 @@
+{
+  "urn": "111420",
+  "name": "Shavington High School",
+  "address": "Rope Lane",
+  "locality": "Shavington",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW2 5DH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "369418",
+  "northing": "352350",
+  "url": "http://www.shavington.cheshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

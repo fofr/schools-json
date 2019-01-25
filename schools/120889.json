@@ -1,0 +1,18 @@
+{
+  "urn": "120889",
+  "name": "West Lynn Primary School, King's Lynn",
+  "address": "St Peter's Road",
+  "locality": "West Lynn",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE34 3JL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "561129",
+  "northing": "320078",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

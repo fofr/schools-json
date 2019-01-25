@@ -1,0 +1,18 @@
+{
+  "urn": "137308",
+  "name": "Malmesbury School",
+  "address": "Corn Gastons",
+  "locality": "",
+  "address3": "",
+  "town": "Malmesbury",
+  "county": "Wiltshire",
+  "postcode": "SN16 0DF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "392478",
+  "northing": "187434",
+  "url": "http://www.malmesbury.wilts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

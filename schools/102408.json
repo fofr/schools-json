@@ -1,0 +1,18 @@
+{
+  "urn": "102408",
+  "name": "Rabbsfarm Primary School",
+  "address": "Gordon Road",
+  "locality": "",
+  "address3": "",
+  "town": "West Drayton",
+  "county": "",
+  "postcode": "UB7 8AH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "506026",
+  "northing": "180857",
+  "url": "www.rabbsfarm.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

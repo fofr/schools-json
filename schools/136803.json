@@ -1,0 +1,18 @@
+{
+  "urn": "136803",
+  "name": "John Masefield High School",
+  "address": "Mabel's Furlong",
+  "locality": "",
+  "address3": "",
+  "town": "Ledbury",
+  "county": "Herefordshire",
+  "postcode": "HR8 2HF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "371058",
+  "northing": "237121",
+  "url": "http://www.jmhs.hereford.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

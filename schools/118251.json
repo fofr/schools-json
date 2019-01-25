@@ -1,0 +1,18 @@
+{
+  "urn": "118251",
+  "name": "Wentworth Infant School",
+  "address": "Wentworth Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 3NG",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "552144",
+  "northing": "173935",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

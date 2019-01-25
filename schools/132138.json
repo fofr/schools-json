@@ -1,0 +1,18 @@
+{
+  "urn": "132138",
+  "name": "Rookery School & Children's Centre",
+  "address": "Rookery Road",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B21 9PY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404249",
+  "northing": "290356",
+  "url": "http://www.rookeryj.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

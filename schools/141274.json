@@ -1,0 +1,18 @@
+{
+  "urn": "141274",
+  "name": "St Peter's CofE Academy",
+  "address": "Lord's Mead",
+  "locality": "",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN14 0LL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390235",
+  "northing": "173540",
+  "url": "http://www.st-peters.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

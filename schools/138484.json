@@ -1,0 +1,18 @@
+{
+  "urn": "138484",
+  "name": "The Sele School",
+  "address": "Welwyn Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hertford",
+  "county": "Hertfordshire",
+  "postcode": "SG14 2DG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "530913",
+  "northing": "212846",
+  "url": "http://www.sele.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

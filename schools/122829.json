@@ -1,0 +1,18 @@
+{
+  "urn": "122829",
+  "name": "The Manor School",
+  "address": "Park Hall Road",
+  "locality": "Mansfield Woodhouse",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 8QA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "454359",
+  "northing": "364103",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

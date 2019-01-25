@@ -1,0 +1,18 @@
+{
+  "urn": "102083",
+  "name": "Bruce Grove Infant School",
+  "address": "Sperling Road",
+  "locality": "Tottenham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N17 6UH",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "533530",
+  "northing": "190070",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

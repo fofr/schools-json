@@ -1,0 +1,18 @@
+{
+  "urn": "120984",
+  "name": "Kinsale Infant School",
+  "address": "Kinsale Avenue",
+  "locality": "Hellesdon",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR6 5SG",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "620519",
+  "northing": "312005",
+  "url": "http://www.kinsaleinfant.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

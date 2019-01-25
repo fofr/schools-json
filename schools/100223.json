@@ -1,0 +1,18 @@
+{
+  "urn": "100223",
+  "name": "Daubeney Primary School",
+  "address": "Daubeney Road",
+  "locality": "Clapton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E5 0EG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536126",
+  "northing": "185583",
+  "url": "www.daubeney.hackney.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140918",
+  "name": "Normanby Primary School",
+  "address": "Flatts Lane",
+  "locality": "Normanby",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS6 0NP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454995",
+  "northing": "517701",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117400",
+  "name": "Wormley Primary School",
+  "address": "Cozens Lane East",
+  "locality": "Wormley",
+  "address3": "",
+  "town": "Broxbourne",
+  "county": "Hertfordshire",
+  "postcode": "EN10 6QA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536890",
+  "northing": "206098",
+  "url": "www.wormleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

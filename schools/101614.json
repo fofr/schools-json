@@ -1,0 +1,18 @@
+{
+  "urn": "101614",
+  "name": "Downe Primary School",
+  "address": "High Elms Road",
+  "locality": "Downe",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR6 7JN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "543350",
+  "northing": "161795",
+  "url": "www.downeprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

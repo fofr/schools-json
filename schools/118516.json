@@ -1,0 +1,18 @@
+{
+  "urn": "118516",
+  "name": "Lunsford Primary School",
+  "address": "Swallow Road",
+  "locality": "Larkfield",
+  "address3": "",
+  "town": "Aylesford",
+  "county": "Kent",
+  "postcode": "ME20 6PY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "570068",
+  "northing": "158786",
+  "url": "http://www.lunsford.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

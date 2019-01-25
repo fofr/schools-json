@@ -1,0 +1,18 @@
+{
+  "urn": "123254",
+  "name": "Donnington Middle School",
+  "address": "Cornwallis Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 3NH",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "453279",
+  "northing": "204294",
+  "url": "",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

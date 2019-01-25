@@ -1,0 +1,18 @@
+{
+  "urn": "144680",
+  "name": "Castleton Primary School",
+  "address": "38 High Street",
+  "locality": "Castleton",
+  "address3": "",
+  "town": "Whitby",
+  "county": "North Yorkshire",
+  "postcode": "YO21 2DA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "468691",
+  "northing": "508087",
+  "url": "www.castletonprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

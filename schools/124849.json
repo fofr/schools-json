@@ -1,0 +1,18 @@
+{
+  "urn": "124849",
+  "name": "Kesgrave High School",
+  "address": "Main Road",
+  "locality": "Kesgrave",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP5 2PB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "622453",
+  "northing": "245908",
+  "url": "http://www.kesgrave.suffolk.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

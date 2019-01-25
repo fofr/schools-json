@@ -1,0 +1,18 @@
+{
+  "urn": "138832",
+  "name": "Alderman White School",
+  "address": "Chilwell Lane",
+  "locality": "Bramcote",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG9 3DU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "451130",
+  "northing": "336987",
+  "url": "http://aldermanwhite.school/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

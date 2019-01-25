@@ -1,0 +1,18 @@
+{
+  "urn": "109410",
+  "name": "Briarwood School",
+  "address": "Briar Way",
+  "locality": "Fishponds",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS16 4EA",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "363825",
+  "northing": "175467",
+  "url": "http://www.briarwood.bristol.sch.uk/",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

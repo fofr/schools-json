@@ -1,0 +1,18 @@
+{
+  "urn": "107500",
+  "name": "Carr Green Primary School",
+  "address": "Carr Green Lane",
+  "locality": "Rastrick",
+  "address3": "",
+  "town": "Brighouse",
+  "county": "West Yorkshire",
+  "postcode": "HD6 3LT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "413699",
+  "northing": "421137",
+  "url": "http://www.carrgreenschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

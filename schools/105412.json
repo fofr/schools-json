@@ -1,0 +1,18 @@
+{
+  "urn": "105412",
+  "name": "Crosslee Community Primary School",
+  "address": "Crosslee Road",
+  "locality": "Blackley",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M9 6TG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386985",
+  "northing": "403619",
+  "url": "www.crosslee.manchester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

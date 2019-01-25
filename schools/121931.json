@@ -1,0 +1,18 @@
+{
+  "urn": "121931",
+  "name": "Boothville Primary School",
+  "address": "Booth Lane North",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN3 6JG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "478341",
+  "northing": "264006",
+  "url": "http://www.boothvilleprimary.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

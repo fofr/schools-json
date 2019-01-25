@@ -1,0 +1,18 @@
+{
+  "urn": "123066",
+  "name": "Wantage County Primary School",
+  "address": "Garston Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Wantage",
+  "county": "Oxfordshire",
+  "postcode": "OX12 7AQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "440132",
+  "northing": "188122",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

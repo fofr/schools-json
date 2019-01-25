@@ -1,0 +1,18 @@
+{
+  "urn": "129743",
+  "name": "Kinder School",
+  "address": "Ward 7",
+  "locality": "School Office",
+  "address3": "Bassetlaw Dg Hospital",
+  "town": "Worksop",
+  "county": "Nottinghamshire",
+  "postcode": "S81 0BD",
+  "minimum_age": "3",
+  "maximum_age": "14",
+  "easting": "459394",
+  "northing": "380452",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

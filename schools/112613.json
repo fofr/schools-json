@@ -1,0 +1,18 @@
+{
+  "urn": "112613",
+  "name": "Street Lane Primary School",
+  "address": "Street Lane",
+  "locality": "Denby",
+  "address3": "",
+  "town": "Ripley",
+  "county": "Derbyshire",
+  "postcode": "DE5 8NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "438572",
+  "northing": "348322",
+  "url": "www.streetlane.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

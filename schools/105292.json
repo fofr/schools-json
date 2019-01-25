@@ -1,0 +1,18 @@
+{
+  "urn": "105292",
+  "name": "Woodbank Primary School",
+  "address": "Brandlesholme Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL8 1AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "379566",
+  "northing": "411825",
+  "url": "www.woodbank.bury.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

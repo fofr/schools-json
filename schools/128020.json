@@ -1,0 +1,18 @@
+{
+  "urn": "128020",
+  "name": "Morris Silman School",
+  "address": "Primley Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS17 7HR",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "430303",
+  "northing": "439931",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

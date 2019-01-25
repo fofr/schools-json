@@ -1,0 +1,18 @@
+{
+  "urn": "138011",
+  "name": "Eagley Infant School",
+  "address": "Stonesteads Drive",
+  "locality": "Bromley Cross",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL7 9LN",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "372381",
+  "northing": "413679",
+  "url": "http://www.eagley-infant.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110953",
+  "name": "Westminster Nursery School",
+  "address": "Nelson Street",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW2 7LJ",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "370409",
+  "northing": "354748",
+  "url": "www.westminsternurseryschool.net",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

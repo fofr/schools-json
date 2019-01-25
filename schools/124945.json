@@ -1,0 +1,18 @@
+{
+  "urn": "124945",
+  "name": "Woodlea Primary School",
+  "address": "Long Hill",
+  "locality": "Woldingham",
+  "address3": "",
+  "town": "Caterham",
+  "county": "Surrey",
+  "postcode": "CR3 7EP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "536991",
+  "northing": "156157",
+  "url": "www.woodlea.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

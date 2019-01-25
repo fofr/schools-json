@@ -1,0 +1,18 @@
+{
+  "urn": "144289",
+  "name": "St John's CofE Primary School",
+  "address": "Sallowbush Road",
+  "locality": "",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE29 7LA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "524206",
+  "northing": "273306",
+  "url": "http://www.stjohnsps.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

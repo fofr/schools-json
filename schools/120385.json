@@ -1,0 +1,18 @@
+{
+  "urn": "120385",
+  "name": "North Scarle Primary School",
+  "address": "School Lane",
+  "locality": "North Scarle",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN6 9EY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "484726",
+  "northing": "366950",
+  "url": "www.northscarleprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

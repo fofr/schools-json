@@ -1,0 +1,18 @@
+{
+  "urn": "121689",
+  "name": "Settle College",
+  "address": "Giggleswick",
+  "locality": "",
+  "address3": "",
+  "town": "Settle",
+  "county": "North Yorkshire",
+  "postcode": "BD24 0AU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "381433",
+  "northing": "464056",
+  "url": "www.settlecollege.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

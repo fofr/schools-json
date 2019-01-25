@@ -1,0 +1,18 @@
+{
+  "urn": "106888",
+  "name": "Aston Lodge Primary School",
+  "address": "Lodge Lane",
+  "locality": "Aston",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S26 2BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445988",
+  "northing": "384962",
+  "url": "www.astonlodge.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

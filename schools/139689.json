@@ -1,0 +1,18 @@
+{
+  "urn": "139689",
+  "name": "Rye Studio School",
+  "address": "The Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Rye",
+  "county": "East Sussex",
+  "postcode": "TN31 7NQ",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "591952",
+  "northing": "120844",
+  "url": "http://www.ryestudioschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102652",
+  "name": "West Wimbledon Primary School",
+  "address": "Bodnant Gardens",
+  "locality": "West Barnes Lane",
+  "address3": "Raynes Park",
+  "town": "London",
+  "county": "",
+  "postcode": "SW20 0BZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "522774",
+  "northing": "168885",
+  "url": "http://www.westwimbledonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

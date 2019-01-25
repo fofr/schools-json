@@ -1,0 +1,18 @@
+{
+  "urn": "136060",
+  "name": "Riverside",
+  "address": "Rotherham Road",
+  "locality": "Catcliffe",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S60 5SW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "442597",
+  "northing": "388743",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

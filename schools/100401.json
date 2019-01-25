@@ -1,0 +1,18 @@
+{
+  "urn": "100401",
+  "name": "Copenhagen Primary School",
+  "address": "Treaty St",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 0WF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530584",
+  "northing": "183537",
+  "url": "www.copenhagen.islington.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

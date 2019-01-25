@@ -1,0 +1,18 @@
+{
+  "urn": "110634",
+  "name": "Gorefield Primary School",
+  "address": "High Road",
+  "locality": "Gorefield",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 4NB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "541876",
+  "northing": "311904",
+  "url": "http://www.gorefield.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

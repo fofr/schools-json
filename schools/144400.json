@@ -1,0 +1,18 @@
+{
+  "urn": "144400",
+  "name": "Cherry Tree Academy",
+  "address": "Cobblers Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF8 2HN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "446972",
+  "northing": "422100",
+  "url": "www.cherrytreeacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

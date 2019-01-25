@@ -1,0 +1,18 @@
+{
+  "urn": "102896",
+  "name": "The Russell Primary School",
+  "address": "Petersham Road",
+  "locality": "Petersham",
+  "address3": "",
+  "town": "Richmond",
+  "county": "Surrey",
+  "postcode": "TW10 7AH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517944",
+  "northing": "173070",
+  "url": "www.russell.richmond.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

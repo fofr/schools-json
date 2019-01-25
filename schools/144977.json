@@ -1,0 +1,18 @@
+{
+  "urn": "144977",
+  "name": "Bedlington Academy",
+  "address": "Palace Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bedlington",
+  "county": "Northumberland",
+  "postcode": "NE22 7DS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "427915",
+  "northing": "582716",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

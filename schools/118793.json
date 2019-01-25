@@ -1,0 +1,18 @@
+{
+  "urn": "118793",
+  "name": "Swadelands School",
+  "address": "Ham Lane",
+  "locality": "Lenham",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME17 2LL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "589367",
+  "northing": "152380",
+  "url": "http://swadelands.kent.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

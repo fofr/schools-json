@@ -1,0 +1,18 @@
+{
+  "urn": "124003",
+  "name": "Heron Cross Primary School",
+  "address": "Grove Road",
+  "locality": "Heron Cross",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 4LJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388988",
+  "northing": "343827",
+  "url": "www.heroncross.stoke.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

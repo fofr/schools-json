@@ -1,0 +1,18 @@
+{
+  "urn": "101026",
+  "name": "Sheringdale Primary School",
+  "address": "Standen Road",
+  "locality": "Southfields",
+  "address3": "Wandsworth",
+  "town": "London",
+  "county": "",
+  "postcode": "SW18 5TR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524906",
+  "northing": "173501",
+  "url": "http://www.sheringdale.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

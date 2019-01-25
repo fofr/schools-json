@@ -1,0 +1,18 @@
+{
+  "urn": "127966",
+  "name": "Cockburn High School",
+  "address": "Parkside",
+  "locality": "Gypsy Lane",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 5TT",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "429176",
+  "northing": "429391",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

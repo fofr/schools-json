@@ -1,0 +1,18 @@
+{
+  "urn": "119165",
+  "name": "Sabden Primary School",
+  "address": "Whalley Road",
+  "locality": "Sabden",
+  "address3": "",
+  "town": "Clitheroe",
+  "county": "Lancashire",
+  "postcode": "BB7 9DZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "377867",
+  "northing": "437525",
+  "url": "www.sabdenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

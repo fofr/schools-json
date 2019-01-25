@@ -1,0 +1,18 @@
+{
+  "urn": "139118",
+  "name": "Kingswood Academy",
+  "address": "Wawne Road",
+  "locality": "Bransholme",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU7 4WR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "510344",
+  "northing": "434861",
+  "url": "https://sites.google.com/a/aetinet.org/kingswood-academy/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

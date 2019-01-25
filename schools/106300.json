@@ -1,0 +1,18 @@
+{
+  "urn": "106300",
+  "name": "Worthington Primary School",
+  "address": "Worthington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sale",
+  "county": "Cheshire",
+  "postcode": "M33 2JJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "380519",
+  "northing": "391568",
+  "url": "www.worthington-primary.trafford.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

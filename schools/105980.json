@@ -1,0 +1,18 @@
+{
+  "urn": "105980",
+  "name": "Lowry High School",
+  "address": "Camp Street",
+  "locality": "",
+  "address3": "",
+  "town": "Salford",
+  "county": "Lancashire",
+  "postcode": "M7 9LY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "382612",
+  "northing": "399869",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

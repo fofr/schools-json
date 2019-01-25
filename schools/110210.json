@@ -1,0 +1,18 @@
+{
+  "urn": "110210",
+  "name": "Knowles Junior School",
+  "address": "Queensway",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK2 2HB",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "487620",
+  "northing": "233771",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107058",
+  "name": "Nook Lane Junior School",
+  "address": "Nook Lane",
+  "locality": "Stannington",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S6 6BN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "430226",
+  "northing": "389005",
+  "url": "www.nooklanejunior.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

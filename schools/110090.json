@@ -1,0 +1,18 @@
+{
+  "urn": "110090",
+  "name": "Holy Family Catholic Primary School",
+  "address": "High Street",
+  "locality": "Langley",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL3 8NF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "500877",
+  "northing": "178385",
+  "url": "www.holyfamilycatholicschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

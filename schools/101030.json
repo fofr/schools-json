@@ -1,0 +1,18 @@
+{
+  "urn": "101030",
+  "name": "Joseph Tritton Primary School",
+  "address": "Wynter Street",
+  "locality": "York Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 2TY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526441",
+  "northing": "175479",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

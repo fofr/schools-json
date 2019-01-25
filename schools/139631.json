@@ -1,0 +1,18 @@
+{
+  "urn": "139631",
+  "name": "Pegasus Primary School",
+  "address": "Turnhouse Road",
+  "locality": "Castle Vale",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B35 6PR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "414732",
+  "northing": "291577",
+  "url": "www.pegasusprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

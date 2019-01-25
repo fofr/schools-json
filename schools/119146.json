@@ -1,0 +1,18 @@
+{
+  "urn": "119146",
+  "name": "Ansdell Primary School",
+  "address": "Lansdowne Road",
+  "locality": "Ansdell",
+  "address3": "",
+  "town": "Lytham St Annes",
+  "county": "Lancashire",
+  "postcode": "FY8 4DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "334471",
+  "northing": "428153",
+  "url": "www.ansdellprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

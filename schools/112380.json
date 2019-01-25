@@ -1,0 +1,18 @@
+{
+  "urn": "112380",
+  "name": "Settlebeck High School",
+  "address": "Long Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sedbergh",
+  "county": "Cumbria",
+  "postcode": "LA10 5AL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "366264",
+  "northing": "492026",
+  "url": "http://www.settlebeck.cumbria.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

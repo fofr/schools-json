@@ -1,0 +1,18 @@
+{
+  "urn": "122404",
+  "name": "Annesley Primary and Nursery School",
+  "address": "Forest Road",
+  "locality": "Annesley Woodhouse",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 9BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450704",
+  "northing": "353880",
+  "url": "http://www.annesleyprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

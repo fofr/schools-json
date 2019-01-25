@@ -1,0 +1,18 @@
+{
+  "urn": "134605",
+  "name": "The Quest School",
+  "address": "Bell 3",
+  "locality": "The Hop Farm",
+  "address3": "Maidstone Road",
+  "town": "Paddock Wood",
+  "county": "Kent",
+  "postcode": "TN12 6PY",
+  "minimum_age": "5",
+  "maximum_age": "19",
+  "easting": "567370",
+  "northing": "147176",
+  "url": "www.questschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Other independent special school"
+}

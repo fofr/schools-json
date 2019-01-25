@@ -1,0 +1,18 @@
+{
+  "urn": "105873",
+  "name": "Westwood Park Nursery School",
+  "address": "Grasmere Crescent",
+  "locality": "Winton",
+  "address3": "Eccles",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M30 8DN",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "375613",
+  "northing": "399632",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

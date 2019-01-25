@@ -1,0 +1,18 @@
+{
+  "urn": "136849",
+  "name": "Pewsey Vale School",
+  "address": "Wilcot Road",
+  "locality": "",
+  "address3": "",
+  "town": "Pewsey",
+  "county": "Wiltshire",
+  "postcode": "SN9 5EW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "415839",
+  "northing": "160136",
+  "url": "http://www.pewsey-vale.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114120",
+  "name": "Langley Moor Primary School",
+  "address": "Brandon Lane",
+  "locality": "Langley Moor",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH7 8LL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "425156",
+  "northing": "540637",
+  "url": "www.langleymoor.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

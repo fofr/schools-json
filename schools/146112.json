@@ -1,0 +1,18 @@
+{
+  "urn": "146112",
+  "name": "Stakesby Primary Academy",
+  "address": "Byland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Whitby",
+  "county": "North Yorkshire",
+  "postcode": "YO21 1HY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "488848",
+  "northing": "510745",
+  "url": "www.stakesbyschool.net/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

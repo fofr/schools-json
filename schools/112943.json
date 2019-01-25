@@ -1,0 +1,18 @@
+{
+  "urn": "112943",
+  "name": "Eckington School",
+  "address": "Dronfield Road",
+  "locality": "Eckington",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "Derbyshire",
+  "postcode": "S21 4GN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "441545",
+  "northing": "379162",
+  "url": "http://www.eckington.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

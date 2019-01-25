@@ -1,0 +1,18 @@
+{
+  "urn": "104601",
+  "name": "Mab Lane Infant School",
+  "address": "Mab Lane",
+  "locality": "West Derby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L12 6QL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "341787",
+  "northing": "393411",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

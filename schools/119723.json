@@ -1,0 +1,18 @@
+{
+  "urn": "119723",
+  "name": "Wellfield High School",
+  "address": "Yewlands Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Leyland",
+  "county": "Lancashire",
+  "postcode": "PR25 2TP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "353883",
+  "northing": "422275",
+  "url": "www.whs.lancs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

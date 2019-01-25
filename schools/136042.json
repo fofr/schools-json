@@ -1,0 +1,18 @@
+{
+  "urn": "136042",
+  "name": "Maltby Academy",
+  "address": "Braithwell Road",
+  "locality": "",
+  "address3": "Maltby",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S66 8AB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "452674",
+  "northing": "392174",
+  "url": "www.maltbyacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

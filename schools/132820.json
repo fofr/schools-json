@@ -1,0 +1,18 @@
+{
+  "urn": "132820",
+  "name": "Oak Hill First School",
+  "address": "Wirehill Drive",
+  "locality": "Lodge Park",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B98 7JU",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "405081",
+  "northing": "266526",
+  "url": "http://www.oakhillfirst.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

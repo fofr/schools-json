@@ -1,0 +1,18 @@
+{
+  "urn": "137663",
+  "name": "Wilmington Primary School",
+  "address": "Common Lane",
+  "locality": "Wilmington",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA2 7DF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "552812",
+  "northing": "172220",
+  "url": "www.wilmingtonprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

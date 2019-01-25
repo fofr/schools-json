@@ -1,0 +1,18 @@
+{
+  "urn": "139802",
+  "name": "Potter Street Academy",
+  "address": "Carters Mead",
+  "locality": "",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM17 9EU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "547098",
+  "northing": "208745",
+  "url": "www.potterstreetacademy.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

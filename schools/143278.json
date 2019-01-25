@@ -1,0 +1,18 @@
+{
+  "urn": "143278",
+  "name": "Thorpe St Andrew School and Sixth Form",
+  "address": "Laundry Lane",
+  "locality": "Thorpe St Andrew",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR7 0XS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "627163",
+  "northing": "309552",
+  "url": "http://thorpestandrewschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

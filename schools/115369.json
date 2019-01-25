@@ -1,0 +1,18 @@
+{
+  "urn": "115369",
+  "name": "The Harwich School",
+  "address": "Hall Lane",
+  "locality": "Dovercourt",
+  "address3": "",
+  "town": "Harwich",
+  "county": "Essex",
+  "postcode": "CO12 3TG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "624349",
+  "northing": "230704",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138824",
+  "name": "Manston St James Primary Academy",
+  "address": "Sandbed Lane",
+  "locality": "Crossgates",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS15 8JH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "436615",
+  "northing": "435165",
+  "url": "www.manstonstjames.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

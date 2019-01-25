@@ -1,0 +1,18 @@
+{
+  "urn": "123301",
+  "name": "Pinewood School",
+  "address": "Bourton",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN6 8HZ",
+  "minimum_age": "3",
+  "maximum_age": "13",
+  "easting": "423127",
+  "northing": "186894",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

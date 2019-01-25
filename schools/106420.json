@@ -1,0 +1,18 @@
+{
+  "urn": "106420",
+  "name": "Golborne Community Primary School",
+  "address": "Talbot Street",
+  "locality": "Golborne",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA3 3NN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "360213",
+  "northing": "397916",
+  "url": "www.golborneprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

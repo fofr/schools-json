@@ -1,0 +1,18 @@
+{
+  "urn": "111202",
+  "name": "Brook Acre Community Primary School",
+  "address": "Hilden Road",
+  "locality": "Padgate",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA2 0JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "362263",
+  "northing": "390319",
+  "url": "http://www.brookacre.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

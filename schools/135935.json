@@ -1,0 +1,18 @@
+{
+  "urn": "135935",
+  "name": "Leeds West Academy",
+  "address": "Intake Lane",
+  "locality": "",
+  "address3": "Rodley",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 1DQ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "422850",
+  "northing": "435373",
+  "url": "www.leedswestacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

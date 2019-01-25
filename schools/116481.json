@@ -1,0 +1,18 @@
+{
+  "urn": "116481",
+  "name": "The Priory Primary School",
+  "address": "Pamber End",
+  "locality": "",
+  "address3": "",
+  "town": "Tadley",
+  "county": "Hampshire",
+  "postcode": "RG26 5QD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "460699",
+  "northing": "158031",
+  "url": "www.theprioryprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

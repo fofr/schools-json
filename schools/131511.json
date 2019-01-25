@@ -1,0 +1,18 @@
+{
+  "urn": "131511",
+  "name": "Hillary Primary School",
+  "address": "Hillary Street",
+  "locality": "Pleck",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS2 9BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "400173",
+  "northing": "297223",
+  "url": "http://www.hillary.walsall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

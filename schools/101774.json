@@ -1,0 +1,18 @@
+{
+  "urn": "101774",
+  "name": "Courtwood Primary School",
+  "address": "Courtwood Lane",
+  "locality": "Addington",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 9HX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "536768",
+  "northing": "162439",
+  "url": "http://www.courtwood.croydon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

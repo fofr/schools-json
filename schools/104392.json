@@ -1,0 +1,18 @@
+{
+  "urn": "104392",
+  "name": "Wednesfield High School, A Specialist Engineering College",
+  "address": "Lichfield Road",
+  "locality": "Wednesfield",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV11 3ES",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "395223",
+  "northing": "300649",
+  "url": "http://wednesfieldhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

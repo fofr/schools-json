@@ -1,0 +1,18 @@
+{
+  "urn": "132025",
+  "name": "Valentine Primary School",
+  "address": "Valentine Avenue",
+  "locality": "Sholing",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 0EQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "446372",
+  "northing": "111037",
+  "url": "www.valentineprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

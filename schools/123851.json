@@ -1,0 +1,18 @@
+{
+  "urn": "123851",
+  "name": "St George's Catholic School",
+  "address": "The Mount",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 3NR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "323015",
+  "northing": "124198",
+  "url": "www.st-georges-somerset.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

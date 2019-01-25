@@ -1,0 +1,18 @@
+{
+  "urn": "101882",
+  "name": "Grange Infant School",
+  "address": "Church Gardens",
+  "locality": "Ealing",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W5 4HN",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "517702",
+  "northing": "179690",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

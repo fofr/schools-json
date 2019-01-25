@@ -1,0 +1,18 @@
+{
+  "urn": "139140",
+  "name": "Boston High School",
+  "address": "Spilsby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE21 9PF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "533643",
+  "northing": "345317",
+  "url": "http://www.bostonhighschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

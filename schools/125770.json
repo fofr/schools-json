@@ -1,0 +1,18 @@
+{
+  "urn": "125770",
+  "name": "Alcester Grammar School",
+  "address": "Birmingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Alcester",
+  "county": "Warwickshire",
+  "postcode": "B49 5ED",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "408656",
+  "northing": "257782",
+  "url": "http://www.alcester.net/ags",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

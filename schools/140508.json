@@ -1,0 +1,18 @@
+{
+  "urn": "140508",
+  "name": "Beaufort Primary School",
+  "address": "Kirkland Avenue",
+  "locality": "Goldsworth Park",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 3RG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "497762",
+  "northing": "159081",
+  "url": "www.beaufort.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

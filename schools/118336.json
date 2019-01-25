@@ -1,0 +1,18 @@
+{
+  "urn": "118336",
+  "name": "Eastling Primary School",
+  "address": "Kettle Hill Road",
+  "locality": "Eastling",
+  "address3": "",
+  "town": "Faversham",
+  "county": "Kent",
+  "postcode": "ME13 0BA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "596524",
+  "northing": "156325",
+  "url": "http://www.eastling.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

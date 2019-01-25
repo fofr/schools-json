@@ -1,0 +1,18 @@
+{
+  "urn": "112708",
+  "name": "Larklands Infant School",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ilkeston",
+  "county": "Derbyshire",
+  "postcode": "DE7 5DR",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "447326",
+  "northing": "341528",
+  "url": "www.larklandsinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

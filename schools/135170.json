@@ -1,0 +1,18 @@
+{
+  "urn": "135170",
+  "name": "Shireland Collegiate Academy",
+  "address": "Waterloo Road",
+  "locality": "",
+  "address3": "",
+  "town": "Smethwick",
+  "county": "West Midlands",
+  "postcode": "B66 4ND",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "402490",
+  "northing": "287367",
+  "url": "http://www.collegiateacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

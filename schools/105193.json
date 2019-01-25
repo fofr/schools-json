@@ -1,0 +1,18 @@
+{
+  "urn": "105193",
+  "name": "Masefield Primary School",
+  "address": "Masefield Road",
+  "locality": "Little Lever",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 1NG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "375865",
+  "northing": "407701",
+  "url": "www.masefield.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136719",
+  "name": "The Burgate School and Sixth Form",
+  "address": "Salisbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Fordingbridge",
+  "county": "Hampshire",
+  "postcode": "SP6 1EZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "415075",
+  "northing": "115300",
+  "url": "http://www.burgate.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

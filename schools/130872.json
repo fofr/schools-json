@@ -1,0 +1,18 @@
+{
+  "urn": "130872",
+  "name": "Kingsway Community Primary School",
+  "address": "Baker Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Leamington Spa",
+  "county": "Warwickshire",
+  "postcode": "CV31 3HB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "431586",
+  "northing": "264570",
+  "url": "www.kingswayprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

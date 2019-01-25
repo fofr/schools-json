@@ -1,0 +1,18 @@
+{
+  "urn": "121114",
+  "name": "Earsham CE VA Primary School",
+  "address": "School Road",
+  "locality": "Earsham",
+  "address3": "Earsham Primary School, the Street",
+  "town": "Nr Bungay",
+  "county": "Suffolk",
+  "postcode": "NR35 2TF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "632508",
+  "northing": "289217",
+  "url": "www.earsham.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

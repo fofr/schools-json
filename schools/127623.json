@@ -1,0 +1,18 @@
+{
+  "urn": "127623",
+  "name": "Barnby Dun First School",
+  "address": "Church Road",
+  "locality": "Barnby",
+  "address3": "Dun",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN3 1BG",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "461700",
+  "northing": "409404",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

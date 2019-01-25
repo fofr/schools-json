@@ -1,0 +1,18 @@
+{
+  "urn": "101992",
+  "name": "Garfield Primary School",
+  "address": "Upper Park Road",
+  "locality": "New Southgate",
+  "address3": "Enfield",
+  "town": "London",
+  "county": "",
+  "postcode": "N11 1BH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529140",
+  "northing": "192210",
+  "url": "www.garfield.enfield.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

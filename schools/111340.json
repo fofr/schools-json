@@ -1,0 +1,18 @@
+{
+  "urn": "111340",
+  "name": "St Mary's Catholic Primary School",
+  "address": "Manor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Middlewich",
+  "county": "Cheshire",
+  "postcode": "CW10 9DH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "370060",
+  "northing": "365875",
+  "url": "http://www.stmarysmiddlewich.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

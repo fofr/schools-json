@@ -1,0 +1,18 @@
+{
+  "urn": "144800",
+  "name": "Wilden All Saints CofE Primary School",
+  "address": "Wilden Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Stourport-on-Severn",
+  "county": "Worcestershire",
+  "postcode": "DY13 9LP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382444",
+  "northing": "272243",
+  "url": "www.wilden.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

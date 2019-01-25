@@ -1,0 +1,18 @@
+{
+  "urn": "139614",
+  "name": "Halewood Academy",
+  "address": "The Avenue",
+  "locality": "Wood Road",
+  "address3": "Halewood",
+  "town": "Knowsley",
+  "county": "Merseyside",
+  "postcode": "L26 1UU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "344293",
+  "northing": "385313",
+  "url": "www.halewoodacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116432",
+  "name": "Cranbourne",
+  "address": "Wessex Close",
+  "locality": "",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG21 3NP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "462911",
+  "northing": "151085",
+  "url": "http://www.cranbourne.hants.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

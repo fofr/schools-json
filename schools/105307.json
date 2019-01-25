@@ -1,0 +1,18 @@
+{
+  "urn": "105307",
+  "name": "Park View Primary School",
+  "address": "Park View Road",
+  "locality": "Prestwich",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M25 1FA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "381771",
+  "northing": "403342",
+  "url": "www.parkviewprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

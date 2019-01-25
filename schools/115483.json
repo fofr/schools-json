@@ -1,0 +1,18 @@
+{
+  "urn": "115483",
+  "name": "Linden Primary School",
+  "address": "Linden Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL1 5HU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "382934",
+  "northing": "216885",
+  "url": "www.lindenprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

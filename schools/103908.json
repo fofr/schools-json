@@ -1,0 +1,18 @@
+{
+  "urn": "103908",
+  "name": "Moorlands Primary School",
+  "address": "Winchester Road",
+  "locality": "",
+  "address3": "",
+  "town": "West Bromwich",
+  "county": "West Midlands",
+  "postcode": "B71 2NZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "399884",
+  "northing": "293863",
+  "url": "http://www.moorlandsprimarysch.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

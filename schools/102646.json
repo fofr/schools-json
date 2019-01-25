@@ -1,0 +1,18 @@
+{
+  "urn": "102646",
+  "name": "The Sherwood School",
+  "address": "Abbotts Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mitcham",
+  "county": "Surrey",
+  "postcode": "CR4 1JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529391",
+  "northing": "168221",
+  "url": "http://www.sherwoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

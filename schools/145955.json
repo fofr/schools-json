@@ -1,0 +1,18 @@
+{
+  "urn": "145955",
+  "name": "Delta Primary School",
+  "address": "Nightingale Road",
+  "locality": "206a",
+  "address3": "Edmonton",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "N9 8PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535410",
+  "northing": "194508",
+  "url": "www.deltaprimaryelt.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

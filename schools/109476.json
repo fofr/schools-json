@@ -1,0 +1,18 @@
+{
+  "urn": "109476",
+  "name": "Ridgmont Lower School",
+  "address": "High Street",
+  "locality": "Ridgmont",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK43 0TS",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "497530",
+  "northing": "235964",
+  "url": "www.ridgmont-lower.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

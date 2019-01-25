@@ -1,0 +1,18 @@
+{
+  "urn": "101220",
+  "name": "Thomas Arnold Primary School",
+  "address": "Rowdowns Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM9 6NH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548866",
+  "northing": "184187",
+  "url": "http://www.thomasarnoldprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

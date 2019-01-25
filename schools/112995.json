@@ -1,0 +1,18 @@
+{
+  "urn": "112995",
+  "name": "The Pingle School",
+  "address": "Coronation Street",
+  "locality": "",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE11 0QA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "429393",
+  "northing": "320143",
+  "url": "http://www.pingle.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

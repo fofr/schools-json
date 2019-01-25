@@ -1,0 +1,18 @@
+{
+  "urn": "128627",
+  "name": "Starkholmes CofE Primary School",
+  "address": "Starkholmes Road",
+  "locality": "Starkholmes",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 5JE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "430072",
+  "northing": "359361",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

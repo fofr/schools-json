@@ -1,0 +1,18 @@
+{
+  "urn": "131414",
+  "name": "Kincraig Primary School",
+  "address": "Kincraig Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY2 0HN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "332737",
+  "northing": "440566",
+  "url": "www.kincraig.blackpool.gov.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

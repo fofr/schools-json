@@ -1,0 +1,18 @@
+{
+  "urn": "108975",
+  "name": "Holymead Primary School",
+  "address": "Hollywood Road",
+  "locality": "Brislington",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS4 4LE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "361941",
+  "northing": "170971",
+  "url": "www.holymeadp.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

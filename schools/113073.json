@@ -1,0 +1,18 @@
+{
+  "urn": "113073",
+  "name": "Alphington Primary School",
+  "address": "Wheatsheaf Way",
+  "locality": "Alphington",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX2 8RQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "291487",
+  "northing": "90093",
+  "url": "www.alphington.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

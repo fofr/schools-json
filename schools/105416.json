@@ -1,0 +1,18 @@
+{
+  "urn": "105416",
+  "name": "Gorton Mount Primary School",
+  "address": "Mount Road",
+  "locality": "Gorton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M18 7GR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388043",
+  "northing": "395136",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

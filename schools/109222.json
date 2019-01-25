@@ -1,0 +1,18 @@
+{
+  "urn": "109222",
+  "name": "Yatton Voluntary Controlled Infant School",
+  "address": "High Street",
+  "locality": "Yatton",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS49 4HJ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "343183",
+  "northing": "165586",
+  "url": "www.yattonschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

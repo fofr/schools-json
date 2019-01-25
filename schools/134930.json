@@ -1,0 +1,18 @@
+{
+  "urn": "134930",
+  "name": "Netherfield Primary School",
+  "address": "Chandos Street",
+  "locality": "Netherfield",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 2LR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "462333",
+  "northing": "341467",
+  "url": "www.netherfieldprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

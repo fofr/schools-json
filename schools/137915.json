@@ -1,0 +1,18 @@
+{
+  "urn": "137915",
+  "name": "Nethergate Academy",
+  "address": "Swansdowne Drive",
+  "locality": "Clifton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG11 8HX",
+  "minimum_age": "5",
+  "maximum_age": "19",
+  "easting": "456040",
+  "northing": "334407",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

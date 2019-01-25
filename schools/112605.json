@@ -1,0 +1,18 @@
+{
+  "urn": "112605",
+  "name": "Pilsley Primary School",
+  "address": "Station Road",
+  "locality": "Pilsley",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S45 8EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442507",
+  "northing": "362157",
+  "url": "www.pilsleyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

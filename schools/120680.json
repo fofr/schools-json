@@ -1,0 +1,18 @@
+{
+  "urn": "120680",
+  "name": "The Isaac Newton Primary School",
+  "address": "Dysart Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG31 7DG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "490489",
+  "northing": "335479",
+  "url": "http://www.isaacnewton.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

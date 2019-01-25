@@ -1,0 +1,18 @@
+{
+  "urn": "142942",
+  "name": "Longvernal Primary School",
+  "address": "Clapton Road",
+  "locality": "Midsomer Norton",
+  "address3": "",
+  "town": "Radstock",
+  "county": "Somerset",
+  "postcode": "BA3 2LP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "365615",
+  "northing": "154085",
+  "url": "www.longvernal.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101002",
+  "name": "Broadwater Primary School",
+  "address": "Broadwater Road",
+  "locality": "Tooting",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW17 0DZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527103",
+  "northing": "171838",
+  "url": "www.broadwaterschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

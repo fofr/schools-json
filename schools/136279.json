@@ -1,0 +1,18 @@
+{
+  "urn": "136279",
+  "name": "Brine Leas School",
+  "address": "Audlem Road",
+  "locality": "",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 7DY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "365621",
+  "northing": "351154",
+  "url": "http://brineleas.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

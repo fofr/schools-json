@@ -1,0 +1,18 @@
+{
+  "urn": "133545",
+  "name": "William Morris Sixth Form",
+  "address": "St Dunstan's Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W6 8RB",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "523862",
+  "northing": "178222",
+  "url": "http://www.wmsf.ac.uk",
+  "phase": "16 plus",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

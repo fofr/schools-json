@@ -1,0 +1,18 @@
+{
+  "urn": "100503",
+  "name": "All Saints Catholic College",
+  "address": "St Charles Square",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W10 6EL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "523952",
+  "northing": "181650",
+  "url": "http://www.allsaintscc.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

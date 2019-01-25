@@ -1,0 +1,18 @@
+{
+  "urn": "138199",
+  "name": "Central Bedfordshire UTC",
+  "address": "Parkside Drive",
+  "locality": "Kingsland Skills Centre",
+  "address3": "",
+  "town": "Houghton Regis",
+  "county": "Bedfordshire",
+  "postcode": "LU5 5PY",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "503033",
+  "northing": "224917",
+  "url": "www.centralbedsutc.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110236",
+  "name": "West Wycombe Combined School",
+  "address": "Church Lane",
+  "locality": "West Wycombe",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP14 3AH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "482846",
+  "northing": "194742",
+  "url": "www.westwycombe.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

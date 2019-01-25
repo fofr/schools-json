@@ -1,0 +1,18 @@
+{
+  "urn": "118837",
+  "name": "Borden Grammar School",
+  "address": "Avenue of Remembrance",
+  "locality": "",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 4DB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "590580",
+  "northing": "163359",
+  "url": "http://www.bordengrammar.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

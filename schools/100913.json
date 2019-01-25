@@ -1,0 +1,18 @@
+{
+  "urn": "100913",
+  "name": "Mayflower Primary School",
+  "address": "Upper North Street",
+  "locality": "Poplar",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 6DU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537483",
+  "northing": "181055",
+  "url": "www.mayflower.towerhamlets.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104317",
+  "name": "Stowlawn Primary School",
+  "address": "Green Park Avenue",
+  "locality": "Stowlawn",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 6EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394135",
+  "northing": "297626",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

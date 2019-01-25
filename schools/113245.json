@@ -1,0 +1,18 @@
+{
+  "urn": "113245",
+  "name": "Canada Hill Community Primary School",
+  "address": "Abbotsridge Drive",
+  "locality": "East Ogwell",
+  "address3": "",
+  "town": "Newton Abbot",
+  "county": "Devon",
+  "postcode": "TQ12 6YS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "284789",
+  "northing": "70218",
+  "url": "http://www.canadahill.devon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

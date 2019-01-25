@@ -1,0 +1,18 @@
+{
+  "urn": "145501",
+  "name": "Flegg High Ormiston Academy",
+  "address": "Somerton Road",
+  "locality": "Martham",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR29 4QD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "645995",
+  "northing": "318985",
+  "url": "www.fleggormistonacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

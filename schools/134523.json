@@ -1,0 +1,18 @@
+{
+  "urn": "134523",
+  "name": "New Leaf Centre",
+  "address": "Pelsall Lane",
+  "locality": "",
+  "address3": "Rushall",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS4 1NG",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "402472",
+  "northing": "301941",
+  "url": "www.newleaf.walsall.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

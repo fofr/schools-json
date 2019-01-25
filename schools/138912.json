@@ -1,0 +1,18 @@
+{
+  "urn": "138912",
+  "name": "Dordon Primary School",
+  "address": "Roman Way",
+  "locality": "Dordon",
+  "address3": "",
+  "town": "Tamworth",
+  "county": "Staffordshire",
+  "postcode": "B78 1PJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "426118",
+  "northing": "300784",
+  "url": "www.dordonprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

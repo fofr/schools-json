@@ -1,0 +1,18 @@
+{
+  "urn": "136453",
+  "name": "Ipswich Academy",
+  "address": "Braziers Wood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP3 0SP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "618684",
+  "northing": "241660",
+  "url": "http://ipswichacademy.paradigmtrust.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

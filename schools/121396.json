@@ -1,0 +1,18 @@
+{
+  "urn": "121396",
+  "name": "Harrogate, New Park Community Primary School",
+  "address": "Skipton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG1 3HF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429630",
+  "northing": "456860",
+  "url": "www.newparkschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

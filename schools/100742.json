@@ -1,0 +1,18 @@
+{
+  "urn": "100742",
+  "name": "Conisborough College",
+  "address": "Conisborough Crescent",
+  "locality": "Catford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE6 2SE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "538361",
+  "northing": "172407",
+  "url": "http://www.conisboroughcollege.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

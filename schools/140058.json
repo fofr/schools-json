@@ -1,0 +1,18 @@
+{
+  "urn": "140058",
+  "name": "Chacombe CEVA Primary Academy",
+  "address": "37 Thorpe Road",
+  "locality": "Chacombe",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX17 2JA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "449559",
+  "northing": "243853",
+  "url": "www.chacombe.northants.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

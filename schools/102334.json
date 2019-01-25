@@ -1,0 +1,18 @@
+{
+  "urn": "102334",
+  "name": "St Joseph's Catholic Primary School",
+  "address": "115 St Mary's Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Upminster",
+  "county": "Essex",
+  "postcode": "RM14 2QB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "555976",
+  "northing": "186572",
+  "url": "http://www.st-josephs-upminster.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

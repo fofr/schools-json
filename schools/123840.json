@@ -1,0 +1,18 @@
+{
+  "urn": "123840",
+  "name": "St Benedict's Catholic Primary School",
+  "address": "Charlton Lane",
+  "locality": "Midsomer Norton",
+  "address3": "",
+  "town": "Radstock",
+  "county": "Somerset",
+  "postcode": "BA3 4BD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367094",
+  "northing": "153191",
+  "url": "www.somerset.org.uk/sites/stbenedicts",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110367",
+  "name": "Greenleys Junior School",
+  "address": "Marron Lane",
+  "locality": "Wolverton",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK12 5DE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "481226",
+  "northing": "240317",
+  "url": "www.greenleysjunior.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

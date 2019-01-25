@@ -1,0 +1,18 @@
+{
+  "urn": "105982",
+  "name": "Ellesmere Park High School",
+  "address": "Wentworth Road",
+  "locality": "Eccles",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M30 9BP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "377922",
+  "northing": "399605",
+  "url": "http://www.ephs.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

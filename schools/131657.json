@@ -1,0 +1,18 @@
+{
+  "urn": "131657",
+  "name": "West Grove Primary School",
+  "address": "218a Chase Road",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 4LR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529794",
+  "northing": "194765",
+  "url": "www.westgrove.enfield.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

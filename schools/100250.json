@@ -1,0 +1,18 @@
+{
+  "urn": "100250",
+  "name": "Kingsmead Primary School",
+  "address": "Kingsmead Way",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E9 5PP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536310",
+  "northing": "185685",
+  "url": "http://www.kingsmead.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

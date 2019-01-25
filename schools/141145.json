@@ -1,0 +1,18 @@
+{
+  "urn": "141145",
+  "name": "Heath View Academy",
+  "address": "Irwin Crescent",
+  "locality": "Eastmoor",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF1 4QY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434372",
+  "northing": "421319",
+  "url": "www.heathviewacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

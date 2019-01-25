@@ -1,0 +1,18 @@
+{
+  "urn": "100814",
+  "name": "Townsend Primary School",
+  "address": "Townsend Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE17 1HJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533028",
+  "northing": "178832",
+  "url": "www.townsendprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

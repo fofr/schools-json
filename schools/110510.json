@@ -1,0 +1,18 @@
+{
+  "urn": "110510",
+  "name": "Chesham Park Community College",
+  "address": "Chartridge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chesham",
+  "county": "Buckinghamshire",
+  "postcode": "HP5 2RG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "495275",
+  "northing": "202063",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

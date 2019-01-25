@@ -1,0 +1,18 @@
+{
+  "urn": "102841",
+  "name": "Wanstead Church School",
+  "address": "Church Path",
+  "locality": "Wanstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E11 2SS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540388",
+  "northing": "188596",
+  "url": "www.wansteadchurchsch.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

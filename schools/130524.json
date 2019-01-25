@@ -1,0 +1,18 @@
+{
+  "urn": "130524",
+  "name": "Barnsley College",
+  "address": "PO Box 266",
+  "locality": "Church Street",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S70 2YW",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "434387",
+  "northing": "406245",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

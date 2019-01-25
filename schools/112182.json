@@ -1,0 +1,18 @@
+{
+  "urn": "112182",
+  "name": "Long Marton School",
+  "address": "Long Marton",
+  "locality": "",
+  "address3": "",
+  "town": "Appleby-in-Westmorland",
+  "county": "Cumbria",
+  "postcode": "CA16 6BT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "366394",
+  "northing": "524590",
+  "url": "www.longmartoncommunityschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

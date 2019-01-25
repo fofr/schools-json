@@ -1,0 +1,18 @@
+{
+  "urn": "130800",
+  "name": "Shrewsbury Colleges Group",
+  "address": "Priory Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 1RX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "348740",
+  "northing": "312628",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

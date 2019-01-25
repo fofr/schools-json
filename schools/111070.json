@@ -1,0 +1,18 @@
+{
+  "urn": "111070",
+  "name": "Buerton Primary School",
+  "address": "Woore Road",
+  "locality": "Buerton",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW3 0DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "368575",
+  "northing": "343418",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

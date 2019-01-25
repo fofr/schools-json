@@ -1,0 +1,18 @@
+{
+  "urn": "143848",
+  "name": "Castlebrook High School",
+  "address": "Parr Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL9 8LP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "382083",
+  "northing": "407297",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

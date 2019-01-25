@@ -1,0 +1,18 @@
+{
+  "urn": "137647",
+  "name": "South Brent Primary School",
+  "address": "Totnes Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Brent",
+  "county": "Devon",
+  "postcode": "TQ10 9JN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "270019",
+  "northing": "60051",
+  "url": "http://www.south-brent-primary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

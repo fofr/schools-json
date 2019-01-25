@@ -1,0 +1,18 @@
+{
+  "urn": "123960",
+  "name": "Cannock Nursery School",
+  "address": "Hunter Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cannock",
+  "county": "Staffordshire",
+  "postcode": "WS11 3AE",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "398143",
+  "northing": "309630",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

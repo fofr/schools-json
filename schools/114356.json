@@ -1,0 +1,18 @@
+{
+  "urn": "114356",
+  "name": "Eastbourne Tutorial Unit",
+  "address": "9 Park Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Eastbourne",
+  "county": "East Sussex",
+  "postcode": "BN21 2UU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "559381",
+  "northing": "101665",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

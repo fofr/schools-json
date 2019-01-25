@@ -1,0 +1,18 @@
+{
+  "urn": "114767",
+  "name": "Baynards Primary School",
+  "address": "Townsend Road",
+  "locality": "Tiptree",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO5 0ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "588988",
+  "northing": "217055",
+  "url": "www.baynards.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

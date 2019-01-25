@@ -1,0 +1,18 @@
+{
+  "urn": "119925",
+  "name": "Martinshaw Primary School",
+  "address": "Forest Rise",
+  "locality": "Groby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE6 0BB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "451916",
+  "northing": "307590",
+  "url": "www.martinshaw.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

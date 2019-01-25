@@ -1,0 +1,18 @@
+{
+  "urn": "134607",
+  "name": "Milton Keynes Secure Training Centre",
+  "address": "Chalgrove Field",
+  "locality": "Off Otterburn Crescent",
+  "address3": "Oakhill",
+  "town": "Milton Keynes",
+  "county": "",
+  "postcode": "MK5 6AH",
+  "minimum_age": "12",
+  "maximum_age": "17",
+  "easting": "481697",
+  "northing": "235992",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Secure units"
+}

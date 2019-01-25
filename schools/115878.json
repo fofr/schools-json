@@ -1,0 +1,18 @@
+{
+  "urn": "115878",
+  "name": "Crondall Primary School",
+  "address": "Croft Lane",
+  "locality": "Crondall",
+  "address3": "",
+  "town": "Farnham",
+  "county": "Hampshire",
+  "postcode": "GU10 5QG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "479584",
+  "northing": "148544",
+  "url": "www.crondall.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

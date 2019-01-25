@@ -1,0 +1,18 @@
+{
+  "urn": "140275",
+  "name": "Kingswood Parks Primary School",
+  "address": "School Lane",
+  "locality": "Kingswood",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU7 3JQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508556",
+  "northing": "435144",
+  "url": "www.kingswoodparks.hull.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

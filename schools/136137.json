@@ -1,0 +1,18 @@
+{
+  "urn": "136137",
+  "name": "Skinners' Academy",
+  "address": "Woodberry Grove",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N4 1SY",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "532255",
+  "northing": "187775",
+  "url": "http://www.skinnersacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

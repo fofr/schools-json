@@ -1,0 +1,18 @@
+{
+  "urn": "111643",
+  "name": "Harrow Gate Primary School",
+  "address": "Piper Knowle Road",
+  "locality": "Hardwick",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "Cleveland",
+  "postcode": "TS19 8DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442467",
+  "northing": "521170",
+  "url": "http://www.harrowgate.stockton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

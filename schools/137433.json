@@ -1,0 +1,18 @@
+{
+  "urn": "137433",
+  "name": "Priory School",
+  "address": "Mount Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP32 7BH",
+  "minimum_age": "7",
+  "maximum_age": "19",
+  "easting": "586311",
+  "northing": "264616",
+  "url": "http://www.priory.suffolk.sch.uk/",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

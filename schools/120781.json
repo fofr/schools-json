@@ -1,0 +1,18 @@
+{
+  "urn": "120781",
+  "name": "Bacton Primary School",
+  "address": "Walcott Road",
+  "locality": "Bacton",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR12 0EY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "634591",
+  "northing": "333485",
+  "url": "www.bacton.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

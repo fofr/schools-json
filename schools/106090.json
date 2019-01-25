@@ -1,0 +1,18 @@
+{
+  "urn": "106090",
+  "name": "Moss Hey Primary School",
+  "address": "Eskdale Avenue",
+  "locality": "Bramhall",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK7 1DS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "388267",
+  "northing": "384301",
+  "url": "http://mossheyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

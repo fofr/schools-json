@@ -1,0 +1,18 @@
+{
+  "urn": "144094",
+  "name": "Marshalls Park Academy",
+  "address": "Pettits Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM1 4EH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "551408",
+  "northing": "190187",
+  "url": "http://marshallspark.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

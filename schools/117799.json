@@ -1,0 +1,18 @@
+{
+  "urn": "117799",
+  "name": "Neasden Primary School",
+  "address": "Neasden Close",
+  "locality": "Wembley Park Avenue",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU8 0QB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "512202",
+  "northing": "432445",
+  "url": "http://www.hullcc.gov.uk/schools/neasden/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

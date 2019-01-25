@@ -1,0 +1,18 @@
+{
+  "urn": "137917",
+  "name": "Southborough High School",
+  "address": "Hook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Surbiton",
+  "county": "Surrey",
+  "postcode": "KT6 5AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518286",
+  "northing": "165452",
+  "url": "http://www.southborough.kingston.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

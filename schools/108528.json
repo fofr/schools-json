@@ -1,0 +1,18 @@
+{
+  "urn": "108528",
+  "name": "Kenton School",
+  "address": "Drayton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE3 3RU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "422076",
+  "northing": "567804",
+  "url": "www.kenton.newcastle.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

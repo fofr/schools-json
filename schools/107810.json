@@ -1,0 +1,18 @@
+{
+  "urn": "107810",
+  "name": "Rawdon Littlemoor Primary School",
+  "address": "New Road Side",
+  "locality": "Rawdon",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS19 6DD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "420557",
+  "northing": "439957",
+  "url": "www.rawdonlittlemoor.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

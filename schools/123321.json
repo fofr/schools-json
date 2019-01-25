@@ -1,0 +1,18 @@
+{
+  "urn": "123321",
+  "name": "St Clare's Oxford",
+  "address": "139 Banbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX2 7AL",
+  "minimum_age": "15",
+  "maximum_age": "19",
+  "easting": "450901",
+  "northing": "208546",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

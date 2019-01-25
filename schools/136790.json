@@ -1,0 +1,18 @@
+{
+  "urn": "136790",
+  "name": "Fosse Way Academy",
+  "address": "Ash Grove",
+  "locality": "North Hykeham",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN6 8DU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "494734",
+  "northing": "366841",
+  "url": "www.fosse-way-academy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

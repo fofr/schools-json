@@ -1,0 +1,18 @@
+{
+  "urn": "101884",
+  "name": "North Primary School",
+  "address": "Meadow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southall",
+  "county": "",
+  "postcode": "UB1 2JE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "512947",
+  "northing": "180576",
+  "url": "www.northprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

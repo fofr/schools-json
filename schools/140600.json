@@ -1,0 +1,18 @@
+{
+  "urn": "140600",
+  "name": "Energy Coast UTC",
+  "address": "Blackwood Road",
+  "locality": "Lillyhall",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 4JW",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "301917",
+  "northing": "525587",
+  "url": "http://www.energycoastutc.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

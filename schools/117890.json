@@ -1,0 +1,18 @@
+{
+  "urn": "117890",
+  "name": "Keyingham Infant School",
+  "address": "Russell Drive",
+  "locality": "Keyingham",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU12 9RU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "524957",
+  "northing": "425148",
+  "url": "www.keyinfants.eril.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

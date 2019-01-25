@@ -1,0 +1,18 @@
+{
+  "urn": "145823",
+  "name": "Studfall Junior Academy",
+  "address": "Rowlett Road",
+  "locality": "",
+  "address3": "",
+  "town": "Corby",
+  "county": "Northamptonshire",
+  "postcode": "NN17 2BT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "487752",
+  "northing": "289750",
+  "url": "www.studfalljunioracademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

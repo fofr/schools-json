@@ -1,0 +1,18 @@
+{
+  "urn": "143872",
+  "name": "Warmingham CofE Primary School",
+  "address": "School Lane",
+  "locality": "Warmingham",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 3QN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "371191",
+  "northing": "361534",
+  "url": "www.warminghamce.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

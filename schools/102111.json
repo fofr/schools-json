@@ -1,0 +1,18 @@
+{
+  "urn": "102111",
+  "name": "South Harringay Infant School",
+  "address": "Pemberton Road",
+  "locality": "Haringey",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N4 1BA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "531649",
+  "northing": "188545",
+  "url": "www.southharringayschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123890",
+  "name": "Bucklers Mead Community School",
+  "address": "St John's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA21 4NH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "356303",
+  "northing": "117657",
+  "url": "http://www.bucklers-m.somerset.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

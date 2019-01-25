@@ -1,0 +1,18 @@
+{
+  "urn": "103367",
+  "name": "Percy Shurmer Primary School",
+  "address": "Longmore Street",
+  "locality": "Balsall Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B12 9ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "407458",
+  "northing": "285110",
+  "url": "www.percyshurmer.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138174",
+  "name": "Belfairs Academy",
+  "address": "Highlands Boulevard",
+  "locality": "",
+  "address3": "",
+  "town": "Leigh-on-Sea",
+  "county": "Essex",
+  "postcode": "SS9 3TG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "583146",
+  "northing": "186788",
+  "url": "http://www.belfairsacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

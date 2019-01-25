@@ -1,0 +1,18 @@
+{
+  "urn": "123311",
+  "name": "Magdalen College School",
+  "address": "Cowley Place",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 1DZ",
+  "minimum_age": "7",
+  "maximum_age": "19",
+  "easting": "452246",
+  "northing": "205864",
+  "url": "www.mcsoxford.org",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

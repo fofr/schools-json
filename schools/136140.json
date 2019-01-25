@@ -1,0 +1,18 @@
+{
+  "urn": "136140",
+  "name": "Primary Pupil Referral Service",
+  "address": "Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Batley",
+  "county": "West Yorkshire",
+  "postcode": "WF17 5LP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "424540",
+  "northing": "424373",
+  "url": "http://www.pupilreferralservice.co.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

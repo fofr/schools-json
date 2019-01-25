@@ -1,0 +1,18 @@
+{
+  "urn": "115758",
+  "name": "Rednock School",
+  "address": "Kingshill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dursley",
+  "county": "Gloucestershire",
+  "postcode": "GL11 4BY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "375444",
+  "northing": "198723",
+  "url": "http://rednockschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

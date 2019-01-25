@@ -1,0 +1,18 @@
+{
+  "urn": "103952",
+  "name": "Old Hill Primary School",
+  "address": "Lawrence Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Cradley Heath",
+  "county": "West Midlands",
+  "postcode": "B64 6DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "395543",
+  "northing": "286193",
+  "url": "http://www.oldhillprimaryschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

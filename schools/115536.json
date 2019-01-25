@@ -1,0 +1,18 @@
+{
+  "urn": "115536",
+  "name": "Slimbridge Primary School",
+  "address": "St John's Road",
+  "locality": "Slimbridge",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL2 7DD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "374291",
+  "northing": "202866",
+  "url": "www.slimbridgeprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

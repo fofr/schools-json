@@ -1,0 +1,18 @@
+{
+  "urn": "139268",
+  "name": "UTC Reading",
+  "address": "Crescent Road",
+  "locality": "East Reading",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG1 5RQ",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "473728",
+  "northing": "172606",
+  "url": "http://www.utcreading.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

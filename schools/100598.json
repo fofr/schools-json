@@ -1,0 +1,18 @@
+{
+  "urn": "100598",
+  "name": "Allen Edwards Primary School",
+  "address": "Studley Road",
+  "locality": "Stockwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW4 6RP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530167",
+  "northing": "176541",
+  "url": "http://www.allenedwards.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

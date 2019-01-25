@@ -1,0 +1,18 @@
+{
+  "urn": "136680",
+  "name": "Ormiston Horizon Academy",
+  "address": "Turnhurst Road",
+  "locality": "Tunstall",
+  "address3": "",
+  "town": "Stoke on Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 6JZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "386948",
+  "northing": "352806",
+  "url": "http://www.ormistonhorizonacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

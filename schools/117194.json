@@ -1,0 +1,18 @@
+{
+  "urn": "117194",
+  "name": "Woodhall Primary School",
+  "address": "Woodhall Lane",
+  "locality": "South Oxhey",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD19 6QX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511983",
+  "northing": "192560",
+  "url": "http://www.woodhall.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

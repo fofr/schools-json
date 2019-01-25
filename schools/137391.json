@@ -1,0 +1,18 @@
+{
+  "urn": "137391",
+  "name": "Burnley Road Academy",
+  "address": "Burnley Road",
+  "locality": "Mytholmroyd",
+  "address3": "",
+  "town": "Hebden Bridge",
+  "county": "West Yorkshire",
+  "postcode": "HX7 5DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "401061",
+  "northing": "426205",
+  "url": "www.burnleyroadacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

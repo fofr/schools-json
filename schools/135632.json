@@ -1,0 +1,18 @@
+{
+  "urn": "135632",
+  "name": "West Lakes Academy",
+  "address": "Main Street",
+  "locality": "",
+  "address3": "",
+  "town": "Egremont",
+  "county": "Cumbria",
+  "postcode": "CA22 2DQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "301019",
+  "northing": "510967",
+  "url": "http://www.westlakesacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

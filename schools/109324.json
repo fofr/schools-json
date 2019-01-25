@@ -1,0 +1,18 @@
+{
+  "urn": "109324",
+  "name": "Chipping Sodbury School",
+  "address": "Bowling Road",
+  "locality": "Chipping Sodbury",
+  "address3": "",
+  "town": "Bristol",
+  "county": "South Gloucestershire",
+  "postcode": "BS37 6EW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "372687",
+  "northing": "181808",
+  "url": "http://www.chippingsodburyschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

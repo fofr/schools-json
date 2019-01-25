@@ -1,0 +1,18 @@
+{
+  "urn": "123620",
+  "name": "Shrewsbury High School",
+  "address": "32 Town Walls",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 1TN",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "348935",
+  "northing": "312258",
+  "url": "http://www.shrewsburyhigh.gdst.net",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120246",
+  "name": "Welland Park Community College",
+  "address": "Welland Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "Market Harborough",
+  "county": "Leicestershire",
+  "postcode": "LE16 9DR",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "473212",
+  "northing": "286804",
+  "url": "http://www.wellandpark.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

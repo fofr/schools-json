@@ -1,0 +1,18 @@
+{
+  "urn": "104138",
+  "name": "Millfields Nursery School",
+  "address": "Lichfield Road",
+  "locality": "Bloxwich",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 3LU",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "400180",
+  "northing": "302866",
+  "url": "www.millfields-n.walsall.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

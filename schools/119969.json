@@ -1,0 +1,18 @@
+{
+  "urn": "119969",
+  "name": "Fairfield Community Primary School",
+  "address": "Cheshire Drive",
+  "locality": "South Wigston",
+  "address3": "",
+  "town": "Wigston",
+  "county": "Leicestershire",
+  "postcode": "LE18 4WA",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "459082",
+  "northing": "299267",
+  "url": "http://www.fairfieldcpschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

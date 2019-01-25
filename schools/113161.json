@@ -1,0 +1,18 @@
+{
+  "urn": "113161",
+  "name": "Marwood School",
+  "address": "Whiddon",
+  "locality": "Muddiford",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX31 4HF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "255086",
+  "northing": "138770",
+  "url": "www.marwood.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

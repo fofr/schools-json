@@ -1,0 +1,18 @@
+{
+  "urn": "146404",
+  "name": "The Co-Op Academy Walkden",
+  "address": "Old Clough Lane",
+  "locality": "Walkden",
+  "address3": "Worsley",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M28 7JB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "374536",
+  "northing": "401987",
+  "url": "http://www.walkden.uk.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

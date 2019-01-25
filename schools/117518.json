@@ -1,0 +1,18 @@
+{
+  "urn": "117518",
+  "name": "Barnwell School",
+  "address": "Barnwell",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG2 9SW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "525831",
+  "northing": "222832",
+  "url": "http://www.barnwellschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

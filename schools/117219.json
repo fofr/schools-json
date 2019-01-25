@@ -1,0 +1,18 @@
+{
+  "urn": "117219",
+  "name": "Monksmead School",
+  "address": "Hillside Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Borehamwood",
+  "county": "Hertfordshire",
+  "postcode": "WD6 1HL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "520140",
+  "northing": "196549",
+  "url": "http://www.monksmead.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101439",
+  "name": "Chatsworth Infant School",
+  "address": "Burnt Oak Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sidcup",
+  "county": "Kent",
+  "postcode": "DA15 9DD",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "546420",
+  "northing": "173340",
+  "url": "www.chatsworthinfantschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

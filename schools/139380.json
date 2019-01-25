@@ -1,0 +1,18 @@
+{
+  "urn": "139380",
+  "name": "Purfleet Primary Academy",
+  "address": "Tank Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Purfleet",
+  "county": "Essex",
+  "postcode": "RM19 1TA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "555226",
+  "northing": "178615",
+  "url": "www.purfleetprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

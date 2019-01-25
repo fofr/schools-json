@@ -1,0 +1,18 @@
+{
+  "urn": "112148",
+  "name": "Garth Infant School",
+  "address": "Coronation Drive",
+  "locality": "Salterbeck",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 5LS",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "299343",
+  "northing": "526089",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

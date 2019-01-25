@@ -1,0 +1,18 @@
+{
+  "urn": "114601",
+  "name": "Hillcrest School",
+  "address": "Rye Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hastings",
+  "county": "East Sussex",
+  "postcode": "TN35 5DN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "584076",
+  "northing": "112179",
+  "url": "http://www.hillcrest.e-sussex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

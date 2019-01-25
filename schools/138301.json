@@ -1,0 +1,18 @@
+{
+  "urn": "138301",
+  "name": "Newbridge High School",
+  "address": "Forest Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coalville",
+  "county": "Leicestershire",
+  "postcode": "LE67 3SJ",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "442916",
+  "northing": "313470",
+  "url": "http://www.newbridgesch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

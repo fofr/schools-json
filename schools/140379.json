@@ -1,0 +1,18 @@
+{
+  "urn": "140379",
+  "name": "Civitas Academy",
+  "address": "90a Great Knollys Street",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG1 7HL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "470898",
+  "northing": "173665",
+  "url": "www.civitasacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

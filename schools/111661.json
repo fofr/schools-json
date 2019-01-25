@@ -1,0 +1,18 @@
+{
+  "urn": "111661",
+  "name": "Grange Primary School",
+  "address": "Owton Manor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS25 3PU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "448906",
+  "northing": "529399",
+  "url": "www.grangeprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

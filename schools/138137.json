@@ -1,0 +1,18 @@
+{
+  "urn": "138137",
+  "name": "Stockland Green School",
+  "address": "Slade Road",
+  "locality": "Erdington",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B23 7JH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "409471",
+  "northing": "291715",
+  "url": "http://www.stockgrn.bham.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

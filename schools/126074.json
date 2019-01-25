@@ -1,0 +1,18 @@
+{
+  "urn": "126074",
+  "name": "Boundstone Community College",
+  "address": "Upper Boundstone Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Lancing",
+  "county": "West Sussex",
+  "postcode": "BN15 9QZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517667",
+  "northing": "105374",
+  "url": "http://www.boundstone.w-sussex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

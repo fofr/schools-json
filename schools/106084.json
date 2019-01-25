@@ -1,0 +1,18 @@
+{
+  "urn": "106084",
+  "name": "Whitehill Primary School",
+  "address": "Whitehill Street West",
+  "locality": "Heaton Norris",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 1PB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389052",
+  "northing": "391902",
+  "url": "www.whitehill.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

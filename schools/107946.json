@@ -1,0 +1,18 @@
+{
+  "urn": "107946",
+  "name": "Beeston Primary School",
+  "address": "Town Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 8PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "428247",
+  "northing": "430747",
+  "url": "www.beestonprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

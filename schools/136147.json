@@ -1,0 +1,18 @@
+{
+  "urn": "136147",
+  "name": "Aylward Academy",
+  "address": "Windmill Road",
+  "locality": "Enfield",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N18 1NB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "532917",
+  "northing": "192731",
+  "url": "www.aylwardacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

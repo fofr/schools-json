@@ -1,0 +1,18 @@
+{
+  "urn": "141300",
+  "name": "Hampton College",
+  "address": "Eagle Way",
+  "locality": "Hampton Vale",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 8BF",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "517789",
+  "northing": "294391",
+  "url": "www.hamptoncollege.org.uk",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

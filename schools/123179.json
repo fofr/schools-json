@@ -1,0 +1,18 @@
+{
+  "urn": "123179",
+  "name": "St Leonard's Church of England Primary School",
+  "address": "Overthorpe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 4SB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "446754",
+  "northing": "240856",
+  "url": "http://www.st-leonards.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

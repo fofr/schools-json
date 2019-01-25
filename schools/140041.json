@@ -1,0 +1,18 @@
+{
+  "urn": "140041",
+  "name": "Oasis Academy Warndon",
+  "address": "Edgeworth Close",
+  "locality": "Warndon",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR4 9PE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "387403",
+  "northing": "256879",
+  "url": "www.oasisacademywarndon.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140579",
+  "name": "Greenhill Academy",
+  "address": "Harmony Street",
+  "locality": "Glodwick",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL4 1RR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "393145",
+  "northing": "404519",
+  "url": "www.greenhill.theharmonytrust.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

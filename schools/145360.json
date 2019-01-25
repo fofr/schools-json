@@ -1,0 +1,18 @@
+{
+  "urn": "145360",
+  "name": "Roscoe Primary School",
+  "address": "Alison Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L13 9AD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "338398",
+  "northing": "393104",
+  "url": "www.roscoeliverpool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

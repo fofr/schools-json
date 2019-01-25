@@ -1,0 +1,18 @@
+{
+  "urn": "125936",
+  "name": "Warninglid Primary School",
+  "address": "Slaugham Lane",
+  "locality": "Warninglid",
+  "address3": "",
+  "town": "Haywards Heath",
+  "county": "West Sussex",
+  "postcode": "RH17 5TJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "525055",
+  "northing": "126993",
+  "url": "www.warninglidprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

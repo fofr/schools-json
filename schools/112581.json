@@ -1,0 +1,18 @@
+{
+  "urn": "112581",
+  "name": "Cressbrook Primary School",
+  "address": "Cressbrook",
+  "locality": "",
+  "address3": "",
+  "town": "Buxton",
+  "county": "Derbyshire",
+  "postcode": "SK17 8SY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "416927",
+  "northing": "373014",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

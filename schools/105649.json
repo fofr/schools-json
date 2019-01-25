@@ -1,0 +1,18 @@
+{
+  "urn": "105649",
+  "name": "Mather Street Primary School",
+  "address": "Mather Street",
+  "locality": "Failsworth",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M35 0DT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388944",
+  "northing": "401461",
+  "url": "www.matherstreet.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

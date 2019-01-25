@@ -1,0 +1,18 @@
+{
+  "urn": "138764",
+  "name": "Danetree Primary School",
+  "address": "Danetree Road",
+  "locality": "West Ewell",
+  "address3": "",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT19 9SE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "520444",
+  "northing": "163396",
+  "url": "www.danetreeschool.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

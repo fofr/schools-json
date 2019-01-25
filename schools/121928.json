@@ -1,0 +1,18 @@
+{
+  "urn": "121928",
+  "name": "Sunnyside Primary School",
+  "address": "Reynard Way",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN2 8QS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "475763",
+  "northing": "264754",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

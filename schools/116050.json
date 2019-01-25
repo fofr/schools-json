@@ -1,0 +1,18 @@
+{
+  "urn": "116050",
+  "name": "Yateley Infant School",
+  "address": "Cranford Park Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Yateley",
+  "county": "Hampshire",
+  "postcode": "GU46 6LB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "481944",
+  "northing": "160547",
+  "url": "http://www.yateley-inf.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

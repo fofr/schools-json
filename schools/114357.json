@@ -1,0 +1,18 @@
+{
+  "urn": "114357",
+  "name": "Lewes Tutorial Unit",
+  "address": "Mountfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lewes",
+  "county": "East Sussex",
+  "postcode": "BN7 2XH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "541896",
+  "northing": "109790",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145270",
+  "name": "John Clare Primary School",
+  "address": "West Street",
+  "locality": "Helpston",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE6 7DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "511690",
+  "northing": "305388",
+  "url": "www.johnclareschool.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

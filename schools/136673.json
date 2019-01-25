@@ -1,0 +1,18 @@
+{
+  "urn": "136673",
+  "name": "The King's School",
+  "address": "Cadhay Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ottery St Mary",
+  "county": "Devon",
+  "postcode": "EX11 1RA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "308904",
+  "northing": "95323",
+  "url": "http://www.thekings.devon.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

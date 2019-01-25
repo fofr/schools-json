@@ -1,0 +1,18 @@
+{
+  "urn": "137736",
+  "name": "Rosebery School",
+  "address": "White Horse Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT18 7NQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "520081",
+  "northing": "160169",
+  "url": "http://www.roseberyschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

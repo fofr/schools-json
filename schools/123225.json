@@ -1,0 +1,18 @@
+{
+  "urn": "123225",
+  "name": "St Edmund's Catholic Primary School",
+  "address": "Radley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 3PP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450405",
+  "northing": "197648",
+  "url": "www.st-edmunds-rc.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

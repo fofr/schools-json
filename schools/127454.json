@@ -1,0 +1,18 @@
+{
+  "urn": "127454",
+  "name": "Roch Valley High School",
+  "address": "Cornfield Street",
+  "locality": "Milnrow",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL16 3DR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "393309",
+  "northing": "412474",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "129808",
+  "name": "The Manor School",
+  "address": "Crescent Road",
+  "locality": "Hadley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 6JZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "367131",
+  "northing": "312979",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

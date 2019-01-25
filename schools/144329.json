@@ -1,0 +1,18 @@
+{
+  "urn": "144329",
+  "name": "Springfield Junior School",
+  "address": "Kitchener Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP1 4DT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "614838",
+  "northing": "245641",
+  "url": "http://www.springfieldjuniors.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

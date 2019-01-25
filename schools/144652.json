@@ -1,0 +1,18 @@
+{
+  "urn": "144652",
+  "name": "York High School",
+  "address": "Cornlands Road",
+  "locality": "",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO24 3WZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "457213",
+  "northing": "450630",
+  "url": "www.yorkhighschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

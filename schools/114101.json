@@ -1,0 +1,18 @@
+{
+  "urn": "114101",
+  "name": "Aycliffe Village Primary School",
+  "address": "North Terrace",
+  "locality": "Aycliffe Village",
+  "address3": "",
+  "town": "Newton Aycliffe",
+  "county": "County Durham",
+  "postcode": "DL5 6LG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "428470",
+  "northing": "522677",
+  "url": "www.aycliffevillage.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

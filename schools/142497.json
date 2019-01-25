@@ -1,0 +1,18 @@
+{
+  "urn": "142497",
+  "name": "New Park Primary Academy",
+  "address": "Skipton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG1 3HF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429630",
+  "northing": "456860",
+  "url": "www.newparkacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

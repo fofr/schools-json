@@ -1,0 +1,18 @@
+{
+  "urn": "123038",
+  "name": "Sonning Common Primary School",
+  "address": "Grove Road",
+  "locality": "Sonning Common",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG4 9RJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "470927",
+  "northing": "180065",
+  "url": "http://sonningcommonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

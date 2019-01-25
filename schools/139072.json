@@ -1,0 +1,18 @@
+{
+  "urn": "139072",
+  "name": "University Academy Warrington",
+  "address": "Insall Road",
+  "locality": "Padgate",
+  "address3": "",
+  "town": "Warrington",
+  "county": "",
+  "postcode": "WA2 0LN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "362846",
+  "northing": "390564",
+  "url": "http://www.uawarrington.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

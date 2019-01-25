@@ -1,0 +1,18 @@
+{
+  "urn": "138566",
+  "name": "Bradford Studio School",
+  "address": "88 Thornton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD1 2DX",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "415927",
+  "northing": "433049",
+  "url": "http://www.bradfordstudioschool.co.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

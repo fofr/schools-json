@@ -1,0 +1,18 @@
+{
+  "urn": "106294",
+  "name": "Willows Primary School",
+  "address": "Victoria Road",
+  "locality": "Timperley",
+  "address3": "",
+  "town": "Altrincham",
+  "county": "Cheshire",
+  "postcode": "WA15 6PP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "378093",
+  "northing": "388918",
+  "url": "www.willowstimperley.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

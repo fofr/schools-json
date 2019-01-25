@@ -1,0 +1,18 @@
+{
+  "urn": "123039",
+  "name": "South Stoke Primary School",
+  "address": "The Street",
+  "locality": "South Stoke",
+  "address3": "",
+  "town": "",
+  "county": "Oxfordshire",
+  "postcode": "RG8 0JS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "459905",
+  "northing": "183560",
+  "url": "www.southstokeschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

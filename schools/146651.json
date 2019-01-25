@@ -1,0 +1,18 @@
+{
+  "urn": "146651",
+  "name": "Stockton Riverside College",
+  "address": "Harvard Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "",
+  "postcode": "TS17 6FB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "445422",
+  "northing": "518783",
+  "url": "www.stockton.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

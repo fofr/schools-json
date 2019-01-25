@@ -1,0 +1,18 @@
+{
+  "urn": "131236",
+  "name": "James Elliman School",
+  "address": "Elliman Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL2 5BA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "497507",
+  "northing": "180969",
+  "url": "http://www.jameselliman.slough.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

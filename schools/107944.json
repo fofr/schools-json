@@ -1,0 +1,18 @@
+{
+  "urn": "107944",
+  "name": "Swarcliffe Primary School",
+  "address": "Swarcliffe Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS14 5JW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "436250",
+  "northing": "436171",
+  "url": "www.swarcliffeprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

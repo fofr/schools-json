@@ -1,0 +1,18 @@
+{
+  "urn": "143468",
+  "name": "Byfield School",
+  "address": "Bell Lane",
+  "locality": "Byfield",
+  "address3": "",
+  "town": "Daventry",
+  "county": "Northamptonshire",
+  "postcode": "NN11 6US",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "451507",
+  "northing": "253022",
+  "url": "www.byfieldschool.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

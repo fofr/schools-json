@@ -1,0 +1,18 @@
+{
+  "urn": "142856",
+  "name": "West Craven High School",
+  "address": "Kelbrook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Barnoldswick",
+  "county": "Lancashire",
+  "postcode": "BB18 5TB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "388265",
+  "northing": "446270",
+  "url": "http://www.westcraven.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140575",
+  "name": "Beal High School",
+  "address": "Woodford Bridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG4 5LP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "542242",
+  "northing": "189440",
+  "url": "www.bealhighschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111507",
+  "name": "Springfield School",
+  "address": "Crewe Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW1 5HS",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "372092",
+  "northing": "355377",
+  "url": "http://www.springfield.cheshire.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

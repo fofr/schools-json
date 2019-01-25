@@ -1,0 +1,18 @@
+{
+  "urn": "125029",
+  "name": "Shawfield Primary School",
+  "address": "Winchester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ash",
+  "county": "Surrey",
+  "postcode": "GU12 6SX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "489202",
+  "northing": "151371",
+  "url": "www.shawfield.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

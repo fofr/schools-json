@@ -1,0 +1,18 @@
+{
+  "urn": "103036",
+  "name": "Whitehall Primary School",
+  "address": "Normanton Park",
+  "locality": "Chingford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E4 6ES",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539324",
+  "northing": "193740",
+  "url": "www.whitehallprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

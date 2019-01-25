@@ -1,0 +1,18 @@
+{
+  "urn": "116651",
+  "name": "Badsey First School",
+  "address": "School Lane",
+  "locality": "Badsey",
+  "address3": "",
+  "town": "Evesham",
+  "county": "Worcestershire",
+  "postcode": "WR11 7ES",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "407117",
+  "northing": "242972",
+  "url": "www.badseyfirst.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

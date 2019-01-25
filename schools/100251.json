@@ -1,0 +1,18 @@
+{
+  "urn": "100251",
+  "name": "Sir Thomas Abney School",
+  "address": "Fairholt Road",
+  "locality": "Stoke Newington",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N16 5ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533018",
+  "northing": "187474",
+  "url": "www.sirthomasabney.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

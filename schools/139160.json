@@ -1,0 +1,18 @@
+{
+  "urn": "139160",
+  "name": "Mark Rutherford School",
+  "address": "Wentworth Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK41 8PX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "507184",
+  "northing": "252374",
+  "url": "http://www.markrutherford.beds.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

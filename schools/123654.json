@@ -1,0 +1,18 @@
+{
+  "urn": "123654",
+  "name": "Merriott First School",
+  "address": "Church Street",
+  "locality": "",
+  "address3": "",
+  "town": "Merriott",
+  "county": "Somerset",
+  "postcode": "TA16 5PT",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "344177",
+  "northing": "112784",
+  "url": "https://slp5.somerset.org.uk/webs/merriott/SitePages/Home.aspx",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124994",
+  "name": "Oatlands School",
+  "address": "Oatlands School",
+  "locality": "Oatlands School, St. Marys Road",
+  "address3": "St. Marys Road",
+  "town": "Weybridge",
+  "county": "Surrey",
+  "postcode": "KT13 9PZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "508835",
+  "northing": "164783",
+  "url": "www.oatlands.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

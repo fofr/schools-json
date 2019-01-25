@@ -1,0 +1,18 @@
+{
+  "urn": "116678",
+  "name": "Hagley Primary School",
+  "address": "Park Road",
+  "locality": "Hagley",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY9 0NS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "390812",
+  "northing": "280487",
+  "url": "www.hagleyprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

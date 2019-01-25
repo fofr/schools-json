@@ -1,0 +1,18 @@
+{
+  "urn": "133044",
+  "name": "Lancashire Education Medical Services",
+  "address": "Childrens Ward 7 Royal Preston Hospital",
+  "locality": "Sharoe Green Lane",
+  "address3": "Fulwood",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 9HT",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "353686",
+  "northing": "432958",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Miscellaneous"
+}

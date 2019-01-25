@@ -1,0 +1,18 @@
+{
+  "urn": "112612",
+  "name": "Ripley Infant School",
+  "address": "Kirk Close",
+  "locality": "Off Highfield Way",
+  "address3": "",
+  "town": "Ripley",
+  "county": "Derbyshire",
+  "postcode": "DE5 3RY",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "439558",
+  "northing": "349811",
+  "url": "ripley-inf.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135685",
+  "name": "The Bulwell Academy",
+  "address": "Squires Avenue",
+  "locality": "",
+  "address3": "Bulwell",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG6 8HG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "454163",
+  "northing": "345751",
+  "url": "http://www.bulwellacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

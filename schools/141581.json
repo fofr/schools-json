@@ -1,0 +1,18 @@
+{
+  "urn": "141581",
+  "name": "The Banovallum School",
+  "address": "Boston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Horncastle",
+  "county": "Lincolnshire",
+  "postcode": "LN9 6DA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "526368",
+  "northing": "368958",
+  "url": "www.banovallumschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

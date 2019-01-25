@@ -1,0 +1,18 @@
+{
+  "urn": "137827",
+  "name": "St Edmund's Girls' School",
+  "address": "Church Road",
+  "locality": "Laverstock",
+  "address3": "",
+  "town": "Salisbury",
+  "county": "Wiltshire",
+  "postcode": "SP1 1RD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "416112",
+  "northing": "131232",
+  "url": "www.st-edmunds.eu",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

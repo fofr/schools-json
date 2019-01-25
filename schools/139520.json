@@ -1,0 +1,18 @@
+{
+  "urn": "139520",
+  "name": "Hill West Primary School",
+  "address": "Clarence Road",
+  "locality": "Four Oaks",
+  "address3": "",
+  "town": "Sutton Coldfield",
+  "county": "West Midlands",
+  "postcode": "B74 4LD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "410721",
+  "northing": "299761",
+  "url": "www.hillwest.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

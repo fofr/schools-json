@@ -1,0 +1,18 @@
+{
+  "urn": "110245",
+  "name": "New Bradwell School",
+  "address": "Bounty Street",
+  "locality": "New Bradwell",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK13 0BQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "482813",
+  "northing": "241263",
+  "url": "http://www.newbradwellschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

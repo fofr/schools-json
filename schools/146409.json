@@ -1,0 +1,18 @@
+{
+  "urn": "146409",
+  "name": "Westfield Primary School",
+  "address": "Longfellow Road",
+  "locality": "Westfield",
+  "address3": "",
+  "town": "Radstock",
+  "county": "Avon",
+  "postcode": "BA3 3XX",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "367277",
+  "northing": "153867",
+  "url": "www.westfieldprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

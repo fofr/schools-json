@@ -1,0 +1,18 @@
+{
+  "urn": "140257",
+  "name": "Highfield Junior School",
+  "address": "South Hill Road",
+  "locality": "Shortlands",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR2 0RL",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "539328",
+  "northing": "168292",
+  "url": "www.highfield-jun.bromley.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

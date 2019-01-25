@@ -1,0 +1,18 @@
+{
+  "urn": "112956",
+  "name": "Littleover Community School",
+  "address": "Pastures Hill",
+  "locality": "Littleover",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE23 4BZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "432007",
+  "northing": "333693",
+  "url": "http://www.littleover.derby.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

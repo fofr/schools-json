@@ -1,0 +1,18 @@
+{
+  "urn": "123550",
+  "name": "Worfield Endowed CofE Primary School",
+  "address": "Main Street",
+  "locality": "Worfield",
+  "address3": "",
+  "town": "Bridgnorth",
+  "county": "Shropshire",
+  "postcode": "WV15 5LF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "375908",
+  "northing": "295661",
+  "url": "www.worfield.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

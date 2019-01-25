@@ -1,0 +1,18 @@
+{
+  "urn": "144686",
+  "name": "Stanstead Nursery and Primary School",
+  "address": "Stanstead Avenue",
+  "locality": "Rise Park",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 5BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454988",
+  "northing": "345906",
+  "url": "www.stansteadprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

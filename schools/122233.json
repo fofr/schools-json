@@ -1,0 +1,18 @@
+{
+  "urn": "122233",
+  "name": "Kielder Community First School",
+  "address": "Kielder",
+  "locality": "",
+  "address3": "",
+  "town": "Hexham",
+  "county": "Northumberland",
+  "postcode": "NE48 1HQ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "363240",
+  "northing": "593225",
+  "url": "www.kielderfirstschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

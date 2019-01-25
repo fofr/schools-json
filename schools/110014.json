@@ -1,0 +1,18 @@
+{
+  "urn": "110014",
+  "name": "The Royal First School",
+  "address": "The Great Park",
+  "locality": "",
+  "address3": "",
+  "town": "Windsor",
+  "county": "Berkshire",
+  "postcode": "SL4 2HP",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "496884",
+  "northing": "171457",
+  "url": "www.theroyalschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

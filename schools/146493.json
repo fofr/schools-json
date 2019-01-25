@@ -1,0 +1,18 @@
+{
+  "urn": "146493",
+  "name": "Nether Stowe School",
+  "address": "St Chad's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lichfield",
+  "county": "Staffordshire",
+  "postcode": "WS13 7NB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "412064",
+  "northing": "310341",
+  "url": "www.netherstowe.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

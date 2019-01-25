@@ -1,0 +1,18 @@
+{
+  "urn": "113201",
+  "name": "Exminster Community Primary",
+  "address": "Exminster",
+  "locality": "",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX6 8AJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "294408",
+  "northing": "87756",
+  "url": "www.exminster-primary.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

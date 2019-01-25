@@ -1,0 +1,18 @@
+{
+  "urn": "111808",
+  "name": "Ludgvan Community Primary School",
+  "address": "Lower Quarter",
+  "locality": "Ludgvan",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR20 8EX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "151348",
+  "northing": "33098",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142210",
+  "name": "St Dominic's Catholic Primary School",
+  "address": "Margaret Street",
+  "locality": "",
+  "address3": "",
+  "town": "Stone",
+  "county": "Staffordshire",
+  "postcode": "ST15 8YG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "389997",
+  "northing": "334038",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121414",
+  "name": "Selby Community Primary School",
+  "address": "Flaxley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Selby",
+  "county": "North Yorkshire",
+  "postcode": "YO8 4DL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "460815",
+  "northing": "432512",
+  "url": "http://www.selby-pri.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

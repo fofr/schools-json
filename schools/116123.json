@@ -1,0 +1,18 @@
+{
+  "urn": "116123",
+  "name": "Redbridge Primary School",
+  "address": "Studland Road",
+  "locality": "Millbrook",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 9BB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "437596",
+  "northing": "114073",
+  "url": "http://www.redbridgeprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

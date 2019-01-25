@@ -1,0 +1,18 @@
+{
+  "urn": "132018",
+  "name": "Bilston Nursery School",
+  "address": "Wolverhampton Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 0LT",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "394445",
+  "northing": "296345",
+  "url": "www.bilstonnurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

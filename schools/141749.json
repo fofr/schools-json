@@ -1,0 +1,18 @@
+{
+  "urn": "141749",
+  "name": "South Devon UTC",
+  "address": "Kingsteignton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newton Abbot",
+  "county": "Devon",
+  "postcode": "TQ12 2QA",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "286290",
+  "northing": "71666",
+  "url": "https://southdevonutc.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "133783",
+  "name": "University of Hertfordshire",
+  "address": "Hatfield Campus",
+  "locality": "College Lane",
+  "address3": "",
+  "town": "Hatfield",
+  "county": "Hertfordshire",
+  "postcode": "AL10 9AB",
+  "minimum_age": "",
+  "maximum_age": "",
+  "easting": "521435",
+  "northing": "207482",
+  "url": "http://www.herts.ac.uk",
+  "phase": "Not applicable",
+  "type": "Universities",
+  "detailed_type": "Higher education institutions"
+}

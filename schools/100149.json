@@ -1,0 +1,18 @@
+{
+  "urn": "100149",
+  "name": "Montbelle Primary School",
+  "address": "Milverton Way",
+  "locality": "Eltham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 3EY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "543480",
+  "northing": "171884",
+  "url": "www.montbelle.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

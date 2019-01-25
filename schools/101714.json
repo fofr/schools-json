@@ -1,0 +1,18 @@
+{
+  "urn": "101714",
+  "name": "Cypress Junior School",
+  "address": "32 Cypress Road",
+  "locality": "South Norwood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE25 4AU",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "533434",
+  "northing": "169277",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

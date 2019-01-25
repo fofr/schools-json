@@ -1,0 +1,18 @@
+{
+  "urn": "141071",
+  "name": "Whitefriars School",
+  "address": "Whitefriars Avenue",
+  "locality": "Wealdstone",
+  "address3": "",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA3 5RQ",
+  "minimum_age": "3",
+  "maximum_age": "16",
+  "easting": "515030",
+  "northing": "190087",
+  "url": "www.whitefriarsschool.net",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

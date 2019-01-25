@@ -1,0 +1,18 @@
+{
+  "urn": "119405",
+  "name": "Banks Methodist School",
+  "address": "Chapel Lane",
+  "locality": "Banks",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR9 8EY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "339629",
+  "northing": "421001",
+  "url": "http://www.banks.lancsngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

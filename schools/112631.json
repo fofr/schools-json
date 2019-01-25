@@ -1,0 +1,18 @@
+{
+  "urn": "112631",
+  "name": "Sudbury Primary School",
+  "address": "School Lane",
+  "locality": "Sudbury",
+  "address3": "",
+  "town": "Ashbourne",
+  "county": "Derbyshire",
+  "postcode": "DE6 5HZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "416083",
+  "northing": "331968",
+  "url": "http://www.sudbury.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

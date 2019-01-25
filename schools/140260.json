@@ -1,0 +1,18 @@
+{
+  "urn": "140260",
+  "name": "Cheam Park Farm Primary Academy",
+  "address": "Molesey Drive",
+  "locality": "Cheam",
+  "address3": "",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM3 9UU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "524385",
+  "northing": "165473",
+  "url": "www.cheamparkfarmprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

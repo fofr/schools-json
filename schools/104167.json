@@ -1,0 +1,18 @@
+{
+  "urn": "104167",
+  "name": "Mossley Infant School",
+  "address": "Mossley Lane",
+  "locality": "Bloxwich",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 2SF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "398750",
+  "northing": "302565",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

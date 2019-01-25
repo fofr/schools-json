@@ -1,0 +1,18 @@
+{
+  "urn": "138748",
+  "name": "Ling Moor Primary Academy",
+  "address": "Richmond Drive",
+  "locality": "North Hykeham",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN6 8QZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "494393",
+  "northing": "367145",
+  "url": "http://www.ling-moor.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

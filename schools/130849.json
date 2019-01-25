@@ -1,0 +1,18 @@
+{
+  "urn": "130849",
+  "name": "Swindon College",
+  "address": "North Star Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN2 1DY",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "414823",
+  "northing": "185525",
+  "url": "http://www.swindon.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

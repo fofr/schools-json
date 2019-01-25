@@ -1,0 +1,18 @@
+{
+  "urn": "142426",
+  "name": "Hammond School",
+  "address": "Badger Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Lightwater",
+  "county": "Surrey",
+  "postcode": "GU18 5TS",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "492090",
+  "northing": "162148",
+  "url": "http://www.hammondjuniorschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110731",
+  "name": "Welland Primary School",
+  "address": "Scalford Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE1 4TR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "520388",
+  "northing": "301565",
+  "url": "http://www.wellandprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

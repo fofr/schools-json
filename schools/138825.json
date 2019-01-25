@@ -1,0 +1,18 @@
+{
+  "urn": "138825",
+  "name": "Grey Court School",
+  "address": "Ham Street",
+  "locality": "Ham",
+  "address3": "",
+  "town": "Richmond",
+  "county": "Surrey",
+  "postcode": "TW10 7HN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517406",
+  "northing": "172452",
+  "url": "http://www.greycourt.richmond.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

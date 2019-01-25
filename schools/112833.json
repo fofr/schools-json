@@ -1,0 +1,18 @@
+{
+  "urn": "112833",
+  "name": "Kirk Langley CofE Primary School",
+  "address": "Moor Lane",
+  "locality": "Kirk Langley",
+  "address3": "",
+  "town": "Ashbourne",
+  "county": "Derbyshire",
+  "postcode": "DE6 4LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "428908",
+  "northing": "338737",
+  "url": "http://www.kirklangley.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123405",
+  "name": "Woore Primary and Nursery School",
+  "address": "London Road",
+  "locality": "Woore",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW3 9SQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "373055",
+  "northing": "342111",
+  "url": "www.woore.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

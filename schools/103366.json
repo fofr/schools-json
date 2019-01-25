@@ -1,0 +1,18 @@
+{
+  "urn": "103366",
+  "name": "Tame Valley Community School",
+  "address": "Chillinghome Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B36 8QJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412684",
+  "northing": "289875",
+  "url": "http://tamevalley.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135019",
+  "name": "Woodfall Primary School",
+  "address": "Woodfall Lane",
+  "locality": "Little Neston",
+  "address3": "",
+  "town": "Neston",
+  "county": "Cheshire",
+  "postcode": "CH64 4BT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "330306",
+  "northing": "376564",
+  "url": "www.woodfall.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

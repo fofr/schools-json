@@ -1,0 +1,18 @@
+{
+  "urn": "100124",
+  "name": "Eglinton Infant School",
+  "address": "Paget Rise",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 3PY",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "543464",
+  "northing": "177512",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

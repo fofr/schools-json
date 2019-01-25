@@ -1,0 +1,18 @@
+{
+  "urn": "102969",
+  "name": "Hackbridge Primary School",
+  "address": "Hackbridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wallington",
+  "county": "Surrey",
+  "postcode": "SM6 7AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528356",
+  "northing": "165994",
+  "url": "www.hackbridgeprimary.sutton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

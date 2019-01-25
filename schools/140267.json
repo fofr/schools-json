@@ -1,0 +1,18 @@
+{
+  "urn": "140267",
+  "name": "Redfield Educate Together Primary Academy",
+  "address": "Avonvale Road",
+  "locality": "Redfield",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS5 9RH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "361525",
+  "northing": "173356",
+  "url": "http://www.redfieldet.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

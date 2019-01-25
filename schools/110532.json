@@ -1,0 +1,18 @@
+{
+  "urn": "110532",
+  "name": "The Radcliffe School",
+  "address": "Aylesbury Street West",
+  "locality": "Wolverton",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK12 5BT",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "480805",
+  "northing": "240797",
+  "url": "http://radcliffeschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

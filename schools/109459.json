@@ -1,0 +1,18 @@
+{
+  "urn": "109459",
+  "name": "Houghton Regis Primary School",
+  "address": "St Michael's Avenue",
+  "locality": "Houghton Regis",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 5DH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "501480",
+  "northing": "223802",
+  "url": "www.houghtonregisprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

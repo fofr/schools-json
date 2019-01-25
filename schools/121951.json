@@ -1,0 +1,18 @@
+{
+  "urn": "121951",
+  "name": "Barton Seagrave Primary School",
+  "address": "Belvoir Drive",
+  "locality": "Barton Seagrave",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN15 6QY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "489083",
+  "northing": "276675",
+  "url": "www.bartonseagraveprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

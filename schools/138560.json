@@ -1,0 +1,18 @@
+{
+  "urn": "138560",
+  "name": "Pennyman Primary Academy",
+  "address": "Fulbeck Road",
+  "locality": "Ormesby",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "Cleveland",
+  "postcode": "TS3 0QS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453197",
+  "northing": "517830",
+  "url": "pennyman.teesvalleyeducation.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

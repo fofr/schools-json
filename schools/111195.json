@@ -1,0 +1,18 @@
+{
+  "urn": "111195",
+  "name": "Twiss Green Community Primary School",
+  "address": "Twiss Green Lane",
+  "locality": "Culcheth",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA3 4DQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "365252",
+  "northing": "395830",
+  "url": "www.twiss-green.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

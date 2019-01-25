@@ -1,0 +1,18 @@
+{
+  "urn": "102661",
+  "name": "William Morris Primary School",
+  "address": "Recreation Way",
+  "locality": "",
+  "address3": "",
+  "town": "Mitcham",
+  "county": "Surrey",
+  "postcode": "CR4 1PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529940",
+  "northing": "168652",
+  "url": "www.swmf.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

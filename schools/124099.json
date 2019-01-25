@@ -1,0 +1,18 @@
+{
+  "urn": "124099",
+  "name": "Westwood First School",
+  "address": "Westwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leek",
+  "county": "Staffordshire",
+  "postcode": "ST13 8DL",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "397394",
+  "northing": "356386",
+  "url": "www.westwoodfirst.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

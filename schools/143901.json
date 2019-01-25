@@ -1,0 +1,18 @@
+{
+  "urn": "143901",
+  "name": "The Ashcombe School",
+  "address": "Ashcombe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dorking",
+  "county": "Surrey",
+  "postcode": "RH4 1LY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "516706",
+  "northing": "150165",
+  "url": "http://www.ashcombe.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

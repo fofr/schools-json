@@ -1,0 +1,18 @@
+{
+  "urn": "120833",
+  "name": "Mattishall First School",
+  "address": "Dereham Road",
+  "locality": "Mattishall",
+  "address3": "",
+  "town": "Dereham",
+  "county": "Norfolk",
+  "postcode": "NR20 3AA",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "605051",
+  "northing": "311051",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137799",
+  "name": "Humphrey Perkins School",
+  "address": "Cotes Road",
+  "locality": "Barrow-upon-Soar",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 8JU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "457331",
+  "northing": "317868",
+  "url": "www.humphreyperkins.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

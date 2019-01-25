@@ -1,0 +1,18 @@
+{
+  "urn": "140633",
+  "name": "The Excel Academy",
+  "address": "Milton Road",
+  "locality": "Sneyd Green",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST1 6LG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "389550",
+  "northing": "349865",
+  "url": "http://www.excelacademy.info/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

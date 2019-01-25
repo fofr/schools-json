@@ -1,0 +1,18 @@
+{
+  "urn": "145343",
+  "name": "Holsworthy Community College",
+  "address": "Victoria Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Holsworthy",
+  "county": "Devon",
+  "postcode": "EX22 6JD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "234162",
+  "northing": "104059",
+  "url": "http://www.hcc.devon.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

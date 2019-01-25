@@ -1,0 +1,18 @@
+{
+  "urn": "117517",
+  "name": "The Heathcote School",
+  "address": "Shephall Green",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG2 9XT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "525420",
+  "northing": "222852",
+  "url": "http://www.heathcote.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

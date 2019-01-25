@@ -1,0 +1,18 @@
+{
+  "urn": "125101",
+  "name": "Englefield Green Infant School and Nurseries",
+  "address": "Barley Mow Road",
+  "locality": "Englefield Green",
+  "address3": "",
+  "town": "Egham",
+  "county": "Surrey",
+  "postcode": "TW20 0NP",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "499429",
+  "northing": "171262",
+  "url": "http://www.englefield-green.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

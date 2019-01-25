@@ -1,0 +1,18 @@
+{
+  "urn": "131528",
+  "name": "Chesterfield Primary School",
+  "address": "Chesterfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN3 6BG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "536204",
+  "northing": "198589",
+  "url": "www.chesterfieldschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

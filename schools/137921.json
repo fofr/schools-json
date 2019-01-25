@@ -1,0 +1,18 @@
+{
+  "urn": "137921",
+  "name": "Gillotts School",
+  "address": "Gillotts Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Henley-on-Thames",
+  "county": "Oxfordshire",
+  "postcode": "RG9 1PS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "474927",
+  "northing": "181205",
+  "url": "www.gillotts.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

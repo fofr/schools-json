@@ -1,0 +1,18 @@
+{
+  "urn": "125099",
+  "name": "Busbridge Infant School",
+  "address": "Hambledon Road",
+  "locality": "Busbridge",
+  "address3": "",
+  "town": "Godalming",
+  "county": "Surrey",
+  "postcode": "GU7 1PJ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "497862",
+  "northing": "142716",
+  "url": "http://www.busbridge-infant.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123984",
+  "name": "Milton Primary School",
+  "address": "Leek Road",
+  "locality": "Milton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 7AF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390756",
+  "northing": "350137",
+  "url": "http://learningvillage.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

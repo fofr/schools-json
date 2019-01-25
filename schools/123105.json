@@ -1,0 +1,18 @@
+{
+  "urn": "123105",
+  "name": "Clanfield CofE Primary School",
+  "address": "Main Street",
+  "locality": "Clanfield",
+  "address3": "",
+  "town": "Bampton",
+  "county": "Oxfordshire",
+  "postcode": "OX18 2SP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "428521",
+  "northing": "201659",
+  "url": "http://www.clanfield.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

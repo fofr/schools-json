@@ -1,0 +1,18 @@
+{
+  "urn": "123556",
+  "name": "St Mary's Catholic Primary School",
+  "address": "Coronation Crescent",
+  "locality": "Madeley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 5EJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "369753",
+  "northing": "304629",
+  "url": "www.stmarysmadeley.taw.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

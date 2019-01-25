@@ -1,0 +1,18 @@
+{
+  "urn": "123128",
+  "name": "Lewknor Church of England Primary School",
+  "address": "High Street",
+  "locality": "Lewknor",
+  "address3": "",
+  "town": "Watlington",
+  "county": "Oxfordshire",
+  "postcode": "OX49 5TH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "471607",
+  "northing": "197628",
+  "url": "www.lewknor.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

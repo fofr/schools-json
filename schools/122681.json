@@ -1,0 +1,18 @@
+{
+  "urn": "122681",
+  "name": "Willoughby Primary School",
+  "address": "Church Lane",
+  "locality": "Willoughby-on-the-Wolds",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 6SS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "463434",
+  "northing": "325341",
+  "url": "www.willoughby.notts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

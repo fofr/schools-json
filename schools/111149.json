@@ -1,0 +1,18 @@
+{
+  "urn": "111149",
+  "name": "Christleton Primary School",
+  "address": "Quarry Lane",
+  "locality": "Christleton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH3 7AY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "344057",
+  "northing": "365478",
+  "url": "www.christletonprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

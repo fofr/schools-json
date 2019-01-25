@@ -1,0 +1,18 @@
+{
+  "urn": "109430",
+  "name": "Raleigh School",
+  "address": "Ampthill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 9HE",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "504926",
+  "northing": "248861",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

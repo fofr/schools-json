@@ -1,0 +1,18 @@
+{
+  "urn": "145604",
+  "name": "Lambourne Primary School",
+  "address": "Hoe Lane",
+  "locality": "Abridge",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM4 1AU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "546641",
+  "northing": "196485",
+  "url": "www.lambourne.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

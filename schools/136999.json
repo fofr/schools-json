@@ -1,0 +1,18 @@
+{
+  "urn": "136999",
+  "name": "Charlton Kings Infants' School",
+  "address": "Lyefield Road East",
+  "locality": "Charlton Kings",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL53 8AY",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "396608",
+  "northing": "220513",
+  "url": "http://www.ckis.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

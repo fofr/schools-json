@@ -1,0 +1,18 @@
+{
+  "urn": "139039",
+  "name": "Preston Hedges Primary School",
+  "address": "Wootton Hope Drive",
+  "locality": "Wootton Fields",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN4 6BU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "476753",
+  "northing": "256719",
+  "url": "http://www.prestonhedges.northants.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

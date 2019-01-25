@@ -1,0 +1,18 @@
+{
+  "urn": "137600",
+  "name": "Stamford Welland Academy",
+  "address": "Green Lane",
+  "locality": "",
+  "address3": "Stamford Welland Academy",
+  "town": "Stamford",
+  "county": "Lincolnshire",
+  "postcode": "PE9 1HE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "502891",
+  "northing": "307976",
+  "url": "http://www.stamfordwellandacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

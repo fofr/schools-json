@@ -1,0 +1,18 @@
+{
+  "urn": "107256",
+  "name": "Harden Primary School",
+  "address": "Long Lane",
+  "locality": "Harden",
+  "address3": "",
+  "town": "Bingley",
+  "county": "West Yorkshire",
+  "postcode": "BD16 1LJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "408521",
+  "northing": "438290",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

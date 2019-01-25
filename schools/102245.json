@@ -1,0 +1,18 @@
+{
+  "urn": "102245",
+  "name": "Harrow School",
+  "address": "5 High Street",
+  "locality": "",
+  "address3": "",
+  "town": "Harrow-on-the-Hill",
+  "county": "Middlesex",
+  "postcode": "HA1 3HP",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "515319",
+  "northing": "187244",
+  "url": "www.harrowschool.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116117",
+  "name": "Mansbridge Primary School",
+  "address": "Octavia Road",
+  "locality": "Swaythling",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO18 2LX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "444423",
+  "northing": "115783",
+  "url": "www.mansbridgepri.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

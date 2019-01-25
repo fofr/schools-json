@@ -1,0 +1,18 @@
+{
+  "urn": "136295",
+  "name": "Holyrood Academy",
+  "address": "Zembard Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chard",
+  "county": "Somerset",
+  "postcode": "TA20 1JL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "332167",
+  "northing": "108946",
+  "url": "http://www.holyroodacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

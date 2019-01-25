@@ -1,0 +1,18 @@
+{
+  "urn": "103272",
+  "name": "Short Heath Primary School",
+  "address": "Streetly Road",
+  "locality": "Erdington",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B23 5JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "409689",
+  "northing": "292925",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

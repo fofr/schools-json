@@ -1,0 +1,18 @@
+{
+  "urn": "140060",
+  "name": "Newnham Primary School",
+  "address": "School Hill",
+  "locality": "Newnham",
+  "address3": "",
+  "town": "Daventry",
+  "county": "Northamptonshire",
+  "postcode": "NN11 3HG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "457912",
+  "northing": "259640",
+  "url": "http://www.newnhamacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

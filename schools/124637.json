@@ -1,0 +1,18 @@
+{
+  "urn": "124637",
+  "name": "Pakefield Primary School",
+  "address": "London Road",
+  "locality": "Pakefield",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR33 7AQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "653407",
+  "northing": "290163",
+  "url": "http://www.pakefieldprimary.suffolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

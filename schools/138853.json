@@ -1,0 +1,18 @@
+{
+  "urn": "138853",
+  "name": "Woodchurch High School",
+  "address": "Carr Bridge Road",
+  "locality": "Woodchurch",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH49 7NG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "328525",
+  "northing": "387059",
+  "url": "www.woodchurchhigh.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

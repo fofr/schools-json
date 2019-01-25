@@ -1,0 +1,18 @@
+{
+  "urn": "102854",
+  "name": "Woodbridge High School",
+  "address": "St Barnabas Road",
+  "locality": "",
+  "address3": "",
+  "town": "Woodford Green",
+  "county": "Essex",
+  "postcode": "IG8 7DQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "540912",
+  "northing": "191083",
+  "url": "http://www.woodbridgehigh.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

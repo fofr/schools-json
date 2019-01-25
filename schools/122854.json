@@ -1,0 +1,18 @@
+{
+  "urn": "122854",
+  "name": "Chilwell School",
+  "address": "Queen's Road West",
+  "locality": "Chilwell",
+  "address3": "Beeston",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG9 5AL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "451769",
+  "northing": "335230",
+  "url": "http://www.chilwellschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

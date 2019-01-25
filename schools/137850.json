@@ -1,0 +1,18 @@
+{
+  "urn": "137850",
+  "name": "Goldsworth Primary School",
+  "address": "Bridge Barn Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 6NL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "499380",
+  "northing": "158441",
+  "url": "www.goldsworthprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

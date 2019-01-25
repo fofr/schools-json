@@ -1,0 +1,18 @@
+{
+  "urn": "141526",
+  "name": "Queen Elizabeth's School",
+  "address": "Blandford Road",
+  "locality": "Pamphill",
+  "address3": "",
+  "town": "Wimborne",
+  "county": "Dorset",
+  "postcode": "BH21 4DT",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "399855",
+  "northing": "100731",
+  "url": "http://www.qe.dorset.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143311",
+  "name": "Beechwood Primary Academy",
+  "address": "31 Rockfield Avenue",
+  "locality": "Southway",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 6DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "248636",
+  "northing": "60852",
+  "url": "www.discoverymat.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

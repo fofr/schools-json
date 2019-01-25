@@ -1,0 +1,18 @@
+{
+  "urn": "120678",
+  "name": "Spalding Primary School",
+  "address": "Woolram Wygate",
+  "locality": "",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE11 1PB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "523955",
+  "northing": "323425",
+  "url": "http://www.spalding-pri.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

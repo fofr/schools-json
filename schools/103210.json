@@ -1,0 +1,18 @@
+{
+  "urn": "103210",
+  "name": "Hall Green Infant School",
+  "address": "Petersfield Road",
+  "locality": "Hall Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B28 0AR",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "410606",
+  "northing": "281472",
+  "url": "www.hallgreeninfant.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

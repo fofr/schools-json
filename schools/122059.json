@@ -1,0 +1,18 @@
+{
+  "urn": "122059",
+  "name": "Wollaston School",
+  "address": "Irchester Road",
+  "locality": "Wollaston",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN29 7PH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "491382",
+  "northing": "262915",
+  "url": "www.wollastonschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

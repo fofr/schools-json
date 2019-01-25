@@ -1,0 +1,18 @@
+{
+  "urn": "111277",
+  "name": "Mobberley CofE Primary School",
+  "address": "Church Lane",
+  "locality": "Mobberley",
+  "address3": "",
+  "town": "Knutsford",
+  "county": "Cheshire",
+  "postcode": "WA16 7RA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "379104",
+  "northing": "380276",
+  "url": "www.mobberley.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

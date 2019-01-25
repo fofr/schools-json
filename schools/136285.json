@@ -1,0 +1,18 @@
+{
+  "urn": "136285",
+  "name": "Seaton Academy",
+  "address": "High Seaton",
+  "locality": "",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 1NP",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "301792",
+  "northing": "530821",
+  "url": "http://www.seatonacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

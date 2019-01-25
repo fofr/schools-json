@@ -1,0 +1,18 @@
+{
+  "urn": "123539",
+  "name": "Claverley CofE Primary School",
+  "address": "Aston Lane",
+  "locality": "Claverley",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV5 7DX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "379476",
+  "northing": "293329",
+  "url": "www.claverleyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

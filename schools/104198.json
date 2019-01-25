@@ -1,0 +1,18 @@
+{
+  "urn": "104198",
+  "name": "Whetstone Field Primary School",
+  "address": "Beaufort Way",
+  "locality": "Aldridge",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS9 0HJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405681",
+  "northing": "299704",
+  "url": "www.whetstonefield.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110615",
+  "name": "Meldreth Primary School",
+  "address": "High Street",
+  "locality": "Meldreth",
+  "address3": "",
+  "town": "Nr Royston",
+  "county": "Hertfordshire",
+  "postcode": "SG8 6LA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "537718",
+  "northing": "245898",
+  "url": "www.meldreth.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117712",
+  "name": "Ainthorpe Primary School",
+  "address": "Ainthorpe Grove",
+  "locality": "Willerby Road",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 5EB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505237",
+  "northing": "429548",
+  "url": "http://www.hullcc.gov.uk/schools/ainthorpe/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

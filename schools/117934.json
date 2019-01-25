@@ -1,0 +1,18 @@
+{
+  "urn": "117934",
+  "name": "Crosby Primary School",
+  "address": "Normanby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "Lincolnshire",
+  "postcode": "DN15 6AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "489231",
+  "northing": "412295",
+  "url": "www.crosbyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122108",
+  "name": "Millbrook Infant School",
+  "address": "Churchill Way",
+  "locality": "",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN15 5BZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "488688",
+  "northing": "277945",
+  "url": "www.millbrook-inf.northants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

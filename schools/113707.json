@@ -1,0 +1,18 @@
+{
+  "urn": "113707",
+  "name": "Merley First School",
+  "address": "Oakley Straight",
+  "locality": "Merley",
+  "address3": "",
+  "town": "Wimborne",
+  "county": "Dorset",
+  "postcode": "BH21 1SD",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "402006",
+  "northing": "98467",
+  "url": "www.merleyfirst.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

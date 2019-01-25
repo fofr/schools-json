@@ -1,0 +1,18 @@
+{
+  "urn": "137812",
+  "name": "The Earls High School",
+  "address": "Furnace Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Halesowen",
+  "county": "West Midlands",
+  "postcode": "B63 3SL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "396659",
+  "northing": "283873",
+  "url": "http://www.earlshighschool.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

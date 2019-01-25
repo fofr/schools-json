@@ -1,0 +1,18 @@
+{
+  "urn": "111111",
+  "name": "Willow Wood Community Junior School",
+  "address": "Bradbury Road",
+  "locality": "Wharton",
+  "address3": "",
+  "town": "Winsford",
+  "county": "Cheshire",
+  "postcode": "CW7 3HN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "366431",
+  "northing": "366546",
+  "url": "http://www.willowwoodjnr.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

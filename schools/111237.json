@@ -1,0 +1,18 @@
+{
+  "urn": "111237",
+  "name": "Manor Park School and Nursery",
+  "address": "Manor Park North",
+  "locality": "",
+  "address3": "",
+  "town": "Knutsford",
+  "county": "Cheshire",
+  "postcode": "WA16 8DB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "376134",
+  "northing": "378766",
+  "url": "http://www.manorpark.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

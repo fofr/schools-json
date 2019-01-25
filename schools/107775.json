@@ -1,0 +1,18 @@
+{
+  "urn": "107775",
+  "name": "Westborough High School",
+  "address": "Stockhill Street",
+  "locality": "",
+  "address3": "",
+  "town": "Dewsbury",
+  "county": "West Yorkshire",
+  "postcode": "WF13 2JE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "423351",
+  "northing": "421938",
+  "url": "www.w-h-s.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

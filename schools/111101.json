@@ -1,0 +1,18 @@
+{
+  "urn": "111101",
+  "name": "Woodlands Junior School",
+  "address": "Eddisbury Road",
+  "locality": "Whitby",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Cheshire",
+  "postcode": "CH66 2JT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "338814",
+  "northing": "374500",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

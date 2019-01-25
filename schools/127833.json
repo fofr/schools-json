@@ -1,0 +1,18 @@
+{
+  "urn": "127833",
+  "name": "Ingram Road First School",
+  "address": "Brown Lane East",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 9LA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "429017",
+  "northing": "432004",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

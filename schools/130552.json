@@ -1,0 +1,18 @@
+{
+  "urn": "130552",
+  "name": "NCG",
+  "address": "Rye Hill Campus",
+  "locality": "Scotswood Road",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 7SA",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "423972",
+  "northing": "563597",
+  "url": "http://www.ncgrp.co.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

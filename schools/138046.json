@@ -1,0 +1,18 @@
+{
+  "urn": "138046",
+  "name": "Greenacre Academy",
+  "address": "157 Walderslade Road",
+  "locality": "Walderslade",
+  "address3": "",
+  "town": "Chatham",
+  "county": "Kent",
+  "postcode": "ME5 0LP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "575982",
+  "northing": "164283",
+  "url": "http://www.sflt.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

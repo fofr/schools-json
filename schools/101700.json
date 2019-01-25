@@ -1,0 +1,18 @@
+{
+  "urn": "101700",
+  "name": "Glebe School",
+  "address": "Hawes Lane",
+  "locality": "",
+  "address3": "",
+  "town": "West Wickham",
+  "county": "Kent",
+  "postcode": "BR4 9AE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "538913",
+  "northing": "165987",
+  "url": "www.glebe.bromley.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Foundation special school"
+}

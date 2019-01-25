@@ -1,0 +1,18 @@
+{
+  "urn": "102215",
+  "name": "Weald Rise Primary School",
+  "address": "Robin Hood Drive",
+  "locality": "Harrow Weald",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA3 7DH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "515645",
+  "northing": "191154",
+  "url": "www.wealdrise.harrow.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

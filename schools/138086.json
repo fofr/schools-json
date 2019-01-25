@@ -1,0 +1,18 @@
+{
+  "urn": "138086",
+  "name": "Scawby Academy",
+  "address": "West Street",
+  "locality": "Scawby",
+  "address3": "",
+  "town": "Brigg",
+  "county": "North Lincolnshire",
+  "postcode": "DN20 9AN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "496776",
+  "northing": "405428",
+  "url": "http://www.scawby.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

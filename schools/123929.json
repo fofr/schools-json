@@ -1,0 +1,18 @@
+{
+  "urn": "123929",
+  "name": "Shapwick School",
+  "address": "",
+  "locality": "Shapwick Manor",
+  "address3": "21 Station Road",
+  "town": "Shapwick",
+  "county": "Somerset",
+  "postcode": "TA7 9NJ",
+  "minimum_age": "8",
+  "maximum_age": "18",
+  "easting": "341744",
+  "northing": "138439",
+  "url": "www.shapwickschool.com",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Other independent special school"
+}

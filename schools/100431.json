@@ -1,0 +1,18 @@
+{
+  "urn": "100431",
+  "name": "Highbury Quadrant Primary School",
+  "address": "Highbury New Park",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N5 2DP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "532387",
+  "northing": "185620",
+  "url": "http://www.highburyquadrantprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

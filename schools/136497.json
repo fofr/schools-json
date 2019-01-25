@@ -1,0 +1,18 @@
+{
+  "urn": "136497",
+  "name": "Harrogate Grammar School",
+  "address": "Arthurs Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG2 0DZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "429831",
+  "northing": "454195",
+  "url": "http://www.harrogategrammar.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

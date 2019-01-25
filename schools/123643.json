@@ -1,0 +1,18 @@
+{
+  "urn": "123643",
+  "name": "Dunster First School",
+  "address": "13 St George's Street",
+  "locality": "Dunster",
+  "address3": "",
+  "town": "Minehead",
+  "county": "Somerset",
+  "postcode": "TA24 6RX",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "298921",
+  "northing": "143684",
+  "url": "http://www.dunsterfirstschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

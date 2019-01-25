@@ -1,0 +1,18 @@
+{
+  "urn": "110244",
+  "name": "Little Kingshill Combined School",
+  "address": "Windsor Lane",
+  "locality": "Little Kingshill",
+  "address3": "",
+  "town": "Great Missenden",
+  "county": "Buckinghamshire",
+  "postcode": "HP16 0DZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "489684",
+  "northing": "198939",
+  "url": "www.littlekingshillschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102575",
+  "name": "Tolworth Infant and Nursery School",
+  "address": "School Lane",
+  "locality": "Tolworth",
+  "address3": "",
+  "town": "Surbiton",
+  "county": "Surrey",
+  "postcode": "KT6 7SA",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "518935",
+  "northing": "166180",
+  "url": "www.tolworthschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

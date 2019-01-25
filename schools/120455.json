@@ -1,0 +1,18 @@
+{
+  "urn": "120455",
+  "name": "Ingoldmells Primary School",
+  "address": "Simpson Court",
+  "locality": "Ingoldmells",
+  "address3": "",
+  "town": "Skegness",
+  "county": "Lincolnshire",
+  "postcode": "PE25 1PS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "555760",
+  "northing": "368803",
+  "url": "http://www.ingoldmellsprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

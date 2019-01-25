@@ -1,0 +1,18 @@
+{
+  "urn": "108123",
+  "name": "Broomfield South SILC",
+  "address": "Broom Place",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS10 3JP",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "431553",
+  "northing": "429016",
+  "url": "www.broomfieldschool.org.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

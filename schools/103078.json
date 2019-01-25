@@ -1,0 +1,18 @@
+{
+  "urn": "103078",
+  "name": "Coppermill Primary School",
+  "address": "Edward Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 6PB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535896",
+  "northing": "188751",
+  "url": "www.coppermillprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108092",
+  "name": "Horsforth School",
+  "address": "Lee Lane East",
+  "locality": "Horsforth",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS18 5RF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "423730",
+  "northing": "438510",
+  "url": "http://www.horsforth.leeds.sch.uk/default.asp",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104829",
+  "name": "Cowley International College",
+  "address": "Hard Lane",
+  "locality": "",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA10 6PN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "350286",
+  "northing": "396814",
+  "url": "http://www.cowley.st-helens.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

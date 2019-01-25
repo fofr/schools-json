@@ -1,0 +1,18 @@
+{
+  "urn": "136800",
+  "name": "Greenshaw High School",
+  "address": "Grennell Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM1 3DY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "526548",
+  "northing": "165719",
+  "url": "http://www.greenshaw.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

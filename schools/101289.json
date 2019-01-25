@@ -1,0 +1,18 @@
+{
+  "urn": "101289",
+  "name": "Livingstone Primary and Nursery School",
+  "address": "Baring Road",
+  "locality": "New Barnet",
+  "address3": "",
+  "town": "Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN4 9BU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526921",
+  "northing": "196783",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

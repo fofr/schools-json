@@ -1,0 +1,18 @@
+{
+  "urn": "137549",
+  "name": "Harris Academy Chafford Hundred",
+  "address": "Mayflower Road",
+  "locality": "Chafford Hundred",
+  "address3": "",
+  "town": "Grays",
+  "county": "Essex",
+  "postcode": "RM16 6SA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "559297",
+  "northing": "178393",
+  "url": "www.harrischaffordhundred.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

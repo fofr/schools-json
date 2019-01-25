@@ -1,0 +1,18 @@
+{
+  "urn": "112957",
+  "name": "Glossopdale School",
+  "address": "Newshaw Lane",
+  "locality": "Hadfield",
+  "address3": "",
+  "town": "Glossop",
+  "county": "",
+  "postcode": "SK13 2DA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "402038",
+  "northing": "395529",
+  "url": "www.glossopdale.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

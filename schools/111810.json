@@ -1,0 +1,18 @@
+{
+  "urn": "111810",
+  "name": "Crowan Primary School",
+  "address": "Moorfield",
+  "locality": "Praze-An-Beeble",
+  "address3": "",
+  "town": "Camborne",
+  "county": "Cornwall",
+  "postcode": "TR14 0LG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "164119",
+  "northing": "35648",
+  "url": "www.crowanprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

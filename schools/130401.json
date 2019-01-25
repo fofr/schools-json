@@ -1,0 +1,18 @@
+{
+  "urn": "130401",
+  "name": "City Lit",
+  "address": "Keeley Street",
+  "locality": "Covent Garden",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "WC2B 4BA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "530540",
+  "northing": "181228",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

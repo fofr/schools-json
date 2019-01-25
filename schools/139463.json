@@ -1,0 +1,18 @@
+{
+  "urn": "139463",
+  "name": "St Mary's CofE Primary Academy, Burton Latimer",
+  "address": "High Street",
+  "locality": "Burton Latimer",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN15 5RL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "490073",
+  "northing": "274487",
+  "url": "http://stmaryscebl.northants.dbprimary.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

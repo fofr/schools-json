@@ -1,0 +1,18 @@
+{
+  "urn": "122994",
+  "name": "Orchard Fields Community School",
+  "address": "Edmunds Road",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 0QT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "444200",
+  "northing": "240300",
+  "url": "www.orchard-fields.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

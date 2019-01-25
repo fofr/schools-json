@@ -1,0 +1,18 @@
+{
+  "urn": "106524",
+  "name": "Westleigh High School",
+  "address": "Westleigh Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leigh",
+  "county": "Lancashire",
+  "postcode": "WN7 5NL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "364998",
+  "northing": "402073",
+  "url": "http://www.westleighhigh.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

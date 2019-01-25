@@ -1,0 +1,18 @@
+{
+  "urn": "120493",
+  "name": "Tattershall Primary School",
+  "address": "Clinton Park",
+  "locality": "Tattershall",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN4 4QZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "521482",
+  "northing": "358421",
+  "url": "www.tattershallprimary.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

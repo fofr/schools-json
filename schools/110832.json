@@ -1,0 +1,18 @@
+{
+  "urn": "110832",
+  "name": "Linton CofE Infant School",
+  "address": "Church Lane",
+  "locality": "Linton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB21 4JX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "556273",
+  "northing": "246792",
+  "url": "www.lintoninfants.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

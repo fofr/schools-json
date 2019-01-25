@@ -1,0 +1,18 @@
+{
+  "urn": "101431",
+  "name": "Slade Green Primary School",
+  "address": "Slade Green Road",
+  "locality": "",
+  "address3": "",
+  "town": "Erith",
+  "county": "Kent",
+  "postcode": "DA8 2HX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "552330",
+  "northing": "177087",
+  "url": "www.sladegreenschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

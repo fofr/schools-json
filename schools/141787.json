@@ -1,0 +1,18 @@
+{
+  "urn": "141787",
+  "name": "Haymoor Junior School",
+  "address": "Ashdown Close",
+  "locality": "Canford Heath",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH17 8WG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "402366",
+  "northing": "94211",
+  "url": "www.haymoor.poole.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

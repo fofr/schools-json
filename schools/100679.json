@@ -1,0 +1,18 @@
+{
+  "urn": "100679",
+  "name": "Downderry Primary School",
+  "address": "Downderry Road",
+  "locality": "Downham",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR1 5QL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539164",
+  "northing": "171810",
+  "url": "www.downderryprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

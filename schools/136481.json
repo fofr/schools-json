@@ -1,0 +1,18 @@
+{
+  "urn": "136481",
+  "name": "Wymondham College",
+  "address": "Golf Links Road",
+  "locality": "Morley",
+  "address3": "",
+  "town": "Wymondham",
+  "county": "Norfolk",
+  "postcode": "NR18 9SZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "607409",
+  "northing": "298509",
+  "url": "http://www.wymondhamcollege.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

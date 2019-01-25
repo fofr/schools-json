@@ -1,0 +1,18 @@
+{
+  "urn": "138367",
+  "name": "Oakbank",
+  "address": "Hyde End Lane",
+  "locality": "Ryeish Green",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG7 1ER",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "472097",
+  "northing": "167653",
+  "url": "www.oakbank.education",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

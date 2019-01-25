@@ -1,0 +1,18 @@
+{
+  "urn": "113270",
+  "name": "Ford Primary School",
+  "address": "Cambridge Road",
+  "locality": "Ford",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL2 1PU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "245994",
+  "northing": "56360",
+  "url": "www.ford.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

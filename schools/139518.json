@@ -1,0 +1,18 @@
+{
+  "urn": "139518",
+  "name": "St Nicholas CofE Primary",
+  "address": "St Faith's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Alcester",
+  "county": "Warwickshire",
+  "postcode": "B49 6AG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "408990",
+  "northing": "258091",
+  "url": "www.alcesterstnicholas.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

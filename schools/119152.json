@@ -1,0 +1,18 @@
+{
+  "urn": "119152",
+  "name": "Harris Primary School",
+  "address": "Wychnor",
+  "locality": "Fulwood",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 7EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "351886",
+  "northing": "433221",
+  "url": "www.harris.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

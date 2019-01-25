@@ -1,0 +1,18 @@
+{
+  "urn": "119156",
+  "name": "Little Hoole Primary School",
+  "address": "Dob Lane",
+  "locality": "Walmer Bridge",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR4 5QL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "348152",
+  "northing": "424052",
+  "url": "http://www.little-hoole.lancsngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

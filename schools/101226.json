@@ -1,0 +1,18 @@
+{
+  "urn": "101226",
+  "name": "William Bellamy Primary School",
+  "address": "Frizlands Lane",
+  "locality": "East",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM10 7HX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "549437",
+  "northing": "186675",
+  "url": "www.williambellamy.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

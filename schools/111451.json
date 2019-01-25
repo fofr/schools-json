@@ -1,0 +1,18 @@
+{
+  "urn": "111451",
+  "name": "Ellesmere Port Catholic High School",
+  "address": "Capenhurst Lane",
+  "locality": "Whitby",
+  "address3": "",
+  "town": "Ellesmere Port",
+  "county": "Cheshire",
+  "postcode": "CH65 7AQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "339143",
+  "northing": "375254",
+  "url": "http://www.epchs.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

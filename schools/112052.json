@@ -1,0 +1,18 @@
+{
+  "urn": "112052",
+  "name": "Poltair School",
+  "address": "Trevarthian Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL25 4BZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "201844",
+  "northing": "52943",
+  "url": "www.poltairschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

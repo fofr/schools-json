@@ -1,0 +1,18 @@
+{
+  "urn": "144282",
+  "name": "Marksbury CofE Primary School",
+  "address": "Marksbury",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA2 9HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "366715",
+  "northing": "162603",
+  "url": "www.marksburyschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

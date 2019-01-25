@@ -1,0 +1,18 @@
+{
+  "urn": "123042",
+  "name": "Badgemore Primary School",
+  "address": "Hop Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Henley-on-Thames",
+  "county": "Oxfordshire",
+  "postcode": "RG9 2HL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "475540",
+  "northing": "182951",
+  "url": "http://www.badgemore.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

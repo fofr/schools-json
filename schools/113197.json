@@ -1,0 +1,18 @@
+{
+  "urn": "113197",
+  "name": "Denbury Primary School",
+  "address": "West Street",
+  "locality": "Denbury",
+  "address3": "",
+  "town": "Newton Abbot",
+  "county": "Devon",
+  "postcode": "TQ12 6DP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "282210",
+  "northing": "68881",
+  "url": "http://www.denbury.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

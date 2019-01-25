@@ -1,0 +1,18 @@
+{
+  "urn": "137368",
+  "name": "Hurstmere School",
+  "address": "Hurst Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sidcup",
+  "county": "Kent",
+  "postcode": "DA15 9AW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "547061",
+  "northing": "173167",
+  "url": "http://www.hurstmere.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

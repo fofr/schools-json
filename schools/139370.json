@@ -1,0 +1,18 @@
+{
+  "urn": "139370",
+  "name": "Fulbridge Academy",
+  "address": "Keeton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE1 3JQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "518516",
+  "northing": "301291",
+  "url": "www.fulbridgeacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

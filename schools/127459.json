@@ -1,0 +1,18 @@
+{
+  "urn": "127459",
+  "name": "Queen Elizabeth High School",
+  "address": "Boarman Fold Road",
+  "locality": "Alkrington",
+  "address3": "Middleton",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M24 1PR",
+  "minimum_age": "14",
+  "maximum_age": "18",
+  "easting": "387319",
+  "northing": "404336",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

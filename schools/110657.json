@@ -1,0 +1,18 @@
+{
+  "urn": "110657",
+  "name": "Morley Memorial Primary School",
+  "address": "Blinco Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 7TX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "546725",
+  "northing": "256417",
+  "url": "www.morley.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

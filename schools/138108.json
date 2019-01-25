@@ -1,0 +1,18 @@
+{
+  "urn": "138108",
+  "name": "The Market Bosworth School",
+  "address": "Station Road",
+  "locality": "Market Bosworth",
+  "address3": "",
+  "town": "Nuneaton",
+  "county": "Warwickshire",
+  "postcode": "CV13 0JT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "440379",
+  "northing": "303161",
+  "url": "www.tmbs.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111078",
+  "name": "Wrenbury Primary School",
+  "address": "Nantwich Road",
+  "locality": "Wrenbury",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 8EN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "359815",
+  "northing": "347537",
+  "url": "www.wrenburyschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

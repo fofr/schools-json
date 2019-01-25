@@ -1,0 +1,18 @@
+{
+  "urn": "111851",
+  "name": "Stithians Community Primary School",
+  "address": "Church Road",
+  "locality": "Stithians",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR3 7DH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "173188",
+  "northing": "37047",
+  "url": "www.stithians.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

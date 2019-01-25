@@ -1,0 +1,18 @@
+{
+  "urn": "135840",
+  "name": "North West Kent Behaviour Service",
+  "address": "High Road",
+  "locality": "Wilmington",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA2 7DP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "553302",
+  "northing": "172083",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

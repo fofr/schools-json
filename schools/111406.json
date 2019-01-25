@@ -1,0 +1,18 @@
+{
+  "urn": "111406",
+  "name": "Sandbach High School and Sixth Form College",
+  "address": "Middlewich Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sandbach",
+  "county": "Cheshire",
+  "postcode": "CW11 3NT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "375110",
+  "northing": "361020",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

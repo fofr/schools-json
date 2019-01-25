@@ -1,0 +1,18 @@
+{
+  "urn": "128000",
+  "name": "Primrose High School",
+  "address": "Hill Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS9 7NL",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "431261",
+  "northing": "434432",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

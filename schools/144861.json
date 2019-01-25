@@ -1,0 +1,18 @@
+{
+  "urn": "144861",
+  "name": "Laycock Primary School",
+  "address": "Laycock Lane",
+  "locality": "Laycock",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD22 0PP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "403368",
+  "northing": "441128",
+  "url": "www.laycockprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124131",
+  "name": "Manor Hill First School",
+  "address": "Manor Rise",
+  "locality": "Walton",
+  "address3": "",
+  "town": "Stone",
+  "county": "Staffordshire",
+  "postcode": "ST15 0HY",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "389462",
+  "northing": "333261",
+  "url": "www.manorhillfirst.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

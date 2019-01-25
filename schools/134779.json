@@ -1,0 +1,18 @@
+{
+  "urn": "134779",
+  "name": "Woodley Primary School",
+  "address": "Sherwood Road",
+  "locality": "Woodley",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK6 1LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394071",
+  "northing": "392433",
+  "url": "www.woodley-pri.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

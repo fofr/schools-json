@@ -1,0 +1,18 @@
+{
+  "urn": "121410",
+  "name": "Darley Community Primary School",
+  "address": "Darley",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG3 2PZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "420614",
+  "northing": "459348",
+  "url": "http://www.darley.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

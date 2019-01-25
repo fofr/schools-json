@@ -1,0 +1,18 @@
+{
+  "urn": "116675",
+  "name": "Fairfield First School",
+  "address": "Stourbridge Road",
+  "locality": "Fairfield",
+  "address3": "",
+  "town": "Bromsgrove",
+  "county": "Worcestershire",
+  "postcode": "B61 9LZ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "394850",
+  "northing": "275189",
+  "url": "www.fairfield.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

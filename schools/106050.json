@@ -1,0 +1,18 @@
+{
+  "urn": "106050",
+  "name": "Greave Primary School",
+  "address": "Werneth Road",
+  "locality": "Woodley",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK6 1HR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "394527",
+  "northing": "391874",
+  "url": "www.greaveprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

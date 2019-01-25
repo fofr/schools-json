@@ -1,0 +1,18 @@
+{
+  "urn": "138657",
+  "name": "Siddal Primary School",
+  "address": "Backhold Lane",
+  "locality": "Siddal",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX3 9DL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "410051",
+  "northing": "423142",
+  "url": "www.siddalprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

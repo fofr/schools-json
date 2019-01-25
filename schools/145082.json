@@ -1,0 +1,18 @@
+{
+  "urn": "145082",
+  "name": "Carnforth High School",
+  "address": "Kellet Road",
+  "locality": "",
+  "address3": "",
+  "town": "Carnforth",
+  "county": "Lancashire",
+  "postcode": "LA5 9LS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "350378",
+  "northing": "470279",
+  "url": "http://www.carnforthhigh.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

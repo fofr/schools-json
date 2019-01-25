@@ -1,0 +1,18 @@
+{
+  "urn": "112633",
+  "name": "Springfield Junior School",
+  "address": "Springfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE11 0BU",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "429987",
+  "northing": "320298",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

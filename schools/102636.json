@@ -1,0 +1,18 @@
+{
+  "urn": "102636",
+  "name": "Lonesome Primary School",
+  "address": "Grove Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mitcham",
+  "county": "Surrey",
+  "postcode": "CR4 1SD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528779",
+  "northing": "169447",
+  "url": "http://www.lonesomeprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

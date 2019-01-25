@@ -1,0 +1,18 @@
+{
+  "urn": "128960",
+  "name": "Westwood's Grammar School",
+  "address": "High Street",
+  "locality": "Northleach",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL54 3PG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "411694",
+  "northing": "214392",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136958",
+  "name": "Caistor Yarborough Academy",
+  "address": "Grimsby Road",
+  "locality": "Caistor",
+  "address3": "",
+  "town": "Market Rasen",
+  "county": "Lincolnshire",
+  "postcode": "LN7 6QZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "512180",
+  "northing": "401423",
+  "url": "http://www.caistoryarboroughacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

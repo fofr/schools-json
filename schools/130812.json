@@ -1,0 +1,18 @@
+{
+  "urn": "130812",
+  "name": "Newcastle and Stafford Colleges Group",
+  "address": "Knutton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-under-Lyme",
+  "county": "Staffordshire",
+  "postcode": "ST5 2GB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "384164",
+  "northing": "346450",
+  "url": "www.nulc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

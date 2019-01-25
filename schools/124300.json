@@ -1,0 +1,18 @@
+{
+  "urn": "124300",
+  "name": "Woodseaves CofE (C) Primary School",
+  "address": "Dickey's Lane",
+  "locality": "Woodseaves",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST20 0LB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "380214",
+  "northing": "325333",
+  "url": "http://www.woodseaves.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

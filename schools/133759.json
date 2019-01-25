@@ -1,0 +1,18 @@
+{
+  "urn": "133759",
+  "name": "Forestdale Primary School",
+  "address": "Wareham Road",
+  "locality": "Frankley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B45 0JS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "399832",
+  "northing": "278930",
+  "url": "www.forestdale.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113500",
+  "name": "The King's School",
+  "address": "Barrack Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ottery St Mary",
+  "county": "Devon",
+  "postcode": "EX11 1RA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "308904",
+  "northing": "95323",
+  "url": "http://www.thekings.devon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

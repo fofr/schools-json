@@ -1,0 +1,18 @@
+{
+  "urn": "104282",
+  "name": "St Edward's Nursery School",
+  "address": "Wolverhampton Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 0LT",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "394445",
+  "northing": "296345",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

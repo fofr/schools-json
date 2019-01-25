@@ -1,0 +1,18 @@
+{
+  "urn": "121280",
+  "name": "Park Grove Primary School",
+  "address": "Park Grove",
+  "locality": "",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO31 8LG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "460751",
+  "northing": "452747",
+  "url": "www.parkgroveprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

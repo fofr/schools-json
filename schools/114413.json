@@ -1,0 +1,18 @@
+{
+  "urn": "114413",
+  "name": "Brackenbury Primary School",
+  "address": "Locks Hill",
+  "locality": "Portslade",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN41 2LA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "525653",
+  "northing": "105896",
+  "url": "www.brackenburyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

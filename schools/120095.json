@@ -1,0 +1,18 @@
+{
+  "urn": "120095",
+  "name": "Coleman Primary School",
+  "address": "Gwendolen Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 5FS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "461445",
+  "northing": "303823",
+  "url": "www.colemanprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

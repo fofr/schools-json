@@ -1,0 +1,18 @@
+{
+  "urn": "124106",
+  "name": "Bradwell County Primary School",
+  "address": "Cauldon Avenue",
+  "locality": "Bradwell",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 8JN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "384245",
+  "northing": "349223",
+  "url": "http://www.bradwell.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

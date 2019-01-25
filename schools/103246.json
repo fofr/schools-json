@@ -1,0 +1,18 @@
+{
+  "urn": "103246",
+  "name": "Raddlebarn Primary School",
+  "address": "Gristhorpe Road",
+  "locality": "",
+  "address3": "Selly Oak",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B29 7TD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405016",
+  "northing": "282095",
+  "url": "www.raddlebarn.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

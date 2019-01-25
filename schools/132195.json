@@ -1,0 +1,18 @@
+{
+  "urn": "132195",
+  "name": "Brookvale Primary School",
+  "address": "Northwich Road",
+  "locality": "Brookvale",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 6BZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "354781",
+  "northing": "380278",
+  "url": "www.brookvale.halton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

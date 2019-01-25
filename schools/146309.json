@@ -1,0 +1,18 @@
+{
+  "urn": "146309",
+  "name": "Sanders School",
+  "address": "Suttons Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hornchurch",
+  "county": "",
+  "postcode": "RM12 6RT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "553665",
+  "northing": "185763",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

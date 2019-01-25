@@ -1,0 +1,18 @@
+{
+  "urn": "136773",
+  "name": "Queen Mary's Grammar School",
+  "address": "Sutton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS1 2PG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "402345",
+  "northing": "297771",
+  "url": "http://www.qmgs.walsall.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

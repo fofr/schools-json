@@ -1,0 +1,18 @@
+{
+  "urn": "114708",
+  "name": "Myland Community Primary School",
+  "address": "Mill Road",
+  "locality": "Mile End",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO4 5LD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "599109",
+  "northing": "227789",
+  "url": "www.myland.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

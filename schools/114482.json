@@ -1,0 +1,18 @@
+{
+  "urn": "114482",
+  "name": "Parkside Community Primary School",
+  "address": "Beechwood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Heathfield",
+  "county": "East Sussex",
+  "postcode": "TN21 8QQ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "559064",
+  "northing": "120303",
+  "url": "http://www.parksideprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

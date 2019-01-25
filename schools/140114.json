@@ -1,0 +1,18 @@
+{
+  "urn": "140114",
+  "name": "St Marys Catholic Academy",
+  "address": "Ford Green Road",
+  "locality": "Norton-le-Moors",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 8EZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388865",
+  "northing": "351385",
+  "url": "http://www.st-marysrc.stoke.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

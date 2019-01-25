@@ -1,0 +1,18 @@
+{
+  "urn": "118568",
+  "name": "West Borough Primary School",
+  "address": "Greenway",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME16 8TL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "573885",
+  "northing": "155150",
+  "url": "http://www.west-borough.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

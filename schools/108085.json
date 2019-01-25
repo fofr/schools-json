@@ -1,0 +1,18 @@
+{
+  "urn": "108085",
+  "name": "Guiseley School",
+  "address": "Fieldhead Road",
+  "locality": "Guiseley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS20 8DT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "418674",
+  "northing": "441724",
+  "url": "http://www.guiseleyschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

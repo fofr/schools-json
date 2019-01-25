@@ -1,0 +1,18 @@
+{
+  "urn": "117111",
+  "name": "Abel Smith School",
+  "address": "Churchfields",
+  "locality": "Greencoates",
+  "address3": "",
+  "town": "Hertford",
+  "county": "Hertfordshire",
+  "postcode": "SG13 8AE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "532974",
+  "northing": "212488",
+  "url": "http://www.abelsmith.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

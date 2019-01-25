@@ -1,0 +1,18 @@
+{
+  "urn": "132189",
+  "name": "Blyth Community College",
+  "address": "Chase Farm Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Blyth",
+  "county": "Northumberland",
+  "postcode": "NE24 4JP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "428941",
+  "northing": "581126",
+  "url": "http://www.bcc.uk.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

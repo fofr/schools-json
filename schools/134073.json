@@ -1,0 +1,18 @@
+{
+  "urn": "134073",
+  "name": "Giles Brook Primary School",
+  "address": "Holborn Crescent",
+  "locality": "",
+  "address3": "Tattenhoe",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK4 3GB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "483037",
+  "northing": "233474",
+  "url": "www.gilesbrook.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110288",
+  "name": "Greenway School",
+  "address": "Greenway",
+  "locality": "",
+  "address3": "",
+  "town": "Chesham",
+  "county": "Buckinghamshire",
+  "postcode": "HP5 2BY",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "495740",
+  "northing": "203467",
+  "url": "http://www.greenway.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

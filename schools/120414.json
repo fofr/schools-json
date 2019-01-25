@@ -1,0 +1,18 @@
+{
+  "urn": "120414",
+  "name": "Holbeach Primary School",
+  "address": "Boston Road",
+  "locality": "Holbeach",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE12 7LZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "535698",
+  "northing": "325346",
+  "url": "www.holbeachprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

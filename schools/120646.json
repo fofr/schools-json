@@ -1,0 +1,18 @@
+{
+  "urn": "120646",
+  "name": "The St Guthlac School",
+  "address": "Postland Road",
+  "locality": "Crowland",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE6 0JA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "524184",
+  "northing": "310556",
+  "url": "http://www.st-guthlacs.lincs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

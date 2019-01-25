@@ -1,0 +1,18 @@
+{
+  "urn": "117704",
+  "name": "The Darley Centre",
+  "address": "School Road",
+  "locality": "Ashby",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "North Lincolnshire",
+  "postcode": "DN16 2TD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "489782",
+  "northing": "408768",
+  "url": "www.thedarleycentre.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "128786",
+  "name": "Fosters School",
+  "address": "Tinneys Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sherborne",
+  "county": "Dorset",
+  "postcode": "DT9 3DZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "364349",
+  "northing": "116885",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

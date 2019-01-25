@@ -1,0 +1,18 @@
+{
+  "urn": "120679",
+  "name": "Washingborough Primary School",
+  "address": "School Lane",
+  "locality": "Washingborough",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN4 1BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "502186",
+  "northing": "370665",
+  "url": "http://www.washingborough.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

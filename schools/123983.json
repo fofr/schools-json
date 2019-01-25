@@ -1,0 +1,18 @@
+{
+  "urn": "123983",
+  "name": "Middleport Infant School",
+  "address": "Morton Street",
+  "locality": "Middleport",
+  "address3": "Burslem",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 3PN",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "386176",
+  "northing": "349348",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

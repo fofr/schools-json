@@ -1,0 +1,18 @@
+{
+  "urn": "109132",
+  "name": "Whitehall Primary School",
+  "address": "Johnsons Lane",
+  "locality": "Whitehall",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS5 9AT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "361528",
+  "northing": "174119",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

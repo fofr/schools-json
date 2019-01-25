@@ -1,0 +1,18 @@
+{
+  "urn": "138434",
+  "name": "Northdown Primary School",
+  "address": "Tenterden Way",
+  "locality": "",
+  "address3": "",
+  "town": "Margate",
+  "county": "Kent",
+  "postcode": "CT9 3RE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "637269",
+  "northing": "170097",
+  "url": "www.northdown-tkat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

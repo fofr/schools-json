@@ -1,0 +1,18 @@
+{
+  "urn": "115481",
+  "name": "Widden Primary School",
+  "address": "Sinope Street",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL1 4AW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "383967",
+  "northing": "218224",
+  "url": "http://www.widdenprimaryschool.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130440",
+  "name": "Stanmore College",
+  "address": "Elm Park",
+  "locality": "",
+  "address3": "",
+  "town": "Stanmore",
+  "county": "",
+  "postcode": "HA7 4BQ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "517067",
+  "northing": "191821",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

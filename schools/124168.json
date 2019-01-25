@@ -1,0 +1,18 @@
+{
+  "urn": "124168",
+  "name": "Chancel Primary School",
+  "address": "Wolseley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rugeley",
+  "county": "Staffordshire",
+  "postcode": "WS15 2EW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "404423",
+  "northing": "318523",
+  "url": "www.chancelprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

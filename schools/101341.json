@@ -1,0 +1,18 @@
+{
+  "urn": "101341",
+  "name": "Menorah Primary School",
+  "address": "The Wohl Campus",
+  "locality": "1-3 the Drive",
+  "address3": "Golders Green",
+  "town": "London",
+  "county": "",
+  "postcode": "NW11 9SP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524350",
+  "northing": "187703",
+  "url": "www.menorahprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102748",
+  "name": "St Stephen's Primary School",
+  "address": "Whitfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 1AS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "541460",
+  "northing": "184085",
+  "url": "www.st-stephens-primary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

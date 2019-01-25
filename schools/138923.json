@@ -1,0 +1,18 @@
+{
+  "urn": "138923",
+  "name": "Oxclose Community Academy",
+  "address": "Dilston Close",
+  "locality": "Oxclose Village",
+  "address3": "",
+  "town": "Washington",
+  "county": "Tyne and Wear",
+  "postcode": "NE38 0LN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "429254",
+  "northing": "555825",
+  "url": "http://www.oxcloseschool.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

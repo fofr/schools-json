@@ -1,0 +1,18 @@
+{
+  "urn": "123629",
+  "name": "Haughton School",
+  "address": "Queen Street",
+  "locality": "Madeley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 4BW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "370463",
+  "northing": "304391",
+  "url": "www.haughtonschool.co.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

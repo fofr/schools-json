@@ -1,0 +1,18 @@
+{
+  "urn": "134970",
+  "name": "Hospital Education Service",
+  "address": "Whitmore Park Annexe",
+  "locality": "Rylston Avenue",
+  "address3": "",
+  "town": "Coventry",
+  "county": "",
+  "postcode": "CV6 2HD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "432443",
+  "northing": "282409",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

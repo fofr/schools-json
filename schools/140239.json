@@ -1,0 +1,18 @@
+{
+  "urn": "140239",
+  "name": "The Glapton Academy",
+  "address": "Glapton Lane",
+  "locality": "Clifton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG11 8EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454944",
+  "northing": "334664",
+  "url": "www.glaptonacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

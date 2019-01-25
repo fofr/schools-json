@@ -1,0 +1,18 @@
+{
+  "urn": "122830",
+  "name": "Garibaldi College",
+  "address": "Forest Town",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 0JX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458035",
+  "northing": "362970",
+  "url": "http://www.garibaldi.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143772",
+  "name": "Harper Green School",
+  "address": "Harper Green Road",
+  "locality": "Farnworth",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL4 0DH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "372778",
+  "northing": "406062",
+  "url": "http://www.harper-green.bolton.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140756",
+  "name": "St Catherine's Catholic Primary School, Wimborne",
+  "address": "Cutlers Place",
+  "locality": "Colehill",
+  "address3": "",
+  "town": "Wimborne",
+  "county": "Dorset",
+  "postcode": "BH21 2HN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "403530",
+  "northing": "100530",
+  "url": "http://www.stcatherinescolehill.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

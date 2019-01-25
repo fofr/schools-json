@@ -1,0 +1,18 @@
+{
+  "urn": "110235",
+  "name": "Sands First School",
+  "address": "Lane End Road",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP12 4JF",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "484081",
+  "northing": "193249",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

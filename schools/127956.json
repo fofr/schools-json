@@ -1,0 +1,18 @@
+{
+  "urn": "127956",
+  "name": "Allerton High School",
+  "address": "King Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS17 7AG",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "429592",
+  "northing": "439439",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

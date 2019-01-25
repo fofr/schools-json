@@ -1,0 +1,18 @@
+{
+  "urn": "118217",
+  "name": "Medina High School",
+  "address": "Mountbatten Centre",
+  "locality": "Fairlee Road",
+  "address3": "",
+  "town": "Newport",
+  "county": "Isle of Wight",
+  "postcode": "PO30 2DX",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "450752",
+  "northing": "90461",
+  "url": "http://www.medina.iow.sch.uk/new_medina_web/index2.htm",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

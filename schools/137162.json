@@ -1,0 +1,18 @@
+{
+  "urn": "137162",
+  "name": "The Stourport High School and Sixth Form College",
+  "address": "Minster Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stourport-on-Severn",
+  "county": "Worcestershire",
+  "postcode": "DY13 8AX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "381323",
+  "northing": "272407",
+  "url": "http://www.shs.worcs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

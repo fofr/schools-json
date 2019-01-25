@@ -1,0 +1,18 @@
+{
+  "urn": "100560",
+  "name": "Clapham Manor Primary School",
+  "address": "Belmont Road",
+  "locality": "Clapham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW4 0BZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529473",
+  "northing": "175582",
+  "url": "www.claphammanor.lambeth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

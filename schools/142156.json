@@ -1,0 +1,18 @@
+{
+  "urn": "142156",
+  "name": "St John's Catholic Primary School, Gravesend",
+  "address": "Rochester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA12 2SY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "565990",
+  "northing": "173541",
+  "url": "http://www.stjohnsprimary.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

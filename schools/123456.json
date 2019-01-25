@@ -1,0 +1,18 @@
+{
+  "urn": "123456",
+  "name": "Hollinswood Primary School",
+  "address": "Dale Acre Way",
+  "locality": "Hollinswood",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 2EP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370475",
+  "northing": "308371",
+  "url": "http://hollinswoodprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

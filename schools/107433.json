@@ -1,0 +1,18 @@
+{
+  "urn": "107433",
+  "name": "Russell Hall Primary School",
+  "address": "West End",
+  "locality": "Queensbury",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD13 2AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "410005",
+  "northing": "430032",
+  "url": "http://www.russellhallprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

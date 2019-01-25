@@ -1,0 +1,18 @@
+{
+  "urn": "117752",
+  "name": "South Ferriby Primary School",
+  "address": "Horkstow Road",
+  "locality": "South Ferriby",
+  "address3": "",
+  "town": "Barton-upon-Humber",
+  "county": "Lincolnshire",
+  "postcode": "DN18 6HU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "498611",
+  "northing": "420623",
+  "url": "http://www.southferribyschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

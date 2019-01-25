@@ -1,0 +1,18 @@
+{
+  "urn": "112234",
+  "name": "George Romney Junior School",
+  "address": "Cobden Street",
+  "locality": "",
+  "address3": "",
+  "town": "Dalton-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA15 8SE",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "323025",
+  "northing": "474467",
+  "url": "www.grjs.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

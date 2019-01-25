@@ -1,0 +1,18 @@
+{
+  "urn": "136615",
+  "name": "The Tiffin Girls' School",
+  "address": "Richmond Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kingston upon Thames",
+  "county": "Surrey",
+  "postcode": "KT2 5PL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518089",
+  "northing": "170985",
+  "url": "http://www.tiffingirls.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

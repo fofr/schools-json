@@ -1,0 +1,18 @@
+{
+  "urn": "114372",
+  "name": "Patcham Junior School",
+  "address": "Ladies Mile Road",
+  "locality": "Patcham",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN1 8TA",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "530745",
+  "northing": "108771",
+  "url": "www.patchamjun.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

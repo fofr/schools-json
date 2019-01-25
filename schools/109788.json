@@ -1,0 +1,18 @@
+{
+  "urn": "109788",
+  "name": "The Hill Primary School",
+  "address": "Peppard Road",
+  "locality": "Caversham",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG4 8TU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "472120",
+  "northing": "176099",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

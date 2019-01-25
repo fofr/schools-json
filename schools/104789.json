@@ -1,0 +1,18 @@
+{
+  "urn": "104789",
+  "name": "Knowsley Road Primary School",
+  "address": "Knowsley Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Helen's",
+  "county": "Merseyside",
+  "postcode": "WA10 4PN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "350400",
+  "northing": "395500",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127184",
+  "name": "Harden Infant School",
+  "address": "Goldsmith Road",
+  "locality": "Harden",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 1DL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "401205",
+  "northing": "301359",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

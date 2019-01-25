@@ -1,0 +1,18 @@
+{
+  "urn": "130470",
+  "name": "Josiah Mason College",
+  "address": "Slade Road",
+  "locality": "",
+  "address3": "Erdington",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B23 7JH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "409423",
+  "northing": "291612",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146100",
+  "name": "Turnham Academy",
+  "address": "Turnham Road",
+  "locality": "Brockley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE4 2HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536114",
+  "northing": "175145",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

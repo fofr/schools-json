@@ -1,0 +1,18 @@
+{
+  "urn": "117582",
+  "name": "Queens' School",
+  "address": "Aldenham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bushey",
+  "county": "Hertfordshire",
+  "postcode": "WD23 2TY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "512913",
+  "northing": "196782",
+  "url": "http://www.queens.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

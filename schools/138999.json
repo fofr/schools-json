@@ -1,0 +1,18 @@
+{
+  "urn": "138999",
+  "name": "Millfield L.E.A.D. Academy",
+  "address": "Hat Road",
+  "locality": "Braunstone Town",
+  "address3": "",
+  "town": "Leicester",
+  "county": "",
+  "postcode": "LE3 2WF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "455367",
+  "northing": "301508",
+  "url": "www.millfieldacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

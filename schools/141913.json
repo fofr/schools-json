@@ -1,0 +1,18 @@
+{
+  "urn": "141913",
+  "name": "Ogbourne CofE Primary School",
+  "address": "High Street",
+  "locality": "Ogbourne St George",
+  "address3": "",
+  "town": "Marlborough",
+  "county": "Wiltshire",
+  "postcode": "SN8 1SU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "419865",
+  "northing": "174414",
+  "url": "http://www.ogbourne-st-george.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

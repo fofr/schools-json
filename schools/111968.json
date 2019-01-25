@@ -1,0 +1,18 @@
+{
+  "urn": "111968",
+  "name": "Torpoint Nursery and Infant School",
+  "address": "Albion Road",
+  "locality": "",
+  "address3": "",
+  "town": "Torpoint",
+  "county": "Cornwall",
+  "postcode": "PL11 2LU",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "243694",
+  "northing": "55403",
+  "url": "www.torpoint-inf.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

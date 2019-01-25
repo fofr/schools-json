@@ -1,0 +1,18 @@
+{
+  "urn": "112395",
+  "name": "Stainburn School and Science College",
+  "address": "Stainburn Road",
+  "locality": "",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 4EB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "301159",
+  "northing": "528486",
+  "url": "http://www.stainburn.cumbria.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

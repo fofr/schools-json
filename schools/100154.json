@@ -1,0 +1,18 @@
+{
+  "urn": "100154",
+  "name": "Wingfield Primary School",
+  "address": "Ensign Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE3 9GJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540596",
+  "northing": "175520",
+  "url": "www.wingfield.greenwich.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

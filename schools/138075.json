@@ -1,0 +1,18 @@
+{
+  "urn": "138075",
+  "name": "Easington Academy",
+  "address": "Stockton Road",
+  "locality": "Easington Village",
+  "address3": "",
+  "town": "Peterlee",
+  "county": "County Durham",
+  "postcode": "SR8 3AY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "441650",
+  "northing": "543150",
+  "url": "http://www.easingtoncsc.durham.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

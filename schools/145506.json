@@ -1,0 +1,18 @@
+{
+  "urn": "145506",
+  "name": "Ambleside Primary School",
+  "address": "Minver Crescent",
+  "locality": "Aspley",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 5PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453620",
+  "northing": "342400",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

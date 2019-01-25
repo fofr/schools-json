@@ -1,0 +1,18 @@
+{
+  "urn": "115900",
+  "name": "Hale Primary School",
+  "address": "Hatchett Green",
+  "locality": "Hale",
+  "address3": "",
+  "town": "Fordingbridge",
+  "county": "Hampshire",
+  "postcode": "SP6 2NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "419369",
+  "northing": "119066",
+  "url": "www.hale.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130413",
+  "name": "Lambeth College",
+  "address": "45 Clapham Common Southside",
+  "locality": "Clapham Common",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW4 9BL",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "529237",
+  "northing": "174992",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

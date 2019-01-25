@@ -1,0 +1,18 @@
+{
+  "urn": "132242",
+  "name": "Berry Hill Primary School",
+  "address": "Black Scotch Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 4JW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455518",
+  "northing": "359601",
+  "url": "http://www.berryhillprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

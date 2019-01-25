@@ -1,0 +1,18 @@
+{
+  "urn": "108687",
+  "name": "Marsden Primary School",
+  "address": "Mill Lane",
+  "locality": "Whitburn",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR6 7HJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "440624",
+  "northing": "563161",
+  "url": "www.marsdenprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

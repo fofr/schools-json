@@ -1,0 +1,18 @@
+{
+  "urn": "121335",
+  "name": "Skelton Primary School",
+  "address": "Brecksfield",
+  "locality": "Skelton",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO30 1YB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457221",
+  "northing": "456371",
+  "url": "www.skeltonprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

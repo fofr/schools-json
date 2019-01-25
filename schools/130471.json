@@ -1,0 +1,18 @@
+{
+  "urn": "130471",
+  "name": "Coventry Technical College",
+  "address": "Butts",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV1 3GD",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "432515",
+  "northing": "278706",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

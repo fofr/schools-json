@@ -1,0 +1,18 @@
+{
+  "urn": "137073",
+  "name": "Kingstone High School",
+  "address": "Kingstone",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR2 9HJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "342036",
+  "northing": "236293",
+  "url": "http://www.kingstoneacademy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

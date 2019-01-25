@@ -1,0 +1,18 @@
+{
+  "urn": "110227",
+  "name": "Fulmer Infant School",
+  "address": "Alderbourne Lane",
+  "locality": "Fulmer",
+  "address3": "",
+  "town": "Slough",
+  "county": "Berkshire",
+  "postcode": "SL3 6JB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "500021",
+  "northing": "185668",
+  "url": "www.fulmer.bucks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135980",
+  "name": "Ormiston Bushfield Academy",
+  "address": "Ortongate",
+  "locality": "",
+  "address3": "Orton",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 5RQ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "515207",
+  "northing": "295348",
+  "url": "http://www.bushfield.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

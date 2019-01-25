@@ -1,0 +1,18 @@
+{
+  "urn": "145439",
+  "name": "Wilbraham Primary School",
+  "address": "Platt Lane",
+  "locality": "Fallowfield",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M14 7FB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384383",
+  "northing": "394481",
+  "url": "www.wilbrahamprimary.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

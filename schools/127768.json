@@ -1,0 +1,18 @@
+{
+  "urn": "127768",
+  "name": "Holmfield High School",
+  "address": "Holdsworth Road",
+  "locality": "Holmfield",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX2 9SY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "408200",
+  "northing": "428900",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

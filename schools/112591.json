@@ -1,0 +1,18 @@
+{
+  "urn": "112591",
+  "name": "Darley Dale Primary School",
+  "address": "Greenaway Lane",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 2QB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "428128",
+  "northing": "362524",
+  "url": "www.darleydale.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

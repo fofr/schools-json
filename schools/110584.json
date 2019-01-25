@@ -1,0 +1,18 @@
+{
+  "urn": "110584",
+  "name": "The Walnuts School",
+  "address": "Admiral Drive",
+  "locality": "Hazeley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK8 0PU",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "481515",
+  "northing": "236257",
+  "url": "http://www.walnuts.milton-keynes.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

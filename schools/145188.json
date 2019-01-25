@@ -1,0 +1,18 @@
+{
+  "urn": "145188",
+  "name": "Outwood Academy Redcar",
+  "address": "Kirkleatham Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Redcar",
+  "county": "Cleveland",
+  "postcode": "TS10 4AB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "459481",
+  "northing": "523769",
+  "url": "www.redcar.outwood.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

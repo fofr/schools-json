@@ -1,0 +1,18 @@
+{
+  "urn": "142452",
+  "name": "Westerton Primary Academy",
+  "address": "Hesketh Lane",
+  "locality": "Tingley",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF3 1AR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427877",
+  "northing": "425388",
+  "url": "http://www.westerton.leeds.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

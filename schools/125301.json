@@ -1,0 +1,18 @@
+{
+  "urn": "125301",
+  "name": "Collingwood College",
+  "address": "Kingston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU15 4AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "489120",
+  "northing": "161958",
+  "url": "http://www.collingwoodcollege.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

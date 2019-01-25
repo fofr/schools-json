@@ -1,0 +1,18 @@
+{
+  "urn": "142772",
+  "name": "Ashmole Primary School",
+  "address": "Summit Way",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 7NP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "529082",
+  "northing": "193961",
+  "url": "www.ashmoleprimary.org",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

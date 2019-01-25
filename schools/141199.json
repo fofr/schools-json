@@ -1,0 +1,18 @@
+{
+  "urn": "141199",
+  "name": "Napier Community Primary and Nursery Academy",
+  "address": "Napier Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME7 4HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "577675",
+  "northing": "167833",
+  "url": "www.napierprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

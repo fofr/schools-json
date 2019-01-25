@@ -1,0 +1,18 @@
+{
+  "urn": "119800",
+  "name": "St Cecilia's RC High School",
+  "address": "Chapel Hill",
+  "locality": "Longridge",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR3 2XA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "360264",
+  "northing": "436679",
+  "url": "http://www.st-cecilias.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

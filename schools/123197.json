@@ -1,0 +1,18 @@
+{
+  "urn": "123197",
+  "name": "Ewelme CofE Primary School",
+  "address": "Burrows Hill",
+  "locality": "Ewelme",
+  "address3": "",
+  "town": "Wallingford",
+  "county": "Oxfordshire",
+  "postcode": "OX10 6HU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "464526",
+  "northing": "191392",
+  "url": "www.ewelmeprimaryschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

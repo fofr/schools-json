@@ -1,0 +1,18 @@
+{
+  "urn": "137540",
+  "name": "The Kibworth School",
+  "address": "Smeeton Road",
+  "locality": "Kibworth",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE8 0LG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "468127",
+  "northing": "293369",
+  "url": "http://www.thekibworthschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

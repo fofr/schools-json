@@ -1,0 +1,18 @@
+{
+  "urn": "118433",
+  "name": "Melbourne Community Primary School",
+  "address": "Melbourne Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Dover",
+  "county": "Kent",
+  "postcode": "CT16 2JH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "631159",
+  "northing": "143786",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

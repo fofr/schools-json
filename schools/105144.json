@@ -1,0 +1,18 @@
+{
+  "urn": "105144",
+  "name": "Grosvenor Nursery School",
+  "address": "Lord Street",
+  "locality": "Kearsley",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL4 8AR",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "374374",
+  "northing": "405686",
+  "url": "www.grosvenor.bolton.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

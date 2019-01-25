@@ -1,0 +1,18 @@
+{
+  "urn": "110109",
+  "name": "Queen Anne's School",
+  "address": "6 Henley Road",
+  "locality": "Caversham",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG4 6DX",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "471745",
+  "northing": "175131",
+  "url": "www.qas.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138693",
+  "name": "Greenholm Primary School",
+  "address": "Greenholm Road",
+  "locality": "Great Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B44 8HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407394",
+  "northing": "293192",
+  "url": "www.grnholm.bham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

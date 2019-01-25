@@ -1,0 +1,18 @@
+{
+  "urn": "139534",
+  "name": "The Sweyne Park School",
+  "address": "Sir Walter Raleigh Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Rayleigh",
+  "county": "Essex",
+  "postcode": "SS6 9BZ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "580094",
+  "northing": "191719",
+  "url": "http://sweynepark.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

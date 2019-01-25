@@ -1,0 +1,18 @@
+{
+  "urn": "122882",
+  "name": "Tuxford School",
+  "address": "Marnham Road",
+  "locality": "",
+  "address3": "Tuxford",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG22 0JH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "474635",
+  "northing": "371222",
+  "url": "http://www.tuxfordschool.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

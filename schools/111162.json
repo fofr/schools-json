@@ -1,0 +1,18 @@
+{
+  "urn": "111162",
+  "name": "Lodgefields Community Primary School",
+  "address": "Lodgefields Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW2 8TU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "368073",
+  "northing": "355537",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

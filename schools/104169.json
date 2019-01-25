@@ -1,0 +1,18 @@
+{
+  "urn": "104169",
+  "name": "Lower Farm Primary School",
+  "address": "Bakewell Close",
+  "locality": "Bloxwich",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS3 3QH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "400210",
+  "northing": "303451",
+  "url": "www.lowerfarmprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

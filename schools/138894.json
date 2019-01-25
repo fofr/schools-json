@@ -1,0 +1,18 @@
+{
+  "urn": "138894",
+  "name": "Wigston College",
+  "address": "Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wigston",
+  "county": "Leicestershire",
+  "postcode": "LE18 2DS",
+  "minimum_age": "14",
+  "maximum_age": "18",
+  "easting": "459776",
+  "northing": "298548",
+  "url": "www.wigstoncollege.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

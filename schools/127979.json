@@ -1,0 +1,18 @@
+{
+  "urn": "127979",
+  "name": "Parklands High School",
+  "address": "South Parkway",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS14 6TY",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "435526",
+  "northing": "435604",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

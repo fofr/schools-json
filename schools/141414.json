@@ -1,0 +1,18 @@
+{
+  "urn": "141414",
+  "name": "Hagley Catholic High School",
+  "address": "Brake Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hagley",
+  "county": "Worcestershire",
+  "postcode": "DY8 2XL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "389951",
+  "northing": "280485",
+  "url": "http://www.hagleyrc.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

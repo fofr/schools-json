@@ -1,0 +1,18 @@
+{
+  "urn": "110644",
+  "name": "Alderman Payne Primary School",
+  "address": "9, Main Road",
+  "locality": "Parson Drove",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 4JA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "537077",
+  "northing": "308543",
+  "url": "http://www.aldermanpayne.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

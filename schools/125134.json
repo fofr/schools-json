@@ -1,0 +1,18 @@
+{
+  "urn": "125134",
+  "name": "The Acorns Infant School",
+  "address": "The Street",
+  "locality": "",
+  "address3": "",
+  "town": "Betchworth",
+  "county": "Surrey",
+  "postcode": "RH3 7DJ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "520991",
+  "northing": "150032",
+  "url": "www.acorns.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

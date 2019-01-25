@@ -1,0 +1,18 @@
+{
+  "urn": "141258",
+  "name": "Broadstone First School",
+  "address": "Tudor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Broadstone",
+  "county": "Dorset",
+  "postcode": "BH18 8AA",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "400520",
+  "northing": "95928",
+  "url": "www.broadstonefirstschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123386",
+  "name": "Oswestry Infant School",
+  "address": "Middleton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY11 2LF",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "329912",
+  "northing": "329544",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "126497",
+  "name": "Lavington School",
+  "address": "The Spring",
+  "locality": "Market Lavington",
+  "address3": "",
+  "town": "Devizes",
+  "county": "Wiltshire",
+  "postcode": "SN10 4EB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "400821",
+  "northing": "154166",
+  "url": "http://www.lavington.wilts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

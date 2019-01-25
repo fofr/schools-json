@@ -1,0 +1,18 @@
+{
+  "urn": "119808",
+  "name": "Barnacre Road Primary School",
+  "address": "Barnacre Road",
+  "locality": "Longridge",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR3 2PD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "359964",
+  "northing": "437766",
+  "url": "www.barnacreroadprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

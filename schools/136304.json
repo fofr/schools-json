@@ -1,0 +1,18 @@
+{
+  "urn": "136304",
+  "name": "Orchards Academy",
+  "address": "St Mary's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Swanley",
+  "county": "Kent",
+  "postcode": "BR8 7TE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "551053",
+  "northing": "168589",
+  "url": "http://www.orchards-tkat.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

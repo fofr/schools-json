@@ -1,0 +1,18 @@
+{
+  "urn": "136550",
+  "name": "Alban Church of England Academy",
+  "address": "Silver Street",
+  "locality": "Great Barford",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK44 3HZ",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "512944",
+  "northing": "252015",
+  "url": "http://www.albanacademy.org",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

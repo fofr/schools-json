@@ -1,0 +1,18 @@
+{
+  "urn": "133789",
+  "name": "University of Bath",
+  "address": "Claverton Down",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA2 7AY",
+  "minimum_age": "",
+  "maximum_age": "",
+  "easting": "377083",
+  "northing": "164651",
+  "url": "http://www.bath.ac.uk",
+  "phase": "Not applicable",
+  "type": "Universities",
+  "detailed_type": "Higher education institutions"
+}

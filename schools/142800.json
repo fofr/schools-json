@@ -1,0 +1,18 @@
+{
+  "urn": "142800",
+  "name": "Minehead First School",
+  "address": "Townsend Road",
+  "locality": "",
+  "address3": "",
+  "town": "Minehead",
+  "county": "Somerset",
+  "postcode": "TA24 5RG",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "296868",
+  "northing": "145849",
+  "url": "www.mineheadfirstschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

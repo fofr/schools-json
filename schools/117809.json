@@ -1,0 +1,18 @@
+{
+  "urn": "117809",
+  "name": "Paisley Primary School",
+  "address": "Paisley Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU3 6NJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "507242",
+  "northing": "428953",
+  "url": "www.paisleyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

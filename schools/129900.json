@@ -1,0 +1,18 @@
+{
+  "urn": "129900",
+  "name": "Werrington Infant School",
+  "address": "Stonehouse Road",
+  "locality": "Werrington",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST9 0JX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "393859",
+  "northing": "347471",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

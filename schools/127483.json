@@ -1,0 +1,18 @@
+{
+  "urn": "127483",
+  "name": "Pendlebury High School",
+  "address": "Sefton Road",
+  "locality": "Pendlebury",
+  "address3": "Swinton",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M27 2DU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "377641",
+  "northing": "402263",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

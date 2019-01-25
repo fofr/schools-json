@@ -1,0 +1,18 @@
+{
+  "urn": "136302",
+  "name": "The Canterbury Academy",
+  "address": "Knight Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT2 8QA",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "613730",
+  "northing": "157724",
+  "url": "http://www.canterbury.kent.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

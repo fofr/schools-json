@@ -1,0 +1,18 @@
+{
+  "urn": "130535",
+  "name": "Calderdale College",
+  "address": "Francis Street",
+  "locality": "",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX1 3UZ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "408245",
+  "northing": "424813",
+  "url": "http://www.calderdale.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

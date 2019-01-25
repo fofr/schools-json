@@ -1,0 +1,18 @@
+{
+  "urn": "141444",
+  "name": "St Wulstan's Catholic Primary School",
+  "address": "Elmfield Walk",
+  "locality": "Stagborough Way",
+  "address3": "",
+  "town": "Stourport-on-Severn",
+  "county": "Worcestershire",
+  "postcode": "DY13 8TX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "380045",
+  "northing": "272064",
+  "url": "www.stwulstansprimary.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

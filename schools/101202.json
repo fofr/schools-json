@@ -1,0 +1,18 @@
+{
+  "urn": "101202",
+  "name": "Beam Primary School",
+  "address": "Oval Road North",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM10 9ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "550210",
+  "northing": "183257",
+  "url": "www.beamcountyprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

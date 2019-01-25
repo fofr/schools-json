@@ -1,0 +1,18 @@
+{
+  "urn": "102902",
+  "name": "Barnes Primary School",
+  "address": "Cross Street",
+  "locality": "Barnes",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW13 0QQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "521592",
+  "northing": "175859",
+  "url": "www.barnesprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

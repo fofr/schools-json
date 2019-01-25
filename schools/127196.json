@@ -1,0 +1,18 @@
+{
+  "urn": "127196",
+  "name": "Collingwood Primary School",
+  "address": "Collingwood Drive",
+  "locality": "Great Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B43 7NG",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "406300",
+  "northing": "295600",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

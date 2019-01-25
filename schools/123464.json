@@ -1,0 +1,18 @@
+{
+  "urn": "123464",
+  "name": "Burford CofE Primary School",
+  "address": "Forresters Road",
+  "locality": "Burford",
+  "address3": "",
+  "town": "Tenbury Wells",
+  "county": "Worcestershire",
+  "postcode": "WR15 8AT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "359813",
+  "northing": "268869",
+  "url": "www.burfordceprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102098",
+  "name": "Tetherdown Primary School",
+  "address": "Grand Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N10 3BP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "528127",
+  "northing": "189297",
+  "url": "www.tetherdownschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

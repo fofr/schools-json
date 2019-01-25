@@ -1,0 +1,18 @@
+{
+  "urn": "128959",
+  "name": "Highwood School",
+  "address": "Nympsfield Road",
+  "locality": "Nailsworth",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL6 0ET",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "383795",
+  "northing": "200149",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111601",
+  "name": "Kingsley Primary School",
+  "address": "Taybrooke Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS25 5JR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449632",
+  "northing": "531003",
+  "url": "http://www.kingsleyprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

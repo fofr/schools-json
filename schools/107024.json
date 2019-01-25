@@ -1,0 +1,18 @@
+{
+  "urn": "107024",
+  "name": "Totley Primary School",
+  "address": "Sunnyvale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S17 4FB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "430804",
+  "northing": "379732",
+  "url": "www.totleyprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121418",
+  "name": "South Milford Community Primary School",
+  "address": "Sand Lane",
+  "locality": "South Milford",
+  "address3": "",
+  "town": "Leeds",
+  "county": "North Yorkshire",
+  "postcode": "LS25 5AU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449427",
+  "northing": "431329",
+  "url": "http://www.south-milford.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

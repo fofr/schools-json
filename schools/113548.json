@@ -1,0 +1,18 @@
+{
+  "urn": "113548",
+  "name": "Tiverton High School",
+  "address": "Bolham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tiverton",
+  "county": "Devon",
+  "postcode": "EX16 6SQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "295118",
+  "northing": "113431",
+  "url": "http://www.tiverton.devon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

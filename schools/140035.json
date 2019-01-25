@@ -1,0 +1,18 @@
+{
+  "urn": "140035",
+  "name": "Thomas Hepburn Community Academy",
+  "address": "Swards Road",
+  "locality": "Felling",
+  "address3": "",
+  "town": "Gateshead",
+  "county": "Tyne and Wear",
+  "postcode": "NE10 9UZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "428120",
+  "northing": "561112",
+  "url": "www.thomashepburnacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

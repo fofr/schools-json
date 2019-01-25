@@ -1,0 +1,18 @@
+{
+  "urn": "141232",
+  "name": "Austin Farm Academy",
+  "address": "Delamere Road",
+  "locality": "Eggbuckland",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 5XQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "250393",
+  "northing": "57207",
+  "url": "www.austinfarm.plymouth.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

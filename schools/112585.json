@@ -1,0 +1,18 @@
+{
+  "urn": "112585",
+  "name": "Longmoor Primary School",
+  "address": "Newstead Road",
+  "locality": "Long Eaton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG10 4JG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448122",
+  "northing": "335285",
+  "url": "http://www.longmoorprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102672",
+  "name": "The Priory CofE School",
+  "address": "Queens Road",
+  "locality": "Wimbledon",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW19 8LX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525696",
+  "northing": "171091",
+  "url": "www.thepriory.merton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

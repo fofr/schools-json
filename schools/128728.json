@@ -1,0 +1,18 @@
+{
+  "urn": "128728",
+  "name": "Devonport Secondary School",
+  "address": "Park Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 4RL",
+  "minimum_age": "11",
+  "maximum_age": "15",
+  "easting": "245406",
+  "northing": "55353",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

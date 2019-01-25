@@ -1,0 +1,18 @@
+{
+  "urn": "113298",
+  "name": "Lipson Vale Primary School",
+  "address": "Bernice Terrace",
+  "locality": "Lipson",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL4 7HW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "249442",
+  "northing": "55645",
+  "url": "www.lvps.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

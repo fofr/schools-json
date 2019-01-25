@@ -1,0 +1,18 @@
+{
+  "urn": "136345",
+  "name": "Lark Rise Academy",
+  "address": "Cartmel Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU6 3PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "501548",
+  "northing": "220649",
+  "url": "www.larkriseac.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

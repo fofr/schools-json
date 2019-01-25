@@ -1,0 +1,18 @@
+{
+  "urn": "136308",
+  "name": "Ashmole Academy",
+  "address": "Cecil Road",
+  "locality": "Southgate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 5RJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "529324",
+  "northing": "194021",
+  "url": "http://www.ashmoleacademy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

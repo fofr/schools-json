@@ -1,0 +1,18 @@
+{
+  "urn": "124098",
+  "name": "Leek First School",
+  "address": "East Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leek",
+  "county": "Staffordshire",
+  "postcode": "ST13 6LF",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "399196",
+  "northing": "356488",
+  "url": "www.leek-first.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

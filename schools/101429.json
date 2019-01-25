@@ -1,0 +1,18 @@
+{
+  "urn": "101429",
+  "name": "Longlands Primary School",
+  "address": "Woodside Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sidcup",
+  "county": "Kent",
+  "postcode": "DA15 7JG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "545413",
+  "northing": "172315",
+  "url": "www.longlands.bexley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124399",
+  "name": "Moorside High School",
+  "address": "Cellarhead Road",
+  "locality": "Werrington",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST9 0HP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "395310",
+  "northing": "347787",
+  "url": "http://www.moorside.staffs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

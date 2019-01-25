@@ -1,0 +1,18 @@
+{
+  "urn": "122841",
+  "name": "Sutton Centre Community College",
+  "address": "High Pavement",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton-in-Ashfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 1EE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "449577",
+  "northing": "358768",
+  "url": "www.suttoncentre.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109863",
+  "name": "Emmbrook Junior School",
+  "address": "Emmbrook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG41 1JR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "479881",
+  "northing": "170027",
+  "url": "www.emmbrookjuniorschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115770",
+  "name": "Cirencester Kingshill School",
+  "address": "Kingshill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Cirencester",
+  "county": "Gloucestershire",
+  "postcode": "GL7 1HS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "403927",
+  "northing": "201996",
+  "url": "http://www.cirencesterkingshill.gloucs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

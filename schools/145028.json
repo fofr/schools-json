@@ -1,0 +1,18 @@
+{
+  "urn": "145028",
+  "name": "Admirals Academy",
+  "address": "Admirals Way",
+  "locality": "",
+  "address3": "",
+  "town": "Thetford",
+  "county": "Norfolk",
+  "postcode": "IP24 2JT",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "587840",
+  "northing": "284044",
+  "url": "www.admiralsacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130469",
+  "name": "Cadbury Sixth Form College",
+  "address": "Downland Close",
+  "locality": "Redditch Road",
+  "address3": "Kings Norton",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B38 8QT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "404825",
+  "northing": "278345",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

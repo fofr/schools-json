@@ -1,0 +1,18 @@
+{
+  "urn": "137192",
+  "name": "Whitstone",
+  "address": "Charlton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shepton Mallet",
+  "county": "Somerset",
+  "postcode": "BA4 5PF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "362236",
+  "northing": "143458",
+  "url": "http://www.whitstoneschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

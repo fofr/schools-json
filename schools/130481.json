@@ -1,0 +1,18 @@
+{
+  "urn": "130481",
+  "name": "Solihull College",
+  "address": "Blossomfield Campus",
+  "locality": "Blossomfield Road",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B91 1SB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "414236",
+  "northing": "279083",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141553",
+  "name": "Stoke Primary Academy",
+  "address": "Allhallows Road",
+  "locality": "Lower Stoke",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME3 9SL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "583168",
+  "northing": "176220",
+  "url": "http://www.stoke.medway.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

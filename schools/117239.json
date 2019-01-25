@@ -1,0 +1,18 @@
+{
+  "urn": "117239",
+  "name": "Rossgate Primary School",
+  "address": "Galley Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP1 3JY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "504305",
+  "northing": "208312",
+  "url": "http://www.rossgate.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

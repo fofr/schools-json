@@ -1,0 +1,18 @@
+{
+  "urn": "108088",
+  "name": "Wetherby High School",
+  "address": "Hallfield Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Wetherby",
+  "county": "West Yorkshire",
+  "postcode": "LS22 6JS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "440761",
+  "northing": "448342",
+  "url": "http://www.wetherbyhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139442",
+  "name": "South Charnwood High School",
+  "address": "Broad Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Markfield",
+  "county": "Leicestershire",
+  "postcode": "LE67 9TB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "447186",
+  "northing": "309315",
+  "url": "www.southcharnwood.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

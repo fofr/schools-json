@@ -1,0 +1,18 @@
+{
+  "urn": "120284",
+  "name": "John Ellis Community College",
+  "address": "Corporation Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 5PW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "458792",
+  "northing": "306843",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

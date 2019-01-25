@@ -1,0 +1,18 @@
+{
+  "urn": "136150",
+  "name": "Lloyds Academy",
+  "address": "23-25 Grantham Road",
+  "locality": "Sparkbrook",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B11 1LU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "408840",
+  "northing": "284968",
+  "url": "www.lloydsacademy.org",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

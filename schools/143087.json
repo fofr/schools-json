@@ -1,0 +1,18 @@
+{
+  "urn": "143087",
+  "name": "The Oval School",
+  "address": "Whittington Oval",
+  "locality": "Yardley",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B33 8JG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "413952",
+  "northing": "286945",
+  "url": "www.theovalprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

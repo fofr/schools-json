@@ -1,0 +1,18 @@
+{
+  "urn": "138085",
+  "name": "Hibaldstow Academy",
+  "address": "Hopfield",
+  "locality": "Hibaldstow",
+  "address3": "",
+  "town": "Brigg",
+  "county": "North Lincolnshire",
+  "postcode": "DN20 9PN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "498151",
+  "northing": "402462",
+  "url": "www.hibscaw.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

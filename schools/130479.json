@@ -1,0 +1,18 @@
+{
+  "urn": "130479",
+  "name": "Sandwell College",
+  "address": "1 Spon Lane",
+  "locality": "",
+  "address3": "",
+  "town": "West Bromwich",
+  "county": "West Midlands",
+  "postcode": "B70 6AW",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "400667",
+  "northing": "290781",
+  "url": "www.sandwell.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

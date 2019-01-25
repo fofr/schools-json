@@ -1,0 +1,18 @@
+{
+  "urn": "136736",
+  "name": "South Craven School",
+  "address": "Holme Lane",
+  "locality": "Cross Hills",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD20 7RL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "400829",
+  "northing": "444837",
+  "url": "http://www.southcraven.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120809",
+  "name": "Frettenham Primary School",
+  "address": "16 School Road",
+  "locality": "Frettenham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR12 7LL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "624758",
+  "northing": "317518",
+  "url": "http://www.frettenham.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

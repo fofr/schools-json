@@ -1,0 +1,18 @@
+{
+  "urn": "123647",
+  "name": "Horrington Primary School",
+  "address": "West Horrington",
+  "locality": "",
+  "address3": "",
+  "town": "Wells",
+  "county": "Somerset",
+  "postcode": "BA5 3EB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "357495",
+  "northing": "147207",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102802",
+  "name": "Fairlop Primary School",
+  "address": "Colvin Gardens",
+  "locality": "Hainault",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG6 2LH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544192",
+  "northing": "191047",
+  "url": "www.fairlop.redbridge.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

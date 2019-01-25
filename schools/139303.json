@@ -1,0 +1,18 @@
+{
+  "urn": "139303",
+  "name": "Wansdyke School",
+  "address": "Downlands Road",
+  "locality": "",
+  "address3": "",
+  "town": "Devizes",
+  "county": "Wiltshire",
+  "postcode": "SN10 5EF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "400785",
+  "northing": "160362",
+  "url": "http://www.wansdyke.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

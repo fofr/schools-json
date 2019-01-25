@@ -1,0 +1,18 @@
+{
+  "urn": "112488",
+  "name": "Kingsmead Behaviour Support Service",
+  "address": "Bridge Street",
+  "locality": "",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE1 3LU",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "434600",
+  "northing": "337600",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

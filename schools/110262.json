@@ -1,0 +1,18 @@
+{
+  "urn": "110262",
+  "name": "Eaton Mill Primary School",
+  "address": "Saffron Street",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK2 3AH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "487671",
+  "northing": "232955",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

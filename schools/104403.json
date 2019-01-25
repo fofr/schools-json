@@ -1,0 +1,18 @@
+{
+  "urn": "104403",
+  "name": "Moseley Park",
+  "address": "Holland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 6LU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "395233",
+  "northing": "297565",
+  "url": "http://www.moseleypark.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

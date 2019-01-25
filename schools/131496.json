@@ -1,0 +1,18 @@
+{
+  "urn": "131496",
+  "name": "Fonthill Primary School",
+  "address": "Ascot Road",
+  "locality": "Southmead",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS10 5SW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "359095",
+  "northing": "178659",
+  "url": "www.fonthill.bristol.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

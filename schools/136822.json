@@ -1,0 +1,18 @@
+{
+  "urn": "136822",
+  "name": "Bristol Free School",
+  "address": "Concorde Drive",
+  "locality": "Westbury-on-Trym",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS10 6NJ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "357539",
+  "northing": "178217",
+  "url": "http://www.bristolfreeschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107258",
+  "name": "Wilsden Primary School",
+  "address": "Tweedy Street",
+  "locality": "Wilsden",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD15 0AE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "409371",
+  "northing": "436408",
+  "url": "www.wilsdenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

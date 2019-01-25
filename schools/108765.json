@@ -1,0 +1,18 @@
+{
+  "urn": "108765",
+  "name": "Grange Park Primary School",
+  "address": "Swan Street",
+  "locality": "",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR5 1EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "439253",
+  "northing": "558514",
+  "url": "www.grangeparkprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

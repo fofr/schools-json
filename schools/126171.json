@@ -1,0 +1,18 @@
+{
+  "urn": "126171",
+  "name": "EOTAS Swindon",
+  "address": "Ferndale Road",
+  "locality": "Ferndale",
+  "address3": "",
+  "town": "Swindon",
+  "county": "",
+  "postcode": "SN2 1HL",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "414657",
+  "northing": "185860",
+  "url": "www.eotas.org",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

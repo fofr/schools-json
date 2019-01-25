@@ -1,0 +1,18 @@
+{
+  "urn": "129342",
+  "name": "Grace Academy Solihull",
+  "address": "Chapelhouse Road",
+  "locality": "Chelmsey Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B37 5JS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "416605",
+  "northing": "286409",
+  "url": "http://www.graceacademy.org.uk/solihull/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

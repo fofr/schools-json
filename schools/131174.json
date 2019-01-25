@@ -1,0 +1,18 @@
+{
+  "urn": "131174",
+  "name": "Lea Bank Nursery",
+  "address": "Wauluds Bank Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU3 3LZ",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "506311",
+  "northing": "225051",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

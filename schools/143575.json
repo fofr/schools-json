@@ -1,0 +1,18 @@
+{
+  "urn": "143575",
+  "name": "Sawtry Junior Academy",
+  "address": "Middlefield Road",
+  "locality": "Sawtry",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 5SH",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "516652",
+  "northing": "283259",
+  "url": "www.sawtryjuniorschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143074",
+  "name": "St Edmund's Primary School",
+  "address": "Heckfield Green",
+  "locality": "Hoxne",
+  "address3": "",
+  "town": "Eye",
+  "county": "Suffolk",
+  "postcode": "IP21 5AD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "618794",
+  "northing": "275995",
+  "url": "http://www.waveneyvalleypartnership.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

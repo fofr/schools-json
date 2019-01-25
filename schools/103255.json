@@ -1,0 +1,18 @@
+{
+  "urn": "103255",
+  "name": "Sladefield Infant School",
+  "address": "Bamville Road",
+  "locality": "Ward End",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B8 2TJ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "411483",
+  "northing": "288290",
+  "url": "www.slfield.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

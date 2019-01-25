@@ -1,0 +1,18 @@
+{
+  "urn": "123264",
+  "name": "Marston Middle School",
+  "address": "Raymund Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 0PG",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "452513",
+  "northing": "208370",
+  "url": "http://www.marston-middle.oxon.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

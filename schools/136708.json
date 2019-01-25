@@ -1,0 +1,18 @@
+{
+  "urn": "136708",
+  "name": "Hans Price Academy",
+  "address": "Marchfields Way",
+  "locality": "",
+  "address3": "",
+  "town": "Weston-super-Mare",
+  "county": "Somerset",
+  "postcode": "BS23 3QP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "332918",
+  "northing": "160356",
+  "url": "http://www.hansprice.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131902",
+  "name": "Penhill Primary School",
+  "address": "Alton Close",
+  "locality": "Penhill",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN2 5HF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "415228",
+  "northing": "188372",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146320",
+  "name": "Darton Academy",
+  "address": "Ballfield Lane",
+  "locality": "Darton",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "",
+  "postcode": "S75 5EF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "430019",
+  "northing": "409618",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

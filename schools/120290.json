@@ -1,0 +1,18 @@
+{
+  "urn": "120290",
+  "name": "Catmose College",
+  "address": "Cold Overton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oakham",
+  "county": "Rutland",
+  "postcode": "LE15 6NU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "485214",
+  "northing": "308921",
+  "url": "http://www.valeofcatmose.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

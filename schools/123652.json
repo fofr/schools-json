@@ -1,0 +1,18 @@
+{
+  "urn": "123652",
+  "name": "Leigh-Upon-Mendip First School",
+  "address": "Leigh Street",
+  "locality": "Leigh-upon-Mendip",
+  "address3": "",
+  "town": "Radstock",
+  "county": "Somerset",
+  "postcode": "BA3 5QQ",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "369353",
+  "northing": "147266",
+  "url": "http://www.leighonmendipschool.info",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

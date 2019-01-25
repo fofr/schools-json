@@ -1,0 +1,18 @@
+{
+  "urn": "142636",
+  "name": "Claremont Primary School",
+  "address": "Claremont Road",
+  "locality": "Cricklewood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW2 1AB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "523635",
+  "northing": "186708",
+  "url": "www.claremontprimarynw2.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

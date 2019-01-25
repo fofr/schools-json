@@ -1,0 +1,18 @@
+{
+  "urn": "112786",
+  "name": "Ambergate Primary School",
+  "address": "Toadmoor Lane",
+  "locality": "Ambergate",
+  "address3": "",
+  "town": "Belper",
+  "county": "Derbyshire",
+  "postcode": "DE56 2GN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "434897",
+  "northing": "351250",
+  "url": "www.ambergateprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

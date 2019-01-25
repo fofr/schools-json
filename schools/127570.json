@@ -1,0 +1,18 @@
+{
+  "urn": "127570",
+  "name": "Springvale First School",
+  "address": "High Street",
+  "locality": "Grimethorpe",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S72 7LU",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "441200",
+  "northing": "408800",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

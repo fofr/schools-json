@@ -1,0 +1,18 @@
+{
+  "urn": "111649",
+  "name": "Alderman William Jones Primary School",
+  "address": "Tennyson Avenue",
+  "locality": "Grangetown",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS6 7NP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455225",
+  "northing": "520047",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

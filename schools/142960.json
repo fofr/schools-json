@@ -1,0 +1,18 @@
+{
+  "urn": "142960",
+  "name": "Lyng Hall School",
+  "address": "Blackberry Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV2 3JS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "436159",
+  "northing": "280776",
+  "url": "www.lynghallschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111830",
+  "name": "Constantine Primary School",
+  "address": "Trebarvah Road",
+  "locality": "Constantine",
+  "address3": "",
+  "town": "Falmouth",
+  "county": "Cornwall",
+  "postcode": "TR11 5AG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "172834",
+  "northing": "29324",
+  "url": "constantine.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

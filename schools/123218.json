@@ -1,0 +1,18 @@
+{
+  "urn": "123218",
+  "name": "St Aloysius' Catholic Primary School",
+  "address": "143 Woodstock Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX2 7PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450744",
+  "northing": "207860",
+  "url": "www.staloysius.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

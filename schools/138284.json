@@ -1,0 +1,18 @@
+{
+  "urn": "138284",
+  "name": "Rauceby Church of England Primary School",
+  "address": "Tom Lane",
+  "locality": "North Rauceby",
+  "address3": "",
+  "town": "Sleaford",
+  "county": "Lincolnshire",
+  "postcode": "NG34 8QW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "502368",
+  "northing": "346135",
+  "url": "www.raucebyschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

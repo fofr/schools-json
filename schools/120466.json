@@ -1,0 +1,18 @@
+{
+  "urn": "120466",
+  "name": "The New Leake Primary School",
+  "address": "Fodderdyke Bank",
+  "locality": "New Leake",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE22 8JB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "539362",
+  "northing": "356916",
+  "url": "www.new-leake.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

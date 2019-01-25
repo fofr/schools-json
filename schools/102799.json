@@ -1,0 +1,18 @@
+{
+  "urn": "102799",
+  "name": "Cleveland Infants' School",
+  "address": "Cleveland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG1 1EW",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "543934",
+  "northing": "186014",
+  "url": "www.cleveland-inf.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

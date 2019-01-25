@@ -1,0 +1,18 @@
+{
+  "urn": "110635",
+  "name": "Robert Arkenstall Primary School",
+  "address": "Camping Close",
+  "locality": "High Street",
+  "address3": "Haddenham",
+  "town": "Ely",
+  "county": "Cambridgeshire",
+  "postcode": "CB6 3UA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "546421",
+  "northing": "275291",
+  "url": "www.robertarkenstall.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

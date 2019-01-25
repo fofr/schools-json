@@ -1,0 +1,18 @@
+{
+  "urn": "145077",
+  "name": "Cusgarne Primary School",
+  "address": "Cusgarne",
+  "locality": "",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR4 8RW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "176142",
+  "northing": "40609",
+  "url": "http://www.cusgarne.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

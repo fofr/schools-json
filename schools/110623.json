@@ -1,0 +1,18 @@
+{
+  "urn": "110623",
+  "name": "Hatton Park Primary School",
+  "address": "Hatton Park",
+  "locality": "Longstanton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 3DL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "539716",
+  "northing": "266757",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

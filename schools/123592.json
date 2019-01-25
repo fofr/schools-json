@@ -1,0 +1,18 @@
+{
+  "urn": "123592",
+  "name": "Greenacres Primary School",
+  "address": "Rutland",
+  "locality": "Off York Road",
+  "address3": "Harlescott Grange",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 3QG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "350234",
+  "northing": "316193",
+  "url": "www.greenacres.shropshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

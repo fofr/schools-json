@@ -1,0 +1,18 @@
+{
+  "urn": "105198",
+  "name": "Gilnow Primary School",
+  "address": "Gilnow Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Greater Manchester",
+  "postcode": "BL1 4LG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "370370",
+  "northing": "408860",
+  "url": "www.gilnow.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

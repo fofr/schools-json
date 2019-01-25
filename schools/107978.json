@@ -1,0 +1,18 @@
+{
+  "urn": "107978",
+  "name": "Sandford Primary School",
+  "address": "Landseer Mount",
+  "locality": "Bramley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 2QZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "425158",
+  "northing": "435324",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

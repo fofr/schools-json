@@ -1,0 +1,18 @@
+{
+  "urn": "103830",
+  "name": "Quarry Bank Primary School",
+  "address": "High Street",
+  "locality": "Quarry Bank",
+  "address3": "",
+  "town": "Brierley Hill",
+  "county": "West Midlands",
+  "postcode": "DY5 2AD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "393228",
+  "northing": "286067",
+  "url": "http://www.quarry.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119170",
+  "name": "Laneshaw Bridge Primary",
+  "address": "Emmott Lane",
+  "locality": "Laneshaw Bridge",
+  "address3": "",
+  "town": "Colne",
+  "county": "Lancashire",
+  "postcode": "BB8 7JE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "392107",
+  "northing": "440798",
+  "url": "www.laneshawbridgeschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

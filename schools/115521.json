@@ -1,0 +1,18 @@
+{
+  "urn": "115521",
+  "name": "Soudley School",
+  "address": "Soudley",
+  "locality": "",
+  "address3": "",
+  "town": "Cinderford",
+  "county": "Gloucestershire",
+  "postcode": "GL14 2UA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "366056",
+  "northing": "210576",
+  "url": "www.soudleyschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

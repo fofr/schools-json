@@ -1,0 +1,18 @@
+{
+  "urn": "146123",
+  "name": "Knutsford Primary Academy",
+  "address": "Balmoral Road",
+  "locality": "",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD24 7ER",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511621",
+  "northing": "198158",
+  "url": "http://www.knutsford.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

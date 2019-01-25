@@ -1,0 +1,18 @@
+{
+  "urn": "140453",
+  "name": "St Giles CofE Academy",
+  "address": "Skinner Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF8 1HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "445617",
+  "northing": "422230",
+  "url": "www.st-giles.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

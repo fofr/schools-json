@@ -1,0 +1,18 @@
+{
+  "urn": "120938",
+  "name": "Colman Infant School",
+  "address": "Colman Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR4 7AW",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "621162",
+  "northing": "307507",
+  "url": "www.colmaninfant.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

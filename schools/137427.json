@@ -1,0 +1,18 @@
+{
+  "urn": "137427",
+  "name": "Bassingbourn Village College",
+  "address": "South End",
+  "locality": "Bassingbourn",
+  "address3": "",
+  "town": "Royston",
+  "county": "Hertfordshire",
+  "postcode": "SG8 5NJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "533079",
+  "northing": "243671",
+  "url": "www.bassingbournvc.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

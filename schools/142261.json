@@ -1,0 +1,18 @@
+{
+  "urn": "142261",
+  "name": "Little Hill Primary",
+  "address": "Launceston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wigston",
+  "county": "Leicestershire",
+  "postcode": "LE18 2GZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "460274",
+  "northing": "298584",
+  "url": "http://www.littlehill.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

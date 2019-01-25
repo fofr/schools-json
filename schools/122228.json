@@ -1,0 +1,18 @@
+{
+  "urn": "122228",
+  "name": "Stannington First School",
+  "address": "Church Road",
+  "locality": "Stannington",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE61 6HJ",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "420961",
+  "northing": "579491",
+  "url": "www.stannington.northumberland.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

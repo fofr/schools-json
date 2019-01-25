@@ -1,0 +1,18 @@
+{
+  "urn": "144118",
+  "name": "Swinford Church of England Primary School",
+  "address": "School Lane",
+  "locality": "Swinford",
+  "address3": "",
+  "town": "Lutterworth",
+  "county": "Leicestershire",
+  "postcode": "LE17 6BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "456973",
+  "northing": "279590",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123374",
+  "name": "Ifton Heath Primary School",
+  "address": "St Martin's",
+  "locality": "",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY11 3DH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "332615",
+  "northing": "337165",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

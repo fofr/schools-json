@@ -1,0 +1,18 @@
+{
+  "urn": "112109",
+  "name": "Great Corby Primary School",
+  "address": "Great Corby",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA4 8NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "347514",
+  "northing": "554633",
+  "url": "http://www.gtcorby.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

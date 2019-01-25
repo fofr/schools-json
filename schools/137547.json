@@ -1,0 +1,18 @@
+{
+  "urn": "137547",
+  "name": "Witchford Village College",
+  "address": "Manor Road",
+  "locality": "Witchford",
+  "address3": "",
+  "town": "Ely",
+  "county": "Cambridgeshire",
+  "postcode": "CB6 2JA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "550625",
+  "northing": "279276",
+  "url": "http://www.witchfordvc.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

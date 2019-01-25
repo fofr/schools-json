@@ -1,0 +1,18 @@
+{
+  "urn": "135940",
+  "name": "Furness Academy",
+  "address": "Park Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA13 9BB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "320952",
+  "northing": "469650",
+  "url": "http://www.furnessacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

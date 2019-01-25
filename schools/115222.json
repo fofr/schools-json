@@ -1,0 +1,18 @@
+{
+  "urn": "115222",
+  "name": "Forest Hall School",
+  "address": "Forest Hall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stansted Mountfitchet",
+  "county": "Essex",
+  "postcode": "CM24 8TZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "551997",
+  "northing": "224016",
+  "url": "http://fhs.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

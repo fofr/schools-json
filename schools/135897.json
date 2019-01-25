@@ -1,0 +1,18 @@
+{
+  "urn": "135897",
+  "name": "The Basildon Upper Academy",
+  "address": "Wickford Avenue",
+  "locality": "",
+  "address3": "Pitsea",
+  "town": "Basildon",
+  "county": "Essex",
+  "postcode": "SS13 3HL",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "573689",
+  "northing": "188474",
+  "url": "http://www.basildonacademies.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

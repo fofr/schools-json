@@ -1,0 +1,18 @@
+{
+  "urn": "101919",
+  "name": "Mount Carmel Catholic Primary School",
+  "address": "Little Ealing Lane",
+  "locality": "Ealing",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W5 4EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517527",
+  "northing": "179037",
+  "url": "www.mountcarmel.ealing.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

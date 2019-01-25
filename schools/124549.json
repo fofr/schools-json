@@ -1,0 +1,18 @@
+{
+  "urn": "124549",
+  "name": "Woolpit Community Primary School",
+  "address": "Heath Road",
+  "locality": "Woolpit",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP30 9RU",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "597900",
+  "northing": "262162",
+  "url": "http://www.woolpitprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

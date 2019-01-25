@@ -1,0 +1,18 @@
+{
+  "urn": "137298",
+  "name": "Severn Vale School",
+  "address": "School Lane",
+  "locality": "Quedgeley",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL2 4PR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "380289",
+  "northing": "213982",
+  "url": "http://www.severnvaleschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

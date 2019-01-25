@@ -1,0 +1,18 @@
+{
+  "urn": "101425",
+  "name": "Belvedere Junior School",
+  "address": "Mitchell Close",
+  "locality": "",
+  "address3": "",
+  "town": "Belvedere",
+  "county": "Kent",
+  "postcode": "DA17 6AA",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "549861",
+  "northing": "179072",
+  "url": "www.belvederejuniorschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115488",
+  "name": "Elmbridge Infant School",
+  "address": "Windfall Way",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL2 0LN",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "385365",
+  "northing": "218776",
+  "url": "www.elmbridgeinfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

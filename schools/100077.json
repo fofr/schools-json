@@ -1,0 +1,18 @@
+{
+  "urn": "100077",
+  "name": "The Village School",
+  "address": "2 Parkhill Road",
+  "locality": "Belsize Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW3 2YN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527781",
+  "northing": "184808",
+  "url": "www.thevillageschool.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

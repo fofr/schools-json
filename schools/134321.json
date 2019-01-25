@@ -1,0 +1,18 @@
+{
+  "urn": "134321",
+  "name": "The Bridge School",
+  "address": "Chadwick Road",
+  "locality": "Astmoor",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 1PW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "353562",
+  "northing": "383027",
+  "url": "www.thebridge.halton.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

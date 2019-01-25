@@ -1,0 +1,18 @@
+{
+  "urn": "110968",
+  "name": "Evelyn Street Community Primary School",
+  "address": "Evelyn Street",
+  "locality": "",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA5 1BD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "359067",
+  "northing": "387819",
+  "url": "http://www.evelynstreetschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

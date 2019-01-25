@@ -1,0 +1,18 @@
+{
+  "urn": "124923",
+  "name": "Wey Valley College",
+  "address": "Southway",
+  "locality": "",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU2 8AA",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "497984",
+  "northing": "150871",
+  "url": "www.wvc.surrey.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

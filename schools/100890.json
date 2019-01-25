@@ -1,0 +1,18 @@
+{
+  "urn": "100890",
+  "name": "Ben Jonson Primary School",
+  "address": "Harford Street",
+  "locality": "Stepney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E1 4PZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "536179",
+  "northing": "182059",
+  "url": "www.benjonson.towerhamlets.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

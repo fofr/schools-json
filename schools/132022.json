@@ -1,0 +1,18 @@
+{
+  "urn": "132022",
+  "name": "Goose Green Primary School",
+  "address": "Tintagel Crescent",
+  "locality": "East Dulwich",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE22 8HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "533707",
+  "northing": "175360",
+  "url": "http://www.goosegreenprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

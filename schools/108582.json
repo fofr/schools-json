@@ -1,0 +1,18 @@
+{
+  "urn": "108582",
+  "name": "Westmoor Primary School",
+  "address": "Southgate",
+  "locality": "Killingworth",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE12 6SA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427415",
+  "northing": "570572",
+  "url": "www.westmoor.primary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

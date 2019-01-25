@@ -1,0 +1,18 @@
+{
+  "urn": "140622",
+  "name": "Meadow Primary School",
+  "address": "High Street",
+  "locality": "Balsham",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB21 4DJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "558824",
+  "northing": "250701",
+  "url": "http://www.themeadowbalsham.co.uk/index.asp",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

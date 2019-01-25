@@ -1,0 +1,18 @@
+{
+  "urn": "127062",
+  "name": "Kings School",
+  "address": "Hornsey Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "",
+  "postcode": "B44 0JN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "408500",
+  "northing": "294700",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

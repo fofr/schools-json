@@ -1,0 +1,18 @@
+{
+  "urn": "136468",
+  "name": "Denbigh School",
+  "address": "Burchard Crescent",
+  "locality": "Shenley Church End",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK5 6EX",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "483107",
+  "northing": "236985",
+  "url": "http://www.denbigh.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

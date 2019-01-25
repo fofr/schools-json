@@ -1,0 +1,18 @@
+{
+  "urn": "116115",
+  "name": "Glenfield Infant School",
+  "address": "Rossington Way",
+  "locality": "Bitterne",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO18 4RN",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "444884",
+  "northing": "113287",
+  "url": "http://www.glenfield.southampton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104700",
+  "name": "Gateacre School",
+  "address": "Hedgefield Road",
+  "locality": "Gateacre",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L25 2RW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "342868",
+  "northing": "388647",
+  "url": "http://www.gateacre.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

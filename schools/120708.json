@@ -1,0 +1,18 @@
+{
+  "urn": "120708",
+  "name": "North Kesteven School",
+  "address": "Moor Lane",
+  "locality": "North Hykeham",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN6 9AG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "493850",
+  "northing": "366405",
+  "url": "http://www.nkschool.lincs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138925",
+  "name": "Fir Vale School",
+  "address": "Owler Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S4 8GB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "436817",
+  "northing": "390122",
+  "url": "http://firvale.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109286",
+  "name": "Bridge Learning Campus - Secondary",
+  "address": "Bridge Learning Campus",
+  "locality": "William Jessop Way",
+  "address3": "Hartcliffe",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS13 0RL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "359218",
+  "northing": "167672",
+  "url": "www.bridgelearningcampus.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

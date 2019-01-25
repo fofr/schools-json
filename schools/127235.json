@@ -1,0 +1,18 @@
+{
+  "urn": "127235",
+  "name": "Park View Infant School",
+  "address": "Twig Lane",
+  "locality": "Huyton",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L36 2LL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "343269",
+  "northing": "391696",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

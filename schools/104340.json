@@ -1,0 +1,18 @@
+{
+  "urn": "104340",
+  "name": "Danesmore Park Primary School",
+  "address": "Russell Close",
+  "locality": "Wednesfield",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV11 2LA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "396073",
+  "northing": "302271",
+  "url": "http://www.danesmore.biblio.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

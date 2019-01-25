@@ -1,0 +1,18 @@
+{
+  "urn": "110344",
+  "name": "Farnham Common Infant School",
+  "address": "Beaconsfield Road",
+  "locality": "Farnham Common",
+  "address3": "",
+  "town": "Slough",
+  "county": "Buckinghamshire",
+  "postcode": "SL2 3HS",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "496005",
+  "northing": "185560",
+  "url": "www.farnhamcommonvillageschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

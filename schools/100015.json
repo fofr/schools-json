@@ -1,0 +1,18 @@
+{
+  "urn": "100015",
+  "name": "Hawley Primary School",
+  "address": "Hawley Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW1 8RP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528886",
+  "northing": "184273",
+  "url": "http://www.hawley.camden.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137926",
+  "name": "The Gilberd School",
+  "address": "Brinkley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO4 9PU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "600742",
+  "northing": "228148",
+  "url": "www.gilberd.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

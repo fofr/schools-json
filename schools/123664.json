@@ -1,0 +1,18 @@
+{
+  "urn": "123664",
+  "name": "Hindhayes Infant School",
+  "address": "Leigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Street",
+  "county": "Somerset",
+  "postcode": "BA16 0HB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "348532",
+  "northing": "136309",
+  "url": "http://www.hindhayes.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136158",
+  "name": "The Nuneaton Academy",
+  "address": "Radnor Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Nuneaton",
+  "county": "Warwickshire",
+  "postcode": "CV10 7PD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "433847",
+  "northing": "290895",
+  "url": "http://www.nuneatonacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

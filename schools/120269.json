@@ -1,0 +1,18 @@
+{
+  "urn": "120269",
+  "name": "Brookvale High School Groby",
+  "address": "Ratby Road",
+  "locality": "Groby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE6 0FP",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "451907",
+  "northing": "306904",
+  "url": "www.brookvale.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

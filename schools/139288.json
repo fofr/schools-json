@@ -1,0 +1,18 @@
+{
+  "urn": "139288",
+  "name": "Westbourne Academy",
+  "address": "Marlow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP1 5JN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "614005",
+  "northing": "246342",
+  "url": "http://www.westbourne.attrust.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

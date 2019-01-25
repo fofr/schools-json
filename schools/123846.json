@@ -1,0 +1,18 @@
+{
+  "urn": "123846",
+  "name": "St Joseph's Catholic Primary School, Bridgwater",
+  "address": "Park Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA6 7EE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "328843",
+  "northing": "136859",
+  "url": "https://www.somerset.org.uk/sites/stjosephs/Pages/Welcome.aspx",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

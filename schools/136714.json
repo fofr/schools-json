@@ -1,0 +1,18 @@
+{
+  "urn": "136714",
+  "name": "Gonville Academy",
+  "address": "Gonville Road",
+  "locality": "",
+  "address3": "",
+  "town": "Thornton Heath",
+  "county": "Surrey",
+  "postcode": "CR7 6DL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530728",
+  "northing": "167907",
+  "url": "www.gonvilleacademy.croydon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

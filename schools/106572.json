@@ -1,0 +1,18 @@
+{
+  "urn": "106572",
+  "name": "The Hill Primary School",
+  "address": "Tudor Street",
+  "locality": "Thurnscoe",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S63 0DS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "446625",
+  "northing": "405985",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

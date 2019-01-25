@@ -1,0 +1,18 @@
+{
+  "urn": "120905",
+  "name": "Redcastle Family School",
+  "address": "St Martin's Way",
+  "locality": "",
+  "address3": "",
+  "town": "Thetford",
+  "county": "Norfolk",
+  "postcode": "IP24 3PU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "586216",
+  "northing": "282760",
+  "url": "www.redcastleschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

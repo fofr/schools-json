@@ -1,0 +1,18 @@
+{
+  "urn": "142439",
+  "name": "Oulton CofE (C) First School",
+  "address": "Rock Crescent",
+  "locality": "Oulton",
+  "address3": "",
+  "town": "Stone",
+  "county": "Staffordshire",
+  "postcode": "ST15 8UH",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "391085",
+  "northing": "335785",
+  "url": "http://www.oulton.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

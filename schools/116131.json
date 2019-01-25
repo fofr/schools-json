@@ -1,0 +1,18 @@
+{
+  "urn": "116131",
+  "name": "Kanes Hill Primary School",
+  "address": "Fairfax Court",
+  "locality": "Hinkler Road",
+  "address3": "Thornhill",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 6FW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "447335",
+  "northing": "112774",
+  "url": "http://www.kaneshill.southampton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

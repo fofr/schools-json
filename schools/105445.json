@@ -1,0 +1,18 @@
+{
+  "urn": "105445",
+  "name": "Poundswick Infant School",
+  "address": "Tayfield Road",
+  "locality": "Woodhouse Park",
+  "address3": "Wythenshawe",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M22 1BQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "382437",
+  "northing": "386565",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

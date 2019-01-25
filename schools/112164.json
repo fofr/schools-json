@@ -1,0 +1,18 @@
+{
+  "urn": "112164",
+  "name": "St Bees Village Primary School",
+  "address": "Main Street",
+  "locality": "",
+  "address3": "",
+  "town": "St Bees",
+  "county": "Cumbria",
+  "postcode": "CA27 0AA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "297111",
+  "northing": "511575",
+  "url": "www.stbeesvillage.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

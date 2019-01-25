@@ -1,0 +1,18 @@
+{
+  "urn": "122409",
+  "name": "Berridge Infant and Nursery School",
+  "address": "Bobbersmill Road",
+  "locality": "Hyson Green",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 5GY",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "455579",
+  "northing": "341550",
+  "url": "http://www.berridgeinfants.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

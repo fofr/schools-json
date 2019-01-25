@@ -1,0 +1,18 @@
+{
+  "urn": "146115",
+  "name": "Yew Tree Primary Academy",
+  "address": "The Avenue",
+  "locality": "Halewood",
+  "address3": "",
+  "town": "Knowsley",
+  "county": "Merseyside",
+  "postcode": "L26 1UU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "344240",
+  "northing": "385317",
+  "url": "http://www.yewtreeknowsley.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

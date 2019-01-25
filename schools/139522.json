@@ -1,0 +1,18 @@
+{
+  "urn": "139522",
+  "name": "The Hills Academy",
+  "address": "Stancliffe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK41 9AT",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "506482",
+  "northing": "251332",
+  "url": "www.thehillsacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

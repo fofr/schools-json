@@ -1,0 +1,18 @@
+{
+  "urn": "102570",
+  "name": "Knollmead Primary School",
+  "address": "Knollmead",
+  "locality": "Tolworth",
+  "address3": "",
+  "town": "Surbiton",
+  "county": "Surrey",
+  "postcode": "KT5 9QP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "520229",
+  "northing": "165821",
+  "url": "http://www.knollmead.kingston.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

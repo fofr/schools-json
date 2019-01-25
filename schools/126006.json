@@ -1,0 +1,18 @@
+{
+  "urn": "126006",
+  "name": "Balcombe CofE Controlled Primary School",
+  "address": "London Road",
+  "locality": "Balcombe",
+  "address3": "",
+  "town": "Haywards Heath",
+  "county": "West Sussex",
+  "postcode": "RH17 6HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "530737",
+  "northing": "130702",
+  "url": "http://www.balcombeschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

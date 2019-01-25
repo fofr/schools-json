@@ -1,0 +1,18 @@
+{
+  "urn": "139681",
+  "name": "Hill Farm Academy",
+  "address": "Foster Road",
+  "locality": "Radford",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 3BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432450",
+  "northing": "281213",
+  "url": "www.hillfarmprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

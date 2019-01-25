@@ -1,0 +1,18 @@
+{
+  "urn": "120795",
+  "name": "Caister Junior School",
+  "address": "Kingston Avenue",
+  "locality": "Caister-on-Sea",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR30 5ET",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "652241",
+  "northing": "312304",
+  "url": "http://www.caisterjunior.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

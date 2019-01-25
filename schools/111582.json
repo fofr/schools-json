@@ -1,0 +1,18 @@
+{
+  "urn": "111582",
+  "name": "Jesmond Gardens Community Primary School",
+  "address": "Jesmond Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS24 8PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449842",
+  "northing": "533448",
+  "url": "http://www.jesmondgardens.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

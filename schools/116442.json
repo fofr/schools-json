@@ -1,0 +1,18 @@
+{
+  "urn": "116442",
+  "name": "Frogmore Community College",
+  "address": "Potley Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Yateley",
+  "county": "Hampshire",
+  "postcode": "GU46 6AG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "482956",
+  "northing": "160182",
+  "url": "http://www.frogmorecollege.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

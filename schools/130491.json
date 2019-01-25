@@ -1,0 +1,18 @@
+{
+  "urn": "130491",
+  "name": "Southport College",
+  "address": "Mornington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR9 0TT",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "334145",
+  "northing": "417320",
+  "url": "http://www.southport.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

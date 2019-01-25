@@ -1,0 +1,18 @@
+{
+  "urn": "137034",
+  "name": "Holyhead School",
+  "address": "Milestone Lane",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B21 0HN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "403720",
+  "northing": "289706",
+  "url": "http://www.holyheadschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

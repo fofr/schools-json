@@ -1,0 +1,18 @@
+{
+  "urn": "101663",
+  "name": "Highfield Infants' School",
+  "address": "Highfield Drive",
+  "locality": "Shortlands",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR2 0RX",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "539471",
+  "northing": "168333",
+  "url": "http://www.highfield-inf.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

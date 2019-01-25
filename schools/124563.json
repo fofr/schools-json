@@ -1,0 +1,18 @@
+{
+  "urn": "124563",
+  "name": "Glade Primary School",
+  "address": "Knappers Way",
+  "locality": "",
+  "address3": "",
+  "town": "Brandon",
+  "county": "Suffolk",
+  "postcode": "IP27 0DA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "578708",
+  "northing": "286345",
+  "url": "www.glade.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

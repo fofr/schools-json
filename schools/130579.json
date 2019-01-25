@@ -1,0 +1,18 @@
+{
+  "urn": "130579",
+  "name": "Hull College",
+  "address": "Queen's Gardens",
+  "locality": "Wilberforce Drive",
+  "address3": "",
+  "town": "Kingston-upon-Hull",
+  "county": "",
+  "postcode": "HU1 3DG",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "510089",
+  "northing": "429086",
+  "url": "http://www.hull-college.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113069",
+  "name": "Hayward's Primary School",
+  "address": "East Street",
+  "locality": "",
+  "address3": "",
+  "town": "Crediton",
+  "county": "Devon",
+  "postcode": "EX17 3AX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "283732",
+  "northing": "100054",
+  "url": "www.haywards.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137555",
+  "name": "Eversholt Lower School",
+  "address": "Church End",
+  "locality": "Eversholt",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Bedfordshire",
+  "postcode": "MK17 9DU",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "498296",
+  "northing": "232437",
+  "url": "www.eversholtschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

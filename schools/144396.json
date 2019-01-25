@@ -1,0 +1,18 @@
+{
+  "urn": "144396",
+  "name": "Springfield Academy",
+  "address": "Lawton Drive",
+  "locality": "Bulwell Hall Estate",
+  "address3": "Bulwell",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG6 8BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454299",
+  "northing": "346388",
+  "url": "www.springfieldacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

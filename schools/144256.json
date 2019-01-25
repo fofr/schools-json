@@ -1,0 +1,18 @@
+{
+  "urn": "144256",
+  "name": "Kempsey Primary School",
+  "address": "Ellsdon",
+  "locality": "Kempsey",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR5 3NT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "385291",
+  "northing": "249110",
+  "url": "http://www.kempseyprimary.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

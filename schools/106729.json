@@ -1,0 +1,18 @@
+{
+  "urn": "106729",
+  "name": "Intake Primary School",
+  "address": "Sidney Road",
+  "locality": "Intake",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN2 6EW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "459591",
+  "northing": "403793",
+  "url": "www.intakeschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

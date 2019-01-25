@@ -1,0 +1,18 @@
+{
+  "urn": "125218",
+  "name": "Send CofE Primary School",
+  "address": "Send Barns Lane",
+  "locality": "Send",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU23 7BS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "503040",
+  "northing": "155144",
+  "url": "http://www.sendcofe.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

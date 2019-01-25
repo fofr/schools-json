@@ -1,0 +1,18 @@
+{
+  "urn": "133704",
+  "name": "Newlands Primary School",
+  "address": "Windermere Avenue",
+  "locality": "Millbrook",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 9QX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "438321",
+  "northing": "114366",
+  "url": "www.newlandsprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

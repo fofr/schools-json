@@ -1,0 +1,18 @@
+{
+  "urn": "112985",
+  "name": "Netherthorpe School",
+  "address": "Ralph Road",
+  "locality": "Staveley",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S43 3PU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "444034",
+  "northing": "374658",
+  "url": "http://www.netherthorpe.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141203",
+  "name": "Five Spires Academy",
+  "address": "Cherry Orchard",
+  "locality": "",
+  "address3": "",
+  "town": "Lichfield",
+  "county": "Staffordshire",
+  "postcode": "WS14 9AN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412338",
+  "northing": "309208",
+  "url": "www.fivespiresacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

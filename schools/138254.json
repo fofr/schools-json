@@ -1,0 +1,18 @@
+{
+  "urn": "138254",
+  "name": "Corby Technical School",
+  "address": "Cottingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Corby",
+  "county": "Northamptonshire",
+  "postcode": "NN17 1TD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "488922",
+  "northing": "288534",
+  "url": "www.corbytechnicalschool.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

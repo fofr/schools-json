@@ -1,0 +1,18 @@
+{
+  "urn": "130520",
+  "name": "North Trafford College of Further Education",
+  "address": "Talbot Road",
+  "locality": "",
+  "address3": "Stretford",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M32 0XH",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "380807",
+  "northing": "395678",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

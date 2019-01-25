@@ -1,0 +1,18 @@
+{
+  "urn": "105036",
+  "name": "The Dell Primary School",
+  "address": "The Dell",
+  "locality": "Rock Ferry",
+  "address3": "",
+  "town": "Birkenhead",
+  "county": "Merseyside",
+  "postcode": "CH42 1PU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "333677",
+  "northing": "386090",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136459",
+  "name": "The Polesworth School",
+  "address": "Dordon Road",
+  "locality": "Dordon",
+  "address3": "",
+  "town": "Tamworth",
+  "county": "Staffordshire",
+  "postcode": "B78 1QT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "425794",
+  "northing": "301486",
+  "url": "http://www.thepolesworthschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

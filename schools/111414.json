@@ -1,0 +1,18 @@
+{
+  "urn": "111414",
+  "name": "Weaverham High School",
+  "address": "Lime Avenue",
+  "locality": "Weaverham",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 3HT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "361353",
+  "northing": "373854",
+  "url": "http://www.weaverhamhighschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

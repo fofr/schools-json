@@ -1,0 +1,18 @@
+{
+  "urn": "106094",
+  "name": "Outwood Primary School",
+  "address": "Outwood Road",
+  "locality": "Heald Green",
+  "address3": "",
+  "town": "Cheadle",
+  "county": "Cheshire",
+  "postcode": "SK8 3ND",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385517",
+  "northing": "385112",
+  "url": "www.outwood.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

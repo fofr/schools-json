@@ -1,0 +1,18 @@
+{
+  "urn": "117091",
+  "name": "Holdbrook Primary School",
+  "address": "Longcroft Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Waltham Cross",
+  "county": "Hertfordshire",
+  "postcode": "EN8 7QG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536941",
+  "northing": "200239",
+  "url": "www.holdbrook.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

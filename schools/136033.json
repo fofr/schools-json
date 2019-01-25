@@ -1,0 +1,18 @@
+{
+  "urn": "136033",
+  "name": "Children's Support Centre, Wivenhoe",
+  "address": "Phillip Road",
+  "locality": "",
+  "address3": "Wivenhoe",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO7 9BA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "603999",
+  "northing": "221650",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

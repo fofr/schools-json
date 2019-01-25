@@ -1,0 +1,18 @@
+{
+  "urn": "136401",
+  "name": "The Hastings Academy",
+  "address": "Rye Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hastings",
+  "county": "East Sussex",
+  "postcode": "TN35 5DN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "584037",
+  "northing": "112252",
+  "url": "http://www.thehastingsacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

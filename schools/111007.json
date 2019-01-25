@@ -1,0 +1,18 @@
+{
+  "urn": "111007",
+  "name": "Oakenclough Primary School",
+  "address": "Colshaw Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Wilmslow",
+  "county": "Cheshire",
+  "postcode": "SK9 2PZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385904",
+  "northing": "382688",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

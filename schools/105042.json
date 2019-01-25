@@ -1,0 +1,18 @@
+{
+  "urn": "105042",
+  "name": "Mersey Park Primary School",
+  "address": "Elm Road",
+  "locality": "Higher Tranmere",
+  "address3": "",
+  "town": "Birkenhead",
+  "county": "Merseyside",
+  "postcode": "CH42 0PH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "331976",
+  "northing": "387318",
+  "url": "www.merseyparkprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

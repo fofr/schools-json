@@ -1,0 +1,18 @@
+{
+  "urn": "103180",
+  "name": "Yardley Infant School",
+  "address": "Harvey Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B26 1TD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "412918",
+  "northing": "285279",
+  "url": "http://www.yardleyinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

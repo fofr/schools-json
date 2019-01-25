@@ -1,0 +1,18 @@
+{
+  "urn": "114924",
+  "name": "Perryfields Infant School",
+  "address": "Lawn Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM1 7PP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "571788",
+  "northing": "208615",
+  "url": "http://www.perryfieldsinfantschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

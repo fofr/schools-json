@@ -1,0 +1,18 @@
+{
+  "urn": "115934",
+  "name": "Owslebury Primary School",
+  "address": "Beech Grove",
+  "locality": "Owslebury",
+  "address3": "",
+  "town": "Winchester",
+  "county": "Hampshire",
+  "postcode": "SO21 1LS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "451523",
+  "northing": "123635",
+  "url": "http://www.owslebury.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

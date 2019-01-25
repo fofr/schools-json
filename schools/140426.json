@@ -1,0 +1,18 @@
+{
+  "urn": "140426",
+  "name": "Mossbourne Riverside Academy",
+  "address": "East Bay Lane",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E15 2GW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537230",
+  "northing": "184786",
+  "url": "www.mra.mossbourne.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

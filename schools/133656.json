@@ -1,0 +1,18 @@
+{
+  "urn": "133656",
+  "name": "Seabrook College",
+  "address": "Burr Hill Chase",
+  "locality": "Prittlewell",
+  "address3": "",
+  "town": "Southend-on-Sea",
+  "county": "Essex",
+  "postcode": "SS2 6PE",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "587331",
+  "northing": "187108",
+  "url": "www.seabrook.southend.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

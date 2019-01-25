@@ -1,0 +1,18 @@
+{
+  "urn": "117581",
+  "name": "Bushey Hall School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bushey",
+  "county": "Hertfordshire",
+  "postcode": "WD23 3AA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "512905",
+  "northing": "195422",
+  "url": "http://www.busheyhall.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

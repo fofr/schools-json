@@ -1,0 +1,18 @@
+{
+  "urn": "100244",
+  "name": "Tyssen Community Primary School",
+  "address": "Oldhill Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N16 6LR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534111",
+  "northing": "187372",
+  "url": "http://www.tyssen.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "132210",
+  "name": "Brooksward School",
+  "address": "Tower Drive",
+  "locality": "Neath Hill",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 6JZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485880",
+  "northing": "241078",
+  "url": "www.brooksward.milton-keynes.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

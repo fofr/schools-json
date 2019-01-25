@@ -1,0 +1,18 @@
+{
+  "urn": "116257",
+  "name": "Paulsgrove Primary School",
+  "address": "Cheltenham Road",
+  "locality": "Paulsgrove",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO6 3PL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "464044",
+  "northing": "105867",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

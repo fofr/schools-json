@@ -1,0 +1,18 @@
+{
+  "urn": "103649",
+  "name": "Radford Primary School",
+  "address": "Lawrence Saunders Road",
+  "locality": "Radford",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 1HD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432671",
+  "northing": "280305",
+  "url": "http://www.radfordprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

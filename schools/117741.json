@@ -1,0 +1,18 @@
+{
+  "urn": "117741",
+  "name": "Messingham Primary School",
+  "address": "Briggate Drive",
+  "locality": "Messingham",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "Lincolnshire",
+  "postcode": "DN17 3TN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "489522",
+  "northing": "404406",
+  "url": "www.messinghamprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

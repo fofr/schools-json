@@ -1,0 +1,18 @@
+{
+  "urn": "103298",
+  "name": "Chilcote Primary School",
+  "address": "Chilcote Close",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B28 0PB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "410730",
+  "northing": "279838",
+  "url": "www.chilcoteschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

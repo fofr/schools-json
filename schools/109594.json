@@ -1,0 +1,18 @@
+{
+  "urn": "109594",
+  "name": "Bramingham Primary School",
+  "address": "Freeman Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU3 4BL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "507627",
+  "northing": "225958",
+  "url": "www.bramingham.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

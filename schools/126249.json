@@ -1,0 +1,18 @@
+{
+  "urn": "126249",
+  "name": "Nythe Primary School",
+  "address": "Nyland Road",
+  "locality": "Nythe",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN3 3RR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "418078",
+  "northing": "185219",
+  "url": "www.nythe.swindon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

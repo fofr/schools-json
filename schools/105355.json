@@ -1,0 +1,18 @@
+{
+  "urn": "105355",
+  "name": "The Derby High School",
+  "address": "Radcliffe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL9 9NH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "379733",
+  "northing": "409617",
+  "url": "http://www.thederbyhighschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

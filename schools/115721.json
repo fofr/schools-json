@@ -1,0 +1,18 @@
+{
+  "urn": "115721",
+  "name": "Beaufort Community School",
+  "address": "Holmleigh Park",
+  "locality": "Tuffley",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL4 0RT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "381986",
+  "northing": "214494",
+  "url": "http://www.beaufortcs.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

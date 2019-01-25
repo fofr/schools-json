@@ -1,0 +1,18 @@
+{
+  "urn": "133689",
+  "name": "Bristol Hospital Education Service",
+  "address": "Falkland Road",
+  "locality": "Montpelier",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS6 5JL",
+  "minimum_age": "5",
+  "maximum_age": "19",
+  "easting": "358020",
+  "northing": "178540",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111047",
+  "name": "Eaton Primary School",
+  "address": "Lower Lane",
+  "locality": "Eaton",
+  "address3": "",
+  "town": "Tarporley",
+  "county": "Cheshire",
+  "postcode": "CW6 9AN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "357623",
+  "northing": "363350",
+  "url": "www.eaton.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

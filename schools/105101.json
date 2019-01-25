@@ -1,0 +1,18 @@
+{
+  "urn": "105101",
+  "name": "Pensby High School",
+  "address": "Irby Road",
+  "locality": "Heswall",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH61 6XN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "325950",
+  "northing": "383512",
+  "url": "http://wwwpensbyhighschool.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

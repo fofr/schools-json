@@ -1,0 +1,18 @@
+{
+  "urn": "110502",
+  "name": "Leon School and Sports College",
+  "address": "Fern Grove",
+  "locality": "Bletchley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK2 3HQ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "487516",
+  "northing": "232076",
+  "url": "http://www.leon-school.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

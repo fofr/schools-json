@@ -1,0 +1,18 @@
+{
+  "urn": "100698",
+  "name": "Merlin Primary School",
+  "address": "72 Ballamore Road",
+  "locality": "Downham",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR1 5LW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540245",
+  "northing": "172313",
+  "url": "http://schoolsite.edex.net.uk/453/index.htm",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

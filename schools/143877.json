@@ -1,0 +1,18 @@
+{
+  "urn": "143877",
+  "name": "The Royal Liberty School",
+  "address": "Upper Brentwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM2 6HJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "553212",
+  "northing": "189729",
+  "url": "http://www.royalliberty.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

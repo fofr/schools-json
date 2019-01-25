@@ -1,0 +1,18 @@
+{
+  "urn": "105874",
+  "name": "Alder Park Nursery School",
+  "address": "Cranbrook Road",
+  "locality": "Winton",
+  "address3": "Eccles",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M30 8LD",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "375535",
+  "northing": "399844",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

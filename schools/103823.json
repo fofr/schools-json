@@ -1,0 +1,18 @@
+{
+  "urn": "103823",
+  "name": "Wrens Nest Primary School",
+  "address": "Marigold Crescent",
+  "locality": "Wrens Nest Estate",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY1 3NX",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "393179",
+  "northing": "291821",
+  "url": "http://www.wrens-nest.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

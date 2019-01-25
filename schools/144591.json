@@ -1,0 +1,18 @@
+{
+  "urn": "144591",
+  "name": "St Saviour's CofE Academy",
+  "address": "Congleton Road",
+  "locality": "Talke",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 1LW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382539",
+  "northing": "354084",
+  "url": "www.stsaviours.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

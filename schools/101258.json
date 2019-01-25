@@ -1,0 +1,18 @@
+{
+  "urn": "101258",
+  "name": "Barnfield Primary School",
+  "address": "Silkstream Road",
+  "locality": "",
+  "address3": "",
+  "town": "Edgware",
+  "county": "",
+  "postcode": "HA8 0DA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "520286",
+  "northing": "190526",
+  "url": "www.barnfieldschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

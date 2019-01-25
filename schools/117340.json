@@ -1,0 +1,18 @@
+{
+  "urn": "117340",
+  "name": "Coates Way JMI and Nursery School",
+  "address": "Coates Way",
+  "locality": "Garston",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD25 9NW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "512115",
+  "northing": "200791",
+  "url": "http://www.coatesway.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146586",
+  "name": "Frithville Primary School",
+  "address": "West Fen Drainside",
+  "locality": "Frithville",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE22 7EX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "531578",
+  "northing": "350641",
+  "url": "www.frithville.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

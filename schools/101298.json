@@ -1,0 +1,18 @@
+{
+  "urn": "101298",
+  "name": "Woodridge Primary School",
+  "address": "Southover",
+  "locality": "North Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N12 7HE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "525135",
+  "northing": "193224",
+  "url": "http://www.woodridgeprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125111",
+  "name": "Saxon Primary School",
+  "address": "Briar Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shepperton",
+  "county": "Surrey",
+  "postcode": "TW17 0JB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "507068",
+  "northing": "167665",
+  "url": "www.saxon.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

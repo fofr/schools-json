@@ -1,0 +1,18 @@
+{
+  "urn": "132229",
+  "name": "Eldene Nursery and Primary School",
+  "address": "Colingsmead",
+  "locality": "Eldene",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN3 3TQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418359",
+  "northing": "184018",
+  "url": "www.eldeneprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

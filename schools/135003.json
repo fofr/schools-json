@@ -1,0 +1,18 @@
+{
+  "urn": "135003",
+  "name": "Unity College",
+  "address": "Townley Holmes",
+  "locality": "",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB11 3DF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "385489",
+  "northing": "431834",
+  "url": "http://www.unity-college.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137947",
+  "name": "Biggleswade Academy",
+  "address": "Mead End",
+  "locality": "",
+  "address3": "",
+  "town": "Biggleswade",
+  "county": "Bedfordshire",
+  "postcode": "SG18 8JU",
+  "minimum_age": "2",
+  "maximum_age": "13",
+  "easting": "519783",
+  "northing": "243883",
+  "url": "http://www.biggleswadeacademy.org",
+  "phase": "Middle deemed primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

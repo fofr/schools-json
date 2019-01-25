@@ -1,0 +1,18 @@
+{
+  "urn": "101498",
+  "name": "Carlton Vale Infant School",
+  "address": "Malvern Place",
+  "locality": "Kilburn",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW6 5PX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "524936",
+  "northing": "182963",
+  "url": "www.carlton.brent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

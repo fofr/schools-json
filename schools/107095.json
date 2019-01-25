@@ -1,0 +1,18 @@
+{
+  "urn": "107095",
+  "name": "Westways Primary School",
+  "address": "Mona Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S10 1NE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433215",
+  "northing": "387794",
+  "url": "www.westwaysprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

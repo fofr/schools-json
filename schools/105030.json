@@ -1,0 +1,18 @@
+{
+  "urn": "105030",
+  "name": "Barnston Primary School",
+  "address": "Sandham Grove",
+  "locality": "Heswall",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH60 1XW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "328386",
+  "northing": "381269",
+  "url": "http://www.barnston.wirral.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

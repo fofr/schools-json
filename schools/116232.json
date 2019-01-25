@@ -1,0 +1,18 @@
+{
+  "urn": "116232",
+  "name": "Fairfields Primary School",
+  "address": "Council Road",
+  "locality": "",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG21 3DH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "463723",
+  "northing": "151548",
+  "url": "http://www.fairfields.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

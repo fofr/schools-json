@@ -1,0 +1,18 @@
+{
+  "urn": "138162",
+  "name": "Castle Manor Academy",
+  "address": "Eastern Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Haverhill",
+  "county": "Suffolk",
+  "postcode": "CB9 9JE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "566450",
+  "northing": "245802",
+  "url": "http://www.castlemanor.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

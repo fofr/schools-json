@@ -1,0 +1,18 @@
+{
+  "urn": "135851",
+  "name": "Craven Pupil Referral Service",
+  "address": "The Snaygill Centre",
+  "locality": "Keighley Road",
+  "address3": "",
+  "town": "Skipton",
+  "county": "North Yorkshire",
+  "postcode": "BD23 2QS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "399131",
+  "northing": "449964",
+  "url": "www.cravenprs.org.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

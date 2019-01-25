@@ -1,0 +1,18 @@
+{
+  "urn": "123121",
+  "name": "Horspath Church of England Primary School",
+  "address": "Horspath",
+  "locality": "Blenheim Road",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX33 1RY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "457247",
+  "northing": "205040",
+  "url": "http://www.horspath.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

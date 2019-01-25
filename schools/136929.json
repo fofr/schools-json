@@ -1,0 +1,18 @@
+{
+  "urn": "136929",
+  "name": "Jubilee Wood Primary School",
+  "address": "1 Fishermead Boulevard",
+  "locality": "Fishermead",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK6 2LB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485879",
+  "northing": "238190",
+  "url": "www.jubileewood.milton-keynes.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

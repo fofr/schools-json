@@ -1,0 +1,18 @@
+{
+  "urn": "142314",
+  "name": "Heathside School",
+  "address": "Brooklands Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Weybridge",
+  "county": "Surrey",
+  "postcode": "KT13 8UZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "506947",
+  "northing": "163962",
+  "url": "http://www.heathside.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

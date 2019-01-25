@@ -1,0 +1,18 @@
+{
+  "urn": "123062",
+  "name": "Harwell Primary School",
+  "address": "The Styles",
+  "locality": "Harwell",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 0LH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "448829",
+  "northing": "189282",
+  "url": "www.harwellprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

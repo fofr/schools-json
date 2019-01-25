@@ -1,0 +1,18 @@
+{
+  "urn": "123423",
+  "name": "Longlands Primary School",
+  "address": "Linden Way",
+  "locality": "Fairfields",
+  "address3": "",
+  "town": "Market Drayton",
+  "county": "Shropshire",
+  "postcode": "TF9 1QU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367886",
+  "northing": "334657",
+  "url": "www.longlandsprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

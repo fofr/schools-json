@@ -1,0 +1,18 @@
+{
+  "urn": "107858",
+  "name": "Queensway Primary School",
+  "address": "Coppice Wood Avenue",
+  "locality": "Yeadon",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS19 7LF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "420309",
+  "northing": "441948",
+  "url": "www.queenswayschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

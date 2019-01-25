@@ -1,0 +1,18 @@
+{
+  "urn": "137126",
+  "name": "North Town Academy",
+  "address": "Staplegrove Road",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 1DF",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "322366",
+  "northing": "124974",
+  "url": "www.northtownschool.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

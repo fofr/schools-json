@@ -1,0 +1,18 @@
+{
+  "urn": "134025",
+  "name": "Primary Resource Provision",
+  "address": "Hadrian Education Centre",
+  "locality": "Addington Drive",
+  "address3": "Hadrian Park",
+  "town": "Wallsend",
+  "county": "",
+  "postcode": "NE28 9RT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "431178",
+  "northing": "569023",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

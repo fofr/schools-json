@@ -1,0 +1,18 @@
+{
+  "urn": "111395",
+  "name": "Kingsway High School",
+  "address": "Kingsway",
+  "locality": "Newton",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH2 2LB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "341643",
+  "northing": "368095",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

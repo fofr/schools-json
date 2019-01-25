@@ -1,0 +1,18 @@
+{
+  "urn": "100240",
+  "name": "Sebright School",
+  "address": "Audrey Street",
+  "locality": "Goldsmiths Row",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 8QH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534243",
+  "northing": "183445",
+  "url": "http://www.sebright.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

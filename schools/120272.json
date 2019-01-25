@@ -1,0 +1,18 @@
+{
+  "urn": "120272",
+  "name": "Leysland High School",
+  "address": "Winchester Road",
+  "locality": "Countesthorpe",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE8 5PR",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "457050",
+  "northing": "295738",
+  "url": "http://www.leysland.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

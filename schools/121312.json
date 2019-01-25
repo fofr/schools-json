@@ -1,0 +1,18 @@
+{
+  "urn": "121312",
+  "name": "Romanby Primary School",
+  "address": "The Close",
+  "locality": "Romanby",
+  "address3": "",
+  "town": "Northallerton",
+  "county": "North Yorkshire",
+  "postcode": "DL7 8BL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "436029",
+  "northing": "492894",
+  "url": "www.romanby.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

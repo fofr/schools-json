@@ -1,0 +1,18 @@
+{
+  "urn": "143446",
+  "name": "Roskear School",
+  "address": "Roskear",
+  "locality": "",
+  "address3": "",
+  "town": "Camborne",
+  "county": "Cornwall",
+  "postcode": "TR14 8DJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "165485",
+  "northing": "40448",
+  "url": "www.roskear.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

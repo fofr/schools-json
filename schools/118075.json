@@ -1,0 +1,18 @@
+{
+  "urn": "118075",
+  "name": "Withernsea High School",
+  "address": "Hull Road",
+  "locality": "",
+  "address3": "",
+  "town": "Withernsea",
+  "county": "",
+  "postcode": "HU19 2EQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "533597",
+  "northing": "428129",
+  "url": "http://www.withernseahigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

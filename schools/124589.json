@@ -1,0 +1,18 @@
+{
+  "urn": "124589",
+  "name": "Hollesley Primary School",
+  "address": "School Lane",
+  "locality": "Hollesley",
+  "address3": "",
+  "town": "Woodbridge",
+  "county": "Suffolk",
+  "postcode": "IP12 3RE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "635466",
+  "northing": "244453",
+  "url": "www.hollesley.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

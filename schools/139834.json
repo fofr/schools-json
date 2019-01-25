@@ -1,0 +1,18 @@
+{
+  "urn": "139834",
+  "name": "East London Science School",
+  "address": "The Clock Mill",
+  "locality": "Three Mill Lane",
+  "address3": "Bromley-By-Bow",
+  "town": "London",
+  "county": "",
+  "postcode": "E3 3DU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "538393",
+  "northing": "182765",
+  "url": "http://eastlondonscienceschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

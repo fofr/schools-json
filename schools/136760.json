@@ -1,0 +1,18 @@
+{
+  "urn": "136760",
+  "name": "Charlestown Primary School",
+  "address": "Crinnis Road",
+  "locality": "Carlyon Bay",
+  "address3": "",
+  "town": "St Austell",
+  "county": "Cornwall",
+  "postcode": "PL25 3PB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "204127",
+  "northing": "52275",
+  "url": "www.charlestown.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

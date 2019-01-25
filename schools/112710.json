@@ -1,0 +1,18 @@
+{
+  "urn": "112710",
+  "name": "Lons Infant School",
+  "address": "Tavistock Avenue",
+  "locality": "Lons Garden Estate",
+  "address3": "Holly Avenue",
+  "town": "Ripley",
+  "county": "Derbyshire",
+  "postcode": "DE5 3SE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "439594",
+  "northing": "350859",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

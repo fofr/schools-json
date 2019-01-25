@@ -1,0 +1,18 @@
+{
+  "urn": "121323",
+  "name": "Snape Community Primary School",
+  "address": "Ings Lane",
+  "locality": "",
+  "address3": "Snape",
+  "town": "Bedale",
+  "county": "North Yorkshire",
+  "postcode": "DL8 2TF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426892",
+  "northing": "484311",
+  "url": "www.stwschools.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

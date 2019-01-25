@@ -1,0 +1,18 @@
+{
+  "urn": "105433",
+  "name": "New Moston Infant School",
+  "address": "Moston Lane East",
+  "locality": "",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M40 3QJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "389173",
+  "northing": "402533",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

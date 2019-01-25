@@ -1,0 +1,18 @@
+{
+  "urn": "105735",
+  "name": "Failsworth School",
+  "address": "Brierley Avenue",
+  "locality": "Failsworth",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M35 9HA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "390349",
+  "northing": "401127",
+  "url": "http://www.failsworthlg.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

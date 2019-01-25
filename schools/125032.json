@@ -1,0 +1,18 @@
+{
+  "urn": "125032",
+  "name": "The Oaktree School",
+  "address": "Gorsewood Road",
+  "locality": "St John's",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 8WT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "497150",
+  "northing": "157671",
+  "url": "http://www.oaktree.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

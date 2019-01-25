@@ -1,0 +1,18 @@
+{
+  "urn": "135969",
+  "name": "South Leeds Academy",
+  "address": "Old Run Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS10 2JU",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "430577",
+  "northing": "430055",
+  "url": "http://www.tsla.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

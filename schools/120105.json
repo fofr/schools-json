@@ -1,0 +1,18 @@
+{
+  "urn": "120105",
+  "name": "Hallbrook Primary School Broughton Astley",
+  "address": "Hallbrook Road",
+  "locality": "",
+  "address3": "",
+  "town": "Broughton Astley",
+  "county": "Leicestershire",
+  "postcode": "LE9 6WX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "452705",
+  "northing": "291726",
+  "url": "www.hallbrook.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

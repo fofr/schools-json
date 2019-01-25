@@ -1,0 +1,18 @@
+{
+  "urn": "103642",
+  "name": "Edgewick Community Primary School",
+  "address": "Cross Road",
+  "locality": "Off Foleshill Road",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 5GP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434396",
+  "northing": "281670",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

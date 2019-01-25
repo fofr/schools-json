@@ -1,0 +1,18 @@
+{
+  "urn": "112041",
+  "name": "Torpoint Community College",
+  "address": "Trevol Road",
+  "locality": "",
+  "address3": "",
+  "town": "Torpoint",
+  "county": "Cornwall",
+  "postcode": "PL11 2NH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "243237",
+  "northing": "55276",
+  "url": "http://www.torpoint.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104830",
+  "name": "Rainhill High School",
+  "address": "Warrington Road",
+  "locality": "Rainhill",
+  "address3": "",
+  "town": "Prescot",
+  "county": "Merseyside",
+  "postcode": "L35 6NY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "349990",
+  "northing": "390763",
+  "url": "http://www.rainhillhighschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

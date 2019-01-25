@@ -1,0 +1,18 @@
+{
+  "urn": "123945",
+  "name": "Avalon School",
+  "address": "Brooks Road",
+  "locality": "",
+  "address3": "",
+  "town": "Street",
+  "county": "Somerset",
+  "postcode": "BA16 0PS",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "347666",
+  "northing": "135397",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

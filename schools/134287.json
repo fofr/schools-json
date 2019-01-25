@@ -1,0 +1,18 @@
+{
+  "urn": "134287",
+  "name": "Fixed Exclusion Unit",
+  "address": "George Street",
+  "locality": "Farnworth",
+  "address3": "",
+  "town": "Bolton",
+  "county": "",
+  "postcode": "BL4 9RJ",
+  "minimum_age": "11",
+  "maximum_age": "15",
+  "easting": "372792",
+  "northing": "405398",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

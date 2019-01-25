@@ -1,0 +1,18 @@
+{
+  "urn": "137500",
+  "name": "Moor End Academy",
+  "address": "Dryclough Road",
+  "locality": "Crosland Moor",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD4 5JA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "412500",
+  "northing": "414846",
+  "url": "www.moorend.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

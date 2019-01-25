@@ -1,0 +1,18 @@
+{
+  "urn": "108464",
+  "name": "Cowgate Primary School",
+  "address": "Cypress Avenue",
+  "locality": "Fenham",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 9SJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421984",
+  "northing": "565891",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

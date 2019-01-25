@@ -1,0 +1,18 @@
+{
+  "urn": "125845",
+  "name": "Loxwood Primary School",
+  "address": "Nicholsfield",
+  "locality": "Loxwood",
+  "address3": "",
+  "town": "Billingshurst",
+  "county": "West Sussex",
+  "postcode": "RH14 0SR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "504031",
+  "northing": "131600",
+  "url": "www.loxwoodschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

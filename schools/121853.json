@@ -1,0 +1,18 @@
+{
+  "urn": "121853",
+  "name": "Stanwick Primary School",
+  "address": "Church Street",
+  "locality": "Stanwick",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN9 6PS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "498077",
+  "northing": "271414",
+  "url": "http://www.stanwick.northants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

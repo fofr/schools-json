@@ -1,0 +1,18 @@
+{
+  "urn": "133725",
+  "name": "Jarrow School",
+  "address": "Field Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Jarrow",
+  "county": "Tyne and Wear",
+  "postcode": "NE32 5PR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "432822",
+  "northing": "564310",
+  "url": "http://www.jarrowschool.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

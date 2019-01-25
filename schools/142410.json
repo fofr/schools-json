@@ -1,0 +1,18 @@
+{
+  "urn": "142410",
+  "name": "Fossebrook Primary School",
+  "address": "Holmfield Avenue West",
+  "locality": "Leicester Forest East",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 3FF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "453979",
+  "northing": "303145",
+  "url": "www.fossebrook.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118416",
+  "name": "Priory Infant School",
+  "address": "Cannon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ramsgate",
+  "county": "Kent",
+  "postcode": "CT11 9XT",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "637770",
+  "northing": "165232",
+  "url": "www.priory.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

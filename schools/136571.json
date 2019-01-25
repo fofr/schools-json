@@ -1,0 +1,18 @@
+{
+  "urn": "136571",
+  "name": "Hartsdown Academy",
+  "address": "George V Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Margate",
+  "county": "Kent",
+  "postcode": "CT9 5RE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "634567",
+  "northing": "169921",
+  "url": "http://hartsdown.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

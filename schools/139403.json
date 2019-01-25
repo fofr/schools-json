@@ -1,0 +1,18 @@
+{
+  "urn": "139403",
+  "name": "Ormiston Denes Academy",
+  "address": "Yarmouth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lowestoft",
+  "county": "Suffolk",
+  "postcode": "NR32 4AH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "654588",
+  "northing": "294592",
+  "url": "www.ormistondenes.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

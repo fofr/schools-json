@@ -1,0 +1,18 @@
+{
+  "urn": "101097",
+  "name": "Gideon School",
+  "address": "31 Elsley Road",
+  "locality": "Battersea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 5TZ",
+  "minimum_age": "8",
+  "maximum_age": "12",
+  "easting": "528207",
+  "northing": "175831",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

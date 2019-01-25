@@ -1,0 +1,18 @@
+{
+  "urn": "121666",
+  "name": "Thirsk School & Sixth Form College",
+  "address": "Topcliffe Road",
+  "locality": "Sowerby",
+  "address3": "",
+  "town": "Thirsk",
+  "county": "North Yorkshire",
+  "postcode": "YO7 1RZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "442678",
+  "northing": "481107",
+  "url": "http://www.thirskschool.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

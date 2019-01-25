@@ -1,0 +1,18 @@
+{
+  "urn": "136414",
+  "name": "The de Ferrers Academy",
+  "address": "St Mary's Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE13 0LL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "424297",
+  "northing": "325850",
+  "url": "http://www.deferrers.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

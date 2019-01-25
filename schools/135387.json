@@ -1,0 +1,18 @@
+{
+  "urn": "135387",
+  "name": "South Sefton College",
+  "address": "Sterrix Lane",
+  "locality": "Litherland",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L30 2DB",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "334850",
+  "northing": "398611",
+  "url": "www.southsefton.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

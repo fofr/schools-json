@@ -1,0 +1,18 @@
+{
+  "urn": "111286",
+  "name": "Huxley CofE Primary School",
+  "address": "Church Lane",
+  "locality": "Huxley",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH3 9BH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "351284",
+  "northing": "361354",
+  "url": "www.huxleyprimary.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

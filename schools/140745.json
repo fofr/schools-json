@@ -1,0 +1,18 @@
+{
+  "urn": "140745",
+  "name": "Queensway Catholic Primary School",
+  "address": "Queensway",
+  "locality": "Chelston",
+  "address3": "",
+  "town": "Torquay",
+  "county": "Devon",
+  "postcode": "TQ2 6DB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "289971",
+  "northing": "65025",
+  "url": "http://www.queensway-primary.torbay.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121001",
+  "name": "Garrick Green Infant School",
+  "address": "Garrick Green",
+  "locality": "Old Catton",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR6 7AL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "623101",
+  "northing": "312449",
+  "url": "www.garrickgreen.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

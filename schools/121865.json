@@ -1,0 +1,18 @@
+{
+  "urn": "121865",
+  "name": "Warmington School",
+  "address": "School Lane",
+  "locality": "Warmington",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE8 6TA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "507876",
+  "northing": "291058",
+  "url": "www.warmingtonschool.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

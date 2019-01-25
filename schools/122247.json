@@ -1,0 +1,18 @@
+{
+  "urn": "122247",
+  "name": "Ringway Primary School",
+  "address": "Ringway",
+  "locality": "Guide Post",
+  "address3": "",
+  "town": "Choppington",
+  "county": "Northumberland",
+  "postcode": "NE62 5YP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "425942",
+  "northing": "585990",
+  "url": "www.ringwayprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

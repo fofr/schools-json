@@ -1,0 +1,18 @@
+{
+  "urn": "110801",
+  "name": "Cherry Hinton Church of England Voluntary Controlled Primary School",
+  "address": "High Street",
+  "locality": "Cherry Hinton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB1 9HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548960",
+  "northing": "256912",
+  "url": "http://cherryhinton.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

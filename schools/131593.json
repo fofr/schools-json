@@ -1,0 +1,18 @@
+{
+  "urn": "131593",
+  "name": "Grestone Primary School",
+  "address": "Grestone Avenue",
+  "locality": "Handsworth Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B20 1ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "404309",
+  "northing": "291602",
+  "url": "http://www.grestoneschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

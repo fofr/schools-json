@@ -1,0 +1,18 @@
+{
+  "urn": "104831",
+  "name": "Broadway Community High School",
+  "address": "Broadway",
+  "locality": "",
+  "address3": "",
+  "town": "St Helen's",
+  "county": "Merseyside",
+  "postcode": "WA10 3RY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "349053",
+  "northing": "393746",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

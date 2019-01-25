@@ -1,0 +1,18 @@
+{
+  "urn": "121220",
+  "name": "Caister High School",
+  "address": "Windsor Road",
+  "locality": "Caister-on-Sea",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR30 5LS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "652260",
+  "northing": "312758",
+  "url": "http://www.caisterhigh.norfolk.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

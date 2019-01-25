@@ -1,0 +1,18 @@
+{
+  "urn": "139641",
+  "name": "Ravens Academy",
+  "address": "Nayland Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Clacton-on-Sea",
+  "county": "Essex",
+  "postcode": "CO16 8TZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "615747",
+  "northing": "215735",
+  "url": "www.ravensacademy.attrust.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

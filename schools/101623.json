@@ -1,0 +1,18 @@
+{
+  "urn": "101623",
+  "name": "Kevington Primary School",
+  "address": "Sweeps Lane",
+  "locality": "St Mary Cray",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR5 3PE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "547884",
+  "northing": "167977",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

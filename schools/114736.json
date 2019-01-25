@@ -1,0 +1,18 @@
+{
+  "urn": "114736",
+  "name": "Great Bentley Primary School",
+  "address": "Plough Road",
+  "locality": "Great Bentley",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO7 8LD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "611126",
+  "northing": "221466",
+  "url": "http://www.greatbentley.essex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

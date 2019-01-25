@@ -1,0 +1,18 @@
+{
+  "urn": "112553",
+  "name": "Grassmoor Primary School",
+  "address": "North Wingfield Road",
+  "locality": "Grassmoor",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S42 5EP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "440594",
+  "northing": "366789",
+  "url": "www.grassmoor.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

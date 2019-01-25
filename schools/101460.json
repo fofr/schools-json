@@ -1,0 +1,18 @@
+{
+  "urn": "101460",
+  "name": "St John Fisher Catholic Primary School",
+  "address": "Kale Road",
+  "locality": "Thamesmead",
+  "address3": "",
+  "town": "Erith",
+  "county": "Kent",
+  "postcode": "DA18 4BA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "548112",
+  "northing": "179495",
+  "url": "www.sjf.bexley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107142",
+  "name": "Ecclesfield School",
+  "address": "Chapeltown Road",
+  "locality": "Ecclesfield",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S35 9WD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "435531",
+  "northing": "395328",
+  "url": "www.ecclesfield-school.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

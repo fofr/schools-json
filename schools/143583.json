@@ -1,0 +1,18 @@
+{
+  "urn": "143583",
+  "name": "St Leonard's Catholic School",
+  "address": "North End",
+  "locality": "",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH1 4NG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426674",
+  "northing": "543258",
+  "url": "http://www.st-leonards.durham.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

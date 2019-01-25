@@ -1,0 +1,18 @@
+{
+  "urn": "100899",
+  "name": "Culloden Primary School",
+  "address": "Dee Street",
+  "locality": "Poplar",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 0PT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "538399",
+  "northing": "181277",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142183",
+  "name": "St Andrew's Primary School",
+  "address": "St Andrews Estate",
+  "locality": "",
+  "address3": "",
+  "town": "Cullompton",
+  "county": "Devon",
+  "postcode": "EX15 1HU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "301871",
+  "northing": "107435",
+  "url": "www.standrewsprimary.school",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

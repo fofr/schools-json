@@ -1,0 +1,18 @@
+{
+  "urn": "140069",
+  "name": "Fareham Academy",
+  "address": "St Anne's Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Fareham",
+  "county": "Hampshire",
+  "postcode": "PO14 1JJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "456672",
+  "northing": "105549",
+  "url": "http://www.fareham-academy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

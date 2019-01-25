@@ -1,0 +1,18 @@
+{
+  "urn": "112511",
+  "name": "Bolsover Infant School",
+  "address": "Welbeck Road",
+  "locality": "Bolsover",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S44 6DE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "447578",
+  "northing": "370599",
+  "url": "www.bolsover-inf.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

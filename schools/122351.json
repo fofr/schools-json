@@ -1,0 +1,18 @@
+{
+  "urn": "122351",
+  "name": "Prudhoe Community High School",
+  "address": "Moor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Prudhoe",
+  "county": "Northumberland",
+  "postcode": "NE42 5LJ",
+  "minimum_age": "13",
+  "maximum_age": "19",
+  "easting": "409649",
+  "northing": "562377",
+  "url": "http://www.pchs.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

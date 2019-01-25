@@ -1,0 +1,18 @@
+{
+  "urn": "110626",
+  "name": "Meridian Primary School",
+  "address": "Harbour Avenue",
+  "locality": "Comberton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB23 7DD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "538481",
+  "northing": "256444",
+  "url": "http://www.meridianprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

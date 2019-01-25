@@ -1,0 +1,18 @@
+{
+  "urn": "102004",
+  "name": "Raglan Infant School",
+  "address": "Wellington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Enfield",
+  "county": "",
+  "postcode": "EN1 2NS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "533476",
+  "northing": "194848",
+  "url": "www.raglanschools.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

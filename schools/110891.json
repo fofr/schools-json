@@ -1,0 +1,18 @@
+{
+  "urn": "110891",
+  "name": "Crosshall Infant School",
+  "address": "446 Great North Road",
+  "locality": "Eaton Ford",
+  "address3": "",
+  "town": "St Neots",
+  "county": "Cambridgeshire",
+  "postcode": "PE19 7GG",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "517368",
+  "northing": "260754",
+  "url": "http://www.crosshallinfant.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

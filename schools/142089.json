@@ -1,0 +1,18 @@
+{
+  "urn": "142089",
+  "name": "The Burgess Hill Academy",
+  "address": "Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Burgess Hill",
+  "county": "West Sussex",
+  "postcode": "RH15 9EA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "531216",
+  "northing": "118619",
+  "url": "www.theburgesshillacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

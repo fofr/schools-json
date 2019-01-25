@@ -1,0 +1,18 @@
+{
+  "urn": "103094",
+  "name": "Frederick Bremer School",
+  "address": "Siddeley Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 4EY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "538394",
+  "northing": "190293",
+  "url": "http://www.bremer.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

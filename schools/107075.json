@@ -1,0 +1,18 @@
+{
+  "urn": "107075",
+  "name": "Phillimore Community Primary School",
+  "address": "Phillimore Road",
+  "locality": "Darnall",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S9 5EF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "438854",
+  "northing": "388793",
+  "url": "phillimoreprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

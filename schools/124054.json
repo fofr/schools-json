@@ -1,0 +1,18 @@
+{
+  "urn": "124054",
+  "name": "The Croft Primary School",
+  "address": "Rugeley Road",
+  "locality": "Armitage",
+  "address3": "",
+  "town": "Rugeley",
+  "county": "Staffordshire",
+  "postcode": "WS15 4AZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407788",
+  "northing": "316206",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

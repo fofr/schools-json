@@ -1,0 +1,18 @@
+{
+  "urn": "132779",
+  "name": "Wiltshire College",
+  "address": "Cocklebury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN15 3QD",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "392309",
+  "northing": "173716",
+  "url": "www.wiltshire.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

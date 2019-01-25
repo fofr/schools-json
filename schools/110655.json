@@ -1,0 +1,18 @@
+{
+  "urn": "110655",
+  "name": "Milton Road Junior School",
+  "address": "Milton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 1UZ",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "545306",
+  "northing": "259643",
+  "url": "http://www.miltonroadschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

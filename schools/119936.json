@@ -1,0 +1,18 @@
+{
+  "urn": "119936",
+  "name": "Little Bowden School",
+  "address": "Scotland Road",
+  "locality": "Little Bowden",
+  "address3": "",
+  "town": "Market Harborough",
+  "county": "Leicestershire",
+  "postcode": "LE16 8AY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "473973",
+  "northing": "286695",
+  "url": "www.littlebowden.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

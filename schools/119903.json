@@ -1,0 +1,18 @@
+{
+  "urn": "119903",
+  "name": "The Latimer Primary School, Anstey",
+  "address": "Latimer Street",
+  "locality": "Anstey",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE7 7AW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "455070",
+  "northing": "308465",
+  "url": "www.latimerprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

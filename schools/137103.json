@@ -1,0 +1,18 @@
+{
+  "urn": "137103",
+  "name": "Hagley Park Academy",
+  "address": "Burnthill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Rugeley",
+  "county": "Staffordshire",
+  "postcode": "WS15 2HZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "403895",
+  "northing": "317483",
+  "url": "http://www.rugeleyacademies.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

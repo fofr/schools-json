@@ -1,0 +1,18 @@
+{
+  "urn": "118389",
+  "name": "South Deal Primary School",
+  "address": "Mill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Deal",
+  "county": "Kent",
+  "postcode": "CT14 9BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "636803",
+  "northing": "151673",
+  "url": "http://www.southdealprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

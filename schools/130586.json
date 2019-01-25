@@ -1,0 +1,18 @@
+{
+  "urn": "130586",
+  "name": "Franklin College",
+  "address": "Chelmsford Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN34 5BY",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "525631",
+  "northing": "408148",
+  "url": "http://www.franklin.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

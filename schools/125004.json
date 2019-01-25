@@ -1,0 +1,18 @@
+{
+  "urn": "125004",
+  "name": "Wood Street Infant School",
+  "address": "Wood Street",
+  "locality": "",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU3 3DA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "496135",
+  "northing": "151021",
+  "url": "www.woodstreetschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

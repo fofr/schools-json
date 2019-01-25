@@ -1,0 +1,18 @@
+{
+  "urn": "122650",
+  "name": "Willow Brook Primary School",
+  "address": "Willow Brook",
+  "locality": "Keyworth",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG12 5BB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "462494",
+  "northing": "330693",
+  "url": "www.willowbrook.notts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102807",
+  "name": "Goodmayes Primary School",
+  "address": "Castleton Road",
+  "locality": "Goodmayes",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG3 9RW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "546708",
+  "northing": "187076",
+  "url": "http://goodmayesprimary.school",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

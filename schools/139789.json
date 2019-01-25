@@ -1,0 +1,18 @@
+{
+  "urn": "139789",
+  "name": "Walsall Studio School",
+  "address": "14a Lower Hall Lane",
+  "locality": "The Goldmine Centre",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS1 1RL",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "401316",
+  "northing": "298297",
+  "url": "http://www.walsallstudioschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103054",
+  "name": "Greenleaf Primary School",
+  "address": "Greenleaf Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 6QW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536934",
+  "northing": "189703",
+  "url": "www.greenleafschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

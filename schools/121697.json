@@ -1,0 +1,18 @@
+{
+  "urn": "121697",
+  "name": "Harrogate High School",
+  "address": "Ainsty Road",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG1 4AP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "431512",
+  "northing": "455987",
+  "url": "http://www.harrogatehigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

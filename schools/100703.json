@@ -1,0 +1,18 @@
+{
+  "urn": "100703",
+  "name": "Sandhurst Primary School",
+  "address": "Minard Road",
+  "locality": "Catford",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE6 1NW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539055",
+  "northing": "173451",
+  "url": "webfronter.com/lewisham/sandhurstprimary",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

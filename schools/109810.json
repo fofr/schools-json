@@ -1,0 +1,18 @@
+{
+  "urn": "109810",
+  "name": "Chieveley Primary School",
+  "address": "School Road",
+  "locality": "Chieveley",
+  "address3": "",
+  "town": "Newbury",
+  "county": "Berkshire",
+  "postcode": "RG20 8TY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "447310",
+  "northing": "173877",
+  "url": "www.chieveleyschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144318",
+  "name": "Hall Meadow Primary School",
+  "address": "Packer Road",
+  "locality": "Lake Avenue",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN15 7RP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485689",
+  "northing": "277467",
+  "url": "www.hallmeadow.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115957",
+  "name": "Wallop Primary School",
+  "address": "School Lane",
+  "locality": "Nether Wallop",
+  "address3": "",
+  "town": "Stockbridge",
+  "county": "Hampshire",
+  "postcode": "SO20 8EH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "429606",
+  "northing": "137632",
+  "url": "http://www.wallop.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

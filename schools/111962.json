@@ -1,0 +1,18 @@
+{
+  "urn": "111962",
+  "name": "Darite Primary School",
+  "address": "Darite",
+  "locality": "",
+  "address3": "",
+  "town": "Liskeard",
+  "county": "Cornwall",
+  "postcode": "PL14 5JH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "225892",
+  "northing": "69390",
+  "url": "www.darite.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

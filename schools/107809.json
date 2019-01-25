@@ -1,0 +1,18 @@
+{
+  "urn": "107809",
+  "name": "Guiseley Primary School",
+  "address": "Oxford Road",
+  "locality": "Guiseley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS20 9DA",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "419098",
+  "northing": "442258",
+  "url": "www.guiseleyprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

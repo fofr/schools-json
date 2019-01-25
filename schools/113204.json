@@ -1,0 +1,18 @@
+{
+  "urn": "113204",
+  "name": "Kenton Primary School",
+  "address": "Mamhead Road",
+  "locality": "Kenton",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX6 8LX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "295821",
+  "northing": "83246",
+  "url": "www.kenton-primary.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

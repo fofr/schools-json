@@ -1,0 +1,18 @@
+{
+  "urn": "132786",
+  "name": "Howe Park School",
+  "address": "Bowland Drive",
+  "locality": "Emerson Valley",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK4 2SH",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "483952",
+  "northing": "234424",
+  "url": "www.howeparkschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

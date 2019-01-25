@@ -1,0 +1,18 @@
+{
+  "urn": "140976",
+  "name": "Discovery School",
+  "address": "Blandford Street",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle upon Tyne",
+  "county": "",
+  "postcode": "NE1 3BT",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "424082",
+  "northing": "563750",
+  "url": "www.discoveryschool.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

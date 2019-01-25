@@ -1,0 +1,18 @@
+{
+  "urn": "143859",
+  "name": "Gladstone Primary Academy",
+  "address": "Gladstone Street",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE1 2BZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "518652",
+  "northing": "299962",
+  "url": "www.gpa.education",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

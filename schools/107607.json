@@ -1,0 +1,18 @@
+{
+  "urn": "107607",
+  "name": "Earlsheaton Infant School",
+  "address": "Commercial Street",
+  "locality": "Earlsheaton",
+  "address3": "",
+  "town": "Dewsbury",
+  "county": "West Yorkshire",
+  "postcode": "WF12 8JF",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "425762",
+  "northing": "421291",
+  "url": "www.earlsheatoninfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141628",
+  "name": "Ursuline College",
+  "address": "225 Canterbury Road",
+  "locality": "",
+  "address3": "",
+  "town": "Westgate-on-Sea",
+  "county": "Kent",
+  "postcode": "CT8 8LX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "631675",
+  "northing": "169531",
+  "url": "http://www.ursuline.kent.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

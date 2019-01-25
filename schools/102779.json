@@ -1,0 +1,18 @@
+{
+  "urn": "102779",
+  "name": "Woodside Community School",
+  "address": "Woodside Road",
+  "locality": "Plaistow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E13 8RX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "541134",
+  "northing": "182259",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

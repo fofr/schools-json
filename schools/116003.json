@@ -1,0 +1,18 @@
+{
+  "urn": "116003",
+  "name": "Fleet Infant School",
+  "address": "Velmead Road",
+  "locality": "",
+  "address3": "",
+  "town": "Fleet",
+  "county": "Hampshire",
+  "postcode": "GU52 7LQ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "481985",
+  "northing": "153492",
+  "url": "http://www.fleet.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

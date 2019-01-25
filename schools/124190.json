@@ -1,0 +1,18 @@
+{
+  "urn": "124190",
+  "name": "Landywood Primary School",
+  "address": "Holly Lane",
+  "locality": "Landywood",
+  "address3": "Great Wyrley",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS6 6AQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "398864",
+  "northing": "305623",
+  "url": "www.landywoodprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

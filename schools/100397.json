@@ -1,0 +1,18 @@
+{
+  "urn": "100397",
+  "name": "Ambler Primary School and Children's Centre",
+  "address": "Blackstock Road",
+  "locality": "Finsbury Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N4 2DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "531678",
+  "northing": "186560",
+  "url": "www.ambler.islington.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

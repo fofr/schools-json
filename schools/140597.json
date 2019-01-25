@@ -1,0 +1,18 @@
+{
+  "urn": "140597",
+  "name": "Werneth Primary School",
+  "address": "Coppice Street",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Lancashire",
+  "postcode": "OL8 4BL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391979",
+  "northing": "403943",
+  "url": "www.wernethprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

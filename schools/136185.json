@@ -1,0 +1,18 @@
+{
+  "urn": "136185",
+  "name": "Ormiston Bolingbroke Academy",
+  "address": "Barnfield Avenue",
+  "locality": "",
+  "address3": "Murdishaw",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 6EP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "355351",
+  "northing": "380494",
+  "url": "http://www.ormistonbolingbrokeacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

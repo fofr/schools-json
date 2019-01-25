@@ -1,0 +1,18 @@
+{
+  "urn": "110368",
+  "name": "Wood End First School",
+  "address": "Redbridge",
+  "locality": "Stantonbury",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 6BB",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "484701",
+  "northing": "241403",
+  "url": "http://www.woodend.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

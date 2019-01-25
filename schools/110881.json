@@ -1,0 +1,18 @@
+{
+  "urn": "110881",
+  "name": "Bushfield Community College",
+  "address": "Orton Centre",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 5RQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "515230",
+  "northing": "295426",
+  "url": "http://www.bushfield.peterborough.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104111",
+  "name": "Arden School",
+  "address": "Station Road",
+  "locality": "Knowle",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B93 0PT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "417909",
+  "northing": "276383",
+  "url": "http://www.schoolsite.edex.net.uk/234/index.htm",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

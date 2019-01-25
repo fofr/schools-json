@@ -1,0 +1,18 @@
+{
+  "urn": "115498",
+  "name": "Longlevens Infant School",
+  "address": "Paygrove Lane",
+  "locality": "Longlevens",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL2 0AX",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "385788",
+  "northing": "219758",
+  "url": "www.longlevensinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

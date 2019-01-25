@@ -1,0 +1,18 @@
+{
+  "urn": "122416",
+  "name": "Dunkirk Primary and Nursery School",
+  "address": "Marlborough Street",
+  "locality": "Dunkirk",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG7 2LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455168",
+  "northing": "338328",
+  "url": "www.dunkirkprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

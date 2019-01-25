@@ -1,0 +1,18 @@
+{
+  "urn": "114887",
+  "name": "Galleywood Infant School",
+  "address": "Barnard Road",
+  "locality": "Galleywood",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM2 8RR",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "571106",
+  "northing": "202942",
+  "url": "http://www.galleywood.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

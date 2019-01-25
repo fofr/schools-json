@@ -1,0 +1,18 @@
+{
+  "urn": "131929",
+  "name": "Royal Docks Academy",
+  "address": "Prince Regent Lane",
+  "locality": "Custom House",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E16 3HS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "541306",
+  "northing": "181070",
+  "url": "http://www.royaldocks.newham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

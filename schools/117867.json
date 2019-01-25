@@ -1,0 +1,18 @@
+{
+  "urn": "117867",
+  "name": "Wawne Primary School",
+  "address": "10 Greens Lane",
+  "locality": "Wawne",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU7 5XT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508677",
+  "northing": "436894",
+  "url": "http://web.wawne.eriding.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

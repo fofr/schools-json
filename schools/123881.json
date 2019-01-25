@@ -1,0 +1,18 @@
+{
+  "urn": "123881",
+  "name": "Chilton Trinity",
+  "address": "Chilton Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA6 3JA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "329607",
+  "northing": "138386",
+  "url": "http://www.chilton-trinity.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

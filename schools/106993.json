@@ -1,0 +1,18 @@
+{
+  "urn": "106993",
+  "name": "Hatfield Primary School",
+  "address": "Hatfield House Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S5 6HY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "436959",
+  "northing": "392105",
+  "url": "www.hatfield.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109687",
+  "name": "Woodland Middle School",
+  "address": "Malham Close",
+  "locality": "Flitwick",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 1NP",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "502961",
+  "northing": "235019",
+  "url": "http://www.schools.bedfordshire.gov.uk/schools/woodlands/index.html",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123678",
+  "name": "Ashcott Primary School",
+  "address": "Ridgeway",
+  "locality": "Ashcott",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA7 9PP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "343408",
+  "northing": "137293",
+  "url": "http://www.ashcott.somerset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

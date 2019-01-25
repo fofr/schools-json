@@ -1,0 +1,18 @@
+{
+  "urn": "127095",
+  "name": "Ravensdale Infant School",
+  "address": "Ravensdale Road",
+  "locality": "Wyken",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV2 5GQ",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "436593",
+  "northing": "279498",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

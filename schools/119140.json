@@ -1,0 +1,18 @@
+{
+  "urn": "119140",
+  "name": "Nateby Primary School",
+  "address": "Longmoor Lane",
+  "locality": "Garstang",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR3 0JH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "346392",
+  "northing": "444840",
+  "url": "www.nateby.lancsngfl.ac.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

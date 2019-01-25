@@ -1,0 +1,18 @@
+{
+  "urn": "140086",
+  "name": "Leamington Primary and Nursery Academy",
+  "address": "Clare Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton-in-Ashfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 5BB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "449616",
+  "northing": "357719",
+  "url": "www.leamingtonpa.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108580",
+  "name": "Backworth Park Primary School",
+  "address": "The Park",
+  "locality": "Backworth",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE27 0AH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "430081",
+  "northing": "572133",
+  "url": "backworthpark.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

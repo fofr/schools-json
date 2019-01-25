@@ -1,0 +1,18 @@
+{
+  "urn": "111436",
+  "name": "Poynton High School",
+  "address": "Yew Tree Lane",
+  "locality": "Poynton",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK12 1PU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "392665",
+  "northing": "383014",
+  "url": "http://www.phs.cheshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

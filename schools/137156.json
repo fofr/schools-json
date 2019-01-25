@@ -1,0 +1,18 @@
+{
+  "urn": "137156",
+  "name": "Leventhorpe",
+  "address": "Cambridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sawbridgeworth",
+  "county": "Hertfordshire",
+  "postcode": "CM21 9BY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "548235",
+  "northing": "215763",
+  "url": "http://www.leventhorpe.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

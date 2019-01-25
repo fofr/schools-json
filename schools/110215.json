@@ -1,0 +1,18 @@
+{
+  "urn": "110215",
+  "name": "Cheddington Combined School",
+  "address": "High Street",
+  "locality": "Cheddington",
+  "address3": "",
+  "town": "Leighton Buzzard",
+  "county": "Bedfordshire",
+  "postcode": "LU7 0RG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "492186",
+  "northing": "217377",
+  "url": "www.cheddingtonschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

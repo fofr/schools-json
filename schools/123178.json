@@ -1,0 +1,18 @@
+{
+  "urn": "123178",
+  "name": "St Blaise CofE Primary School",
+  "address": "School Lane",
+  "locality": "Milton Heights",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 4DR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "448240",
+  "northing": "191204",
+  "url": "http://www.st-blaise.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

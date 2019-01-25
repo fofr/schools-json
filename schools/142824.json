@@ -1,0 +1,18 @@
+{
+  "urn": "142824",
+  "name": "Westminster Church of England Primary Academy",
+  "address": "Westminster Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD3 0HW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "416737",
+  "northing": "434237",
+  "url": "http://westminsterschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

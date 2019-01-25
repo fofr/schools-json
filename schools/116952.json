@@ -1,0 +1,18 @@
+{
+  "urn": "116952",
+  "name": "Weobley High School",
+  "address": "Burton Wood",
+  "locality": "Weobley",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR4 8ST",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "340593",
+  "northing": "251175",
+  "url": "http://www.weobleyhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

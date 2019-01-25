@@ -1,0 +1,18 @@
+{
+  "urn": "145147",
+  "name": "Murrow Primary Academy",
+  "address": "73 Murrow Bank",
+  "locality": "Murrow",
+  "address3": "",
+  "town": "Wisbech",
+  "county": "Cambridgeshire",
+  "postcode": "PE13 4HD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "537405",
+  "northing": "306477",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

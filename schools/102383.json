@@ -1,0 +1,18 @@
+{
+  "urn": "102383",
+  "name": "Harlyn Primary School",
+  "address": "Tolcarne Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Middlesex",
+  "county": "",
+  "postcode": "HA5 2DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "510753",
+  "northing": "189845",
+  "url": "http://www.harlyn.hillingdon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

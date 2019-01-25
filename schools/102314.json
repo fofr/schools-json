@@ -1,0 +1,18 @@
+{
+  "urn": "102314",
+  "name": "Brady Primary School",
+  "address": "Wennington Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rainham",
+  "county": "Essex",
+  "postcode": "RM13 9XA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "553052",
+  "northing": "181755",
+  "url": "http://www.bradyprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

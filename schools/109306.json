@@ -1,0 +1,18 @@
+{
+  "urn": "109306",
+  "name": "Chew Valley School",
+  "address": "Chew Magna",
+  "locality": "",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Somerset",
+  "postcode": "BS40 8QB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "356732",
+  "northing": "162342",
+  "url": "www.chewvalleyschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

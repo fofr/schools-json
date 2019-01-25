@@ -1,0 +1,18 @@
+{
+  "urn": "105357",
+  "name": "Tottington High School",
+  "address": "Laurel Street",
+  "locality": "Tottington",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL8 3LY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "377782",
+  "northing": "412890",
+  "url": "www.tottington.bury.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

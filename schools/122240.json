@@ -1,0 +1,18 @@
+{
+  "urn": "122240",
+  "name": "Swarland Primary School",
+  "address": "Leamington Lane",
+  "locality": "Felton",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE65 9JP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "416404",
+  "northing": "603956",
+  "url": "http://www.swarland.northumberland.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125262",
+  "name": "Rydens School",
+  "address": "Hersham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hersham",
+  "county": "Surrey",
+  "postcode": "KT12 5PY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "511228",
+  "northing": "164983",
+  "url": "http://www.rydens.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

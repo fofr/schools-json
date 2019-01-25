@@ -1,0 +1,18 @@
+{
+  "urn": "124024",
+  "name": "Hillside Primary School",
+  "address": "Field Avenue",
+  "locality": "Baddeley Green",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 7AS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390947",
+  "northing": "350649",
+  "url": "www.hillsideprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130473",
+  "name": "City College Coventry",
+  "address": "50 Swanswell Street",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV1 5DG",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "433861",
+  "northing": "279766",
+  "url": "http://www.covcollege.ac.uk/Pages/default.aspx",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

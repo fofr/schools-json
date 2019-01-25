@@ -1,0 +1,18 @@
+{
+  "urn": "109533",
+  "name": "Chantry Infant School",
+  "address": "Tomlinson Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU4 0QP",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "503645",
+  "northing": "223670",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

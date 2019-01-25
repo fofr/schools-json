@@ -1,0 +1,18 @@
+{
+  "urn": "125911",
+  "name": "Manor Hall First School",
+  "address": "Manor Hall Road",
+  "locality": "Southwick",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN42 4NF",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "524817",
+  "northing": "105523",
+  "url": "http://www.manorhallfirst.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

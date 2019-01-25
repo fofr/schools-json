@@ -1,0 +1,18 @@
+{
+  "urn": "119916",
+  "name": "Woodstone Community Primary School",
+  "address": "Heather Lane",
+  "locality": "Ravenstone",
+  "address3": "",
+  "town": "Coalville",
+  "county": "Leicestershire",
+  "postcode": "LE67 2AH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "440237",
+  "northing": "313471",
+  "url": "www.woodstoneprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121377",
+  "name": "East Ayton Community Primary School",
+  "address": "3 Moor Lane",
+  "locality": "East Ayton",
+  "address3": "",
+  "town": "Scarborough",
+  "county": "North Yorkshire",
+  "postcode": "YO13 9EW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "499167",
+  "northing": "485017",
+  "url": "eastayton.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

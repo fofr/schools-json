@@ -1,0 +1,18 @@
+{
+  "urn": "110068",
+  "name": "Sandhurst School",
+  "address": "Owlsmoor Road",
+  "locality": "Owlsmoor",
+  "address3": "",
+  "town": "Sandhurst",
+  "county": "Berkshire",
+  "postcode": "GU47 0SD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "484947",
+  "northing": "162023",
+  "url": "http://www.sandhurstschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

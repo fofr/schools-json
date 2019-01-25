@@ -1,0 +1,18 @@
+{
+  "urn": "105222",
+  "name": "St Ethelbert's RC Primary School",
+  "address": "Melbourne Road",
+  "locality": "Deane",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 5RL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "369947",
+  "northing": "408071",
+  "url": "http://www.st-ethelberts.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

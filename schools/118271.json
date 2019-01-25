@@ -1,0 +1,18 @@
+{
+  "urn": "118271",
+  "name": "Capel Primary School",
+  "address": "Five Oak Green Road",
+  "locality": "Five Oak Green",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN12 6RP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "563919",
+  "northing": "145118",
+  "url": "www.capelschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

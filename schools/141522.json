@@ -1,0 +1,18 @@
+{
+  "urn": "141522",
+  "name": "Airedale Infant School",
+  "address": "Poplar Avenue",
+  "locality": "Townville",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 3QJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "445116",
+  "northing": "425231",
+  "url": "www.airedaleinfants.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

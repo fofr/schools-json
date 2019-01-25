@@ -1,0 +1,18 @@
+{
+  "urn": "103734",
+  "name": "Whitley Abbey Business and Enterprise College",
+  "address": "Abbey Road",
+  "locality": "Whitley",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV3 4BD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "435054",
+  "northing": "276581",
+  "url": "www.whitleyabbey.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

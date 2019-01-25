@@ -1,0 +1,18 @@
+{
+  "urn": "138443",
+  "name": "Wyndham Primary Academy",
+  "address": "Wyndham Street",
+  "locality": "Alvaston",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE24 0EP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "438163",
+  "northing": "332966",
+  "url": "www.wyndhamacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138629",
+  "name": "Easton Royal Academy",
+  "address": "The Street",
+  "locality": "Easton Royal",
+  "address3": "",
+  "town": "Pewsey",
+  "county": "Wiltshire",
+  "postcode": "SN9 5LZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "420778",
+  "northing": "160508",
+  "url": "http://www.eroyal.wilts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

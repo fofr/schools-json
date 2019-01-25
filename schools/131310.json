@@ -1,0 +1,18 @@
+{
+  "urn": "131310",
+  "name": "Elthorne Park High School",
+  "address": "Westlea Road",
+  "locality": "Hanwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W7 2AH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "516042",
+  "northing": "179215",
+  "url": "www.ephs.ealing.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

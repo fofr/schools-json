@@ -1,0 +1,18 @@
+{
+  "urn": "138843",
+  "name": "St. Michael's Academy",
+  "address": "Grass Royal",
+  "locality": "",
+  "address3": "",
+  "town": "Yeovil",
+  "county": "Somerset",
+  "postcode": "BA21 4JW",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "356423",
+  "northing": "116561",
+  "url": "www.stmichaelsacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

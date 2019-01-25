@@ -1,0 +1,18 @@
+{
+  "urn": "121682",
+  "name": "Filey School",
+  "address": "Muston Road",
+  "locality": "",
+  "address3": "",
+  "town": "Filey",
+  "county": "North Yorkshire",
+  "postcode": "YO14 0HG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "510791",
+  "northing": "480109",
+  "url": "http://www.fileyschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

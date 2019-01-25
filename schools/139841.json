@@ -1,0 +1,18 @@
+{
+  "urn": "139841",
+  "name": "Broadway Academy",
+  "address": "The Broadway",
+  "locality": "Perry Barr",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B20 3DP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "407184",
+  "northing": "290576",
+  "url": "http://www.broadway-academy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

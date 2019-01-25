@@ -1,0 +1,18 @@
+{
+  "urn": "120831",
+  "name": "Marsham Primary School",
+  "address": "High Street",
+  "locality": "Marsham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR10 5AE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "619439",
+  "northing": "324069",
+  "url": "www.hevinghamprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

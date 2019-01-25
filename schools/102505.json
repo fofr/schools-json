@@ -1,0 +1,18 @@
+{
+  "urn": "102505",
+  "name": "Wellington Primary School",
+  "address": "Sutton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW3 4LB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "512823",
+  "northing": "176312",
+  "url": "www.wellington.hounslow.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122611",
+  "name": "Manners Sutton Primary School",
+  "address": "Newark Road",
+  "locality": "Averham",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG23 5QZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "476466",
+  "northing": "354625",
+  "url": "http://www.mannerssutton.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

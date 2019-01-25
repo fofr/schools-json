@@ -1,0 +1,18 @@
+{
+  "urn": "140900",
+  "name": "Iwade School",
+  "address": "School Lane",
+  "locality": "Iwade",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME9 8RS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "589970",
+  "northing": "167845",
+  "url": "www.timuacademytrust.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

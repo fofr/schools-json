@@ -1,0 +1,18 @@
+{
+  "urn": "135876",
+  "name": "Francis Combe Academy",
+  "address": "Horseshoe Lane",
+  "locality": "Garston",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD25 7HW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "511219",
+  "northing": "201131",
+  "url": "www.franciscombeacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

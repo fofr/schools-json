@@ -1,0 +1,18 @@
+{
+  "urn": "138183",
+  "name": "Bellerive FCJ Catholic College",
+  "address": "1 Aigburth Drive",
+  "locality": "Sefton Park",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L17 3AA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "337076",
+  "northing": "388150",
+  "url": "http://www.bellerivefcj.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

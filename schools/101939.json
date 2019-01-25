@@ -1,0 +1,18 @@
+{
+  "urn": "101939",
+  "name": "Brentside High School",
+  "address": "Greenford Avenue",
+  "locality": "Hanwell",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W7 1JJ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "515266",
+  "northing": "182151",
+  "url": "http://www.brentsidehigh.ealing.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

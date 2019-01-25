@@ -1,0 +1,18 @@
+{
+  "urn": "137880",
+  "name": "Stanground Academy",
+  "address": "Peterborough Road",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 3BY",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "520340",
+  "northing": "296032",
+  "url": "http://www.stangroundacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

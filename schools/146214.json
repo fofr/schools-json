@@ -1,0 +1,18 @@
+{
+  "urn": "146214",
+  "name": "ARK John Archer Primary Academy",
+  "address": "Plough Terrace",
+  "locality": "Battersea",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 2AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526899",
+  "northing": "175236",
+  "url": "www.highview.wandsworth.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

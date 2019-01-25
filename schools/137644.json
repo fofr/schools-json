@@ -1,0 +1,18 @@
+{
+  "urn": "137644",
+  "name": "Orchard Vale Community School",
+  "address": "Westacott Road",
+  "locality": "Whiddon Valley",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX32 8QY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "258329",
+  "northing": "132856",
+  "url": "www.ovschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

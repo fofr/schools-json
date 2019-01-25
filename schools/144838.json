@@ -1,0 +1,18 @@
+{
+  "urn": "144838",
+  "name": "Aragon Primary School",
+  "address": "Aragon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Morden",
+  "county": "Surrey",
+  "postcode": "SM4 4QU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "523946",
+  "northing": "166995",
+  "url": "www.aragonprimary.merton.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

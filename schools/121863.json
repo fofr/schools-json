@@ -1,0 +1,18 @@
+{
+  "urn": "121863",
+  "name": "Rushton Primary School",
+  "address": "Station Road",
+  "locality": "Rushton",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN14 1RL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "484282",
+  "northing": "282984",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

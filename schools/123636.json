@@ -1,0 +1,18 @@
+{
+  "urn": "123636",
+  "name": "Sedgemoor Centre",
+  "address": "New Prospects",
+  "locality": "",
+  "address3": "Westonzoyland Road",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA6 5HT",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "330400",
+  "northing": "137000",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

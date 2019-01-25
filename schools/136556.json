@@ -1,0 +1,18 @@
+{
+  "urn": "136556",
+  "name": "Plympton Academy",
+  "address": "Moorland Road",
+  "locality": "Plympton",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL7 2RS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "254291",
+  "northing": "56294",
+  "url": "www.plympton.academy",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

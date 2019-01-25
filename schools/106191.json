@@ -1,0 +1,18 @@
+{
+  "urn": "106191",
+  "name": "Buckton Vale Primary School",
+  "address": "Swallow Lane",
+  "locality": "Carrbrook",
+  "address3": "",
+  "town": "Stalybridge",
+  "county": "Cheshire",
+  "postcode": "SK15 3NU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "398617",
+  "northing": "401107",
+  "url": "www.bucktonvale.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

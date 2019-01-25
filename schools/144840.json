@@ -1,0 +1,18 @@
+{
+  "urn": "144840",
+  "name": "Topcliffe CofE Academy",
+  "address": "School Lane",
+  "locality": "Topcliffe",
+  "address3": "",
+  "town": "Thirsk",
+  "county": "North Yorkshire",
+  "postcode": "YO7 3RG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "440130",
+  "northing": "476296",
+  "url": "http://www.topcliffeacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

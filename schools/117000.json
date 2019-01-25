@@ -1,0 +1,18 @@
+{
+  "urn": "117000",
+  "name": "Prince Henry's High School",
+  "address": "Victoria Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Evesham",
+  "county": "Worcestershire",
+  "postcode": "WR11 4QH",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "404113",
+  "northing": "244509",
+  "url": "http://www.princehenrys.worcs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

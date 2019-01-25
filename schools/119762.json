@@ -1,0 +1,18 @@
+{
+  "urn": "119762",
+  "name": "Nelson Walton High School",
+  "address": "Oxford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Nelson",
+  "county": "Lancashire",
+  "postcode": "BB9 8JG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "387189",
+  "northing": "438556",
+  "url": "http://www.waltonhigh.lancs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

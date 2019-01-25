@@ -1,0 +1,18 @@
+{
+  "urn": "125041",
+  "name": "Weybourne Infant School",
+  "address": "Knights Road",
+  "locality": "Heath End",
+  "address3": "",
+  "town": "Farnham",
+  "county": "Surrey",
+  "postcode": "GU9 9DA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "485217",
+  "northing": "148907",
+  "url": "http://www.weybourne.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107209",
+  "name": "Heaton Primary School",
+  "address": "Haworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD9 6LL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "412642",
+  "northing": "435598",
+  "url": "www.heaton.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

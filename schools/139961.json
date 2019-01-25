@@ -1,0 +1,18 @@
+{
+  "urn": "139961",
+  "name": "Wrenn School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN8 2DQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "489507",
+  "northing": "267307",
+  "url": "http://www.wrennschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145243",
+  "name": "Marlborough Junior School",
+  "address": "Green Lane",
+  "locality": "Small Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B10 9NY",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "410290",
+  "northing": "286174",
+  "url": "www.mjs.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

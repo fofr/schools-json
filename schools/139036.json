@@ -1,0 +1,18 @@
+{
+  "urn": "139036",
+  "name": "Kings Langley School",
+  "address": "Love Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Kings Langley",
+  "county": "Hertfordshire",
+  "postcode": "WD4 9HN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "506295",
+  "northing": "203029",
+  "url": "http://www.kls.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

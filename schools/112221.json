@@ -1,0 +1,18 @@
+{
+  "urn": "112221",
+  "name": "Stanwix Primary School",
+  "address": "Church Street",
+  "locality": "",
+  "address3": "Stanwix",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA3 9DW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "340102",
+  "northing": "557168",
+  "url": "www.stanwix.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

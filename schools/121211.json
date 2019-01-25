@@ -1,0 +1,18 @@
+{
+  "urn": "121211",
+  "name": "Costessey High School",
+  "address": "Middleton Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR5 0PX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "617338",
+  "northing": "310653",
+  "url": "http://www.costesseyhigh.norfolk.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

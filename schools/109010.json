@@ -1,0 +1,18 @@
+{
+  "urn": "109010",
+  "name": "The Meadows Primary School",
+  "address": "Bath Road",
+  "locality": "Bitton",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS30 6HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "367775",
+  "northing": "169825",
+  "url": "www.themeadowsps.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118829",
+  "name": "Hextable School",
+  "address": "Egerton Avenue",
+  "locality": "Hextable",
+  "address3": "",
+  "town": "Swanley",
+  "county": "Kent",
+  "postcode": "BR8 7LU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "551534",
+  "northing": "169922",
+  "url": "http://www.hextable.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

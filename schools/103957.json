@@ -1,0 +1,18 @@
+{
+  "urn": "103957",
+  "name": "Temple Meadow Primary School",
+  "address": "Wrights Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Cradley Heath",
+  "county": "West Midlands",
+  "postcode": "B64 6RH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "396015",
+  "northing": "286110",
+  "url": "http://www.templemeadow.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

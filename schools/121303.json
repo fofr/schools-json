@@ -1,0 +1,18 @@
+{
+  "urn": "121303",
+  "name": "Kirkbymoorside Community Primary School",
+  "address": "Westfields",
+  "locality": "Kirkbymoorside",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO62 6AG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "469052",
+  "northing": "486323",
+  "url": "www.kirkbymoorside-primary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

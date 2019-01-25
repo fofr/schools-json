@@ -1,0 +1,18 @@
+{
+  "urn": "112978",
+  "name": "Linton Primary School",
+  "address": "Main Street",
+  "locality": "Linton",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE12 6QA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427920",
+  "northing": "316403",
+  "url": "http://www.lintonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

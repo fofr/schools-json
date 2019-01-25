@@ -1,0 +1,18 @@
+{
+  "urn": "105150",
+  "name": "Castle Hill Primary School",
+  "address": "Castle Hill Street",
+  "locality": "Tonge Moor",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL2 2JT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "372723",
+  "northing": "410969",
+  "url": "www.castle-hill.bolton.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

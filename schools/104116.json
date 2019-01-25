@@ -1,0 +1,18 @@
+{
+  "urn": "104116",
+  "name": "Park Hall School",
+  "address": "Water Orton Road",
+  "locality": "Castle Bromwich",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B36 9HF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "416124",
+  "northing": "290453",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106315",
+  "name": "Urmston Primary School",
+  "address": "Wycliffe Road",
+  "locality": "Urmston",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M41 5AH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "376223",
+  "northing": "394869",
+  "url": "www.urmstonprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

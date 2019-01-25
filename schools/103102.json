@@ -1,0 +1,18 @@
+{
+  "urn": "103102",
+  "name": "The McEntee School",
+  "address": "Billet Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 5DP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "536954",
+  "northing": "190913",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

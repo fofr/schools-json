@@ -1,0 +1,18 @@
+{
+  "urn": "111157",
+  "name": "Church Lawton Primary School",
+  "address": "Cherry Tree Avenue",
+  "locality": "Church Lawton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 3EL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "381423",
+  "northing": "356222",
+  "url": "http://www.churchlawton.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

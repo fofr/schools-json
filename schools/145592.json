@@ -1,0 +1,18 @@
+{
+  "urn": "145592",
+  "name": "Chaddesden Park Primary School",
+  "address": "Carson Road",
+  "locality": "Chaddesden",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE21 6JW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "438727",
+  "northing": "336943",
+  "url": "www.chaddesdenparkprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

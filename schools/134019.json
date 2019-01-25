@@ -1,0 +1,18 @@
+{
+  "urn": "134019",
+  "name": "Charter Primary School",
+  "address": "314 Mitchell Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV4 8DW",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "429434",
+  "northing": "277568",
+  "url": "http://www.phoenix.coventry.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

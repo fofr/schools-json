@@ -1,0 +1,18 @@
+{
+  "urn": "136971",
+  "name": "Park View School",
+  "address": "Church Chare",
+  "locality": "",
+  "address3": "",
+  "town": "Chester le Street",
+  "county": "County Durham",
+  "postcode": "DH3 3QA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "427692",
+  "northing": "551263",
+  "url": "www.parkviewonline.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

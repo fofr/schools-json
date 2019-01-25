@@ -1,0 +1,18 @@
+{
+  "urn": "101806",
+  "name": "Woodcote High School",
+  "address": "Meadow Rise",
+  "locality": "",
+  "address3": "",
+  "town": "Coulsdon",
+  "county": "Surrey",
+  "postcode": "CR5 2EH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "529623",
+  "northing": "160694",
+  "url": "www.woodcote.croydon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

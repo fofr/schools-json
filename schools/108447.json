@@ -1,0 +1,18 @@
+{
+  "urn": "108447",
+  "name": "Newburn Manor Primary School",
+  "address": "Millfield Lane",
+  "locality": "Newburn",
+  "address3": "",
+  "town": "Newcastle upon Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE15 8PD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "416773",
+  "northing": "565717",
+  "url": "http://www.newburnmanorprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

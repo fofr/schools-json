@@ -1,0 +1,18 @@
+{
+  "urn": "127223",
+  "name": "Underhill Infant School",
+  "address": "Underhill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV10 8LS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "393623",
+  "northing": "302344",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

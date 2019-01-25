@@ -1,0 +1,18 @@
+{
+  "urn": "112935",
+  "name": "Wilsthorpe Community School",
+  "address": "Derby Road",
+  "locality": "Long Eaton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG10 4WT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "447792",
+  "northing": "334251",
+  "url": "http://www.wilsthorpe.derbyshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

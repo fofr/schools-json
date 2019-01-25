@@ -1,0 +1,18 @@
+{
+  "urn": "137091",
+  "name": "Chesham Grammar School",
+  "address": "White Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Chesham",
+  "county": "Buckinghamshire",
+  "postcode": "HP5 1BA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "496815",
+  "northing": "202049",
+  "url": "http://www.cheshamgrammar.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139439",
+  "name": "Tiverton Academy",
+  "address": "Tiverton Road",
+  "locality": "Selly Oak",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B29 6BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404675",
+  "northing": "282847",
+  "url": "www.tiverton.bham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

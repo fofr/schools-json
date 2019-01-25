@@ -1,0 +1,18 @@
+{
+  "urn": "102811",
+  "name": "Mossford Green Primary School",
+  "address": "Fairlop Road",
+  "locality": "Barkingside",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG6 2EW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544165",
+  "northing": "190115",
+  "url": "www.mossfordgreen.redbridge.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

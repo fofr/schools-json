@@ -1,0 +1,18 @@
+{
+  "urn": "107948",
+  "name": "Cottingley Primary School",
+  "address": "Dulverton Grove",
+  "locality": "Cottingley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 0HU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427504",
+  "northing": "430335",
+  "url": "www.cottingley.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

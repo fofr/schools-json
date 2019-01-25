@@ -1,0 +1,18 @@
+{
+  "urn": "137372",
+  "name": "Princes Risborough School",
+  "address": "Merton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Princes Risborough",
+  "county": "Buckinghamshire",
+  "postcode": "HP27 0DT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "481016",
+  "northing": "202968",
+  "url": "http://www.princesrisborough.bucks.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

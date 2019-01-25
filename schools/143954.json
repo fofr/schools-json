@@ -1,0 +1,18 @@
+{
+  "urn": "143954",
+  "name": "The Lenham School",
+  "address": "Ham Lane",
+  "locality": "Lenham",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME17 2LL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "589367",
+  "northing": "152380",
+  "url": "www.thelenham.viat.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

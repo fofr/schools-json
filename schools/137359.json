@@ -1,0 +1,18 @@
+{
+  "urn": "137359",
+  "name": "Westcliff Primary Academy",
+  "address": "Crawford Avenue",
+  "locality": "Bispham",
+  "address3": "",
+  "town": "Blackpool",
+  "county": "Lancashire",
+  "postcode": "FY2 9BY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "331489",
+  "northing": "440512",
+  "url": "www.westcliffprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

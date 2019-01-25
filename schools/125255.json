@@ -1,0 +1,18 @@
+{
+  "urn": "125255",
+  "name": "Warlingham School",
+  "address": "Tithe Pit Shaw Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Warlingham",
+  "county": "Surrey",
+  "postcode": "CR6 9YB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "534676",
+  "northing": "159360",
+  "url": "http://www.warlingham.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

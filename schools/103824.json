@@ -1,0 +1,18 @@
+{
+  "urn": "103824",
+  "name": "Netherbrook Primary School",
+  "address": "Chester Road",
+  "locality": "Netherton",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY2 9RZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394880",
+  "northing": "286853",
+  "url": "http://www.netherbrook.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

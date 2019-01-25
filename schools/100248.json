@@ -1,0 +1,18 @@
+{
+  "urn": "100248",
+  "name": "Woodberry Down Community Primary School",
+  "address": "Woodberry Grove",
+  "locality": "Finsbury Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N4 1SY",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "532393",
+  "northing": "187810",
+  "url": "www.woodberrydown.hackney.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

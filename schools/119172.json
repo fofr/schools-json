@@ -1,0 +1,18 @@
+{
+  "urn": "119172",
+  "name": "Park Primary School",
+  "address": "Rutland Street",
+  "locality": "",
+  "address3": "",
+  "town": "Colne",
+  "county": "Lancashire",
+  "postcode": "BB8 0QJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "389641",
+  "northing": "440266",
+  "url": "www.colnepark.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

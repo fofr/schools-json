@@ -1,0 +1,18 @@
+{
+  "urn": "112345",
+  "name": "Beckermet CofE School",
+  "address": "Mill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Beckermet",
+  "county": "Cumbria",
+  "postcode": "CA21 2YD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "301871",
+  "northing": "506810",
+  "url": "www.beckermet.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

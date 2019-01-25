@@ -1,0 +1,18 @@
+{
+  "urn": "124175",
+  "name": "Jerome Primary School",
+  "address": "Hussey Road",
+  "locality": "Norton Canes",
+  "address3": "",
+  "town": "Cannock",
+  "county": "Staffordshire",
+  "postcode": "WS11 9TP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "401645",
+  "northing": "308189",
+  "url": "http://www.jerome.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

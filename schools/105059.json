@@ -1,0 +1,18 @@
+{
+  "urn": "105059",
+  "name": "Hillside Infant School",
+  "address": "Ridgeview Road",
+  "locality": "Noctorum",
+  "address3": "",
+  "town": "Prenton",
+  "county": "Merseyside",
+  "postcode": "CH43 9HG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "328612",
+  "northing": "388149",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

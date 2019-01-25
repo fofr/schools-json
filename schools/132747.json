@@ -1,0 +1,18 @@
+{
+  "urn": "132747",
+  "name": "Eaton Bank School",
+  "address": "Jackson Road",
+  "locality": "",
+  "address3": "",
+  "town": "Congleton",
+  "county": "Cheshire",
+  "postcode": "CW12 1NT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "386572",
+  "northing": "364267",
+  "url": "http://www.eatonbank.cheshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

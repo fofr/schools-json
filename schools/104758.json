@@ -1,0 +1,18 @@
+{
+  "urn": "104758",
+  "name": "Allanson Street Primary School",
+  "address": "Gaskell Street",
+  "locality": "Parr",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA9 1PL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "352676",
+  "northing": "394837",
+  "url": "http://www.allansonstreetprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

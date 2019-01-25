@@ -1,0 +1,18 @@
+{
+  "urn": "145440",
+  "name": "Hilltop Primary Academy",
+  "address": "Hilltop Road",
+  "locality": "Frindsbury",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 4QN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "574043",
+  "northing": "170333",
+  "url": "http://www.sflt.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

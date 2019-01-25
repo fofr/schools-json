@@ -1,0 +1,18 @@
+{
+  "urn": "117360",
+  "name": "Meriden Primary School",
+  "address": "Harvest End",
+  "locality": "",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD25 9UA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511794",
+  "northing": "199256",
+  "url": "http://www.meriden.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

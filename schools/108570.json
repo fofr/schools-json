@@ -1,0 +1,18 @@
+{
+  "urn": "108570",
+  "name": "Priory Primary School",
+  "address": "Percy Park Road",
+  "locality": "Tynemouth",
+  "address3": "",
+  "town": "North Shields",
+  "county": "Tyne and Wear",
+  "postcode": "NE30 4LS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "436814",
+  "northing": "569536",
+  "url": "www.prioryprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

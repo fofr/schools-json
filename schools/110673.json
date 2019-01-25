@@ -1,0 +1,18 @@
+{
+  "urn": "110673",
+  "name": "Hauxton Primary School",
+  "address": "Jopling Way",
+  "locality": "Hauxton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB22 5HY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "544079",
+  "northing": "251875",
+  "url": "www.hauxtonprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

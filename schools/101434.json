@@ -1,0 +1,18 @@
+{
+  "urn": "101434",
+  "name": "Dulverton Primary School",
+  "address": "Dulverton Road",
+  "locality": "New Eltham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 3RH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544704",
+  "northing": "172874",
+  "url": "www.dulverton.bexley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

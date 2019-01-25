@@ -1,0 +1,18 @@
+{
+  "urn": "102345",
+  "name": "Marshalls Park School",
+  "address": "Pettits Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM1 4EH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "551408",
+  "northing": "190187",
+  "url": "http://www.marshallspark.havering.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

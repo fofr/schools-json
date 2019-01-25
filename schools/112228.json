@@ -1,0 +1,18 @@
+{
+  "urn": "112228",
+  "name": "Belle Vue Primary School",
+  "address": "Beaver Road",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA2 7PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "337469",
+  "northing": "555912",
+  "url": "www.bellevue.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

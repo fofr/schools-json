@@ -1,0 +1,18 @@
+{
+  "urn": "110989",
+  "name": "Bradshaw Community Primary School",
+  "address": "Bradshaw Lane",
+  "locality": "Grappenhall",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 2QN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "363907",
+  "northing": "386938",
+  "url": "http://www.bradshawcps.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

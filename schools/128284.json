@@ -1,0 +1,18 @@
+{
+  "urn": "128284",
+  "name": "Reading Primary Centre",
+  "address": "999 Oxford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "",
+  "postcode": "RG31 6TL",
+  "minimum_age": "7",
+  "maximum_age": "7",
+  "easting": "467355",
+  "northing": "175181",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

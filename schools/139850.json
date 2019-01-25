@@ -1,0 +1,18 @@
+{
+  "urn": "139850",
+  "name": "Eastfield Primary School",
+  "address": "Anlaby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU4 6DT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505864",
+  "northing": "428688",
+  "url": "http://www.eastfieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

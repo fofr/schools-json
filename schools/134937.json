@@ -1,0 +1,18 @@
+{
+  "urn": "134937",
+  "name": "Granta School",
+  "address": "Cambridge Road",
+  "locality": "Linton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB21 4NN",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "555720",
+  "northing": "246681",
+  "url": "www.granta.cambs.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

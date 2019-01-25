@@ -1,0 +1,18 @@
+{
+  "urn": "135086",
+  "name": "Akiva School",
+  "address": "80 East End Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N3 2SY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "525517",
+  "northing": "190047",
+  "url": "www.akivaschool.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

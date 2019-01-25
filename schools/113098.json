@@ -1,0 +1,18 @@
+{
+  "urn": "113098",
+  "name": "Honiton Primary School",
+  "address": "Clapper Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Honiton",
+  "county": "Devon",
+  "postcode": "EX14 1QF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "316391",
+  "northing": "100946",
+  "url": "www.honitonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

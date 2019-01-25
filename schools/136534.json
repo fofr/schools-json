@@ -1,0 +1,18 @@
+{
+  "urn": "136534",
+  "name": "Glyn School",
+  "address": "The Kingsway",
+  "locality": "Ewell",
+  "address3": "",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT17 1NB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "521578",
+  "northing": "161920",
+  "url": "http://www.glynschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142638",
+  "name": "Gamlingay Village Primary",
+  "address": "Green End",
+  "locality": "Gamlingay",
+  "address3": "",
+  "town": "Sandy",
+  "county": "Bedfordshire",
+  "postcode": "SG19 3LE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "523649",
+  "northing": "252405",
+  "url": "www.gamlingayfirst.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

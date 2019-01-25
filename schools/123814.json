@@ -1,0 +1,18 @@
+{
+  "urn": "123814",
+  "name": "Ash Church of England Primary School",
+  "address": "Main Street",
+  "locality": "Ash",
+  "address3": "",
+  "town": "Martock",
+  "county": "Somerset",
+  "postcode": "TA12 6NS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "347343",
+  "northing": "120695",
+  "url": "www.ashprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "121155",
+  "name": "Stalham High School",
+  "address": "Brumstead Road",
+  "locality": "Stalham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR12 9DG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "637420",
+  "northing": "325229",
+  "url": "www.stalhamhigh.norfolk.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

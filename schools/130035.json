@@ -1,0 +1,18 @@
+{
+  "urn": "130035",
+  "name": "Manfield County First School",
+  "address": "Grange Road",
+  "locality": "Ash",
+  "address3": "",
+  "town": "Aldershot",
+  "county": "Hampshire",
+  "postcode": "GU12 6ET",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "489500",
+  "northing": "150400",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

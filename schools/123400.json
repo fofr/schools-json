@@ -1,0 +1,18 @@
+{
+  "urn": "123400",
+  "name": "Barn Farm Infant School",
+  "address": "Mount Gilbert",
+  "locality": "Wellington",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 2JQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "365819",
+  "northing": "310504",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

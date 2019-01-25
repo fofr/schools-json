@@ -1,0 +1,18 @@
+{
+  "urn": "103549",
+  "name": "Handsworth Grammar School",
+  "address": "Grove Lane",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B21 9ET",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "404621",
+  "northing": "289652",
+  "url": "http://www.handsworth.bham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

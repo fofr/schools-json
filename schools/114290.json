@@ -1,0 +1,18 @@
+{
+  "urn": "114290",
+  "name": "The Hermitage School",
+  "address": "Waldridge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chester le Street",
+  "county": "County Durham",
+  "postcode": "DH2 3AD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426235",
+  "northing": "550769",
+  "url": "http://atschool.eduweb.co.uk/admin.hermitage/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

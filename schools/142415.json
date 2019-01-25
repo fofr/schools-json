@@ -1,0 +1,18 @@
+{
+  "urn": "142415",
+  "name": "Lakeside Primary School",
+  "address": "Alphington Avenue",
+  "locality": "Frimley",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU16 8LL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "488667",
+  "northing": "158374",
+  "url": "www.lakeside.kite.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

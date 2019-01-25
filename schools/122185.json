@@ -1,0 +1,18 @@
+{
+  "urn": "122185",
+  "name": "Spittal Community School",
+  "address": "Main Street",
+  "locality": "Spittal",
+  "address3": "",
+  "town": "Berwick-upon-Tweed",
+  "county": "Northumberland",
+  "postcode": "TD15 1RD",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "400552",
+  "northing": "651610",
+  "url": "www.spittal.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

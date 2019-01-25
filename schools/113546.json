@@ -1,0 +1,18 @@
+{
+  "urn": "113546",
+  "name": "Tamarside Community College",
+  "address": "Trevithick Road",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL5 2AF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "245456",
+  "northing": "58486",
+  "url": "http://www.tamarside.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

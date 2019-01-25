@@ -1,0 +1,18 @@
+{
+  "urn": "131915",
+  "name": "Maplewood School",
+  "address": "Faulkner Way",
+  "locality": "Downley",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP13 5HB",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "484533",
+  "northing": "195063",
+  "url": "http://www.maplewood.bucks.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

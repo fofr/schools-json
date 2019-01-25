@@ -1,0 +1,18 @@
+{
+  "urn": "102439",
+  "name": "Hayes Park School",
+  "address": "Raynton Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Hayes",
+  "county": "Middlesex",
+  "postcode": "UB4 8BE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "509632",
+  "northing": "182266",
+  "url": "www.hayesparkschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

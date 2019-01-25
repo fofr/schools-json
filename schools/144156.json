@@ -1,0 +1,18 @@
+{
+  "urn": "144156",
+  "name": "Croft Church of England Primary School",
+  "address": "South Parade",
+  "locality": "Croft-on-Tees",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL2 2SP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "428439",
+  "northing": "509837",
+  "url": "http://www.croftprimaryschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

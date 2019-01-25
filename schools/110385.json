@@ -1,0 +1,18 @@
+{
+  "urn": "110385",
+  "name": "Summerfield School",
+  "address": "Downley Avenue",
+  "locality": "Bradwell Common",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK13 8PG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "484272",
+  "northing": "239236",
+  "url": "http://www.summerfieldschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

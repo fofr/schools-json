@@ -1,0 +1,18 @@
+{
+  "urn": "119250",
+  "name": "Kelbrook Primary School",
+  "address": "School Street",
+  "locality": "Kelbrook",
+  "address3": "",
+  "town": "Barnoldswick",
+  "county": "Lancashire",
+  "postcode": "BB18 6UD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390141",
+  "northing": "444515",
+  "url": "http://www.kelbrook.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

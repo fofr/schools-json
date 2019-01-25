@@ -1,0 +1,18 @@
+{
+  "urn": "110705",
+  "name": "The Duke of Bedford Primary School",
+  "address": "Wisbech Road",
+  "locality": "Thorney",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE6 0ST",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "528895",
+  "northing": "304257",
+  "url": "http://www.dukeofbedford.peterborough.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

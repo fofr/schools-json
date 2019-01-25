@@ -1,0 +1,18 @@
+{
+  "urn": "138460",
+  "name": "Teddington School",
+  "address": "Broom Road",
+  "locality": "",
+  "address3": "",
+  "town": "Teddington",
+  "county": "Middlesex",
+  "postcode": "TW11 9PJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517446",
+  "northing": "170646",
+  "url": "http://www.teddingtonschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

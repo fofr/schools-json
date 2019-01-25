@@ -1,0 +1,18 @@
+{
+  "urn": "136922",
+  "name": "Yavneh College",
+  "address": "Hillside Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Borehamwood",
+  "county": "Hertfordshire",
+  "postcode": "WD6 1HL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "519895",
+  "northing": "196470",
+  "url": "http://www.yavnehcollege.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

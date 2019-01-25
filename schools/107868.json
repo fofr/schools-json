@@ -1,0 +1,18 @@
+{
+  "urn": "107868",
+  "name": "Bardsey Primary School",
+  "address": "Woodacre Lane",
+  "locality": "Bardsey",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS17 9DG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "436369",
+  "northing": "443560",
+  "url": "www.bardseyprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

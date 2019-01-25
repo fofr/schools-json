@@ -1,0 +1,18 @@
+{
+  "urn": "115533",
+  "name": "Mickleton Primary School",
+  "address": "Broadmarston Lane",
+  "locality": "Mickleton",
+  "address3": "",
+  "town": "Chipping Campden",
+  "county": "Gloucestershire",
+  "postcode": "GL55 6SJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "415895",
+  "northing": "243704",
+  "url": "www.mickletonschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

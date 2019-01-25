@@ -1,0 +1,18 @@
+{
+  "urn": "120408",
+  "name": "Fleet Wood Lane School",
+  "address": "Wood Lane",
+  "locality": "Fleet",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE12 8NN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "538757",
+  "northing": "323793",
+  "url": "http://www.fleetwoodlane.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

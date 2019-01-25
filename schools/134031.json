@@ -1,0 +1,18 @@
+{
+  "urn": "134031",
+  "name": "Home and Hospital Service",
+  "address": "C/O Oaktree School",
+  "locality": "Chase Side",
+  "address3": "Southgate",
+  "town": "London",
+  "county": "",
+  "postcode": "N14 4HN",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "533135",
+  "northing": "193394",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

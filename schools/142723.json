@@ -1,0 +1,18 @@
+{
+  "urn": "142723",
+  "name": "Royal Park Primary Academy",
+  "address": "Riverside Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sidcup",
+  "county": "Kent",
+  "postcode": "DA14 4PX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "548120",
+  "northing": "172332",
+  "url": "http://www.royalpark-tkat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

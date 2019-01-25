@@ -1,0 +1,18 @@
+{
+  "urn": "137544",
+  "name": "Stisted Church of England Primary Academy",
+  "address": "The Street",
+  "locality": "Stisted",
+  "address3": "",
+  "town": "Braintree",
+  "county": "Essex",
+  "postcode": "CM77 8AN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "579972",
+  "northing": "224913",
+  "url": "www.stisted-academy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

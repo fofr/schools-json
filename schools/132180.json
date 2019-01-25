@@ -1,0 +1,18 @@
+{
+  "urn": "132180",
+  "name": "Thorpe Primary School",
+  "address": "Albion Road",
+  "locality": "Idle",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD10 9PY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "417910",
+  "northing": "437587",
+  "url": "www.thorpeprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

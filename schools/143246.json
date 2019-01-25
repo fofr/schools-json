@@ -1,0 +1,18 @@
+{
+  "urn": "143246",
+  "name": "Woodstock Primary Academy",
+  "address": "Hattern Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 2GZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458051",
+  "northing": "307761",
+  "url": "www.woodstock.leicester.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

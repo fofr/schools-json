@@ -1,0 +1,18 @@
+{
+  "urn": "145423",
+  "name": "Fen Ditton Primary School",
+  "address": "Horningsea Road",
+  "locality": "Fen Ditton",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB5 8SZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "548680",
+  "northing": "260450",
+  "url": "www.fenditton.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

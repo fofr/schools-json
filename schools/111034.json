@@ -1,0 +1,18 @@
+{
+  "urn": "111034",
+  "name": "Cranberry Infant School",
+  "address": "Cranberry Lane",
+  "locality": "Alsager",
+  "address3": "",
+  "town": "Alsager",
+  "county": "Cheshire",
+  "postcode": "ST7 2LE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "378308",
+  "northing": "355383",
+  "url": "http://www.cranberryinf.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

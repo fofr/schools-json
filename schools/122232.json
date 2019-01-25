@@ -1,0 +1,18 @@
+{
+  "urn": "122232",
+  "name": "Cambo First School",
+  "address": "Cambo",
+  "locality": "",
+  "address3": "",
+  "town": "Morpeth",
+  "county": "Northumberland",
+  "postcode": "NE61 4BE",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "402411",
+  "northing": "585856",
+  "url": "www.camboschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

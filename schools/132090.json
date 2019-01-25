@@ -1,0 +1,18 @@
+{
+  "urn": "132090",
+  "name": "The Albion High School",
+  "address": "London Street",
+  "locality": "",
+  "address3": "",
+  "town": "Salford",
+  "county": "Greater Manchester",
+  "postcode": "M6 6QT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "381717",
+  "northing": "399808",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

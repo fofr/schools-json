@@ -1,0 +1,18 @@
+{
+  "urn": "137531",
+  "name": "Alexandra Park School",
+  "address": "Bidwell Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N11 2AZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "529125",
+  "northing": "190891",
+  "url": "www.alexandrapark.school",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

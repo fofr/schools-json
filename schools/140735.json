@@ -1,0 +1,18 @@
+{
+  "urn": "140735",
+  "name": "Monkwick Infant and Nursery School",
+  "address": "School Road",
+  "locality": "Monkwick",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO2 8NN",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "600095",
+  "northing": "222852",
+  "url": "www.monkwick-inf.essex.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

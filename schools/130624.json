@@ -1,0 +1,18 @@
+{
+  "urn": "130624",
+  "name": "Priestley College",
+  "address": "Loushers Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 6RD",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "361224",
+  "northing": "387130",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143596",
+  "name": "South Rise Primary School",
+  "address": "Brewery Road",
+  "locality": "Plumstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 7PX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544713",
+  "northing": "178425",
+  "url": "www.southrise.greenwich.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

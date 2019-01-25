@@ -1,0 +1,18 @@
+{
+  "urn": "120792",
+  "name": "Burnham Market Primary School",
+  "address": "Friars Lane",
+  "locality": "Burnham Market",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE31 8JA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "583782",
+  "northing": "342804",
+  "url": "http://www.burnhammarket.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

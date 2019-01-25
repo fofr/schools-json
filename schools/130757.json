@@ -1,0 +1,18 @@
+{
+  "urn": "130757",
+  "name": "Regent College",
+  "address": "Regent Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE1 7LW",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "459315",
+  "northing": "303472",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

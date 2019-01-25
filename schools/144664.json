@@ -1,0 +1,18 @@
+{
+  "urn": "144664",
+  "name": "Harlowbury Primary School",
+  "address": "Watlington Road",
+  "locality": "Old Harlow",
+  "address3": "",
+  "town": "Harlow",
+  "county": "Essex",
+  "postcode": "CM17 0DX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "547887",
+  "northing": "211783",
+  "url": "www.harlowbury.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

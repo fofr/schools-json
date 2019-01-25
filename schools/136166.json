@@ -1,0 +1,18 @@
+{
+  "urn": "136166",
+  "name": "Marine Academy Plymouth",
+  "address": "Trevithick Road",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL5 2AF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "245366",
+  "northing": "58509",
+  "url": "http://www.marineacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

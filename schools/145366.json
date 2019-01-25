@@ -1,0 +1,18 @@
+{
+  "urn": "145366",
+  "name": "Vicarage Primary School",
+  "address": "Vicarage Lane",
+  "locality": "East Ham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 6AD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "543049",
+  "northing": "182891",
+  "url": "www.vicarage.newham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

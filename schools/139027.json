@@ -1,0 +1,18 @@
+{
+  "urn": "139027",
+  "name": "Ludlow Junior School",
+  "address": "Peveril Road",
+  "locality": "Itchen",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO19 2DW",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "444355",
+  "northing": "111551",
+  "url": "www.ludlowjunior.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

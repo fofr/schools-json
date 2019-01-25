@@ -1,0 +1,18 @@
+{
+  "urn": "140011",
+  "name": "Beaufort Co-operative Academy",
+  "address": "Holmleigh Park",
+  "locality": "Tuffley",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL4 0RT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "381986",
+  "northing": "214494",
+  "url": "http://www.beaufort.coop/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101906",
+  "name": "Perivale Primary School",
+  "address": "Federal Road",
+  "locality": "Perivale",
+  "address3": "",
+  "town": "Greenford",
+  "county": "Middlesex",
+  "postcode": "UB6 7AP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517216",
+  "northing": "183407",
+  "url": "www.perivale.ealing.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

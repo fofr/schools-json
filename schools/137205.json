@@ -1,0 +1,18 @@
+{
+  "urn": "137205",
+  "name": "Dallam School",
+  "address": "Milnthorpe",
+  "locality": "",
+  "address3": "",
+  "town": "Cumbria",
+  "county": "Cumbria",
+  "postcode": "LA7 7DD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "349998",
+  "northing": "481716",
+  "url": "http://www.dallam.eu",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

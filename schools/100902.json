@@ -1,0 +1,18 @@
+{
+  "urn": "100902",
+  "name": "Globe Primary School",
+  "address": "Gawber Street",
+  "locality": "Bethnal Green",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 0JH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "535260",
+  "northing": "182916",
+  "url": "www.globeschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

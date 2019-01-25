@@ -1,0 +1,18 @@
+{
+  "urn": "104080",
+  "name": "Langley Primary School",
+  "address": "St Bernard's Road",
+  "locality": "Olton",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B92 7DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412728",
+  "northing": "280758",
+  "url": "www.langleyprimary.solihull.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

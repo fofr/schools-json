@@ -1,0 +1,18 @@
+{
+  "urn": "106591",
+  "name": "Jump Primary School",
+  "address": "Roebuck Hill",
+  "locality": "Jump",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S74 0JW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "437805",
+  "northing": "401355",
+  "url": "www.jumpprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

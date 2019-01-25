@@ -1,0 +1,18 @@
+{
+  "urn": "142972",
+  "name": "Courthill Infant School",
+  "address": "Courthill Road",
+  "locality": "Parkstone",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH14 9HL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "404650",
+  "northing": "91772",
+  "url": "www.courthillinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

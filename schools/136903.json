@@ -1,0 +1,18 @@
+{
+  "urn": "136903",
+  "name": "The Petersfield School",
+  "address": "Cranford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Petersfield",
+  "county": "Hampshire",
+  "postcode": "GU32 3LU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "474460",
+  "northing": "122828",
+  "url": "http://www.petersfieldschool.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

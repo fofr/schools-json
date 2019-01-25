@@ -1,0 +1,18 @@
+{
+  "urn": "121002",
+  "name": "Mattishall Middle School",
+  "address": "Dereham Road",
+  "locality": "Mattishall",
+  "address3": "",
+  "town": "Dereham",
+  "county": "Norfolk",
+  "postcode": "NR20 3AA",
+  "minimum_age": "8",
+  "maximum_age": "12",
+  "easting": "605051",
+  "northing": "311051",
+  "url": "",
+  "phase": "Middle deemed primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

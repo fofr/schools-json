@@ -1,0 +1,18 @@
+{
+  "urn": "130487",
+  "name": "The City of Liverpool College",
+  "address": "Clarence Street",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L3 5TP",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "335396",
+  "northing": "390172",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

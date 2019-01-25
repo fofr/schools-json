@@ -1,0 +1,18 @@
+{
+  "urn": "124141",
+  "name": "Springfields First School",
+  "address": "Yarnfield",
+  "locality": "",
+  "address3": "",
+  "town": "Stone",
+  "county": "Staffordshire",
+  "postcode": "ST15 0NJ",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "386649",
+  "northing": "332823",
+  "url": "www.springfieldsfirstschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

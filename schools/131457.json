@@ -1,0 +1,18 @@
+{
+  "urn": "131457",
+  "name": "Highcliffe Primary School",
+  "address": "Hutton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Guisborough",
+  "county": "North Yorkshire",
+  "postcode": "TS14 8AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "460366",
+  "northing": "514970",
+  "url": "www.highcliffeprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

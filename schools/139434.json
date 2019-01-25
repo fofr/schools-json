@@ -1,0 +1,18 @@
+{
+  "urn": "139434",
+  "name": "Buckinghamshire UTC",
+  "address": "Oxford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP21 8PB",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "480998",
+  "northing": "213414",
+  "url": "http://www.buckinghamshireutc.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109007",
+  "name": "Twerton Infant School",
+  "address": "Poolemead Road",
+  "locality": "Twerton",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA2 1QR",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "372061",
+  "northing": "164489",
+  "url": "www.twerton-infant-school.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

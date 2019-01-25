@@ -1,0 +1,18 @@
+{
+  "urn": "115319",
+  "name": "The King John School",
+  "address": "Shipwrights Drive",
+  "locality": "Thundersley",
+  "address3": "",
+  "town": "Benfleet",
+  "county": "Essex",
+  "postcode": "SS7 1RQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "579983",
+  "northing": "187332",
+  "url": "http://www.thekjs.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

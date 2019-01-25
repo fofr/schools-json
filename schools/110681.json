@@ -1,0 +1,18 @@
+{
+  "urn": "110681",
+  "name": "Overhills Primary School",
+  "address": "Newtown",
+  "locality": "Kimbolton",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 0HY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "509994",
+  "northing": "268238",
+  "url": "http://www.overhills-school.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118015",
+  "name": "Stanford Junior and Infant School",
+  "address": "Cooper Lane",
+  "locality": "Laceby",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN37 7AX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "521214",
+  "northing": "406749",
+  "url": "http://www.stanfordschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

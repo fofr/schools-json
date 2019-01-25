@@ -1,0 +1,18 @@
+{
+  "urn": "110907",
+  "name": "St John Fisher Catholic High School",
+  "address": "Park Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE1 5JN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "520543",
+  "northing": "299666",
+  "url": "http://www.stjohnfisherschool.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

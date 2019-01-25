@@ -1,0 +1,18 @@
+{
+  "urn": "112128",
+  "name": "Bassenthwaite Primary School",
+  "address": "Bassenthwaite",
+  "locality": "",
+  "address3": "",
+  "town": "Keswick",
+  "county": "Cumbria",
+  "postcode": "CA12 4QH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "322831",
+  "northing": "531724",
+  "url": "http://www.bassenthwaite.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

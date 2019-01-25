@@ -1,0 +1,18 @@
+{
+  "urn": "110647",
+  "name": "New Road Primary School",
+  "address": "New Road",
+  "locality": "Whittlesey",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 1SZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "528310",
+  "northing": "296563",
+  "url": "http://www.newroad.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

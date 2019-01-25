@@ -1,0 +1,18 @@
+{
+  "urn": "142818",
+  "name": "Valley Primary Academy",
+  "address": "Gentry Place",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR5 8XZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "619381",
+  "northing": "309830",
+  "url": "www.valleyprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

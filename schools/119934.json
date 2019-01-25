@@ -1,0 +1,18 @@
+{
+  "urn": "119934",
+  "name": "Hemington Primary School",
+  "address": "Main Street",
+  "locality": "Hemington",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE74 2RB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445593",
+  "northing": "328069",
+  "url": "www.hemington.leics.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

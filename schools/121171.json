@@ -1,0 +1,18 @@
+{
+  "urn": "121171",
+  "name": "Wymondham High School",
+  "address": "Folly Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wymondham",
+  "county": "Norfolk",
+  "postcode": "NR18 0QT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "611357",
+  "northing": "302070",
+  "url": "http://www.wymondhamhigh.norfolk.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

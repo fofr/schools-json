@@ -1,0 +1,18 @@
+{
+  "urn": "127179",
+  "name": "Simon Digby School",
+  "address": "Partridge Close",
+  "locality": "Chelmsley Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B37 6UG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "418480",
+  "northing": "287386",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135875",
+  "name": "Manchester Health Academy",
+  "address": "Moor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wythenshawe",
+  "county": "Greater Manchester",
+  "postcode": "M23 9BP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "380396",
+  "northing": "389460",
+  "url": "www.manchesterhealthacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

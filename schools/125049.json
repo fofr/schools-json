@@ -1,0 +1,18 @@
+{
+  "urn": "125049",
+  "name": "Moss Lane School",
+  "address": "Moss Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Godalming",
+  "county": "Surrey",
+  "postcode": "GU7 1EF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "496946",
+  "northing": "143932",
+  "url": "http://www.moss-lane.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

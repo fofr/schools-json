@@ -1,0 +1,18 @@
+{
+  "urn": "138321",
+  "name": "Huncote Community Primary School",
+  "address": "Denman Lane",
+  "locality": "Huncote",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE9 3BS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "451948",
+  "northing": "297646",
+  "url": "www.huncoteprimary.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

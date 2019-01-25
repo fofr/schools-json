@@ -1,0 +1,18 @@
+{
+  "urn": "114752",
+  "name": "Home Farm Primary School",
+  "address": "Shelley Road",
+  "locality": "Lexden",
+  "address3": "",
+  "town": "Colchester",
+  "county": "Essex",
+  "postcode": "CO3 4JL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "596546",
+  "northing": "224667",
+  "url": "www.homefarm.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

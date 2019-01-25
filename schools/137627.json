@@ -1,0 +1,18 @@
+{
+  "urn": "137627",
+  "name": "St Bede's Catholic College",
+  "address": "Long Cross",
+  "locality": "Lawrence Weston",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS11 0SU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "354530",
+  "northing": "178652",
+  "url": "http://www.stbedescc.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

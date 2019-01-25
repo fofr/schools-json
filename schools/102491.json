@@ -1,0 +1,18 @@
+{
+  "urn": "102491",
+  "name": "Hounslow Town Primary School",
+  "address": "School Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW3 1QZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "514456",
+  "northing": "175843",
+  "url": "www.hounslowtownprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110363",
+  "name": "Southwood School",
+  "address": "Bryony Place",
+  "locality": "Conniburrow Boulevard",
+  "address3": "Conniburrow",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 7AR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "485433",
+  "northing": "240011",
+  "url": "www.boulevardprimarypartnership.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

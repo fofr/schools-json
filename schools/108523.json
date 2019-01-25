@@ -1,0 +1,18 @@
+{
+  "urn": "108523",
+  "name": "Gosforth High School",
+  "address": "Knightsbridge",
+  "locality": "Great North Road",
+  "address3": "Gosforth",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE3 2JH",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "424162",
+  "northing": "568788",
+  "url": "www.gosforthhigh.newcastle.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

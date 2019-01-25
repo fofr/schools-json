@@ -1,0 +1,18 @@
+{
+  "urn": "140001",
+  "name": "Kirkby High School",
+  "address": "Bracknell Avenue",
+  "locality": "Kirkby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L32 9PP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "341004",
+  "northing": "397747",
+  "url": "http://kirkbyhighschool.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

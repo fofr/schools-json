@@ -1,0 +1,18 @@
+{
+  "urn": "130761",
+  "name": "Boston College",
+  "address": "Rochford Campus",
+  "locality": "Skirbeck Road",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE21 6JF",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "533409",
+  "northing": "343616",
+  "url": "www.boston.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

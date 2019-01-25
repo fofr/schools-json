@@ -1,0 +1,18 @@
+{
+  "urn": "112413",
+  "name": "Dearham Primary School",
+  "address": "Dearham",
+  "locality": "",
+  "address3": "",
+  "town": "Maryport",
+  "county": "Cumbria",
+  "postcode": "CA15 7HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "306961",
+  "northing": "536031",
+  "url": "http://www.dearham.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

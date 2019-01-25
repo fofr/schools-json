@@ -1,0 +1,18 @@
+{
+  "urn": "117864",
+  "name": "Preston Primary School",
+  "address": "Station Road",
+  "locality": "Preston",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU12 8UY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "519008",
+  "northing": "430071",
+  "url": "www.prestonprimaryschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

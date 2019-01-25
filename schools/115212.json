@@ -1,0 +1,18 @@
+{
+  "urn": "115212",
+  "name": "The Park School",
+  "address": "Rawreth Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Rayleigh",
+  "county": "Essex",
+  "postcode": "SS6 9RN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "579909",
+  "northing": "192792",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

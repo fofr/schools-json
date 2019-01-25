@@ -1,0 +1,18 @@
+{
+  "urn": "138336",
+  "name": "Rodillian Academy",
+  "address": "Longthorpe Lane",
+  "locality": "Lofthouse",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF3 3PS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "433028",
+  "northing": "426139",
+  "url": "http://www.rodillianacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

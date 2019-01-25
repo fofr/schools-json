@@ -1,0 +1,18 @@
+{
+  "urn": "127835",
+  "name": "Beecroft First School",
+  "address": "Sandford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS5 3BB",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "426500",
+  "northing": "435400",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

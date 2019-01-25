@@ -1,0 +1,18 @@
+{
+  "urn": "132265",
+  "name": "Forge Lane Primary School",
+  "address": "Forge Lane",
+  "locality": "Hanworth",
+  "address3": "",
+  "town": "Feltham",
+  "county": "Middlesex",
+  "postcode": "TW13 6UN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "512130",
+  "northing": "171100",
+  "url": "www.forgelaneprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

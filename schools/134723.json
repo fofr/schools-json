@@ -1,0 +1,18 @@
+{
+  "urn": "134723",
+  "name": "Faith Primary School",
+  "address": "Prince Edwin St",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L5 3LW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "335255",
+  "northing": "391682",
+  "url": "www.faithprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

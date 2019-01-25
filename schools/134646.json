@@ -1,0 +1,18 @@
+{
+  "urn": "134646",
+  "name": "Ladybridge High School",
+  "address": "New York",
+  "locality": "Junction Road",
+  "address3": "Deane",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL3 4NG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "368612",
+  "northing": "407869",
+  "url": "http://www.ladybridgehigh.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

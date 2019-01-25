@@ -1,0 +1,18 @@
+{
+  "urn": "129540",
+  "name": "City of Leicester School",
+  "address": "Downing Drive",
+  "locality": "Evington",
+  "address3": "",
+  "town": "Leicester",
+  "county": "",
+  "postcode": "LE5 6LN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "463626",
+  "northing": "303492",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115552",
+  "name": "Ellwood Primary School",
+  "address": "Bromley Road",
+  "locality": "Ellwood",
+  "address3": "",
+  "town": "Coleford",
+  "county": "Gloucestershire",
+  "postcode": "GL16 7LY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "358990",
+  "northing": "208296",
+  "url": "www.ellwoodschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101668",
+  "name": "Langley Park School for Boys",
+  "address": "Hawksbrook Lane",
+  "locality": "South Eden Park Road",
+  "address3": "",
+  "town": "Beckenham",
+  "county": "Kent",
+  "postcode": "BR3 3BP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "537798",
+  "northing": "167371",
+  "url": "http://www.langleyparkboys.bromley.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

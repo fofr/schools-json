@@ -1,0 +1,18 @@
+{
+  "urn": "128347",
+  "name": "Winslow County Secondary School",
+  "address": "Park Road",
+  "locality": "Winslow",
+  "address3": "",
+  "town": "Buckingham",
+  "county": "",
+  "postcode": "MK18 3DN",
+  "minimum_age": "12",
+  "maximum_age": "16",
+  "easting": "476908",
+  "northing": "228051",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101063",
+  "name": "Southfields Community College",
+  "address": "333 Merton Road",
+  "locality": "Wandsworth",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW18 5JU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "525391",
+  "northing": "173342",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112483",
+  "name": "Pinxton Nursery School",
+  "address": "Kirkstead Road",
+  "locality": "Pinxton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 6NA",
+  "minimum_age": "3",
+  "maximum_age": "4",
+  "easting": "445774",
+  "northing": "355113",
+  "url": "http://www.pinxtonnurseryschool.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

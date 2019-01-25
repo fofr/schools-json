@@ -1,0 +1,18 @@
+{
+  "urn": "107761",
+  "name": "Newsome High School",
+  "address": "Castle Avenue",
+  "locality": "Newsome",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD4 6JN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "413809",
+  "northing": "414286",
+  "url": "http://www.newsomehigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

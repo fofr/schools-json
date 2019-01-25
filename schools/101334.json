@@ -1,0 +1,18 @@
+{
+  "urn": "101334",
+  "name": "St Vincent's Catholic Primary School",
+  "address": "The Ridgeway",
+  "locality": "Mill Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW7 1EJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "523095",
+  "northing": "192498",
+  "url": "www.stvincentscatholicprimarymillhill.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

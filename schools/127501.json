@@ -1,0 +1,18 @@
+{
+  "urn": "127501",
+  "name": "Maycroft Infant School",
+  "address": "Westmorland Drive",
+  "locality": "Brinnington",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK5 8HH",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "391010",
+  "northing": "392678",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

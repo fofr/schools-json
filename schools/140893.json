@@ -1,0 +1,18 @@
+{
+  "urn": "140893",
+  "name": "Beaconsfield High School",
+  "address": "Wattleton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Beaconsfield",
+  "county": "Buckinghamshire",
+  "postcode": "HP9 1RR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "494023",
+  "northing": "190325",
+  "url": "www.beaconsfieldhigh.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

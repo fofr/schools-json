@@ -1,0 +1,18 @@
+{
+  "urn": "120245",
+  "name": "Market Bosworth High School",
+  "address": "Station Road",
+  "locality": "Market Bosworth",
+  "address3": "",
+  "town": "Nuneaton",
+  "county": "Warwickshire",
+  "postcode": "CV13 0JT",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "440379",
+  "northing": "303161",
+  "url": "www.mktboshs.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

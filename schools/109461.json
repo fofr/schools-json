@@ -1,0 +1,18 @@
+{
+  "urn": "109461",
+  "name": "Bedford Road Primary School",
+  "address": "Hillgrounds Road",
+  "locality": "Kempston",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 8QH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "503056",
+  "northing": "247753",
+  "url": "www.bedfordroadlower.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

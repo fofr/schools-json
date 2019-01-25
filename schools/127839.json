@@ -1,0 +1,18 @@
+{
+  "urn": "127839",
+  "name": "Manston First School",
+  "address": "Dennil Road",
+  "locality": "Cross Gates",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS15 8SD",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "436604",
+  "northing": "435409",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101711",
+  "name": "Benson Primary and Nursery School",
+  "address": "West Way",
+  "locality": "Shirley",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 8RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536366",
+  "northing": "165280",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

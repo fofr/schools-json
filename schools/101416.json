@@ -1,0 +1,18 @@
+{
+  "urn": "101416",
+  "name": "Barnes Cray Primary School",
+  "address": "Iron Mill Lane",
+  "locality": "Crayford",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 4RS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "552238",
+  "northing": "175356",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

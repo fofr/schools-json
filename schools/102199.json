@@ -1,0 +1,18 @@
+{
+  "urn": "102199",
+  "name": "Longfield Primary School",
+  "address": "Duke's Avenue",
+  "locality": "North Harrow",
+  "address3": "",
+  "town": "Harrow",
+  "county": "Middlesex",
+  "postcode": "HA2 7NZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "513061",
+  "northing": "188104",
+  "url": "www.longfieldprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

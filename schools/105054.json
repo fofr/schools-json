@@ -1,0 +1,18 @@
+{
+  "urn": "105054",
+  "name": "Pensby Park Primary School",
+  "address": "Fishers Lane",
+  "locality": "Pensby",
+  "address3": "",
+  "town": "Wirral",
+  "county": "Merseyside",
+  "postcode": "CH61 8SD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "326036",
+  "northing": "383522",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

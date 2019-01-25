@@ -1,0 +1,18 @@
+{
+  "urn": "123990",
+  "name": "Belmont Infants' School",
+  "address": "Belmont Road",
+  "locality": "Etruria",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST1 4BT",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "386980",
+  "northing": "347255",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

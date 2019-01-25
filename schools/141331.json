@@ -1,0 +1,18 @@
+{
+  "urn": "141331",
+  "name": "Caister Academy",
+  "address": "Windsor Road",
+  "locality": "Caister-on-Sea",
+  "address3": "",
+  "town": "Great Yarmouth",
+  "county": "Norfolk",
+  "postcode": "NR30 5LS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "652260",
+  "northing": "312758",
+  "url": "www.caisteracademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

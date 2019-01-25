@@ -1,0 +1,18 @@
+{
+  "urn": "135466",
+  "name": "Enterprise Learning Alliance",
+  "address": "Westwood Centre",
+  "locality": "Westwood Industrial Estate",
+  "address3": "Enterprise Road",
+  "town": "Margate",
+  "county": "Kent",
+  "postcode": "CT9 4JA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "636075",
+  "northing": "168581",
+  "url": "www.ela.kent.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

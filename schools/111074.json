@@ -1,0 +1,18 @@
+{
+  "urn": "111074",
+  "name": "Sound and District Primary School",
+  "address": "Whitchurch Road",
+  "locality": "Sound",
+  "address3": "",
+  "town": "Nantwich",
+  "county": "Cheshire",
+  "postcode": "CW5 8AE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "362875",
+  "northing": "348249",
+  "url": "http://www.soundprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

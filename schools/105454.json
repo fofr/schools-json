@@ -1,0 +1,18 @@
+{
+  "urn": "105454",
+  "name": "Seymour Road Infant School",
+  "address": "Seymour Road South",
+  "locality": "Clayton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M11 4PR",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "388765",
+  "northing": "398542",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

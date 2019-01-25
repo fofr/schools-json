@@ -1,0 +1,18 @@
+{
+  "urn": "131501",
+  "name": "St Werburgh's Primary School",
+  "address": "James Street",
+  "locality": "St Werburgh's",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS2 9US",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "360345",
+  "northing": "174791",
+  "url": "www.stwerburghsprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

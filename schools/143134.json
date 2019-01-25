@@ -1,0 +1,18 @@
+{
+  "urn": "143134",
+  "name": "Stantonbury Campus",
+  "address": "Purbeck",
+  "locality": "Stantonbury",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 6BN",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "484254",
+  "northing": "241007",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

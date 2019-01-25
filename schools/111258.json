@@ -1,0 +1,18 @@
+{
+  "urn": "111258",
+  "name": "Mossley CofE Primary School",
+  "address": "Boundary Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Congleton",
+  "county": "Cheshire",
+  "postcode": "CW12 3JA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "387654",
+  "northing": "361549",
+  "url": "http://www.mossleyce.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

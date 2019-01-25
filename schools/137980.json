@@ -1,0 +1,18 @@
+{
+  "urn": "137980",
+  "name": "Edward Bryant School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bognor Regis",
+  "county": "West Sussex",
+  "postcode": "PO21 1BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "493688",
+  "northing": "99526",
+  "url": "http://www.edwardbryantschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "115985",
+  "name": "Wootey Infant School",
+  "address": "Wooteys Way",
+  "locality": "",
+  "address3": "",
+  "town": "Alton",
+  "county": "Hampshire",
+  "postcode": "GU34 2JA",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "471881",
+  "northing": "140713",
+  "url": "www.wooteyinfant.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

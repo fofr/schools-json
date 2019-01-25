@@ -1,0 +1,18 @@
+{
+  "urn": "112119",
+  "name": "Penruddock Primary School",
+  "address": "Penruddock",
+  "locality": "",
+  "address3": "",
+  "town": "Penrith",
+  "county": "Cumbria",
+  "postcode": "CA11 0QU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "342734",
+  "northing": "527713",
+  "url": "www.penruddock.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

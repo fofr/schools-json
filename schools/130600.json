@@ -1,0 +1,18 @@
+{
+  "urn": "130600",
+  "name": "Luton Sixth Form College",
+  "address": "Bradgers Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU2 7EW",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "509158",
+  "northing": "223843",
+  "url": "www.lutonsfc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

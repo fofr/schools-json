@@ -1,0 +1,18 @@
+{
+  "urn": "123795",
+  "name": "Kingston St Mary Church of England Primary School",
+  "address": "Greenway",
+  "locality": "Kingston St Mary",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA2 8JH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "321755",
+  "northing": "129592",
+  "url": "http://www.kingston-st-mary.somerset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

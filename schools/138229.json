@@ -1,0 +1,18 @@
+{
+  "urn": "138229",
+  "name": "Wigan UTC",
+  "address": "New Market Street",
+  "locality": "",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN1 1RP",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "358103",
+  "northing": "405998",
+  "url": "http://www.wiganutc.org/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

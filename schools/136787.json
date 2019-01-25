@@ -1,0 +1,18 @@
+{
+  "urn": "136787",
+  "name": "Sutton Grammar School",
+  "address": "Manor Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sutton",
+  "county": "Surrey",
+  "postcode": "SM1 4AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "526120",
+  "northing": "164447",
+  "url": "http://www.suttongrammar.sutton.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

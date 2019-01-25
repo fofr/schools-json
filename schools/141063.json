@@ -1,0 +1,18 @@
+{
+  "urn": "141063",
+  "name": "St Augustine's Catholic High School",
+  "address": "Stonepits Lane",
+  "locality": "Hunt End",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B97 5LX",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "403906",
+  "northing": "264124",
+  "url": "http://www.st-augustines.worcs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

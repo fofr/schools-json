@@ -1,0 +1,18 @@
+{
+  "urn": "138235",
+  "name": "The Parker E-ACT Academy",
+  "address": "Ashby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Daventry",
+  "county": "Northamptonshire",
+  "postcode": "NN11 0QF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "457137",
+  "northing": "263261",
+  "url": "http://www.theparker.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104824",
+  "name": "Parr Community High School",
+  "address": "Fleet Lane",
+  "locality": "Parr",
+  "address3": "",
+  "town": "St Helen's",
+  "county": "Merseyside",
+  "postcode": "WA9 2RT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "353625",
+  "northing": "394807",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

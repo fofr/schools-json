@@ -1,0 +1,18 @@
+{
+  "urn": "112117",
+  "name": "Brunswick School",
+  "address": "Brunswick Road",
+  "locality": "",
+  "address3": "",
+  "town": "Penrith",
+  "county": "Cumbria",
+  "postcode": "CA11 7LX",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "351377",
+  "northing": "530300",
+  "url": "www.brunswick.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

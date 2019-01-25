@@ -1,0 +1,18 @@
+{
+  "urn": "119158",
+  "name": "Tarleton Community Primary School",
+  "address": "Hesketh Lane",
+  "locality": "Tarleton",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR4 6AT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "344871",
+  "northing": "421984",
+  "url": "http://www.tarletoncommunityprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

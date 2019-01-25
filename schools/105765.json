@@ -1,0 +1,18 @@
+{
+  "urn": "105765",
+  "name": "Castleton Primary School",
+  "address": "Hillcrest Road",
+  "locality": "Castleton",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL11 2QD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388637",
+  "northing": "410562",
+  "url": "http://www.castleton-rochdale.frogos.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

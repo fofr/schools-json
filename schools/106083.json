@@ -1,0 +1,18 @@
+{
+  "urn": "106083",
+  "name": "Warren Wood Primary School",
+  "address": "Turnstone Road",
+  "locality": "Offerton",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK2 5XU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "393244",
+  "northing": "388527",
+  "url": "www.warrenwood.stockport.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

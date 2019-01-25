@@ -1,0 +1,18 @@
+{
+  "urn": "129738",
+  "name": "City Hospital School",
+  "address": "School Office",
+  "locality": "City Hospital",
+  "address3": "Hucknall Road",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 1PB",
+  "minimum_age": "4",
+  "maximum_age": "17",
+  "easting": "456473",
+  "northing": "343887",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

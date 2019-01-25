@@ -1,0 +1,18 @@
+{
+  "urn": "140824",
+  "name": "Ryecroft Academy",
+  "address": "Stonebridge Grove",
+  "locality": "Farnley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 5AW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "425176",
+  "northing": "432832",
+  "url": "www.ryecroft.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

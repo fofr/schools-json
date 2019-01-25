@@ -1,0 +1,18 @@
+{
+  "urn": "115041",
+  "name": "Willowbrook Primary School",
+  "address": "Rosen Crescent",
+  "locality": "Hutton",
+  "address3": "",
+  "town": "Brentwood",
+  "county": "Essex",
+  "postcode": "CM13 2TU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "562651",
+  "northing": "195140",
+  "url": "http://www.willowbrook.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140156",
+  "name": "Lynch Hill Enterprise Academy",
+  "address": "Stoke Road",
+  "locality": "",
+  "address3": "",
+  "town": "Slough",
+  "county": "",
+  "postcode": "SL2 5AY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "497983",
+  "northing": "180972",
+  "url": "http://www.lhea.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

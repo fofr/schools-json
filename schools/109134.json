@@ -1,0 +1,18 @@
+{
+  "urn": "109134",
+  "name": "Stanbridge Primary School",
+  "address": "Stanbridge Road",
+  "locality": "Downend",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS16 6AL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "365718",
+  "northing": "176910",
+  "url": "www.stanbridgeprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

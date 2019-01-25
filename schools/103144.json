@@ -1,0 +1,18 @@
+{
+  "urn": "103144",
+  "name": "Castle Vale Nursery School",
+  "address": "Yatesbury Avenue",
+  "locality": "Castle Vale",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B35 6DU",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "413997",
+  "northing": "291279",
+  "url": "www.castlevalenursery.co.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

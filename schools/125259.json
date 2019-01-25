@@ -1,0 +1,18 @@
+{
+  "urn": "125259",
+  "name": "Glebelands School",
+  "address": "Parsonage Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cranleigh",
+  "county": "Surrey",
+  "postcode": "GU6 7AN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "505866",
+  "northing": "139356",
+  "url": "http://www.glebelands.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

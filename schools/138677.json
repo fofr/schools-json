@@ -1,0 +1,18 @@
+{
+  "urn": "138677",
+  "name": "Newington Academy",
+  "address": "Dairycoates Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU3 5DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "507129",
+  "northing": "427727",
+  "url": "www.newingtonacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

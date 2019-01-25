@@ -1,0 +1,18 @@
+{
+  "urn": "142651",
+  "name": "Weldon Church of England Primary School",
+  "address": "Chapel Road",
+  "locality": "Weldon",
+  "address3": "",
+  "town": "Corby",
+  "county": "Northamptonshire",
+  "postcode": "NN17 3HP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "492462",
+  "northing": "289614",
+  "url": "www.weldonceprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

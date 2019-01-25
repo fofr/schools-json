@@ -1,0 +1,18 @@
+{
+  "urn": "107974",
+  "name": "Rodley Village Primary School",
+  "address": "Town Street",
+  "locality": "Rodley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS13 1HW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "422535",
+  "northing": "436313",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

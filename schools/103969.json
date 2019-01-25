@@ -1,0 +1,18 @@
+{
+  "urn": "103969",
+  "name": "Lodge Primary School",
+  "address": "Oak Lane",
+  "locality": "",
+  "address3": "",
+  "town": "West Bromwich",
+  "county": "West Midlands",
+  "postcode": "B70 8PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "399850",
+  "northing": "291081",
+  "url": "www.lodgeprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

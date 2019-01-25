@@ -1,0 +1,18 @@
+{
+  "urn": "133749",
+  "name": "Northgate School",
+  "address": "Edgware Community Hospital",
+  "locality": "Burnt Oak Broadway",
+  "address3": "",
+  "town": "Edgware",
+  "county": "Middlesex",
+  "postcode": "HA8 0AD",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "519772",
+  "northing": "191079",
+  "url": "www.northgateschool.net",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140373",
+  "name": "Langdon Academy",
+  "address": "Sussex Road",
+  "locality": "East Ham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E6 2PS",
+  "minimum_age": "3",
+  "maximum_age": "16",
+  "easting": "543611",
+  "northing": "183507",
+  "url": "www.langdonacademy.org",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

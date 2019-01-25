@@ -1,0 +1,18 @@
+{
+  "urn": "116142",
+  "name": "Tower Hill Primary School",
+  "address": "Fowler Road",
+  "locality": "",
+  "address3": "",
+  "town": "Farnborough",
+  "county": "Hampshire",
+  "postcode": "GU14 0BW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485826",
+  "northing": "155077",
+  "url": "www.towerhill.hants.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

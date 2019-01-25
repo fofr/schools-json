@@ -1,0 +1,18 @@
+{
+  "urn": "136768",
+  "name": "Uxbridge High School",
+  "address": "The Greenway",
+  "locality": "",
+  "address3": "",
+  "town": "Uxbridge",
+  "county": "Middlesex",
+  "postcode": "UB8 2PR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "506018",
+  "northing": "183113",
+  "url": "http://www.uhs.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

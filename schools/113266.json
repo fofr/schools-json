@@ -1,0 +1,18 @@
+{
+  "urn": "113266",
+  "name": "Wembury Primary School",
+  "address": "Knighton Road",
+  "locality": "Wembury",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL9 0EB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "252770",
+  "northing": "49573",
+  "url": "www.wemburyprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

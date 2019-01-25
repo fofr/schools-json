@@ -1,0 +1,18 @@
+{
+  "urn": "130616",
+  "name": "Long Road Sixth Form College",
+  "address": "Long Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB2 8PX",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "545927",
+  "northing": "255513",
+  "url": "www.longroad.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

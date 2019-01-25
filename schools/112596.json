@@ -1,0 +1,18 @@
+{
+  "urn": "112596",
+  "name": "Morton Primary School",
+  "address": "Main Road",
+  "locality": "Morton",
+  "address3": "",
+  "town": "Alfreton",
+  "county": "Derbyshire",
+  "postcode": "DE55 6HH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "441091",
+  "northing": "360158",
+  "url": "www.morton.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

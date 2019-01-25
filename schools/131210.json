@@ -1,0 +1,18 @@
+{
+  "urn": "131210",
+  "name": "Flying Bull Primary School",
+  "address": "Flying Bull Lane",
+  "locality": "Buckland",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO2 7BJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "464689",
+  "northing": "101646",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

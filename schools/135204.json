@@ -1,0 +1,18 @@
+{
+  "urn": "135204",
+  "name": "Langdale Primary School",
+  "address": "Langdale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle",
+  "county": "Staffordshire",
+  "postcode": "ST5 3QE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384612",
+  "northing": "344272",
+  "url": "http://www.langdaleprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

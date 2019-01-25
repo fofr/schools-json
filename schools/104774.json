@@ -1,0 +1,18 @@
+{
+  "urn": "104774",
+  "name": "Grange Valley Primary School",
+  "address": "Heyes Avenue",
+  "locality": "Haydock",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA11 0XQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "355627",
+  "northing": "396446",
+  "url": "http://www.grangevalley.st-helens.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103556",
+  "name": "Hall Green School",
+  "address": "Southam Road",
+  "locality": "Hall Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B28 0AA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "410368",
+  "northing": "281671",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

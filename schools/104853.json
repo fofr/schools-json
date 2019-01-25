@@ -1,0 +1,18 @@
+{
+  "urn": "104853",
+  "name": "Linacre Primary School",
+  "address": "Thornton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bootle",
+  "county": "Merseyside",
+  "postcode": "L20 5ED",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "334302",
+  "northing": "396308",
+  "url": "www.linacreprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

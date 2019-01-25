@@ -1,0 +1,18 @@
+{
+  "urn": "111651",
+  "name": "Newstead Primary School",
+  "address": "Hutton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Guisborough",
+  "county": "",
+  "postcode": "TS14 8AA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "460389",
+  "northing": "514976",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

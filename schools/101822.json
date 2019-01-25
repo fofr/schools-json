@@ -1,0 +1,18 @@
+{
+  "urn": "101822",
+  "name": "Coulsdon High School",
+  "address": "Homefield Road",
+  "locality": "Old Coulsdon",
+  "address3": "",
+  "town": "Coulsdon",
+  "county": "Surrey",
+  "postcode": "CR5 1ES",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "531809",
+  "northing": "157251",
+  "url": "http://www.coulsdonhigh.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

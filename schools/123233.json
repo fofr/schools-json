@@ -1,0 +1,18 @@
+{
+  "urn": "123233",
+  "name": "Bicester Community College",
+  "address": "Queen's Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Bicester",
+  "county": "Oxfordshire",
+  "postcode": "OX26 2NS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "457830",
+  "northing": "222798",
+  "url": "http://www.bicester-cc.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

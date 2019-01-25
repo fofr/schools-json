@@ -1,0 +1,18 @@
+{
+  "urn": "123789",
+  "name": "Nether Stowey Church of England Primary School",
+  "address": "Mill Close",
+  "locality": "Nether Stowey",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA5 1NX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "318913",
+  "northing": "139865",
+  "url": "http://www.netherstowey.somerset.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

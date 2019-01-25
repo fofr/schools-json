@@ -1,0 +1,18 @@
+{
+  "urn": "111983",
+  "name": "Stratton Primary School",
+  "address": "New Road",
+  "locality": "Stratton",
+  "address3": "",
+  "town": "Bude",
+  "county": "Cornwall",
+  "postcode": "EX23 9AP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "222584",
+  "northing": "106585",
+  "url": "http://www.stratton.cornwall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

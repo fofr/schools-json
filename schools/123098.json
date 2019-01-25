@@ -1,0 +1,18 @@
+{
+  "urn": "123098",
+  "name": "Bloxham Church of England Primary School",
+  "address": "Tadmarton Road",
+  "locality": "Bloxham",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX15 4HP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "442357",
+  "northing": "235944",
+  "url": "www.bloxhamprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

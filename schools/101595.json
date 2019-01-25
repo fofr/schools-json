@@ -1,0 +1,18 @@
+{
+  "urn": "101595",
+  "name": "Wickham Common Primary School",
+  "address": "Gates Green Road",
+  "locality": "Coney Hall",
+  "address3": "",
+  "town": "West Wickham",
+  "county": "Kent",
+  "postcode": "BR4 9DG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "540128",
+  "northing": "164832",
+  "url": "www.wickhamcommon.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110789",
+  "name": "Great Wilbraham CofE Primary School",
+  "address": "Church Street",
+  "locality": "Great Wilbraham",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB21 5JQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "554802",
+  "northing": "257850",
+  "url": "http://www.greatwilbraham.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

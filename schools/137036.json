@@ -1,0 +1,18 @@
+{
+  "urn": "137036",
+  "name": "Lightcliffe Academy",
+  "address": "Stoney Lane",
+  "locality": "Lightcliffe",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX3 8TL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "414004",
+  "northing": "425157",
+  "url": "http://www.lightcliffeacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

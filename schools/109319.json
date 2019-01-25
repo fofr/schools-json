@@ -1,0 +1,18 @@
+{
+  "urn": "109319",
+  "name": "Brimsham Green School",
+  "address": "Broad Lane",
+  "locality": "Yate",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS37 7LB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "370601",
+  "northing": "183793",
+  "url": "http://www.brimsham.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

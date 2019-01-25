@@ -1,0 +1,18 @@
+{
+  "urn": "133401",
+  "name": "Waterside School",
+  "address": "Robert Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 7NB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "544602",
+  "northing": "178478",
+  "url": "http://www.watersideschool.co.uk/",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

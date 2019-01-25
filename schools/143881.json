@@ -1,0 +1,18 @@
+{
+  "urn": "143881",
+  "name": "Tollgate Primary School",
+  "address": "Barclay Road",
+  "locality": "Plaistow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E13 8SA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "541266",
+  "northing": "182067",
+  "url": "www.tollgate.boleyntrust.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

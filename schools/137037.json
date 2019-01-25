@@ -1,0 +1,18 @@
+{
+  "urn": "137037",
+  "name": "Upper Shirley High School",
+  "address": "Bellemoor Road",
+  "locality": "Upper Shirley",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO15 7QU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "440600",
+  "northing": "114593",
+  "url": "http://uppershirleyhigh.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

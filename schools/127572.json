@@ -1,0 +1,18 @@
+{
+  "urn": "127572",
+  "name": "Snydale Road First School",
+  "address": "Snydale Road",
+  "locality": "Cudworth",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S72 8JR",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "438875",
+  "northing": "409130",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

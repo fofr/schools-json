@@ -1,0 +1,18 @@
+{
+  "urn": "144672",
+  "name": "Adelaide Primary School",
+  "address": "Walker Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU3 2RA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508611",
+  "northing": "428190",
+  "url": "www.adelaide.hull.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

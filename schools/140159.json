@@ -1,0 +1,18 @@
+{
+  "urn": "140159",
+  "name": "Chivenor Primary School",
+  "address": "Farnborough Road",
+  "locality": "Castle Vale",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B35 7JA",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "414252",
+  "northing": "290867",
+  "url": "www.chivenor-gst.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

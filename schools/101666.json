@@ -1,0 +1,18 @@
+{
+  "urn": "101666",
+  "name": "Bullers Wood School",
+  "address": "St Nicolas Lane",
+  "locality": "Logs Hill",
+  "address3": "",
+  "town": "Chislehurst",
+  "county": "Kent",
+  "postcode": "BR7 5LJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "542533",
+  "northing": "169755",
+  "url": "www.bullerswood.bromley.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112429",
+  "name": "Trinity School",
+  "address": "Strand Road",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA1 1JB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "340363",
+  "northing": "556171",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

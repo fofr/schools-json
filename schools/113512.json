@@ -1,0 +1,18 @@
+{
+  "urn": "113512",
+  "name": "South Molton Community College",
+  "address": "Old Alswear Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Molton",
+  "county": "Devon",
+  "postcode": "EX36 4LA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "271441",
+  "northing": "125293",
+  "url": "http://www.smcc.devon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

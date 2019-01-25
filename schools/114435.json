@@ -1,0 +1,18 @@
+{
+  "urn": "114435",
+  "name": "Polegate Primary School",
+  "address": "Oakleaf Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Polegate",
+  "county": "East Sussex",
+  "postcode": "BN26 6PT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "558369",
+  "northing": "105268",
+  "url": "www.polegateschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

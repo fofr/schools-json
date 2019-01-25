@@ -1,0 +1,18 @@
+{
+  "urn": "104150",
+  "name": "Delves Infant School",
+  "address": "Botany Road",
+  "locality": "Delves",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS5 4PU",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "402146",
+  "northing": "296125",
+  "url": "www.delvesinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

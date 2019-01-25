@@ -1,0 +1,18 @@
+{
+  "urn": "128726",
+  "name": "Burleigh County Secondary School",
+  "address": "Burleigh Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL3 5PP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "249500",
+  "northing": "56900",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

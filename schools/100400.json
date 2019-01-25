@@ -1,0 +1,18 @@
+{
+  "urn": "100400",
+  "name": "Charles Lamb Primary School",
+  "address": "Popham Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N1 8RF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "532186",
+  "northing": "183947",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

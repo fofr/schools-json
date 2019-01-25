@@ -1,0 +1,18 @@
+{
+  "urn": "139942",
+  "name": "The Darfield Primary Academy",
+  "address": "Snape Hill Road",
+  "locality": "Darfield",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S73 9LT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "440880",
+  "northing": "404100",
+  "url": "www.darfield.outwood.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

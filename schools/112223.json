@@ -1,0 +1,18 @@
+{
+  "urn": "112223",
+  "name": "Pennine Way Infant School",
+  "address": "Tindale Drive",
+  "locality": "Harraby",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA1 3SH",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "342656",
+  "northing": "554588",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

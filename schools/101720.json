@@ -1,0 +1,18 @@
+{
+  "urn": "101720",
+  "name": "Elmwood Junior School",
+  "address": "Lodge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 2PL",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "531899",
+  "northing": "166938",
+  "url": "www.elmwood-jun.croydon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

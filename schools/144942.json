@@ -1,0 +1,18 @@
+{
+  "urn": "144942",
+  "name": "Hadley Learning Community - Primary Phase",
+  "address": "Waterloo Road",
+  "locality": "Hadley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 5NU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "367653",
+  "northing": "311633",
+  "url": "www.hadleylearningcommunity.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

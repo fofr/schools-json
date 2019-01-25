@@ -1,0 +1,18 @@
+{
+  "urn": "100483",
+  "name": "Marlborough Primary School",
+  "address": "Draycott Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW3 3AP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527415",
+  "northing": "178681",
+  "url": "http://www.marlborough.rbkc.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

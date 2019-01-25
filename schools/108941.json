@@ -1,0 +1,18 @@
+{
+  "urn": "108941",
+  "name": "Knowle Infant School",
+  "address": "School Road",
+  "locality": "Knowle",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS4 3BW",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "360373",
+  "northing": "171367",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

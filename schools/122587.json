@@ -1,0 +1,18 @@
+{
+  "urn": "122587",
+  "name": "Edgewood Primary and Nursery School",
+  "address": "Edgewood Drive",
+  "locality": "Hucknall",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG15 6HX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451674",
+  "northing": "347930",
+  "url": "www.edgewoodprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

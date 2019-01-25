@@ -1,0 +1,18 @@
+{
+  "urn": "106603",
+  "name": "Gawber Primary School",
+  "address": "Church Street",
+  "locality": "Gawber",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S75 2RJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "432287",
+  "northing": "407038",
+  "url": "www.gawberprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

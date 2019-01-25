@@ -1,0 +1,18 @@
+{
+  "urn": "141775",
+  "name": "Field View Primary School",
+  "address": "Lonsdale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 7AE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "395637",
+  "northing": "296890",
+  "url": "http://www.fieldviewprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

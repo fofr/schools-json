@@ -1,0 +1,18 @@
+{
+  "urn": "136102",
+  "name": "Co-op Academy Stoke-On-Trent",
+  "address": "Westport Road",
+  "locality": "",
+  "address3": "Tunstall",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST6 4LD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "386069",
+  "northing": "350477",
+  "url": "http://www.cas.coop",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122727",
+  "name": "Holly Primary School",
+  "address": "Holly Drive",
+  "locality": "Forest Town",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 0NT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456285",
+  "northing": "362360",
+  "url": "http://www.holly.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "107442",
+  "name": "Thornton Grammar School",
+  "address": "Leaventhorpe Lane",
+  "locality": "Thornton",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD13 3BH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "411847",
+  "northing": "432804",
+  "url": "http://www.tgsonline.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

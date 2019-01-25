@@ -1,0 +1,18 @@
+{
+  "urn": "113180",
+  "name": "Newport Community School",
+  "address": "Landkey Road",
+  "locality": "Newport",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX32 9BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "256968",
+  "northing": "132178",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

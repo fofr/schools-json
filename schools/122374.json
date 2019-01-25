@@ -1,0 +1,18 @@
+{
+  "urn": "122374",
+  "name": "Astley Community High School",
+  "address": "Elsdon Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Seaton Delaval",
+  "county": "Northumberland",
+  "postcode": "NE25 0BP",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "430433",
+  "northing": "575085",
+  "url": "http://www.astleyhigh.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

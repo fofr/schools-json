@@ -1,0 +1,18 @@
+{
+  "urn": "140415",
+  "name": "Outwood Academy City",
+  "address": "Stradbroke Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S13 8SS",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "440558",
+  "northing": "384830",
+  "url": "www.city.outwood.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

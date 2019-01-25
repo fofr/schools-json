@@ -1,0 +1,18 @@
+{
+  "urn": "130033",
+  "name": "Goldsworth First School",
+  "address": "Goldsworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 1ND",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "499797",
+  "northing": "158521",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

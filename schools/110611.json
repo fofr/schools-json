@@ -1,0 +1,18 @@
+{
+  "urn": "110611",
+  "name": "Great Abington Primary School",
+  "address": "High Street",
+  "locality": "Great Abington",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB21 6AE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "553318",
+  "northing": "248851",
+  "url": "http://www.greatabington.school/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

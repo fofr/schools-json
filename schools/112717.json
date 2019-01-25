@@ -1,0 +1,18 @@
+{
+  "urn": "112717",
+  "name": "Becket Primary School",
+  "address": "Monk Street",
+  "locality": "",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE22 3QB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "434705",
+  "northing": "335747",
+  "url": "www.becket.derby.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

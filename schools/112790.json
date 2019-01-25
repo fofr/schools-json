@@ -1,0 +1,18 @@
+{
+  "urn": "112790",
+  "name": "Mickleover Primary School",
+  "address": "Vicarage Road",
+  "locality": "Mickleover",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE3 0EY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "430554",
+  "northing": "334721",
+  "url": "www.mickleover.derby.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

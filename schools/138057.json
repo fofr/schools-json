@@ -1,0 +1,18 @@
+{
+  "urn": "138057",
+  "name": "Long Bennington Church of England Academy",
+  "address": "Main Road",
+  "locality": "Long Bennington",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG23 5EH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "483537",
+  "northing": "344368",
+  "url": "http://www.longbenningtonacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

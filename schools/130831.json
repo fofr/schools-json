@@ -1,0 +1,18 @@
+{
+  "urn": "130831",
+  "name": "Woking College",
+  "address": "Rydens Way",
+  "locality": "",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU22 9DL",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "501263",
+  "northing": "157374",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

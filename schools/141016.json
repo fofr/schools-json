@@ -1,0 +1,18 @@
+{
+  "urn": "141016",
+  "name": "Eden School",
+  "address": "Heys Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB2 4NW",
+  "minimum_age": "8",
+  "maximum_age": "16",
+  "easting": "367011",
+  "northing": "425163",
+  "url": "www.edenschool.org.uk",
+  "phase": "Not applicable",
+  "type": "Free Schools",
+  "detailed_type": "Free schools special"
+}

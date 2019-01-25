@@ -1,0 +1,18 @@
+{
+  "urn": "129658",
+  "name": "Norwood Primary School",
+  "address": "Norwood",
+  "locality": "",
+  "address3": "",
+  "town": "Harrogate",
+  "county": "North Yorkshire",
+  "postcode": "HG3 1TB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "420636",
+  "northing": "453169",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

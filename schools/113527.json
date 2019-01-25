@@ -1,0 +1,18 @@
+{
+  "urn": "113527",
+  "name": "Brixham College",
+  "address": "Higher Ranscombe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Brixham",
+  "county": "Devon",
+  "postcode": "TQ5 9HF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "292886",
+  "northing": "55868",
+  "url": "http://www.brixhamcollege.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

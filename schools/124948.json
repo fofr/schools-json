@@ -1,0 +1,18 @@
+{
+  "urn": "124948",
+  "name": "Cranleigh Infant School",
+  "address": "Church Lane",
+  "locality": "High Street",
+  "address3": "",
+  "town": "Cranleigh",
+  "county": "Surrey",
+  "postcode": "GU6 8AR",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "506059",
+  "northing": "139228",
+  "url": "http://www.cranleighinfantschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

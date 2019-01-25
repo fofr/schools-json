@@ -1,0 +1,18 @@
+{
+  "urn": "139859",
+  "name": "Langmoor Primary School Oadby",
+  "address": "Kenilworth Drive",
+  "locality": "Oadby",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 5HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "461857",
+  "northing": "300187",
+  "url": "www.langmoor.leics.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

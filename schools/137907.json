@@ -1,0 +1,18 @@
+{
+  "urn": "137907",
+  "name": "Chiswick School",
+  "address": "Burlington Lane",
+  "locality": "Chiswick",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W4 3UN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "520934",
+  "northing": "177319",
+  "url": "http://www.chiswickschool.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

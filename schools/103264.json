@@ -1,0 +1,18 @@
+{
+  "urn": "103264",
+  "name": "Stirchley Primary School",
+  "address": "Pershore Road",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B30 2JL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "405323",
+  "northing": "280906",
+  "url": "www.stirchly.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

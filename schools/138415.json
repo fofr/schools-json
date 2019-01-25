@@ -1,0 +1,18 @@
+{
+  "urn": "138415",
+  "name": "Gooseacre Primary Academy",
+  "address": "Gooseacre Avenue",
+  "locality": "Off Merrill Road",
+  "address3": "Thurnscoe",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S63 0NU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "445162",
+  "northing": "406216",
+  "url": "www.gooseacreacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

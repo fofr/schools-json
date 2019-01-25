@@ -1,0 +1,18 @@
+{
+  "urn": "104510",
+  "name": "South Liverpool Pupil Referral Unit",
+  "address": "C/O Garston Multi-Services Centre",
+  "locality": "2 Wellington Street",
+  "address3": "Garston",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L19 2LX",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "340254",
+  "northing": "384594",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103856",
+  "name": "The Crestwood School",
+  "address": "Bromley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Kingswinford",
+  "county": "West Midlands",
+  "postcode": "DY6 8QG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "389818",
+  "northing": "288091",
+  "url": "http://www.crestwood-s.dudley.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

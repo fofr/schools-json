@@ -1,0 +1,18 @@
+{
+  "urn": "117531",
+  "name": "Turnford School",
+  "address": "Mill Lane",
+  "locality": "Cheshunt",
+  "address3": "",
+  "town": "Waltham Cross",
+  "county": "Hertfordshire",
+  "postcode": "EN8 0JU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "536456",
+  "northing": "203299",
+  "url": "http://www.turnford.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

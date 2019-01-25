@@ -1,0 +1,18 @@
+{
+  "urn": "134074",
+  "name": "Kingsfield Primary School",
+  "address": "Burnsfield Street",
+  "locality": "",
+  "address3": "",
+  "town": "Chatteris",
+  "county": "Cambridgeshire",
+  "postcode": "PE16 6ET",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "538970",
+  "northing": "286224",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

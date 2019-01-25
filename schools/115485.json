@@ -1,0 +1,18 @@
+{
+  "urn": "115485",
+  "name": "Calton Junior School",
+  "address": "Calton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL1 5ET",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "383218",
+  "northing": "216445",
+  "url": "http://www.caltonjs.ik.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

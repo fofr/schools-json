@@ -1,0 +1,18 @@
+{
+  "urn": "143805",
+  "name": "St Edward's CofE Academy Cheddleton",
+  "address": "Hollow Lane",
+  "locality": "Cheddleton",
+  "address3": "",
+  "town": "Leek",
+  "county": "Staffordshire",
+  "postcode": "ST13 7HP",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "396991",
+  "northing": "352254",
+  "url": "www.stedwardscheddleton.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

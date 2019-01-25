@@ -1,0 +1,18 @@
+{
+  "urn": "121456",
+  "name": "Norton Community Primary School",
+  "address": "Grove Street",
+  "locality": "Norton",
+  "address3": "",
+  "town": "Malton",
+  "county": "North Yorkshire",
+  "postcode": "YO17 9BG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "479494",
+  "northing": "471188",
+  "url": "http://www.norton-pri.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

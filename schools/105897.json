@@ -1,0 +1,18 @@
+{
+  "urn": "105897",
+  "name": "Wharton Primary School",
+  "address": "Rothwell Lane",
+  "locality": "Little Hulton",
+  "address3": "Worsley",
+  "town": "Salford",
+  "county": "Greater Manchester",
+  "postcode": "M38 9XA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "371168",
+  "northing": "404515",
+  "url": "www.whartonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117779",
+  "name": "Berkeley Infant School",
+  "address": "Marsden Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Scunthorpe",
+  "county": "Lincolnshire",
+  "postcode": "DN15 8AH",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "487651",
+  "northing": "411563",
+  "url": "www.berkeleyinfants.createprimary.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

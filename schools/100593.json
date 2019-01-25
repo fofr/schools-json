@@ -1,0 +1,18 @@
+{
+  "urn": "100593",
+  "name": "Crown Lane Primary School",
+  "address": "Crown Lane",
+  "locality": "Streatham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW16 3HX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "531556",
+  "northing": "171096",
+  "url": "www.crownlane.lambeth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

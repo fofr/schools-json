@@ -1,0 +1,18 @@
+{
+  "urn": "104850",
+  "name": "Jigsaw Primary Pupil Referral Unit",
+  "address": "Stannyfield Drive",
+  "locality": "Thornton",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L23 1TY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "333758",
+  "northing": "400543",
+  "url": "http://www.jigsawpru.co.uk/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

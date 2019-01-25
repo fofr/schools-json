@@ -1,0 +1,18 @@
+{
+  "urn": "130522",
+  "name": "Winstanley College",
+  "address": "Winstanley Road",
+  "locality": "Billinge",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN5 7XF",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "353495",
+  "northing": "403230",
+  "url": "www.winstanley.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125271",
+  "name": "Ash Manor School",
+  "address": "Manor Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ash",
+  "county": "Surrey",
+  "postcode": "GU12 6QH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "488854",
+  "northing": "149824",
+  "url": "www.ashmanorschool.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

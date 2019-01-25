@@ -1,0 +1,18 @@
+{
+  "urn": "104945",
+  "name": "Ainsdale High School",
+  "address": "Sandringham Road",
+  "locality": "Ainsdale",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR8 2PJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "331391",
+  "northing": "412846",
+  "url": "http://www.ainsdalehigh.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

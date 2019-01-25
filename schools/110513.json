@@ -1,0 +1,18 @@
+{
+  "urn": "110513",
+  "name": "Wycombe High School",
+  "address": "Marlow Road",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP11 1TB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "485805",
+  "northing": "191866",
+  "url": "http://atschool.eduweb.co.uk/whshw/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

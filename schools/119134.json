@@ -1,0 +1,18 @@
+{
+  "urn": "119134",
+  "name": "Willow Lane Community Primary School",
+  "address": "Willow Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Lancaster",
+  "county": "Lancashire",
+  "postcode": "LA1 5PR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "346749",
+  "northing": "461725",
+  "url": "www.willow.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

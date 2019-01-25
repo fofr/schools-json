@@ -1,0 +1,18 @@
+{
+  "urn": "109650",
+  "name": "Cedars Upper School",
+  "address": "Mentmore Road",
+  "locality": "Linslade",
+  "address3": "",
+  "town": "Leighton Buzzard",
+  "county": "Bedfordshire",
+  "postcode": "LU7 2AE",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "491305",
+  "northing": "224002",
+  "url": "http://www.cedarsupper.beds.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

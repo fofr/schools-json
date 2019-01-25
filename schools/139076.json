@@ -1,0 +1,18 @@
+{
+  "urn": "139076",
+  "name": "Manor Croft Academy",
+  "address": "Old Bank Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dewsbury",
+  "county": "West Yorkshire",
+  "postcode": "WF12 7DW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "425485",
+  "northing": "422021",
+  "url": "www.manorcroft.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

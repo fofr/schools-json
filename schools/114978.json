@@ -1,0 +1,18 @@
+{
+  "urn": "114978",
+  "name": "Bentfield Primary School",
+  "address": "Rainsford Road",
+  "locality": "Stansted Mountfitchet",
+  "address3": "",
+  "town": "Stansted",
+  "county": "Essex",
+  "postcode": "CM24 8DX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "550978",
+  "northing": "225683",
+  "url": "www.bentfield.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

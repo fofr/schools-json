@@ -1,0 +1,18 @@
+{
+  "urn": "100182",
+  "name": "Eltham Hill School",
+  "address": "Eltham Hill",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 5EE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "542250",
+  "northing": "174421",
+  "url": "http://elthamhill.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

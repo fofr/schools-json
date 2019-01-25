@@ -1,0 +1,18 @@
+{
+  "urn": "112320",
+  "name": "Grayrigg CofE School",
+  "address": "Grayrigg",
+  "locality": "",
+  "address3": "",
+  "town": "Kendal",
+  "county": "Cumbria",
+  "postcode": "LA8 9BU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "357820",
+  "northing": "497157",
+  "url": "http://www.grayrigg.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

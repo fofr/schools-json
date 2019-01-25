@@ -1,0 +1,18 @@
+{
+  "urn": "118833",
+  "name": "Sittingbourne Community College",
+  "address": "Swanstree Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME10 4NL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "592123",
+  "northing": "162907",
+  "url": "http://www.sittingbourne.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

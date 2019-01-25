@@ -1,0 +1,18 @@
+{
+  "urn": "135874",
+  "name": "Manchester Enterprise Academy",
+  "address": "Simonsway",
+  "locality": "",
+  "address3": "",
+  "town": "Wythenshawe",
+  "county": "Greater Manchester",
+  "postcode": "M22 9RH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "382085",
+  "northing": "387169",
+  "url": "http://www.manchesterenterpriseacademy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

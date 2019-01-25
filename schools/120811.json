@@ -1,0 +1,18 @@
+{
+  "urn": "120811",
+  "name": "Great Dunham Primary School",
+  "address": "Litcham Road",
+  "locality": "Great Dunham",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE32 2LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "587319",
+  "northing": "314748",
+  "url": "www.greatdunham.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

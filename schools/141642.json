@@ -1,0 +1,18 @@
+{
+  "urn": "141642",
+  "name": "Hindley Green Community Primary School",
+  "address": "Thomas Street",
+  "locality": "Hindley Green",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN2 4SS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "363807",
+  "northing": "403093",
+  "url": "www.hindleygreen.wigan.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

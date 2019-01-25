@@ -1,0 +1,18 @@
+{
+  "urn": "121801",
+  "name": "Meadowside Junior School",
+  "address": "Park Road",
+  "locality": "Burton Latimer",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN15 5QY",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "489572",
+  "northing": "274706",
+  "url": "http://www.meadowsidejunior.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

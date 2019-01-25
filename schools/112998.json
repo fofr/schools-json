@@ -1,0 +1,18 @@
+{
+  "urn": "112998",
+  "name": "St Mary's Catholic High School",
+  "address": "Newbold Road",
+  "locality": "Upper Newbold",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S41 8AG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "436585",
+  "northing": "373056",
+  "url": "http://www.st-maryshigh.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112121",
+  "name": "Skelton School",
+  "address": "Skelton",
+  "locality": "",
+  "address3": "",
+  "town": "Penrith",
+  "county": "Cumbria",
+  "postcode": "CA11 9SE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "343551",
+  "northing": "535476",
+  "url": "http://www.skelton.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

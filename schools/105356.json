@@ -1,0 +1,18 @@
+{
+  "urn": "105356",
+  "name": "Radcliffe Riverside School",
+  "address": "Abden Street",
+  "locality": "Radcliffe",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M26 3AT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "378028",
+  "northing": "407208",
+  "url": "www.radclifferiverside.com",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112653",
+  "name": "Wirksworth Infant School",
+  "address": "Harrison Drive",
+  "locality": "Wirksworth",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 4GZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "428764",
+  "northing": "354305",
+  "url": "www.wirksworth-infant-federation.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

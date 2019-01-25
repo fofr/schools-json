@@ -1,0 +1,18 @@
+{
+  "urn": "107100",
+  "name": "Malin Bridge Primary School",
+  "address": "Dykes Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S6 4RH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "432541",
+  "northing": "389648",
+  "url": "www.malinbridgeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

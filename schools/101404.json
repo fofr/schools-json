@@ -1,0 +1,18 @@
+{
+  "urn": "101404",
+  "name": "Eastcote Primary School",
+  "address": "Eastcote Road",
+  "locality": "",
+  "address3": "",
+  "town": "Welling",
+  "county": "Kent",
+  "postcode": "DA16 2ST",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544831",
+  "northing": "175927",
+  "url": "www.eastcote.bexley.dbprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

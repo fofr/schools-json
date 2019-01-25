@@ -1,0 +1,18 @@
+{
+  "urn": "107842",
+  "name": "Oulton Primary School",
+  "address": "Green Lea",
+  "locality": "Oulton",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS26 8NT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "435842",
+  "northing": "428726",
+  "url": "www.oultonprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

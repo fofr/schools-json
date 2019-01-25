@@ -1,0 +1,18 @@
+{
+  "urn": "104272",
+  "name": "Mary Elliot School",
+  "address": "Leamore Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS2 7NR",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "399010",
+  "northing": "301294",
+  "url": "http://www.mary-elliot.walsall.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "128722",
+  "name": "Ford Secondary School",
+  "address": "Auckland Road",
+  "locality": "Ford",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL2 3BQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "246100",
+  "northing": "56400",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

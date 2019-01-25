@@ -1,0 +1,18 @@
+{
+  "urn": "136730",
+  "name": "Shenley Brook End School",
+  "address": "Walbank Grove",
+  "locality": "Shenley Brook End",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK5 7ZT",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "483160",
+  "northing": "235011",
+  "url": "http://www.sbeschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

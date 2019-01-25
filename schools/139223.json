@@ -1,0 +1,18 @@
+{
+  "urn": "139223",
+  "name": "Coleridge Primary",
+  "address": "Coleridge Road",
+  "locality": "Eastwood",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S65 1LW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "444124",
+  "northing": "393621",
+  "url": "www.coleridgeprimary.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

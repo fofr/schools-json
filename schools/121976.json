@@ -1,0 +1,18 @@
+{
+  "urn": "121976",
+  "name": "Harpole Primary School",
+  "address": "Larkhall Lane",
+  "locality": "Harpole",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN7 4DP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "469489",
+  "northing": "260797",
+  "url": "www.harpoleprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104849",
+  "name": "IMPACT",
+  "address": "Daleacre Campus",
+  "locality": "Daleacre Drive",
+  "address3": "Bootle",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L30 2QQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "334458",
+  "northing": "399350",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

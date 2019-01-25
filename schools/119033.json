@@ -1,0 +1,18 @@
+{
+  "urn": "119033",
+  "name": "Halstead Place School",
+  "address": "Church Road",
+  "locality": "Halstead",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN14 7HQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "548325",
+  "northing": "161477",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

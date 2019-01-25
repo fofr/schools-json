@@ -1,0 +1,18 @@
+{
+  "urn": "144524",
+  "name": "Beech Hill Primary School",
+  "address": "Linhope Road",
+  "locality": "West Denton",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE5 2LW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "419809",
+  "northing": "566677",
+  "url": "www.beechhill.newcastle.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "144097",
+  "name": "Berkeley Academy",
+  "address": "Cranford Lane",
+  "locality": "Heston",
+  "address3": "",
+  "town": "Hounslow",
+  "county": "",
+  "postcode": "TW5 9HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511896",
+  "northing": "177485",
+  "url": "www.berkeleyprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

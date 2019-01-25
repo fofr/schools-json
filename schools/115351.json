@@ -1,0 +1,18 @@
+{
+  "urn": "115351",
+  "name": "Greensward College",
+  "address": "Greensward Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hockley",
+  "county": "Essex",
+  "postcode": "SS5 5HG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "584545",
+  "northing": "193108",
+  "url": "http://www.greensward.essex.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

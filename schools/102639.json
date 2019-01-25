@@ -1,0 +1,18 @@
+{
+  "urn": "102639",
+  "name": "Merton Park Primary School",
+  "address": "Church Lane",
+  "locality": "Merton Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW19 3HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525188",
+  "northing": "169312",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

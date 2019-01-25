@@ -1,0 +1,18 @@
+{
+  "urn": "109118",
+  "name": "Blaise Primary and Nursery School",
+  "address": "Clavell Road",
+  "locality": "Henbury",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS10 7EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "356779",
+  "northing": "178895",
+  "url": "www.blaise.bristol.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

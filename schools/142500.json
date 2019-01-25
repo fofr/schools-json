@@ -1,0 +1,18 @@
+{
+  "urn": "142500",
+  "name": "Oakhurst Community First School",
+  "address": "Shaftesbury Road",
+  "locality": "West Moors",
+  "address3": "",
+  "town": "Ferndown",
+  "county": "Dorset",
+  "postcode": "BH22 0DY",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "408665",
+  "northing": "102579",
+  "url": "www.oakhurstfirst.com/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

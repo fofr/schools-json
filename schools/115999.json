@@ -1,0 +1,18 @@
+{
+  "urn": "115999",
+  "name": "Poulner Junior School",
+  "address": "North Poulner Road",
+  "locality": "North Poulner",
+  "address3": "",
+  "town": "Ringwood",
+  "county": "Hampshire",
+  "postcode": "BH24 3LA",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "416211",
+  "northing": "106548",
+  "url": "http://www.poulnerjuniorschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

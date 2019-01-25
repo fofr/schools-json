@@ -1,0 +1,18 @@
+{
+  "urn": "137696",
+  "name": "Framwellgate School Durham",
+  "address": "Newton Drive",
+  "locality": "Framwellgate Moor",
+  "address3": "",
+  "town": "Durham",
+  "county": "",
+  "postcode": "DH1 5BQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426767",
+  "northing": "544778",
+  "url": "http://www.framdurham.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

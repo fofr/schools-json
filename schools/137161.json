@@ -1,0 +1,18 @@
+{
+  "urn": "137161",
+  "name": "The Robert Smyth Academy",
+  "address": "Burnmill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Market Harborough",
+  "county": "Leicestershire",
+  "postcode": "LE16 7JG",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "473193",
+  "northing": "288153",
+  "url": "http://www.robertsmyth.tgacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

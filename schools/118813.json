@@ -1,0 +1,18 @@
+{
+  "urn": "118813",
+  "name": "The Gillingham Community College",
+  "address": "Woodlands Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME7 2DT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "578804",
+  "northing": "167775",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

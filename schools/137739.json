@@ -1,0 +1,18 @@
+{
+  "urn": "137739",
+  "name": "Cranbrook School",
+  "address": "Waterloo Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cranbrook",
+  "county": "Kent",
+  "postcode": "TN17 3JD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "577829",
+  "northing": "136133",
+  "url": "http://www.cranbrookschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

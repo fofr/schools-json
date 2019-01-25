@@ -1,0 +1,18 @@
+{
+  "urn": "100095",
+  "name": "Penn School",
+  "address": "Church Road",
+  "locality": "Penn",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP10 8LZ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "490670",
+  "northing": "193438",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

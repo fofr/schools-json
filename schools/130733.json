@@ -1,0 +1,18 @@
+{
+  "urn": "130733",
+  "name": "Hadlow College",
+  "address": "Tonbridge Road",
+  "locality": "Hadlow",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN11 0AL",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "562714",
+  "northing": "149914",
+  "url": "www.hadlow.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

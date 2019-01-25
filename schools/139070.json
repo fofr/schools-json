@@ -1,0 +1,18 @@
+{
+  "urn": "139070",
+  "name": "Weyfield Academy",
+  "address": "School Close",
+  "locality": "Off Woking Road",
+  "address3": "",
+  "town": "Guildford",
+  "county": "",
+  "postcode": "GU1 1QJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "499768",
+  "northing": "151566",
+  "url": "www.weyfield-tkat.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

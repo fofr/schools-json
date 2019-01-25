@@ -1,0 +1,18 @@
+{
+  "urn": "109581",
+  "name": "Hillborough Infant School",
+  "address": "Hillborough Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 5EZ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "508538",
+  "northing": "220532",
+  "url": "www.hillboroughinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

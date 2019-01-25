@@ -1,0 +1,18 @@
+{
+  "urn": "101443",
+  "name": "Sherwood Park Primary School",
+  "address": "Sherwood Park Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Sidcup",
+  "county": "Kent",
+  "postcode": "DA15 9JQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "546847",
+  "northing": "174111",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

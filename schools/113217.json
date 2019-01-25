@@ -1,0 +1,18 @@
+{
+  "urn": "113217",
+  "name": "Shaldon Primary School",
+  "address": "Bridge Road",
+  "locality": "Shaldon",
+  "address3": "",
+  "town": "Teignmouth",
+  "county": "Devon",
+  "postcode": "TQ14 0DD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "293158",
+  "northing": "72302",
+  "url": "http://www.shaldon.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

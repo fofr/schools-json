@@ -1,0 +1,18 @@
+{
+  "urn": "110999",
+  "name": "Manley Village School",
+  "address": "Manley Road",
+  "locality": "Manley",
+  "address3": "",
+  "town": "Frodsham",
+  "county": "Cheshire",
+  "postcode": "WA6 9DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "351154",
+  "northing": "372410",
+  "url": "http://www.alvanleyandmanleyfederatedschools.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

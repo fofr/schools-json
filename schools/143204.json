@@ -1,0 +1,18 @@
+{
+  "urn": "143204",
+  "name": "Richard De Clare Community Academy",
+  "address": "Parsonage Street",
+  "locality": "",
+  "address3": "",
+  "town": "Halstead",
+  "county": "Essex",
+  "postcode": "CO9 2JT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "581513",
+  "northing": "230388",
+  "url": "www.richarddeclare.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

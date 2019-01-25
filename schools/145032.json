@@ -1,0 +1,18 @@
+{
+  "urn": "145032",
+  "name": "Great Horwood Church of England School",
+  "address": "School End",
+  "locality": "Great Horwood",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK17 0RG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "477008",
+  "northing": "231309",
+  "url": "www.greathorwood.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

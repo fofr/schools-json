@@ -1,0 +1,18 @@
+{
+  "urn": "138328",
+  "name": "Chattenden Primary School",
+  "address": "Chattenden Lane",
+  "locality": "Chattenden",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME3 8LF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "575792",
+  "northing": "171843",
+  "url": "http://www.chattenden.medway.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

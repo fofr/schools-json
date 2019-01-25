@@ -1,0 +1,18 @@
+{
+  "urn": "140224",
+  "name": "Wellington Primary Academy",
+  "address": "Oatway Road",
+  "locality": "",
+  "address3": "",
+  "town": "Tidworth",
+  "county": "Wiltshire",
+  "postcode": "SP9 7FP",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "423834",
+  "northing": "149631",
+  "url": "http://www.wellingtonprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

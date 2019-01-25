@@ -1,0 +1,18 @@
+{
+  "urn": "113867",
+  "name": "Ashdown Technology College",
+  "address": "Ashdown Close",
+  "locality": "Adastral Road",
+  "address3": "Canford Heath",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH17 8RE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "402452",
+  "northing": "94340",
+  "url": "http://www.ashdown.poole.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

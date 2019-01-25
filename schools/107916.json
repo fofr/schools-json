@@ -1,0 +1,18 @@
+{
+  "urn": "107916",
+  "name": "Moortown Primary School",
+  "address": "Shadwell Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS17 6DR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "430866",
+  "northing": "438851",
+  "url": "www.moortown.leeds.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

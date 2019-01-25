@@ -1,0 +1,18 @@
+{
+  "urn": "112066",
+  "name": "Mounts Bay School",
+  "address": "Boscathnoe Lane",
+  "locality": "Heamoor",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR18 3JT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "145916",
+  "northing": "31415",
+  "url": "http://www.mounts-bay.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

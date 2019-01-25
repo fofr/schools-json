@@ -1,0 +1,18 @@
+{
+  "urn": "130394",
+  "name": "Old Hall Drive Primary School",
+  "address": "Old Hall Drive",
+  "locality": "Gorton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M18 7FU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388796",
+  "northing": "395645",
+  "url": "www.oldhalldrive.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

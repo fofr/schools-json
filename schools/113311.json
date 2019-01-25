@@ -1,0 +1,18 @@
+{
+  "urn": "113311",
+  "name": "Tamerton Vale Primary School",
+  "address": "Rolston Close",
+  "locality": "Southway",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL6 6PE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "247626",
+  "northing": "60626",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

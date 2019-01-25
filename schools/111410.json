@@ -1,0 +1,18 @@
+{
+  "urn": "111410",
+  "name": "Middlewich High School",
+  "address": "King Edward Street",
+  "locality": "",
+  "address3": "",
+  "town": "Middlewich",
+  "county": "Cheshire",
+  "postcode": "CW10 9BU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "370169",
+  "northing": "366018",
+  "url": "http://www.middlewichhigh.cheshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

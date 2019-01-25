@@ -1,0 +1,18 @@
+{
+  "urn": "141493",
+  "name": "Pye Green Academy",
+  "address": "Rosehill",
+  "locality": "Hednesford",
+  "address3": "",
+  "town": "Cannock",
+  "county": "Staffordshire",
+  "postcode": "WS12 4RT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "399273",
+  "northing": "313454",
+  "url": "www.pyegreen.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

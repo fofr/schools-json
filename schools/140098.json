@@ -1,0 +1,18 @@
+{
+  "urn": "140098",
+  "name": "Milford-on-Sea Church of England Primary School",
+  "address": "Lymington Road",
+  "locality": "Milford-on-Sea",
+  "address3": "",
+  "town": "Lymington",
+  "county": "Hampshire",
+  "postcode": "SO41 0RF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "429087",
+  "northing": "92758",
+  "url": "http://www.mosps.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

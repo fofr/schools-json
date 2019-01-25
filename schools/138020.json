@@ -1,0 +1,18 @@
+{
+  "urn": "138020",
+  "name": "The John of Gaunt School",
+  "address": "Wingfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Trowbridge",
+  "county": "Wiltshire",
+  "postcode": "BA14 9EH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "384744",
+  "northing": "157540",
+  "url": "http://johnofgauntschool.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

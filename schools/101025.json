@@ -1,0 +1,18 @@
+{
+  "urn": "101025",
+  "name": "Wix Primary School",
+  "address": "Wix's Lane",
+  "locality": "Clapham Common North Side",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW4 0AJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528515",
+  "northing": "175503",
+  "url": "www.wix.wandsworth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

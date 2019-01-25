@@ -1,0 +1,18 @@
+{
+  "urn": "120568",
+  "name": "Corringham CofE VC Primary School",
+  "address": "Middle Street",
+  "locality": "Corringham",
+  "address3": "",
+  "town": "Gainsborough",
+  "county": "Lincolnshire",
+  "postcode": "DN21 5QS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "487158",
+  "northing": "391560",
+  "url": "www.corringham.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

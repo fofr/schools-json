@@ -1,0 +1,18 @@
+{
+  "urn": "137897",
+  "name": "Redhill Primary School",
+  "address": "The Ridings",
+  "locality": "Ockbrook",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE72 3SF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "442500",
+  "northing": "336007",
+  "url": "www.redhill.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

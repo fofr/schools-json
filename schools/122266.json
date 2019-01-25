@@ -1,0 +1,18 @@
+{
+  "urn": "122266",
+  "name": "Burnside Primary School",
+  "address": "Northumbrian Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cramlington",
+  "county": "Northumberland",
+  "postcode": "NE23 1XZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426758",
+  "northing": "577981",
+  "url": "www.burnsideprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

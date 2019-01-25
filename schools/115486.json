@@ -1,0 +1,18 @@
+{
+  "urn": "115486",
+  "name": "Calton Primary School",
+  "address": "Calton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "Gloucestershire",
+  "postcode": "GL1 5ET",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "383238",
+  "northing": "216480",
+  "url": "www.caltonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

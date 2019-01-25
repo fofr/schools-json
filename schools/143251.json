@@ -1,0 +1,18 @@
+{
+  "urn": "143251",
+  "name": "Ashby Willesley Primary School",
+  "address": "Packington Nook Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ashby-de-la-Zouch",
+  "county": "Leicestershire",
+  "postcode": "LE65 2QG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "435297",
+  "northing": "315798",
+  "url": "www.ashbywillesley.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

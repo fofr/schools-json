@@ -1,0 +1,18 @@
+{
+  "urn": "113055",
+  "name": "North Devon Personalised Learning Service",
+  "address": "Springfield Court",
+  "locality": "Fishleigh Road",
+  "address3": "Roundswell Business Park",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX31 3TD",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "253740",
+  "northing": "131570",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108164",
+  "name": "Newton Hill Community School",
+  "address": "Leeds Road",
+  "locality": "Newton Hill",
+  "address3": "",
+  "town": "Wakefield",
+  "county": "West Yorkshire",
+  "postcode": "WF1 2HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "432979",
+  "northing": "422639",
+  "url": "https://newton-hill-community.eschools.co.uk/website",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

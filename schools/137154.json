@@ -1,0 +1,18 @@
+{
+  "urn": "137154",
+  "name": "The Abbey School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Faversham",
+  "county": "Kent",
+  "postcode": "ME13 8RZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "601241",
+  "northing": "160405",
+  "url": "http://www.abbeyschoolfaversham.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

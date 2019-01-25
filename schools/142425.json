@@ -1,0 +1,18 @@
+{
+  "urn": "142425",
+  "name": "Freehold Community Academy",
+  "address": "Sidmouth Street",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL9 7RG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391016",
+  "northing": "404407",
+  "url": "www.freeholdprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

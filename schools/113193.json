@@ -1,0 +1,18 @@
+{
+  "urn": "113193",
+  "name": "Christow Community School",
+  "address": "Dry Lane",
+  "locality": "Christow",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX6 7PE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "283225",
+  "northing": "85094",
+  "url": "http://www.christowschool.ik.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

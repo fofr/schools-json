@@ -1,0 +1,18 @@
+{
+  "urn": "121854",
+  "name": "Roade Primary School",
+  "address": "Hartwell Road",
+  "locality": "Roade",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN7 2NT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "475995",
+  "northing": "251639",
+  "url": "http://www.roadeprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

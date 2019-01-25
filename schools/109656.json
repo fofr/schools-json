@@ -1,0 +1,18 @@
+{
+  "urn": "109656",
+  "name": "Arnold Middle School",
+  "address": "Hexton Road",
+  "locality": "Barton-le-Clay",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 4JZ",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "508647",
+  "northing": "230610",
+  "url": "http://www.arnold.ik.org",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146237",
+  "name": "Litcham School",
+  "address": "Church Street",
+  "locality": "Litcham",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE32 2NS",
+  "minimum_age": "4",
+  "maximum_age": "16",
+  "easting": "588729",
+  "northing": "317594",
+  "url": "http://www.litcham.norfolk.sch.uk",
+  "phase": "All through",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

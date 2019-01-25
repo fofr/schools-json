@@ -1,0 +1,18 @@
+{
+  "urn": "123661",
+  "name": "Somerton Infant School",
+  "address": "Etsome Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Somerton",
+  "county": "Somerset",
+  "postcode": "TA11 6LY",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "348465",
+  "northing": "128870",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

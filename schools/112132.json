@@ -1,0 +1,18 @@
+{
+  "urn": "112132",
+  "name": "Grasslot Infant School",
+  "address": "Main Road",
+  "locality": "Grasslot",
+  "address3": "",
+  "town": "Maryport",
+  "county": "Cumbria",
+  "postcode": "CA15 8BT",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "303404",
+  "northing": "535860",
+  "url": "grasslot.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127621",
+  "name": "Bentley High Street First School",
+  "address": "High Street",
+  "locality": "Bentley",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN5 0AA",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "456631",
+  "northing": "405507",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112106",
+  "name": "Burgh by Sands School",
+  "address": "Burgh by Sands",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA5 6AP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "332704",
+  "northing": "558830",
+  "url": "http://www.burgh-by-sands.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

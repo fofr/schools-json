@@ -1,0 +1,18 @@
+{
+  "urn": "116649",
+  "name": "Ashperton Primary School",
+  "address": "Ashperton",
+  "locality": "",
+  "address3": "",
+  "town": "Ledbury",
+  "county": "Herefordshire",
+  "postcode": "HR8 2SE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "364546",
+  "northing": "241481",
+  "url": "http://www.ashperton.hereford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

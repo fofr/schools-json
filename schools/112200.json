@@ -1,0 +1,18 @@
+{
+  "urn": "112200",
+  "name": "Priory Grove Infant School",
+  "address": "Friars Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA13 9NP",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "321439",
+  "northing": "469269",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

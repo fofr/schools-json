@@ -1,0 +1,18 @@
+{
+  "urn": "122837",
+  "name": "Fairham Community College",
+  "address": "Farnborough Road",
+  "locality": "Clifton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG11 9AE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "455783",
+  "northing": "333591",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

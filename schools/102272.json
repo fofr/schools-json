@@ -1,0 +1,18 @@
+{
+  "urn": "102272",
+  "name": "Elm Park Primary School",
+  "address": "Southend Road",
+  "locality": "Elm Park",
+  "address3": "",
+  "town": "Hornchurch",
+  "county": "Essex",
+  "postcode": "RM12 5UA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "552881",
+  "northing": "185723",
+  "url": "http://www.elmparkprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "114099",
+  "name": "Ramshaw Primary School",
+  "address": "Oaks Bank",
+  "locality": "Evenwood",
+  "address3": "",
+  "town": "Bishop Auckland",
+  "county": "County Durham",
+  "postcode": "DL14 9SD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "415180",
+  "northing": "525798",
+  "url": "www.ramshaw.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

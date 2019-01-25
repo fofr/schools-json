@@ -1,0 +1,18 @@
+{
+  "urn": "137198",
+  "name": "Rooks Heath College",
+  "address": "Eastcote Lane",
+  "locality": "South Harrow",
+  "address3": "",
+  "town": "Harrow",
+  "county": "",
+  "postcode": "HA2 9AH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "512955",
+  "northing": "186076",
+  "url": "http://rooksheath.harrow.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

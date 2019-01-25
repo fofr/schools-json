@@ -1,0 +1,18 @@
+{
+  "urn": "118270",
+  "name": "Paddock Wood Primary School",
+  "address": "Old Kent Road",
+  "locality": "Paddock Wood",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN12 6JE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "566923",
+  "northing": "144859",
+  "url": "www.paddockwoodprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "108462",
+  "name": "Mary Trevelyan Primary School",
+  "address": "Brunel Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 7NL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "423162",
+  "northing": "563328",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

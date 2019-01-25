@@ -1,0 +1,18 @@
+{
+  "urn": "105924",
+  "name": "The Deans Primary School",
+  "address": "Stanwell Road",
+  "locality": "Swinton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M27 5TD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "377602",
+  "northing": "401446",
+  "url": "www.thedeansprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

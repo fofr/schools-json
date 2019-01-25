@@ -1,0 +1,18 @@
+{
+  "urn": "140218",
+  "name": "Oasis Academy Fir Vale",
+  "address": "Owler Lane",
+  "locality": "Fir Vale",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S4 8GA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "436723",
+  "northing": "390198",
+  "url": "www.oasisacademyfirvale.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

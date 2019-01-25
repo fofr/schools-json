@@ -1,0 +1,18 @@
+{
+  "urn": "120258",
+  "name": "Castle Rock High School",
+  "address": "Meadow Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Coalville",
+  "county": "Leicestershire",
+  "postcode": "LE67 4BR",
+  "minimum_age": "11",
+  "maximum_age": "14",
+  "easting": "445670",
+  "northing": "314793",
+  "url": "http://www.castlerock.leics.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

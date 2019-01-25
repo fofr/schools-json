@@ -1,0 +1,18 @@
+{
+  "urn": "130462",
+  "name": "East Birmingham College",
+  "address": "Garretts Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B33 0TS",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "414881",
+  "northing": "285923",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

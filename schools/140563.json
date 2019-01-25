@@ -1,0 +1,18 @@
+{
+  "urn": "140563",
+  "name": "Haxby Road Primary Academy",
+  "address": "154 Haxby Road",
+  "locality": "",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO31 8JN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "460678",
+  "northing": "453288",
+  "url": "www.hrprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

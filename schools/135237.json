@@ -1,0 +1,18 @@
+{
+  "urn": "135237",
+  "name": "Buckland Primary School",
+  "address": "Berryscroft Road",
+  "locality": "Laleham",
+  "address3": "",
+  "town": "Staines",
+  "county": "Middlesex",
+  "postcode": "TW18 1NB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "505346",
+  "northing": "170280",
+  "url": "www.bucklandprimary.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

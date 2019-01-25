@@ -1,0 +1,18 @@
+{
+  "urn": "113686",
+  "name": "Hayeswood First School",
+  "address": "Cutlers Place",
+  "locality": "Colehill",
+  "address3": "",
+  "town": "Wimborne",
+  "county": "Dorset",
+  "postcode": "BH21 2HN",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "403572",
+  "northing": "100717",
+  "url": "http://www.hayeswood.dorset.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

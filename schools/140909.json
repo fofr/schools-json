@@ -1,0 +1,18 @@
+{
+  "urn": "140909",
+  "name": "St Peter's Church of England Primary School Wymondham",
+  "address": "Glebe Lane",
+  "locality": "Wymondham",
+  "address3": "",
+  "town": "Melton Mowbray",
+  "county": "Leicestershire",
+  "postcode": "LE14 2AF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "484607",
+  "northing": "318841",
+  "url": "www.wymondhamprimary.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

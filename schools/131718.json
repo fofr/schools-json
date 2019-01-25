@@ -1,0 +1,18 @@
+{
+  "urn": "131718",
+  "name": "Portfields Primary School",
+  "address": "Westbury Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Newport Pagnell",
+  "county": "Buckinghamshire",
+  "postcode": "MK16 8PS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "486157",
+  "northing": "244035",
+  "url": "http://www.portfields.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

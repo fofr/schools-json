@@ -1,0 +1,18 @@
+{
+  "urn": "130621",
+  "name": "Macclesfield College",
+  "address": "Park Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 8LF",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "390883",
+  "northing": "372649",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

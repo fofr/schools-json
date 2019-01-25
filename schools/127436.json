@@ -1,0 +1,18 @@
+{
+  "urn": "127436",
+  "name": "Demsene County Primary School",
+  "address": "Bowness Road",
+  "locality": "Langley",
+  "address3": "Middleton",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M24 4NU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "385617",
+  "northing": "406444",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127046",
+  "name": "Redbridge Primary School",
+  "address": "College Gardens",
+  "locality": "Redbridge",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG4 5HW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "542260",
+  "northing": "188915",
+  "url": "http://redbridgeprimary.redbridge.sch.uk/redbridge/primary/redbridge",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

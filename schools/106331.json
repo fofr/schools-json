@@ -1,0 +1,18 @@
+{
+  "urn": "106331",
+  "name": "Wellacre Infant School",
+  "address": "Irlam Road",
+  "locality": "Flixton",
+  "address3": "Urmston",
+  "town": "Manchester",
+  "county": "Lancashire",
+  "postcode": "M41 6NA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "373984",
+  "northing": "394682",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

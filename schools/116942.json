@@ -1,0 +1,18 @@
+{
+  "urn": "116942",
+  "name": "The Chase",
+  "address": "Geraldine Road",
+  "locality": "",
+  "address3": "",
+  "town": "Malvern",
+  "county": "Worcestershire",
+  "postcode": "WR14 3NZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "378855",
+  "northing": "244964",
+  "url": "http://www.chase.worcs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

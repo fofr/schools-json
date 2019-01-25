@@ -1,0 +1,18 @@
+{
+  "urn": "109562",
+  "name": "Warden Hill Junior School",
+  "address": "Birdsfoot Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU3 2DN",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "508205",
+  "northing": "225131",
+  "url": "http://www.wardenhill-jun.luton.gov.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

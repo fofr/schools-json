@@ -1,0 +1,18 @@
+{
+  "urn": "123801",
+  "name": "Staplegrove CofE Primary School",
+  "address": "Hudson Way",
+  "locality": "Staplegrove",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA2 6UP",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "321073",
+  "northing": "125996",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

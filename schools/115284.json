@@ -1,0 +1,18 @@
+{
+  "urn": "115284",
+  "name": "Grove Infant School",
+  "address": "Grove Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rayleigh",
+  "county": "Essex",
+  "postcode": "SS6 8UA",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "582360",
+  "northing": "190299",
+  "url": "http://www.groveinfantschool.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

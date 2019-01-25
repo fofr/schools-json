@@ -1,0 +1,18 @@
+{
+  "urn": "130728",
+  "name": "East Kent College",
+  "address": "Ramsgate Road",
+  "locality": "",
+  "address3": "",
+  "town": "Broadstairs",
+  "county": "Kent",
+  "postcode": "CT10 1PN",
+  "minimum_age": "14",
+  "maximum_age": "99",
+  "easting": "639267",
+  "northing": "167278",
+  "url": "http://eastkent.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

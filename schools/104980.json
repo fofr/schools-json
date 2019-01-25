@@ -1,0 +1,18 @@
+{
+  "urn": "104980",
+  "name": "Crosby High School",
+  "address": "De Villiers Avenue",
+  "locality": "Crosby",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L23 2TH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "332450",
+  "northing": "400505",
+  "url": "www.crosbyhigh.org",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

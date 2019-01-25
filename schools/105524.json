@@ -1,0 +1,18 @@
+{
+  "urn": "105524",
+  "name": "St Catherine's RC Primary School",
+  "address": "School Lane",
+  "locality": "Didsbury",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M20 6HS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "385301",
+  "northing": "391096",
+  "url": "www.st-catherines.manchester.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

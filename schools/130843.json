@@ -1,0 +1,18 @@
+{
+  "urn": "130843",
+  "name": "Chichester College",
+  "address": "Westgate Fields",
+  "locality": "",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO19 1SB",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "485462",
+  "northing": "104632",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

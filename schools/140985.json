@@ -1,0 +1,18 @@
+{
+  "urn": "140985",
+  "name": "Harris Academy Battersea",
+  "address": "401 Battersea Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW11 5AP",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "527924",
+  "northing": "176527",
+  "url": "http://www.harrisbattersea.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

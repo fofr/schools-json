@@ -1,0 +1,18 @@
+{
+  "urn": "119333",
+  "name": "Fishwick Primary School",
+  "address": "Downing Street",
+  "locality": "",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR1 4RH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "356293",
+  "northing": "429983",
+  "url": "www.fishwick.lancs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

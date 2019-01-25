@@ -1,0 +1,18 @@
+{
+  "urn": "112124",
+  "name": "Welton School",
+  "address": "Welton",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA5 7HE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "335582",
+  "northing": "543926",
+  "url": "http://www.welton.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

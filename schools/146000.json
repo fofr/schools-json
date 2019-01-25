@@ -1,0 +1,18 @@
+{
+  "urn": "146000",
+  "name": "Barnes Farm Infant School",
+  "address": "Henniker Gate",
+  "locality": "",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM2 6QH",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "573247",
+  "northing": "207395",
+  "url": "www.barnesfarminfants.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140435",
+  "name": "Heathfield Academy",
+  "address": "7 Aberdeen Road",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 1EQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "532498",
+  "northing": "164631",
+  "url": "www.heathfieldacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

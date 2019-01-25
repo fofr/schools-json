@@ -1,0 +1,18 @@
+{
+  "urn": "121190",
+  "name": "Hunstanton Primary School",
+  "address": "Collingwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hunstanton",
+  "county": "Norfolk",
+  "postcode": "PE36 5DY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "567697",
+  "northing": "340224",
+  "url": "http://www.hunstanton.norfolk.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

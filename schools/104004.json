@@ -1,0 +1,18 @@
+{
+  "urn": "104004",
+  "name": "Churchfields High School",
+  "address": "Church Vale",
+  "locality": "",
+  "address3": "",
+  "town": "West Bromwich",
+  "county": "West Midlands",
+  "postcode": "B71 4DR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "401022",
+  "northing": "292666",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

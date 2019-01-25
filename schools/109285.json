@@ -1,0 +1,18 @@
+{
+  "urn": "109285",
+  "name": "Pen Park School",
+  "address": "Pen Park Road",
+  "locality": "Southmead",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS10 6BP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "358829",
+  "northing": "178766",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

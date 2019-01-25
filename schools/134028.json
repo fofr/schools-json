@@ -1,0 +1,18 @@
+{
+  "urn": "134028",
+  "name": "Ordsall Primary School",
+  "address": "Ordsall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Retford",
+  "county": "Nottinghamshire",
+  "postcode": "DN22 7SL",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "469962",
+  "northing": "379878",
+  "url": "www.ordsallprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

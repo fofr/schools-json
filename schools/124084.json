@@ -1,0 +1,18 @@
+{
+  "urn": "124084",
+  "name": "St Stephen's Primary School",
+  "address": "Church Lane",
+  "locality": "Fradley",
+  "address3": "",
+  "town": "Lichfield",
+  "county": "Staffordshire",
+  "postcode": "WS13 8NL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "415695",
+  "northing": "313451",
+  "url": "www.st-stephens.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

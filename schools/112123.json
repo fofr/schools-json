@@ -1,0 +1,18 @@
+{
+  "urn": "112123",
+  "name": "Thursby Primary School",
+  "address": "Thursby",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA5 6PN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "332843",
+  "northing": "550022",
+  "url": "www.thursby.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

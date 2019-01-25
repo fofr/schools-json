@@ -1,0 +1,18 @@
+{
+  "urn": "120823",
+  "name": "Kelling Primary School",
+  "address": "Salthouse Road",
+  "locality": "Kelling",
+  "address3": "",
+  "town": "Holt",
+  "county": "Norfolk",
+  "postcode": "NR25 7ED",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "609333",
+  "northing": "342939",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

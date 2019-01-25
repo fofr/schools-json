@@ -1,0 +1,18 @@
+{
+  "urn": "100904",
+  "name": "Harbinger Primary School",
+  "address": "Cahir Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 3QP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "537560",
+  "northing": "178580",
+  "url": "www.harbingerschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

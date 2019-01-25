@@ -1,0 +1,18 @@
+{
+  "urn": "118234",
+  "name": "The Cedars",
+  "address": "Bower Mount Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME16 8AU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "574946",
+  "northing": "155808",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

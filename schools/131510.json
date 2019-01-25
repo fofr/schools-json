@@ -1,0 +1,18 @@
+{
+  "urn": "131510",
+  "name": "Victoria Dock Primary School",
+  "address": "South Bridge Road",
+  "locality": "Victoria Dock",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU9 1TL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "510574",
+  "northing": "428576",
+  "url": "http://www.victoriadockschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124400",
+  "name": "Codsall Community High School",
+  "address": "Elliotts Lane",
+  "locality": "Codsall",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "Staffordshire",
+  "postcode": "WV8 1PQ",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "387371",
+  "northing": "303130",
+  "url": "http://www.cc-hs.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

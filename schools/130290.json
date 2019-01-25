@@ -1,0 +1,18 @@
+{
+  "urn": "130290",
+  "name": "Hexthorpe Primary School",
+  "address": "Urban Road",
+  "locality": "Hexthorpe",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN4 0HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456107",
+  "northing": "402125",
+  "url": "www.hexthorpe.doncaster.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "138655",
+  "name": "Begbrook Primary Academy",
+  "address": "Begbrook Drive",
+  "locality": "Stapleton",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS16 1HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "362839",
+  "northing": "176622",
+  "url": "www.begbrookschool.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

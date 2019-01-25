@@ -1,0 +1,18 @@
+{
+  "urn": "140007",
+  "name": "Winton Academy",
+  "address": "Winton Way",
+  "locality": "",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH10 4HT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "407781",
+  "northing": "94180",
+  "url": "http://www.wintoncollege.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

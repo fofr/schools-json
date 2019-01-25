@@ -1,0 +1,18 @@
+{
+  "urn": "140746",
+  "name": "Riverside Community Primary School Birstall",
+  "address": "Wanlip Lane",
+  "locality": "Birstall",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE4 4JU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "459705",
+  "northing": "309251",
+  "url": "http://www.riversideacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

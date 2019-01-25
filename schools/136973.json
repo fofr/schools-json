@@ -1,0 +1,18 @@
+{
+  "urn": "136973",
+  "name": "Roundwood Park School",
+  "address": "Roundwood Park",
+  "locality": "",
+  "address3": "",
+  "town": "Harpenden",
+  "county": "Hertfordshire",
+  "postcode": "AL5 3AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "512259",
+  "northing": "214742",
+  "url": "http://www.roundwoodpark.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

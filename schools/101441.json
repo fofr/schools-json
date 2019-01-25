@@ -1,0 +1,18 @@
+{
+  "urn": "101441",
+  "name": "Northwood Primary School",
+  "address": "Northwood Place",
+  "locality": "",
+  "address3": "",
+  "town": "Erith",
+  "county": "Kent",
+  "postcode": "DA18 4HN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "548540",
+  "northing": "179207",
+  "url": "www.northwood.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

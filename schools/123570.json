@@ -1,0 +1,18 @@
+{
+  "urn": "123570",
+  "name": "Belvidere School",
+  "address": "Crowmere Road",
+  "locality": "",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY2 5LA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "351399",
+  "northing": "312815",
+  "url": "http://www.belvidere.shropshire.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140374",
+  "name": "Ormiston Meadows Academy",
+  "address": "Matley",
+  "locality": "Orton Brimbles",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE2 5YQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "515050",
+  "northing": "296127",
+  "url": "www.ormistonmeadows.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

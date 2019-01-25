@@ -1,0 +1,18 @@
+{
+  "urn": "100488",
+  "name": "Thomas Jones Primary School",
+  "address": "St Mark's Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W11 1RQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524214",
+  "northing": "181162",
+  "url": "http://www.thomasjonesschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

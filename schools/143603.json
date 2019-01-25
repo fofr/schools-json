@@ -1,0 +1,18 @@
+{
+  "urn": "143603",
+  "name": "Laurance Haines School",
+  "address": "Vicarage Road",
+  "locality": "",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD18 0DD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "510289",
+  "northing": "195428",
+  "url": "http://www.lhaines.herts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

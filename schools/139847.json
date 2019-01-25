@@ -1,0 +1,18 @@
+{
+  "urn": "139847",
+  "name": "Chipping Warden Primary Academy",
+  "address": "Byfield Road",
+  "locality": "Chipping Warden",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX17 1LD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "449982",
+  "northing": "249114",
+  "url": "www.chippingwarden.northants.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131386",
+  "name": "Blenheim High School",
+  "address": "Longmead Road",
+  "locality": "",
+  "address3": "",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT19 9BH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "520979",
+  "northing": "162124",
+  "url": "http://www.blenheim.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

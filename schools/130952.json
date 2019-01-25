@@ -1,0 +1,18 @@
+{
+  "urn": "130952",
+  "name": "Kings Hill School",
+  "address": "Crispin Way",
+  "locality": "Kings Hill",
+  "address3": "",
+  "town": "West Malling",
+  "county": "Kent",
+  "postcode": "ME19 4LS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "567411",
+  "northing": "155232",
+  "url": "www.kingshillschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

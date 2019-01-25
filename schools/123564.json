@@ -1,0 +1,18 @@
+{
+  "urn": "123564",
+  "name": "The Community College, Bishop's Castle",
+  "address": "Brampton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bishops Castle",
+  "county": "Shropshire",
+  "postcode": "SY9 5AY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "332452",
+  "northing": "288305",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

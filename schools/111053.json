@@ -1,0 +1,18 @@
+{
+  "urn": "111053",
+  "name": "Charles Darwin Community Primary School",
+  "address": "Darwin Street",
+  "locality": "Castle",
+  "address3": "",
+  "town": "Northwich",
+  "county": "Cheshire",
+  "postcode": "CW8 1BN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "365196",
+  "northing": "373215",
+  "url": "www.charlesdarwin.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

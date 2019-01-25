@@ -1,0 +1,18 @@
+{
+  "urn": "105256",
+  "name": "Little Lever School",
+  "address": "Church Street",
+  "locality": "Little Lever",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Greater Manchester",
+  "postcode": "BL3 1BT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "374670",
+  "northing": "407318",
+  "url": "http://www.little-lever.bolton.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

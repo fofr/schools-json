@@ -1,0 +1,18 @@
+{
+  "urn": "144926",
+  "name": "Locking Primary School",
+  "address": "Meadow Drive",
+  "locality": "Locking",
+  "address3": "",
+  "town": "Weston-Super-Mare",
+  "county": "Somerset",
+  "postcode": "BS24 8BB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "336705",
+  "northing": "159885",
+  "url": "http://www.locking.n-somerset.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139479",
+  "name": "Broadmere Primary Academy",
+  "address": "Devonshire Avenue",
+  "locality": "Sheerwater",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 5QE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "502686",
+  "northing": "160596",
+  "url": "www.broadmere.surrey.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "109671",
+  "name": "Kingsland Community College",
+  "address": "Parkside Drive",
+  "locality": "Houghton Regis",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 5PY",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "503033",
+  "northing": "224917",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

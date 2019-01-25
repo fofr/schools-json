@@ -1,0 +1,18 @@
+{
+  "urn": "133085",
+  "name": "Swanwick Lodge",
+  "address": "Glen Road",
+  "locality": "Swanwick",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO31 7HD",
+  "minimum_age": "10",
+  "maximum_age": "17",
+  "easting": "450632",
+  "northing": "109451",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Secure units"
+}

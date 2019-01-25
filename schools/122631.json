@@ -1,0 +1,18 @@
+{
+  "urn": "122631",
+  "name": "John Blow Primary School",
+  "address": "Snowdon Road",
+  "locality": "Collingham",
+  "address3": "",
+  "town": "Newark",
+  "county": "Nottinghamshire",
+  "postcode": "NG23 7PT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "483360",
+  "northing": "361784",
+  "url": "http://www.collingham.notts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

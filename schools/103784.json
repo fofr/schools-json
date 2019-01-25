@@ -1,0 +1,18 @@
+{
+  "urn": "103784",
+  "name": "Red Hall Primary School",
+  "address": "Zoar Street",
+  "locality": "Lower Gornal",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY3 2PA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391432",
+  "northing": "291101",
+  "url": "www.redhallprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

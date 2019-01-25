@@ -1,0 +1,18 @@
+{
+  "urn": "100100",
+  "name": "Woolwich Common Nursery School",
+  "address": "Woolwich Common",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE18 4DJ",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "543130",
+  "northing": "177700",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

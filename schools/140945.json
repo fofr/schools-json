@@ -1,0 +1,18 @@
+{
+  "urn": "140945",
+  "name": "Elutec",
+  "address": "Yew Tree Avenue",
+  "locality": "Rainham Rd South",
+  "address3": "",
+  "town": "Dagenham East",
+  "county": "Essex",
+  "postcode": "RM10 7FN",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "550610",
+  "northing": "185363",
+  "url": "http://www.elutec.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

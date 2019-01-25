@@ -1,0 +1,18 @@
+{
+  "urn": "120296",
+  "name": "New Parks Community College",
+  "address": "Greencoat Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 6RN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "455475",
+  "northing": "305372",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

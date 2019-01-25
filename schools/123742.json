@@ -1,0 +1,18 @@
+{
+  "urn": "123742",
+  "name": "Beckington Church of England First School",
+  "address": "Church Street",
+  "locality": "Beckington",
+  "address3": "",
+  "town": "Frome",
+  "county": "Somerset",
+  "postcode": "BA11 6TG",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "380115",
+  "northing": "151676",
+  "url": "http://www.beckingtonschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

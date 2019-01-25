@@ -1,0 +1,18 @@
+{
+  "urn": "130822",
+  "name": "North East Surrey College of Technology",
+  "address": "Reigate Road",
+  "locality": "Ewell",
+  "address3": "",
+  "town": "Epsom",
+  "county": "Surrey",
+  "postcode": "KT17 3DS",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "522357",
+  "northing": "161849",
+  "url": "www.nescot.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

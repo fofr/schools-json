@@ -1,0 +1,18 @@
+{
+  "urn": "135444",
+  "name": "St Anns Well Primary School",
+  "address": "Hungerhill Road",
+  "locality": "St Ann's",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG3 3PQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "458245",
+  "northing": "341217",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

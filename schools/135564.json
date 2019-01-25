@@ -1,0 +1,18 @@
+{
+  "urn": "135564",
+  "name": "The Priory City of Lincoln Academy",
+  "address": "Skellingthorpe Road",
+  "locality": "",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN6 0EP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "495355",
+  "northing": "369401",
+  "url": "www.priorycity.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

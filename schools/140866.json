@@ -1,0 +1,18 @@
+{
+  "urn": "140866",
+  "name": "The Snaith School",
+  "address": "Pontefract Road",
+  "locality": "Snaith",
+  "address3": "",
+  "town": "Goole",
+  "county": "East Yorkshire",
+  "postcode": "DN14 9LB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "463728",
+  "northing": "421934",
+  "url": "http://www.thesnaithschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

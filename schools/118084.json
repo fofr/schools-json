@@ -1,0 +1,18 @@
+{
+  "urn": "118084",
+  "name": "Howden School",
+  "address": "Derwent Road",
+  "locality": "Howden",
+  "address3": "",
+  "town": "Goole",
+  "county": "",
+  "postcode": "DN14 7AL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "475238",
+  "northing": "428628",
+  "url": "http://hs.eriding.net/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

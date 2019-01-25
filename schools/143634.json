@@ -1,0 +1,18 @@
+{
+  "urn": "143634",
+  "name": "St Benedict's Catholic High School",
+  "address": "Kinwarton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Alcester",
+  "county": "Warwickshire",
+  "postcode": "B49 6PX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "409229",
+  "northing": "257717",
+  "url": "http://www.st-benedicts.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137922",
+  "name": "Saint Michael's Catholic High School",
+  "address": "High Elms Lane",
+  "locality": "Garston",
+  "address3": "",
+  "town": "Watford",
+  "county": "Hertfordshire",
+  "postcode": "WD25 0SS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "511644",
+  "northing": "201324",
+  "url": "www.stmichaelscatholichighschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

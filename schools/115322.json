@@ -1,0 +1,18 @@
+{
+  "urn": "115322",
+  "name": "Beauchamps High School",
+  "address": "Beauchamps Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Wickford",
+  "county": "Essex",
+  "postcode": "SS11 8LY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "576104",
+  "northing": "193520",
+  "url": "http://www.beauchamps.essex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

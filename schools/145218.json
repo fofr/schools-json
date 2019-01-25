@@ -1,0 +1,18 @@
+{
+  "urn": "145218",
+  "name": "Rykneld Primary School",
+  "address": "Main Street",
+  "locality": "Branston",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE14 3EX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "422312",
+  "northing": "321262",
+  "url": "www.rykneld.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

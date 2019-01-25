@@ -1,0 +1,18 @@
+{
+  "urn": "130408",
+  "name": "Ealing, Hammersmith and West London College",
+  "address": "Gliddon Road",
+  "locality": "Barons Court",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W14 9BL",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "524088",
+  "northing": "178503",
+  "url": "www.wlc.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

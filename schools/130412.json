@@ -1,0 +1,18 @@
+{
+  "urn": "130412",
+  "name": "Morley College",
+  "address": "61 Westminster Bridge Road",
+  "locality": "Waterloo",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE1 7HT",
+  "minimum_age": "18",
+  "maximum_age": "99",
+  "easting": "531293",
+  "northing": "179353",
+  "url": "www.morleycollege.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

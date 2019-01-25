@@ -1,0 +1,18 @@
+{
+  "urn": "127113",
+  "name": "Coundon Infant School",
+  "address": "Southbank Road",
+  "locality": "Coundon",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV6 1EY",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "431481",
+  "northing": "280266",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

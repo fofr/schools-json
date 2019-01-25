@@ -1,0 +1,18 @@
+{
+  "urn": "130794",
+  "name": "Ruskin College",
+  "address": "Dunstan Road",
+  "locality": "Old Headington",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 9BZ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "454275",
+  "northing": "207780",
+  "url": "www.ruskin.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

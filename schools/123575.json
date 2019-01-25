@@ -1,0 +1,18 @@
+{
+  "urn": "123575",
+  "name": "St Martins School (3-16 Learning Community)",
+  "address": "Moors Bank",
+  "locality": "St Martins",
+  "address3": "",
+  "town": "Oswestry",
+  "county": "Shropshire",
+  "postcode": "SY10 7BD",
+  "minimum_age": "3",
+  "maximum_age": "16",
+  "easting": "331546",
+  "northing": "336148",
+  "url": "stmartins3-16.org",
+  "phase": "All through",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

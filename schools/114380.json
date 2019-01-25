@@ -1,0 +1,18 @@
+{
+  "urn": "114380",
+  "name": "Westdene Primary School",
+  "address": "Bankside",
+  "locality": "Westdene",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN1 5GN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529396",
+  "northing": "108305",
+  "url": "www.westdene.brighton-hove.dbprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

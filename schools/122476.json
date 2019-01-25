@@ -1,0 +1,18 @@
+{
+  "urn": "122476",
+  "name": "Crabtree Farm Primary School",
+  "address": "Steadfold Close",
+  "locality": "Crabtree Road",
+  "address3": "Bulwell",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG6 8AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453622",
+  "northing": "344623",
+  "url": "www.crabtreefarmprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

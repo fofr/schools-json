@@ -1,0 +1,18 @@
+{
+  "urn": "144909",
+  "name": "Broadfield Academy",
+  "address": "Windmill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hemel Hempstead",
+  "county": "Hertfordshire",
+  "postcode": "HP2 4BX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "506474",
+  "northing": "207247",
+  "url": "www.broadfieldprimary.herts.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

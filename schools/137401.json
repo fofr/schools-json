@@ -1,0 +1,18 @@
+{
+  "urn": "137401",
+  "name": "Woodbrook Vale School",
+  "address": "Grasmere Road",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 2ST",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "452895",
+  "northing": "317097",
+  "url": "http://www.wbvs.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

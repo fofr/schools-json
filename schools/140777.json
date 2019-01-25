@@ -1,0 +1,18 @@
+{
+  "urn": "140777",
+  "name": "St Mary's Catholic Primary School, Poole",
+  "address": "Devon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH15 3QQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "402317",
+  "northing": "92030",
+  "url": "www.st-marys.poole.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

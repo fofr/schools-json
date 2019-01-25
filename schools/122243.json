@@ -1,0 +1,18 @@
+{
+  "urn": "122243",
+  "name": "Mowbray Primary School",
+  "address": "Stakeford Lane",
+  "locality": "Guide Post",
+  "address3": "",
+  "town": "Choppington",
+  "county": "Northumberland",
+  "postcode": "NE62 5HQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "425867",
+  "northing": "585381",
+  "url": "www.mowbrayprimary.northumberland.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

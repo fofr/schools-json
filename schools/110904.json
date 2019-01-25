@@ -1,0 +1,18 @@
+{
+  "urn": "110904",
+  "name": "Stanground College",
+  "address": "Peterborough Road",
+  "locality": "",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 3BY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "520340",
+  "northing": "296032",
+  "url": "http://www.stangroundcollege.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

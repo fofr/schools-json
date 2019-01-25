@@ -1,0 +1,18 @@
+{
+  "urn": "135455",
+  "name": "Cranberry Primary School",
+  "address": "Cranberry Lane",
+  "locality": "Alsager",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Cheshire",
+  "postcode": "ST7 2LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "378376",
+  "northing": "355312",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

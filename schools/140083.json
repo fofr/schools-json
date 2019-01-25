@@ -1,0 +1,18 @@
+{
+  "urn": "140083",
+  "name": "Holmes Chapel Primary School",
+  "address": "Middlewich Road",
+  "locality": "Holmes Chapel",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW4 7EB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "375920",
+  "northing": "367229",
+  "url": "http://www.holmeschapelprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

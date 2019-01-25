@@ -1,0 +1,18 @@
+{
+  "urn": "111605",
+  "name": "St Helen's Primary School",
+  "address": "Durham Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS24 0HG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "452513",
+  "northing": "534247",
+  "url": "www.sthelensprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

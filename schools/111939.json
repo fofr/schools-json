@@ -1,0 +1,18 @@
+{
+  "urn": "111939",
+  "name": "Tintagel Primary School",
+  "address": "Treven",
+  "locality": "",
+  "address3": "",
+  "town": "Tintagel",
+  "county": "Cornwall",
+  "postcode": "PL34 0DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "205849",
+  "northing": "87823",
+  "url": "www.tintagel.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

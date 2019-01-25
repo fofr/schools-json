@@ -1,0 +1,18 @@
+{
+  "urn": "107400",
+  "name": "Burley Middle School",
+  "address": "Langford Lane",
+  "locality": "Burley-in-Wharfedale",
+  "address3": "",
+  "town": "Ilkley",
+  "county": "West Yorkshire",
+  "postcode": "LS29 7EJ",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "416594",
+  "northing": "446038",
+  "url": "",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

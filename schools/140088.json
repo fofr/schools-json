@@ -1,0 +1,18 @@
+{
+  "urn": "140088",
+  "name": "Raglan Primary School",
+  "address": "Raglan Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR2 9NL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "541482",
+  "northing": "168152",
+  "url": "http://raglanprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

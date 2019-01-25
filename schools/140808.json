@@ -1,0 +1,18 @@
+{
+  "urn": "140808",
+  "name": "Banstead Infant School",
+  "address": "The Horseshoe",
+  "locality": "",
+  "address3": "",
+  "town": "Banstead",
+  "county": "Surrey",
+  "postcode": "SM7 2BQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "524853",
+  "northing": "159613",
+  "url": "http://www.bansteadinfant.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

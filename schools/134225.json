@@ -1,0 +1,18 @@
+{
+  "urn": "134225",
+  "name": "Harris Academy Peckham",
+  "address": "112 Peckham Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE15 5DZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "533853",
+  "northing": "176621",
+  "url": "http://www.harrispeckham.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

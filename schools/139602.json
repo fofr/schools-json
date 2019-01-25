@@ -1,0 +1,18 @@
+{
+  "urn": "139602",
+  "name": "Scientia Academy",
+  "address": "Mona Road",
+  "locality": "",
+  "address3": "",
+  "town": "Burton-upon-Trent",
+  "county": "",
+  "postcode": "DE13 0UF",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "423701",
+  "northing": "324617",
+  "url": "www.scientiaacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

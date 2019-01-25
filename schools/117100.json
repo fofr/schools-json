@@ -1,0 +1,18 @@
+{
+  "urn": "117100",
+  "name": "Flamstead Village School",
+  "address": "Trowley Hill Road",
+  "locality": "Flamstead",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL3 8DL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "507824",
+  "northing": "214197",
+  "url": "http://www.flamsteadjmi.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

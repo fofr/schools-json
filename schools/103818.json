@@ -1,0 +1,18 @@
+{
+  "urn": "103818",
+  "name": "Ashwood Park Primary School",
+  "address": "Bells Lane",
+  "locality": "Wordsley",
+  "address3": "",
+  "town": "Stourbridge",
+  "county": "West Midlands",
+  "postcode": "DY8 5DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "388788",
+  "northing": "286041",
+  "url": "http://www.ashwood.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

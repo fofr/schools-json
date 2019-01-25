@@ -1,0 +1,18 @@
+{
+  "urn": "123412",
+  "name": "The Grange Infant School",
+  "address": "York Road",
+  "locality": "Bainbridge Green",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 3QR",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "350003",
+  "northing": "315685",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

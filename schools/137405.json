@@ -1,0 +1,18 @@
+{
+  "urn": "137405",
+  "name": "Westerings Primary Academy",
+  "address": "Sunny Road",
+  "locality": "Hawkwell",
+  "address3": "",
+  "town": "Hockley",
+  "county": "Essex",
+  "postcode": "SS5 4NZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "584096",
+  "northing": "191888",
+  "url": "www.westerings.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

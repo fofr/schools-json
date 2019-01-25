@@ -1,0 +1,18 @@
+{
+  "urn": "111951",
+  "name": "Calstock Community Primary School",
+  "address": "Back Road",
+  "locality": "",
+  "address3": "",
+  "town": "Calstock",
+  "county": "Cornwall",
+  "postcode": "PL18 9QL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "243776",
+  "northing": "68671",
+  "url": "http://www.calstock.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105771",
+  "name": "Hill Top Community Primary School",
+  "address": "Hill Top Drive",
+  "locality": "Kirkholt",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL11 2EH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "390159",
+  "northing": "410523",
+  "url": "http://www.hilltop.rochdale.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

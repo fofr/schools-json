@@ -1,0 +1,18 @@
+{
+  "urn": "142492",
+  "name": "Court-De-Wyck Church School",
+  "address": "Bishops Road",
+  "locality": "Claverham",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Somerset",
+  "postcode": "BS49 4NF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "344801",
+  "northing": "165998",
+  "url": "http://www.courtdewyck.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

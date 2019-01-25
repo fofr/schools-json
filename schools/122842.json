@@ -1,0 +1,18 @@
+{
+  "urn": "122842",
+  "name": "Haywood School",
+  "address": "Edwards Lane",
+  "locality": "Sherwood",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 3HZ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "457138",
+  "northing": "344397",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

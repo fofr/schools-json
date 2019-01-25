@@ -1,0 +1,18 @@
+{
+  "urn": "118415",
+  "name": "Newington Infant School",
+  "address": "Melbourne Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Ramsgate",
+  "county": "Kent",
+  "postcode": "CT12 6JS",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "636546",
+  "northing": "165924",
+  "url": "http://www.newingtoninfant.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

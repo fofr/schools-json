@@ -1,0 +1,18 @@
+{
+  "urn": "128127",
+  "name": "Pendower Primary School",
+  "address": "Fox and Hounds Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE15 6PE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "421100",
+  "northing": "564500",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

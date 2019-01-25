@@ -1,0 +1,18 @@
+{
+  "urn": "137834",
+  "name": "Mayfield Grammar School, Gravesend",
+  "address": "Pelham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA11 0JE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "564094",
+  "northing": "173489",
+  "url": "http://www.mgsg.kent.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

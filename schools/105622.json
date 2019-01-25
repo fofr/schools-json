@@ -1,0 +1,18 @@
+{
+  "urn": "105622",
+  "name": "Grange School",
+  "address": "Matthews Lane",
+  "locality": "Gorton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "Greater Manchester",
+  "postcode": "M12 4GR",
+  "minimum_age": "4",
+  "maximum_age": "19",
+  "easting": "388069",
+  "northing": "394961",
+  "url": "www.grange.manchester.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

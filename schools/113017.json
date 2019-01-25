@@ -1,0 +1,18 @@
+{
+  "urn": "113017",
+  "name": "Derby High School",
+  "address": "Hillsway",
+  "locality": "Littleover",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE23 3DT",
+  "minimum_age": "3",
+  "maximum_age": "18",
+  "easting": "432659",
+  "northing": "334176",
+  "url": "www.derbyhigh.derby.sch.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

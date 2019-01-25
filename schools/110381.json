@@ -1,0 +1,18 @@
+{
+  "urn": "110381",
+  "name": "Giffard Park Primary School",
+  "address": "Broadway Avenue",
+  "locality": "Giffard Park",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 5PY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "486093",
+  "northing": "242454",
+  "url": "http://www.giffardpark.milton-keynes.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

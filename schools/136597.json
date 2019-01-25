@@ -1,0 +1,18 @@
+{
+  "urn": "136597",
+  "name": "Mount Hawke Academy",
+  "address": "Rodda's Road",
+  "locality": "Mount Hawke",
+  "address3": "",
+  "town": "Truro",
+  "county": "Cornwall",
+  "postcode": "TR4 8BA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "171701",
+  "northing": "47476",
+  "url": "www.mounthawke.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

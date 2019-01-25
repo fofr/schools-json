@@ -1,0 +1,18 @@
+{
+  "urn": "127713",
+  "name": "Shirebrook Primary School",
+  "address": "Spa Lane",
+  "locality": "Woodhouse",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S13 7PG",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "442207",
+  "northing": "384508",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

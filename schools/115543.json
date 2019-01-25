@@ -1,0 +1,18 @@
+{
+  "urn": "115543",
+  "name": "Uplands Community Primary School",
+  "address": "Thompson Road",
+  "locality": "Uplands",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL5 1TE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "385532",
+  "northing": "205770",
+  "url": "http://www.uplandsprimarystroud.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

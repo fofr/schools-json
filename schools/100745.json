@@ -1,0 +1,18 @@
+{
+  "urn": "100745",
+  "name": "Forest Hill School",
+  "address": "Dacres Road",
+  "locality": "Forest Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE23 2XN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "535796",
+  "northing": "172139",
+  "url": "http://www.foresthillschool.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

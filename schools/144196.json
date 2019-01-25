@@ -1,0 +1,18 @@
+{
+  "urn": "144196",
+  "name": "Milton School",
+  "address": "Storey Street",
+  "locality": "Swinton",
+  "address3": "",
+  "town": "Mexborough",
+  "county": "South Yorkshire",
+  "postcode": "S64 8QG",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "445563",
+  "northing": "399314",
+  "url": "www.miltonschoolswinton.co.uk",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

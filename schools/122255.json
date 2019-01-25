@@ -1,0 +1,18 @@
+{
+  "urn": "122255",
+  "name": "Croftway Primary School",
+  "address": "William Street",
+  "locality": "",
+  "address3": "",
+  "town": "Blyth",
+  "county": "Northumberland",
+  "postcode": "NE24 2HP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "431330",
+  "northing": "581016",
+  "url": "http://www.croftway.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

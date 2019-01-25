@@ -1,0 +1,18 @@
+{
+  "urn": "142453",
+  "name": "Winton Primary School",
+  "address": "Oswald Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH9 2TG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "408452",
+  "northing": "94699",
+  "url": "http://www.wintonprimary.bournemouth.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125546",
+  "name": "Grove Farm First School",
+  "address": "Kingswood Road",
+  "locality": "Stockingford",
+  "address3": "",
+  "town": "Nuneaton",
+  "county": "Warwickshire",
+  "postcode": "CV10 8QE",
+  "minimum_age": "5",
+  "maximum_age": "8",
+  "easting": "432500",
+  "northing": "291700",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

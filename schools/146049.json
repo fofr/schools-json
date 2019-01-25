@@ -1,0 +1,18 @@
+{
+  "urn": "146049",
+  "name": "Cullingworth Village Primary School",
+  "address": "New School Lane",
+  "locality": "Off Halifax Road",
+  "address3": "Cullingworth",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD13 5DA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406625",
+  "northing": "436513",
+  "url": "www.cullingworth.bradford.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

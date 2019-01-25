@@ -1,0 +1,18 @@
+{
+  "urn": "131784",
+  "name": "Grangefield Primary School",
+  "address": "Voxwell Lane",
+  "locality": "Bishops Cleeve",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL52 8GL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "395525",
+  "northing": "227052",
+  "url": "www.grangefield.gloucs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

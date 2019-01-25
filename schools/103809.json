@@ -1,0 +1,18 @@
+{
+  "urn": "103809",
+  "name": "Withymoor Primary School",
+  "address": "Gayfield Avenue",
+  "locality": "Off Turners Lane",
+  "address3": "",
+  "town": "Brierley Hill",
+  "county": "West Midlands",
+  "postcode": "DY5 2BH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "391822",
+  "northing": "286225",
+  "url": "www.withymoor.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

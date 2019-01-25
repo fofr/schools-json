@@ -1,0 +1,18 @@
+{
+  "urn": "117586",
+  "name": "Marlborough School",
+  "address": "Watling Street",
+  "locality": "",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL1 2QA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "514073",
+  "northing": "205711",
+  "url": "http://www.marlborough.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

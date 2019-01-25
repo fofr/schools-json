@@ -1,0 +1,18 @@
+{
+  "urn": "110715",
+  "name": "Warboys Community Primary School",
+  "address": "Humberdale Way",
+  "locality": "Warboys",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 2RX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "530522",
+  "northing": "280432",
+  "url": "www.warboys.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

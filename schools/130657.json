@@ -1,0 +1,18 @@
+{
+  "urn": "130657",
+  "name": "Bishop Auckland College",
+  "address": "Woodhouse Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bishop Auckland",
+  "county": "County Durham",
+  "postcode": "DL14 6JZ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "419782",
+  "northing": "528467",
+  "url": "http://www.bishopaucklandcollege.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

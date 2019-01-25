@@ -1,0 +1,18 @@
+{
+  "urn": "138026",
+  "name": "Webheath Academy Primary School",
+  "address": "Downsell Road",
+  "locality": "Webheath",
+  "address3": "",
+  "town": "Redditch",
+  "county": "Worcestershire",
+  "postcode": "B97 5RJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "402247",
+  "northing": "266581",
+  "url": "www.webheath.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

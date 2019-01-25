@@ -1,0 +1,18 @@
+{
+  "urn": "139346",
+  "name": "St Joseph's Primary School",
+  "address": "St Joseph's Road",
+  "locality": "Handsworth",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S13 9AT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "440973",
+  "northing": "386301",
+  "url": "www.st-josephs.sheffield.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "126263",
+  "name": "Mere School",
+  "address": "Springfield Road",
+  "locality": "Mere",
+  "address3": "",
+  "town": "Warminster",
+  "county": "Wiltshire",
+  "postcode": "BA12 6EW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "381709",
+  "northing": "132474",
+  "url": "http://www.mereschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

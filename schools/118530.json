@@ -1,0 +1,18 @@
+{
+  "urn": "118530",
+  "name": "Chilton Primary School",
+  "address": "Chilton Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ramsgate",
+  "county": "Kent",
+  "postcode": "CT11 0LQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "636338",
+  "northing": "164593",
+  "url": "http://www.chiltonprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

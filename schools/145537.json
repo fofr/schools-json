@@ -1,0 +1,18 @@
+{
+  "urn": "145537",
+  "name": "Greenacres Primary Academy",
+  "address": "Dunkerley Street",
+  "locality": "",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL4 2AX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394219",
+  "northing": "405383",
+  "url": "www.greenacres.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

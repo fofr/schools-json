@@ -1,0 +1,18 @@
+{
+  "urn": "100001",
+  "name": "City of London School for Girls",
+  "address": "St Giles' Terrace",
+  "locality": "Barbican",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "EC2Y 8BB",
+  "minimum_age": "7",
+  "maximum_age": "18",
+  "easting": "532301",
+  "northing": "181746",
+  "url": "http://www.clsg.org.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "127259",
+  "name": "Butler County Infant School",
+  "address": "Butler Street",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L6 9EU",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "336771",
+  "northing": "391359",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

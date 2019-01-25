@@ -1,0 +1,18 @@
+{
+  "urn": "120855",
+  "name": "Surlingham Community Primary School",
+  "address": "Walnut Hill",
+  "locality": "Surlingham",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR14 7DQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "631281",
+  "northing": "306472",
+  "url": "www.surlinghamschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

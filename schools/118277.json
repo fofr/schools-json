@@ -1,0 +1,18 @@
+{
+  "urn": "118277",
+  "name": "Kemsing Primary School",
+  "address": "West End",
+  "locality": "Kemsing",
+  "address3": "",
+  "town": "Sevenoaks",
+  "county": "Kent",
+  "postcode": "TN15 6PU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "555461",
+  "northing": "158873",
+  "url": "http://www.kemsing.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

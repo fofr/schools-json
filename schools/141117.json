@@ -1,0 +1,18 @@
+{
+  "urn": "141117",
+  "name": "St. Mary Cray Primary Academy",
+  "address": "High Street",
+  "locality": "St Mary Cray",
+  "address3": "",
+  "town": "Orpington",
+  "county": "Kent",
+  "postcode": "BR5 4AR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "547207",
+  "northing": "167462",
+  "url": "www.st-marycray.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

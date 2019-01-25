@@ -1,0 +1,18 @@
+{
+  "urn": "121285",
+  "name": "Westfield Junior School",
+  "address": "Askham Lane",
+  "locality": "Acomb",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO24 3HP",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "456580",
+  "northing": "450769",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

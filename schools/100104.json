@@ -1,0 +1,18 @@
+{
+  "urn": "100104",
+  "name": "Briset Centre",
+  "address": "Briset School",
+  "locality": "Briset",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 6HN",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "541763",
+  "northing": "175533",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

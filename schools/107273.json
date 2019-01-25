@@ -1,0 +1,18 @@
+{
+  "urn": "107273",
+  "name": "Silsden Primary School",
+  "address": "Elliott Street",
+  "locality": "Silsden",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD20 0AW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "404091",
+  "northing": "446266",
+  "url": "www.silsdenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

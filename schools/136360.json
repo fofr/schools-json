@@ -1,0 +1,18 @@
+{
+  "urn": "136360",
+  "name": "Chellaston Academy",
+  "address": "Swarkestone Road",
+  "locality": "Chellaston",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE73 5UB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "437832",
+  "northing": "330031",
+  "url": "http://www.chellaston.derby.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

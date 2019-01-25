@@ -1,0 +1,18 @@
+{
+  "urn": "101717",
+  "name": "Davidson Infant School",
+  "address": "Dartnell Road",
+  "locality": "Addiscombe",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 6JA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "533675",
+  "northing": "166776",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

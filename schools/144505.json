@@ -1,0 +1,18 @@
+{
+  "urn": "144505",
+  "name": "King's Academy Ringmer",
+  "address": "Lewes Road",
+  "locality": "Ringmer",
+  "address3": "",
+  "town": "Lewes",
+  "county": "East Sussex",
+  "postcode": "BN8 5RB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "545474",
+  "northing": "112699",
+  "url": "www.kgaringmer.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "141074",
+  "name": "Woodhouse Academy",
+  "address": "Woodhouse Lane",
+  "locality": "Biddulph",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST8 7DR",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "389204",
+  "northing": "358782",
+  "url": "http://www.woodhouseacademy.staffs.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

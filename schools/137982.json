@@ -1,0 +1,18 @@
+{
+  "urn": "137982",
+  "name": "Beacon Academy",
+  "address": "North Beeches Road",
+  "locality": "",
+  "address3": "",
+  "town": "Crowborough",
+  "county": "East Sussex",
+  "postcode": "TN6 2AS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "552318",
+  "northing": "130706",
+  "url": "http://www.beacon-academy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

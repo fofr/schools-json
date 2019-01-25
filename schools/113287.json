@@ -1,0 +1,18 @@
+{
+  "urn": "113287",
+  "name": "Stoke Damerel Primary School",
+  "address": "Collingwood Road",
+  "locality": "Stoke",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL1 5PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "246105",
+  "northing": "55228",
+  "url": "www.sdps.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

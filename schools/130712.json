@@ -1,0 +1,18 @@
+{
+  "urn": "130712",
+  "name": "Worcester College of Technology",
+  "address": "Deansway",
+  "locality": "",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR1 2JF",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "384910",
+  "northing": "254669",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

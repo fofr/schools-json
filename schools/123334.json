@@ -1,0 +1,18 @@
+{
+  "urn": "123334",
+  "name": "Springfield School",
+  "address": "At the Bronze Barrow",
+  "locality": "Cedar Drive",
+  "address3": "",
+  "town": "Witney",
+  "county": "Oxfordshire",
+  "postcode": "OX28 1AR",
+  "minimum_age": "2",
+  "maximum_age": "16",
+  "easting": "436823",
+  "northing": "210564",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

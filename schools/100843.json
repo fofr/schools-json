@@ -1,0 +1,18 @@
+{
+  "urn": "100843",
+  "name": "Walworth School",
+  "address": "Shorncliffe Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE1 5UJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "533441",
+  "northing": "178209",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

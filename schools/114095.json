@@ -1,0 +1,18 @@
+{
+  "urn": "114095",
+  "name": "Fishburn Primary School",
+  "address": "East View",
+  "locality": "Fishburn",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "",
+  "postcode": "TS21 4AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "436515",
+  "northing": "532268",
+  "url": "www.fishburn.durham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

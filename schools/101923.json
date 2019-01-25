@@ -1,0 +1,18 @@
+{
+  "urn": "101923",
+  "name": "St Gregory's Catholic Primary School",
+  "address": "Woodfield Road",
+  "locality": "Ealing",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W5 1SL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "517570",
+  "northing": "181970",
+  "url": "www.st-gregorys.ealing.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

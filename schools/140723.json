@@ -1,0 +1,18 @@
+{
+  "urn": "140723",
+  "name": "Harlands Primary School",
+  "address": "Penland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Haywards Heath",
+  "county": "West Sussex",
+  "postcode": "RH16 1PJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "532633",
+  "northing": "125239",
+  "url": "www.harlandsprimaryschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

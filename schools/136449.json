@@ -1,0 +1,18 @@
+{
+  "urn": "136449",
+  "name": "Reading School",
+  "address": "Erleigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG1 5LW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "472757",
+  "northing": "172673",
+  "url": "http://www.reading-school.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

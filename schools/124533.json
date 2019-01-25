@@ -1,0 +1,18 @@
+{
+  "urn": "124533",
+  "name": "Clare Community Primary School",
+  "address": "Erbury Place",
+  "locality": "Clare",
+  "address3": "",
+  "town": "Sudbury",
+  "county": "Suffolk",
+  "postcode": "CO10 8PZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "576742",
+  "northing": "245591",
+  "url": "www.clareprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

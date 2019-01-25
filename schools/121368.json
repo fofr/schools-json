@@ -1,0 +1,18 @@
+{
+  "urn": "121368",
+  "name": "Alverton Primary School",
+  "address": "Mount Road",
+  "locality": "",
+  "address3": "Alverton CP School",
+  "town": "Northallerton",
+  "county": "North Yorkshire",
+  "postcode": "DL6 1RB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "437729",
+  "northing": "494509",
+  "url": "www.alverton.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103233",
+  "name": "Marsh Hill Primary School",
+  "address": "Marsh Hill",
+  "locality": "Erdington",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B23 7HY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "408994",
+  "northing": "291911",
+  "url": "www.marshill.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

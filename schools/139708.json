@@ -1,0 +1,18 @@
+{
+  "urn": "139708",
+  "name": "The Kidsgrove Secondary School",
+  "address": "Gloucester Road",
+  "locality": "Kidsgrove",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 4DL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "384487",
+  "northing": "355223",
+  "url": "http://www.uakidsgrove.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140675",
+  "name": "St Ives School",
+  "address": "Higher Tregenna",
+  "locality": "",
+  "address3": "",
+  "town": "St Ives",
+  "county": "Cornwall",
+  "postcode": "TR26 2BB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "151733",
+  "northing": "39332",
+  "url": "http://www.st-ives.cornwall.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

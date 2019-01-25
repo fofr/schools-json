@@ -1,0 +1,18 @@
+{
+  "urn": "127845",
+  "name": "Leopold First School",
+  "address": "Leopold Street",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS7 4AW",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "430935",
+  "northing": "435189",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

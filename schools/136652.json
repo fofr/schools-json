@@ -1,0 +1,18 @@
+{
+  "urn": "136652",
+  "name": "The Arnewood School",
+  "address": "Gore Road",
+  "locality": "",
+  "address3": "",
+  "town": "New Milton",
+  "county": "Hampshire",
+  "postcode": "BH25 6RS",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "423816",
+  "northing": "94609",
+  "url": "http://www.arnewood.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

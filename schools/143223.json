@@ -1,0 +1,18 @@
+{
+  "urn": "143223",
+  "name": "Stepney Primary School",
+  "address": "Beverley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU5 1JJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "508951",
+  "northing": "430437",
+  "url": "www.stepney.hull.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

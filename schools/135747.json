@@ -1,0 +1,18 @@
+{
+  "urn": "135747",
+  "name": "JCoSS",
+  "address": "Castle Wood Road",
+  "locality": "",
+  "address3": "",
+  "town": "New Barnet",
+  "county": "Hertfordshire",
+  "postcode": "EN4 9GE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "526710",
+  "northing": "196751",
+  "url": "www.jcoss.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

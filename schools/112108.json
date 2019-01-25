@@ -1,0 +1,18 @@
+{
+  "urn": "112108",
+  "name": "Cumwhinton School",
+  "address": "School Road",
+  "locality": "Cumwhinton",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA4 8DU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "345348",
+  "northing": "552689",
+  "url": "www.cumwhinton.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

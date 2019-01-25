@@ -1,0 +1,18 @@
+{
+  "urn": "112636",
+  "name": "Newhall Infant School",
+  "address": "Sunnyside",
+  "locality": "Newhall",
+  "address3": "",
+  "town": "Swadlincote",
+  "county": "Derbyshire",
+  "postcode": "DE11 0TJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "428567",
+  "northing": "321013",
+  "url": "www.newhallinfants.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

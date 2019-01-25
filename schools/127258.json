@@ -1,0 +1,18 @@
+{
+  "urn": "127258",
+  "name": "Broadgreen County Infant School",
+  "address": "Hill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L13 5TF",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "339285",
+  "northing": "390848",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

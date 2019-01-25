@@ -1,0 +1,18 @@
+{
+  "urn": "139290",
+  "name": "Academy@Worden",
+  "address": "Westfield Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Leyland",
+  "county": "Lancashire",
+  "postcode": "PR25 1QX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "353036",
+  "northing": "422132",
+  "url": "http://www.academyatworden.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

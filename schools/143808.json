@@ -1,0 +1,18 @@
+{
+  "urn": "143808",
+  "name": "de Stafford School",
+  "address": "Burntwood Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Caterham",
+  "county": "Surrey",
+  "postcode": "CR3 5YX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "533647",
+  "northing": "156639",
+  "url": "www.destafford.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

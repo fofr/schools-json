@@ -1,0 +1,18 @@
+{
+  "urn": "136884",
+  "name": "Aylesbury Grammar School",
+  "address": "Walton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP21 7RP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "482718",
+  "northing": "213496",
+  "url": "http://www.ags.bucks.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

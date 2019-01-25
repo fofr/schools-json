@@ -1,0 +1,18 @@
+{
+  "urn": "145206",
+  "name": "East Hunsbury Primary School",
+  "address": "Penvale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN4 0QW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "474904",
+  "northing": "256956",
+  "url": "www.easthunsburyprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

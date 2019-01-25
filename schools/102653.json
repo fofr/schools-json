@@ -1,0 +1,18 @@
+{
+  "urn": "102653",
+  "name": "Cranmer Primary School",
+  "address": "Cranmer Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mitcham",
+  "county": "Surrey",
+  "postcode": "CR4 4XU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527753",
+  "northing": "168045",
+  "url": "www.cranmer.merton.lgfl.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136923",
+  "name": "St Augustine Academy",
+  "address": "Oakwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME16 8AE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "574440",
+  "northing": "155313",
+  "url": "http://www.saa.woodard.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

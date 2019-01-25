@@ -1,0 +1,18 @@
+{
+  "urn": "135650",
+  "name": "The Open Academy",
+  "address": "Salhouse Road",
+  "locality": "",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR7 9DL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "625082",
+  "northing": "310392",
+  "url": "http://www.open-academy.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

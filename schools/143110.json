@@ -1,0 +1,18 @@
+{
+  "urn": "143110",
+  "name": "Red Hill Primary School",
+  "address": "Red Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Chislehurst",
+  "county": "Kent",
+  "postcode": "BR7 6DA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "543518",
+  "northing": "171152",
+  "url": "www.redhill.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

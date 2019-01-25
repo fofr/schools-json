@@ -1,0 +1,18 @@
+{
+  "urn": "121684",
+  "name": "Fulford School",
+  "address": "Fulfordgate",
+  "locality": "Heslington Lane",
+  "address3": "Fulford",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO10 4FY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "461355",
+  "northing": "449316",
+  "url": "www.fulford.york.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

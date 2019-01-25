@@ -1,0 +1,18 @@
+{
+  "urn": "114813",
+  "name": "Wickford Primary School",
+  "address": "Market Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wickford",
+  "county": "Essex",
+  "postcode": "SS12 0AG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "574377",
+  "northing": "193502",
+  "url": "http://wickfordprimary.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106070",
+  "name": "Peacefield Primary School",
+  "address": "Cross Lane",
+  "locality": "Marple",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK6 7PZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "395184",
+  "northing": "388360",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

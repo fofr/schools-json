@@ -1,0 +1,18 @@
+{
+  "urn": "142798",
+  "name": "The Prescot School",
+  "address": "Knowsley Park Lane",
+  "locality": "Prescot",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L34 3NB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "346181",
+  "northing": "393037",
+  "url": "http://www.prescotschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

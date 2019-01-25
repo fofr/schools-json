@@ -1,0 +1,18 @@
+{
+  "urn": "130615",
+  "name": "Hills Road Sixth Form College",
+  "address": "Hills Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB2 8PE",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "546093",
+  "northing": "256570",
+  "url": "http://www.hillsroad.ac.uk/",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

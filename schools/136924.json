@@ -1,0 +1,18 @@
+{
+  "urn": "136924",
+  "name": "Woodrush High School",
+  "address": "Shawhurst Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Wythall",
+  "county": "Worcestershire",
+  "postcode": "B47 5JW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "408361",
+  "northing": "276696",
+  "url": "http://www.woodrushhigh.worcs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

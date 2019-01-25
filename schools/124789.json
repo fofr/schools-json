@@ -1,0 +1,18 @@
+{
+  "urn": "124789",
+  "name": "Riverside Middle School",
+  "address": "Sheldrick Way",
+  "locality": "Mildenhall",
+  "address3": "",
+  "town": "Bury St Edmunds",
+  "county": "Suffolk",
+  "postcode": "IP28 7JX",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "570521",
+  "northing": "274605",
+  "url": "http://www.riverside.suffolk.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

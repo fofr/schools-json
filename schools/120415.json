@@ -1,0 +1,18 @@
+{
+  "urn": "120415",
+  "name": "Kirton Primary School",
+  "address": "Station Road",
+  "locality": "Kirton",
+  "address3": "",
+  "town": "Boston",
+  "county": "Lincolnshire",
+  "postcode": "PE20 1HY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530779",
+  "northing": "338581",
+  "url": "www.kirton-boston.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

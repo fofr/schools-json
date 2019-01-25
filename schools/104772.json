@@ -1,0 +1,18 @@
+{
+  "urn": "104772",
+  "name": "Willow Tree Primary School",
+  "address": "Willow Tree Avenue",
+  "locality": "Leach Lane",
+  "address3": "Sutton Leach",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA9 4LZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "352620",
+  "northing": "391825",
+  "url": "www.willowtree.st-helens.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

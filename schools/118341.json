@@ -1,0 +1,18 @@
+{
+  "urn": "118341",
+  "name": "Lower Halstow Primary School",
+  "address": "School Lane",
+  "locality": "Lower Halstow",
+  "address3": "",
+  "town": "Sittingbourne",
+  "county": "Kent",
+  "postcode": "ME9 7ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "585951",
+  "northing": "166826",
+  "url": "www.lower-halstow.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

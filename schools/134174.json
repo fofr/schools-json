@@ -1,0 +1,18 @@
+{
+  "urn": "134174",
+  "name": "Bowhill Primary School",
+  "address": "Buddle Lane",
+  "locality": "St Thomas",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX4 1JT",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "290735",
+  "northing": "91779",
+  "url": "www.bowhill.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

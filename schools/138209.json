@@ -1,0 +1,18 @@
+{
+  "urn": "138209",
+  "name": "Ardley Hill Academy",
+  "address": "Lowther Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU6 3NZ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "502243",
+  "northing": "220795",
+  "url": "www.ardleyhill.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

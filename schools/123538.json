@@ -1,0 +1,18 @@
+{
+  "urn": "123538",
+  "name": "Caynham CofE Primary School",
+  "address": "Caynham",
+  "locality": "",
+  "address3": "",
+  "town": "Ludlow",
+  "county": "Shropshire",
+  "postcode": "SY8 3BJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "354960",
+  "northing": "273067",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

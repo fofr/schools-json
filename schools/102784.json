@@ -1,0 +1,18 @@
+{
+  "urn": "102784",
+  "name": "Eastlea Community School",
+  "address": "Pretoria Road",
+  "locality": "Canning Town",
+  "address3": "",
+  "town": "London",
+  "county": "Essex",
+  "postcode": "E16 4NP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "539444",
+  "northing": "182328",
+  "url": "http://www.eastlea.newham.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

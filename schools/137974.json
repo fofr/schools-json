@@ -1,0 +1,18 @@
+{
+  "urn": "137974",
+  "name": "Aldridge School - A Science College",
+  "address": "Tynings Lane",
+  "locality": "Aldridge",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS9 0BG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "405147",
+  "northing": "300003",
+  "url": "http://www.aldridgeschool.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

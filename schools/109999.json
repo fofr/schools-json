@@ -1,0 +1,18 @@
+{
+  "urn": "109999",
+  "name": "Binfield Church of England Primary School",
+  "address": "Benetfeld Road",
+  "locality": "Binfield",
+  "address3": "",
+  "town": "Bracknell",
+  "county": "Berkshire",
+  "postcode": "RG42 4EW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "484125",
+  "northing": "170811",
+  "url": "http://www.binfieldschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

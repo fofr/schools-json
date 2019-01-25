@@ -1,0 +1,18 @@
+{
+  "urn": "126092",
+  "name": "Steyning Grammar School",
+  "address": "Shooting Field",
+  "locality": "",
+  "address3": "",
+  "town": "Steyning",
+  "county": "West Sussex",
+  "postcode": "BN44 3RX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "517593",
+  "northing": "111759",
+  "url": "http://www.sgs.uk.net/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

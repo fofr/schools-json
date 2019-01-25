@@ -1,0 +1,18 @@
+{
+  "urn": "121665",
+  "name": "Ryedale School",
+  "address": "Gale Lane",
+  "locality": "Nawton",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO62 7SL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "465530",
+  "northing": "484350",
+  "url": "http://ryedaleschool.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

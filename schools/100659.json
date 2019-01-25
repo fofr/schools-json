@@ -1,0 +1,18 @@
+{
+  "urn": "100659",
+  "name": "Elm Court School",
+  "address": "Elm Park",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW2 2EF",
+  "minimum_age": "9",
+  "maximum_age": "19",
+  "easting": "530976",
+  "northing": "173788",
+  "url": "www.elmcourt.lambeth.sch.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101773",
+  "name": "Forestdale Primary School",
+  "address": "Pixton Way",
+  "locality": "",
+  "address3": "",
+  "town": "Croydon",
+  "county": "Surrey",
+  "postcode": "CR0 9JE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "536631",
+  "northing": "162965",
+  "url": "www.forestdale.croydon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

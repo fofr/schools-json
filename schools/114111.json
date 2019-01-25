@@ -1,0 +1,18 @@
+{
+  "urn": "114111",
+  "name": "Cockton Hill Infant School",
+  "address": "McIntyre Terrace",
+  "locality": "Cockton Hill",
+  "address3": "",
+  "town": "Bishop Auckland",
+  "county": "County Durham",
+  "postcode": "DL14 6HW",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "421105",
+  "northing": "528657",
+  "url": "http://www.cocktonhill-inf.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

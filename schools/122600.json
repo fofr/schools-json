@@ -1,0 +1,18 @@
+{
+  "urn": "122600",
+  "name": "West Bridgford Junior School",
+  "address": "Exchange Road",
+  "locality": "West Bridgford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 6DB",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "458975",
+  "northing": "336806",
+  "url": "http://www.wbjs.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

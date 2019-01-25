@@ -1,0 +1,18 @@
+{
+  "urn": "129556",
+  "name": "St Cuthbert's Nursery School",
+  "address": "Michaelgate",
+  "locality": "",
+  "address3": "",
+  "town": "Lincoln",
+  "county": "Lincolnshire",
+  "postcode": "LN1 3BT",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "497607",
+  "northing": "371657",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

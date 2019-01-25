@@ -1,0 +1,18 @@
+{
+  "urn": "111043",
+  "name": "Hermitage Primary School",
+  "address": "Hermitage Drive",
+  "locality": "Holmes Chapel",
+  "address3": "",
+  "town": "Crewe",
+  "county": "Cheshire",
+  "postcode": "CW4 7NP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "376652",
+  "northing": "367512",
+  "url": "http://www.hermitage.school.cheshire.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

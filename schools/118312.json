@@ -1,0 +1,18 @@
+{
+  "urn": "118312",
+  "name": "St Katherine's School",
+  "address": "St Katherine's Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Snodland",
+  "county": "Kent",
+  "postcode": "ME6 5EJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "569847",
+  "northing": "161292",
+  "url": "http://www.stkatherineskent.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123328",
+  "name": "Penhurst School",
+  "address": "New Street",
+  "locality": "",
+  "address3": "",
+  "town": "Chipping Norton",
+  "county": "Oxfordshire",
+  "postcode": "OX7 5LN",
+  "minimum_age": "5",
+  "maximum_age": "19",
+  "easting": "431073",
+  "northing": "227196",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Non-maintained special school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101657",
+  "name": "Cator Park School",
+  "address": "Lennard Road",
+  "locality": "",
+  "address3": "",
+  "town": "Beckenham",
+  "county": "Kent",
+  "postcode": "BR3 1QR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "536308",
+  "northing": "170396",
+  "url": "http://www.catorpark.bromley.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

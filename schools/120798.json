@@ -1,0 +1,18 @@
+{
+  "urn": "120798",
+  "name": "Colby Primary School",
+  "address": "Bridge Road",
+  "locality": "Colby",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR11 7EA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "623025",
+  "northing": "329472",
+  "url": "http://www.colby.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

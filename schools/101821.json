@@ -1,0 +1,18 @@
+{
+  "urn": "101821",
+  "name": "Thomas More Catholic School",
+  "address": "Russell Hill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Purley",
+  "county": "Surrey",
+  "postcode": "CR8 2XP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "531024",
+  "northing": "162230",
+  "url": "http://www.tmore.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

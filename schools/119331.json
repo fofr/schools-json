@@ -1,0 +1,18 @@
+{
+  "urn": "119331",
+  "name": "Clayton Brook Primary School",
+  "address": "Great Greens Lane",
+  "locality": "Bamber Bridge",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR5 8HL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "357991",
+  "northing": "424198",
+  "url": "www.claytonbrook.lancs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110484",
+  "name": "Buckingham School",
+  "address": "London Road",
+  "locality": "",
+  "address3": "",
+  "town": "Buckingham",
+  "county": "Buckinghamshire",
+  "postcode": "MK18 1AT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "469857",
+  "northing": "233403",
+  "url": "www.buckinghamschool.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119932",
+  "name": "Kegworth Primary School",
+  "address": "High Street",
+  "locality": "Kegworth",
+  "address3": "",
+  "town": "Derby",
+  "county": "Leicestershire",
+  "postcode": "DE74 2DA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "448494",
+  "northing": "326674",
+  "url": "www.kegworthprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

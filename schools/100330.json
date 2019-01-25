@@ -1,0 +1,18 @@
+{
+  "urn": "100330",
+  "name": "New King's Primary School",
+  "address": "New King's Road",
+  "locality": "Fulham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW6 4LY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524737",
+  "northing": "176318",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

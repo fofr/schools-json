@@ -1,0 +1,18 @@
+{
+  "urn": "141289",
+  "name": "Welholme Academy",
+  "address": "Welholme Road",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "North East Lincolnshire",
+  "postcode": "DN32 9JD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "527733",
+  "northing": "408749",
+  "url": "www.welholmeprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

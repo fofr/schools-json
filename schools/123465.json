@@ -1,0 +1,18 @@
+{
+  "urn": "123465",
+  "name": "Chelmarsh CofE Primary School",
+  "address": "Chelmarsh",
+  "locality": "",
+  "address3": "",
+  "town": "Bridgnorth",
+  "county": "Shropshire",
+  "postcode": "WV16 6BA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "372296",
+  "northing": "287016",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

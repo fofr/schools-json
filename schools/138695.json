@@ -1,0 +1,18 @@
+{
+  "urn": "138695",
+  "name": "George Dixon Academy",
+  "address": "Portland Road",
+  "locality": "Edgbaston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B16 9GD",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "403042",
+  "northing": "286497",
+  "url": "www.georgedixonacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

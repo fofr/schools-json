@@ -1,0 +1,18 @@
+{
+  "urn": "106268",
+  "name": "Hyde Community College",
+  "address": "Old Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hyde",
+  "county": "Cheshire",
+  "postcode": "SK14 4SP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "394568",
+  "northing": "395970",
+  "url": "http://hydecommunitycollege.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

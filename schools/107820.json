@@ -1,0 +1,18 @@
+{
+  "urn": "107820",
+  "name": "Churwell Primary School",
+  "address": "Westwood Side",
+  "locality": "Churwell Morley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS27 9HR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "426717",
+  "northing": "429208",
+  "url": "http://www.churwell.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

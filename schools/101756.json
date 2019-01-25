@@ -1,0 +1,18 @@
+{
+  "urn": "101756",
+  "name": "Beaumont Primary School",
+  "address": "Old Lodge Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Purley",
+  "county": "Surrey",
+  "postcode": "CR8 4DN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "531004",
+  "northing": "160459",
+  "url": "www.beaumont.croydon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

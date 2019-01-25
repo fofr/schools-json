@@ -1,0 +1,18 @@
+{
+  "urn": "144668",
+  "name": "West Hill Primary Academy",
+  "address": "Dartford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 3DZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "553136",
+  "northing": "174316",
+  "url": "www.west-hill.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

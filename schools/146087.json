@@ -1,0 +1,18 @@
+{
+  "urn": "146087",
+  "name": "The Westleigh School",
+  "address": "Westleigh Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leigh",
+  "county": "Lancashire",
+  "postcode": "WN7 5NL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "365020",
+  "northing": "402104",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

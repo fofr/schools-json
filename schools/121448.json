@@ -1,0 +1,18 @@
+{
+  "urn": "121448",
+  "name": "Barlby Bridge Community Primary School",
+  "address": "Thomas Street",
+  "locality": "Barlby Road",
+  "address3": "Barlby Bridge",
+  "town": "Selby",
+  "county": "North Yorkshire",
+  "postcode": "YO8 5AA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "461854",
+  "northing": "432528",
+  "url": "http://www.barlbybridge.n-yorks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

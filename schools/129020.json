@@ -1,0 +1,18 @@
+{
+  "urn": "129020",
+  "name": "Portsdown First School",
+  "address": "Sundridge Close",
+  "locality": "Cosham",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO6 3JL",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "465477",
+  "northing": "105834",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

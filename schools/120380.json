@@ -1,0 +1,18 @@
+{
+  "urn": "120380",
+  "name": "Ingoldsby Primary School",
+  "address": "Ingoldsby",
+  "locality": "",
+  "address3": "",
+  "town": "Grantham",
+  "county": "Lincolnshire",
+  "postcode": "NG33 4HA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "501552",
+  "northing": "330210",
+  "url": "http://www.ingoldsby.lincs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

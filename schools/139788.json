@@ -1,0 +1,18 @@
+{
+  "urn": "139788",
+  "name": "Waverley Studio College",
+  "address": "470 Belchers Lane",
+  "locality": "Bordesley Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B9 5SX",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "411353",
+  "northing": "286602",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Studio schools"
+}

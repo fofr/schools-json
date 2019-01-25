@@ -1,0 +1,18 @@
+{
+  "urn": "131553",
+  "name": "Bickley Primary School",
+  "address": "Nightingale Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bromley",
+  "county": "Kent",
+  "postcode": "BR1 2SQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "541346",
+  "northing": "168987",
+  "url": "www.bickley.bromley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

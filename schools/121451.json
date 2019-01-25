@@ -1,0 +1,18 @@
+{
+  "urn": "121451",
+  "name": "Hunmanby Primary School",
+  "address": "Priest Close",
+  "locality": "Hunmanby",
+  "address3": "",
+  "town": "Filey",
+  "county": "North Yorkshire",
+  "postcode": "YO14 0QH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "509900",
+  "northing": "477734",
+  "url": "http://www.hunmanbyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

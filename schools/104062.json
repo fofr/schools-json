@@ -1,0 +1,18 @@
+{
+  "urn": "104062",
+  "name": "Kingshurst Infant School",
+  "address": "Ballard Walk",
+  "locality": "Kingshurst",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B37 6BJ",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "417252",
+  "northing": "288588",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

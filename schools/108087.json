@@ -1,0 +1,18 @@
+{
+  "urn": "108087",
+  "name": "Priesthorpe School",
+  "address": "Priesthorpe Lane",
+  "locality": "Farsley",
+  "address3": "",
+  "town": "Pudsey",
+  "county": "West Yorkshire",
+  "postcode": "LS28 5SG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "420685",
+  "northing": "434980",
+  "url": "http://www.priesthorpe.org/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

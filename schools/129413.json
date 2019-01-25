@@ -1,0 +1,18 @@
+{
+  "urn": "129413",
+  "name": "Swanscombe School",
+  "address": "Swanscombe Street",
+  "locality": "",
+  "address3": "",
+  "town": "Swanscombe",
+  "county": "Kent",
+  "postcode": "DA10 0BQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "560679",
+  "northing": "174024",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146007",
+  "name": "Kirk Fenton Church of England Primary School",
+  "address": "Main Street",
+  "locality": "Church Fenton",
+  "address3": "",
+  "town": "Tadcaster",
+  "county": "North Yorkshire",
+  "postcode": "LS24 9RF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451413",
+  "northing": "436992",
+  "url": "http://www.kirkfenton.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

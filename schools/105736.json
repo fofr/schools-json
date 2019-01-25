@@ -1,0 +1,18 @@
+{
+  "urn": "105736",
+  "name": "Saddleworth School",
+  "address": "High Street",
+  "locality": "Uppermill",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL3 6BU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "399856",
+  "northing": "406093",
+  "url": "http://www.saddleworth.oldham.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

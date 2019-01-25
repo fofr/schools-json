@@ -1,0 +1,18 @@
+{
+  "urn": "101120",
+  "name": "Queen's Park Primary School",
+  "address": "Droop Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "W10 4DQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524394",
+  "northing": "182467",
+  "url": "www.queensparkprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

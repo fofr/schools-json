@@ -1,0 +1,18 @@
+{
+  "urn": "118499",
+  "name": "Loose Infant School",
+  "address": "Loose Road",
+  "locality": "Loose",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME15 9UW",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "576115",
+  "northing": "152490",
+  "url": "www.loose-infant.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

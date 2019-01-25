@@ -1,0 +1,18 @@
+{
+  "urn": "109100",
+  "name": "Sandford Primary School",
+  "address": "49 Greenhill Road",
+  "locality": "Sandford",
+  "address3": "",
+  "town": "Winscombe",
+  "county": "Somerset",
+  "postcode": "BS25 5PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "342587",
+  "northing": "159706",
+  "url": "http://www.sandfordprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

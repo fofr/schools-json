@@ -1,0 +1,18 @@
+{
+  "urn": "111223",
+  "name": "Broken Cross Community School",
+  "address": "Parkett Heyes Road",
+  "locality": "",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 8UD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389379",
+  "northing": "373296",
+  "url": "http://www.brokencross.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

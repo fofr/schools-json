@@ -1,0 +1,18 @@
+{
+  "urn": "127775",
+  "name": "Scholes Nursery School",
+  "address": "New Road East",
+  "locality": "Scholes",
+  "address3": "",
+  "town": "Cleckheaton",
+  "county": "West Yorkshire",
+  "postcode": "BD19 6EW",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "416690",
+  "northing": "425966",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

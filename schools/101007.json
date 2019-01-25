@@ -1,0 +1,18 @@
+{
+  "urn": "101007",
+  "name": "Fircroft Primary School",
+  "address": "Fircroft Road",
+  "locality": "Tooting Bec",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW17 7PP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "527649",
+  "northing": "172521",
+  "url": "www.fircroftprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

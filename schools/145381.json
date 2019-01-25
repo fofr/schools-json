@@ -1,0 +1,18 @@
+{
+  "urn": "145381",
+  "name": "Wolgarston High School",
+  "address": "Cannock Road",
+  "locality": "Penkridge",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST19 5RX",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "393453",
+  "northing": "313836",
+  "url": "http://www.wolgarston.staffs.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

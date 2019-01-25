@@ -1,0 +1,18 @@
+{
+  "urn": "123212",
+  "name": "St Ebbe's Church of England Aided Primary School",
+  "address": "Whitehouse Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX1 4NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "451134",
+  "northing": "205392",
+  "url": "www.st-ebbes.oxon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

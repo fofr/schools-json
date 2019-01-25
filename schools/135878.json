@@ -1,0 +1,18 @@
+{
+  "urn": "135878",
+  "name": "Red House Academy",
+  "address": "Rutherglen Road",
+  "locality": "Red House Estate",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR5 5LN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "437186",
+  "northing": "559541",
+  "url": "http://www.redhouseacademy.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

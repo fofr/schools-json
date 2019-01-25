@@ -1,0 +1,18 @@
+{
+  "urn": "131959",
+  "name": "Portland College",
+  "address": "Nottingham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 4TJ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "455047",
+  "northing": "356731",
+  "url": "http://www.portland.ac.uk/",
+  "phase": "Not applicable",
+  "type": "Other types",
+  "detailed_type": "Special post 16 institution"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "125037",
+  "name": "The Grange Community Infant School",
+  "address": "The Avenue",
+  "locality": "New Haw",
+  "address3": "",
+  "town": "Addlestone",
+  "county": "Surrey",
+  "postcode": "KT15 3RL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "504144",
+  "northing": "162360",
+  "url": "http://www.grange.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

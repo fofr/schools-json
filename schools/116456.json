@@ -1,0 +1,18 @@
+{
+  "urn": "116456",
+  "name": "Millbrook Community School",
+  "address": "Green Lane",
+  "locality": "Maybush",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 9RG",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "438457",
+  "northing": "115154",
+  "url": "http://www.millbrook.southampton.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

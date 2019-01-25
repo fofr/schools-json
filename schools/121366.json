@@ -1,0 +1,18 @@
+{
+  "urn": "121366",
+  "name": "Wigginton Primary School",
+  "address": "Westfield Lane",
+  "locality": "Wigginton",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO32 2FZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "459942",
+  "northing": "458309",
+  "url": "http://www.wiggintonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

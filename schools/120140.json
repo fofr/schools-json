@@ -1,0 +1,18 @@
+{
+  "urn": "120140",
+  "name": "Claybrooke Primary School",
+  "address": "Main Street",
+  "locality": "Claybrooke Parva",
+  "address3": "",
+  "town": "Lutterworth",
+  "county": "Leicestershire",
+  "postcode": "LE17 5AF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "449295",
+  "northing": "287953",
+  "url": "www.claybrooke.leics.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

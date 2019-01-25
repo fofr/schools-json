@@ -1,0 +1,18 @@
+{
+  "urn": "138374",
+  "name": "West Walsall E-ACT Academy",
+  "address": "Primley Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS2 9UA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "399434",
+  "northing": "298258",
+  "url": "www.wwea.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

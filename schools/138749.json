@@ -1,0 +1,18 @@
+{
+  "urn": "138749",
+  "name": "Hogsthorpe Primary Academy",
+  "address": "Thames Street",
+  "locality": "Hogsthorpe",
+  "address3": "",
+  "town": "Skegness",
+  "county": "Lincolnshire",
+  "postcode": "PE24 5PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "553537",
+  "northing": "372440",
+  "url": "www.hogsthorpeprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

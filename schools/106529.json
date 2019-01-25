@@ -1,0 +1,18 @@
+{
+  "urn": "106529",
+  "name": "Shevington High School",
+  "address": "Shevington Lane",
+  "locality": "Shevington",
+  "address3": "",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN6 8AB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "354794",
+  "northing": "409473",
+  "url": "http://www.shevingtonhigh.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

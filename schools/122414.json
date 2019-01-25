@@ -1,0 +1,18 @@
+{
+  "urn": "122414",
+  "name": "Carrington Primary and Nursery School",
+  "address": "Jenner Street",
+  "locality": "Carrington",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 1AB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456747",
+  "northing": "342184",
+  "url": "www.carrington.nottingham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

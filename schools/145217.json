@@ -1,0 +1,18 @@
+{
+  "urn": "145217",
+  "name": "Reigate School",
+  "address": "Pendleton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Reigate",
+  "county": "Surrey",
+  "postcode": "RH2 7NT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "526262",
+  "northing": "148807",
+  "url": "http://www.reigate-school.surrey.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

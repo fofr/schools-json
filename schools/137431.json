@@ -1,0 +1,18 @@
+{
+  "urn": "137431",
+  "name": "Cromer Academy",
+  "address": "Norwich Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cromer",
+  "county": "Norfolk",
+  "postcode": "NR27 0EX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "622211",
+  "northing": "341274",
+  "url": "http://www.inspirationtrust.org/cromeracademy",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

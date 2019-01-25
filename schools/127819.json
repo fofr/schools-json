@@ -1,0 +1,18 @@
+{
+  "urn": "127819",
+  "name": "Cookridge First School",
+  "address": "Tinshill Drive",
+  "locality": "Cookridge",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS16 7DH",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "425406",
+  "northing": "439980",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

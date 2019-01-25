@@ -1,0 +1,18 @@
+{
+  "urn": "144180",
+  "name": "Prudhoe West Academy",
+  "address": "West Road",
+  "locality": "",
+  "address3": "",
+  "town": "Prudhoe",
+  "county": "Northumberland",
+  "postcode": "NE42 6HR",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "409234",
+  "northing": "562839",
+  "url": "prudhoewest.wiseacademies.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

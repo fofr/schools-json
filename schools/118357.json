@@ -1,0 +1,18 @@
+{
+  "urn": "118357",
+  "name": "Chartham Primary School",
+  "address": "Shalmsford Street",
+  "locality": "Chartham",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT4 7QN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "610126",
+  "northing": "154535",
+  "url": "http://www.charthamprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

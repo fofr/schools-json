@@ -1,0 +1,18 @@
+{
+  "urn": "105656",
+  "name": "South Failsworth Community Primary School",
+  "address": "Paddock Lane",
+  "locality": "Failsworth",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M35 0NY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389532",
+  "northing": "400290",
+  "url": "www.southfailsworth.oldham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

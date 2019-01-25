@@ -1,0 +1,18 @@
+{
+  "urn": "104865",
+  "name": "Norwood Primary School",
+  "address": "Norwood Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Southport",
+  "county": "Merseyside",
+  "postcode": "PR9 7DU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "335354",
+  "northing": "417298",
+  "url": "http://www.norwoodprimaryschool.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

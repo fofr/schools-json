@@ -1,0 +1,18 @@
+{
+  "urn": "119239",
+  "name": "Ingol Community Primary School",
+  "address": "Whitby Avenue",
+  "locality": "Ingol",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR2 3YP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "350989",
+  "northing": "431740",
+  "url": "www.ingol.lancsngfl.ac.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

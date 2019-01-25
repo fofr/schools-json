@@ -1,0 +1,18 @@
+{
+  "urn": "130312",
+  "name": "Finchale Primary School",
+  "address": "Canterbury Road",
+  "locality": "Newton Hall",
+  "address3": "",
+  "town": "Durham",
+  "county": "County Durham",
+  "postcode": "DH1 5XT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "428202",
+  "northing": "545370",
+  "url": "www.finchale.durham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

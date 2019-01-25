@@ -1,0 +1,18 @@
+{
+  "urn": "111015",
+  "name": "Disley Primary School",
+  "address": "Disley Primary School",
+  "locality": "Dane Bank Drive",
+  "address3": "Disley",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK12 2BD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "397685",
+  "northing": "384765",
+  "url": "http://www.disley.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

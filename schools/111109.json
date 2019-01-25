@@ -1,0 +1,18 @@
+{
+  "urn": "111109",
+  "name": "Ashton Hayes Primary School",
+  "address": "Church Road",
+  "locality": "Ashton Hayes",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH3 8AB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "350609",
+  "northing": "369729",
+  "url": "http://www.ashtonhayes.cheshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

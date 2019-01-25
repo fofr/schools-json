@@ -1,0 +1,18 @@
+{
+  "urn": "144238",
+  "name": "St Mary's CofE Primary School",
+  "address": "Brooke Road",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 9HJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "538460",
+  "northing": "189080",
+  "url": "www.stmaryscofe.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100004",
+  "name": "Sherborne Nursery School",
+  "address": "Priestly House",
+  "locality": "Athlone Street",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW5 4LP",
+  "minimum_age": "3",
+  "maximum_age": "5",
+  "easting": "528515",
+  "northing": "184869",
+  "url": "",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

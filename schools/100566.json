@@ -1,0 +1,18 @@
+{
+  "urn": "100566",
+  "name": "Heathbrook Primary School",
+  "address": "St Rule Street",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW8 3EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529067",
+  "northing": "176207",
+  "url": "www.heathbrook.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

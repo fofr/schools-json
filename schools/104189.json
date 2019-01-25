@@ -1,0 +1,18 @@
+{
+  "urn": "104189",
+  "name": "County Bridge Primary School",
+  "address": "Anson Road",
+  "locality": "Bentley",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS2 0DH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "398126",
+  "northing": "298449",
+  "url": "http://www.countybridge.walsall.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

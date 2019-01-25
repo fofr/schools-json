@@ -1,0 +1,18 @@
+{
+  "urn": "109646",
+  "name": "Holmemead Middle School",
+  "address": "Mead End",
+  "locality": "",
+  "address3": "",
+  "town": "Biggleswade",
+  "county": "Bedfordshire",
+  "postcode": "SG18 8JU",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "519783",
+  "northing": "243883",
+  "url": "http://www.holmemeadschool.co.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

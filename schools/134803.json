@@ -1,0 +1,18 @@
+{
+  "urn": "134803",
+  "name": "Montpelier Primary School",
+  "address": "North Down Road",
+  "locality": "Beacon Park",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL2 3HN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "246946",
+  "northing": "56952",
+  "url": "www.montpelierprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

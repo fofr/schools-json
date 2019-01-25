@@ -1,0 +1,18 @@
+{
+  "urn": "104996",
+  "name": "Riverside Primary School",
+  "address": "Brighton Street",
+  "locality": "",
+  "address3": "",
+  "town": "Wallasey",
+  "county": "Merseyside",
+  "postcode": "CH44 6QW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "332195",
+  "northing": "391270",
+  "url": "www.riverside.eschools.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

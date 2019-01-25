@@ -1,0 +1,18 @@
+{
+  "urn": "114477",
+  "name": "Elm Grove Primary School",
+  "address": "Elm Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN2 3ES",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "532389",
+  "northing": "105242",
+  "url": "http://www.elmgrove.brighton-hove.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

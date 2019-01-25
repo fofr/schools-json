@@ -1,0 +1,18 @@
+{
+  "urn": "120445",
+  "name": "Faldingworth Community Primary School",
+  "address": "High Street",
+  "locality": "Faldingworth",
+  "address3": "",
+  "town": "Market Rasen",
+  "county": "Lincolnshire",
+  "postcode": "LN8 3SF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "506637",
+  "northing": "384727",
+  "url": "http://www.faldingworth.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

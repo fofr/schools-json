@@ -1,0 +1,18 @@
+{
+  "urn": "137836",
+  "name": "Wentworth Primary School",
+  "address": "Wentworth Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA1 3NG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "552144",
+  "northing": "173935",
+  "url": "www.wentworthonline.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

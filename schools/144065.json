@@ -1,0 +1,18 @@
+{
+  "urn": "144065",
+  "name": "St Peter's Primary School",
+  "address": "Normanton Road",
+  "locality": "",
+  "address3": "",
+  "town": "South Croydon",
+  "county": "Surrey",
+  "postcode": "CR2 7AR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533097",
+  "northing": "163788",
+  "url": "www.st-petersprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

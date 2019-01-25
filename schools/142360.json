@@ -1,0 +1,18 @@
+{
+  "urn": "142360",
+  "name": "Old Moat Primary School",
+  "address": "Old Moat Lane",
+  "locality": "Withington",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M20 3FN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "384347",
+  "northing": "393185",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130326",
+  "name": "Cauldwell School",
+  "address": "Edward Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 9DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "504559",
+  "northing": "248620",
+  "url": "www.cauldwellschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "118899",
+  "name": "Tunbridge Wells High School",
+  "address": "Blackhurst Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Tunbridge Wells",
+  "county": "Kent",
+  "postcode": "TN2 4PY",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "560482",
+  "northing": "140402",
+  "url": "www.twhs.kent.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

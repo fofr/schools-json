@@ -1,0 +1,18 @@
+{
+  "urn": "120310",
+  "name": "South Wigston High School",
+  "address": "St Thomas Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wigston",
+  "county": "Leicestershire",
+  "postcode": "LE18 4TA",
+  "minimum_age": "10",
+  "maximum_age": "14",
+  "easting": "458512",
+  "northing": "298283",
+  "url": "www.southwigston.leics.sch.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142400",
+  "name": "Ecton Village Primary School",
+  "address": "West Street",
+  "locality": "Ecton",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN6 0QF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "482700",
+  "northing": "263720",
+  "url": "www.ectonvillageacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

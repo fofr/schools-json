@@ -1,0 +1,18 @@
+{
+  "urn": "116200",
+  "name": "Southsea Infant School",
+  "address": "Collingwood Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southsea",
+  "county": "Hampshire",
+  "postcode": "PO5 2SR",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "465041",
+  "northing": "98957",
+  "url": "www.southsea.portsmouth.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

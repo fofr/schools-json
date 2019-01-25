@@ -1,0 +1,18 @@
+{
+  "urn": "123689",
+  "name": "North Newton Community Primary School",
+  "address": "Church Road",
+  "locality": "North Newton",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA7 0BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "329906",
+  "northing": "131028",
+  "url": "www.northnewtonschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

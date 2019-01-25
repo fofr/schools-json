@@ -1,0 +1,18 @@
+{
+  "urn": "103777",
+  "name": "Brockmoor Primary School",
+  "address": "Belle Isle",
+  "locality": "Brockmoor",
+  "address3": "",
+  "town": "Brierley Hill",
+  "county": "West Midlands",
+  "postcode": "DY5 3UZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391305",
+  "northing": "287303",
+  "url": "http://www.brockmoor.dudley.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

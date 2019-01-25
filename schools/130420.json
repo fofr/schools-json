@@ -1,0 +1,18 @@
+{
+  "urn": "130420",
+  "name": "South Thames College",
+  "address": "Wandsworth High Street",
+  "locality": "Wandsworth",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW18 2PP",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "525815",
+  "northing": "174588",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

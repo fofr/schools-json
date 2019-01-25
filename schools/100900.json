@@ -1,0 +1,18 @@
+{
+  "urn": "100900",
+  "name": "Cyril Jackson Primary School",
+  "address": "51 Three Colt Street",
+  "locality": "Limehouse",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 8HH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536813",
+  "northing": "180888",
+  "url": "www.cyriljackson.towerhamlets.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

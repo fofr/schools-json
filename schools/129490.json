@@ -1,0 +1,18 @@
+{
+  "urn": "129490",
+  "name": "Shadsworth High School",
+  "address": "Shadsworth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Blackburn",
+  "county": "Lancashire",
+  "postcode": "BB1 2HT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "370217",
+  "northing": "426681",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

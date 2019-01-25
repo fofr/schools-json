@@ -1,0 +1,18 @@
+{
+  "urn": "137623",
+  "name": "St Merryn School",
+  "address": "St Merryn",
+  "locality": "",
+  "address3": "",
+  "town": "Padstow",
+  "county": "Cornwall",
+  "postcode": "PL28 8NP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "187710",
+  "northing": "73562",
+  "url": "www.stmerrynschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

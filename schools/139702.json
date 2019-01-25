@@ -1,0 +1,18 @@
+{
+  "urn": "139702",
+  "name": "Beacon Primary Academy",
+  "address": "Off Churchill Avenue",
+  "locality": "Burgh Road",
+  "address3": "",
+  "town": "Skegness",
+  "county": "",
+  "postcode": "PE25 2RN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "555871",
+  "northing": "364345",
+  "url": "www.beaconprimaryacademy.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

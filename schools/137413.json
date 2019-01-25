@@ -1,0 +1,18 @@
+{
+  "urn": "137413",
+  "name": "Harris Primary Academy Peckham Park",
+  "address": "Marmont Road",
+  "locality": "Peckham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE15 5TD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534433",
+  "northing": "177091",
+  "url": "www.harrisprimarypeckhampark.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139921",
+  "name": "Mersey Primary Academy",
+  "address": "Derwent Street",
+  "locality": "",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU8 8TX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511019",
+  "northing": "430540",
+  "url": "www.merseypa.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

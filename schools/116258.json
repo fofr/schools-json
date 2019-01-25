@@ -1,0 +1,18 @@
+{
+  "urn": "116258",
+  "name": "Portsdown Primary School",
+  "address": "Sundridge Close",
+  "locality": "Wymering",
+  "address3": "Cosham",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO6 3JL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "465477",
+  "northing": "105834",
+  "url": "http://www.portsdownprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104045",
+  "name": "Dorridge Primary School",
+  "address": "Station Road",
+  "locality": "Dorridge",
+  "address3": "",
+  "town": "Solihull",
+  "county": "West Midlands",
+  "postcode": "B93 8EU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "417068",
+  "northing": "275540",
+  "url": "www.dorridge.solihull.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

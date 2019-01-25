@@ -1,0 +1,18 @@
+{
+  "urn": "145074",
+  "name": "Upton Heath CofE Primary School",
+  "address": "Upton Lane",
+  "locality": "Upton Heath",
+  "address3": "Upton-by-Chester",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH2 1ED",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "340856",
+  "northing": "369430",
+  "url": "www.uptonheath.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116132",
+  "name": "Townhill Infant School",
+  "address": "Benhams Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO18 2FG",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "445331",
+  "northing": "114722",
+  "url": "http://www.townhill-inf.net/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

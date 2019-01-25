@@ -1,0 +1,18 @@
+{
+  "urn": "136628",
+  "name": "The West Bridgford School",
+  "address": "Loughborough Road",
+  "locality": "West Bridgford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 7FA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "457934",
+  "northing": "336104",
+  "url": "http://www.wbs.school",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

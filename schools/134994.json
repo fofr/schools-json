@@ -1,0 +1,18 @@
+{
+  "urn": "134994",
+  "name": "Shuttleworth College",
+  "address": "Burnley Road",
+  "locality": "Padiham",
+  "address3": "",
+  "town": "Burnley",
+  "county": "Lancashire",
+  "postcode": "BB12 8ST",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "380376",
+  "northing": "433510",
+  "url": "www.shuttleworth.lancs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143354",
+  "name": "Springfield School",
+  "address": "Springfield Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leek",
+  "county": "Staffordshire",
+  "postcode": "ST13 6LQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "399292",
+  "northing": "356495",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

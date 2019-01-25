@@ -1,0 +1,18 @@
+{
+  "urn": "120274",
+  "name": "Iveshead School",
+  "address": "Forest Street",
+  "locality": "Shepshed",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE12 9DB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "448475",
+  "northing": "319823",
+  "url": "www.ivesheadschool.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

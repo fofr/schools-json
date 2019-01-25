@@ -1,0 +1,18 @@
+{
+  "urn": "115501",
+  "name": "Avening Primary School",
+  "address": "High Street",
+  "locality": "Avening",
+  "address3": "",
+  "town": "Tetbury",
+  "county": "Gloucestershire",
+  "postcode": "GL8 8NF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "387995",
+  "northing": "198046",
+  "url": "www.avening.gloucs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

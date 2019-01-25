@@ -1,0 +1,18 @@
+{
+  "urn": "123021",
+  "name": "St Nicholas Primary School",
+  "address": "Raymund Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 0PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "452623",
+  "northing": "208352",
+  "url": "www.stnicholasprimaryschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

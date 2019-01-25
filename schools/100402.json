@@ -1,0 +1,18 @@
+{
+  "urn": "100402",
+  "name": "Drayton Park Primary School",
+  "address": "Arvon Road",
+  "locality": "",
+  "address3": "Highbury",
+  "town": "London",
+  "county": "",
+  "postcode": "N5 1PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "531433",
+  "northing": "185329",
+  "url": "www.draytonpark.islington.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

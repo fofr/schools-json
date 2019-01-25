@@ -1,0 +1,18 @@
+{
+  "urn": "100158",
+  "name": "Heronsgate Primary School",
+  "address": "Whinchat Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE28 0EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "544682",
+  "northing": "179291",
+  "url": "www.heronsgate.greenwich.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

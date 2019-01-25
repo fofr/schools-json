@@ -1,0 +1,18 @@
+{
+  "urn": "139593",
+  "name": "Stockport Technical School",
+  "address": "131 Wellington Road South",
+  "locality": "Wellington House",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Greater Manchester",
+  "postcode": "SK1 3TZ",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "389680",
+  "northing": "389580",
+  "url": "http://www.stockporttechnicalschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

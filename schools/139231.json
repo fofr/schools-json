@@ -1,0 +1,18 @@
+{
+  "urn": "139231",
+  "name": "The Grange School",
+  "address": "Worcester Road",
+  "locality": "Harlescott Grange",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY1 3LP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "350094",
+  "northing": "315493",
+  "url": "http://www.shrewsburyacademiestrust.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

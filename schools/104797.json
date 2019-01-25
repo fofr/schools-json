@@ -1,0 +1,18 @@
+{
+  "urn": "104797",
+  "name": "Rectory CofE Primary School",
+  "address": "Rectory Road",
+  "locality": "North Ashton",
+  "address3": "Ashton-in-Makerfield",
+  "town": "Wigan",
+  "county": "Lancashire",
+  "postcode": "WN4 0QF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "355810",
+  "northing": "400414",
+  "url": "http://www.rectory.st-helens.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103261",
+  "name": "St Benedict's Primary School",
+  "address": "St Benedict's Road",
+  "locality": "Small Heath",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B10 9DP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "410637",
+  "northing": "285452",
+  "url": "www.stbendic.bham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

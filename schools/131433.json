@@ -1,0 +1,18 @@
+{
+  "urn": "131433",
+  "name": "Leighswood School",
+  "address": "Broadmeadow",
+  "locality": "Aldridge",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS9 8HZ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "405635",
+  "northing": "301606",
+  "url": "www.leighswood.walsall.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

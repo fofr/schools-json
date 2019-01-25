@@ -1,0 +1,18 @@
+{
+  "urn": "101704",
+  "name": "Purley Nursery School",
+  "address": "58 Pampisford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Purley",
+  "county": "Surrey",
+  "postcode": "CR8 2NE",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "531478",
+  "northing": "161952",
+  "url": "www.purley.croydon.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

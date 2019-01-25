@@ -1,0 +1,18 @@
+{
+  "urn": "143467",
+  "name": "St Luke's Church of England Primary School",
+  "address": "St Crispin Drive",
+  "locality": "Duston",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN5 4UL",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "471487",
+  "northing": "260770",
+  "url": "http://stlukesprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

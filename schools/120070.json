@@ -1,0 +1,18 @@
+{
+  "urn": "120070",
+  "name": "The Hall School",
+  "address": "Glenfield Frith Drive",
+  "locality": "Glenfield",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 8PQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455251",
+  "northing": "306160",
+  "url": "www.thehallprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "126005",
+  "name": "St Peter's CofE Primary School",
+  "address": "Holmans",
+  "locality": "Street Lane",
+  "address3": "Ardingly",
+  "town": "Haywards Heath",
+  "county": "West Sussex",
+  "postcode": "RH17 6UQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "534343",
+  "northing": "129715",
+  "url": "www.st-peters-sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "134802",
+  "name": "Ernesettle Community School",
+  "address": "Biggin Hill",
+  "locality": "Ernesettle",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL5 2RB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "245766",
+  "northing": "59673",
+  "url": "www.ecs.plymouth.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

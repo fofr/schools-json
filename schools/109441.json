@@ -1,0 +1,18 @@
+{
+  "urn": "109441",
+  "name": "Campton Lower School",
+  "address": "Rectory Road",
+  "locality": "Campton",
+  "address3": "",
+  "town": "Shefford",
+  "county": "Bedfordshire",
+  "postcode": "SG17 5PF",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "512834",
+  "northing": "238143",
+  "url": "camptonlower.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

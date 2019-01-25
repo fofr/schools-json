@@ -1,0 +1,18 @@
+{
+  "urn": "120457",
+  "name": "Legsby Primary School",
+  "address": "Legsby",
+  "locality": "",
+  "address3": "",
+  "town": "Market Rasen",
+  "county": "Lincolnshire",
+  "postcode": "LN8 3QW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "513552",
+  "northing": "385490",
+  "url": "www.legsbyschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140456",
+  "name": "Horsington Church School",
+  "address": "Horsington",
+  "locality": "",
+  "address3": "",
+  "town": "Templecombe",
+  "county": "Somerset",
+  "postcode": "BA8 0BW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "369883",
+  "northing": "124398",
+  "url": "www.horsingtonbwmat.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100098",
+  "name": "Pound Park Nursery School",
+  "address": "Pound Park Road",
+  "locality": "Charlton",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE7 8AF",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "541837",
+  "northing": "178429",
+  "url": "http://www.poundparknursery.co.uk/",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112207",
+  "name": "Roose School",
+  "address": "North Row",
+  "locality": "",
+  "address3": "",
+  "town": "Barrow-in-Furness",
+  "county": "Cumbria",
+  "postcode": "LA13 0HF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "322441",
+  "northing": "469360",
+  "url": "www.rooseprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

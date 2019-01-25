@@ -1,0 +1,18 @@
+{
+  "urn": "134695",
+  "name": "Musgrove Park Hospital Education",
+  "address": "Childrens Education Unit",
+  "locality": "Musgrove Park Hospital",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 5DA",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "321541",
+  "northing": "124218",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

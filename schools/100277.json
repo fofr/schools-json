@@ -1,0 +1,18 @@
+{
+  "urn": "100277",
+  "name": "Haggerston School",
+  "address": "Weymouth Terrace",
+  "locality": "Hackney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E2 8LS",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "533829",
+  "northing": "183266",
+  "url": "http://www.haggerston.hackney.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

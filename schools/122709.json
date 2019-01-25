@@ -1,0 +1,18 @@
+{
+  "urn": "122709",
+  "name": "Spring Street Primary School",
+  "address": "Spring Street",
+  "locality": "Hucknall",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG15 7BZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "453067",
+  "northing": "349422",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "142853",
+  "name": "St Katherine's School",
+  "address": "Pill Road",
+  "locality": "Ham Green",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Somerset",
+  "postcode": "BS20 0HU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "353037",
+  "northing": "175169",
+  "url": "www.stkaths.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

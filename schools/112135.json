@@ -1,0 +1,18 @@
+{
+  "urn": "112135",
+  "name": "Maryport Infant School",
+  "address": "Camp Road",
+  "locality": "",
+  "address3": "",
+  "town": "Maryport",
+  "county": "Cumbria",
+  "postcode": "CA15 6JN",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "303950",
+  "northing": "537072",
+  "url": "www.maryport-inf.cumbria.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

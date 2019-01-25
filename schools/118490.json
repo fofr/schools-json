@@ -1,0 +1,18 @@
+{
+  "urn": "118490",
+  "name": "Palmarsh Primary School",
+  "address": "St George's Place",
+  "locality": "",
+  "address3": "",
+  "town": "Hythe",
+  "county": "Kent",
+  "postcode": "CT21 6NE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "613796",
+  "northing": "133711",
+  "url": "http://www.palmarsh.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

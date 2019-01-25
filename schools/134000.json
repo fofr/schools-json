@@ -1,0 +1,18 @@
+{
+  "urn": "134000",
+  "name": "Smallbrook School",
+  "address": "Smallbrook",
+  "locality": "Unit 1-4",
+  "address3": "Sleap",
+  "town": "Harmer Hill",
+  "county": "Shropshire",
+  "postcode": "SY4 3HE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "348584",
+  "northing": "326334",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Other independent special school"
+}

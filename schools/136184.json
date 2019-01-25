@@ -1,0 +1,18 @@
+{
+  "urn": "136184",
+  "name": "The Winsford Academy",
+  "address": "Grange Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Winsford",
+  "county": "Cheshire",
+  "postcode": "CW7 2BT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "364297",
+  "northing": "366584",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143143",
+  "name": "Minerva Primary School",
+  "address": "Outer Circle",
+  "locality": "",
+  "address3": "",
+  "town": "Taunton",
+  "county": "Somerset",
+  "postcode": "TA1 2BU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "324481",
+  "northing": "124956",
+  "url": "www.minervaprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

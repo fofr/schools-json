@@ -1,0 +1,18 @@
+{
+  "urn": "141306",
+  "name": "Nether Alderley Primary School",
+  "address": "Bradford Lane",
+  "locality": "Nether Alderley",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK10 4TR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384355",
+  "northing": "376618",
+  "url": "http://www.netheralderley.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

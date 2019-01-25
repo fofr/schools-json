@@ -1,0 +1,18 @@
+{
+  "urn": "140531",
+  "name": "Severndale Specialist Academy",
+  "address": "Woodcote Way",
+  "locality": "Monkmoor",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY2 5SH",
+  "minimum_age": "2",
+  "maximum_age": "19",
+  "easting": "351000",
+  "northing": "313710",
+  "url": "www.severndaleschool.org",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

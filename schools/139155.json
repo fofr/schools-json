@@ -1,0 +1,18 @@
+{
+  "urn": "139155",
+  "name": "Launceston College",
+  "address": "Hurdon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Launceston",
+  "county": "Cornwall",
+  "postcode": "PL15 9JR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "233423",
+  "northing": "83739",
+  "url": "http://www.launceston-college.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130296",
+  "name": "Dovecot Primary School",
+  "address": "Grant Road",
+  "locality": "",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L14 0LH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "342265",
+  "northing": "391362",
+  "url": "www.dovecotprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

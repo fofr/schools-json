@@ -1,0 +1,18 @@
+{
+  "urn": "101271",
+  "name": "Courtland School",
+  "address": "Courtland Avenue",
+  "locality": "Mill Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW7 3BG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "521053",
+  "northing": "193499",
+  "url": "www.courtland.barnet.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

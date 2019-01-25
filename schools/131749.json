@@ -1,0 +1,18 @@
+{
+  "urn": "131749",
+  "name": "Barnsley Academy",
+  "address": "Farm Road",
+  "locality": "Kendray",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S70 3DL",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "436336",
+  "northing": "404565",
+  "url": "http://www.barnsley-academy.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

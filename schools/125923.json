@@ -1,0 +1,18 @@
+{
+  "urn": "125923",
+  "name": "Billingshurst Infant School",
+  "address": "Upper Station Road",
+  "locality": "",
+  "address3": "",
+  "town": "Billingshurst",
+  "county": "West Sussex",
+  "postcode": "RH14 9RE",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "508597",
+  "northing": "125498",
+  "url": "http://www.billingshurst-inf.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

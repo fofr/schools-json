@@ -1,0 +1,18 @@
+{
+  "urn": "123292",
+  "name": "St Edward's School",
+  "address": "Woodstock Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX2 7NN",
+  "minimum_age": "13",
+  "maximum_age": "18",
+  "easting": "450604",
+  "northing": "208956",
+  "url": "www.stedwardsoxford.org",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

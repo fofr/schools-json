@@ -1,0 +1,18 @@
+{
+  "urn": "122577",
+  "name": "Larkfields Infant School",
+  "address": "Coronation Road",
+  "locality": "Nuthall",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG16 1EP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "450960",
+  "northing": "344543",
+  "url": "www.larkfields-inf.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

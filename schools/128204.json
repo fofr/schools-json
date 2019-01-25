@@ -1,0 +1,18 @@
+{
+  "urn": "128204",
+  "name": "Bede School",
+  "address": "Durham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR3 4AH",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "438029",
+  "northing": "555429",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

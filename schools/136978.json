@@ -1,0 +1,18 @@
+{
+  "urn": "136978",
+  "name": "Stratford School Academy",
+  "address": "Upton Lane",
+  "locality": "Forest Gate",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E7 9PR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "540427",
+  "northing": "184397",
+  "url": "http://www.stratfordschoolacademy.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139899",
+  "name": "Windmill Primary School",
+  "address": "Fernlea Drive",
+  "locality": "Woosehill",
+  "address3": "",
+  "town": "Wokingham",
+  "county": "Berkshire",
+  "postcode": "RG41 3DR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "479719",
+  "northing": "168925",
+  "url": "www.windmillschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

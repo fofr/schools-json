@@ -1,0 +1,18 @@
+{
+  "urn": "139664",
+  "name": "Wye School",
+  "address": "Olantigh Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wye",
+  "county": "Kent",
+  "postcode": "TN25 5EJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "605615",
+  "northing": "146915",
+  "url": "http://www.wyeschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

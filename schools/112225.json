@@ -1,0 +1,18 @@
+{
+  "urn": "112225",
+  "name": "Yewdale School",
+  "address": "Yewdale Road",
+  "locality": "",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA2 7SD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "337035",
+  "northing": "555305",
+  "url": "www.yewdale.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "146251",
+  "name": "Lingfield Primary School",
+  "address": "Buxton Avenue",
+  "locality": "Marton",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS7 8LP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451975",
+  "northing": "514718",
+  "url": "http://www.lingfieldprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

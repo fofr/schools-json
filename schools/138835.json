@@ -1,0 +1,18 @@
+{
+  "urn": "138835",
+  "name": "Bacup and Rawtenstall Grammar School",
+  "address": "Glen Road",
+  "locality": "Waterfoot",
+  "address3": "",
+  "town": "Rossendale",
+  "county": "Lancashire",
+  "postcode": "BB4 7BJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "383761",
+  "northing": "421916",
+  "url": "http://www.brgs.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

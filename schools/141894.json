@@ -1,0 +1,18 @@
+{
+  "urn": "141894",
+  "name": "Charnwood College (Upper)",
+  "address": "Thorpe Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Loughborough",
+  "county": "Leicestershire",
+  "postcode": "LE11 4SQ",
+  "minimum_age": "14",
+  "maximum_age": "18",
+  "easting": "451360",
+  "northing": "319420",
+  "url": "www.charnwoodcollege.org",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

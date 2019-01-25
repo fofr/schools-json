@@ -1,0 +1,18 @@
+{
+  "urn": "103783",
+  "name": "Wallbrook Primary School",
+  "address": "Off Bradleys Lane",
+  "locality": "Coseley",
+  "address3": "",
+  "town": "Bilston",
+  "county": "West Midlands",
+  "postcode": "WV14 8YP",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "395107",
+  "northing": "293925",
+  "url": "www.wallbrook.dudley.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

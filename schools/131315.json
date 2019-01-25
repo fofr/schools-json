@@ -1,0 +1,18 @@
+{
+  "urn": "131315",
+  "name": "St Ambrose College",
+  "address": "Wicker Lane",
+  "locality": "Halebarns",
+  "address3": "",
+  "town": "Altrincham",
+  "county": "Cheshire",
+  "postcode": "WA15 0HE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "378823",
+  "northing": "386011",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

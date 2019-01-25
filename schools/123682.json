@@ -1,0 +1,18 @@
+{
+  "urn": "123682",
+  "name": "Burnham-on-Sea Infant School",
+  "address": "Winchester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Burnham-on-Sea",
+  "county": "Somerset",
+  "postcode": "TA8 1JD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "331252",
+  "northing": "149605",
+  "url": "http://www.burnhaminfants.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117499",
+  "name": "The Priory School",
+  "address": "Bedford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Hitchin",
+  "county": "Hertfordshire",
+  "postcode": "SG5 2UR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518064",
+  "northing": "230727",
+  "url": "http://www.priory.herts.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "116679",
+  "name": "Broadlands Primary School",
+  "address": "Broadlands Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR1 1HY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "352376",
+  "northing": "240873",
+  "url": "http://www.broadlands.hereford.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

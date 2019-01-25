@@ -1,0 +1,18 @@
+{
+  "urn": "106950",
+  "name": "Winterhill School",
+  "address": "High Street",
+  "locality": "Kimberworth",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S61 2BD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "440095",
+  "northing": "393245",
+  "url": "http://www.winterhill.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

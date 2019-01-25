@@ -1,0 +1,18 @@
+{
+  "urn": "103001",
+  "name": "Highview High School",
+  "address": "The Chase",
+  "locality": "",
+  "address3": "",
+  "town": "Wallington",
+  "county": "Surrey",
+  "postcode": "SM6 8JT",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "530312",
+  "northing": "164261",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

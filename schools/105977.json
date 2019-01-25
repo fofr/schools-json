@@ -1,0 +1,18 @@
+{
+  "urn": "105977",
+  "name": "Moorside High School",
+  "address": "East Lancashire Road",
+  "locality": "Swinton",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M27 0BH",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "376843",
+  "northing": "401111",
+  "url": "http://www.moorsidehigh.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

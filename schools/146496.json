@@ -1,0 +1,18 @@
+{
+  "urn": "146496",
+  "name": "Upton Infant School",
+  "address": "Guest Road",
+  "locality": "Upton",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH16 5LQ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "397542",
+  "northing": "93082",
+  "url": "http://www.uptoninf.dorset.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

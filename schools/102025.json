@@ -1,0 +1,18 @@
+{
+  "urn": "102025",
+  "name": "Eversley Primary School",
+  "address": "Chaseville Park Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N21 1PD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "530594",
+  "northing": "195529",
+  "url": "http://www.eversley.enfield.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

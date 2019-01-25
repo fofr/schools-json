@@ -1,0 +1,18 @@
+{
+  "urn": "101875",
+  "name": "West Twyford Primary School",
+  "address": "Twyford Abbey Road",
+  "locality": "",
+  "address3": "Park Royal",
+  "town": "London",
+  "county": "",
+  "postcode": "NW10 7DN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "519171",
+  "northing": "183099",
+  "url": "www.west-twyford.ealing.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

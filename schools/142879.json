@@ -1,0 +1,18 @@
+{
+  "urn": "142879",
+  "name": "Canary Wharf College 3",
+  "address": "7 Selsdon Way",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E14 9GL",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "537903",
+  "northing": "179152",
+  "url": "www.canarywharfcollege.co.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

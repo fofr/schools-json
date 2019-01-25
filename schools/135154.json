@@ -1,0 +1,18 @@
+{
+  "urn": "135154",
+  "name": "Thundersley Primary School",
+  "address": "Hart Road",
+  "locality": "Thundersley",
+  "address3": "",
+  "town": "Benfleet",
+  "county": "Essex",
+  "postcode": "SS7 3PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "579114",
+  "northing": "188604",
+  "url": "http://www.thundersleyprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

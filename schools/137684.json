@@ -1,0 +1,18 @@
+{
+  "urn": "137684",
+  "name": "The Dorcan Academy",
+  "address": "St Paul's Drive",
+  "locality": "Covingham",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN3 5DA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "418793",
+  "northing": "184626",
+  "url": "http://www.dorcan.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

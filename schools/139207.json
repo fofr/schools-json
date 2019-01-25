@@ -1,0 +1,18 @@
+{
+  "urn": "139207",
+  "name": "Hazelwood Academy",
+  "address": "Stokesay Drive",
+  "locality": "Toothill",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN5 8DR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "412320",
+  "northing": "183744",
+  "url": "www.hazelwoodacademy.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

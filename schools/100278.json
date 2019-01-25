@@ -1,0 +1,18 @@
+{
+  "urn": "100278",
+  "name": "Clapton Girls' Technology College",
+  "address": "Laura Place",
+  "locality": "Lower Clapton Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E5 0RB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "535150",
+  "northing": "185780",
+  "url": "www.clapton.hackney.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

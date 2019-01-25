@@ -1,0 +1,18 @@
+{
+  "urn": "136368",
+  "name": "Parkstone Grammar School",
+  "address": "Sopers Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH17 7EP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "401026",
+  "northing": "94030",
+  "url": "http://www.parkstone.poole.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

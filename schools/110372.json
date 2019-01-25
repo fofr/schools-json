@@ -1,0 +1,18 @@
+{
+  "urn": "110372",
+  "name": "Downs Barn School",
+  "address": "69 Downs Barns Boulevard",
+  "locality": "Downs Barn",
+  "address3": "69 Downs Barn Boulevard",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK14 7NA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "485871",
+  "northing": "240172",
+  "url": "www.boulevardprimarypartnership.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

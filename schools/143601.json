@@ -1,0 +1,18 @@
+{
+  "urn": "143601",
+  "name": "Alderwood Primary School",
+  "address": "Rainham Close",
+  "locality": "Eltham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 2JH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "545054",
+  "northing": "174230",
+  "url": "http://www.alderwood.greenwich.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

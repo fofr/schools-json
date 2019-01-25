@@ -1,0 +1,18 @@
+{
+  "urn": "111591",
+  "name": "Stranton Primary School",
+  "address": "Southburn Terrace",
+  "locality": "",
+  "address3": "",
+  "town": "Hartlepool",
+  "county": "",
+  "postcode": "TS25 1SQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "450773",
+  "northing": "531694",
+  "url": "http://www.stranton.hartlepool.procms.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

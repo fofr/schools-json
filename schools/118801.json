@@ -1,0 +1,18 @@
+{
+  "urn": "118801",
+  "name": "Temple School",
+  "address": "Cliffe Road",
+  "locality": "Strood",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 3DL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "573456",
+  "northing": "170474",
+  "url": "http://www.temple.medway.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

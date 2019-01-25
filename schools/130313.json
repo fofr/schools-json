@@ -1,0 +1,18 @@
+{
+  "urn": "130313",
+  "name": "East Howe Pupil Referral Unit",
+  "address": "Kinson Road",
+  "locality": "East Howe",
+  "address3": "",
+  "town": "Bournemouth",
+  "county": "Dorset",
+  "postcode": "BH10 5HD",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "406988",
+  "northing": "95204",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

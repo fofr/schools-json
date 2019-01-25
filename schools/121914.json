@@ -1,0 +1,18 @@
+{
+  "urn": "121914",
+  "name": "Kings Heath Primary School",
+  "address": "North Oval",
+  "locality": "Kings Heath",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN5 7LN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "473659",
+  "northing": "262535",
+  "url": "www.kingsheathprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

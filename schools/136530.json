@@ -1,0 +1,18 @@
+{
+  "urn": "136530",
+  "name": "Catmose College",
+  "address": "Huntsmans Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Oakham",
+  "county": "Rutland",
+  "postcode": "LE15 6RP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "485388",
+  "northing": "309063",
+  "url": "http://www.catmosecollege.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

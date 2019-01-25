@@ -1,0 +1,18 @@
+{
+  "urn": "108706",
+  "name": "Fellgate Primary School",
+  "address": "Oxford Way",
+  "locality": "Durham Drive",
+  "address3": "Fellgate Estate",
+  "town": "Jarrow",
+  "county": "Tyne and Wear",
+  "postcode": "NE32 4XA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "432749",
+  "northing": "562206",
+  "url": "www.fellgateprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

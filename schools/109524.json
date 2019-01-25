@@ -1,0 +1,18 @@
+{
+  "urn": "109524",
+  "name": "Hawthorn Park Community Primary",
+  "address": "Parkside Drive",
+  "locality": "Houghton Regis",
+  "address3": "",
+  "town": "Dunstable",
+  "county": "Bedfordshire",
+  "postcode": "LU5 5QN",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "502871",
+  "northing": "224608",
+  "url": "www.hawthornparkcps.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

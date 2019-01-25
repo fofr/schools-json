@@ -1,0 +1,18 @@
+{
+  "urn": "144260",
+  "name": "Pinvin CofE First School",
+  "address": "Main Street",
+  "locality": "Pinvin",
+  "address3": "",
+  "town": "Pershore",
+  "county": "Worcestershire",
+  "postcode": "WR10 2ER",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "395427",
+  "northing": "248706",
+  "url": "www.tpfos.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

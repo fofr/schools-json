@@ -1,0 +1,18 @@
+{
+  "urn": "138846",
+  "name": "Ormiston South Parade Academy",
+  "address": "South Parade",
+  "locality": "",
+  "address3": "",
+  "town": "Grimsby",
+  "county": "Lincolnshire",
+  "postcode": "DN31 1TU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526645",
+  "northing": "409538",
+  "url": "http://www.osparade.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

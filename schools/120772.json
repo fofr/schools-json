@@ -1,0 +1,18 @@
+{
+  "urn": "120772",
+  "name": "Western Area Pupil Referral Unit",
+  "address": "Field Lane",
+  "locality": "",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE30 4AY",
+  "minimum_age": "5",
+  "maximum_age": "13",
+  "easting": "564028",
+  "northing": "320936",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

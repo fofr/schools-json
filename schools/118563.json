@@ -1,0 +1,18 @@
+{
+  "urn": "118563",
+  "name": "Aylesham Primary School",
+  "address": "Attlee Avenue",
+  "locality": "Aylesham",
+  "address3": "",
+  "town": "Canterbury",
+  "county": "Kent",
+  "postcode": "CT3 3BS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "623337",
+  "northing": "152432",
+  "url": "www.aylesham.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "113338",
+  "name": "Halberton Primary School",
+  "address": "Church Path",
+  "locality": "Halberton",
+  "address3": "",
+  "town": "Tiverton",
+  "county": "Devon",
+  "postcode": "EX16 7AT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "300548",
+  "northing": "112855",
+  "url": "http://www.halberton-primary.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140339",
+  "name": "St John's Primary School",
+  "address": "Victoria Road",
+  "locality": "Knaphill",
+  "address3": "",
+  "town": "Woking",
+  "county": "Surrey",
+  "postcode": "GU21 2AS",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "497180",
+  "northing": "158300",
+  "url": "www.stjohnsknaphill.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111662",
+  "name": "Belmont Primary School",
+  "address": "Lauderdale Drive",
+  "locality": "Hunters Hill",
+  "address3": "",
+  "town": "Guisborough",
+  "county": "North Yorkshire",
+  "postcode": "TS14 7BS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "461563",
+  "northing": "515122",
+  "url": "www.belmont-primary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

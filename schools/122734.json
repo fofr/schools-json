@@ -1,0 +1,18 @@
+{
+  "urn": "122734",
+  "name": "Heatherley Primary School",
+  "address": "Heatherley Drive",
+  "locality": "Forest Town",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG19 0PY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455489",
+  "northing": "362029",
+  "url": "www.heatherley.notts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

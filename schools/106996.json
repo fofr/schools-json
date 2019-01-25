@@ -1,0 +1,18 @@
+{
+  "urn": "106996",
+  "name": "Intake Primary School",
+  "address": "Mansfield Road",
+  "locality": "Intake",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S12 2AR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "438978",
+  "northing": "384604",
+  "url": "www.intakeprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

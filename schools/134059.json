@@ -1,0 +1,18 @@
+{
+  "urn": "134059",
+  "name": "King Street (KS4) PRU",
+  "address": "New College",
+  "locality": "King Street",
+  "address3": "Wellington",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF1 1NY",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "365604",
+  "northing": "311396",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

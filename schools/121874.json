@@ -1,0 +1,18 @@
+{
+  "urn": "121874",
+  "name": "Wollaston Community Primary School",
+  "address": "College Street",
+  "locality": "Wollaston",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN29 7SF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "490777",
+  "northing": "262814",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

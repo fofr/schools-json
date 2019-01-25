@@ -1,0 +1,18 @@
+{
+  "urn": "105070",
+  "name": "St Paul's Catholic Primary School",
+  "address": "Farmfield Drive",
+  "locality": "",
+  "address3": "Beechwood",
+  "town": "Prenton",
+  "county": "Merseyside",
+  "postcode": "CH43 7TE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "328061",
+  "northing": "389396",
+  "url": "www.stpauls.wirra.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

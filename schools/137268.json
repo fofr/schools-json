@@ -1,0 +1,18 @@
+{
+  "urn": "137268",
+  "name": "Chadsmead Primary Academy",
+  "address": "Friday Acre",
+  "locality": "",
+  "address3": "",
+  "town": "Lichfield",
+  "county": "Staffordshire",
+  "postcode": "WS13 7HJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "411391",
+  "northing": "310475",
+  "url": "www.chadsmeadacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

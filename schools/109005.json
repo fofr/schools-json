@@ -1,0 +1,18 @@
+{
+  "urn": "109005",
+  "name": "Roundhill Primary School",
+  "address": "Mount Road",
+  "locality": "Southdown",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA2 1LG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "372603",
+  "northing": "163164",
+  "url": "www.roundhill-pri.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123093",
+  "name": "Mollington CofE School",
+  "address": "Mollington",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX17 1AZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "444265",
+  "northing": "247566",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

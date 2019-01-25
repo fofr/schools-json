@@ -1,0 +1,18 @@
+{
+  "urn": "103235",
+  "name": "Moor Green Infant School",
+  "address": "Moor Green Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B13 8QP",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "406258",
+  "northing": "282245",
+  "url": "http://www.moorgreen-inf.bham.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

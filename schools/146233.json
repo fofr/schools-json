@@ -1,0 +1,18 @@
+{
+  "urn": "146233",
+  "name": "Colton Primary School",
+  "address": "School Lane",
+  "locality": "Colton",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS15 9AL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "437174",
+  "northing": "433016",
+  "url": "www.colton.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

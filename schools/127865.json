@@ -1,0 +1,18 @@
+{
+  "urn": "127865",
+  "name": "Old Farnley First School",
+  "address": "Chapel Lane",
+  "locality": "Old Farnley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 5EX",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "425098",
+  "northing": "432243",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

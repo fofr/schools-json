@@ -1,0 +1,18 @@
+{
+  "urn": "122700",
+  "name": "Wynndale First School",
+  "address": "Wynndale Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Mansfield",
+  "county": "Nottinghamshire",
+  "postcode": "NG18 3NY",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "456067",
+  "northing": "360249",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

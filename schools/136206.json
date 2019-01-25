@@ -1,0 +1,18 @@
+{
+  "urn": "136206",
+  "name": "St Aldhelm's Academy",
+  "address": "Herbert Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Poole",
+  "county": "Dorset",
+  "postcode": "BH12 4HS",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "404791",
+  "northing": "93663",
+  "url": "www.staldhelms-academy.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

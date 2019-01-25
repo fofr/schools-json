@@ -1,0 +1,18 @@
+{
+  "urn": "106665",
+  "name": "Young Parents Centre",
+  "address": "Elmham Road",
+  "locality": "",
+  "address3": "Cantley",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN4 6LQ",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "461296",
+  "northing": "402106",
+  "url": "http://www.youngparents.doncaster.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "137991",
+  "name": "Harwood Meadows Primary School",
+  "address": "Orchard Gardens",
+  "locality": "Harwood",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL2 3PS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "374789",
+  "northing": "411153",
+  "url": "www.harwood-meadows.bolton.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

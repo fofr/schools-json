@@ -1,0 +1,18 @@
+{
+  "urn": "131083",
+  "name": "Vale View Primary School",
+  "address": "Mill Lane",
+  "locality": "North Reddish",
+  "address3": "",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK5 6TP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "390014",
+  "northing": "394179",
+  "url": "https://valeview-stockport.frogos.net/app/os#!schoolwebsite/home",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

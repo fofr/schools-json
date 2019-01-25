@@ -1,0 +1,18 @@
+{
+  "urn": "123241",
+  "name": "Gosford Hill School",
+  "address": "Oxford Road",
+  "locality": "",
+  "address3": "",
+  "town": "Kidlington",
+  "county": "Oxfordshire",
+  "postcode": "OX5 2NT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "449787",
+  "northing": "213313",
+  "url": "http://www.gosford-hill.oxon.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

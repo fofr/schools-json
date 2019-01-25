@@ -1,0 +1,18 @@
+{
+  "urn": "130344",
+  "name": "North Herts Education Support Centre",
+  "address": "Briar Patch Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Letchworth Garden City",
+  "county": "Hertfordshire",
+  "postcode": "SG6 3LY",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "520907",
+  "northing": "231388",
+  "url": "http://www.northhertsesc.herts.sch.uk/",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

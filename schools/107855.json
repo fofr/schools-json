@@ -1,0 +1,18 @@
+{
+  "urn": "107855",
+  "name": "Tranmere Park Primary School",
+  "address": "Ridge Close",
+  "locality": "Tranmere Park",
+  "address3": "Guiseley",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS20 8JJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "418110",
+  "northing": "441722",
+  "url": "www.tranmerepark.leeds.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "131013",
+  "name": "Highlands Primary School",
+  "address": "Highlands Gardens",
+  "locality": "",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG1 3LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "542552",
+  "northing": "187390",
+  "url": "www.highlandsprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

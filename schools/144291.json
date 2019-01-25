@@ -1,0 +1,18 @@
+{
+  "urn": "144291",
+  "name": "Liskeard School and Community College",
+  "address": "Luxstowe",
+  "locality": "",
+  "address3": "",
+  "town": "Liskeard",
+  "county": "Cornwall",
+  "postcode": "PL14 3EA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "225214",
+  "northing": "64939",
+  "url": "http://www.liskeard.cornwall.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

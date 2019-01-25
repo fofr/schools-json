@@ -1,0 +1,18 @@
+{
+  "urn": "119278",
+  "name": "Kingsfold Primary School",
+  "address": "Martinfield Road",
+  "locality": "Penwortham",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR1 9HJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "352928",
+  "northing": "426830",
+  "url": "http://www.kingsfoldprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

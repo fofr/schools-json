@@ -1,0 +1,18 @@
+{
+  "urn": "141335",
+  "name": "Farnborough Academy",
+  "address": "Farnborough Road",
+  "locality": "Clifton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG11 8JW",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "456126",
+  "northing": "334986",
+  "url": "http://www.thefarnboroughacademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

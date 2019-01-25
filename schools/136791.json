@@ -1,0 +1,18 @@
+{
+  "urn": "136791",
+  "name": "West Somerset College",
+  "address": "Bircham Road",
+  "locality": "Alcombe",
+  "address3": "",
+  "town": "Minehead",
+  "county": "Somerset",
+  "postcode": "TA24 6AY",
+  "minimum_age": "13",
+  "maximum_age": "19",
+  "easting": "297898",
+  "northing": "145150",
+  "url": "http://www.westsomersetcollege.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

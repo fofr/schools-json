@@ -1,0 +1,18 @@
+{
+  "urn": "140499",
+  "name": "Park Lane Primary & Nursery School",
+  "address": "Park Lane",
+  "locality": "Whittlesey",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE7 1JB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526518",
+  "northing": "297055",
+  "url": "www.parklane.cambs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

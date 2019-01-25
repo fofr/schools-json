@@ -1,0 +1,18 @@
+{
+  "urn": "124122",
+  "name": "Ravenhill Primary School",
+  "address": "Talbot Road",
+  "locality": "Brereton",
+  "address3": "",
+  "town": "Rugeley",
+  "county": "Staffordshire",
+  "postcode": "WS15 1AU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "404840",
+  "northing": "316631",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

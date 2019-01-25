@@ -1,0 +1,18 @@
+{
+  "urn": "138565",
+  "name": "Brighton and Hove Pupil Referral Unit",
+  "address": "Lynchet Close",
+  "locality": "",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN1 7FP",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "532168",
+  "northing": "106973",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

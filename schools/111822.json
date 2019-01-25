@@ -1,0 +1,18 @@
+{
+  "urn": "111822",
+  "name": "Coverack Community Primary School",
+  "address": "School Hill",
+  "locality": "Coverack",
+  "address3": "",
+  "town": "Helston",
+  "county": "Cornwall",
+  "postcode": "TR12 6SA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "178105",
+  "northing": "18063",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

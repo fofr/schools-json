@@ -1,0 +1,18 @@
+{
+  "urn": "138228",
+  "name": "Bedford Free School",
+  "address": "Cauldwell Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK42 9AD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "505041",
+  "northing": "249345",
+  "url": "http://www.bedfordfreeschool.co.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124000",
+  "name": "Oakhill Primary School",
+  "address": "Rookery Lane",
+  "locality": "Oakhill",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 5NS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "386821",
+  "northing": "343527",
+  "url": "www.oakhillprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

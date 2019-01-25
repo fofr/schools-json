@@ -1,0 +1,18 @@
+{
+  "urn": "103555",
+  "name": "King Edward VI Aston School",
+  "address": "Frederick Road",
+  "locality": "Aston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B6 6DJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "407860",
+  "northing": "289535",
+  "url": "http://www.kingedwardviaston.bham.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

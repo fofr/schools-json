@@ -1,0 +1,18 @@
+{
+  "urn": "138476",
+  "name": "St Anne's Catholic School",
+  "address": "Carlton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO15 2WZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "441867",
+  "northing": "112991",
+  "url": "http://www.st-annes.uk.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

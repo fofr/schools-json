@@ -1,0 +1,18 @@
+{
+  "urn": "100120",
+  "name": "Ealdham Primary School",
+  "address": "Ealdham Square",
+  "locality": "Eltham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE9 6BP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "541517",
+  "northing": "175119",
+  "url": "www.ealdhamprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

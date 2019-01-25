@@ -1,0 +1,18 @@
+{
+  "urn": "106584",
+  "name": "Oxspring Primary School",
+  "address": "Sheffield Road",
+  "locality": "Oxspring",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S36 8YW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "426841",
+  "northing": "402098",
+  "url": "www.oxspringprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119093",
+  "name": "Hillside Nursery School",
+  "address": "Cedar Avenue",
+  "locality": "Haslingden",
+  "address3": "",
+  "town": "Rossendale",
+  "county": "Lancashire",
+  "postcode": "BB4 5NH",
+  "minimum_age": "2",
+  "maximum_age": "4",
+  "easting": "379268",
+  "northing": "423166",
+  "url": "http://www.haslingdenhillsidenurseryschool.org.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "117226",
+  "name": "Camps Hill Community Primary School",
+  "address": "Chells Way",
+  "locality": "",
+  "address3": "",
+  "town": "Stevenage",
+  "county": "Hertfordshire",
+  "postcode": "SG2 0LT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "526048",
+  "northing": "224789",
+  "url": "http://www.campshill.herts.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

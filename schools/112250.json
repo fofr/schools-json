@@ -1,0 +1,18 @@
+{
+  "urn": "112250",
+  "name": "Houghton CofE School",
+  "address": "Jackson Road",
+  "locality": "Houghton",
+  "address3": "",
+  "town": "Carlisle",
+  "county": "Cumbria",
+  "postcode": "CA3 0PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "340931",
+  "northing": "559239",
+  "url": "www.houghtonschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

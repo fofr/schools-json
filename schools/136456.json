@@ -1,0 +1,18 @@
+{
+  "urn": "136456",
+  "name": "Rainham School for Girls",
+  "address": "Derwent Way",
+  "locality": "Rainham",
+  "address3": "",
+  "town": "Gillingham",
+  "county": "Kent",
+  "postcode": "ME8 0BX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "580560",
+  "northing": "165785",
+  "url": "http://www.rainhamgirls-tkat.org/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123388",
+  "name": "Shawbury Primary School",
+  "address": "Poynton Road",
+  "locality": "Shawbury",
+  "address3": "",
+  "town": "Shrewsbury",
+  "county": "Shropshire",
+  "postcode": "SY4 4JR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "355826",
+  "northing": "320906",
+  "url": "http://www.shawburyprimary.ethink.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

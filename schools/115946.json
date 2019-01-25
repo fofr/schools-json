@@ -1,0 +1,18 @@
+{
+  "urn": "115946",
+  "name": "Sheet Primary School",
+  "address": "School Lane",
+  "locality": "Sheet",
+  "address3": "",
+  "town": "Petersfield",
+  "county": "Hampshire",
+  "postcode": "GU32 2AS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "475573",
+  "northing": "124615",
+  "url": "www.sheetprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

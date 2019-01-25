@@ -1,0 +1,18 @@
+{
+  "urn": "130606",
+  "name": "Berkshire College of Agriculture",
+  "address": "Hall Place",
+  "locality": "Burchetts Green",
+  "address3": "",
+  "town": "Maidenhead",
+  "county": "Berkshire",
+  "postcode": "SL6 6QR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "483362",
+  "northing": "181854",
+  "url": "www.bca.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101558",
+  "name": "Copland Community School",
+  "address": "Cecil Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Wembley",
+  "county": "Middlesex",
+  "postcode": "HA9 7DU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "518587",
+  "northing": "185103",
+  "url": "www.copland-school.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

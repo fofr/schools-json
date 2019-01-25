@@ -1,0 +1,18 @@
+{
+  "urn": "136609",
+  "name": "Sandringham School",
+  "address": "The Ridgeway",
+  "locality": "",
+  "address3": "",
+  "town": "St Albans",
+  "county": "Hertfordshire",
+  "postcode": "AL4 9NX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "516857",
+  "northing": "209364",
+  "url": "http://www.sandringham.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

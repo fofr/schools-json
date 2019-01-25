@@ -1,0 +1,18 @@
+{
+  "urn": "105151",
+  "name": "Chalfont Primary Community School",
+  "address": "Chalfont Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL1 8JS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "371778",
+  "northing": "410770",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

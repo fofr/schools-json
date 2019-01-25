@@ -1,0 +1,18 @@
+{
+  "urn": "137849",
+  "name": "St Alban's Catholic High School",
+  "address": "Digby Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP4 3NJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "619441",
+  "northing": "245374",
+  "url": "http://www.st-albans.suffolk.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

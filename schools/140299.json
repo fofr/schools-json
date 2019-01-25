@@ -1,0 +1,18 @@
+{
+  "urn": "140299",
+  "name": "St Matthews Church of England Academy",
+  "address": "Lightwood Road",
+  "locality": "Rough Close",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 7NE",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "392453",
+  "northing": "339947",
+  "url": "www.stmatthews.stoke.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136568",
+  "name": "Plymstock School",
+  "address": "Church Road",
+  "locality": "Plymstock",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL9 9AZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "251587",
+  "northing": "53450",
+  "url": "http://www.plymstockschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

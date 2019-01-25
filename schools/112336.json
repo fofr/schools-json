@@ -1,0 +1,18 @@
+{
+  "urn": "112336",
+  "name": "Dean CofE School",
+  "address": "Dean",
+  "locality": "",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 4TH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "307193",
+  "northing": "525511",
+  "url": "www.dean.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

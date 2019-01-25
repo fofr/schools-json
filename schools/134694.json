@@ -1,0 +1,18 @@
+{
+  "urn": "134694",
+  "name": "Tor School",
+  "address": "Beckery New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Glastonbury",
+  "county": "Somerset",
+  "postcode": "BA6 9NS",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "348923",
+  "northing": "138529",
+  "url": "http://www.torschool.org",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

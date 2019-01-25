@@ -1,0 +1,18 @@
+{
+  "urn": "137620",
+  "name": "Colebrook Infant Academy",
+  "address": "Towcester Road",
+  "locality": "Coleview",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN3 4AS",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "418121",
+  "northing": "185786",
+  "url": "www.colebrookinfants.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

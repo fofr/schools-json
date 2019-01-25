@@ -1,0 +1,18 @@
+{
+  "urn": "123322",
+  "name": "The Unicorn School",
+  "address": "20 Marcham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Abingdon",
+  "county": "Oxfordshire",
+  "postcode": "OX14 1AA",
+  "minimum_age": "6",
+  "maximum_age": "16",
+  "easting": "448743",
+  "northing": "197026",
+  "url": "www.unicornoxford.co.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Other independent special school"
+}

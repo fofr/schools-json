@@ -1,0 +1,18 @@
+{
+  "urn": "123248",
+  "name": "Headington Middle School",
+  "address": "Margaret Road",
+  "locality": "Headington",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX3 8NH",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "454946",
+  "northing": "206844",
+  "url": "",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120036",
+  "name": "Uplands Infant School",
+  "address": "Melbourne Road",
+  "locality": "Highfields",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE2 0DR",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "460050",
+  "northing": "304192",
+  "url": "www.uplandsinfant.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

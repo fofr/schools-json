@@ -1,0 +1,18 @@
+{
+  "urn": "107266",
+  "name": "Oldfield Primary School",
+  "address": "Oldfield Lane",
+  "locality": "Oldfield",
+  "address3": "",
+  "town": "Keighley",
+  "county": "West Yorkshire",
+  "postcode": "BD22 0HZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "400492",
+  "northing": "437830",
+  "url": "www.oldfieldprimarykeighley.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

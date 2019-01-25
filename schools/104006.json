@@ -1,0 +1,18 @@
+{
+  "urn": "104006",
+  "name": "Wodensborough Community Technology College",
+  "address": "Hydes Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wednesbury",
+  "county": "West Midlands",
+  "postcode": "WS10 0DR",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "399980",
+  "northing": "294520",
+  "url": "www.wodensboroughctc.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

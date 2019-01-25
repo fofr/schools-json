@@ -1,0 +1,18 @@
+{
+  "urn": "100572",
+  "name": "Jessop Primary School",
+  "address": "Lowden Road",
+  "locality": "Herne Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE24 0BJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "531996",
+  "northing": "175145",
+  "url": "www.jessopprimary.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

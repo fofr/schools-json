@@ -1,0 +1,18 @@
+{
+  "urn": "126206",
+  "name": "Harnham Infants' School",
+  "address": "Saxon Road",
+  "locality": "",
+  "address3": "",
+  "town": "Salisbury",
+  "county": "Wiltshire",
+  "postcode": "SP2 8JZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "413680",
+  "northing": "128866",
+  "url": "http://www.harnhaminfants.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

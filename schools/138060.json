@@ -1,0 +1,18 @@
+{
+  "urn": "138060",
+  "name": "Danetre School",
+  "address": "Hawke Road",
+  "locality": "Southbrook",
+  "address3": "",
+  "town": "Daventry",
+  "county": "Northamptonshire",
+  "postcode": "NN11 4LJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458224",
+  "northing": "262444",
+  "url": "http://www.danetre.northants.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "105191",
+  "name": "Blackrod Primary School",
+  "address": "Manchester Road",
+  "locality": "Blackrod",
+  "address3": "",
+  "town": "Bolton",
+  "county": "Lancashire",
+  "postcode": "BL6 5SY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "362264",
+  "northing": "409924",
+  "url": "www.blackrodprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

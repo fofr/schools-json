@@ -1,0 +1,18 @@
+{
+  "urn": "143499",
+  "name": "Southbroom Infants' School",
+  "address": "The Green",
+  "locality": "Southbroom Road",
+  "address3": "",
+  "town": "Devizes",
+  "county": "Wiltshire",
+  "postcode": "SN10 5AA",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "400800",
+  "northing": "161137",
+  "url": "www.southbroom-inf.wilts.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

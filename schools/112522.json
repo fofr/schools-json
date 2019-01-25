@@ -1,0 +1,18 @@
+{
+  "urn": "112522",
+  "name": "Buxton Infant School",
+  "address": "Hardwick Square",
+  "locality": "",
+  "address3": "",
+  "town": "Buxton",
+  "county": "Derbyshire",
+  "postcode": "SK17 6QB",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "406036",
+  "northing": "373331",
+  "url": "http://www.buxton-inf.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

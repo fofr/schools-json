@@ -1,0 +1,18 @@
+{
+  "urn": "112950",
+  "name": "Highfields School",
+  "address": "Upper Lumsdale",
+  "locality": "",
+  "address3": "",
+  "town": "Matlock",
+  "county": "Derbyshire",
+  "postcode": "DE4 5NA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "431151",
+  "northing": "361173",
+  "url": "http://www.highfields.derbyshire.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136006",
+  "name": "Abbey Hill Primary & Nursery",
+  "address": "Abbey Road",
+  "locality": "Kirkby-in-Ashfield",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG17 7NZ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "451277",
+  "northing": "356185",
+  "url": "http://www.abbeyhillprimaryandnurseryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139797",
+  "name": "City Academy Birmingham",
+  "address": "23 Langley Walk",
+  "locality": "Ladywood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B15 2EF",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "406432",
+  "northing": "286060",
+  "url": "www.city-birmingham.academy",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "128704",
+  "name": "Goosewell Infant School",
+  "address": "Goosewell Road",
+  "locality": "Plymstock",
+  "address3": "",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL9 9HD",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "251875",
+  "northing": "52680",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

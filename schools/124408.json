@@ -1,0 +1,18 @@
+{
+  "urn": "124408",
+  "name": "King Edward VI School",
+  "address": "Upper St John Street",
+  "locality": "",
+  "address3": "",
+  "town": "Lichfield",
+  "county": "Staffordshire",
+  "postcode": "WS14 9EE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "412110",
+  "northing": "308740",
+  "url": "http://www.keslichfield.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "102851",
+  "name": "Wanstead High School",
+  "address": "Redbridge Lane West",
+  "locality": "Wanstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E11 2JZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "541203",
+  "northing": "188279",
+  "url": "www.wansteadhigh.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

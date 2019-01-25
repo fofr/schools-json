@@ -1,0 +1,18 @@
+{
+  "urn": "119743",
+  "name": "Walton Le Dale High School",
+  "address": "Brindle Road",
+  "locality": "Bamber Bridge",
+  "address3": "",
+  "town": "Preston",
+  "county": "Lancashire",
+  "postcode": "PR5 6RN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "356905",
+  "northing": "426883",
+  "url": "http://www.waltonledale.lancs.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

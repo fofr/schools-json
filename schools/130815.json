@@ -1,0 +1,18 @@
+{
+  "urn": "130815",
+  "name": "Stoke-on-Trent College",
+  "address": "Cauldon Campus",
+  "locality": "Stoke Road",
+  "address3": "Shelton",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST4 2DG",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "387789",
+  "northing": "346382",
+  "url": "www.stokecoll.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

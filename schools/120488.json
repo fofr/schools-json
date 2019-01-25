@@ -1,0 +1,18 @@
+{
+  "urn": "120488",
+  "name": "Wragby Primary School",
+  "address": "Silver Street",
+  "locality": "Wragby",
+  "address3": "",
+  "town": "Market Rasen",
+  "county": "Lincolnshire",
+  "postcode": "LN8 5PJ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "513536",
+  "northing": "378130",
+  "url": "http://www.wragby.lincs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

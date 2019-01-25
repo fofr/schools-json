@@ -1,0 +1,18 @@
+{
+  "urn": "121389",
+  "name": "Drax Community Primary School",
+  "address": "Castle Hill Lane",
+  "locality": "Drax",
+  "address3": "",
+  "town": "Selby",
+  "county": "North Yorkshire",
+  "postcode": "YO8 8NP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "467591",
+  "northing": "426280",
+  "url": "http://www.drax.n-yorks.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

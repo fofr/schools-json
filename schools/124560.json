@@ -1,0 +1,18 @@
+{
+  "urn": "124560",
+  "name": "Woodhall Community Primary School",
+  "address": "Mayflower Way",
+  "locality": "",
+  "address3": "",
+  "town": "Sudbury",
+  "county": "Suffolk",
+  "postcode": "CO10 1ST",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "587574",
+  "northing": "242577",
+  "url": "http://www.woodhall.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

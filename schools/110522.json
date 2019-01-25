@@ -1,0 +1,18 @@
+{
+  "urn": "110522",
+  "name": "Castlefield School",
+  "address": "The Middle Way",
+  "locality": "",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP12 3LE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "484429",
+  "northing": "192593",
+  "url": "www.castlefieldschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

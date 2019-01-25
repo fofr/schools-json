@@ -1,0 +1,18 @@
+{
+  "urn": "109931",
+  "name": "Calcot Infant School and Nursery",
+  "address": "Curtis Road",
+  "locality": "Calcot",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG31 4XG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "466035",
+  "northing": "171981",
+  "url": "www.calcotschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

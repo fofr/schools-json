@@ -1,0 +1,18 @@
+{
+  "urn": "110517",
+  "name": "St Paul's Catholic School",
+  "address": "Phoenix Drive",
+  "locality": "Leadenhall",
+  "address3": "",
+  "town": "Milton Keynes",
+  "county": "Buckinghamshire",
+  "postcode": "MK6 5EN",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "485623",
+  "northing": "237130",
+  "url": "http://www.st-pauls.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

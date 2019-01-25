@@ -1,0 +1,18 @@
+{
+  "urn": "142212",
+  "name": "St John Fisher Catholic Primary School",
+  "address": "Kineton Road",
+  "locality": "Wyken",
+  "address3": "",
+  "town": "Coventry",
+  "county": "West Midlands",
+  "postcode": "CV2 3NR",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "436588",
+  "northing": "280517",
+  "url": "http://www.st-johnfisher.coventry.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

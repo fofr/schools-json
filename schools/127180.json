@@ -1,0 +1,18 @@
+{
+  "urn": "127180",
+  "name": "Kingshurst School",
+  "address": "Cooks Lane",
+  "locality": "Kingshurst",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B37 6NU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "417168",
+  "northing": "287676",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "143351",
+  "name": "Bishop Lonsdale Church of England Primary Academy",
+  "address": "Shaws Lane",
+  "locality": "Eccleshall",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST21 6AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382693",
+  "northing": "328662",
+  "url": "http://www.lonsdale.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

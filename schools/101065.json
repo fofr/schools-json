@@ -1,0 +1,18 @@
+{
+  "urn": "101065",
+  "name": "Merlin School",
+  "address": "4 Carlton Drive",
+  "locality": "Putney",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW15 2BZ",
+  "minimum_age": "4",
+  "maximum_age": "8",
+  "easting": "524005",
+  "northing": "174649",
+  "url": "www.merlinschool.net",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123246",
+  "name": "Langtree School",
+  "address": "Woodcote",
+  "locality": "",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG8 0RA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "464725",
+  "northing": "181974",
+  "url": "http://www.woodcote-online.co.uk/education/langtree.htm",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

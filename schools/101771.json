@@ -1,0 +1,18 @@
+{
+  "urn": "101771",
+  "name": "Byron Infant School",
+  "address": "St David's",
+  "locality": "Off Stoneyfield Road",
+  "address3": "",
+  "town": "Coulsdon",
+  "county": "Surrey",
+  "postcode": "CR5 2XE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "530576",
+  "northing": "158804",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124120",
+  "name": "Valley Primary School",
+  "address": "School Drive",
+  "locality": "Oakamoor",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST10 3DQ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "405361",
+  "northing": "345051",
+  "url": "http://www.valley.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

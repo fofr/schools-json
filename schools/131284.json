@@ -1,0 +1,18 @@
+{
+  "urn": "131284",
+  "name": "City Hospital Teaching Unit",
+  "address": "Ward 10",
+  "locality": "City Hospital (NHS Trust)",
+  "address3": "Dudley Road",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B18 7QH",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "404889",
+  "northing": "287992",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

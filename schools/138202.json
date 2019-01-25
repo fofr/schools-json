@@ -1,0 +1,18 @@
+{
+  "urn": "138202",
+  "name": "Wapping High School",
+  "address": "153 Commercial Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "Not applicable",
+  "postcode": "E1 2DA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "534642",
+  "northing": "181343",
+  "url": "www.wappinghigh.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

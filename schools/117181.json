@@ -1,0 +1,18 @@
+{
+  "urn": "117181",
+  "name": "Woodlands Primary School",
+  "address": "Alban Crescent",
+  "locality": "",
+  "address3": "",
+  "town": "Borehamwood",
+  "county": "Hertfordshire",
+  "postcode": "WD6 5JF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "519616",
+  "northing": "197854",
+  "url": "http://www.woodlands.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

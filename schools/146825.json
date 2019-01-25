@@ -1,0 +1,18 @@
+{
+  "urn": "146825",
+  "name": "Rye College",
+  "address": "Love Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Rye",
+  "county": "",
+  "postcode": "TN31 7NQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "591951",
+  "northing": "120844",
+  "url": "www.ryecollege.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "124002",
+  "name": "Blurton Primary School",
+  "address": "Poplar Drive",
+  "locality": "Blurton",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST3 3AZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "389381",
+  "northing": "342614",
+  "url": "www.blurton-pri.stoke.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

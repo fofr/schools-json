@@ -1,0 +1,18 @@
+{
+  "urn": "127596",
+  "name": "Thurnscoe School",
+  "address": "Clayton Lane",
+  "locality": "Thurnscoe",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S63 0BE",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "446600",
+  "northing": "405900",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

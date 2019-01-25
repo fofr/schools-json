@@ -1,0 +1,18 @@
+{
+  "urn": "111988",
+  "name": "Flushing School",
+  "address": "Coventry Road",
+  "locality": "Flushing",
+  "address3": "",
+  "town": "Falmouth",
+  "county": "Cornwall",
+  "postcode": "TR11 5TX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "180918",
+  "northing": "33861",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

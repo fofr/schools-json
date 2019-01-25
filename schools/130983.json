@@ -1,0 +1,18 @@
+{
+  "urn": "130983",
+  "name": "Oakfield Pupil Referral Unit",
+  "address": "Stanley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR5 1BD",
+  "minimum_age": "14",
+  "maximum_age": "16",
+  "easting": "385723",
+  "northing": "254671",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

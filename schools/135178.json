@@ -1,0 +1,18 @@
+{
+  "urn": "135178",
+  "name": "Manor Community Primary School",
+  "address": "Keary Road",
+  "locality": "",
+  "address3": "",
+  "town": "Swanscombe",
+  "county": "Kent",
+  "postcode": "DA10 0BU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "560606",
+  "northing": "173953",
+  "url": "www.manor.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

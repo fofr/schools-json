@@ -1,0 +1,18 @@
+{
+  "urn": "137397",
+  "name": "Sheldwich Primary School",
+  "address": "Lees Court Road",
+  "locality": "Sheldwich",
+  "address3": "",
+  "town": "Faversham",
+  "county": "Kent",
+  "postcode": "ME13 0LU",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "601215",
+  "northing": "156561",
+  "url": "http://www.sheldwich.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

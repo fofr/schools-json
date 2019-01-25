@@ -1,0 +1,18 @@
+{
+  "urn": "141011",
+  "name": "Falcons Primary School",
+  "address": "George Hine House",
+  "locality": "Gipsy Lane",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 0TA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "462268",
+  "northing": "306025",
+  "url": "www.falconsprimary.org/",
+  "phase": "Primary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

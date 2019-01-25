@@ -1,0 +1,18 @@
+{
+  "urn": "127807",
+  "name": "Armley First School",
+  "address": "Armley Road",
+  "locality": "Armley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS12 2LY",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "427455",
+  "northing": "433701",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

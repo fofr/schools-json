@@ -1,0 +1,18 @@
+{
+  "urn": "123445",
+  "name": "John Randall Primary School",
+  "address": "Queen Street",
+  "locality": "Madeley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF7 4DS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370515",
+  "northing": "304369",
+  "url": "http://johnrandallprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

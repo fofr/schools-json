@@ -1,0 +1,18 @@
+{
+  "urn": "115033",
+  "name": "Hilltop Junior School",
+  "address": "Hill Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Wickford",
+  "county": "Essex",
+  "postcode": "SS11 8LP",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "576095",
+  "northing": "193821",
+  "url": "http://www.hilltop-junior.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

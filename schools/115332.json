@@ -1,0 +1,18 @@
+{
+  "urn": "115332",
+  "name": "The Boswells School",
+  "address": "Burnham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM1 6LY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "572016",
+  "northing": "208568",
+  "url": "http://www.boswells.essex.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

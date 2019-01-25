@@ -1,0 +1,18 @@
+{
+  "urn": "131969",
+  "name": "Abbeyfield School",
+  "address": "Stanley Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chippenham",
+  "county": "Wiltshire",
+  "postcode": "SN15 3XB",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "393656",
+  "northing": "172558",
+  "url": "http://www.abbeyfield.wilts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

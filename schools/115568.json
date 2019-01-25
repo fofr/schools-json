@@ -1,0 +1,18 @@
+{
+  "urn": "115568",
+  "name": "The Croft Primary School",
+  "address": "Churchill Way",
+  "locality": "Painswick",
+  "address3": "",
+  "town": "Stroud",
+  "county": "Gloucestershire",
+  "postcode": "GL6 6RQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "386458",
+  "northing": "209931",
+  "url": "www.croft.gloucs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "104354",
+  "name": "Woodthorne Primary School",
+  "address": "Woodthorne Road South",
+  "locality": "Tettenhall",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV6 8XL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387442",
+  "northing": "299943",
+  "url": "www.woodthorneprimary.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

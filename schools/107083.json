@@ -1,0 +1,18 @@
+{
+  "urn": "107083",
+  "name": "Athelstan Primary School",
+  "address": "Richmond Park Way",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S13 8HH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "440064",
+  "northing": "386163",
+  "url": "www.athelstanprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

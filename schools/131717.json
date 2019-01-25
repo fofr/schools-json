@@ -1,0 +1,18 @@
+{
+  "urn": "131717",
+  "name": "Knightwood Primary School",
+  "address": "Bell Flower Way",
+  "locality": "Knightwood Road",
+  "address3": "Chandler's Ford",
+  "town": "Eastleigh",
+  "county": "Hampshire",
+  "postcode": "SO53 4HW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "441978",
+  "northing": "121304",
+  "url": "http://www.knightwood.hants.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

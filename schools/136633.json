@@ -1,0 +1,18 @@
+{
+  "urn": "136633",
+  "name": "Castleford Academy",
+  "address": "Ferrybridge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Castleford",
+  "county": "West Yorkshire",
+  "postcode": "WF10 4JQ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "443440",
+  "northing": "425591",
+  "url": "http://www.castlefordacademy.com",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

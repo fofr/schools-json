@@ -1,0 +1,18 @@
+{
+  "urn": "109013",
+  "name": "Filton Hill Primary School",
+  "address": "Blenheim Drive",
+  "locality": "Filton",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Gloucestershire",
+  "postcode": "BS34 7AX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "360628",
+  "northing": "179762",
+  "url": "www.filtonhillprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

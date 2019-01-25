@@ -1,0 +1,18 @@
+{
+  "urn": "135861",
+  "name": "High Park School",
+  "address": "Thorn Lane",
+  "locality": "Heaton",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD9 6RY",
+  "minimum_age": "3",
+  "maximum_age": "19",
+  "easting": "412803",
+  "northing": "435749",
+  "url": "www.highpark.org.uk",
+  "phase": "Not applicable",
+  "type": "Special schools",
+  "detailed_type": "Community special school"
+}

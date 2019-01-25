@@ -1,0 +1,18 @@
+{
+  "urn": "123399",
+  "name": "Stoke-on-Tern Primary School",
+  "address": "Rosehill Road",
+  "locality": "Stoke Heath",
+  "address3": "",
+  "town": "Market Drayton",
+  "county": "Shropshire",
+  "postcode": "TF9 2LF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "365440",
+  "northing": "328466",
+  "url": "http://www.stokeonternschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

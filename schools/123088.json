@@ -1,0 +1,18 @@
+{
+  "urn": "123088",
+  "name": "Windale Community Primary School",
+  "address": "Windale Avenue",
+  "locality": "Blackbird Leys",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX4 6JD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455415",
+  "northing": "202362",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

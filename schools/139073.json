@@ -1,0 +1,18 @@
+{
+  "urn": "139073",
+  "name": "Penryn Primary Academy",
+  "address": "Treverbyn Rise",
+  "locality": "",
+  "address3": "",
+  "town": "Penryn",
+  "county": "Cornwall",
+  "postcode": "TR10 8RA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "177616",
+  "northing": "34560",
+  "url": "www.penrynprimary.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

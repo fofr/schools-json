@@ -1,0 +1,18 @@
+{
+  "urn": "112615",
+  "name": "Scarcliffe Primary School",
+  "address": "Fox Hill",
+  "locality": "Scarcliffe",
+  "address3": "Bolsover",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S44 6TH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "449599",
+  "northing": "368783",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "100713",
+  "name": "Myatt Garden Primary School",
+  "address": "Rokeby Road",
+  "locality": "Brockley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE4 1DF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536827",
+  "northing": "176434",
+  "url": "http://www.myattgarden.lewisham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

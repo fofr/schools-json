@@ -1,0 +1,18 @@
+{
+  "urn": "143448",
+  "name": "Illogan School",
+  "address": "Churchtown",
+  "locality": "Illogan",
+  "address3": "Churchtown, Illogan",
+  "town": "Redruth",
+  "county": "Cornwall",
+  "postcode": "TR16 4SW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "166988",
+  "northing": "44078",
+  "url": "www.illogan.cornwall.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

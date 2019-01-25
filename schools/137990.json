@@ -1,0 +1,18 @@
+{
+  "urn": "137990",
+  "name": "High Halstow Primary Academy",
+  "address": "Harrison Drive",
+  "locality": "High Halstow",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME3 8TF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "578093",
+  "northing": "175447",
+  "url": "http://www.highhalstowprimaryschool.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

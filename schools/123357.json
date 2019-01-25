@@ -1,0 +1,18 @@
+{
+  "urn": "123357",
+  "name": "Cheswardine Primary and Nursery School",
+  "address": "Glebe Close",
+  "locality": "Cheswardine",
+  "address3": "",
+  "town": "Market Drayton",
+  "county": "Shropshire",
+  "postcode": "TF9 2RU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "372097",
+  "northing": "329818",
+  "url": "www.cheswardineschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

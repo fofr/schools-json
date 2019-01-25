@@ -1,0 +1,18 @@
+{
+  "urn": "112142",
+  "name": "Northside Academy",
+  "address": "Northside",
+  "locality": "",
+  "address3": "",
+  "town": "Workington",
+  "county": "Cumbria",
+  "postcode": "CA14 1BD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "299949",
+  "northing": "529712",
+  "url": "www.northsideprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

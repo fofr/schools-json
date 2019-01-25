@@ -1,0 +1,18 @@
+{
+  "urn": "120014",
+  "name": "Imperial Avenue Infant School",
+  "address": "Imperial Avenue",
+  "locality": "Braunstone",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 1AH",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "456830",
+  "northing": "303267",
+  "url": "www.imperialavenue.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

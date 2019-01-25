@@ -1,0 +1,18 @@
+{
+  "urn": "106184",
+  "name": "Arundale Primary School",
+  "address": "Lowry Grove",
+  "locality": "Mottram",
+  "address3": "",
+  "town": "Hyde",
+  "county": "Cheshire",
+  "postcode": "SK14 6PW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "398676",
+  "northing": "395198",
+  "url": "http://www.arundaleprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

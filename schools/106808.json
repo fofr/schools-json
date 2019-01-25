@@ -1,0 +1,18 @@
+{
+  "urn": "106808",
+  "name": "Hall Cross School",
+  "address": "Thorne Road",
+  "locality": "",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN1 2HY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "458142",
+  "northing": "403254",
+  "url": "http://www.hallcross.doncaster.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

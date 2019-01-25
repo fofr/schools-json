@@ -1,0 +1,18 @@
+{
+  "urn": "141536",
+  "name": "Harworth CofE Academy",
+  "address": "Scrooby Road",
+  "locality": "Harworth",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN11 8JT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "462009",
+  "northing": "391619",
+  "url": "www.allsaintsharworth.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

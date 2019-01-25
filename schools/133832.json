@@ -1,0 +1,18 @@
+{
+  "urn": "133832",
+  "name": "University of Leicester",
+  "address": "University Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE1 7RH",
+  "minimum_age": "",
+  "maximum_age": "",
+  "easting": "459412",
+  "northing": "303044",
+  "url": "http://www.le.ac.uk/",
+  "phase": "Not applicable",
+  "type": "Universities",
+  "detailed_type": "Higher education institutions"
+}

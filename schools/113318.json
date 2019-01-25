@@ -1,0 +1,18 @@
+{
+  "urn": "113318",
+  "name": "Woodford Junior School",
+  "address": "Greenway Avenue",
+  "locality": "Woodford",
+  "address3": "Plympton",
+  "town": "Plymouth",
+  "county": "Devon",
+  "postcode": "PL7 4RR",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "252834",
+  "northing": "57017",
+  "url": "http://www.woodfordschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

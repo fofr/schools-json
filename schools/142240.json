@@ -1,0 +1,18 @@
+{
+  "urn": "142240",
+  "name": "Alverton Primary School",
+  "address": "Toltuff Crescent",
+  "locality": "Alverton",
+  "address3": "",
+  "town": "Penzance",
+  "county": "Cornwall",
+  "postcode": "TR18 4QD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "146447",
+  "northing": "29789",
+  "url": "http://www.alverton.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

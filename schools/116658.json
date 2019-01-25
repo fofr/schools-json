@@ -1,0 +1,18 @@
+{
+  "urn": "116658",
+  "name": "Catshill First School",
+  "address": "Gibb Lane",
+  "locality": "Catshill",
+  "address3": "",
+  "town": "Bromsgrove",
+  "county": "Worcestershire",
+  "postcode": "B61 0JP",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "396178",
+  "northing": "273875",
+  "url": "www.catshillfirst.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

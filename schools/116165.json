@@ -1,0 +1,18 @@
+{
+  "urn": "116165",
+  "name": "Haselworth Primary School",
+  "address": "Stone Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Gosport",
+  "county": "Hampshire",
+  "postcode": "PO12 1SQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "460888",
+  "northing": "99433",
+  "url": "www.hants.gov.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

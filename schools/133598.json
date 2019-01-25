@@ -1,0 +1,18 @@
+{
+  "urn": "133598",
+  "name": "Woodview Primary School",
+  "address": "Woodview Drive",
+  "locality": "Edgbaston",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B15 2HU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "406495",
+  "northing": "285470",
+  "url": "www.woodviewprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

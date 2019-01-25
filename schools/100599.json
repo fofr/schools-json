@@ -1,0 +1,18 @@
+{
+  "urn": "100599",
+  "name": "King's Acre Primary School",
+  "address": "King's Avenue",
+  "locality": "Clapham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW4 8BQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530055",
+  "northing": "174685",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "110356",
+  "name": "Ashmead Combined School",
+  "address": "Cole Road",
+  "locality": "",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP21 8SU",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "481458",
+  "northing": "212095",
+  "url": "http://www.ashmeadschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

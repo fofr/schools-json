@@ -1,0 +1,18 @@
+{
+  "urn": "120182",
+  "name": "Ryhall CofE Primary School",
+  "address": "Church Street",
+  "locality": "Ryhall",
+  "address3": "",
+  "town": "Stamford",
+  "county": "Lincolnshire",
+  "postcode": "PE9 4HR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "503702",
+  "northing": "310640",
+  "url": "http://www.ryhallprimary.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

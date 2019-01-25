@@ -1,0 +1,18 @@
+{
+  "urn": "122479",
+  "name": "Meadows Primary School",
+  "address": "Kirkby Gardens",
+  "locality": "The Meadows",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 2HZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "457566",
+  "northing": "338566",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130513",
+  "name": "North Area College",
+  "address": "Buckingham Road",
+  "locality": "",
+  "address3": "Heaton Moor",
+  "town": "Stockport",
+  "county": "Cheshire",
+  "postcode": "SK4 4RA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "387952",
+  "northing": "392463",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

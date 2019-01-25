@@ -1,0 +1,18 @@
+{
+  "urn": "120642",
+  "name": "Spalding High School",
+  "address": "Stonegate",
+  "locality": "",
+  "address3": "",
+  "town": "Spalding",
+  "county": "Lincolnshire",
+  "postcode": "PE11 2PJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "525377",
+  "northing": "322235",
+  "url": "http://www.spaldinghigh.lincs.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

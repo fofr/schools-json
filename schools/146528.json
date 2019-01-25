@@ -1,0 +1,18 @@
+{
+  "urn": "146528",
+  "name": "Little Harrowden Community Primary School",
+  "address": "School Lane",
+  "locality": "Little Harrowden",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN9 5BN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "487150",
+  "northing": "271739",
+  "url": "www.littleharrowdenprimary.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

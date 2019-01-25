@@ -1,0 +1,18 @@
+{
+  "urn": "112781",
+  "name": "Stenson Fields Primary Community School",
+  "address": "Heather Close",
+  "locality": "Stenson Fields",
+  "address3": "Sinfin",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE24 3BW",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "433778",
+  "northing": "330985",
+  "url": "www.stensonfields.derbyshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103772",
+  "name": "Sledmere Primary School",
+  "address": "The School Drive",
+  "locality": "Off Buffery Road",
+  "address3": "",
+  "town": "Dudley",
+  "county": "West Midlands",
+  "postcode": "DY2 8EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "394988",
+  "northing": "288893",
+  "url": "http://www.sledmere.org/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

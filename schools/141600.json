@@ -1,0 +1,18 @@
+{
+  "urn": "141600",
+  "name": "Rose Green Junior School",
+  "address": "Raleigh Road",
+  "locality": "Rose Green",
+  "address3": "",
+  "town": "Bognor Regis",
+  "county": "West Sussex",
+  "postcode": "PO21 3NA",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "490069",
+  "northing": "99152",
+  "url": "www.rosegreenjunior.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

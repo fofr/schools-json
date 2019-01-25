@@ -1,0 +1,18 @@
+{
+  "urn": "124620",
+  "name": "Wortham Primary School",
+  "address": "Wortham",
+  "locality": "Bury Road",
+  "address3": "",
+  "town": "Diss",
+  "county": "Norfolk",
+  "postcode": "IP22 1PX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "608315",
+  "northing": "277119",
+  "url": "www.wortham.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

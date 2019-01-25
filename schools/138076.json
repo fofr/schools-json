@@ -1,0 +1,18 @@
+{
+  "urn": "138076",
+  "name": "The Elizabethan Academy",
+  "address": "Hallcroft Road",
+  "locality": "",
+  "address3": "",
+  "town": "Retford",
+  "county": "Nottinghamshire",
+  "postcode": "DN22 7PY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "469921",
+  "northing": "382099",
+  "url": "http://www.elizabethan.notts.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

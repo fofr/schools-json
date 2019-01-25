@@ -1,0 +1,18 @@
+{
+  "urn": "124912",
+  "name": "Dorking Nursery School",
+  "address": "West Street",
+  "locality": "",
+  "address3": "",
+  "town": "Dorking",
+  "county": "Surrey",
+  "postcode": "RH4 1BY",
+  "minimum_age": "2",
+  "maximum_age": "5",
+  "easting": "516251",
+  "northing": "149313",
+  "url": "http://www.dorking.surrey.sch.uk",
+  "phase": "Nursery",
+  "type": "LA maintained schools",
+  "detailed_type": "Local authority nursery school"
+}

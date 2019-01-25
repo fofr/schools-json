@@ -1,0 +1,18 @@
+{
+  "urn": "123034",
+  "name": "Barley Hill Primary School",
+  "address": "Ludsden Grove",
+  "locality": "",
+  "address3": "",
+  "town": "Thame",
+  "county": "Oxfordshire",
+  "postcode": "OX9 3DH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "470997",
+  "northing": "206043",
+  "url": "http://www.barley-hill.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

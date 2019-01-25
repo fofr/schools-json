@@ -1,0 +1,18 @@
+{
+  "urn": "103787",
+  "name": "Thorns Primary School",
+  "address": "Thorns Road",
+  "locality": "Quarry Bank",
+  "address3": "",
+  "town": "Brierley Hill",
+  "county": "West Midlands",
+  "postcode": "DY5 2JY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "392309",
+  "northing": "285496",
+  "url": "http://www.thorns.sch.life",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

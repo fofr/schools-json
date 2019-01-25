@@ -1,0 +1,18 @@
+{
+  "urn": "136079",
+  "name": "Willow Tree Primary School",
+  "address": "2 Greenland Street",
+  "locality": "",
+  "address3": "",
+  "town": "Salford",
+  "county": "Lancashire",
+  "postcode": "M6 5TJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "380400",
+  "northing": "398830",
+  "url": "www.willowtreeprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

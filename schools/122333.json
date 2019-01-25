@@ -1,0 +1,18 @@
+{
+  "urn": "122333",
+  "name": "Brockwell Middle School",
+  "address": "Northumbrian Road",
+  "locality": "Parkside Grange",
+  "address3": "",
+  "town": "Cramlington",
+  "county": "Northumberland",
+  "postcode": "NE23 1GF",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "426757",
+  "northing": "578010",
+  "url": "http://www.brockwellschool.co.uk",
+  "phase": "Middle deemed secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

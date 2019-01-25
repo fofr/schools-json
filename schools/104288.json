@@ -1,0 +1,18 @@
+{
+  "urn": "104288",
+  "name": "The Orchard Centre (Home and Hospital PRU)",
+  "address": "Lawnswood Campus",
+  "locality": "Lawnswood Avenue",
+  "address3": "Parkfields",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 6SR",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "392104",
+  "northing": "295498",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

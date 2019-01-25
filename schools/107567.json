@@ -1,0 +1,18 @@
+{
+  "urn": "107567",
+  "name": "The Ridings School",
+  "address": "Nursery Lane",
+  "locality": "Ovenden",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX3 5SX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "407607",
+  "northing": "427118",
+  "url": "http://www.theridingsschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101290",
+  "name": "Manorside Primary School",
+  "address": "Squires Lane",
+  "locality": "Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N3 2AB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526076",
+  "northing": "190672",
+  "url": "http://www.manorsideprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

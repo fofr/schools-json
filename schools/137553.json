@@ -1,0 +1,18 @@
+{
+  "urn": "137553",
+  "name": "The Weston Road Academy",
+  "address": "Blackheath Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Stafford",
+  "county": "Staffordshire",
+  "postcode": "ST18 0YG",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "395018",
+  "northing": "324088",
+  "url": "http://www.westonroad.staffs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

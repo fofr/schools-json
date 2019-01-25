@@ -1,0 +1,18 @@
+{
+  "urn": "130489",
+  "name": "Carmel College",
+  "address": "Prescot Road",
+  "locality": "",
+  "address3": "",
+  "town": "St Helens",
+  "county": "Merseyside",
+  "postcode": "WA10 3AG",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "348850",
+  "northing": "394296",
+  "url": "www.carmel.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "140298",
+  "name": "St Maria Goretti Catholic Academy",
+  "address": "Aylesbury Road",
+  "locality": "Bucknall",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST2 0LY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391108",
+  "northing": "346766",
+  "url": "http://www.stmariagoretti.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

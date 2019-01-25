@@ -1,0 +1,18 @@
+{
+  "urn": "144499",
+  "name": "North Walsall Primary Academy",
+  "address": "Derby Street",
+  "locality": "",
+  "address3": "",
+  "town": "Walsall",
+  "county": "West Midlands",
+  "postcode": "WS2 7BH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "401040",
+  "northing": "299956",
+  "url": "www.nwpa.attrust.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

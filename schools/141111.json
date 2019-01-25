@@ -1,0 +1,18 @@
+{
+  "urn": "141111",
+  "name": "UTC Oxfordshire",
+  "address": "Greenwood Way",
+  "locality": "Harwell",
+  "address3": "",
+  "town": "Didcot",
+  "county": "Oxfordshire",
+  "postcode": "OX11 6BZ",
+  "minimum_age": "14",
+  "maximum_age": "19",
+  "easting": "450526",
+  "northing": "189702",
+  "url": "www.utcoxfordshire.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "University technical college"
+}

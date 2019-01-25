@@ -1,0 +1,18 @@
+{
+  "urn": "122702",
+  "name": "Claremont Primary and Nursery School",
+  "address": "Claremont Road",
+  "locality": "",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG5 1BH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "456579",
+  "northing": "342133",
+  "url": "www.claremontnottingham.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

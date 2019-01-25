@@ -1,0 +1,18 @@
+{
+  "urn": "131962",
+  "name": "Cedarwood Primary School",
+  "address": "Wilkinson Drive",
+  "locality": "Kesgrave",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP5 2ES",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "622333",
+  "northing": "244787",
+  "url": "www.cedarwood.eschools.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

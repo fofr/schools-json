@@ -1,0 +1,18 @@
+{
+  "urn": "122001",
+  "name": "Welton Church of England Primary School",
+  "address": "Well Lane",
+  "locality": "Welton",
+  "address3": "",
+  "town": "Daventry",
+  "county": "Northamptonshire",
+  "postcode": "NN11 2JZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "458109",
+  "northing": "266143",
+  "url": "http://www.weltonceschool.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

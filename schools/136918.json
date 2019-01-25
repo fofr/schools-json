@@ -1,0 +1,18 @@
+{
+  "urn": "136918",
+  "name": "Hadleigh High School",
+  "address": "High Lands Road",
+  "locality": "Hadleigh",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP7 5HU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "603451",
+  "northing": "242372",
+  "url": "http://www.hadleighhigh.net/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

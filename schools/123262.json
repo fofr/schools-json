@@ -1,0 +1,18 @@
+{
+  "urn": "123262",
+  "name": "Faringdon Community College",
+  "address": "Fernham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Faringdon",
+  "county": "Oxfordshire",
+  "postcode": "SN7 7LB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "428463",
+  "northing": "194473",
+  "url": "http://www.faringdon-cc.oxon.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

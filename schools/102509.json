@@ -1,0 +1,18 @@
+{
+  "urn": "102509",
+  "name": "Oriel Primary School",
+  "address": "Hounslow Road",
+  "locality": "Hanworth",
+  "address3": "",
+  "town": "Feltham",
+  "county": "",
+  "postcode": "TW13 6QQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "511993",
+  "northing": "172056",
+  "url": "http://www.orielschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

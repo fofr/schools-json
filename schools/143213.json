@@ -1,0 +1,18 @@
+{
+  "urn": "143213",
+  "name": "Fulham Primary School",
+  "address": "Halford Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW6 1JU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "525224",
+  "northing": "177604",
+  "url": "www.fulhampri.lbhf.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

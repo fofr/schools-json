@@ -1,0 +1,18 @@
+{
+  "urn": "110622",
+  "name": "Willingham Primary School",
+  "address": "Thodays Close",
+  "locality": "Willingham",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB24 5LE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "540448",
+  "northing": "270145",
+  "url": "http://www.willingham.cambs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

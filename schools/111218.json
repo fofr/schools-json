@@ -1,0 +1,18 @@
+{
+  "urn": "111218",
+  "name": "Dee Point Primary School",
+  "address": "Blacon Point Road",
+  "locality": "Blacon",
+  "address3": "",
+  "town": "Chester",
+  "county": "Cheshire",
+  "postcode": "CH1 5NF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "337950",
+  "northing": "367116",
+  "url": "www.deepointprimary.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

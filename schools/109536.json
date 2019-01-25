@@ -1,0 +1,18 @@
+{
+  "urn": "109536",
+  "name": "Dallow Primary School",
+  "address": "Dallow Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 1LZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "508217",
+  "northing": "221487",
+  "url": "http://www.dallowprimary.net",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

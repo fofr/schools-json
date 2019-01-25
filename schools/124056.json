@@ -1,0 +1,18 @@
+{
+  "urn": "124056",
+  "name": "Ravensmead Primary School",
+  "address": "Chapel Street",
+  "locality": "Bignall End",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST7 8QD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "380305",
+  "northing": "351129",
+  "url": "www.ravensmead.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101280",
+  "name": "Frith Manor Primary School",
+  "address": "Lullington Garth",
+  "locality": "Woodside Park",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N12 7BN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524584",
+  "northing": "192216",
+  "url": "www.frithmanorschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

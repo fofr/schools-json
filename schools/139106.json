@@ -1,0 +1,18 @@
+{
+  "urn": "139106",
+  "name": "Woodside Academy",
+  "address": "Grangewood Avenue",
+  "locality": "Little Thurrock",
+  "address3": "",
+  "town": "Grays",
+  "county": "Essex",
+  "postcode": "RM16 2GJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "563570",
+  "northing": "179183",
+  "url": "www.woodsideprimary.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "122066",
+  "name": "The Latimer Arts College",
+  "address": "Castle Way",
+  "locality": "Barton Seagrave",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN15 6SW",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "489058",
+  "northing": "276728",
+  "url": "http://www.latimer.org.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

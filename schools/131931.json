@@ -1,0 +1,18 @@
+{
+  "urn": "131931",
+  "name": "Ringway Primary School",
+  "address": "Rossett Avenue",
+  "locality": "Cornishway",
+  "address3": "Wythenshawe",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M22 0WW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "382650",
+  "northing": "386029",
+  "url": "www.ringway.manchester.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

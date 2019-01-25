@@ -1,0 +1,18 @@
+{
+  "urn": "131218",
+  "name": "Montem Primary School",
+  "address": "Hornsey Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N7 7QT",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "530782",
+  "northing": "186383",
+  "url": "www.montem.islington.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

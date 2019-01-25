@@ -1,0 +1,18 @@
+{
+  "urn": "138673",
+  "name": "Park View Primary Academy",
+  "address": "Harlech Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS11 7DG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "429522",
+  "northing": "430882",
+  "url": "www.pvpa.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

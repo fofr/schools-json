@@ -1,0 +1,18 @@
+{
+  "urn": "132768",
+  "name": "Grappenhall Heys Community Primary School",
+  "address": "Stansfield Drive",
+  "locality": "Appleton",
+  "address3": "Grappenhall Heys",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA4 3EA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "363170",
+  "northing": "385059",
+  "url": "http://www.grappenhallheys.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

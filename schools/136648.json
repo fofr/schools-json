@@ -1,0 +1,18 @@
+{
+  "urn": "136648",
+  "name": "Hayes School",
+  "address": "Hayes Road",
+  "locality": "",
+  "address3": "",
+  "town": "Paignton",
+  "county": "Devon",
+  "postcode": "TQ4 5PJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "288022",
+  "northing": "60069",
+  "url": "http://www.hayes.torbay.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

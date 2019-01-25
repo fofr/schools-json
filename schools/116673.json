@@ -1,0 +1,18 @@
+{
+  "urn": "116673",
+  "name": "Swan Lane First School",
+  "address": "Rynal Street",
+  "locality": "",
+  "address3": "",
+  "town": "Evesham",
+  "county": "Worcestershire",
+  "postcode": "WR11 4QA",
+  "minimum_age": "5",
+  "maximum_age": "10",
+  "easting": "403897",
+  "northing": "244042",
+  "url": "http://www.swanlanefirstschool.worcs.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

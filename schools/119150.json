@@ -1,0 +1,18 @@
+{
+  "urn": "119150",
+  "name": "Farington Primary School",
+  "address": "Rose Street",
+  "locality": "Farington",
+  "address3": "",
+  "town": "Leyland",
+  "county": "Lancashire",
+  "postcode": "PR25 4GH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "354831",
+  "northing": "423025",
+  "url": "www.farington.lancsngfl.ac.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

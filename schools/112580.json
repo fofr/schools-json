@@ -1,0 +1,18 @@
+{
+  "urn": "112580",
+  "name": "Little Eaton Primary School",
+  "address": "Alfreton Road",
+  "locality": "Little Eaton",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE21 5AB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "436385",
+  "northing": "341505",
+  "url": "www.littleeaton.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

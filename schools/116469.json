@@ -1,0 +1,18 @@
+{
+  "urn": "116469",
+  "name": "Cantell School",
+  "address": "Violet Road",
+  "locality": "Bassett",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO16 3GJ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "442305",
+  "northing": "115975",
+  "url": "http://www.cantell.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

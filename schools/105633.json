@@ -1,0 +1,18 @@
+{
+  "urn": "105633",
+  "name": "Limeside Primary School",
+  "address": "Third Avenue",
+  "locality": "Limeside",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL8 3SB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "391517",
+  "northing": "402364",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

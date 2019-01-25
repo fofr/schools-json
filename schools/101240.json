@@ -1,0 +1,18 @@
+{
+  "urn": "101240",
+  "name": "The Warren Comprehensive School",
+  "address": "Whalebone Lane North",
+  "locality": "Chadwell Heath",
+  "address3": "",
+  "town": "Romford",
+  "county": "Essex",
+  "postcode": "RM6 6SB",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "548476",
+  "northing": "188616",
+  "url": "www.warrenschool.net",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

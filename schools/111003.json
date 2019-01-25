@@ -1,0 +1,18 @@
+{
+  "urn": "111003",
+  "name": "Alvanley Primary School",
+  "address": "Manley Road",
+  "locality": "Alvanley",
+  "address3": "",
+  "town": "Frodsham",
+  "county": "Cheshire",
+  "postcode": "WA6 9DD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "349685",
+  "northing": "374040",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

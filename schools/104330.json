@@ -1,0 +1,18 @@
+{
+  "urn": "104330",
+  "name": "Spring Vale Primary School",
+  "address": "Kenilworth Crescent",
+  "locality": "Parkfield",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV4 6SD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "392333",
+  "northing": "295798",
+  "url": "www.springvaleprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

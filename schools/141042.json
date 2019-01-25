@@ -1,0 +1,18 @@
+{
+  "urn": "141042",
+  "name": "Hanham Woods Academy",
+  "address": "Memorial Road",
+  "locality": "Hanham",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS15 3LA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "364012",
+  "northing": "171717",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

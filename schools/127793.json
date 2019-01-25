@@ -1,0 +1,18 @@
+{
+  "urn": "127793",
+  "name": "Deighton High School",
+  "address": "Deighton Road",
+  "locality": "Deighton",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD2 1JP",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "415973",
+  "northing": "419427",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "135371",
+  "name": "Cornwallis Academy",
+  "address": "Hubbards Lane",
+  "locality": "Linton",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME17 4HX",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "575978",
+  "northing": "150975",
+  "url": "http://www.futureschoolstrust.com/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

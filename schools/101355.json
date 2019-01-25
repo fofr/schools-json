@@ -1,0 +1,18 @@
+{
+  "urn": "101355",
+  "name": "Dollis Junior School",
+  "address": "Pursley Road",
+  "locality": "Mill Hill",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW7 2BU",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "523053",
+  "northing": "191451",
+  "url": "http://www.dollisjunior.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

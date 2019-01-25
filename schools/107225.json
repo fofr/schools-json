@@ -1,0 +1,18 @@
+{
+  "urn": "107225",
+  "name": "Parkland Primary School",
+  "address": "Old Park Road",
+  "locality": "Thorpe Edge",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD10 9BG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418588",
+  "northing": "437328",
+  "url": "www.parkland.bradford.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "106651",
+  "name": "Darton College",
+  "address": "Ballfield Lane",
+  "locality": "Darton",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S75 5EF",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "430002",
+  "northing": "409724",
+  "url": "http://dartoncollege.co.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

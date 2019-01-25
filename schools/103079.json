@@ -1,0 +1,18 @@
+{
+  "urn": "103079",
+  "name": "Stoneydown Park School",
+  "address": "Pretoria Avenue",
+  "locality": "Walthamstow",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E17 6JY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "536127",
+  "northing": "189272",
+  "url": "http://www.stoneydownpark.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

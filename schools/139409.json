@@ -1,0 +1,18 @@
+{
+  "urn": "139409",
+  "name": "King's School",
+  "address": "High Street",
+  "locality": "Portslade",
+  "address3": "",
+  "town": "Brighton",
+  "county": "East Sussex",
+  "postcode": "BN41 2PG",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "525165",
+  "northing": "106222",
+  "url": "http://www.kingsschoolhove.org.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

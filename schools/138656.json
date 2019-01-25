@@ -1,0 +1,18 @@
+{
+  "urn": "138656",
+  "name": "Chandlers Ridge Academy",
+  "address": "Chandlers Ridge",
+  "locality": "Nunthorpe",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "Teesside",
+  "postcode": "TS7 0JL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "453315",
+  "northing": "514773",
+  "url": "http://www.chandlersridge.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

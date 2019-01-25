@@ -1,0 +1,18 @@
+{
+  "urn": "130683",
+  "name": "Gloucestershire College",
+  "address": "Cheltenham Campus",
+  "locality": "Princess Elizabeth Way",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL51 7SJ",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "391959",
+  "northing": "222574",
+  "url": "www.gloscol.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

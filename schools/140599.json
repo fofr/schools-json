@@ -1,0 +1,18 @@
+{
+  "urn": "140599",
+  "name": "Yarm Primary School",
+  "address": "Spitalfields",
+  "locality": "",
+  "address3": "",
+  "town": "Yarm",
+  "county": "Teesside",
+  "postcode": "TS15 9HF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442270",
+  "northing": "511865",
+  "url": "http://yarmprimaryschool.net/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

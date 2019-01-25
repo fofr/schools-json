@@ -1,0 +1,18 @@
+{
+  "urn": "125857",
+  "name": "Upper Beeding Primary School",
+  "address": "School Road",
+  "locality": "Upper Beeding",
+  "address3": "",
+  "town": "Steyning",
+  "county": "West Sussex",
+  "postcode": "BN44 3HY",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "519516",
+  "northing": "110850",
+  "url": "upper-beeding.eschools.co.uk/web",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "103533",
+  "name": "St Thomas Aquinas Catholic School",
+  "address": "Wychall Lane",
+  "locality": "Kings Norton",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B38 8AP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "403681",
+  "northing": "279116",
+  "url": "www.stacs.org",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

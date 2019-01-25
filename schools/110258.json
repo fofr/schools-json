@@ -1,0 +1,18 @@
+{
+  "urn": "110258",
+  "name": "The Meadows School",
+  "address": "School Road",
+  "locality": "Wooburn Green",
+  "address3": "",
+  "town": "High Wycombe",
+  "county": "Buckinghamshire",
+  "postcode": "HP10 0HF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "491333",
+  "northing": "188993",
+  "url": "www.themeadows.bucks.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "119982",
+  "name": "Orchard Community Primary School",
+  "address": "Grange Drive",
+  "locality": "Castle Donington",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE74 2QU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "444403",
+  "northing": "327435",
+  "url": "http://www.orchardprimary.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

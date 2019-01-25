@@ -1,0 +1,18 @@
+{
+  "urn": "100148",
+  "name": "Brooklands Primary School",
+  "address": "Medebourne Close",
+  "locality": "Casterbridge Road",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SE3 9AB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "540311",
+  "northing": "175836",
+  "url": "http://www.brooklandsschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

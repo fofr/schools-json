@@ -1,0 +1,18 @@
+{
+  "urn": "145100",
+  "name": "John of Rolleston Primary School",
+  "address": "Chapel Lane",
+  "locality": "Rolleston-on-Dove",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE13 9AG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "423828",
+  "northing": "327667",
+  "url": "http://www.johnofrolleston.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

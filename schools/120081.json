@@ -1,0 +1,18 @@
+{
+  "urn": "120081",
+  "name": "Whitehall Primary School",
+  "address": "Whitehall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 6GJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "462892",
+  "northing": "303746",
+  "url": "www.whitehallprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

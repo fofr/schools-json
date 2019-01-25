@@ -1,0 +1,18 @@
+{
+  "urn": "117506",
+  "name": "Presdales School",
+  "address": "Hoe Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Ware",
+  "county": "Hertfordshire",
+  "postcode": "SG12 9NX",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "535870",
+  "northing": "213427",
+  "url": "http://www.presdales.herts.sch.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112617",
+  "name": "Palterton Primary School",
+  "address": "Back Lane",
+  "locality": "Palterton",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S44 6UN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "447587",
+  "northing": "368281",
+  "url": "www.paltertonprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

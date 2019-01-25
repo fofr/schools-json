@@ -1,0 +1,18 @@
+{
+  "urn": "141329",
+  "name": "Kennington Church of England Academy",
+  "address": "Upper Vicarage Road",
+  "locality": "Kennington",
+  "address3": "",
+  "town": "Ashford",
+  "county": "Kent",
+  "postcode": "TN24 9AG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "602027",
+  "northing": "145151",
+  "url": "http://www.kenningtonacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

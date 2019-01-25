@@ -1,0 +1,18 @@
+{
+  "urn": "131021",
+  "name": "Central Primary School",
+  "address": "Milburn Road",
+  "locality": "",
+  "address3": "",
+  "town": "Ashington",
+  "county": "Northumberland",
+  "postcode": "NE63 0AX",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "427711",
+  "northing": "587441",
+  "url": "www.centralprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

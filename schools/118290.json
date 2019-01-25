@@ -1,0 +1,18 @@
+{
+  "urn": "118290",
+  "name": "East Peckham Primary School",
+  "address": "Pound Road",
+  "locality": "East Peckham",
+  "address3": "",
+  "town": "Tonbridge",
+  "county": "Kent",
+  "postcode": "TN12 5LH",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "566468",
+  "northing": "149067",
+  "url": "http://www.east-peckham.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

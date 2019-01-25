@@ -1,0 +1,18 @@
+{
+  "urn": "118522",
+  "name": "Hextable Infant School",
+  "address": "St David's Road",
+  "locality": "Hextable",
+  "address3": "",
+  "town": "Swanley",
+  "county": "Kent",
+  "postcode": "BR8 7RJ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "551667",
+  "northing": "170472",
+  "url": "http://www.hextable-infant.kent.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

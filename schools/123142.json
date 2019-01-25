@@ -1,0 +1,18 @@
+{
+  "urn": "123142",
+  "name": "New Hinksey Church of England Primary School",
+  "address": "Vicarage Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX1 4RQ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "451479",
+  "northing": "204648",
+  "url": "http://www.new-hinksey.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

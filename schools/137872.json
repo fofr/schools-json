@@ -1,0 +1,18 @@
+{
+  "urn": "137872",
+  "name": "Bushey Meads School",
+  "address": "Coldharbour Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bushey",
+  "county": "Hertfordshire",
+  "postcode": "WD23 4PA",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "514321",
+  "northing": "195727",
+  "url": "http://www.busheymeads.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

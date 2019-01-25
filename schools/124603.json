@@ -1,0 +1,18 @@
+{
+  "urn": "124603",
+  "name": "Peasenhall Primary School",
+  "address": "Hackney Road",
+  "locality": "Peasenhall",
+  "address3": "",
+  "town": "Saxmundham",
+  "county": "Suffolk",
+  "postcode": "IP17 2HS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "635174",
+  "northing": "269215",
+  "url": "http://www.peasenhall.suffolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

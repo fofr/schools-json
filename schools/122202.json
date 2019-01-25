@@ -1,0 +1,18 @@
+{
+  "urn": "122202",
+  "name": "Stamfordham Primary School",
+  "address": "Stamfordham",
+  "locality": "",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE18 0NA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407994",
+  "northing": "572023",
+  "url": "www.stamfordhamvillageschool.org.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

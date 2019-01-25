@@ -1,0 +1,18 @@
+{
+  "urn": "114310",
+  "name": "Durham Sixth Form Centre",
+  "address": "Providence Row",
+  "locality": "The Sands",
+  "address3": "",
+  "town": "Durham",
+  "county": "County Durham",
+  "postcode": "DH1 1SG",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "427554",
+  "northing": "542891",
+  "url": "http://www.durhamsixthformcentre.org.uk/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

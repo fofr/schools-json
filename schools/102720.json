@@ -1,0 +1,18 @@
+{
+  "urn": "102720",
+  "name": "Gainsborough Primary School",
+  "address": "Gainsborough Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E15 3AF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "539271",
+  "northing": "182593",
+  "url": "www.gainsborough.newham.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136474",
+  "name": "Balcarras School",
+  "address": "East End Road",
+  "locality": "Charlton Kings",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL53 8QF",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "397054",
+  "northing": "220310",
+  "url": "http://www.balcarras.gloucs.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

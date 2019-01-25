@@ -1,0 +1,18 @@
+{
+  "urn": "102635",
+  "name": "Links Primary School",
+  "address": "Frinton Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW17 9EH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "528358",
+  "northing": "170616",
+  "url": "www.links.merton.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "123280",
+  "name": "St Mary's School",
+  "address": "13 St Andrew's Road",
+  "locality": "",
+  "address3": "",
+  "town": "Henley-on-Thames",
+  "county": "Oxfordshire",
+  "postcode": "RG9 1HS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "476235",
+  "northing": "181935",
+  "url": "www.stmarys-henley.co.uk",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "111443",
+  "name": "Wilmslow High School",
+  "address": "Holly Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wilmslow",
+  "county": "Cheshire",
+  "postcode": "SK9 1LZ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "384776",
+  "northing": "380605",
+  "url": "http://www.wilmslowhigh.com/",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

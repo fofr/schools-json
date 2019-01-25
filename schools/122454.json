@@ -1,0 +1,18 @@
+{
+  "urn": "122454",
+  "name": "Southwark Primary School",
+  "address": "Bulwell Lane",
+  "locality": "Old Basford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG6 0BS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454959",
+  "northing": "343762",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

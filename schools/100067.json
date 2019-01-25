@@ -1,0 +1,18 @@
+{
+  "urn": "100067",
+  "name": "St Mary's School",
+  "address": "47 Fitzjohn's Avenue",
+  "locality": "Hampstead",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW3 6PG",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "526543",
+  "northing": "185092",
+  "url": "http://www.stmh.co.uk/",
+  "phase": "Not applicable",
+  "type": "Independent schools",
+  "detailed_type": "Other independent school"
+}

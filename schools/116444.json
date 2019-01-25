@@ -1,0 +1,18 @@
+{
+  "urn": "116444",
+  "name": "Fort Hill Community School",
+  "address": "Kenilworth Road",
+  "locality": "Winklebury",
+  "address3": "",
+  "town": "Basingstoke",
+  "county": "Hampshire",
+  "postcode": "RG23 8JQ",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "461296",
+  "northing": "152881",
+  "url": "http://www.forthill.hants.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

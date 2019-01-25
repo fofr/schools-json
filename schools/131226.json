@@ -1,0 +1,18 @@
+{
+  "urn": "131226",
+  "name": "Warren Primary School",
+  "address": "Gilbert Road",
+  "locality": "Chafford Hundred",
+  "address3": "",
+  "town": "Grays",
+  "county": "Essex",
+  "postcode": "RM16 6NB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "559358",
+  "northing": "179184",
+  "url": "www.warrenps.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "120790",
+  "name": "Bunwell Primary School",
+  "address": "The Turnpike",
+  "locality": "Bunwell",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR16 1SN",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "612496",
+  "northing": "292751",
+  "url": "www.bunwell.norfolk.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

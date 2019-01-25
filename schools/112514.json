@@ -1,0 +1,18 @@
+{
+  "urn": "112514",
+  "name": "Wigley Primary School",
+  "address": "Wigley",
+  "locality": "",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S42 7JJ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "431469",
+  "northing": "371657",
+  "url": "www.wigleyprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

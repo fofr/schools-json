@@ -1,0 +1,18 @@
+{
+  "urn": "140583",
+  "name": "Maltby Redwood Academy",
+  "address": "Redwood Drive",
+  "locality": "Maltby",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S66 8DL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "451471",
+  "northing": "392455",
+  "url": "www.maltbyredwood.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "136779",
+  "name": "The Heath School",
+  "address": "Clifton Road",
+  "locality": "",
+  "address3": "",
+  "town": "Runcorn",
+  "county": "Cheshire",
+  "postcode": "WA7 4SY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "351723",
+  "northing": "381137",
+  "url": "http://www.heathschool.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

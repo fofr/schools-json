@@ -1,0 +1,18 @@
+{
+  "urn": "112421",
+  "name": "Flimby Primary School",
+  "address": "Rye Hill Road",
+  "locality": "Flimby",
+  "address3": "",
+  "town": "Maryport",
+  "county": "Cumbria",
+  "postcode": "CA15 8PJ",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "302291",
+  "northing": "534113",
+  "url": "www.flimby.cumbria.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

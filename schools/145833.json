@@ -1,0 +1,18 @@
+{
+  "urn": "145833",
+  "name": "St Luke's CofE Academy Endon",
+  "address": "Leek Road",
+  "locality": "Endon",
+  "address3": "",
+  "town": "Stoke-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "ST9 9EB",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "392444",
+  "northing": "353111",
+  "url": "www.st-lukes-endon.staffs.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "145272",
+  "name": "Werrington Primary School",
+  "address": "Amberley Slope",
+  "locality": "Werrington",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE4 6QG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "517107",
+  "northing": "303101",
+  "url": "www.werringtonprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

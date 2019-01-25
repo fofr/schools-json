@@ -1,0 +1,18 @@
+{
+  "urn": "118335",
+  "name": "Dunkirk Village School",
+  "address": "London Road",
+  "locality": "Dunkirk",
+  "address3": "",
+  "town": "Faversham",
+  "county": "Kent",
+  "postcode": "ME13 9LF",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "607521",
+  "northing": "158994",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

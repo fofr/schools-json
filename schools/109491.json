@@ -1,0 +1,18 @@
+{
+  "urn": "109491",
+  "name": "Willington Lower School",
+  "address": "Church Road",
+  "locality": "Willington",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK44 3QD",
+  "minimum_age": "4",
+  "maximum_age": "9",
+  "easting": "511156",
+  "northing": "250081",
+  "url": "www.willingtonschool.education",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

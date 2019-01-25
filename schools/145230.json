@@ -1,0 +1,18 @@
+{
+  "urn": "145230",
+  "name": "Thomas Rotherham College",
+  "address": "Moorgate Road",
+  "locality": "",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S60 2BE",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "443253",
+  "northing": "391611",
+  "url": "www.thomroth.ac.uk",
+  "phase": "16 plus",
+  "type": "Academies",
+  "detailed_type": "Academy 16-19 converter"
+}

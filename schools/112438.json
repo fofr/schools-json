@@ -1,0 +1,18 @@
+{
+  "urn": "112438",
+  "name": "Queen Elizabeth School",
+  "address": "Kirkby Lonsdale",
+  "locality": "",
+  "address3": "",
+  "town": "Carnforth",
+  "county": "Lancashire",
+  "postcode": "LA6 2HJ",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "360707",
+  "northing": "478609",
+  "url": "http://www.queenelizabeth.cumbria.sch.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

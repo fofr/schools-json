@@ -1,0 +1,18 @@
+{
+  "urn": "139986",
+  "name": "Porter Croft Church of England Primary Academy",
+  "address": "Pomona Street",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S11 8JN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "434193",
+  "northing": "386119",
+  "url": "http://www.portercroft.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

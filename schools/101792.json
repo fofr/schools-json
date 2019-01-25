@@ -1,0 +1,18 @@
+{
+  "urn": "101792",
+  "name": "Coulsdon CofE Primary School",
+  "address": "Bradmore Green",
+  "locality": "Old Coulsdon",
+  "address3": "",
+  "town": "Coulsdon",
+  "county": "Surrey",
+  "postcode": "CR5 1ED",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "530879",
+  "northing": "158235",
+  "url": "http://www.coulsdoncofe.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "101759",
+  "name": "Smitham Primary School",
+  "address": "Portnalls Road",
+  "locality": "",
+  "address3": "",
+  "town": "Coulsdon",
+  "county": "Surrey",
+  "postcode": "CR5 3DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "529438",
+  "northing": "159363",
+  "url": "www.smitham.croydon.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

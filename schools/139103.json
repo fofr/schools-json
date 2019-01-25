@@ -1,0 +1,18 @@
+{
+  "urn": "139103",
+  "name": "Farringdon Academy",
+  "address": "Archer Road",
+  "locality": "Farringdon",
+  "address3": "",
+  "town": "Sunderland",
+  "county": "Tyne and Wear",
+  "postcode": "SR3 3DJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "436940",
+  "northing": "553728",
+  "url": "www.farringdonacademy.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

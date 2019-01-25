@@ -1,0 +1,18 @@
+{
+  "urn": "101198",
+  "name": "Ripple Primary School",
+  "address": "Suffolk Road",
+  "locality": "",
+  "address3": "",
+  "town": "Barking",
+  "county": "Essex",
+  "postcode": "IG11 7QS",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "545104",
+  "northing": "183966",
+  "url": "www.rippleprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

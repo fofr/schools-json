@@ -1,0 +1,18 @@
+{
+  "urn": "121707",
+  "name": "Queen Anne School",
+  "address": "Queen Anne Road",
+  "locality": "",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO30 7WA",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "459563",
+  "northing": "452409",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

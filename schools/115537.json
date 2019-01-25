@@ -1,0 +1,18 @@
+{
+  "urn": "115537",
+  "name": "Didbrook Primary School",
+  "address": "Didbrook",
+  "locality": "",
+  "address3": "",
+  "town": "Cheltenham",
+  "county": "Gloucestershire",
+  "postcode": "GL54 5PF",
+  "minimum_age": "4",
+  "maximum_age": "10",
+  "easting": "405277",
+  "northing": "231363",
+  "url": "http://www.didbrook.ik.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

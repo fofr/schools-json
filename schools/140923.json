@@ -1,0 +1,18 @@
+{
+  "urn": "140923",
+  "name": "Smith's Wood Primary Academy",
+  "address": "Burton's Way",
+  "locality": "Smith's Wood",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B36 0SZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "417206",
+  "northing": "289460",
+  "url": "www.smithswoodpri.solihull.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

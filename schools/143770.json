@@ -1,0 +1,18 @@
+{
+  "urn": "143770",
+  "name": "Great Barford Primary Academy",
+  "address": "Silver Street",
+  "locality": "Great Barford",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK44 3JU",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "512847",
+  "northing": "252103",
+  "url": "www.gbpa.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

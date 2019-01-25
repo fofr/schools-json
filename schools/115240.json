@@ -1,0 +1,18 @@
+{
+  "urn": "115240",
+  "name": "Elmwood Primary School",
+  "address": "Guys Farm Road",
+  "locality": "South Woodham Ferrers",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM3 5NB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "580865",
+  "northing": "197287",
+  "url": "www.elmwood.essex.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

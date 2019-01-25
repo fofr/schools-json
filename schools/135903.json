@@ -1,0 +1,18 @@
+{
+  "urn": "135903",
+  "name": "Riverside Primary School",
+  "address": "Ferry Road",
+  "locality": "Hullbridge",
+  "address3": "",
+  "town": "Hockley",
+  "county": "Essex",
+  "postcode": "SS5 6ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "581041",
+  "northing": "195330",
+  "url": "www.riversideprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

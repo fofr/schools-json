@@ -1,0 +1,18 @@
+{
+  "urn": "110600",
+  "name": "CSSC Ascham",
+  "address": "Ascham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB4 2BD",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "545461",
+  "northing": "259939",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

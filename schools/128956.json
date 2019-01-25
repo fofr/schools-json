@@ -1,0 +1,18 @@
+{
+  "urn": "128956",
+  "name": "Linden Secondary School",
+  "address": "Linden Road",
+  "locality": "",
+  "address3": "",
+  "town": "Gloucester",
+  "county": "",
+  "postcode": "GL1 5HU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "382934",
+  "northing": "216885",
+  "url": "",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

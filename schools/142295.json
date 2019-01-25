@@ -1,0 +1,18 @@
+{
+  "urn": "142295",
+  "name": "Hillsgrove Primary School",
+  "address": "Sidmouth Road",
+  "locality": "",
+  "address3": "",
+  "town": "Welling",
+  "county": "Kent",
+  "postcode": "DA16 1DR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547170",
+  "northing": "177188",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

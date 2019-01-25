@@ -1,0 +1,18 @@
+{
+  "urn": "121939",
+  "name": "Barry Primary School",
+  "address": "Barry Road",
+  "locality": "",
+  "address3": "",
+  "town": "Northampton",
+  "county": "Northamptonshire",
+  "postcode": "NN1 5JS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "477025",
+  "northing": "261055",
+  "url": "www.barryprimary.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "112738",
+  "name": "Lakeside Community Primary School",
+  "address": "London Road",
+  "locality": "Alvaston",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE24 8UY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "437549",
+  "northing": "334276",
+  "url": "www.lakeside.derby.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "130985",
+  "name": "Sinton Pupil Referral Unit",
+  "address": "Midland Road",
+  "locality": "",
+  "address3": "",
+  "town": "Worcester",
+  "county": "Worcestershire",
+  "postcode": "WR5 1DS",
+  "minimum_age": "5",
+  "maximum_age": "18",
+  "easting": "385801",
+  "northing": "254638",
+  "url": "",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

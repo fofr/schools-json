@@ -1,0 +1,18 @@
+{
+  "urn": "101340",
+  "name": "Rosh Pinah Primary School",
+  "address": "Glengall Road",
+  "locality": "",
+  "address3": "",
+  "town": "Edgware",
+  "county": "",
+  "postcode": "HA8 8TE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "519803",
+  "northing": "193439",
+  "url": "www.rpps.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary aided school"
+}

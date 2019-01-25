@@ -1,0 +1,18 @@
+{
+  "urn": "106666",
+  "name": "The Levett School",
+  "address": "Melton Road",
+  "locality": "Sprotbrough",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN5 7SB",
+  "minimum_age": "5",
+  "maximum_age": "16",
+  "easting": "455313",
+  "northing": "402995",
+  "url": "www.levett.doncaster.sch.uk",
+  "phase": "Not applicable",
+  "type": "LA maintained schools",
+  "detailed_type": "Pupil referral unit"
+}

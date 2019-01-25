@@ -1,0 +1,18 @@
+{
+  "urn": "130665",
+  "name": "East Sussex College Group",
+  "address": "Station Plaza",
+  "locality": "Station Approach",
+  "address3": "",
+  "town": "Hastings",
+  "county": "East Sussex",
+  "postcode": "TN34 1BA",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "581456",
+  "northing": "109651",
+  "url": "www.sussexcoast.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

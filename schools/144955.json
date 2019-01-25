@@ -1,0 +1,18 @@
+{
+  "urn": "144955",
+  "name": "Silver End Academy",
+  "address": "School Road",
+  "locality": "Silver End",
+  "address3": "",
+  "town": "Witham",
+  "county": "Essex",
+  "postcode": "CM8 3RZ",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "581115",
+  "northing": "219423",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

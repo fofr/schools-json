@@ -1,0 +1,18 @@
+{
+  "urn": "122599",
+  "name": "Abbey Road Primary School",
+  "address": "Tewkesbury Close",
+  "locality": "West Bridgford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG2 5ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "459288",
+  "northing": "336870",
+  "url": "www.abbeyroadprimary.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

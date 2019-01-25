@@ -1,0 +1,18 @@
+{
+  "urn": "101222",
+  "name": "Valence Primary School",
+  "address": "Bonham Road",
+  "locality": "",
+  "address3": "",
+  "town": "Dagenham",
+  "county": "Essex",
+  "postcode": "RM8 3AR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "547891",
+  "northing": "186499",
+  "url": "www.valenceprimaryschool.com/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

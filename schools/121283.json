@@ -1,0 +1,18 @@
+{
+  "urn": "121283",
+  "name": "Clifton Green Primary School",
+  "address": "Kingsway North",
+  "locality": "Clifton",
+  "address3": "",
+  "town": "York",
+  "county": "North Yorkshire",
+  "postcode": "YO30 6JA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "459596",
+  "northing": "453159",
+  "url": "http://www.cliftongreenprimary.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "139096",
+  "name": "Allington Primary School",
+  "address": "Hildenborough Crescent",
+  "locality": "London Road",
+  "address3": "",
+  "town": "Maidstone",
+  "county": "Kent",
+  "postcode": "ME16 0PG",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "574093",
+  "northing": "157190",
+  "url": "www.allington.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

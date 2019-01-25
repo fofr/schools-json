@@ -1,0 +1,18 @@
+{
+  "urn": "130763",
+  "name": "The College of West Anglia",
+  "address": "Tennyson Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "King's Lynn",
+  "county": "Norfolk",
+  "postcode": "PE30 2QW",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "562773",
+  "northing": "320361",
+  "url": "www.cwa.ac.uk",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}

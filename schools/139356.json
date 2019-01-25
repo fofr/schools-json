@@ -1,0 +1,18 @@
+{
+  "urn": "139356",
+  "name": "Birstall Primary Academy",
+  "address": "Chapel Lane",
+  "locality": "Birstall",
+  "address3": "",
+  "town": "Batley",
+  "county": "West Yorkshire",
+  "postcode": "WF17 9EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "422530",
+  "northing": "426135",
+  "url": "www.focus-trust.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

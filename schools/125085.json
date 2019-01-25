@@ -1,0 +1,18 @@
+{
+  "urn": "125085",
+  "name": "Cross Farm Infant School",
+  "address": "Gresham Way",
+  "locality": "Frimley Green",
+  "address3": "",
+  "town": "Camberley",
+  "county": "Surrey",
+  "postcode": "GU16 6LZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "488387",
+  "northing": "156831",
+  "url": "http://www.cross-farm.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

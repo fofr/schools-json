@@ -1,0 +1,18 @@
+{
+  "urn": "112700",
+  "name": "Dovedale Primary School",
+  "address": "Dovedale Avenue",
+  "locality": "Long Eaton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG10 3HU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "447498",
+  "northing": "332801",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

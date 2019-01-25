@@ -1,0 +1,18 @@
+{
+  "urn": "111945",
+  "name": "Bude Infant School",
+  "address": "Broadclose Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Bude",
+  "county": "Cornwall",
+  "postcode": "EX23 8EA",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "221427",
+  "northing": "106366",
+  "url": "www.budeprimaryfederation.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

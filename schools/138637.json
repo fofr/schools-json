@@ -1,0 +1,18 @@
+{
+  "urn": "138637",
+  "name": "Louth Kidgate Primary Academy",
+  "address": "Kidgate",
+  "locality": "",
+  "address3": "",
+  "town": "Louth",
+  "county": "Lincolnshire",
+  "postcode": "LN11 9BX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "533032",
+  "northing": "387214",
+  "url": "www.kidgateprimaryacademy.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

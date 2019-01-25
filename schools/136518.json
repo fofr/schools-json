@@ -1,0 +1,18 @@
+{
+  "urn": "136518",
+  "name": "Mottram St Andrew Primary Academy",
+  "address": "Priest Lane",
+  "locality": "Mottram St Andrew",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK10 4QL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "387556",
+  "northing": "378490",
+  "url": "http://www.mottramacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

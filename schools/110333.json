@@ -1,0 +1,18 @@
+{
+  "urn": "110333",
+  "name": "Whitchurch Combined School",
+  "address": "North Marston Lane",
+  "locality": "Whitchurch",
+  "address3": "",
+  "town": "Aylesbury",
+  "county": "Buckinghamshire",
+  "postcode": "HP22 4JG",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "479347",
+  "northing": "221216",
+  "url": "www.whitchurchcombined.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

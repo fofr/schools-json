@@ -1,0 +1,18 @@
+{
+  "urn": "109494",
+  "name": "Wootton Lower School",
+  "address": "Bedford Road",
+  "locality": "Wootton",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK43 9JT",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "500890",
+  "northing": "245281",
+  "url": "www.woottonlowerschool.org",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

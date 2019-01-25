@@ -1,0 +1,18 @@
+{
+  "urn": "122530",
+  "name": "Standhill Infants' School",
+  "address": "Standhill Road",
+  "locality": "Carlton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG4 1JL",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "459725",
+  "northing": "341428",
+  "url": "www.standhillinfants.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

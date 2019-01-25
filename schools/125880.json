@@ -1,0 +1,18 @@
+{
+  "urn": "125880",
+  "name": "Jessie Younghusband Primary School",
+  "address": "Woodlands Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Chichester",
+  "county": "West Sussex",
+  "postcode": "PO19 5PA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485733",
+  "northing": "105917",
+  "url": "http://jys.org.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

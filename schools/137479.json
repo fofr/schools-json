@@ -1,0 +1,18 @@
+{
+  "urn": "137479",
+  "name": "Oasis Academy Limeside",
+  "address": "Third Avenue",
+  "locality": "Limeside",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL8 3SB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "391517",
+  "northing": "402364",
+  "url": "www.oasisacademylimeside.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

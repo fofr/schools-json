@@ -1,0 +1,18 @@
+{
+  "urn": "121830",
+  "name": "Irchester Infant School",
+  "address": "School Lane",
+  "locality": "Irchester",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN29 7AZ",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "492460",
+  "northing": "265870",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

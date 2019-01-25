@@ -1,0 +1,18 @@
+{
+  "urn": "140073",
+  "name": "Rothwell Junior School",
+  "address": "Gladstone Street",
+  "locality": "Rothwell",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN14 6ER",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "481647",
+  "northing": "281437",
+  "url": "www.rothwelljunior.net/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

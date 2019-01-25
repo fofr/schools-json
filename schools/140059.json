@@ -1,0 +1,18 @@
+{
+  "urn": "140059",
+  "name": "Loatlands Primary School",
+  "address": "Harrington Road",
+  "locality": "Desborough",
+  "address3": "",
+  "town": "Kettering",
+  "county": "Northamptonshire",
+  "postcode": "NN14 2NJ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "479633",
+  "northing": "283414",
+  "url": "http://www.loatlandsprimary.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

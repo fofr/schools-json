@@ -1,0 +1,18 @@
+{
+  "urn": "141797",
+  "name": "Morley Newlands Academy",
+  "address": "Wide Lane",
+  "locality": "Morley",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS27 8PG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "427618",
+  "northing": "428031",
+  "url": "morleynewlands.leeds.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

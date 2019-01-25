@@ -1,0 +1,18 @@
+{
+  "urn": "123431",
+  "name": "Three Oaks Primary School",
+  "address": "Calcott Centre",
+  "locality": "Stirchley",
+  "address3": "",
+  "town": "Telford",
+  "county": "Shropshire",
+  "postcode": "TF3 1YQ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "370908",
+  "northing": "306763",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

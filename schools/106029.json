@@ -1,0 +1,18 @@
+{
+  "urn": "106029",
+  "name": "Bolshaw Primary School",
+  "address": "Cross Road",
+  "locality": "Heald Green",
+  "address3": "",
+  "town": "Cheadle",
+  "county": "Cheshire",
+  "postcode": "SK8 3LW",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "384894",
+  "northing": "385092",
+  "url": "www.bolshaw.stockport.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

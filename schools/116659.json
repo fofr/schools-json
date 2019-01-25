@@ -1,0 +1,18 @@
+{
+  "urn": "116659",
+  "name": "Charford First School",
+  "address": "Charford Road",
+  "locality": "Charford",
+  "address3": "",
+  "town": "Bromsgrove",
+  "county": "Worcestershire",
+  "postcode": "B60 3NH",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "395971",
+  "northing": "269334",
+  "url": "www.charford.worcs.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

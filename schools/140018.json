@@ -1,0 +1,18 @@
+{
+  "urn": "140018",
+  "name": "Thomas Hinderwell Primary Academy",
+  "address": "Seamer Road",
+  "locality": "",
+  "address3": "",
+  "town": "Scarborough",
+  "county": "North Yorkshire",
+  "postcode": "YO12 4HF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "503188",
+  "northing": "486851",
+  "url": "www.thomashinderwell.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

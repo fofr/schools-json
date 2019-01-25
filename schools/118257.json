@@ -1,0 +1,18 @@
+{
+  "urn": "118257",
+  "name": "Cobham Primary School",
+  "address": "The Street",
+  "locality": "Cobham",
+  "address3": "",
+  "town": "Gravesend",
+  "county": "Kent",
+  "postcode": "DA12 3BN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "567152",
+  "northing": "168444",
+  "url": "www.cobham.kent.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

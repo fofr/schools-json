@@ -1,0 +1,18 @@
+{
+  "urn": "104615",
+  "name": "St Silas Church of England Primary School",
+  "address": "High Park Street",
+  "locality": "Toxteth",
+  "address3": "",
+  "town": "Liverpool",
+  "county": "Merseyside",
+  "postcode": "L8 3TP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "336174",
+  "northing": "388314",
+  "url": "http://www.stsilasschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Voluntary controlled school"
+}

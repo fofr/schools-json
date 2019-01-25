@@ -1,0 +1,18 @@
+{
+  "urn": "143386",
+  "name": "The Laurels Primary School, Worthing",
+  "address": "Winterbourne Way",
+  "locality": "West Durrington",
+  "address3": "",
+  "town": "Worthing",
+  "county": "West Sussex",
+  "postcode": "BN13 3QH",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "510905",
+  "northing": "104510",
+  "url": "http://www.laurels.w-sussex.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

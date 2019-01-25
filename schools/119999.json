@@ -1,0 +1,18 @@
+{
+  "urn": "119999",
+  "name": "Bridge Junior School",
+  "address": "Mere Close",
+  "locality": "Off Mere Road",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE5 3HH",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "460419",
+  "northing": "305022",
+  "url": "www.bridge.leicester.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

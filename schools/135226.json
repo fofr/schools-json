@@ -1,0 +1,18 @@
+{
+  "urn": "135226",
+  "name": "Martin Primary School",
+  "address": "Plane Tree Walk",
+  "locality": "East Finchley",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N2 9JP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "526982",
+  "northing": "190033",
+  "url": "www.martinprimary.barnet.sch.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

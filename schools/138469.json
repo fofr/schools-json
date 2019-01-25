@@ -1,0 +1,18 @@
+{
+  "urn": "138469",
+  "name": "Chantry Primary Academy",
+  "address": "Tomlinson Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU4 0QP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "503736",
+  "northing": "223598",
+  "url": "www.chantryprimaryacademy.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

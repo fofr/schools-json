@@ -1,0 +1,18 @@
+{
+  "urn": "123693",
+  "name": "Pawlett Primary School",
+  "address": "Gaunts Road",
+  "locality": "Pawlett",
+  "address3": "",
+  "town": "Bridgwater",
+  "county": "Somerset",
+  "postcode": "TA6 4SB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "329643",
+  "northing": "142839",
+  "url": "https://pawlettprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

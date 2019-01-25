@@ -1,0 +1,18 @@
+{
+  "urn": "115993",
+  "name": "Oakfield Primary School",
+  "address": "Sylvia Crescent",
+  "locality": "Totton",
+  "address3": "",
+  "town": "Southampton",
+  "county": "Hampshire",
+  "postcode": "SO40 3LN",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "435153",
+  "northing": "114037",
+  "url": "www.oakfieldpri.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

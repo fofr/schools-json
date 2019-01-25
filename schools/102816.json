@@ -1,0 +1,18 @@
+{
+  "urn": "102816",
+  "name": "Redbridge Infants' School",
+  "address": "College Gardens",
+  "locality": "Redbridge",
+  "address3": "",
+  "town": "Ilford",
+  "county": "Essex",
+  "postcode": "IG4 5HW",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "542260",
+  "northing": "188915",
+  "url": "",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

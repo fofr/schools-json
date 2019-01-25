@@ -1,0 +1,18 @@
+{
+  "urn": "101526",
+  "name": "Chalkhill Primary School",
+  "address": "Barnhill Road",
+  "locality": "",
+  "address3": "",
+  "town": "Wembley",
+  "county": "",
+  "postcode": "HA9 9YP",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "519973",
+  "northing": "186213",
+  "url": "www.chalkhillprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

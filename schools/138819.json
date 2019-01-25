@@ -1,0 +1,18 @@
+{
+  "urn": "138819",
+  "name": "The Priory Belvoir Academy",
+  "address": "Barkestone Lane",
+  "locality": "Bottesford",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG13 0AX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "480245",
+  "northing": "338420",
+  "url": "http://www.belvoiracademy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

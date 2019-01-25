@@ -1,0 +1,18 @@
+{
+  "urn": "137465",
+  "name": "St Bartholomew's School",
+  "address": "Andover Road",
+  "locality": "",
+  "address3": "",
+  "town": "Newbury",
+  "county": "Berkshire",
+  "postcode": "RG14 6JP",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "446597",
+  "northing": "166128",
+  "url": "http://www.stbarts.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

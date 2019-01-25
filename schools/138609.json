@@ -1,0 +1,18 @@
+{
+  "urn": "138609",
+  "name": "Queens Park Community School",
+  "address": "Aylestone Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW6 7BQ",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "523635",
+  "northing": "183910",
+  "url": "www.qpcs.brent.sch.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

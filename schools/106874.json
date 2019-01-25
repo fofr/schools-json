@@ -1,0 +1,18 @@
+{
+  "urn": "106874",
+  "name": "Rawmarsh Ashwood Primary School",
+  "address": "Ashwood Road",
+  "locality": "Parkgate",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S62 6HT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "443551",
+  "northing": "395398",
+  "url": "http://www.rawmarsh-ashwood.co.uk/",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

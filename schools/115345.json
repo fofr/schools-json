@@ -1,0 +1,18 @@
+{
+  "urn": "115345",
+  "name": "Chelmer Valley High School",
+  "address": "Court Road",
+  "locality": "Broomfield",
+  "address3": "",
+  "town": "Chelmsford",
+  "county": "Essex",
+  "postcode": "CM1 7ER",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "570331",
+  "northing": "210955",
+  "url": "http://www.chelmervalleyhighschool.co.uk",
+  "phase": "Secondary",
+  "type": "LA maintained schools",
+  "detailed_type": "Foundation school"
+}

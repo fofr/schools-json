@@ -1,0 +1,18 @@
+{
+  "urn": "100585",
+  "name": "Sunnyhill Primary School",
+  "address": "Sunnyhill Road",
+  "locality": "Streatham",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "SW16 2UW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "530786",
+  "northing": "171686",
+  "url": "www.sunnyhillprimary.com",
+  "phase": "Primary",
+  "type": "LA maintained schools",
+  "detailed_type": "Community school"
+}

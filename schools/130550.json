@@ -1,0 +1,18 @@
+{
+  "urn": "130550",
+  "name": "New College Pontefract",
+  "address": "Park Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Pontefract",
+  "county": "West Yorkshire",
+  "postcode": "WF8 4QR",
+  "minimum_age": "16",
+  "maximum_age": "99",
+  "easting": "444606",
+  "northing": "422145",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Colleges",
+  "detailed_type": "Further education"
+}
