@@ -14,5 +14,7 @@
   "url": "www.crosslee.manchester.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.529067",
+  "lng": "-2.1978072"
 }

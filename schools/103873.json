@@ -14,5 +14,7 @@
   "url": "higharcal.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.533419",
+  "lng": "-2.1097694"
 }

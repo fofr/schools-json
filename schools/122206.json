@@ -14,5 +14,7 @@
   "url": "http://www.herdleybank.northumberland.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.926555",
+  "lng": "-2.4998058"
 }

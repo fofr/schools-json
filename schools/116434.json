@@ -14,5 +14,7 @@
   "url": "http://www.hounsdown.hants.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.904660",
+  "lng": "-1.4925049"
 }

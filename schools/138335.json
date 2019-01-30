@@ -14,5 +14,7 @@
   "url": "www.stcypriansprimaryacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.409494",
+  "lng": "-0.099717908"
 }

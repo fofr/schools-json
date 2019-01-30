@@ -14,5 +14,7 @@
   "url": "www.southcoatesacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.757721",
+  "lng": "-0.29361687"
 }

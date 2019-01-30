@@ -14,5 +14,7 @@
   "url": "www.oundleceprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.491288",
+  "lng": "-0.47542832"
 }

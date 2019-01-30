@@ -14,5 +14,7 @@
   "url": "www.crosslaneprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.679449",
+  "lng": "-1.8444230"
 }

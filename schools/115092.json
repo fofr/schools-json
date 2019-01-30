@@ -14,5 +14,7 @@
   "url": "www.bulphanprimary.thurrock.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.549008",
+  "lng": "0.35843750"
 }

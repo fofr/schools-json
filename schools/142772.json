@@ -14,5 +14,7 @@
   "url": "www.ashmoleprimary.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.629663",
+  "lng": "-0.13644995"
 }

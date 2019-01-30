@@ -14,5 +14,7 @@
   "url": "http://www.kingwilliam.swindon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.553835",
+  "lng": "-1.7799552"
 }

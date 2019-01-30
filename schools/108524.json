@@ -14,5 +14,7 @@
   "url": "www.walbottlecampus.newcastle.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.996578",
+  "lng": "-1.7424192"
 }

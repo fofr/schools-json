@@ -14,5 +14,7 @@
   "url": "http://www.elstreeutc.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.660589",
+  "lng": "-0.26143442"
 }

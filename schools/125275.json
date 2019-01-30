@@ -14,5 +14,7 @@
   "url": "www.st-andrews.surrey.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.302193",
+  "lng": "-0.31598114"
 }

@@ -14,5 +14,7 @@
   "url": "www.talavera-inf.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.251436",
+  "lng": "-0.76170227"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.sns.hackney.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.557887",
+  "lng": "-0.084609060"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bradshawcps.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.378053",
+  "lng": "-2.5440170"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.fulhamcollegeboys.net/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.477783",
+  "lng": "-0.21522693"
 }

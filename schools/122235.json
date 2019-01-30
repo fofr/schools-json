@@ -14,5 +14,7 @@
   "url": "www.broomley.northumberland.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.909020",
+  "lng": "-1.8864858"
 }

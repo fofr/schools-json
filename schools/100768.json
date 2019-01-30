@@ -14,5 +14,7 @@
   "url": "www.annbernadtnursery.co.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.477251",
+  "lng": "-0.077994930"
 }

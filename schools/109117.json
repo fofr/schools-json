@@ -14,5 +14,7 @@
   "url": "http://www.elmparkprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.526340",
+  "lng": "-2.5001782"
 }

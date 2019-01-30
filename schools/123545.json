@@ -14,5 +14,7 @@
   "url": "www.dorringtonschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.622181",
+  "lng": "-2.7748307"
 }

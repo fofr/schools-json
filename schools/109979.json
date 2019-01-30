@@ -14,5 +14,7 @@
   "url": "www.streatleyprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.522244",
+  "lng": "-1.1524069"
 }

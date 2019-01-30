@@ -14,5 +14,7 @@
   "url": "http://www.stbartholomews.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.093257",
+  "lng": "-0.71400865"
 }

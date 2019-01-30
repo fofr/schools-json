@@ -14,5 +14,7 @@
   "url": "http://www.barleycloseschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.488498",
+  "lng": "-2.4887602"
 }

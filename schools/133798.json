@@ -14,5 +14,7 @@
   "url": "http://www.uwe.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.500207",
+  "lng": "-2.5474905"
 }

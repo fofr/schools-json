@@ -14,5 +14,7 @@
   "url": "http://www.calderhigh.org.uk",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.732622",
+  "lng": "-1.9753003"
 }

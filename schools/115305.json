@@ -14,5 +14,7 @@
   "url": "www.collingwoodschool.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.641250",
+  "lng": "0.62167380"
 }

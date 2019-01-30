@@ -14,5 +14,7 @@
   "url": "www.warrenmead.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.324194",
+  "lng": "-0.22794136"
 }

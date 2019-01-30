@@ -14,5 +14,7 @@
   "url": "http://www.haslingdenhillsidenurseryschool.org.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.704507",
+  "lng": "-2.3155284"
 }

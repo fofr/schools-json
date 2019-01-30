@@ -14,5 +14,7 @@
   "url": "www.peartreemead.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.754579",
+  "lng": "0.11760989"
 }

@@ -14,5 +14,7 @@
   "url": "www.rickletonprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.877979",
+  "lng": "-1.5514635"
 }

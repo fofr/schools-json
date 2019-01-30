@@ -14,5 +14,7 @@
   "url": "www.hawes-side.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.791327",
+  "lng": "-3.0315243"
 }

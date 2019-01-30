@@ -14,5 +14,7 @@
   "url": "http://www.leesideprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.720631",
+  "lng": "-1.6668338"
 }

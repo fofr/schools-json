@@ -14,5 +14,7 @@
   "url": "http://www.thetauntonacademy.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.038292",
+  "lng": "-3.1016854"
 }

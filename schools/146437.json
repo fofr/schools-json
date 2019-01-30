@@ -14,5 +14,7 @@
   "url": "www.brookfields.bham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.489679",
+  "lng": "-1.9182785"
 }

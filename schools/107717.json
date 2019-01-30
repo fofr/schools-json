@@ -14,5 +14,7 @@
   "url": "www.thurstonlandfirst.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.593047",
+  "lng": "-1.7496488"
 }

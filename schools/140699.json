@@ -14,5 +14,7 @@
   "url": "http://www.allsaints-netheravon.wilts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.237009",
+  "lng": "-1.7917384"
 }

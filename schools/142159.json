@@ -14,5 +14,7 @@
   "url": "http://www.stjosephs.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.005442",
+  "lng": "-1.5442919"
 }

@@ -14,5 +14,7 @@
   "url": "http://rednockschool.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.686722",
+  "lng": "-2.3566103"
 }

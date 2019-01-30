@@ -14,5 +14,7 @@
   "url": "www.pluckleyprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.175014",
+  "lng": "0.75366365"
 }

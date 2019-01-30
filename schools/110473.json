@@ -14,5 +14,7 @@
   "url": "www.stpetersschoolmarlow.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.575362",
+  "lng": "-0.78196978"
 }

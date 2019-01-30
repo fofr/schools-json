@@ -14,5 +14,7 @@
   "url": "http://www.stpeters.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.738714",
+  "lng": "-1.6076797"
 }

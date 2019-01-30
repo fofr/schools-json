@@ -14,5 +14,7 @@
   "url": "www.georgedixonschool.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.477428",
+  "lng": "-1.9555215"
 }

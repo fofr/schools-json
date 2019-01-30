@@ -14,5 +14,7 @@
   "url": "http://centraltech.school-site5.net/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.923666",
+  "lng": "-0.64302815"
 }

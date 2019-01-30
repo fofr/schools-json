@@ -14,5 +14,7 @@
   "url": "http://www.whatfield.suffolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.077521",
+  "lng": "0.94786701"
 }

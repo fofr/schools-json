@@ -14,5 +14,7 @@
   "url": "www.hillsidecp.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.046219",
+  "lng": "1.1498509"
 }

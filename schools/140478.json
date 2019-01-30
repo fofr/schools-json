@@ -14,5 +14,7 @@
   "url": "www.townhill-inf.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.930175",
+  "lng": "-1.3563350"
 }

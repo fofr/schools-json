@@ -14,5 +14,7 @@
   "url": "http://www.estonpark.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.566554",
+  "lng": "-1.1582696"
 }

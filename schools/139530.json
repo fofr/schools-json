@@ -14,5 +14,7 @@
   "url": "www.st-thomas-more.oxon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.816000",
+  "lng": "-1.2831581"
 }

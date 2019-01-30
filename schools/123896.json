@@ -14,5 +14,7 @@
   "url": "http://www.rmplc.co.uk/eduweb/sites/kowessex",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.274477",
+  "lng": "-2.7792628"
 }

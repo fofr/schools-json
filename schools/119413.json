@@ -14,5 +14,7 @@
   "url": "www.standrewsprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.744310",
+  "lng": "-2.3989780"
 }

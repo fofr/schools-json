@@ -14,5 +14,7 @@
   "url": "www.capitalcityacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.539093",
+  "lng": "-0.23477682"
 }

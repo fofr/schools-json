@@ -14,5 +14,7 @@
   "url": "http://www.shearsgreeninfantschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.425683",
+  "lng": "0.35488610"
 }

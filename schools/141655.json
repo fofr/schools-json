@@ -14,5 +14,7 @@
   "url": "www.allsaintscejunioracademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.865346",
+  "lng": "0.60409988"
 }

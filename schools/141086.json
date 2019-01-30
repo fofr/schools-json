@@ -14,5 +14,7 @@
   "url": "http://utcn.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "52.598832",
+  "lng": "1.2799743"
 }

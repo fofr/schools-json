@@ -14,5 +14,7 @@
   "url": "http://www.ryecollege.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.955053",
+  "lng": "0.73166421"
 }

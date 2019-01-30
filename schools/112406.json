@@ -14,5 +14,7 @@
   "url": "www.st-pauls.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.130090",
+  "lng": "-3.2145720"
 }

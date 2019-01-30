@@ -14,5 +14,7 @@
   "url": "http://www.leighonmendipschool.info",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.223758",
+  "lng": "-2.4402405"
 }

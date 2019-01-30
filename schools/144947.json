@@ -14,5 +14,7 @@
   "url": "www.downhamfeoffees.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.433891",
+  "lng": "0.24109409"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.woolacombe.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.171936",
+  "lng": "-4.2024058"
 }

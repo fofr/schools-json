@@ -14,5 +14,7 @@
   "url": "http://www.belmontprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.919336",
+  "lng": "-0.61063441"
 }

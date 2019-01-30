@@ -14,5 +14,7 @@
   "url": "http://www.fleetvillejm.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.751447",
+  "lng": "-0.31465188"
 }

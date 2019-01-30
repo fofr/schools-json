@@ -14,5 +14,7 @@
   "url": "http://www.kirklevington.stockton.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.481705",
+  "lng": "-1.3371525"
 }

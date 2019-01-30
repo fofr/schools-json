@@ -14,5 +14,7 @@
   "url": "http://www.stpauls.cheshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.342784",
+  "lng": "-2.1205681"
 }

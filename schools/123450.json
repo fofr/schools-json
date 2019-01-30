@@ -14,5 +14,7 @@
   "url": "www.apleywoodprimaryschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.713112",
+  "lng": "-2.5014367"
 }

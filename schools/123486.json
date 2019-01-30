@@ -14,5 +14,7 @@
   "url": "www.morvilleprimaryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.542327",
+  "lng": "-2.4854500"
 }

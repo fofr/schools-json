@@ -14,5 +14,7 @@
   "url": "http://www.king-edward.lincs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.176640",
+  "lng": "0.092584180"
 }

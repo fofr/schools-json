@@ -14,5 +14,7 @@
   "url": "www.greentopschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.608204",
+  "lng": "-0.95869188"
 }

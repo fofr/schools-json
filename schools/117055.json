@@ -14,5 +14,7 @@
   "url": "http://www.westfield.hereford.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "52.225865",
+  "lng": "-2.7438716"
 }

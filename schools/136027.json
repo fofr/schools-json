@@ -14,5 +14,7 @@
   "url": "http://www.oasisacademyoldham.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.523516",
+  "lng": "-2.1293928"
 }

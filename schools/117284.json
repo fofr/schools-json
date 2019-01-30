@@ -14,5 +14,7 @@
   "url": "www.forresprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.772262",
+  "lng": "-0.0065514569"
 }

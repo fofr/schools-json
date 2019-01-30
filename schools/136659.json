@@ -14,5 +14,7 @@
   "url": "www.shiphay.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.480481",
+  "lng": "-3.5645827"
 }

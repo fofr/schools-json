@@ -14,5 +14,7 @@
   "url": "greatsankey.warrington.dbprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.388607",
+  "lng": "-2.6449227"
 }

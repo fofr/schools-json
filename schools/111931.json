@@ -14,5 +14,7 @@
   "url": "http://www.launceston-ji.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.634423",
+  "lng": "-4.3595675"
 }

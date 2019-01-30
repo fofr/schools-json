@@ -14,5 +14,7 @@
   "url": "http://www.brixhamcofe.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.391518",
+  "lng": "-3.5092467"
 }

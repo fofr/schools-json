@@ -14,5 +14,7 @@
   "url": "www.middletonprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.582702",
+  "lng": "-0.28462898"
 }

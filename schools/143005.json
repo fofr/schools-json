@@ -14,5 +14,7 @@
   "url": "http://www.avonvalley.wilts.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.200615",
+  "lng": "-1.7706195"
 }

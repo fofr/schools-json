@@ -14,5 +14,7 @@
   "url": "http://www.christchurch.e-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.861806",
+  "lng": "0.55798516"
 }

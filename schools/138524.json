@@ -14,5 +14,7 @@
   "url": "http://www.countesthorpe.cc/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.553876",
+  "lng": "-1.1588681"
 }

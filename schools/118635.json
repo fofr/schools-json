@@ -14,5 +14,7 @@
   "url": "http://www.st-georges-wrotham.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.311695",
+  "lng": "0.30778859"
 }

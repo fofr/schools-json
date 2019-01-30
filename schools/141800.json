@@ -14,5 +14,7 @@
   "url": "www.oakhillprimaryschool.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.223957",
+  "lng": "-2.5229830"
 }

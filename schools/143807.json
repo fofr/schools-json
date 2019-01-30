@@ -14,5 +14,7 @@
   "url": "http://www.mellis.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.327550",
+  "lng": "1.0897379"
 }

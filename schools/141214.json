@@ -14,5 +14,7 @@
   "url": "http://woodlandsschool.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.564861",
+  "lng": "0.45620995"
 }

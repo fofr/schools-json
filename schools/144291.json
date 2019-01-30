@@ -14,5 +14,7 @@
   "url": "http://www.liskeard.cornwall.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.458175",
+  "lng": "-4.4637676"
 }

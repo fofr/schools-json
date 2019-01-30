@@ -14,5 +14,7 @@
   "url": "http://www.astwoodbank.worcs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.263860",
+  "lng": "-1.9391037"
 }

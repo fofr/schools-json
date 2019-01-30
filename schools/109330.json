@@ -14,5 +14,7 @@
   "url": "stthomasmore.spidergroup.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.475888",
+  "lng": "-2.5730449"
 }

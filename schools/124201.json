@@ -14,5 +14,7 @@
   "url": "www.thegroveprimaryschoolstafford.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.790942",
+  "lng": "-2.1238677"
 }

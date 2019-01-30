@@ -14,5 +14,7 @@
   "url": "www.mablethorpeprimaryacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.339317",
+  "lng": "0.25237871"
 }

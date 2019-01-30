@@ -14,5 +14,7 @@
   "url": "www.nelson.newham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.532459",
+  "lng": "0.061621281"
 }

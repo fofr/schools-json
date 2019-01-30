@@ -14,5 +14,7 @@
   "url": "http://banksststephens.easyschoolwebsite.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.675287",
+  "lng": "-2.9176472"
 }

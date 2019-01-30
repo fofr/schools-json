@@ -14,5 +14,7 @@
   "url": "www.ashleyjuniorschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.755801",
+  "lng": "-1.6413533"
 }

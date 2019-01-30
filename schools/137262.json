@@ -14,5 +14,7 @@
   "url": "http://www.kepier.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.840023",
+  "lng": "-1.4737358"
 }

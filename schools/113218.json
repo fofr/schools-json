@@ -14,5 +14,7 @@
   "url": "http://www.south-brent-primary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.425890",
+  "lng": "-3.8312534"
 }

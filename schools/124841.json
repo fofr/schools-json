@@ -14,5 +14,7 @@
   "url": "http://www.chantryhigh.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.044974",
+  "lng": "1.1293867"
 }

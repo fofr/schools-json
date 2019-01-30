@@ -14,5 +14,7 @@
   "url": "http://www.wittonpark.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.742024",
+  "lng": "-2.5108652"
 }

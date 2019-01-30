@@ -14,5 +14,7 @@
   "url": "www.sfoa.lancs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.541632",
+  "lng": "-2.7621140"
 }

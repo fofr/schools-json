@@ -14,5 +14,7 @@
   "url": "http://www.stanleyparkhigh.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.347753",
+  "lng": "-0.16587382"
 }

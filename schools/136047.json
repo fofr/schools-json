@@ -14,5 +14,7 @@
   "url": "www.grettonschool.com",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "52.245475",
+  "lng": "0.085022930"
 }

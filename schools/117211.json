@@ -14,5 +14,7 @@
   "url": "www.roundwoodprimary.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.819861",
+  "lng": "-0.37164668"
 }

@@ -14,5 +14,7 @@
   "url": "www.hindleygreen.wigan.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.523249",
+  "lng": "-2.5473848"
 }

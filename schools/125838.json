@@ -14,5 +14,7 @@
   "url": "http://www.barnsgreen.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.031811",
+  "lng": "-0.39290145"
 }

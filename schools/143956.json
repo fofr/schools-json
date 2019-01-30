@@ -14,5 +14,7 @@
   "url": "http://corvuseducation.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.568513",
+  "lng": "0.82024870"
 }

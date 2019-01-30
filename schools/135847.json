@@ -14,5 +14,7 @@
   "url": "www.standrews.ne-lincs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.550091",
+  "lng": "-0.048911051"
 }

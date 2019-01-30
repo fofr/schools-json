@@ -14,5 +14,7 @@
   "url": "http://www.coans.rbkc.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.485170",
+  "lng": "-0.16941037"
 }

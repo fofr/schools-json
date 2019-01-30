@@ -14,5 +14,7 @@
   "url": "www.folly-hill.surrey.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.230883",
+  "lng": "-0.80622448"
 }

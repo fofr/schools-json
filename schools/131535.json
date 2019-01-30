@@ -14,5 +14,7 @@
   "url": "www.lps.leicester.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "52.608775",
+  "lng": "-1.1115940"
 }

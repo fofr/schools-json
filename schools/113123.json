@@ -14,5 +14,7 @@
   "url": "http://www.tedburn.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.734205",
+  "lng": "-3.6783994"
 }

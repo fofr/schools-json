@@ -14,5 +14,7 @@
   "url": "http://www.pulford.beds.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.914005",
+  "lng": "-0.66368433"
 }

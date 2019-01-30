@@ -14,5 +14,7 @@
   "url": "http://www.utc-silverstone.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "52.074962",
+  "lng": "-1.0222929"
 }

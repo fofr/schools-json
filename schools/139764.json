@@ -14,5 +14,7 @@
   "url": "http://www.st-thomasmore.cheshire.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.087587",
+  "lng": "-2.4606150"
 }

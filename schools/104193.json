@@ -14,5 +14,7 @@
   "url": "www.caldmore.walsall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.576359",
+  "lng": "-1.9807144"
 }

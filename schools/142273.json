@@ -14,5 +14,7 @@
   "url": "http://www.sacredheartrc.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.612420",
+  "lng": "-1.0798576"
 }

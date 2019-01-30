@@ -14,5 +14,7 @@
   "url": "http://www.bmgs.bolton.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.566168",
+  "lng": "-2.4409489"
 }

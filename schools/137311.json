@@ -14,5 +14,7 @@
   "url": "www.stmarysjunior.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.491014",
+  "lng": "1.2290636"
 }

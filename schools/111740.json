@@ -14,5 +14,7 @@
   "url": "www.nunthorpe.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.531400",
+  "lng": "-1.1627016"
 }

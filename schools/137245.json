@@ -14,5 +14,7 @@
   "url": "http://hearts-hilltopjun.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.614942",
+  "lng": "0.54038698"
 }

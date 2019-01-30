@@ -8,11 +8,13 @@
   "county": "",
   "postcode": "HA9 9LY",
   "minimum_age": "5",
-  "maximum_age": "18",
+  "maximum_age": "19",
   "easting": "519741",
   "northing": "186654",
   "url": "https://www.lyceeinternational.london/",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.566057",
+  "lng": "-0.27382960"
 }

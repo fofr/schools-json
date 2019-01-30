@@ -14,5 +14,7 @@
   "url": "http://www.st-nicholas-exeter.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.724346",
+  "lng": "-3.4843555"
 }

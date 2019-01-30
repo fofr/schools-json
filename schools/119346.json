@@ -14,5 +14,7 @@
   "url": "www.manor-beach.lancsngfl.ac.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.882530",
+  "lng": "-3.0420600"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.thornford.dorset.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.917462",
+  "lng": "-2.5644487"
 }

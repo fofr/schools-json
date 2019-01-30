@@ -14,5 +14,7 @@
   "url": "www.ldeutc.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.507715",
+  "lng": "0.065994519"
 }

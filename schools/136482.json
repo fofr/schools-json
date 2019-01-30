@@ -14,5 +14,7 @@
   "url": "www.hockerill.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.871052",
+  "lng": "0.17120489"
 }

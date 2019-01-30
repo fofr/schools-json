@@ -14,5 +14,7 @@
   "url": "http://www.southeygreen-junior.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.420623",
+  "lng": "-1.4754195"
 }

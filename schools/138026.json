@@ -14,5 +14,7 @@
   "url": "www.webheath.worcs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.297351",
+  "lng": "-1.9684729"
 }

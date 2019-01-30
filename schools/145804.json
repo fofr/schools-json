@@ -14,5 +14,7 @@
   "url": "www.thelanternschool.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.407406",
+  "lng": "0.25968818"
 }

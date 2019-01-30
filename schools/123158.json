@@ -14,5 +14,7 @@
   "url": "http://www.shrivenham.oxon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.598359",
+  "lng": "-1.6559262"
 }

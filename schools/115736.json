@@ -14,5 +14,7 @@
   "url": "http://www.charltonkings-jun.gloucs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.882207",
+  "lng": "-2.0457601"
 }

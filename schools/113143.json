@@ -14,5 +14,7 @@
   "url": "www.clawton-sch.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.766857",
+  "lng": "-4.3361465"
 }

@@ -14,5 +14,7 @@
   "url": "www.wardenhill.gloucs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.881104",
+  "lng": "-2.1000052"
 }

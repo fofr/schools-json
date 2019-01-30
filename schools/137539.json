@@ -14,5 +14,7 @@
   "url": "www.hasmonean.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.596480",
+  "lng": "-0.21443274"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.valley.bromley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.407090",
+  "lng": "0.0057083199"
 }

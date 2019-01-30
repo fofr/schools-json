@@ -14,5 +14,7 @@
   "url": "www.brabourne.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.136402",
+  "lng": "0.98870136"
 }

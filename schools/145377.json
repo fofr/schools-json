@@ -14,5 +14,7 @@
   "url": "http://www.grange-infants.staffs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.812055",
+  "lng": "-1.6461177"
 }

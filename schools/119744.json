@@ -14,5 +14,7 @@
   "url": "http://www.carrhillschool.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.779522",
+  "lng": "-2.8674126"
 }

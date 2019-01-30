@@ -14,5 +14,7 @@
   "url": "www.northbourne-cep.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.219050",
+  "lng": "1.3246857"
 }

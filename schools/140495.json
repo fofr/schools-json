@@ -14,5 +14,7 @@
   "url": "www.whitehallparkschool.co.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.572286",
+  "lng": "-0.13383331"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kirkbiekendal.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.317435",
+  "lng": "-2.7411821"
 }

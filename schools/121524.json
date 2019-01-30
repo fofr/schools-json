@@ -14,5 +14,7 @@
   "url": "www.west-tanfield.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.206106",
+  "lng": "-1.5915766"
 }

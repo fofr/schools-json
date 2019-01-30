@@ -14,5 +14,7 @@
   "url": "www.westberks.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.436938",
+  "lng": "-1.0817075"
 }

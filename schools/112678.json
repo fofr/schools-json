@@ -14,5 +14,7 @@
   "url": "http://www.ashbourneprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.019892",
+  "lng": "-1.7260531"
 }

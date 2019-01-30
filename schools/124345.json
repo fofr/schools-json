@@ -14,5 +14,7 @@
   "url": "http://www.st-leonards-wigginton.staffs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.655779",
+  "lng": "-1.6910494"
 }

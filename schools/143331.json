@@ -14,5 +14,7 @@
   "url": "www.eastbrentcofefirstschool.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.262816",
+  "lng": "-2.9406185"
 }

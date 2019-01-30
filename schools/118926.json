@@ -14,5 +14,7 @@
   "url": "http://nbc.medway.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.382648",
+  "lng": "0.53967220"
 }

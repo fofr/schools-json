@@ -14,5 +14,7 @@
   "url": "http://www.jws.bham.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.560489",
+  "lng": "-1.7955662"
 }

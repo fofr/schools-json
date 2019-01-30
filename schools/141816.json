@@ -14,5 +14,7 @@
   "url": "www.st-christophers.oxon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.720752",
+  "lng": "-1.6483541"
 }

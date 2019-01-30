@@ -14,5 +14,7 @@
   "url": "www.stmaryswavendon.milton-keynes.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.025000",
+  "lng": "-0.67304475"
 }

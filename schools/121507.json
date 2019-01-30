@@ -14,5 +14,7 @@
   "url": "www.lytheschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.505472",
+  "lng": "-0.69735526"
 }

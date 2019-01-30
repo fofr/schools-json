@@ -14,5 +14,7 @@
   "url": "http://www.roebuck.herts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.887710",
+  "lng": "-0.18761223"
 }

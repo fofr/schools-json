@@ -14,5 +14,7 @@
   "url": "http://www.stmarys306.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.820190",
+  "lng": "-0.031047962"
 }

@@ -14,5 +14,7 @@
   "url": "www.polehampton-inf.wokingham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.479274",
+  "lng": "-0.86432282"
 }

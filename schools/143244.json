@@ -14,5 +14,7 @@
   "url": "www.merrydalejuniors.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.645129",
+  "lng": "-1.0948214"
 }

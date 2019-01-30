@@ -14,5 +14,7 @@
   "url": "http://www.charltonmackrellschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.052503",
+  "lng": "-2.6725502"
 }

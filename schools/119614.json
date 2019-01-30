@@ -14,5 +14,7 @@
   "url": "http://www.wilsonsprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.122764",
+  "lng": "-2.7310469"
 }

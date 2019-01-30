@@ -14,5 +14,7 @@
   "url": "http://www.deal-parochial.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.213034",
+  "lng": "1.3962617"
 }

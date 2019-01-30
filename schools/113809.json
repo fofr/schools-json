@@ -14,5 +14,7 @@
   "url": "www.salwayashschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.777555",
+  "lng": "-2.7744755"
 }

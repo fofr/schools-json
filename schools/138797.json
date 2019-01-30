@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.897993",
+  "lng": "0.87661168"
 }

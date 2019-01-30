@@ -14,5 +14,7 @@
   "url": "www.scotchorchard.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.689652",
+  "lng": "-1.8112383"
 }

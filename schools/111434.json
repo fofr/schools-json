@@ -14,5 +14,7 @@
   "url": "http://www.greatsankey.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.400160",
+  "lng": "-2.6609346"
 }

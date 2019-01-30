@@ -14,5 +14,7 @@
   "url": "www.mousehole.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.085511",
+  "lng": "-5.5394811"
 }

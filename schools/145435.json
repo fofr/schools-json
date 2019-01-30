@@ -14,5 +14,7 @@
   "url": "http://www.huytonwithrobyce.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.413185",
+  "lng": "-2.8446528"
 }

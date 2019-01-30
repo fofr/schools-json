@@ -14,5 +14,7 @@
   "url": "www.barlbycommunityprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.796961",
+  "lng": "-1.0436881"
 }

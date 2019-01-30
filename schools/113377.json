@@ -14,5 +14,7 @@
   "url": "www.bluecoat-primary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.951983",
+  "lng": "-4.1364877"
 }

@@ -14,5 +14,7 @@
   "url": "http://futuretech.studio",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "53.407636",
+  "lng": "-2.5928469"
 }

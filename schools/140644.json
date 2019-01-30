@@ -14,5 +14,7 @@
   "url": "http://www.st-marychurch-primary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.485156",
+  "lng": "-3.5240411"
 }

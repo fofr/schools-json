@@ -14,5 +14,7 @@
   "url": "www.towngateprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.682156",
+  "lng": "-1.5693165"
 }

@@ -14,5 +14,7 @@
   "url": "http://schools-online.co.uk/leasjunior",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.518666",
+  "lng": "-0.097659585"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.dspace.dial.pipex.com/town/terrace/qa97",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.880107",
+  "lng": "-1.9179886"
 }

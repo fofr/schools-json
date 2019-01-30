@@ -14,5 +14,7 @@
   "url": "www.walbottlevillage.newcastle.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.992081",
+  "lng": "-1.7365558"
 }

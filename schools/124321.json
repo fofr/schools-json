@@ -14,5 +14,7 @@
   "url": "http://www.sgfl.org.uk/ourladysfenton",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.998839",
+  "lng": "-2.1667792"
 }

@@ -14,5 +14,7 @@
   "url": "www.hawthorn.newcastle.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.968738",
+  "lng": "-1.6366925"
 }

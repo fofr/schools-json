@@ -14,5 +14,7 @@
   "url": "www.eastharlingprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.438844",
+  "lng": "0.93666728"
 }

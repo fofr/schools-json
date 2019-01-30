@@ -14,5 +14,7 @@
   "url": "http://www.lessnessheath.bexley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.483150",
+  "lng": "0.14891119"
 }

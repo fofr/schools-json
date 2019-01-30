@@ -14,5 +14,7 @@
   "url": "www.docking.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.901241",
+  "lng": "0.62427018"
 }

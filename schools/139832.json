@@ -14,5 +14,7 @@
   "url": "www.ucfschool.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.190834",
+  "lng": "-2.8842181"
 }

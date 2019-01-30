@@ -14,5 +14,7 @@
   "url": "www.evergreen.durham.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "54.655012",
+  "lng": "-1.6851565"
 }

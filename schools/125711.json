@@ -14,5 +14,7 @@
   "url": "http://www.stmaryshenley.warwickshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.290829",
+  "lng": "-1.7740685"
 }

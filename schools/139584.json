@@ -14,5 +14,7 @@
   "url": "www.eskdaleacademy.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.661902",
+  "lng": "-1.2448667"
 }

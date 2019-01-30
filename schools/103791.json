@@ -14,5 +14,7 @@
   "url": "www.petershillprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.463257",
+  "lng": "-2.1321725"
 }

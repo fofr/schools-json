@@ -14,5 +14,7 @@
   "url": "www.greatmeols.wirral.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.404750",
+  "lng": "-3.1562030"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.allhallows.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.234716",
+  "lng": "-0.77505691"
 }

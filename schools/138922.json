@@ -14,5 +14,7 @@
   "url": "http://www.ksinfantschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.559425",
+  "lng": "-1.0691159"
 }

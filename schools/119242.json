@@ -14,5 +14,7 @@
   "url": "http://www.devonshire-infants.blackpool.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.822062",
+  "lng": "-3.0373836"
 }

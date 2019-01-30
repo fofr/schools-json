@@ -14,5 +14,7 @@
   "url": "www.stsaviours.lewisham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.460079",
+  "lng": "-0.010323652"
 }

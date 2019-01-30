@@ -14,5 +14,7 @@
   "url": "http://www.inspirationtrust.org/thetfordacademy",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.427530",
+  "lng": "0.75673169"
 }

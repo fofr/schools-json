@@ -14,5 +14,7 @@
   "url": "http://www.gomersalstmarys.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.727390",
+  "lng": "-1.6869384"
 }

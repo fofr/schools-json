@@ -14,5 +14,7 @@
   "url": "www.greengatesprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.832216",
+  "lng": "-1.7116234"
 }

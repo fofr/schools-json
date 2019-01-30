@@ -14,5 +14,7 @@
   "url": "www.bethany.bournemouth.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.728916",
+  "lng": "-1.8486155"
 }

@@ -14,5 +14,7 @@
   "url": "www.sedberghprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.322030",
+  "lng": "-2.5208729"
 }

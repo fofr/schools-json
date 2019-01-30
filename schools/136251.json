@@ -14,5 +14,7 @@
   "url": "www.goatlees.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.171065",
+  "lng": "0.87365093"
 }

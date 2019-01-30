@@ -14,5 +14,7 @@
   "url": "www.desc.herts.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.754520",
+  "lng": "-0.44561350"
 }

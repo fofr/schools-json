@@ -14,5 +14,7 @@
   "url": "http://www.qehs.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.970148",
+  "lng": "-2.1178116"
 }

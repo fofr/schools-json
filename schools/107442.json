@@ -14,5 +14,7 @@
   "url": "http://www.tgsonline.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.791418",
+  "lng": "-1.8216505"
 }

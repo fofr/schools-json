@@ -14,5 +14,7 @@
   "url": "www.stclements.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.351224",
+  "lng": "-0.25537646"
 }

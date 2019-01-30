@@ -14,5 +14,7 @@
   "url": "http://www.hud.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.643715",
+  "lng": "-1.7777111"
 }

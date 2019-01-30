@@ -14,5 +14,7 @@
   "url": "http://www.shawridgeprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.564394",
+  "lng": "-1.8311184"
 }

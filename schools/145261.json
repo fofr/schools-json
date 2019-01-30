@@ -14,5 +14,7 @@
   "url": "www.backwellfederation.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.415050",
+  "lng": "-2.7485637"
 }

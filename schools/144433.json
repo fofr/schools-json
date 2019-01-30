@@ -14,5 +14,7 @@
   "url": "http://www.garsington.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.718155",
+  "lng": "-1.1604755"
 }

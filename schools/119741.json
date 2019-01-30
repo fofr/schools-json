@@ -14,5 +14,7 @@
   "url": "http://www.wordensportscollege.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.693508",
+  "lng": "-2.7127128"
 }

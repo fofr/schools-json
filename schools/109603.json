@@ -14,5 +14,7 @@
   "url": "www.renhold.beds.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.163031",
+  "lng": "-0.41168221"
 }

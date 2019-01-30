@@ -14,5 +14,7 @@
   "url": "www.linkschool.org.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "54.888574",
+  "lng": "-1.4104188"
 }

@@ -14,5 +14,7 @@
   "url": "www.acs-schools.com",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.347204",
+  "lng": "-0.39954091"
 }

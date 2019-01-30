@@ -14,5 +14,7 @@
   "url": "www.flimby.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.692540",
+  "lng": "-3.5174178"
 }

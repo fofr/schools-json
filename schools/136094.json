@@ -14,5 +14,7 @@
   "url": "http://www.trinityacademyhalifax.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.753207",
+  "lng": "-1.8762871"
 }

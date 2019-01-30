@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.638881",
+  "lng": "-2.5368659"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.norlington.net/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.567289",
+  "lng": "-0.0018225648"
 }

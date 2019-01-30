@@ -14,5 +14,7 @@
   "url": "http://www.saxonway-gst.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.390699",
+  "lng": "0.55940933"
 }

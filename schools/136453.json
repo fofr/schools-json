@@ -14,5 +14,7 @@
   "url": "http://ipswichacademy.paradigmtrust.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.030212",
+  "lng": "1.1865053"
 }

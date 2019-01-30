@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.398789",
+  "lng": "0.55465639"
 }

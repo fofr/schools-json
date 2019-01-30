@@ -14,5 +14,7 @@
   "url": "www.wortham.suffolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.352540",
+  "lng": "1.0573636"
 }

@@ -14,5 +14,7 @@
   "url": "www.bishopstawton-primary.devon.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.054520",
+  "lng": "-4.0480397"
 }

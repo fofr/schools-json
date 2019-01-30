@@ -14,5 +14,7 @@
   "url": "http://www.xavier.doncaster.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.514373",
+  "lng": "-1.1411790"
 }

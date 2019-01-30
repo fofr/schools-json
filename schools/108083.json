@@ -14,5 +14,7 @@
   "url": "http://www.bentonpark.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.857123",
+  "lng": "-1.6834632"
 }

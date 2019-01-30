@@ -14,5 +14,7 @@
   "url": "www.johndonne.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.147858",
+  "lng": "-0.31546582"
 }

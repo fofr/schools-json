@@ -14,5 +14,7 @@
   "url": "http://www.trinity.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.886177",
+  "lng": "-1.8796669"
 }

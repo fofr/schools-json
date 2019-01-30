@@ -14,5 +14,7 @@
   "url": "www.thurlby.lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.740455",
+  "lng": "-0.37932037"
 }

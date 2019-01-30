@@ -14,5 +14,7 @@
   "url": "http://www.hunstanton.norfolk.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.933224",
+  "lng": "0.49367087"
 }

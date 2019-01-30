@@ -14,5 +14,7 @@
   "url": "www.springwoodinfantschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.874866",
+  "lng": "-1.0226966"
 }

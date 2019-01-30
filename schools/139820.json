@@ -14,5 +14,7 @@
   "url": "www.arkswift.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.511843",
+  "lng": "-0.22980636"
 }

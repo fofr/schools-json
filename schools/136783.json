@@ -14,5 +14,7 @@
   "url": "http://www.kowessex.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.274477",
+  "lng": "-2.7792628"
 }

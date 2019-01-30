@@ -14,5 +14,7 @@
   "url": "www.charingschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.211295",
+  "lng": "0.79314503"
 }

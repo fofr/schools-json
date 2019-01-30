@@ -14,5 +14,7 @@
   "url": "www.stjamesce.bham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.508423",
+  "lng": "-1.9493759"
 }

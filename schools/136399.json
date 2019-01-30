@@ -14,5 +14,7 @@
   "url": "http://www.jkhs.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.923988",
+  "lng": "-2.5781251"
 }

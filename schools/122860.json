@@ -14,5 +14,7 @@
   "url": "www.rushcliffe.notts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.915369",
+  "lng": "-1.1244744"
 }

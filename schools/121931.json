@@ -14,5 +14,7 @@
   "url": "http://www.boothvilleprimary.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.268641",
+  "lng": "-0.85339418"
 }

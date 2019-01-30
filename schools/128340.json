@@ -14,5 +14,7 @@
   "url": "http://www.marloweacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.349597",
+  "lng": "1.3945077"
 }

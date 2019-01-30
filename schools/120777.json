@@ -14,5 +14,7 @@
   "url": "http://www.aldborough.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.861651",
+  "lng": "1.2537569"
 }

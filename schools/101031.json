@@ -14,5 +14,7 @@
   "url": "www.ronaldross.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.449856",
+  "lng": "-0.21663280"
 }

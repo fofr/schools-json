@@ -14,5 +14,7 @@
   "url": "www.colwich.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.788453",
+  "lng": "-1.9840621"
 }

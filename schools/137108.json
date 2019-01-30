@@ -14,5 +14,7 @@
   "url": "www.leechapel.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.564733",
+  "lng": "0.44514995"
 }

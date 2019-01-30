@@ -14,5 +14,7 @@
   "url": "www.martinwilsonschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.719424",
+  "lng": "-2.7382975"
 }

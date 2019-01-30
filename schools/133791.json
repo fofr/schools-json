@@ -14,5 +14,7 @@
   "url": "http://www.brad.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.791701",
+  "lng": "-1.7621303"
 }

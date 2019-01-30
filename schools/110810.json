@@ -14,5 +14,7 @@
   "url": "http://www.buckdenschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.294105",
+  "lng": "-0.24708719"
 }

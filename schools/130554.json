@@ -14,5 +14,7 @@
   "url": "http://www.tynecoll.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "55.014443",
+  "lng": "-1.4600863"
 }

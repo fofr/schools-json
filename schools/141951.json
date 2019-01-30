@@ -14,5 +14,7 @@
   "url": "www.longfordparkschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.041118",
+  "lng": "-1.3184187"
 }

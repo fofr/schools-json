@@ -14,5 +14,7 @@
   "url": "www.gateway-academy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.525847",
+  "lng": "-0.17138342"
 }

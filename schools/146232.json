@@ -14,5 +14,7 @@
   "url": "http://www.st-pauls.leicester.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.629033",
+  "lng": "-1.0687071"
 }

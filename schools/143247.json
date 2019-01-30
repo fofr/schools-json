@@ -14,5 +14,7 @@
   "url": "http://www.babington.leicester.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.661420",
+  "lng": "-1.1596445"
 }

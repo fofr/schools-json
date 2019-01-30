@@ -14,5 +14,7 @@
   "url": "www.thecityacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.548703",
+  "lng": "-0.048445956"
 }

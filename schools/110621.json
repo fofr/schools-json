@@ -14,5 +14,7 @@
   "url": "www.waterbeach.cambs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.269346",
+  "lng": "0.19281494"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.ubhs.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.720242",
+  "lng": "-1.6351199"
 }

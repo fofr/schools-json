@@ -14,5 +14,7 @@
   "url": "www.thejohnmooreprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.979869",
+  "lng": "-2.1420988"
 }

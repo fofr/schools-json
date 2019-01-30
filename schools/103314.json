@@ -14,5 +14,7 @@
   "url": "www.hollywoodprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.403036",
+  "lng": "-1.8792667"
 }

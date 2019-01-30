@@ -14,5 +14,7 @@
   "url": "www.marpoolprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.628699",
+  "lng": "-3.3943710"
 }

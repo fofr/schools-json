@@ -14,5 +14,7 @@
   "url": "http://www.humberston-mcc.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.529070",
+  "lng": "-0.030655395"
 }

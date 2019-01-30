@@ -14,5 +14,7 @@
   "url": "www.st-edwards.liverpool.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.424811",
+  "lng": "-2.9102864"
 }

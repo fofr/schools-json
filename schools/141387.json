@@ -14,5 +14,7 @@
   "url": "www.stjameshullacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.778947",
+  "lng": "-0.31289556"
 }

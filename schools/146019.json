@@ -14,5 +14,7 @@
   "url": "www.hartburn.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.556894",
+  "lng": "-1.3427223"
 }

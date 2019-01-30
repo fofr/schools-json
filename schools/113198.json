@@ -14,5 +14,7 @@
   "url": "http://www.doddi.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.668507",
+  "lng": "-3.6226053"
 }

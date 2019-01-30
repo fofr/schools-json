@@ -14,5 +14,7 @@
   "url": "www.newlandsprimary.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.333382",
+  "lng": "-0.83258969"
 }

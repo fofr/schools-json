@@ -14,5 +14,7 @@
   "url": "https://whittleprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.689130",
+  "lng": "-2.6396197"
 }

@@ -14,5 +14,7 @@
   "url": "http://school-portal.co.uk/stjohnswood",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "53.305983",
+  "lng": "-2.3521532"
 }

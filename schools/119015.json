@@ -1,18 +1,20 @@
 {
   "urn": "119015",
   "name": "ISP School (Kent)",
-  "address": "Church Street",
+  "address": "Castlewood Farm, Conyer Road",
   "locality": "",
   "address3": "",
-  "town": "Sittingbourne",
-  "county": "Kent",
-  "postcode": "ME10 3EG",
+  "town": "Teynham",
+  "county": "",
+  "postcode": "ME9 9EA",
   "minimum_age": "7",
   "maximum_age": "18",
-  "easting": "590337",
-  "northing": "163864",
+  "easting": "595956",
+  "northing": "163216",
   "url": "",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "51.334261",
+  "lng": "0.81164250"
 }

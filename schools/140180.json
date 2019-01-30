@@ -14,5 +14,7 @@
   "url": "www.southminsterschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.660359",
+  "lng": "0.82933385"
 }

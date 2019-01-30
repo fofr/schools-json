@@ -14,5 +14,7 @@
   "url": "http://bradford.schooljotter.com/stannes/Welcome",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.870008",
+  "lng": "-1.9101307"
 }

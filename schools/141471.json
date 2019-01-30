@@ -14,5 +14,7 @@
   "url": "www.st-peters-sittingbourne.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.333950",
+  "lng": "0.72438595"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.henrybox.oxon.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.781184",
+  "lng": "-1.4874038"
 }

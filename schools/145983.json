@@ -14,5 +14,7 @@
   "url": "http://www.bloemfontein.durham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.856903",
+  "lng": "-1.6848802"
 }

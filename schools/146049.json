@@ -14,5 +14,7 @@
   "url": "www.cullingworth.bradford.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.824846",
+  "lng": "-1.9008387"
 }

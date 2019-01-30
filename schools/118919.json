@@ -14,5 +14,7 @@
   "url": "http://www.stgeorges-school.org.uk/",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.361164",
+  "lng": "1.4090851"
 }

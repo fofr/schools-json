@@ -14,5 +14,7 @@
   "url": "http://www.hertsandessex.herts.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.867744",
+  "lng": "0.17110369"
 }

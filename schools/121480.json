@@ -14,5 +14,7 @@
   "url": "bilsdalecarltonschools.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.389896",
+  "lng": "-1.1410058"
 }

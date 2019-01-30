@@ -14,5 +14,7 @@
   "url": "www.redmile.leics.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.910033",
+  "lng": "-0.81395929"
 }

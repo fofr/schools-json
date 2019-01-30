@@ -14,5 +14,7 @@
   "url": "www.oundleceprimary.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.491288",
+  "lng": "-0.47542832"
 }

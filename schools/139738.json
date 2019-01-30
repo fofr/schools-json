@@ -14,5 +14,7 @@
   "url": "http://www.baverstockacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.405394",
+  "lng": "-1.8913431"
 }

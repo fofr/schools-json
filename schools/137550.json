@@ -14,5 +14,7 @@
   "url": "www.leadacademytrust.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.961025",
+  "lng": "-1.1452436"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.schools.hants.org.uk/grayshott/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.111938",
+  "lng": "-0.76014801"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.martonmanorprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.534738",
+  "lng": "-1.2113920"
 }

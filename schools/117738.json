@@ -14,5 +14,7 @@
   "url": "http://www.hibaldstowprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.509691",
+  "lng": "-0.52144612"
 }

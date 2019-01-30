@@ -14,5 +14,7 @@
   "url": "http://www.stchads.oldham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.552546",
+  "lng": "-1.9986637"
 }

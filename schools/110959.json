@@ -14,5 +14,7 @@
   "url": "www.aspiringfoundationsschools.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.370292",
+  "lng": "-2.7135716"
 }

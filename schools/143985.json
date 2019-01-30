@@ -14,5 +14,7 @@
   "url": "http://www.landewednack.cornwall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "49.969178",
+  "lng": "-5.1996602"
 }

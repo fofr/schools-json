@@ -14,5 +14,7 @@
   "url": "http://www.marlwood.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.593082",
+  "lng": "-2.5390937"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.ling-moor.lincs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.193024",
+  "lng": "-0.58861545"
 }

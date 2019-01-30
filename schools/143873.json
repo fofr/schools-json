@@ -14,5 +14,7 @@
   "url": "http://www.kennall-vale.ik.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.197840",
+  "lng": "-5.1460816"
 }

@@ -14,5 +14,7 @@
   "url": "www.manifold.staffs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.127624",
+  "lng": "-1.8751730"
 }

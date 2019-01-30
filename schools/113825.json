@@ -14,5 +14,7 @@
   "url": "http://www.stmarymarnhull.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.979447",
+  "lng": "-2.3098664"
 }

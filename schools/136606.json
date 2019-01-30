@@ -14,5 +14,7 @@
   "url": "http://www.rickmansworth.herts.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.644921",
+  "lng": "-0.45540581"
 }

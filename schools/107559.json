@@ -14,5 +14,7 @@
   "url": "http://www.stjosephsbrighouse.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.715006",
+  "lng": "-1.7958818"
 }

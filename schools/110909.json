@@ -14,5 +14,7 @@
   "url": "http://www.sohamcollege.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.329664",
+  "lng": "0.33904515"
 }

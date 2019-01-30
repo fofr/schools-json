@@ -14,5 +14,7 @@
   "url": "www.otterhamschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.695993",
+  "lng": "-4.6146678"
 }

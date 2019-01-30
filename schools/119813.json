@@ -14,5 +14,7 @@
   "url": "http://baines.lancs.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.836440",
+  "lng": "-2.9942621"
 }

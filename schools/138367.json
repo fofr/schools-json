@@ -14,5 +14,7 @@
   "url": "www.oakbank.education",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.403333",
+  "lng": "-0.96492676"
 }

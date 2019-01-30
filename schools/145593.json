@@ -14,5 +14,7 @@
   "url": "http://www.pedmoretc.dudley.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.450066",
+  "lng": "-2.1264680"
 }

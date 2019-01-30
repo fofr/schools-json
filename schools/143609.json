@@ -14,5 +14,7 @@
   "url": "www.hallbrook.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.520873",
+  "lng": "-1.2246705"
 }

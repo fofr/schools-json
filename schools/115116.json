@@ -14,5 +14,7 @@
   "url": "http://www.margaretting.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.688039",
+  "lng": "0.40942600"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stmatthewsprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.058747",
+  "lng": "1.1468080"
 }

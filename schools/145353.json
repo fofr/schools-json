@@ -14,5 +14,7 @@
   "url": "www.cherrytree.herts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.681588",
+  "lng": "-0.40410973"
 }

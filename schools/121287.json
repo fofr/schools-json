@@ -14,5 +14,7 @@
   "url": "www.burtongreenprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.977344",
+  "lng": "-1.0909317"
 }

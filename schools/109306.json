@@ -14,5 +14,7 @@
   "url": "www.chewvalleyschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.358490",
+  "lng": "-2.6227926"
 }

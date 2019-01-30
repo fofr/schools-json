@@ -14,5 +14,7 @@
   "url": "www.bsfc.ac.uk",
   "phase": "16 plus",
   "type": "Academies",
-  "detailed_type": "Academy 16-19 converter"
+  "detailed_type": "Academy 16-19 converter",
+  "lat": "53.394929",
+  "lng": "-3.0547559"
 }

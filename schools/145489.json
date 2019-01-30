@@ -14,5 +14,7 @@
   "url": "chapelstleonards.eschools.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.223429",
+  "lng": "0.32987149"
 }

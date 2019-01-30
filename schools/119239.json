@@ -14,5 +14,7 @@
   "url": "www.ingol.lancsngfl.ac.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.779670",
+  "lng": "-2.7452368"
 }

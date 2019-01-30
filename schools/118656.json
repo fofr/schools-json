@@ -14,5 +14,7 @@
   "url": "http://www.reculver.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.367841",
+  "lng": "1.1755250"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.boscol.leics.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.625951",
+  "lng": "-1.2866067"
 }

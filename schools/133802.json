@@ -14,5 +14,7 @@
   "url": "http://www.chester.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.198641",
+  "lng": "-2.8980611"
 }

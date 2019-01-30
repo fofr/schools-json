@@ -14,5 +14,7 @@
   "url": "http://www.stmaryshenley.warwickshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.290829",
+  "lng": "-1.7740685"
 }

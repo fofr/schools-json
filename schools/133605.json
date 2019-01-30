@@ -14,5 +14,7 @@
   "url": "www.beaumontcp.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.052090",
+  "lng": "0.95813922"
 }

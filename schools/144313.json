@@ -14,5 +14,7 @@
   "url": "www.kingsparkinfant.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.683462",
+  "lng": "0.94419707"
 }

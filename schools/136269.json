@@ -14,5 +14,7 @@
   "url": "www.stburyanacademy.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.074070",
+  "lng": "-5.6209618"
 }

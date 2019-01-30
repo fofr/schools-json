@@ -14,5 +14,7 @@
   "url": "http://www.sythwood.surrey.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.323163",
+  "lng": "-0.58431013"
 }

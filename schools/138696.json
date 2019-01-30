@@ -14,5 +14,7 @@
   "url": "www.westderbyschool.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.425403",
+  "lng": "-2.9233467"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.shipston.warwickshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.066415",
+  "lng": "-1.6274713"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.newtownsoberton.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.910498",
+  "lng": "-1.1310899"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.schools.sandwell.net/stpaulscepri/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.531807",
+  "lng": "-2.0659686"
 }

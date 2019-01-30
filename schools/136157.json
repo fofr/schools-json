@@ -14,5 +14,7 @@
   "url": "www.nightingaleacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.633775",
+  "lng": "-0.045880175"
 }

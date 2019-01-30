@@ -14,5 +14,7 @@
   "url": "http://www.lgfl.net/lgfl/leas/hounslow/schools/green/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.479114",
+  "lng": "-0.32493970"
 }

@@ -14,5 +14,7 @@
   "url": "www.greenside-sch.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.792044",
+  "lng": "-1.6680143"
 }

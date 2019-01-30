@@ -14,5 +14,7 @@
   "url": "www.albancityschool.org.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.754581",
+  "lng": "-0.33452928"
 }

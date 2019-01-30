@@ -14,5 +14,7 @@
   "url": "http://www.northleighprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.812985",
+  "lng": "-1.4381439"
 }

@@ -14,5 +14,7 @@
   "url": "www.parkdale-notts.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.962183",
+  "lng": "-1.0998575"
 }

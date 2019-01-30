@@ -14,5 +14,7 @@
   "url": "www.weldon.ik.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.496605",
+  "lng": "-0.63946392"
 }

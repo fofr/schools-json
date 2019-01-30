@@ -14,5 +14,7 @@
   "url": "www.crownwoodschool.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.396402",
+  "lng": "-0.73585733"
 }

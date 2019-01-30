@@ -14,5 +14,7 @@
   "url": "http://www.healingssc.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.575119",
+  "lng": "-0.16477140"
 }

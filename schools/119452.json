@@ -14,5 +14,7 @@
   "url": "www.haslingden-st-james.lancs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.707568",
+  "lng": "-2.3271406"
 }

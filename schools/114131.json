@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/shipsea/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.773011",
+  "lng": "-1.4779942"
 }

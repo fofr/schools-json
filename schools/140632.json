@@ -14,5 +14,7 @@
   "url": "www.grade-ruan.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "49.993502",
+  "lng": "-5.1817528"
 }

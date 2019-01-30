@@ -14,5 +14,7 @@
   "url": "http://www.queenelizabeths.kent.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.317645",
+  "lng": "0.89626939"
 }

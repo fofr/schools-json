@@ -14,5 +14,7 @@
   "url": "www.williamcassidi.eschools.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.606580",
+  "lng": "-1.4158462"
 }

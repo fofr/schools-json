@@ -14,5 +14,7 @@
   "url": "www.draytonpark.islington.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.551549",
+  "lng": "-0.10573276"
 }

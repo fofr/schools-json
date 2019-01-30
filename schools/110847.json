@@ -14,5 +14,7 @@
   "url": "http://www.elton.cambs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.529736",
+  "lng": "-0.39678936"
 }

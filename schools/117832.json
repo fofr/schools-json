@@ -14,5 +14,7 @@
   "url": "www.burlingtonjuniorschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.097014",
+  "lng": "-0.20377467"
 }

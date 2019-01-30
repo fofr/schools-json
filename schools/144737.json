@@ -14,5 +14,7 @@
   "url": "http://abbot-alphege.org.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.408145",
+  "lng": "-2.3751984"
 }

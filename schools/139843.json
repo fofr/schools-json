@@ -14,5 +14,7 @@
   "url": "http://www.burrowmoor.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.546198",
+  "lng": "0.084602874"
 }

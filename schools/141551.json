@@ -14,5 +14,7 @@
   "url": "www.wickhammarketprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.153236",
+  "lng": "1.3592750"
 }

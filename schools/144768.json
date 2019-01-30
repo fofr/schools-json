@@ -14,5 +14,7 @@
   "url": "http://www.suthersschool.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.948906",
+  "lng": "-0.95086731"
 }

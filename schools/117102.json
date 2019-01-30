@@ -14,5 +14,7 @@
   "url": "www.saunceywood.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.827522",
+  "lng": "-0.33697743"
 }

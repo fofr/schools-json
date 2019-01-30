@@ -14,5 +14,7 @@
   "url": "www.walkertechnologycollege.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.980842",
+  "lng": "-1.5455682"
 }

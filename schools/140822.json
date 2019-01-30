@@ -14,5 +14,7 @@
   "url": "www.sidegate.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.065944",
+  "lng": "1.1805571"
 }

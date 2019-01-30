@@ -14,5 +14,7 @@
   "url": "http://www.st-paulinus.bexley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.454752",
+  "lng": "0.17612081"
 }

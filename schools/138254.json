@@ -14,5 +14,7 @@
   "url": "www.corbytechnicalschool.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.487486",
+  "lng": "-0.69188109"
 }

@@ -14,5 +14,7 @@
   "url": "www.oughtersideschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.751872",
+  "lng": "-3.3690874"
 }

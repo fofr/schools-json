@@ -14,5 +14,7 @@
   "url": "www.firsestate.derby.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.913341",
+  "lng": "-1.4909201"
 }

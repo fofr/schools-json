@@ -14,5 +14,7 @@
   "url": "http://www.croftway.northumberland.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "55.122543",
+  "lng": "-1.5102805"
 }

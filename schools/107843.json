@@ -14,5 +14,7 @@
   "url": "www.swillington.leeds.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.769612",
+  "lng": "-1.4183590"
 }

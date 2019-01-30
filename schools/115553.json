@@ -14,5 +14,7 @@
   "url": "parkendschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.769212",
+  "lng": "-2.5489870"
 }

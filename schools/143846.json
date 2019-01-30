@@ -14,5 +14,7 @@
   "url": "www.meridianhigh.london",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.333364",
+  "lng": "-0.0015019716"
 }

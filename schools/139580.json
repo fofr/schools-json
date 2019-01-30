@@ -14,5 +14,7 @@
   "url": "http://www.woodlands.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.574243",
+  "lng": "1.6916727"
 }

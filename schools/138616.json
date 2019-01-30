@@ -14,5 +14,7 @@
   "url": "http://www.weyvalley.dorset.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.642899",
+  "lng": "-2.4690124"
 }

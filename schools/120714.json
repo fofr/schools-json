@@ -14,5 +14,7 @@
   "url": "http://www.branstoncc.lincs.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.199141",
+  "lng": "-0.46605860"
 }

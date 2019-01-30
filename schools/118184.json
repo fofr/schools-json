@@ -14,5 +14,7 @@
   "url": "http://www.chalecepri.iow.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.595992",
+  "lng": "-1.3176541"
 }

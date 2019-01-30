@@ -14,5 +14,7 @@
   "url": "www.hardwickprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.233049",
+  "lng": "0.72236855"
 }

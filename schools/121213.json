@@ -14,5 +14,7 @@
   "url": "http://www.acle.norfolk.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.641311",
+  "lng": "1.5411397"
 }

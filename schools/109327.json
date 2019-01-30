@@ -14,5 +14,7 @@
   "url": "www.smrt.bristol.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.446321",
+  "lng": "-2.5880712"
 }

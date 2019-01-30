@@ -14,5 +14,7 @@
   "url": "http://www.stjohnrigby.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.145061",
+  "lng": "-0.44777698"
 }

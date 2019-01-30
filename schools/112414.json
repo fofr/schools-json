@@ -14,5 +14,7 @@
   "url": "http://www.bowness-on-solway.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.952165",
+  "lng": "-3.2184276"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stmarysstansted.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.895671",
+  "lng": "0.19791493"
 }

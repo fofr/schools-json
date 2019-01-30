@@ -14,5 +14,7 @@
   "url": "www.wlfs-kpa.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.496137",
+  "lng": "-0.20580858"
 }

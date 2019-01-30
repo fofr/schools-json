@@ -14,5 +14,7 @@
   "url": "www.parkfieldschool.org",
   "phase": "All through",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.775827",
+  "lng": "-1.8331614"
 }

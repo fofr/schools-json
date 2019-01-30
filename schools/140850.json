@@ -14,5 +14,7 @@
   "url": "www.barlestoneprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.647579",
+  "lng": "-1.3722484"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.aldermanpounder.notts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.919595",
+  "lng": "-1.2437018"
 }

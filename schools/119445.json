@@ -14,5 +14,7 @@
   "url": "http://www.st-john-augustine.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.758029",
+  "lng": "-2.3610529"
 }

@@ -14,5 +14,7 @@
   "url": "http://barnbynorthcove.suffolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.447823",
+  "lng": "1.6371237"
 }

@@ -14,5 +14,7 @@
   "url": "www.inkberrowfirst.worcs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.217097",
+  "lng": "-1.9784092"
 }

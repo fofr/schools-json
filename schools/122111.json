@@ -14,5 +14,7 @@
   "url": "http://www.thrapston-primary.northants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.394515",
+  "lng": "-0.53481937"
 }

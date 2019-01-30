@@ -14,5 +14,7 @@
   "url": "http://www.chathigh.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.816072",
+  "lng": "-0.43363508"
 }

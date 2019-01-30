@@ -14,5 +14,7 @@
   "url": "http://www.fulhamcross.net/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.481364",
+  "lng": "-0.21416542"
 }

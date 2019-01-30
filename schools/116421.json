@@ -14,5 +14,7 @@
   "url": "http://www.romsey.hants.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.993659",
+  "lng": "-1.5011248"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.maletlambert.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.768596",
+  "lng": "-0.30109625"
 }

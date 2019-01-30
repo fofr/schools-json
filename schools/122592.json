@@ -14,5 +14,7 @@
   "url": "http://www.bishopalexander.notts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.093179",
+  "lng": "-0.79595277"
 }

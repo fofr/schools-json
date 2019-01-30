@@ -14,5 +14,7 @@
   "url": "http://www.glenmoor.bournemouth.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.747577",
+  "lng": "-1.8897734"
 }

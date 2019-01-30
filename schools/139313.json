@@ -14,5 +14,7 @@
   "url": "www.llangrove.hmfa.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.869908",
+  "lng": "-2.6882366"
 }

@@ -14,5 +14,7 @@
   "url": "www.grange.newcastle.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.013724",
+  "lng": "-1.6280765"
 }

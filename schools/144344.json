@@ -14,5 +14,7 @@
   "url": "www.templenormantonacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.204778",
+  "lng": "-1.3719396"
 }

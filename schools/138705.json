@@ -14,5 +14,7 @@
   "url": "www.shawwoodacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.542674",
+  "lng": "-1.0616361"
 }

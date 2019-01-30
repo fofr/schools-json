@@ -14,5 +14,7 @@
   "url": "www.ashburton-primary.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.515124",
+  "lng": "-3.7526951"
 }

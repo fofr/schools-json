@@ -14,5 +14,7 @@
   "url": "www.darite.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.498368",
+  "lng": "-4.4562983"
 }

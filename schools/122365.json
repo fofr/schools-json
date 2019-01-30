@@ -14,5 +14,7 @@
   "url": "http://www.kevi.info",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "55.174810",
+  "lng": "-1.6930714"
 }

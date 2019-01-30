@@ -14,5 +14,7 @@
   "url": "http://www.beverleyhigh.net/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.846650",
+  "lng": "-0.43055293"
 }

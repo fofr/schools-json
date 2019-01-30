@@ -14,5 +14,7 @@
   "url": "www.barfordprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.484448",
+  "lng": "-1.9349133"
 }

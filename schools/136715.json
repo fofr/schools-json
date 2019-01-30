@@ -14,5 +14,7 @@
   "url": "http://www.thornden.hants.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.994409",
+  "lng": "-1.3631275"
 }

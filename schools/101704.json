@@ -14,5 +14,7 @@
   "url": "www.purley.croydon.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.341457",
+  "lng": "-0.11376130"
 }

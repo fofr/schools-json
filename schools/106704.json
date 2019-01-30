@@ -14,5 +14,7 @@
   "url": "http://www.ksinfantschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.559425",
+  "lng": "-1.0691159"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.nortonhillschool.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.280804",
+  "lng": "-2.4809599"
 }

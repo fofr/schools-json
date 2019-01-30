@@ -14,5 +14,7 @@
   "url": "www.bowerham.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.040653",
+  "lng": "-2.7918472"
 }

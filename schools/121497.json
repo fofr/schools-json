@@ -14,5 +14,7 @@
   "url": "www.hacknesscep.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.301600",
+  "lng": "-0.51300673"
 }

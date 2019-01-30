@@ -14,5 +14,7 @@
   "url": "http://www.ehche.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.559890",
+  "lng": "-2.8733740"
 }

@@ -14,5 +14,7 @@
   "url": "www.kempstonrural.beds.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.115808",
+  "lng": "-0.51656080"
 }

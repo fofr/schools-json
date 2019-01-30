@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.608279",
+  "lng": "1.2843741"
 }

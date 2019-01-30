@@ -14,5 +14,7 @@
   "url": "www.ellington-infant.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.337455",
+  "lng": "1.4037342"
 }

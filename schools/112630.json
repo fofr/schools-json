@@ -14,5 +14,7 @@
   "url": "www.duckmantonprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.247250",
+  "lng": "-1.3416750"
 }

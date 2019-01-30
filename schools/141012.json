@@ -14,5 +14,7 @@
   "url": "http://www.sirfrankwhittlestudioschool.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "52.460400",
+  "lng": "-1.2088956"
 }

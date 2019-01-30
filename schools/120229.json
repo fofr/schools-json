@@ -14,5 +14,7 @@
   "url": "www.northluffenham.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.620009",
+  "lng": "-0.62157810"
 }

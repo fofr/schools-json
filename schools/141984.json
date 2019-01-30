@@ -14,5 +14,7 @@
   "url": "http://www.st-margarets.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.485642",
+  "lng": "1.7477741"
 }

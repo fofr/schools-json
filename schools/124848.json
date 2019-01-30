@@ -14,5 +14,7 @@
   "url": "http://www.holbrookhigh.suffolk.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.988931",
+  "lng": "1.1567523"
 }

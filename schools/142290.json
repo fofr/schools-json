@@ -14,5 +14,7 @@
   "url": "www.poundhillinfantacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.119632",
+  "lng": "-0.15396051"
 }

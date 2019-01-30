@@ -14,5 +14,7 @@
   "url": "www.st-michaels-oxf.oxon.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.758666",
+  "lng": "-1.2351091"
 }

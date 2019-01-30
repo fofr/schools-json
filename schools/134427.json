@@ -1,18 +1,20 @@
 {
   "urn": "134427",
   "name": "TLG Bradford",
-  "address": "National Support Centre",
-  "locality": "Hope Park",
+  "address": "The Light Centre",
+  "locality": "86 Captain Street",
   "address3": "",
   "town": "Bradford",
   "county": "West Yorkshire",
-  "postcode": "BD5 8HH",
+  "postcode": "BD1 4EL",
   "minimum_age": "11",
   "maximum_age": "16",
-  "easting": "416651",
-  "northing": "430597",
+  "easting": "416705",
+  "northing": "433404",
   "url": "www.tlgbradford.org.uk",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "53.796679",
+  "lng": "-1.7478772"
 }

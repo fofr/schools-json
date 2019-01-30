@@ -14,5 +14,7 @@
   "url": "https://europaschooluk.org",
   "phase": "All through",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.655635",
+  "lng": "-1.2589903"
 }

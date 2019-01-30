@@ -14,5 +14,7 @@
   "url": "www.towersjs.havering.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.568474",
+  "lng": "0.21084091"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.thryberghfullerton.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.452357",
+  "lng": "-1.2960586"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.lowtonhs.wigan.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.475687",
+  "lng": "-2.5461545"
 }

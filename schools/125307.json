@@ -14,5 +14,7 @@
   "url": "http://www.rosebery.surrey.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.327952",
+  "lng": "-0.27790505"
 }

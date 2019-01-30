@@ -14,5 +14,7 @@
   "url": "www.kingstonpa.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.356758",
+  "lng": "-1.1181464"
 }

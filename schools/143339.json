@@ -14,5 +14,7 @@
   "url": "http://www.bournesgreeninfants.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.540456",
+  "lng": "0.76745555"
 }

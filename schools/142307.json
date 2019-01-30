@@ -14,5 +14,7 @@
   "url": "www.thorpepark.hull.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.787901",
+  "lng": "-0.37211800"
 }

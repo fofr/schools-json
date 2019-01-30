@@ -14,5 +14,7 @@
   "url": "www.farthinghoeprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.053688",
+  "lng": "-1.2185033"
 }

@@ -14,5 +14,7 @@
   "url": "www.clenchwarton.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.756710",
+  "lng": "0.35685577"
 }

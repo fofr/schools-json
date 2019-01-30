@@ -14,5 +14,7 @@
   "url": "constantine.cornwall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.120425",
+  "lng": "-5.1792252"
 }

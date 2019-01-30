@@ -14,5 +14,7 @@
   "url": "www.stjeromebilingual.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.585330",
+  "lng": "-0.33186238"
 }

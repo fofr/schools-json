@@ -14,5 +14,7 @@
   "url": "http://www.stpeters.cambs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.339184",
+  "lng": "-0.18551712"
 }

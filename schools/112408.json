@@ -14,5 +14,7 @@
   "url": "www.applebyprimary.cumbria.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.580970",
+  "lng": "-2.4854310"
 }

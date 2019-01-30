@@ -14,5 +14,7 @@
   "url": "http://www.st.rbkc.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.523909",
+  "lng": "-0.20896971"
 }

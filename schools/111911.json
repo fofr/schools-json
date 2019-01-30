@@ -14,5 +14,7 @@
   "url": "www.cardinhamschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.490133",
+  "lng": "-4.6476240"
 }

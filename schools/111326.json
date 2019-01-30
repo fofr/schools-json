@@ -14,5 +14,7 @@
   "url": "http://www.wincleschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.191799",
+  "lng": "-2.0628802"
 }

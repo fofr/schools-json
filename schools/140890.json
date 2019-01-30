@@ -14,5 +14,7 @@
   "url": "www.heathlnd.bham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.500032",
+  "lng": "-1.7957285"
 }

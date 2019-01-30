@@ -14,5 +14,7 @@
   "url": "http://www.sparadejuniorschl.sch.dccl.net/cgi-bin/tnt.cgi?url=main.html",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.567953",
+  "lng": "-0.088395530"
 }

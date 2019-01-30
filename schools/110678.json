@@ -14,5 +14,7 @@
   "url": "www.greatstaughton.cambs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.268816",
+  "lng": "-0.34705457"
 }

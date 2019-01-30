@@ -14,5 +14,7 @@
   "url": "www.fandbharlow.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.781244",
+  "lng": "0.13286336"
 }

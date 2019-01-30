@@ -14,5 +14,7 @@
   "url": "http://www.thames-ditton-infant.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.391300",
+  "lng": "-0.33736192"
 }

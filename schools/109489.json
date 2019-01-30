@@ -14,5 +14,7 @@
   "url": "www.turveyprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.164768",
+  "lng": "-0.62438577"
 }

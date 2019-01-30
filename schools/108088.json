@@ -14,5 +14,7 @@
   "url": "http://www.wetherbyhigh.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.929608",
+  "lng": "-1.3807133"
 }

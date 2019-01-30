@@ -14,5 +14,7 @@
   "url": "http://www.westbourne.attrust.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.074067",
+  "lng": "1.1213367"
 }

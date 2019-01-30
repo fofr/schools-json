@@ -14,5 +14,7 @@
   "url": "http://www.nexusschool.org.uk/",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Foundation special school"
+  "detailed_type": "Foundation special school",
+  "lat": "51.184555",
+  "lng": "0.24964333"
 }

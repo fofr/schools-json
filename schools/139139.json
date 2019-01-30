@@ -14,5 +14,7 @@
   "url": "http://www.allhallows.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.256433",
+  "lng": "-2.1414447"
 }

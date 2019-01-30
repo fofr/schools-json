@@ -14,5 +14,7 @@
   "url": "http://www.upminster-jun.havering.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.555870",
+  "lng": "0.25036345"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.priory.suffolk.sch.uk/",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "52.248176",
+  "lng": "0.72777825"
 }

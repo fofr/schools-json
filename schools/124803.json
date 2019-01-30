@@ -14,5 +14,7 @@
   "url": "http://www.scaltback.org.uk",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.253138",
+  "lng": "0.39167539"
 }

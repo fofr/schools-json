@@ -14,5 +14,7 @@
   "url": "www.higherlaneprimary.schooljotter.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.545593",
+  "lng": "-2.2950878"
 }

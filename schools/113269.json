@@ -14,5 +14,7 @@
   "url": "www.westonmill.plymouth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.395977",
+  "lng": "-4.1776557"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.noakbridgeschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.586620",
+  "lng": "0.44570443"
 }

@@ -14,5 +14,7 @@
   "url": "www.abbeydalegrange.sheffield.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.348223",
+  "lng": "-1.4972635"
 }

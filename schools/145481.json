@@ -14,5 +14,7 @@
   "url": "www.cheamcommoninfants.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.376080",
+  "lng": "-0.23858300"
 }

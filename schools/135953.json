@@ -14,5 +14,7 @@
   "url": "www.surreyhillsprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.224840",
+  "lng": "-0.36169834"
 }

@@ -14,5 +14,7 @@
   "url": "www.cooperslane.lewisham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.437157",
+  "lng": "0.020636581"
 }

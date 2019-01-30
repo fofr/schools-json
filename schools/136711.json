@@ -14,5 +14,7 @@
   "url": "www.queensmeadschool.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.557591",
+  "lng": "-0.38923858"
 }

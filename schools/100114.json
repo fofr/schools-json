@@ -14,5 +14,7 @@
   "url": "www.mordenmount.greenwich.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.470078",
+  "lng": "-0.014510619"
 }

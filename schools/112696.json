@@ -14,5 +14,7 @@
   "url": "http://beehive.thisisderbyshire.co.uk/default.asp?WCI=SiteHome&ID=37",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.308308",
+  "lng": "-1.4670866"
 }

@@ -14,5 +14,7 @@
   "url": "www.holytrinity.somerset.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.932597",
+  "lng": "-2.6538988"
 }

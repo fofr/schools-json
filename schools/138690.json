@@ -14,5 +14,7 @@
   "url": "www.barclayprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.575754",
+  "lng": "-0.00096060371"
 }

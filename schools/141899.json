@@ -14,5 +14,7 @@
   "url": "http://www.finedon.northants.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.339492",
+  "lng": "-0.65273093"
 }

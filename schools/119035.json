@@ -14,5 +14,7 @@
   "url": "www.danecourtschool.com",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "51.371301",
+  "lng": "0.57045440"
 }

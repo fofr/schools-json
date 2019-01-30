@@ -14,5 +14,7 @@
   "url": "http://www.sphcs.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.833628",
+  "lng": "-0.64495449"
 }

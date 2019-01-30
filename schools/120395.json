@@ -14,5 +14,7 @@
   "url": "http://www.redwood.lincs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.181982",
+  "lng": "-0.55611552"
 }

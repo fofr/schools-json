@@ -14,5 +14,7 @@
   "url": "www.upperwoodacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.538119",
+  "lng": "-1.3878719"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stpatricks.camden.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.549275",
+  "lng": "-0.14292434"
 }

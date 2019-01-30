@@ -14,5 +14,7 @@
   "url": "www.christchurch.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.247551",
+  "lng": "-1.4297909"
 }

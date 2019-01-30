@@ -14,5 +14,7 @@
   "url": "www.woodfield.plymouth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.420596",
+  "lng": "-4.1505162"
 }

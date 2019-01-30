@@ -14,5 +14,7 @@
   "url": "http://www.kingsway.stockport.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.386979",
+  "lng": "-2.2266311"
 }

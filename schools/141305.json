@@ -14,5 +14,7 @@
   "url": "www.lanesendprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.752763",
+  "lng": "-1.3051859"
 }

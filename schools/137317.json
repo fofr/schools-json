@@ -14,5 +14,7 @@
   "url": "http://www.stephensoncoll.ac.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "52.734058",
+  "lng": "-1.3767388"
 }

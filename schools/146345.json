@@ -14,5 +14,7 @@
   "url": "www.shawprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.390732",
+  "lng": "-2.1618207"
 }

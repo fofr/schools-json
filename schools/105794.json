@@ -14,5 +14,7 @@
   "url": "www.alkringtonmoss.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.534490",
+  "lng": "-2.1844048"
 }

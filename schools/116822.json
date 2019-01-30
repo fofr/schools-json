@@ -14,5 +14,7 @@
   "url": "www.hindlipfirstschool.info/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.230866",
+  "lng": "-2.1879085"
 }

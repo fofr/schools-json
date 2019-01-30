@@ -14,5 +14,7 @@
   "url": "www.hatfield.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.424451",
+  "lng": "-1.4452903"
 }

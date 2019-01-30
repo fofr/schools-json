@@ -14,5 +14,7 @@
   "url": "www.brownhillshighschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.051367",
+  "lng": "-2.2092751"
 }

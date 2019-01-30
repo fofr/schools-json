@@ -14,5 +14,7 @@
   "url": "http://www.bamfordprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.613571",
+  "lng": "-2.2055940"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.windmillhillacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.634423",
+  "lng": "-4.3595675"
 }

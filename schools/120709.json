@@ -14,5 +14,7 @@
   "url": "http://www.rps.lincs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.186207",
+  "lng": "-0.59142841"
 }

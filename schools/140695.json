@@ -14,5 +14,7 @@
   "url": "www.olsp-rc.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.551752",
+  "lng": "-3.5103496"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.cvms.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.503889",
+  "lng": "-0.21174319"
 }

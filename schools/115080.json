@@ -14,5 +14,7 @@
   "url": "www.layer-de-la-haye.essex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.844813",
+  "lng": "0.85561459"
 }

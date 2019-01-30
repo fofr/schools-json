@@ -11,8 +11,10 @@
   "maximum_age": "11",
   "easting": "408474",
   "northing": "295522",
-  "url": "www.bridgespecialschool.co.uk",
+  "url": "www.bridge.fet.ac",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "52.557472",
+  "lng": "-1.8764399"
 }

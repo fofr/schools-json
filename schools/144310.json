@@ -14,5 +14,7 @@
   "url": "http://www.swann.leics.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.741546",
+  "lng": "-1.3870302"
 }

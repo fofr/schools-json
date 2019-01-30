@@ -14,5 +14,7 @@
   "url": "http://www.st-johns-pri.gloucs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.898631",
+  "lng": "-2.0688848"
 }

@@ -14,5 +14,7 @@
   "url": "www.lindow.cheshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.311969",
+  "lng": "-2.2574666"
 }

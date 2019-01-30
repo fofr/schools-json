@@ -14,5 +14,7 @@
   "url": "www.stmichaelsfed.shropshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.467706",
+  "lng": "-2.9575622"
 }

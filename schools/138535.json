@@ -14,5 +14,7 @@
   "url": "www.simpsonslane.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.702427",
+  "lng": "-1.2619315"
 }

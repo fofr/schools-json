@@ -14,5 +14,7 @@
   "url": "http://digitechstudioschool.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.456732",
+  "lng": "-2.4799578"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.cotefordjunior.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.587480",
+  "lng": "-0.41165319"
 }

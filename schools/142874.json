@@ -14,5 +14,7 @@
   "url": "www.onedegreeacademy.org",
   "phase": "All through",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.645854",
+  "lng": "-0.050896779"
 }

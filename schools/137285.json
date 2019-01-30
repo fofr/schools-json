@@ -14,5 +14,7 @@
   "url": "https://www.theblueschoolwells.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.212408",
+  "lng": "-2.6540618"
 }

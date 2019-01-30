@@ -14,5 +14,7 @@
   "url": "www.hillside.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.379495",
+  "lng": "0.11391747"
 }

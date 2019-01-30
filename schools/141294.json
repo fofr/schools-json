@@ -14,5 +14,7 @@
   "url": "www.ashleyschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.383684",
+  "lng": "-0.41794237"
 }

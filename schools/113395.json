@@ -14,5 +14,7 @@
   "url": "http://www.diptford.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.396711",
+  "lng": "-3.7909846"
 }

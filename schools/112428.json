@@ -14,5 +14,7 @@
   "url": "http://www.qegs.cumbria.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.659149",
+  "lng": "-2.7579941"
 }

@@ -11,8 +11,10 @@
   "maximum_age": "11",
   "easting": "414060",
   "northing": "284609",
-  "url": "www.brays.bham.sch.uk",
+  "url": "www.brays.fet.ac",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "52.459251",
+  "lng": "-1.7945042"
 }

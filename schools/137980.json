@@ -14,5 +14,7 @@
   "url": "http://www.edwardbryantschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.787745",
+  "lng": "-0.67227169"
 }

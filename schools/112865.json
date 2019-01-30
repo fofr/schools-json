@@ -14,5 +14,7 @@
   "url": "www.woodvillejuniorschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.766588",
+  "lng": "-1.5325151"
 }

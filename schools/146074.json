@@ -14,5 +14,7 @@
   "url": "www.wolverleysebright.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.410572",
+  "lng": "-2.2545475"
 }

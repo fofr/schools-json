@@ -14,5 +14,7 @@
   "url": "http://www.myattgarden.lewisham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.470336",
+  "lng": "-0.031432299"
 }

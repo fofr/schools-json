@@ -14,5 +14,7 @@
   "url": "http://www.newcastle-schools.org.uk/chapelhousemiddle/",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.995192",
+  "lng": "-1.7213426"
 }

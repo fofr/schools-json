@@ -14,5 +14,7 @@
   "url": "http://www.bcps.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.767684",
+  "lng": "-3.4420920"
 }

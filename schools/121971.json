@@ -14,5 +14,7 @@
   "url": "www.forestfederation.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.184584",
+  "lng": "-0.97536672"
 }

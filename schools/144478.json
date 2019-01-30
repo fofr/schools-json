@@ -14,5 +14,7 @@
   "url": "https://www.whitfieldprimary.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.919337",
+  "lng": "-2.3485730"
 }

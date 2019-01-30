@@ -14,5 +14,7 @@
   "url": "www.st-james-chorley.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.652875",
+  "lng": "-2.6165725"
 }

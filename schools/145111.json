@@ -14,5 +14,7 @@
   "url": "www.harrowlodgeprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.561742",
+  "lng": "0.19245038"
 }

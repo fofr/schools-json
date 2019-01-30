@@ -14,5 +14,7 @@
   "url": "http://www.reay.lambeth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.477503",
+  "lng": "-0.11512410"
 }

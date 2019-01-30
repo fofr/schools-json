@@ -14,5 +14,7 @@
   "url": "www.stgeorgesrc.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.533026",
+  "lng": "-0.18779205"
 }

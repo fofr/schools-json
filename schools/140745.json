@@ -14,5 +14,7 @@
   "url": "http://www.queensway-primary.torbay.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.474687",
+  "lng": "-3.5519471"
 }

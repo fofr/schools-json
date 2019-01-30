@@ -14,5 +14,7 @@
   "url": "www.st-patricks.leicester.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.654107",
+  "lng": "-1.1146375"
 }

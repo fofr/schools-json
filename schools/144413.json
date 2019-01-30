@@ -14,5 +14,7 @@
   "url": "www.bucklandnewton.dorset.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.846254",
+  "lng": "-2.4380679"
 }

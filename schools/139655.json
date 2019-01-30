@@ -14,5 +14,7 @@
   "url": "http://brymoreacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.149015",
+  "lng": "-3.0796149"
 }

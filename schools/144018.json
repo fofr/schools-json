@@ -14,5 +14,7 @@
   "url": "www.lshs.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.489780",
+  "lng": "1.2294447"
 }

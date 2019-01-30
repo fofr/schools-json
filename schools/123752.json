@@ -14,5 +14,7 @@
   "url": "www.curryrivelprimary.somerset.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.023576",
+  "lng": "-2.8699648"
 }

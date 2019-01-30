@@ -14,5 +14,7 @@
   "url": "www.ide.devon.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.704057",
+  "lng": "-3.5587583"
 }

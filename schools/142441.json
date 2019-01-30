@@ -14,5 +14,7 @@
   "url": "www.shavingtonprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.064504",
+  "lng": "-2.4462368"
 }

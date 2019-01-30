@@ -14,5 +14,7 @@
   "url": "http://www.southwirral.wirral.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.311206",
+  "lng": "-2.9787550"
 }

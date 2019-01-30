@@ -14,5 +14,7 @@
   "url": "http://www.willowbrook-gst.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.565856",
+  "lng": "-0.021306697"
 }

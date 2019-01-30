@@ -14,5 +14,7 @@
   "url": "http://www.longbenningtonacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.990143",
+  "lng": "-0.75697162"
 }

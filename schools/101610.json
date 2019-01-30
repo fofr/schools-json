@@ -14,5 +14,7 @@
   "url": "www.chelsfield.bromley.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.357690",
+  "lng": "0.12763612"
 }

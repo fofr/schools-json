@@ -14,5 +14,7 @@
   "url": "www.lewknor.eschools.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.672869",
+  "lng": "-0.96588176"
 }

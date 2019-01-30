@@ -14,5 +14,7 @@
   "url": "http://www.bristolfreeschool.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.501284",
+  "lng": "-2.6131116"
 }

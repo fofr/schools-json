@@ -14,5 +14,7 @@
   "url": "www.tuckswoodacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.608279",
+  "lng": "1.2843741"
 }

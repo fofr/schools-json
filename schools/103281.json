@@ -14,5 +14,7 @@
   "url": "www.ydlywood.bham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.415791",
+  "lng": "-1.8606477"
 }

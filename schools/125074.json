@@ -14,5 +14,7 @@
   "url": "http://www.barnsbury-infant.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.302808",
+  "lng": "-0.56907051"
 }

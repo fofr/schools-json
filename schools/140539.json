@@ -14,5 +14,7 @@
   "url": "www.dsja.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.545086",
+  "lng": "-1.5246196"
 }

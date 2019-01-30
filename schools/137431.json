@@ -14,5 +14,7 @@
   "url": "http://www.inspirationtrust.org/cromeracademy",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.922878",
+  "lng": "1.3041966"
 }

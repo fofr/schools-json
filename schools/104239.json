@@ -14,5 +14,7 @@
   "url": "www.st-francis-p.walsall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.617713",
+  "lng": "-1.9521751"
 }

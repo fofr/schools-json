@@ -14,5 +14,7 @@
   "url": "http://www.stmgtmry.bham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.533284",
+  "lng": "-1.8637706"
 }

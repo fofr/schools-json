@@ -14,5 +14,7 @@
   "url": "http://www.caistoryarboroughacademy.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.497554",
+  "lng": "-0.31036816"
 }

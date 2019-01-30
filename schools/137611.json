@@ -14,5 +14,7 @@
   "url": "http://www.lisle.ne-lincs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.551416",
+  "lng": "-0.081925218"
 }

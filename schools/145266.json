@@ -14,5 +14,7 @@
   "url": "www.ravensthorpeprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.594163",
+  "lng": "-0.26957972"
 }

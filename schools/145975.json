@@ -14,5 +14,7 @@
   "url": "www.dickleburgh.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.395290",
+  "lng": "1.1871784"
 }

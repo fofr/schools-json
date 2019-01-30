@@ -14,5 +14,7 @@
   "url": "http://www.carlisle.ac.uk/default.asp",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "54.896160",
+  "lng": "-2.9295144"
 }

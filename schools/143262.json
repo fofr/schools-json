@@ -14,5 +14,7 @@
   "url": "www.hoo-st-werburgh.medway.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.421720",
+  "lng": "0.55356181"
 }

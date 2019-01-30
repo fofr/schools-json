@@ -14,5 +14,7 @@
   "url": "http://www.st-edwards.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.779630",
+  "lng": "-1.5603208"
 }

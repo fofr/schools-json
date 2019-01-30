@@ -14,5 +14,7 @@
   "url": "http://www.guildfordcounty.surrey.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.234170",
+  "lng": "-0.58546722"
 }

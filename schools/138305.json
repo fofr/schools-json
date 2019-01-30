@@ -14,5 +14,7 @@
   "url": "www.tregoze-pri.swindon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.560741",
+  "lng": "-1.8423116"
 }

@@ -14,5 +14,7 @@
   "url": "www.assmfederation.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.450343",
+  "lng": "-1.9419746"
 }

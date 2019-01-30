@@ -14,5 +14,7 @@
   "url": "www.strikelaneprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.760473",
+  "lng": "-2.8664738"
 }

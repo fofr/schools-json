@@ -14,5 +14,7 @@
   "url": "http://www.coppice.worcs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.389694",
+  "lng": "-1.8778777"
 }

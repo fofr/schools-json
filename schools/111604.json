@@ -14,5 +14,7 @@
   "url": "http://bankfieldsprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.556069",
+  "lng": "-1.1458062"
 }

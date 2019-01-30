@@ -14,5 +14,7 @@
   "url": "www.findern.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.862273",
+  "lng": "-1.5373104"
 }

@@ -14,5 +14,7 @@
   "url": "www.leasowes-primary-school.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.793068",
+  "lng": "-2.0747879"
 }

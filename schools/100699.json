@@ -14,5 +14,7 @@
   "url": "http://www.rangefield.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.424409",
+  "lng": "0.0036760125"
 }

@@ -14,5 +14,7 @@
   "url": "www.knightsenham-inf.hants.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.224450",
+  "lng": "-1.4801767"
 }

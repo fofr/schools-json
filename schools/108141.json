@@ -14,5 +14,7 @@
   "url": "www.croftonjuniorschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.656782",
+  "lng": "-1.4256625"
 }

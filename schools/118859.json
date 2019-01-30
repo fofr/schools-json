@@ -14,5 +14,7 @@
   "url": "http://www.holytrinitydartford.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.452460",
+  "lng": "0.20632461"
 }

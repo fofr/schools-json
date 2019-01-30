@@ -14,5 +14,7 @@
   "url": "www.eastward.bury.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.595211",
+  "lng": "-2.2753840"
 }

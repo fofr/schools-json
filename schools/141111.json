@@ -14,5 +14,7 @@
   "url": "www.utcoxfordshire.org.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.603898",
+  "lng": "-1.2718460"
 }

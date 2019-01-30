@@ -14,5 +14,7 @@
   "url": "www.featherstonewood.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.893546",
+  "lng": "-0.16611507"
 }

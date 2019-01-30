@@ -14,5 +14,7 @@
   "url": "www.triple-crown.solihull.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "52.426327",
+  "lng": "-1.7782303"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.hookwithwarsash.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.850119",
+  "lng": "-1.2948486"
 }

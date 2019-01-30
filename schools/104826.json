@@ -14,5 +14,7 @@
   "url": "http://www.rainford.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.508301",
+  "lng": "-2.7830780"
 }

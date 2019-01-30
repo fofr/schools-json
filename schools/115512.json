@@ -14,5 +14,7 @@
   "url": "www.cvjs.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.878369",
+  "lng": "-2.1711512"
 }

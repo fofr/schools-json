@@ -14,5 +14,7 @@
   "url": "www.lathompark.lancs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.582693",
+  "lng": "-2.8254779"
 }

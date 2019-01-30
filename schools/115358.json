@@ -14,5 +14,7 @@
   "url": "http://www.aesessex.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.673158",
+  "lng": "0.38640492"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.heathside.surrey.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.364664",
+  "lng": "-0.46519731"
 }

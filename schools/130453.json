@@ -14,5 +14,7 @@
   "url": "http://www.redbridge-college.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.579960",
+  "lng": "0.11912335"
 }

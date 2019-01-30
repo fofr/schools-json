@@ -14,5 +14,7 @@
   "url": "http://www.cranbornefirst.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.918810",
+  "lng": "-1.9210231"
 }

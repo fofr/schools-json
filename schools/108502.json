@@ -14,5 +14,7 @@
   "url": "www.stpauls.newcastle.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.969670",
+  "lng": "-1.6299204"
 }

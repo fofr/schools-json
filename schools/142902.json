@@ -14,5 +14,7 @@
   "url": "www.gputc.com",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "52.586459",
+  "lng": "-0.23256600"
 }

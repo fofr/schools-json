@@ -14,5 +14,7 @@
   "url": "http://www.lissinfantschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.038990",
+  "lng": "-0.88889696"
 }

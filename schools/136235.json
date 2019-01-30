@@ -14,5 +14,7 @@
   "url": "www.tlc.notts.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "52.997263",
+  "lng": "-1.1404160"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.blackwater.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.271023",
+  "lng": "-5.1810134"
 }

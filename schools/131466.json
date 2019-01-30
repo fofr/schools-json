@@ -14,5 +14,7 @@
   "url": "www.parkheadprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.950828",
+  "lng": "-1.7179178"
 }

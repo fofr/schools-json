@@ -14,5 +14,7 @@
   "url": "www.stgcs.southwark.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.498381",
+  "lng": "-0.10658374"
 }

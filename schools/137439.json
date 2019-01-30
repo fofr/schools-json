@@ -14,5 +14,7 @@
   "url": "www.olseacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.962584",
+  "lng": "-1.1284490"
 }

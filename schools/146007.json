@@ -14,5 +14,7 @@
   "url": "http://www.kirkfenton.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.826660",
+  "lng": "-1.2204016"
 }

@@ -14,5 +14,7 @@
   "url": "www.pvischools.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.086127",
+  "lng": "-1.3235760"
 }

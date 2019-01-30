@@ -14,5 +14,7 @@
   "url": "www.sowerby.n-yorks.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.226417",
+  "lng": "-1.3465238"
 }

@@ -14,5 +14,7 @@
   "url": "www.littlehallingburyschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.835613",
+  "lng": "0.17845556"
 }

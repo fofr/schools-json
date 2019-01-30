@@ -14,5 +14,7 @@
   "url": "www.stjamescebournemouth.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.732448",
+  "lng": "-1.8216963"
 }

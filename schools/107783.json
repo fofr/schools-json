@@ -14,5 +14,7 @@
   "url": "http://www.stjohnfisher.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.694149",
+  "lng": "-1.6440232"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.mf.starmat.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.759501",
+  "lng": "-1.2344931"
 }

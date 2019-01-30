@@ -14,5 +14,7 @@
   "url": "www.barbyceprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.323079",
+  "lng": "-1.2058001"
 }

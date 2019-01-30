@@ -14,5 +14,7 @@
   "url": "http://www.scarcroft.york.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.952790",
+  "lng": "-1.0900333"
 }

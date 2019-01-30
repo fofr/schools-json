@@ -14,5 +14,7 @@
   "url": "http://www.poplaradolescentunit.essex.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.582964",
+  "lng": "0.70484519"
 }

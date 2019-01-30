@@ -14,5 +14,7 @@
   "url": "http://www.dawlish.devon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.584430",
+  "lng": "-3.4620533"
 }

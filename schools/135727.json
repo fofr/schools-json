@@ -14,5 +14,7 @@
   "url": "www.finlayschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.847225",
+  "lng": "-2.2291579"
 }

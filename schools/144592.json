@@ -14,5 +14,7 @@
   "url": "www.stokeminster.stoke.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.998070",
+  "lng": "-2.1825997"
 }

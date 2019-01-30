@@ -14,5 +14,7 @@
   "url": "http://www.southfieldsch.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.386436",
+  "lng": "-0.71767482"
 }

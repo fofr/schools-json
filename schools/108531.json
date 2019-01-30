@@ -14,5 +14,7 @@
   "url": "http://www.heatonmanor.net/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.994167",
+  "lng": "-1.5878691"
 }

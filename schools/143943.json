@@ -14,5 +14,7 @@
   "url": "www.westmnst.bham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.509863",
+  "lng": "-1.9082662"
 }

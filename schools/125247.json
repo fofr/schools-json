@@ -14,5 +14,7 @@
   "url": "http://www.the-howard.demon.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.273294",
+  "lng": "-0.39555851"
 }

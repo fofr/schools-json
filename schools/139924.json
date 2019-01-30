@@ -14,5 +14,7 @@
   "url": "http://www.daestudio.biz/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "53.696385",
+  "lng": "-2.4707979"
 }

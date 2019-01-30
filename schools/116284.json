@@ -14,5 +14,7 @@
   "url": "www.eastmeon.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.993479",
+  "lng": "-1.0346281"
 }

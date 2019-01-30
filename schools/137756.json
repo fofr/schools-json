@@ -14,5 +14,7 @@
   "url": "http://www.firslower.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.026761",
+  "lng": "-0.49904428"
 }

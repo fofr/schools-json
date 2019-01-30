@@ -14,5 +14,7 @@
   "url": "http://www.giffardpark.milton-keynes.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.073769",
+  "lng": "-0.74528400"
 }

@@ -14,5 +14,7 @@
   "url": "www.nunthorpe.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.531400",
+  "lng": "-1.1627016"
 }

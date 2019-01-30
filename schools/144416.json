@@ -14,5 +14,7 @@
   "url": "http://www.standrewsyetminster.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.897342",
+  "lng": "-2.5817664"
 }

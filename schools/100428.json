@@ -14,5 +14,7 @@
   "url": "www.wintonprimaryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.532350",
+  "lng": "-0.11804993"
 }

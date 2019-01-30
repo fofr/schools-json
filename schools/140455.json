@@ -14,5 +14,7 @@
   "url": "www.huish.somerset.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.943341",
+  "lng": "-2.6396451"
 }

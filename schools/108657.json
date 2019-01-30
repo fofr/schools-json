@@ -14,5 +14,7 @@
   "url": "phs.percyhedley.org.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Non-maintained special school"
+  "detailed_type": "Non-maintained special school",
+  "lat": "55.029678",
+  "lng": "-1.5666047"
 }

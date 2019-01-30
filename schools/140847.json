@@ -14,5 +14,7 @@
   "url": "www.buckinghamprimaryacademy.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.755153",
+  "lng": "-0.31289371"
 }

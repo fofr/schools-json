@@ -14,5 +14,7 @@
   "url": "http://www.meophamca.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.375066",
+  "lng": "0.35952934"
 }

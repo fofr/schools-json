@@ -14,5 +14,7 @@
   "url": "http://www.folkestonegirls.kent.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.076770",
+  "lng": "1.1511584"
 }

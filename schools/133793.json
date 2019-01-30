@@ -14,5 +14,7 @@
   "url": "www.aub.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "50.741793",
+  "lng": "-1.8977093"
 }

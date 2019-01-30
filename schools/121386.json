@@ -14,5 +14,7 @@
   "url": "www.carlton-in-snaith.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.712631",
+  "lng": "-1.0179798"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.colmanjunior.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.620443",
+  "lng": "1.2627202"
 }

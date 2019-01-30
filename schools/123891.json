@@ -14,5 +14,7 @@
   "url": "http://www.preston.somerset.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.945277",
+  "lng": "-2.6569236"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-gregorys.kent.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.376041",
+  "lng": "1.3793185"
 }

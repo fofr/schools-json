@@ -14,5 +14,7 @@
   "url": "www.swintonfitzwilliam.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.484880",
+  "lng": "-1.3275745"
 }

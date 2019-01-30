@@ -14,5 +14,7 @@
   "url": "http://www.moss-lane.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.186404",
+  "lng": "-0.61423157"
 }

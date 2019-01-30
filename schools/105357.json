@@ -14,5 +14,7 @@
   "url": "www.tottington.bury.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.612085",
+  "lng": "-2.3372994"
 }

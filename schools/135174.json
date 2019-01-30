@@ -14,5 +14,7 @@
   "url": "www.belvedereacademy.net",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.384742",
+  "lng": "-2.9569567"
 }

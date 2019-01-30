@@ -14,5 +14,7 @@
   "url": "www.actonceprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.075142",
+  "lng": "-2.5502500"
 }

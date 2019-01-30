@@ -14,5 +14,7 @@
   "url": "www.prees.shropshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.896351",
+  "lng": "-2.6602127"
 }

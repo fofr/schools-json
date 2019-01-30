@@ -14,5 +14,7 @@
   "url": "www.ribbonacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.818605",
+  "lng": "-1.3867405"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.newstead.stoke.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.964708",
+  "lng": "-2.1529355"
 }

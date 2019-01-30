@@ -14,5 +14,7 @@
   "url": "www.allsaintsbabbacombe.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.473937",
+  "lng": "-3.5153654"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.theparker.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.264552",
+  "lng": "-1.1642057"
 }

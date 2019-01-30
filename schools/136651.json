@@ -14,5 +14,7 @@
   "url": "http://www.challneyboys.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.894951",
+  "lng": "-0.46736848"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stlouisacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.249139",
+  "lng": "0.40750279"
 }

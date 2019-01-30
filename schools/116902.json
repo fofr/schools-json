@@ -14,5 +14,7 @@
   "url": "http://www.malvern-wells.worcs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.071538",
+  "lng": "-2.3336572"
 }

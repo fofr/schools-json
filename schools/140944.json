@@ -14,5 +14,7 @@
   "url": "http://www.thebathstudioschool.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.355757",
+  "lng": "-2.3704904"
 }

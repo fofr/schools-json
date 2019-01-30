@@ -14,5 +14,7 @@
   "url": "www.dallowprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.881455",
+  "lng": "-0.42920935"
 }

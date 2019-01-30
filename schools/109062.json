@@ -14,5 +14,7 @@
   "url": "www.chewmagna.bathnes.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.367948",
+  "lng": "-2.6076368"
 }

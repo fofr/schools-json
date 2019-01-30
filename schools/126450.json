@@ -14,5 +14,7 @@
   "url": "http://www.school-portal.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.560205",
+  "lng": "-1.7303018"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.staidanscatholicacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.893012",
+  "lng": "-1.3883863"
 }

@@ -14,5 +14,7 @@
   "url": "www.hayton.cumbria.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.911665",
+  "lng": "-2.7698462"
 }

@@ -14,5 +14,7 @@
   "url": "www.webster.manchester.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.459704",
+  "lng": "-2.2365522"
 }

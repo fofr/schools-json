@@ -14,5 +14,7 @@
   "url": "www.coddingtoncofeprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.080256",
+  "lng": "-0.75958794"
 }

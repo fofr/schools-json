@@ -14,5 +14,7 @@
   "url": "http://www.seaviewprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.985480",
+  "lng": "-1.4005616"
 }

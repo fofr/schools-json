@@ -14,5 +14,7 @@
   "url": "http://www.sayescourt.surrey.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.366709",
+  "lng": "-0.49387413"
 }

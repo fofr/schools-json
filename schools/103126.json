@@ -14,5 +14,7 @@
   "url": "www.marshiln.bham.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "52.524554",
+  "lng": "-1.8709018"
 }

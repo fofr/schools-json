@@ -14,5 +14,7 @@
   "url": "http://www.queensparkjunior.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.747581",
+  "lng": "-1.8600222"
 }

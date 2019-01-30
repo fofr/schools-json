@@ -14,5 +14,7 @@
   "url": "www.parkinfantschoolkettering.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.407833",
+  "lng": "-0.72095024"
 }

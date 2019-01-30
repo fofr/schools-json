@@ -14,5 +14,7 @@
   "url": "http://www.kingswarrington.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.402325",
+  "lng": "-2.5395287"
 }

@@ -14,5 +14,7 @@
   "url": "www.sthelensprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.057485",
+  "lng": "1.1653801"
 }

@@ -14,5 +14,7 @@
   "url": "www.stnicholassutton.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.549985",
+  "lng": "-1.8402410"
 }

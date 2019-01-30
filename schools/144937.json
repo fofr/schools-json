@@ -14,5 +14,7 @@
   "url": "http://www.washingtonacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.908627",
+  "lng": "-1.5218475"
 }

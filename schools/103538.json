@@ -14,5 +14,7 @@
   "url": "http://www.holytrc.bham.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.467397",
+  "lng": "-1.8640621"
 }

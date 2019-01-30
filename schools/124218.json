@@ -14,5 +14,7 @@
   "url": "http://www.johnofrolleston.staffs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.845985",
+  "lng": "-1.6476535"
 }

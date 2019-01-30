@@ -14,5 +14,7 @@
   "url": "http://www.northhertsesc.herts.sch.uk/",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.967826",
+  "lng": "-0.24146120"
 }

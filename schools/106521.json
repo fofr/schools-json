@@ -14,5 +14,7 @@
   "url": "http://www.cansfield.wigan.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.493612",
+  "lng": "-2.6449779"
 }

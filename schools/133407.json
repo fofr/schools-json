@@ -14,5 +14,7 @@
   "url": "www.pencoys.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.204729",
+  "lng": "-5.2396607"
 }

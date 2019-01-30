@@ -14,5 +14,7 @@
   "url": "http://www.westwood.cambs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.555379",
+  "lng": "0.079919232"
 }

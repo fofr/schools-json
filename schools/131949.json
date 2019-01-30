@@ -14,5 +14,7 @@
   "url": "http://www.mapplewellprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.586878",
+  "lng": "-1.4992409"
 }

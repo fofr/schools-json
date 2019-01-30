@@ -14,5 +14,7 @@
   "url": "http://www.hollandparkprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.800662",
+  "lng": "1.1712689"
 }

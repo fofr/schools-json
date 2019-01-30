@@ -14,5 +14,7 @@
   "url": "http://www.ranelaghprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.055898",
+  "lng": "1.1319013"
 }

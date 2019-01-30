@@ -14,5 +14,7 @@
   "url": "http://www.stfrancisofassisi.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.624265",
+  "lng": "1.2650146"
 }

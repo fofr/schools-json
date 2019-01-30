@@ -14,5 +14,7 @@
   "url": "burfieldacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.854584",
+  "lng": "0.24887225"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.ursuline.kent.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.377530",
+  "lng": "1.3276564"
 }

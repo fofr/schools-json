@@ -14,5 +14,7 @@
   "url": "www.grimesdyke.leeds.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.825253",
+  "lng": "-1.4459066"
 }

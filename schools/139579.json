@@ -14,5 +14,7 @@
   "url": "www.wheelerprimary.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.740990",
+  "lng": "-0.38362081"
 }

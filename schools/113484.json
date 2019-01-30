@@ -14,5 +14,7 @@
   "url": "www.st-georges.plymouth.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.363179",
+  "lng": "-4.1595757"
 }

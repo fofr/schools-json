@@ -14,5 +14,7 @@
   "url": "www.milldam.wakefield.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.643207",
+  "lng": "-1.3315035"
 }

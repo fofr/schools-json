@@ -14,5 +14,7 @@
   "url": "www.theheightsprimary.co.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.466963",
+  "lng": "-0.96831074"
 }

@@ -14,5 +14,7 @@
   "url": "www.mertonbank.st-helens.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.456864",
+  "lng": "-2.7178691"
 }

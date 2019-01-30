@@ -14,5 +14,7 @@
   "url": "www.charlesdarwinprimary.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.628157",
+  "lng": "1.3036738"
 }

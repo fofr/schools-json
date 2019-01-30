@@ -14,5 +14,7 @@
   "url": "www.killisick.notts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.007946",
+  "lng": "-1.1115591"
 }

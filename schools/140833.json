@@ -14,5 +14,7 @@
   "url": "www.gladpark.brent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.551824",
+  "lng": "-0.23108189"
 }

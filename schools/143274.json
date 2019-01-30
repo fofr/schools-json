@@ -14,5 +14,7 @@
   "url": "http://www.forestgatecst.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.549755",
+  "lng": "0.023227768"
 }

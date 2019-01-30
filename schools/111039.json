@@ -14,5 +14,7 @@
   "url": "www.scholargreen.cheshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.109041",
+  "lng": "-2.2511728"
 }

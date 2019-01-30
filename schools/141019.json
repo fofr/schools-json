@@ -14,5 +14,7 @@
   "url": "http://arkelvinacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.552361",
+  "lng": "-0.29099355"
 }

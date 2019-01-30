@@ -14,5 +14,7 @@
   "url": "www.leighfieldschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.584981",
+  "lng": "-0.73004351"
 }

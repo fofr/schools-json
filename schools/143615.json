@@ -14,5 +14,7 @@
   "url": "www.salisburyroad.plymouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.375010",
+  "lng": "-4.1242345"
 }

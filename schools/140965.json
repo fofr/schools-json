@@ -14,5 +14,7 @@
   "url": "http://www.studiowestnewcastle.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "54.994122",
+  "lng": "-1.6985146"
 }

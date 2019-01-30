@@ -14,5 +14,7 @@
   "url": "www.uptonnoble.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.152223",
+  "lng": "-2.4115500"
 }

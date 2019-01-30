@@ -14,5 +14,7 @@
   "url": "www.stvincentshr.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.907785",
+  "lng": "-0.51246295"
 }

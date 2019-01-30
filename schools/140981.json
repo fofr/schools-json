@@ -14,5 +14,7 @@
   "url": "http://www.black-firs.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.169596",
+  "lng": "-2.2442864"
 }

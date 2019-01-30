@@ -14,5 +14,7 @@
   "url": "www.pinkwellschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.498165",
+  "lng": "-0.43940985"
 }

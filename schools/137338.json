@@ -14,5 +14,7 @@
   "url": "http://www.cartmelprioryschool.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.198270",
+  "lng": "-2.9499081"
 }

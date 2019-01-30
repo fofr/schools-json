@@ -14,5 +14,7 @@
   "url": "www.hernhill.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.314973",
+  "lng": "0.96454679"
 }

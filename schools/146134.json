@@ -14,5 +14,7 @@
   "url": "http://www.courtwood.croydon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.344587",
+  "lng": "-0.037672923"
 }

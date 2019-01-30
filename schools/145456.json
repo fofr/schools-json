@@ -14,5 +14,7 @@
   "url": "http://www.sholing-jun.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.907051",
+  "lng": "-1.3588441"
 }

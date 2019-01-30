@@ -14,5 +14,7 @@
   "url": "http://www.stmaryscofe-beverley.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.849448",
+  "lng": "-0.43766925"
 }

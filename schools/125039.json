@@ -14,5 +14,7 @@
   "url": "http://www.cleves.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.372292",
+  "lng": "-0.42672552"
 }

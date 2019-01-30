@@ -14,5 +14,7 @@
   "url": "www.pebblebrookprimary.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.082662",
+  "lng": "-2.4485147"
 }

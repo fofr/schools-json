@@ -14,5 +14,7 @@
   "url": "www.highviewprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.524241",
+  "lng": "-1.4112258"
 }

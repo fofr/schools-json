@@ -14,5 +14,7 @@
   "url": "http://www.wherelearnersgrow.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.893284",
+  "lng": "-1.9912142"
 }

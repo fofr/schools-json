@@ -14,5 +14,7 @@
   "url": "http://www.ainsliewood.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.611588",
+  "lng": "-0.010955785"
 }

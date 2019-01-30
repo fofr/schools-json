@@ -14,5 +14,7 @@
   "url": "www.cottenhamprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.286892",
+  "lng": "0.11931265"
 }

@@ -14,5 +14,7 @@
   "url": "www.westdraytonschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.505248",
+  "lng": "-0.46648732"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.eatonhallacademy.co.uk",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "52.616930",
+  "lng": "1.2560606"
 }

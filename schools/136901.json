@@ -14,5 +14,7 @@
   "url": "http://www.stclementdanes.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.663536",
+  "lng": "-0.51406975"
 }

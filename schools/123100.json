@@ -14,5 +14,7 @@
   "url": "www.charltononotmoor.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.839551",
+  "lng": "-1.1829676"
 }

@@ -14,5 +14,7 @@
   "url": "www.ststephens.surrey.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.220596",
+  "lng": "-0.045399319"
 }

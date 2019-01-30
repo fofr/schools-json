@@ -14,5 +14,7 @@
   "url": "http://www.nursing-standard.co.uk/instit",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.516014",
+  "lng": "-0.14592054"
 }

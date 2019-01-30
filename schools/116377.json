@@ -14,5 +14,7 @@
   "url": "http://www.st-thomasmores.hants.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.858728",
+  "lng": "-0.99770081"
 }

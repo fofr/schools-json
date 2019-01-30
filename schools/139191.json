@@ -14,5 +14,7 @@
   "url": "www.parkacademyboston.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.986513",
+  "lng": "-0.030485995"
 }

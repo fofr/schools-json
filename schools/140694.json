@@ -14,5 +14,7 @@
   "url": "www.stjames.covmat.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.479312",
+  "lng": "-1.4248836"
 }

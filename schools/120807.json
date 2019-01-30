@@ -14,5 +14,7 @@
   "url": "www.foulshamprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.782537",
+  "lng": "1.0107142"
 }

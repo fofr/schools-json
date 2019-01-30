@@ -14,5 +14,7 @@
   "url": "http://www.stdavidsprimary.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.724295",
+  "lng": "-3.5375120"
 }

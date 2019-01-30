@@ -14,5 +14,7 @@
   "url": "www.dogsthorpeacademy.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.594998",
+  "lng": "-0.23237002"
 }

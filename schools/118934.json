@@ -14,5 +14,7 @@
   "url": "http://www.chathamhouse.kent.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.336481",
+  "lng": "1.4161699"
 }

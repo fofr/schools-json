@@ -14,5 +14,7 @@
   "url": "www.amesbury-inf.wilts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.172840",
+  "lng": "-1.7760210"
 }

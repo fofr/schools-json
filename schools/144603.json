@@ -14,5 +14,7 @@
   "url": "www.bulphanprimary.thurrock.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.549008",
+  "lng": "0.35843750"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bham.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.448972",
+  "lng": "-1.9308603"
 }

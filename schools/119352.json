@@ -14,5 +14,7 @@
   "url": "http://www.dukestreet-pri.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.646760",
+  "lng": "-2.6309302"
 }

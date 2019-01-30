@@ -14,5 +14,7 @@
   "url": "http://www.st-patricks.sheffield.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.422776",
+  "lng": "-1.4564326"
 }

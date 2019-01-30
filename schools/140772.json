@@ -14,5 +14,7 @@
   "url": "http://www.stmarysaxminster.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.780201",
+  "lng": "-2.9925587"
 }

@@ -14,5 +14,7 @@
   "url": "www.coomberoad.brighton-hove.gov.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.839576",
+  "lng": "-0.11753833"
 }

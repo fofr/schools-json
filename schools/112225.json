@@ -14,5 +14,7 @@
   "url": "www.yewdale.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.888504",
+  "lng": "-2.9831072"
 }

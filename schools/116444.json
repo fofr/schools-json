@@ -14,5 +14,7 @@
   "url": "http://www.forthill.hants.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.271791",
+  "lng": "-1.1227180"
 }

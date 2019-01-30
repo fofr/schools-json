@@ -14,5 +14,7 @@
   "url": "www.allendaleprimary.northumberland.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.897632",
+  "lng": "-2.2515396"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.brookfield.sutton.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.379749",
+  "lng": "-0.21540723"
 }

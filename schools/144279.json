@@ -14,5 +14,7 @@
   "url": "http://www.gosforthacademy.org.uk/north-gosforth",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "55.058260",
+  "lng": "-1.6194921"
 }

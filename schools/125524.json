@@ -14,5 +14,7 @@
   "url": "http://www.broad-street.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.189408",
+  "lng": "-1.7119455"
 }

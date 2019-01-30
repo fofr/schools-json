@@ -14,5 +14,7 @@
   "url": "www.mjps.org.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.451889",
+  "lng": "-0.24529546"
 }

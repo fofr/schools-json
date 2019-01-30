@@ -14,5 +14,7 @@
   "url": "www.northmarstonprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.898002",
+  "lng": "-0.87269137"
 }

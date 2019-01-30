@@ -14,5 +14,7 @@
   "url": "http://www.gravelhillschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.454294",
+  "lng": "0.15417689"
 }

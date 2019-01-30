@@ -14,5 +14,7 @@
   "url": "http://www.sussex.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "50.864470",
+  "lng": "-0.087076488"
 }

@@ -14,5 +14,7 @@
   "url": "www.woodgrange.newham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.551204",
+  "lng": "0.028931951"
 }

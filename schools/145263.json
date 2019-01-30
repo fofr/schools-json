@@ -14,5 +14,7 @@
   "url": "yattonschools.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.387406",
+  "lng": "-2.8175821"
 }

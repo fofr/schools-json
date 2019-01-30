@@ -14,5 +14,7 @@
   "url": "www.shepherd.coventry.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.435267",
+  "lng": "-1.4869567"
 }

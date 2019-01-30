@@ -14,5 +14,7 @@
   "url": "http://www.woodlandacademy.co.uk/",
   "phase": "Middle deemed secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.004071",
+  "lng": "-0.50149337"
 }

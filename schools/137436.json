@@ -14,5 +14,7 @@
   "url": "http://www.formbyhighschool.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.560872",
+  "lng": "-3.0679995"
 }

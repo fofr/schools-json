@@ -14,5 +14,7 @@
   "url": "www.radbrook.shropshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.697151",
+  "lng": "-2.7770902"
 }

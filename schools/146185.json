@@ -14,5 +14,7 @@
   "url": "www.dametipping.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.618968",
+  "lng": "0.18207620"
 }

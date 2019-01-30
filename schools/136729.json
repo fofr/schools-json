@@ -14,5 +14,7 @@
   "url": "http://www.honywoodschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.877610",
+  "lng": "0.68900809"
 }

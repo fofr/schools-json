@@ -14,5 +14,7 @@
   "url": "www.newtownlinfordschool.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.684541",
+  "lng": "-1.2338176"
 }

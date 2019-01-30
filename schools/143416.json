@@ -14,5 +14,7 @@
   "url": "www.carnforthschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.207393",
+  "lng": "-2.1928872"
 }

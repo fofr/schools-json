@@ -14,5 +14,7 @@
   "url": "http://www.arkgreenwichfreeschool.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.471959",
+  "lng": "0.052758263"
 }

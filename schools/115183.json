@@ -14,5 +14,7 @@
   "url": "www.stjosephshutton.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.632715",
+  "lng": "0.34404960"
 }

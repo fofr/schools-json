@@ -14,5 +14,7 @@
   "url": "www.tinsleymeadows.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.410081",
+  "lng": "-1.3957734"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.whiptonbarton.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.731239",
+  "lng": "-3.4918001"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.painsley.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.981005",
+  "lng": "-1.9905756"
 }

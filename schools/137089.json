@@ -14,5 +14,7 @@
   "url": "www.ccs.northants.sch.uk",
   "phase": "All through",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.198752",
+  "lng": "-0.87453640"
 }

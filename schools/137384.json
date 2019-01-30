@@ -14,5 +14,7 @@
   "url": "http://www.cannockchasehigh.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.694205",
+  "lng": "-2.0237198"
 }

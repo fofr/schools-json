@@ -14,5 +14,7 @@
   "url": "http://www.aveland.lincs.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.890616",
+  "lng": "-0.34759310"
 }

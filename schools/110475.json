@@ -14,5 +14,7 @@
   "url": "www.stedwards.bucks.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.810705",
+  "lng": "-0.79030209"
 }

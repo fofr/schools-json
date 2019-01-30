@@ -14,5 +14,7 @@
   "url": "www.castlebar.ealing.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "51.523340",
+  "lng": "-0.32945817"
 }

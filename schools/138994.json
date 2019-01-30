@@ -14,5 +14,7 @@
   "url": "www.heybridge-TKAT.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.743160",
+  "lng": "0.69761619"
 }

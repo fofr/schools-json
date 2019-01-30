@@ -14,5 +14,7 @@
   "url": "http://www.nsj-hull.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.770058",
+  "lng": "-0.35039710"
 }

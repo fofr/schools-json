@@ -14,5 +14,7 @@
   "url": "www.galleywall.co.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.489841",
+  "lng": "-0.059473891"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.miltonhallschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.541438",
+  "lng": "0.70065039"
 }

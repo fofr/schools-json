@@ -14,5 +14,7 @@
   "url": "http://www.robsackwoodprimaryacademy.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.869409",
+  "lng": "0.52856680"
 }

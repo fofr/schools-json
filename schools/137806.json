@@ -14,5 +14,7 @@
   "url": "http://www.reptonmanorprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.157479",
+  "lng": "0.85251029"
 }

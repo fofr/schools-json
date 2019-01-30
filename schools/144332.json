@@ -14,5 +14,7 @@
   "url": "www.halfacres.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.720604",
+  "lng": "-1.3593126"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-judes.portsmouth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.790316",
+  "lng": "-1.0997664"
 }

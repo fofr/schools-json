@@ -14,5 +14,7 @@
   "url": "www.wvcc.leics.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.704485",
+  "lng": "-1.0686708"
 }

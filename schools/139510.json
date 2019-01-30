@@ -14,5 +14,7 @@
   "url": "www.sharnbrookprimary.beds.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.225717",
+  "lng": "-0.54190459"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.sheldwich.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.272661",
+  "lng": "0.88328637"
 }

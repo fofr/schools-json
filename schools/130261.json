@@ -14,5 +14,7 @@
   "url": "http://www.longsandscp.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.786191",
+  "lng": "-2.6745476"
 }

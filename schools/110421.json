@@ -14,5 +14,7 @@
   "url": "http://www.wendover.eschools.co.uk/website",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.767756",
+  "lng": "-0.74010518"
 }

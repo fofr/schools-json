@@ -14,5 +14,7 @@
   "url": "http://www.wkac.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.060039",
+  "lng": "-1.3269397"
 }

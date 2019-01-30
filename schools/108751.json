@@ -14,5 +14,7 @@
   "url": "www.oxclosenursery.com",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "54.897578",
+  "lng": "-1.5439172"
 }

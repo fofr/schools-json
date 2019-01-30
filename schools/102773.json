@@ -14,5 +14,7 @@
   "url": "www.st-michaels.newham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.530191",
+  "lng": "0.057164603"
 }

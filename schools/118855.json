@@ -14,5 +14,7 @@
   "url": "http://www.allingtonprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.287238",
+  "lng": "0.49519091"
 }

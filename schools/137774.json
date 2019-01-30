@@ -14,5 +14,7 @@
   "url": "http://www.gerrardscross.bucks.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.580917",
+  "lng": "-0.55065414"
 }

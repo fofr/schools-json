@@ -14,5 +14,7 @@
   "url": "www.holyfamilysalford.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.488732",
+  "lng": "-2.2916784"
 }

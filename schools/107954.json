@@ -14,5 +14,7 @@
   "url": "www.westwood.leeds.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.747057",
+  "lng": "-1.5561436"
 }

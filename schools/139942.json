@@ -14,5 +14,7 @@
   "url": "www.darfield.outwood.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.531973",
+  "lng": "-1.3847319"
 }

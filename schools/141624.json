@@ -14,5 +14,7 @@
   "url": "http://www.kingswearprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.349990",
+  "lng": "-3.5685822"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kings.peterborough.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.581696",
+  "lng": "-0.23872065"
 }

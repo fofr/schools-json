@@ -14,5 +14,7 @@
   "url": "www.hopehamilton.leicester.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.660071",
+  "lng": "-1.0692601"
 }

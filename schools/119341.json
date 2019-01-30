@@ -14,5 +14,7 @@
   "url": "www.woodnookschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.746574",
+  "lng": "-2.3625165"
 }

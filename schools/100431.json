@@ -14,5 +14,7 @@
   "url": "http://www.highburyquadrantprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.553941",
+  "lng": "-0.091871942"
 }

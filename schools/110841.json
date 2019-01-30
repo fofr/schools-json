@@ -14,5 +14,7 @@
   "url": "http://www.stalbans.cambs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.198099",
+  "lng": "0.12724573"
 }

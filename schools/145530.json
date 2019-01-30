@@ -14,5 +14,7 @@
   "url": "http://www.highgate.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.757936",
+  "lng": "0.40817322"
 }

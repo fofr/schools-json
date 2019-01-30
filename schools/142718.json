@@ -14,5 +14,7 @@
   "url": "www.oakmanor.brent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.552206",
+  "lng": "-0.27119507"
 }

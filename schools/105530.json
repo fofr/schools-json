@@ -14,5 +14,7 @@
   "url": "http://www.st-johnbosco.manchester.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.527505",
+  "lng": "-2.1965931"
 }

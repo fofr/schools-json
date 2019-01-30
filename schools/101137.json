@@ -14,5 +14,7 @@
   "url": "http://www.stmaryangels.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.517922",
+  "lng": "-0.19794771"
 }

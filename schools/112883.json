@@ -14,5 +14,7 @@
   "url": "http://www.fitzherbert.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.047720",
+  "lng": "-1.7409578"
 }

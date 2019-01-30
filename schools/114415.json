@@ -14,5 +14,7 @@
   "url": "www.ringmerprimary.school",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.892521",
+  "lng": "0.064843969"
 }

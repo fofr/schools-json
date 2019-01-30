@@ -14,5 +14,7 @@
   "url": "http://www.garforth.leeds.sch.uk/index.htm",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.786833",
+  "lng": "-1.3910889"
 }

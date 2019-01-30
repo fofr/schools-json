@@ -14,5 +14,7 @@
   "url": "www.east-stour.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.130595",
+  "lng": "0.88368752"
 }

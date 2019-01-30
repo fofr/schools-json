@@ -14,5 +14,7 @@
   "url": "www.ermineprimaryacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.249125",
+  "lng": "-0.52885581"
 }

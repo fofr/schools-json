@@ -14,5 +14,7 @@
   "url": "www.gislinghamcevcprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.302675",
+  "lng": "1.0405017"
 }

@@ -14,5 +14,7 @@
   "url": "www.cortonwood.rotherham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.511883",
+  "lng": "-1.3776941"
 }

@@ -14,5 +14,7 @@
   "url": "www.monkenhadley.barnet.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.662903",
+  "lng": "-0.19075534"
 }

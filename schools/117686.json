@@ -14,5 +14,7 @@
   "url": "http://www.falconer.herts.sch.uk/",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "51.646916",
+  "lng": "-0.36825299"
 }

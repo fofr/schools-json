@@ -14,5 +14,7 @@
   "url": "www.westmonktonprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.035618",
+  "lng": "-3.0562539"
 }

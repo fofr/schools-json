@@ -14,5 +14,7 @@
   "url": "http://www.croylandprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.297263",
+  "lng": "-0.70503015"
 }

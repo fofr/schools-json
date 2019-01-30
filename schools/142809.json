@@ -14,5 +14,7 @@
   "url": "http://www.st-peters-yoxall.staffs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.769773",
+  "lng": "-1.7928692"
 }

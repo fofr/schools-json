@@ -14,5 +14,7 @@
   "url": "www.cottesmore.brighton-hove.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.837143",
+  "lng": "-0.16064178"
 }

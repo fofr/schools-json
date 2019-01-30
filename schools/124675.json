@@ -14,5 +14,7 @@
   "url": "http://www.stratfordstmaryprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.970636",
+  "lng": "0.97418823"
 }

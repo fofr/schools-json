@@ -14,5 +14,7 @@
   "url": "www.northern-jun.hants.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.851793",
+  "lng": "-1.1309307"
 }

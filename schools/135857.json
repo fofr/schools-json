@@ -14,5 +14,7 @@
   "url": "http://www.oakwood.gloucs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.908998",
+  "lng": "-2.0514858"
 }

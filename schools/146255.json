@@ -14,5 +14,7 @@
   "url": "www.abbey.surrey.sch.uk",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "51.209161",
+  "lng": "-0.78471100"
 }

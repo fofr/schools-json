@@ -14,5 +14,7 @@
   "url": "http://www.claytonce.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.783969",
+  "lng": "-1.8169013"
 }

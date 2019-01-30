@@ -14,5 +14,7 @@
   "url": "www.howdeninfants.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.746910",
+  "lng": "-0.86214265"
 }

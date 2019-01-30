@@ -14,5 +14,7 @@
   "url": "www.ormesby.outwood.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.554478",
+  "lng": "-1.1756346"
 }

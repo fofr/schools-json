@@ -14,5 +14,7 @@
   "url": "www.westsideschool.org.uk",
   "phase": "Not applicable",
   "type": "Free Schools",
-  "detailed_type": "Free schools alternative provision"
+  "detailed_type": "Free schools alternative provision",
+  "lat": "51.493525",
+  "lng": "-0.23279211"
 }

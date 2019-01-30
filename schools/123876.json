@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.200500",
+  "lng": "-3.4717291"
 }

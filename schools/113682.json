@@ -14,5 +14,7 @@
   "url": "http://www.parley.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.792839",
+  "lng": "-1.8927744"
 }

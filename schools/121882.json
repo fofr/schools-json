@@ -14,5 +14,7 @@
   "url": "www.stjamesinfant.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.256140",
+  "lng": "-1.1660339"
 }

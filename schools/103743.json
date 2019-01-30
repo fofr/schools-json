@@ -14,5 +14,7 @@
   "url": "www.cncs.school",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.442323",
+  "lng": "-1.5366444"
 }

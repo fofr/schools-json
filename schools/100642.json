@@ -14,5 +14,7 @@
   "url": "http://www.lns.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.506438",
+  "lng": "-0.10828152"
 }

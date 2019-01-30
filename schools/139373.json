@@ -14,5 +14,7 @@
   "url": "http://www.daventryutc.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "52.263050",
+  "lng": "-1.1641167"
 }

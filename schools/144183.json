@@ -14,5 +14,7 @@
   "url": "http://www.rmischool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.953026",
+  "lng": "-0.95731699"
 }

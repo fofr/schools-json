@@ -14,5 +14,7 @@
   "url": "www.kibblesworthacademy.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.904859",
+  "lng": "-1.6175081"
 }

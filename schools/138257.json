@@ -14,5 +14,7 @@
   "url": "www.villageprimary.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "55.092670",
+  "lng": "-1.5714080"
 }

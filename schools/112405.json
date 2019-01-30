@@ -14,5 +14,7 @@
   "url": "www.bramptonprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.944395",
+  "lng": "-2.7347847"
 }

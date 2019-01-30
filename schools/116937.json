@@ -14,5 +14,7 @@
   "url": "http://www.woodrushhigh.worcs.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.388229",
+  "lng": "-1.8785724"
 }

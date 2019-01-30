@@ -14,5 +14,7 @@
   "url": "http://www.downend.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.492309",
+  "lng": "-2.4934390"
 }

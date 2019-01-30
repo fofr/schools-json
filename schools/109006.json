@@ -14,5 +14,7 @@
   "url": "http://www.oldfieldparkjuniorschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.373755",
+  "lng": "-2.3826175"
 }

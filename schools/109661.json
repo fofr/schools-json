@@ -14,5 +14,7 @@
   "url": "http://www.castlenewnham.school",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.146027",
+  "lng": "-0.45214253"
 }

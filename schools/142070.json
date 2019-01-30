@@ -14,5 +14,7 @@
   "url": "http://www.beestonfields.notts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.934624",
+  "lng": "-1.2171500"
 }

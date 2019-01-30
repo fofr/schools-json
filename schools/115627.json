@@ -14,5 +14,7 @@
   "url": "http://www.hartpury.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.920516",
+  "lng": "-2.2912117"
 }

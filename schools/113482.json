@@ -14,5 +14,7 @@
   "url": "http://www.tav-stpeters.ik.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.549310",
+  "lng": "-4.1374814"
 }

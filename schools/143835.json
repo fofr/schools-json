@@ -14,5 +14,7 @@
   "url": "www.elmcofeprimaryschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.637153",
+  "lng": "0.17171969"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kgreen.brent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.583289",
+  "lng": "-0.26977024"
 }

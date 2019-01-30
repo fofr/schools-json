@@ -14,5 +14,7 @@
   "url": "www.st-johns.notts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.931871",
+  "lng": "-1.2676487"
 }

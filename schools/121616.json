@@ -14,5 +14,7 @@
   "url": "http://www.terrington.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.128362",
+  "lng": "-0.97600981"
 }

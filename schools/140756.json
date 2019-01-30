@@ -14,5 +14,7 @@
   "url": "http://www.stcatherinescolehill.dorset.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.804317",
+  "lng": "-1.9512725"
 }

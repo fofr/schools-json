@@ -14,5 +14,7 @@
   "url": "www.warrenjunior.schooljotter2.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.576259",
+  "lng": "0.14266380"
 }

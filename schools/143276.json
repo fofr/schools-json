@@ -14,5 +14,7 @@
   "url": "www.gainsborough.newham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.525085",
+  "lng": "0.0061609301"
 }

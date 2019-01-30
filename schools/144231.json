@@ -14,5 +14,7 @@
   "url": "http://www.tatsfield.surrey.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.291152",
+  "lng": "0.027214378"
 }

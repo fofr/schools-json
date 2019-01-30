@@ -14,5 +14,7 @@
   "url": "http://www.tyrrellsprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.746788",
+  "lng": "0.49140771"
 }

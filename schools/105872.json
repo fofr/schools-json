@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.481371",
+  "lng": "-2.3545543"
 }

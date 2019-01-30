@@ -14,5 +14,7 @@
   "url": "www.scotbyprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.889916",
+  "lng": "-2.8785777"
 }

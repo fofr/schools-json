@@ -14,5 +14,7 @@
   "url": "http://www.coppiceprimaryacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.530761",
+  "lng": "-2.1203482"
 }

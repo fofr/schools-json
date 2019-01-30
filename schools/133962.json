@@ -14,5 +14,7 @@
   "url": "www.hopehamilton.leicester.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.660071",
+  "lng": "-1.0692601"
 }

@@ -14,5 +14,7 @@
   "url": "www.haydockhigh.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.466059",
+  "lng": "-2.6779556"
 }

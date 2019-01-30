@@ -14,5 +14,7 @@
   "url": "http://www.thelifecloud.net/schools/SteepCofEVCPrimarySchool",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.022835",
+  "lng": "-0.93870239"
 }

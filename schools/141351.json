@@ -14,5 +14,7 @@
   "url": "www.wickleaacademy.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.445499",
+  "lng": "-2.5480300"
 }

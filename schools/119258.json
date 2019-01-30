@@ -14,5 +14,7 @@
   "url": "www.rosegrove.lancs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.789033",
+  "lng": "-2.2824967"
 }

@@ -14,5 +14,7 @@
   "url": "www.pattishallschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.179220",
+  "lng": "-1.0137493"
 }

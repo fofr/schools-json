@@ -14,5 +14,7 @@
   "url": "www.woodend.eschools.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.579636",
+  "lng": "-1.6463822"
 }

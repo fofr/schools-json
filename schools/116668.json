@@ -14,5 +14,7 @@
   "url": "http://www.clifford.hereford.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.094065",
+  "lng": "-3.0696166"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.st-marys-ce-pz.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.113912",
+  "lng": "-5.5395344"
 }

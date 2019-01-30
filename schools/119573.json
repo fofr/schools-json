@@ -14,5 +14,7 @@
   "url": "www.tarletonholytrinity.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.677714",
+  "lng": "-2.8314076"
 }

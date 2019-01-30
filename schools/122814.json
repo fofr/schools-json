@@ -14,5 +14,7 @@
   "url": "http://www.holycrossschoolhucknall.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.044435",
+  "lng": "-1.1976660"
 }

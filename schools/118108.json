@@ -14,5 +14,7 @@
   "url": "http://www.andrew-marvell.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.771047",
+  "lng": "-0.26013341"
 }

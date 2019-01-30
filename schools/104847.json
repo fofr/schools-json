@@ -14,5 +14,7 @@
   "url": "www.cambridgenurseryschool.com",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.446281",
+  "lng": "-2.9811957"
 }

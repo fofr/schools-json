@@ -14,5 +14,7 @@
   "url": "http://www.ercallwood.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.692416",
+  "lng": "-2.5164389"
 }

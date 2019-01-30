@@ -14,5 +14,7 @@
   "url": "http://www.highgatehill.cola.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.567972",
+  "lng": "-0.12943587"
 }

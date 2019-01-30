@@ -14,5 +14,7 @@
   "url": "www.west-hill.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.447131",
+  "lng": "0.20228263"
 }

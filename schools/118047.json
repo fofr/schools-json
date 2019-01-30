@@ -14,5 +14,7 @@
   "url": "www.st-anthonys.hull.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.784437",
+  "lng": "-0.38914602"
 }

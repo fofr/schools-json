@@ -14,5 +14,7 @@
   "url": "http://www.rmplc.co.uk/eduweb/sites/fitzw",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.590464",
+  "lng": "0.61236611"
 }

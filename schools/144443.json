@@ -14,5 +14,7 @@
   "url": "www.bungayprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.453419",
+  "lng": "1.4419532"
 }

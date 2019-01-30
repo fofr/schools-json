@@ -14,5 +14,7 @@
   "url": "www.riversideprimary.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.397845",
+  "lng": "-4.1921786"
 }

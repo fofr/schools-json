@@ -14,5 +14,7 @@
   "url": "www.wolseyacademy.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.349970",
+  "lng": "-0.012397479"
 }

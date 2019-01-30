@@ -14,5 +14,7 @@
   "url": "http://www.dent.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.278121",
+  "lng": "-2.4559383"
 }

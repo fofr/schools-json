@@ -14,5 +14,7 @@
   "url": "http://abrahamdarbyschool.taw.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.633066",
+  "lng": "-2.4687236"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.cippenham-jun.slough.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.517861",
+  "lng": "-0.64599337"
 }

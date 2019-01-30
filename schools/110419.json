@@ -14,5 +14,7 @@
   "url": "www.highashschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.965728",
+  "lng": "-0.68246677"
 }

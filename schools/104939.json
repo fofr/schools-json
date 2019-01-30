@@ -14,5 +14,7 @@
   "url": "www.shortwoodprimaryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.694309",
+  "lng": "-2.5089743"
 }

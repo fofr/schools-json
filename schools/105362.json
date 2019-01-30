@@ -14,5 +14,7 @@
   "url": "www.prestwich.bury.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.534858",
+  "lng": "-2.2777529"
 }

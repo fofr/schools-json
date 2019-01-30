@@ -14,5 +14,7 @@
   "url": "www.oxleyparkacademy.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.009424",
+  "lng": "-0.80192558"
 }

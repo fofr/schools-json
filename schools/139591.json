@@ -14,5 +14,7 @@
   "url": "http://www.inspiresouthampton.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "50.901899",
+  "lng": "-1.3925190"
 }

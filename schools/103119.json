@@ -14,5 +14,7 @@
   "url": "www.smsj.barnet.sch.uk",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.591388",
+  "lng": "-0.22615283"
 }

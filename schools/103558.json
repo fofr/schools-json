@@ -14,5 +14,7 @@
   "url": "http://www.ninestiles.bham.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.439389",
+  "lng": "-1.8325792"
 }

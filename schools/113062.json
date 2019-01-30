@@ -14,5 +14,7 @@
   "url": "http://www.bcps.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.767684",
+  "lng": "-3.4420920"
 }

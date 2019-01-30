@@ -14,5 +14,7 @@
   "url": "www.woldgate.net",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.932020",
+  "lng": "-0.76411090"
 }

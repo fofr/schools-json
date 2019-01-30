@@ -14,5 +14,7 @@
   "url": "http://www.grayrigg.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.368170",
+  "lng": "-2.6507154"
 }

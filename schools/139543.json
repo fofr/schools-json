@@ -14,5 +14,7 @@
   "url": "www.rayleighprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.585334",
+  "lng": "0.60244254"
 }

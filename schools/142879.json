@@ -14,5 +14,7 @@
   "url": "www.canarywharfcollege.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.494499",
+  "lng": "-0.014890210"
 }

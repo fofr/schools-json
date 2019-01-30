@@ -14,5 +14,7 @@
   "url": "www.baytonprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.355727",
+  "lng": "-2.4517454"
 }

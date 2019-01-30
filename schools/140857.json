@@ -14,5 +14,7 @@
   "url": "www.westernhouse.academy",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.511483",
+  "lng": "-0.63953912"
 }

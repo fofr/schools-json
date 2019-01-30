@@ -14,5 +14,7 @@
   "url": "http://www.ansonprimaryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.553634",
+  "lng": "-0.21934214"
 }

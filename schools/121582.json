@@ -14,5 +14,7 @@
   "url": "www.htjce.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.137648",
+  "lng": "-1.5296796"
 }

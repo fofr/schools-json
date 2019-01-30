@@ -14,5 +14,7 @@
   "url": "http://www.intakearts.leeds.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.815352",
+  "lng": "-1.6497868"
 }

@@ -14,5 +14,7 @@
   "url": "www.rothley.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.705221",
+  "lng": "-1.1300911"
 }

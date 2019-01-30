@@ -14,5 +14,7 @@
   "url": "http://lincolnutc.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "53.232511",
+  "lng": "-0.53460932"
 }

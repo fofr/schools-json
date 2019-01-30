@@ -14,5 +14,7 @@
   "url": "http://www.harlingtonlower.beds.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.966723",
+  "lng": "-0.49323391"
 }

@@ -14,5 +14,7 @@
   "url": "www.forestviewschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.826152",
+  "lng": "-2.4900283"
 }

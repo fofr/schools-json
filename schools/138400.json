@@ -14,5 +14,7 @@
   "url": "http://www.kingoffaprimaryacademy.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.846676",
+  "lng": "0.46617712"
 }

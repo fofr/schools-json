@@ -14,5 +14,7 @@
   "url": "www.coton-in-the-elms.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.735277",
+  "lng": "-1.6379866"
 }

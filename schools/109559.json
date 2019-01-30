@@ -14,5 +14,7 @@
   "url": "www.whipperleyinfantschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.876406",
+  "lng": "-0.43972879"
 }

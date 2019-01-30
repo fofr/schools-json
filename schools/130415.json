@@ -14,5 +14,7 @@
   "url": "lesoco.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.468220",
+  "lng": "-0.025936928"
 }

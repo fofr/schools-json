@@ -14,5 +14,7 @@
   "url": "www.hillsboroughprimary.uk.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.410267",
+  "lng": "-1.5025651"
 }

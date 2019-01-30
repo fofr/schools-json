@@ -14,5 +14,7 @@
   "url": "www.glen-hills.leics.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.586910",
+  "lng": "-1.1684058"
 }

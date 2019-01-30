@@ -11,8 +11,10 @@
   "maximum_age": "99",
   "easting": "502027",
   "northing": "222394",
-  "url": "",
+  "url": "www.centralbeds.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.890772",
+  "lng": "-0.51883748"
 }

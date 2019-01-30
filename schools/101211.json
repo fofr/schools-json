@@ -14,5 +14,7 @@
   "url": "http://www.marshgreenprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.531160",
+  "lng": "0.15196459"
 }

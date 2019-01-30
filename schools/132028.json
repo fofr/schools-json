@@ -14,5 +14,7 @@
   "url": "www.moulsecoomb.brighton-hove.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.850503",
+  "lng": "-0.10973939"
 }

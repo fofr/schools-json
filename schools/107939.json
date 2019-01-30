@@ -14,5 +14,7 @@
   "url": "www.austhorpeprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.797969",
+  "lng": "-1.4370355"
 }

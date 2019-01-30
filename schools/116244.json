@@ -14,5 +14,7 @@
   "url": "www.hartplain-jun.hants.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.891528",
+  "lng": "-1.0311632"
 }

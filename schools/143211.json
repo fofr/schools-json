@@ -14,5 +14,7 @@
   "url": "http://millenniumprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.493576",
+  "lng": "0.011317579"
 }

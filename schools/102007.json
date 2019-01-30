@@ -14,5 +14,7 @@
   "url": "www.walker.enfield.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.625291",
+  "lng": "-0.12729598"
 }

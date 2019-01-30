@@ -14,5 +14,7 @@
   "url": "http://www.flyinghighacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.148277",
+  "lng": "-1.2245450"
 }

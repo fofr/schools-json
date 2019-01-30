@@ -14,5 +14,7 @@
   "url": "http://alexandrapark.oldham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.532380",
+  "lng": "-2.0994428"
 }

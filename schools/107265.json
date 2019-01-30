@@ -14,5 +14,7 @@
   "url": "www.longleeprimary.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.861609",
+  "lng": "-1.8935298"
 }

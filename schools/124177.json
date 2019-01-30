@@ -14,5 +14,7 @@
   "url": "www.perton-first.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.598137",
+  "lng": "-2.2046405"
 }

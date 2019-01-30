@@ -14,5 +14,7 @@
   "url": "http://www.hastings.leics.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.535570",
+  "lng": "-1.3564645"
 }

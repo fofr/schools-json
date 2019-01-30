@@ -14,5 +14,7 @@
   "url": "http://www.christchurch-middle.staffs.sch.uk",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.909593",
+  "lng": "-2.1476110"
 }

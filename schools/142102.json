@@ -14,5 +14,7 @@
   "url": "www.stclementsandstjohns.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.728916",
+  "lng": "-1.8486155"
 }

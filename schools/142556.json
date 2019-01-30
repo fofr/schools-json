@@ -14,5 +14,7 @@
   "url": "www.royston-stjohn.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.597512",
+  "lng": "-1.4502495"
 }

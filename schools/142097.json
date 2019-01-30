@@ -14,5 +14,7 @@
   "url": "www.st-marys-colton.staffs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.782266",
+  "lng": "-1.9298015"
 }

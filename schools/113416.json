@@ -14,5 +14,7 @@
   "url": "www.compton-cofe-primary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.393049",
+  "lng": "-4.1254348"
 }

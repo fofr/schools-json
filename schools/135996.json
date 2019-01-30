@@ -14,5 +14,7 @@
   "url": "www.greatdenhamprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.131212",
+  "lng": "-0.50680105"
 }

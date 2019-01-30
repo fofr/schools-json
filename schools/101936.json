@@ -14,5 +14,7 @@
   "url": "www.woodendfirst.ealing.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.553719",
+  "lng": "-0.34939081"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.holytrinity.w-sussex.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.105561",
+  "lng": "-0.20964590"
 }

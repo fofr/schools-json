@@ -14,5 +14,7 @@
   "url": "www.hillbourne.poole.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.750110",
+  "lng": "-1.9926763"
 }

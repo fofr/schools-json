@@ -14,5 +14,7 @@
   "url": "http://colgate.eschools.co.uk/website",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.080976",
+  "lng": "-0.24298976"
 }

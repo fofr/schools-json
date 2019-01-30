@@ -14,5 +14,7 @@
   "url": "http://www.devonstudioschool.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "50.486033",
+  "lng": "-3.5563082"
 }

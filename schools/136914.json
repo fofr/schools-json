@@ -14,5 +14,7 @@
   "url": "http://www.glenthorne.sutton.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.381061",
+  "lng": "-0.20121580"
 }

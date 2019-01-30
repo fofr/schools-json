@@ -14,5 +14,7 @@
   "url": "www.langleyacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.504613",
+  "lng": "-0.55309053"
 }

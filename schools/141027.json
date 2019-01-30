@@ -14,5 +14,7 @@
   "url": "www.parkcommunityschool.com",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.408207",
+  "lng": "-0.19288937"
 }

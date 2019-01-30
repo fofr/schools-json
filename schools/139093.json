@@ -14,5 +14,7 @@
   "url": "www.stwinnow-cornwall.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.408040",
+  "lng": "-4.6525863"
 }

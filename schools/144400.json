@@ -14,5 +14,7 @@
   "url": "www.cherrytreeacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.693241",
+  "lng": "-1.2901244"
 }

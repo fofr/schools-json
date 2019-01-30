@@ -14,5 +14,7 @@
   "url": "http://www.westsomersetcollege.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.196415",
+  "lng": "-3.4626251"
 }

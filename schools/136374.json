@@ -14,5 +14,7 @@
   "url": "www.wigmoreschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.315447",
+  "lng": "-2.8590787"
 }

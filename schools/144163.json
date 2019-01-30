@@ -14,5 +14,7 @@
   "url": "www.aspinparkacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.003850",
+  "lng": "-1.4533027"
 }

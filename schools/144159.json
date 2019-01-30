@@ -14,5 +14,7 @@
   "url": "http://www.leyburn.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.311072",
+  "lng": "-1.8218274"
 }

@@ -14,5 +14,7 @@
   "url": "www.yattendonschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.466891",
+  "lng": "-1.2010547"
 }

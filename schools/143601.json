@@ -14,5 +14,7 @@
   "url": "http://www.alderwood.greenwich.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.448485",
+  "lng": "0.086030161"
 }

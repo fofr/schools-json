@@ -14,5 +14,7 @@
   "url": "www.northshoreacademy.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.575896",
+  "lng": "-1.3078880"
 }

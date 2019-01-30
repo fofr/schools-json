@@ -14,5 +14,7 @@
   "url": "www.braddock.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.440328",
+  "lng": "-4.5629254"
 }

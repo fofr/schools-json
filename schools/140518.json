@@ -14,5 +14,7 @@
   "url": "www.twicknhm.bham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.546682",
+  "lng": "-1.8665606"
 }

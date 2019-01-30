@@ -14,5 +14,7 @@
   "url": "http://www.utcplymouth.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "50.377703",
+  "lng": "-4.1755808"
 }

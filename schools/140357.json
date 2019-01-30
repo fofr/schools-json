@@ -14,5 +14,7 @@
   "url": "www.arnbrookprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.003642",
+  "lng": "-1.1424054"
 }

@@ -14,5 +14,7 @@
   "url": "www.thomasgamuel.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.575141",
+  "lng": "-0.022072476"
 }

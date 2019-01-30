@@ -14,5 +14,7 @@
   "url": "http://www.stmartins.lambeth.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.444152",
+  "lng": "-0.10970545"
 }

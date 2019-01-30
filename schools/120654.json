@@ -14,5 +14,7 @@
   "url": "http://www.cwcs.info/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.246361",
+  "lng": "-0.45878011"
 }

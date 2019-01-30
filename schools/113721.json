@@ -14,5 +14,7 @@
   "url": "http://www.southwell.dorset.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.532376",
+  "lng": "-2.4482606"
 }

@@ -14,5 +14,7 @@
   "url": "www.eastcote.bexley.dbprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.463790",
+  "lng": "0.083517619"
 }

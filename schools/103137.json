@@ -14,5 +14,7 @@
   "url": "http://www.ldelissa.org.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "52.465428",
+  "lng": "-1.8996887"
 }

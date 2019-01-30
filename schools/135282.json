@@ -14,5 +14,7 @@
   "url": "www.outwoods.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.830673",
+  "lng": "-1.6496029"
 }

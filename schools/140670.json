@@ -14,5 +14,7 @@
   "url": "http://www.pendeenschool.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.150939",
+  "lng": "-5.6658926"
 }

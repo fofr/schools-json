@@ -14,5 +14,7 @@
   "url": "www.celticcross.education",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.525249",
+  "lng": "-4.7640105"
 }

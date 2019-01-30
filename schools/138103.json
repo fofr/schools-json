@@ -14,5 +14,7 @@
   "url": "http://www.southmoorschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.890587",
+  "lng": "-1.3761847"
 }

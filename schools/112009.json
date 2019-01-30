@@ -14,5 +14,7 @@
   "url": "http://www.grampound-road.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.316417",
+  "lng": "-4.9285762"
 }

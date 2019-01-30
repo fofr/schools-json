@@ -14,5 +14,7 @@
   "url": "https://www.kehs.org.uk/",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "52.450802",
+  "lng": "-1.9253543"
 }

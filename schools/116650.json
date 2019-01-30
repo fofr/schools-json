@@ -14,5 +14,7 @@
   "url": "www.ashton.worcs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.039707",
+  "lng": "-2.0047214"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.hayleschool.net/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.184797",
+  "lng": "-5.4106461"
 }

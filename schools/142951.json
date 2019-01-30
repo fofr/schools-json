@@ -14,5 +14,7 @@
   "url": "http://www.stwinefridesprimary.co.uk/winefrides/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.762048",
+  "lng": "-1.7752671"
 }

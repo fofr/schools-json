@@ -14,5 +14,7 @@
   "url": "www.gamesleycommunityprimaryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.448109",
+  "lng": "-1.9849496"
 }

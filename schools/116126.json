@@ -14,5 +14,7 @@
   "url": "http://www.wordsworth.southampton.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.924875",
+  "lng": "-1.4319871"
 }

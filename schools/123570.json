@@ -14,5 +14,7 @@
   "url": "http://www.belvidere.shropshire.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.710803",
+  "lng": "-2.7208188"
 }

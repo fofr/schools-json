@@ -14,5 +14,7 @@
   "url": "www.ilam.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.055899",
+  "lng": "-1.8012888"
 }

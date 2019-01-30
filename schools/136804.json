@@ -14,5 +14,7 @@
   "url": "www.trinitychurchschool.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.298017",
+  "lng": "-2.4414386"
 }

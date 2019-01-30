@@ -14,5 +14,7 @@
   "url": "www.carvilleprimaryschool.ik.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.987129",
+  "lng": "-1.5375585"
 }

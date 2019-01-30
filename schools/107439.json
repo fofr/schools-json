@@ -14,5 +14,7 @@
   "url": "http://www.bingleygrammar.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.855787",
+  "lng": "-1.8460361"
 }

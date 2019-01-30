@@ -14,5 +14,7 @@
   "url": "www.bamptonschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.988647",
+  "lng": "-3.4939266"
 }

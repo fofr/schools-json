@@ -14,5 +14,7 @@
   "url": "http://www.harrytownschool.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.413360",
+  "lng": "-2.1044749"
 }

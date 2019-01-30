@@ -14,5 +14,7 @@
   "url": "www.danesholmejunioracademy.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.472098",
+  "lng": "-0.73348655"
 }

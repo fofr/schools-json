@@ -14,5 +14,7 @@
   "url": "http://www.st-bernadettes.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.300928",
+  "lng": "-0.76414375"
 }

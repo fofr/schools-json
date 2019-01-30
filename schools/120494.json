@@ -14,5 +14,7 @@
   "url": "http://www.therichmondschoolskegness.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.139268",
+  "lng": "0.33426966"
 }

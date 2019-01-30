@@ -14,5 +14,7 @@
   "url": "http://utcswindon.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.561637",
+  "lng": "-1.7939105"
 }

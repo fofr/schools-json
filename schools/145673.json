@@ -14,5 +14,7 @@
   "url": "www.clunprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.419421",
+  "lng": "-3.0321406"
 }

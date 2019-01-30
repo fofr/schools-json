@@ -14,5 +14,7 @@
   "url": "www.otterhamschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.695993",
+  "lng": "-4.6146678"
 }

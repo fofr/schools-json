@@ -14,5 +14,7 @@
   "url": "http://www.brooklandsprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.961526",
+  "lng": "1.0687100"
 }

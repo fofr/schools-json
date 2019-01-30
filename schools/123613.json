@@ -14,5 +14,7 @@
   "url": "http://www.oswestryschool.org.uk",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "52.856163",
+  "lng": "-3.0633861"
 }

@@ -14,5 +14,7 @@
   "url": "www.kestrelsf.leicester.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.653789",
+  "lng": "-1.0615881"
 }

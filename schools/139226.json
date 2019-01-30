@@ -14,5 +14,7 @@
   "url": "www.staracademy.attrust.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.070366",
+  "lng": "-2.2213966"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stagnesprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.527521",
+  "lng": "-0.018673034"
 }

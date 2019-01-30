@@ -14,5 +14,7 @@
   "url": "http://www.morpethroad.northumberland.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.131427",
+  "lng": "-1.5322545"
 }

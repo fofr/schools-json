@@ -14,5 +14,7 @@
   "url": "www.stannesrc.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.870008",
+  "lng": "-1.9101307"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stpetershenfield.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.935017",
+  "lng": "-0.28039058"
 }

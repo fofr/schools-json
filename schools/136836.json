@@ -14,5 +14,7 @@
   "url": "www.reidstreet.darlington.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.532948",
+  "lng": "-1.5646016"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bridlingtonschool.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.085099",
+  "lng": "-0.21190312"
 }

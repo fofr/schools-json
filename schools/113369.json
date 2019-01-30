@@ -14,5 +14,7 @@
   "url": "www.uplowman-primary.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.933502",
+  "lng": "-3.3995978"
 }

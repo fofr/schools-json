@@ -14,5 +14,7 @@
   "url": "www.charnwood.leicester.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.638168",
+  "lng": "-1.1158754"
 }

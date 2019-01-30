@@ -14,5 +14,7 @@
   "url": "http://www.thecvhs.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.624184",
+  "lng": "-1.8464403"
 }

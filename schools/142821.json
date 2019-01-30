@@ -14,5 +14,7 @@
   "url": "www.charlton.uk.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.709134",
+  "lng": "-2.5171544"
 }

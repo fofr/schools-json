@@ -14,5 +14,7 @@
   "url": "http://www.notleygreen.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.865137",
+  "lng": "0.52972634"
 }

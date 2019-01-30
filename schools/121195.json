@@ -14,5 +14,7 @@
   "url": "www.dereham.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.680205",
+  "lng": "0.93810370"
 }

@@ -14,5 +14,7 @@
   "url": "www.monkscoppenhall.cheshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.111510",
+  "lng": "-2.4333680"
 }

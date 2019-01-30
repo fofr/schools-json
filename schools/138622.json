@@ -14,5 +14,7 @@
   "url": "http://www.saintben.derby.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.943299",
+  "lng": "-1.4859258"
 }

@@ -14,5 +14,7 @@
   "url": "https://bellfieldprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.770428",
+  "lng": "-0.28141765"
 }

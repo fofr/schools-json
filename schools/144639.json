@@ -14,5 +14,7 @@
   "url": "www.mierscourt.medway.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.356489",
+  "lng": "0.60746049"
 }

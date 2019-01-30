@@ -14,5 +14,7 @@
   "url": "www.widnesacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.349371",
+  "lng": "-2.7364315"
 }

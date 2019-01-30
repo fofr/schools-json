@@ -14,5 +14,7 @@
   "url": "www.portland.outwood.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.293265",
+  "lng": "-1.1188241"
 }

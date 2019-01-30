@@ -14,5 +14,7 @@
   "url": "www.buxtonschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.756116",
+  "lng": "1.3079458"
 }

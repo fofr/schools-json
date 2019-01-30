@@ -14,5 +14,7 @@
   "url": "http://www.kingalfreds.oxon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.586552",
+  "lng": "-1.4294364"
 }

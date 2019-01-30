@@ -14,5 +14,7 @@
   "url": "https://arena-birmingham.academy/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.540717",
+  "lng": "-1.9084380"
 }

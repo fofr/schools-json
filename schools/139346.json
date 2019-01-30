@@ -14,5 +14,7 @@
   "url": "www.st-josephs.sheffield.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.371989",
+  "lng": "-1.3856410"
 }

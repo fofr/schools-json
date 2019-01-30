@@ -14,5 +14,7 @@
   "url": "http://www.perins.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.088941",
+  "lng": "-1.1665459"
 }

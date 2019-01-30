@@ -14,5 +14,7 @@
   "url": "www.benedictbiscopacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.864267",
+  "lng": "-1.4257145"
 }

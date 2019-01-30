@@ -14,5 +14,7 @@
   "url": "http://www.gemstwickenhamprimary.org/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.444973",
+  "lng": "-0.33973037"
 }

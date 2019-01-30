@@ -14,5 +14,7 @@
   "url": "http://www.kewstokeprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.365783",
+  "lng": "-2.9528684"
 }

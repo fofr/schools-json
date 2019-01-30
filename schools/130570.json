@@ -14,5 +14,7 @@
   "url": "http://www.middlesbro.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "54.579844",
+  "lng": "-1.2280197"
 }

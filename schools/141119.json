@@ -14,5 +14,7 @@
   "url": "www.st-marks.academy",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.398874",
+  "lng": "-0.071621494"
 }

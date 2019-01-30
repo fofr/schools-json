@@ -14,5 +14,7 @@
   "url": "http://www.fitzharrys.oxon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.681703",
+  "lng": "-1.2840506"
 }

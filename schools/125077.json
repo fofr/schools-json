@@ -14,5 +14,7 @@
   "url": "http://www.william-cobbett.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.232056",
+  "lng": "-0.77863668"
 }

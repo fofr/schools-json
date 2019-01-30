@@ -14,5 +14,7 @@
   "url": "http://www.pinxtonnurseryschool.co.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.091273",
+  "lng": "-1.3179555"
 }

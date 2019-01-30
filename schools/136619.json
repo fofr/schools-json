@@ -14,5 +14,7 @@
   "url": "www.rydershayes.wordpress.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.634699",
+  "lng": "-1.9655290"
 }

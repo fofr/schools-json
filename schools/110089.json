@@ -14,5 +14,7 @@
   "url": "www.prioryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.527257",
+  "lng": "-0.65292254"
 }

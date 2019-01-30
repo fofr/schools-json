@@ -14,5 +14,7 @@
   "url": "http://www.standrewtheapostle.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.625167",
+  "lng": "-0.15294541"
 }

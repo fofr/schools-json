@@ -14,5 +14,7 @@
   "url": "http://www.towneley.lancsngfl.ac.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.783648",
+  "lng": "-2.2282496"
 }

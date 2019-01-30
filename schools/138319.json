@@ -14,5 +14,7 @@
   "url": "www.theparkfederation.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.523379",
+  "lng": "-0.60882782"
 }

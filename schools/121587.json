@@ -14,5 +14,7 @@
   "url": "http://www.settle-pri.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.067799",
+  "lng": "-2.2821258"
 }

@@ -14,5 +14,7 @@
   "url": "www.ibstoneschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.628230",
+  "lng": "-0.90675272"
 }

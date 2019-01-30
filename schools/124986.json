@@ -14,5 +14,7 @@
   "url": "http://www.dormansland.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.160119",
+  "lng": "0.0081209741"
 }

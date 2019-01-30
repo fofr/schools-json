@@ -14,5 +14,7 @@
   "url": "http://www.wealdgs.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.183937",
+  "lng": "0.28062257"
 }

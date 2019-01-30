@@ -14,5 +14,7 @@
   "url": "http://www.bpinfant.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.428102",
+  "lng": "-2.8970373"
 }

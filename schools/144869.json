@@ -14,5 +14,7 @@
   "url": "http://www.minterne.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.332803",
+  "lng": "0.72342779"
 }

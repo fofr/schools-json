@@ -14,5 +14,7 @@
   "url": "http://www.connor-downs.cornwall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.204253",
+  "lng": "-5.3775385"
 }

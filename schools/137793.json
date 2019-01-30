@@ -14,5 +14,7 @@
   "url": "http://www.bourne-grammar.lincs.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.762332",
+  "lng": "-0.37363224"
 }

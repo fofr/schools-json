@@ -14,5 +14,7 @@
   "url": "http://www.king-james.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.005071",
+  "lng": "-1.4609611"
 }

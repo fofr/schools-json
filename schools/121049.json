@@ -14,5 +14,7 @@
   "url": "http://northelmhamschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.751638",
+  "lng": "0.94264402"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.mgsg.kent.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.436635",
+  "lng": "0.35944956"
 }

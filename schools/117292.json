@@ -14,5 +14,7 @@
   "url": "http://www.trottshill.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.919004",
+  "lng": "-0.18828624"
 }

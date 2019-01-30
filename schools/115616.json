@@ -14,5 +14,7 @@
   "url": "www.coaleyschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.713406",
+  "lng": "-2.3326778"
 }

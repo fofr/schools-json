@@ -14,5 +14,7 @@
   "url": "http://www.excalibur.cheshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.090148",
+  "lng": "-2.2936773"
 }

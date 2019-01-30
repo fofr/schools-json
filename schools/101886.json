@@ -14,5 +14,7 @@
   "url": "www.selborne.ealing.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.537067",
+  "lng": "-0.33488193"
 }

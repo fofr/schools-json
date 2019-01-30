@@ -14,5 +14,7 @@
   "url": "www.barnfield.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.906030",
+  "lng": "-0.42188323"
 }

@@ -14,5 +14,7 @@
   "url": "www.walderslade-pri.medway.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.342798",
+  "lng": "0.52839257"
 }

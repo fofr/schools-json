@@ -14,5 +14,7 @@
   "url": "http://www.paston.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "52.820375",
+  "lng": "1.3863143"
 }

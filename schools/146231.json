@@ -14,5 +14,7 @@
   "url": "www.langneyprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.798489",
+  "lng": "0.31461003"
 }

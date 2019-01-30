@@ -14,5 +14,7 @@
   "url": "http://www.lordwilliams.oxon.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.746698",
+  "lng": "-0.99179111"
 }

@@ -14,5 +14,7 @@
   "url": "www.chagford-primaryschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.676874",
+  "lng": "-3.8379351"
 }

@@ -14,5 +14,7 @@
   "url": "www.mooreprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.354573",
+  "lng": "-2.6403220"
 }

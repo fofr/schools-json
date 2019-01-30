@@ -14,5 +14,7 @@
   "url": "www.greenfields.shropshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.721108",
+  "lng": "-2.7507774"
 }

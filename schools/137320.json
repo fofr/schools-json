@@ -14,5 +14,7 @@
   "url": "www.rainbowschools.org.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.787049",
+  "lng": "-1.7505152"
 }

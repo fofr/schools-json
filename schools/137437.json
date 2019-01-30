@@ -14,5 +14,7 @@
   "url": "http://www.enmoreprimaryschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.107727",
+  "lng": "-3.0907227"
 }

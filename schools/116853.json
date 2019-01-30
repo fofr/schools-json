@@ -14,5 +14,7 @@
   "url": "uptonprimaryschool.education",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.061923",
+  "lng": "-2.2161076"
 }

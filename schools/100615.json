@@ -14,5 +14,7 @@
   "url": "www.st-johns.lambeth.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.468053",
+  "lng": "-0.10854499"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.downs-way.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.263561",
+  "lng": "-0.0062658122"
 }

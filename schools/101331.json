@@ -14,5 +14,7 @@
   "url": "www.olol.barnetschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.603226",
+  "lng": "-0.17597317"
 }

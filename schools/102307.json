@@ -14,5 +14,7 @@
   "url": "http://www.upminster-inf.havering.lgfl.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.555870",
+  "lng": "0.25036345"
 }

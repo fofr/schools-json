@@ -14,5 +14,7 @@
   "url": "www.nansloe.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.094734",
+  "lng": "-5.2726589"
 }

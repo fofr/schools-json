@@ -14,5 +14,7 @@
   "url": "www.parkers.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.584263",
+  "lng": "0.80267277"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stbernards.southend.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.537412",
+  "lng": "0.69853719"
 }

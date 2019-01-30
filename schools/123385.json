@@ -14,5 +14,7 @@
   "url": "www.norbury.shropshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.524497",
+  "lng": "-2.9305563"
 }

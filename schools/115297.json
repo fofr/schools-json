@@ -14,5 +14,7 @@
   "url": "www.lawford.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.937275",
+  "lng": "1.0470466"
 }

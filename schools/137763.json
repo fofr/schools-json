@@ -14,5 +14,7 @@
   "url": "http://www.brunts.evolvetrust.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.152502",
+  "lng": "-1.1868009"
 }

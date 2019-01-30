@@ -14,5 +14,7 @@
   "url": "http://www.triangleprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.696665",
+  "lng": "-1.9362462"
 }

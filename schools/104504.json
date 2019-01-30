@@ -14,5 +14,7 @@
   "url": "http://www.eastprescotroad.co.uk/",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.415998",
+  "lng": "-2.9024698"
 }

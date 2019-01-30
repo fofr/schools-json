@@ -14,5 +14,7 @@
   "url": "http://www.collingwoodcollege.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.349723",
+  "lng": "-0.72169103"
 }

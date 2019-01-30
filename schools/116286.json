@@ -14,5 +14,7 @@
   "url": "www.stjems.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.857108",
+  "lng": "-0.93948421"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stockton.schoolgrid.net/2358/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.523663",
+  "lng": "-1.3077826"
 }

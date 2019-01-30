@@ -14,5 +14,7 @@
   "url": "www.st-marys-fal.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.150324",
+  "lng": "-5.0905003"
 }

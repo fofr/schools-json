@@ -14,5 +14,7 @@
   "url": "www.wayfield.medway.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.360469",
+  "lng": "0.52932274"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-gregorys.coventry.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.408477",
+  "lng": "-1.4529713"
 }

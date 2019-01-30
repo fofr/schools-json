@@ -14,5 +14,7 @@
   "url": "www.kingsheathprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.437901",
+  "lng": "-1.8899100"
 }

@@ -14,5 +14,7 @@
   "url": "www.whitelaith.leeds.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.831175",
+  "lng": "-1.4536078"
 }

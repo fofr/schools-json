@@ -14,5 +14,7 @@
   "url": "www.allsaintsn20.barnet.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.629005",
+  "lng": "-0.16775835"
 }

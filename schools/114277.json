@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/thornleyrc.durham/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.745420",
+  "lng": "-1.4183401"
 }

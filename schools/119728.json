@@ -14,5 +14,7 @@
   "url": "www.burnley.ac.uk/int/community/schools/walshaw/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.806604",
+  "lng": "-2.2230900"
 }

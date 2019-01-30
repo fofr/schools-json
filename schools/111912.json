@@ -14,5 +14,7 @@
   "url": "www.port-isaac.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.589841",
+  "lng": "-4.8273370"
 }

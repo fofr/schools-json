@@ -14,5 +14,7 @@
   "url": "http://www.shirestn.bham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.479655",
+  "lng": "-1.7680680"
 }

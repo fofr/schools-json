@@ -14,5 +14,7 @@
   "url": "www.theparklandfederation.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.798374",
+  "lng": "0.27015612"
 }

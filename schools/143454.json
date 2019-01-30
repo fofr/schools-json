@@ -14,5 +14,7 @@
   "url": "http://www.burleygate.hereford.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.121950",
+  "lng": "-2.5935814"
 }

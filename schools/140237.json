@@ -14,5 +14,7 @@
   "url": "https://charltonschool.wordpress.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.592364",
+  "lng": "-1.4119110"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.perryhall.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.383954",
+  "lng": "0.094462311"
 }

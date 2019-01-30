@@ -14,5 +14,7 @@
   "url": "www.kingshillschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.271649",
+  "lng": "0.39854314"
 }

@@ -14,5 +14,7 @@
   "url": "www.bletchingdon.oxon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.856546",
+  "lng": "-1.2752252"
 }

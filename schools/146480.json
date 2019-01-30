@@ -14,5 +14,7 @@
   "url": "www.greenside.tameside.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.486304",
+  "lng": "-2.1522916"
 }

@@ -14,5 +14,7 @@
   "url": "www.charfieldschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.627989",
+  "lng": "-2.4044158"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.sithney.cornwall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.124661",
+  "lng": "-5.3082854"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.brineleas.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.056525",
+  "lng": "-2.5143835"
 }

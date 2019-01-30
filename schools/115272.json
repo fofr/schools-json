@@ -14,5 +14,7 @@
   "url": "http://thewesterings.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.595751",
+  "lng": "0.65650907"
 }

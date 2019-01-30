@@ -14,5 +14,7 @@
   "url": "www.ludlowschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.377813",
+  "lng": "-2.7279574"
 }

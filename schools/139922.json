@@ -14,5 +14,7 @@
   "url": "www.theparkshull.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.784568",
+  "lng": "-0.38622666"
 }

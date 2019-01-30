@@ -14,5 +14,7 @@
   "url": "www.broadbentfold.tameside.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.471404",
+  "lng": "-2.0564249"
 }

@@ -14,5 +14,7 @@
   "url": "www.manor.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.599034",
+  "lng": "-1.7156171"
 }

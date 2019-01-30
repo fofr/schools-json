@@ -14,5 +14,7 @@
   "url": "www.elstowschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.112602",
+  "lng": "-0.46423881"
 }

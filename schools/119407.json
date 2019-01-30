@@ -14,5 +14,7 @@
   "url": "www.hapton.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.780533",
+  "lng": "-2.3174192"
 }

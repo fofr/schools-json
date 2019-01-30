@@ -14,5 +14,7 @@
   "url": "http://www.takeley-pri.essex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.869003",
+  "lng": "0.28136111"
 }

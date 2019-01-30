@@ -14,5 +14,7 @@
   "url": "www.southcrosland.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.613905",
+  "lng": "-1.8111069"
 }

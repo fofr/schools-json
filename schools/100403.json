@@ -14,5 +14,7 @@
   "url": "www.duncombeprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.566917",
+  "lng": "-0.12366425"
 }

@@ -14,5 +14,7 @@
   "url": "www.larkriseac.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.875176",
+  "lng": "-0.52630835"
 }

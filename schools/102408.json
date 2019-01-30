@@ -14,5 +14,7 @@
   "url": "www.rabbsfarm.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.516695",
+  "lng": "-0.47336687"
 }

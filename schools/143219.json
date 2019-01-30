@@ -14,5 +14,7 @@
   "url": "http://www.temple-hill.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.452813",
+  "lng": "0.22996169"
 }

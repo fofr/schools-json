@@ -14,5 +14,7 @@
   "url": "www.jameslee.lbhf.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.492237",
+  "lng": "-0.21362533"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.asfc.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "53.492067",
+  "lng": "-2.0755038"
 }

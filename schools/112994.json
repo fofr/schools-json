@@ -14,5 +14,7 @@
   "url": "http://www.frieslandschool.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.921889",
+  "lng": "-1.3043473"
 }

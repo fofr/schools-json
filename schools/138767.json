@@ -14,5 +14,7 @@
   "url": "www.shipstonhigh.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.065463",
+  "lng": "-1.6334017"
 }

@@ -14,5 +14,7 @@
   "url": "www.longworthprimaryschool.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.692435",
+  "lng": "-1.4370330"
 }

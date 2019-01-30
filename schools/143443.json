@@ -14,5 +14,7 @@
   "url": "www.treloweth.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.232439",
+  "lng": "-5.2582155"
 }

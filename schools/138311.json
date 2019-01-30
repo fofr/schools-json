@@ -14,5 +14,7 @@
   "url": "http://www.st-teresas.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.883230",
+  "lng": "0.85241127"
 }

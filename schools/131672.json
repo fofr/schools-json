@@ -14,5 +14,7 @@
   "url": "hollyfieldprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.561883",
+  "lng": "-1.8011801"
 }

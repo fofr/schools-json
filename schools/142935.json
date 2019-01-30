@@ -14,5 +14,7 @@
   "url": "www.shalford.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.924589",
+  "lng": "0.50448791"
 }

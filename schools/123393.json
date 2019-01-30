@@ -14,5 +14,7 @@
   "url": "www.harlescott-jun.shropshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.733010",
+  "lng": "-2.7160314"
 }

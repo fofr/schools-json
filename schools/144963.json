@@ -14,5 +14,7 @@
   "url": "http://www.healeypri.kgfl.dbprimary.com/kgfl/primary/healeypri",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.712279",
+  "lng": "-1.6565819"
 }

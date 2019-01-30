@@ -14,5 +14,7 @@
   "url": "http://www.cleves.newham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.534627",
+  "lng": "0.043118488"
 }

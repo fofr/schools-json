@@ -14,5 +14,7 @@
   "url": "http://www.greshamvillage.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.899542",
+  "lng": "1.2266739"
 }

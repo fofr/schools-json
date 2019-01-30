@@ -14,5 +14,7 @@
   "url": "http://www.ebchester.durham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.893267",
+  "lng": "-1.8392740"
 }

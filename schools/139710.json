@@ -14,5 +14,7 @@
   "url": "www.mayfloweracademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.395584",
+  "lng": "-4.1664375"
 }

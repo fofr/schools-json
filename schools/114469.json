@@ -14,5 +14,7 @@
   "url": "http://www.roselands-stafford.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.782127",
+  "lng": "0.28737195"
 }

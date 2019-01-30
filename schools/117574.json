@@ -14,5 +14,7 @@
   "url": "http://www.francisbacon.herts.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.738834",
+  "lng": "-0.31103690"
 }

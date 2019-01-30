@@ -14,5 +14,7 @@
   "url": "www.leighsaintpeters.wigan.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.498898",
+  "lng": "-2.5416138"
 }

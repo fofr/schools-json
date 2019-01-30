@@ -14,5 +14,7 @@
   "url": "http://www.stoswalds.bradford.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.781151",
+  "lng": "-1.7817362"
 }

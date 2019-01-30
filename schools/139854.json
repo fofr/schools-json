@@ -14,5 +14,7 @@
   "url": "http://www.gilmortonchandler.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.487095",
+  "lng": "-1.1624396"
 }

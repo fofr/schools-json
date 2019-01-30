@@ -14,5 +14,7 @@
   "url": "http://www.ef-mtschools.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.513823",
+  "lng": "-1.7274525"
 }

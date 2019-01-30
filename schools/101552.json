@@ -14,5 +14,7 @@
   "url": "www.oakmanor.brent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.552206",
+  "lng": "-0.27119507"
 }

@@ -14,5 +14,7 @@
   "url": "www.sacredheartcp.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.389143",
+  "lng": "-2.6148283"
 }

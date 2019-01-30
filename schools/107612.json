@@ -14,5 +14,7 @@
   "url": "http://www.nethertonian.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.613989",
+  "lng": "-1.8078566"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.rca.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.501354",
+  "lng": "-0.17847309"
 }

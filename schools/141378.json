@@ -14,5 +14,7 @@
   "url": "http://www.thegrangeschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.740925",
+  "lng": "-1.7557218"
 }

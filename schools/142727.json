@@ -14,5 +14,7 @@
   "url": "http://www.southgate.enfield.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.647077",
+  "lng": "-0.14073717"
 }

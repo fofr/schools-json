@@ -14,5 +14,7 @@
   "url": "www.burevalleyschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.789988",
+  "lng": "1.2503163"
 }

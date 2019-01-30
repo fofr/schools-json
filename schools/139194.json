@@ -14,5 +14,7 @@
   "url": "www.st-marys-school.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.780001",
+  "lng": "-0.90061111"
 }

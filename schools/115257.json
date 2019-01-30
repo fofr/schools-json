@@ -14,5 +14,7 @@
   "url": "http://www.stosythprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.798463",
+  "lng": "1.0815535"
 }

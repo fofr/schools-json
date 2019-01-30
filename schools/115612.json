@@ -14,5 +14,7 @@
   "url": "http://www.bisleybluecoat.gloucs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.752301",
+  "lng": "-2.1417444"
 }

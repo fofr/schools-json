@@ -14,5 +14,7 @@
   "url": "www.alvastonj.derby.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.893586",
+  "lng": "-1.4209783"
 }

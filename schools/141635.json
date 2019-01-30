@@ -14,5 +14,7 @@
   "url": "www.stthomasmorekettering.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.396492",
+  "lng": "-0.73819461"
 }

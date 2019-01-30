@@ -14,5 +14,7 @@
   "url": "http://www.humphry-davy.cornwall.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.124828",
+  "lng": "-5.5408862"
 }

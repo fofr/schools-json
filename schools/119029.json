@@ -14,5 +14,7 @@
   "url": "www.barnardos.org.uk/meadowsschool",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Non-maintained special school"
+  "detailed_type": "Non-maintained special school",
+  "lat": "51.164375",
+  "lng": "0.25425393"
 }

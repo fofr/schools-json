@@ -14,5 +14,7 @@
   "url": "www.stmerrynschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.523239",
+  "lng": "-4.9963288"
 }

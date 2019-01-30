@@ -14,5 +14,7 @@
   "url": "www.longtownprimary.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.010593",
+  "lng": "-2.9668586"
 }

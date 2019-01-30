@@ -14,5 +14,7 @@
   "url": "www.upton.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.359331",
+  "lng": "1.4284027"
 }

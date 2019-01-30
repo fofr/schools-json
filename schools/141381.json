@@ -14,5 +14,7 @@
   "url": "www.netacademies.net/lattongreen/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.749482",
+  "lng": "0.11248914"
 }

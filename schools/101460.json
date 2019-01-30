@@ -14,5 +14,7 @@
   "url": "www.sjf.bexley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.495001",
+  "lng": "0.13220921"
 }

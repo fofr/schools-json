@@ -14,5 +14,7 @@
   "url": "www.padihamgreen.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.797265",
+  "lng": "-2.3154506"
 }

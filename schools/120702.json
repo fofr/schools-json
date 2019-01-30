@@ -14,5 +14,7 @@
   "url": "http://www.cgs.lincs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.496570",
+  "lng": "-0.32025179"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.actonhighschool.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.504940",
+  "lng": "-0.28017471"
 }

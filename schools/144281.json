@@ -14,5 +14,7 @@
   "url": "www.farringtongurneyschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.298555",
+  "lng": "-2.5287360"
 }

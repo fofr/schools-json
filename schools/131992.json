@@ -14,5 +14,7 @@
   "url": "www.kingshill.n-somerset.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.437159",
+  "lng": "-2.7682320"
 }

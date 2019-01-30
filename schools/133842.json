@@ -14,5 +14,7 @@
   "url": "http://www.man.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.467926",
+  "lng": "-2.2332237"
 }

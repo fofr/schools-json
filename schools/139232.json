@@ -14,5 +14,7 @@
   "url": "www.windmillacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.952378",
+  "lng": "-1.1230873"
 }

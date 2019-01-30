@@ -14,5 +14,7 @@
   "url": "www.dartonprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.585137",
+  "lng": "-1.5241554"
 }

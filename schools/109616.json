@@ -14,5 +14,7 @@
   "url": "http://www.schools.bedfordshire.gov.uk/schools/allsaints/index.html",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.036727",
+  "lng": "-0.30196139"
 }

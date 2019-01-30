@@ -14,5 +14,7 @@
   "url": "www.mhchs.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.629534",
+  "lng": "-0.24773984"
 }

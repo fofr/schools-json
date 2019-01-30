@@ -14,5 +14,7 @@
   "url": "www.st-pauls-school.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.370297",
+  "lng": "-0.50300843"
 }

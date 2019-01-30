@@ -14,5 +14,7 @@
   "url": "http://www.jmhs.hereford.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.031736",
+  "lng": "-2.4232830"
 }

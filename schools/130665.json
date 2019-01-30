@@ -14,5 +14,7 @@
   "url": "www.sussexcoast.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "50.857901",
+  "lng": "0.57682745"
 }

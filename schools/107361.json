@@ -14,5 +14,7 @@
   "url": "http://www.bvb.ngfl.ac.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.818629",
+  "lng": "-1.8124975"
 }

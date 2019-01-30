@@ -14,5 +14,7 @@
   "url": "www.rydersgreenprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.524147",
+  "lng": "-2.0135309"
 }

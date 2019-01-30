@@ -14,5 +14,7 @@
   "url": "https://tltrust.org/badger-hill-academy/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.566564",
+  "lng": "-0.93273465"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.rgtrustschool.net",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.492469",
+  "lng": "0.044632698"
 }

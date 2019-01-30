@@ -14,5 +14,7 @@
   "url": "http://www.chudleigh.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.602322",
+  "lng": "-3.6013065"
 }

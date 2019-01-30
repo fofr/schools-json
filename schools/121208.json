@@ -14,5 +14,7 @@
   "url": "http://www.wymondhamcollege.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.544907",
+  "lng": "1.0573590"
 }

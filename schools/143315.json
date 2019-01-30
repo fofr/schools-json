@@ -14,5 +14,7 @@
   "url": "http://www.courtlane-inf.portsmouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.844206",
+  "lng": "-1.0594286"
 }

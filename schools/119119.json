@@ -14,5 +14,7 @@
   "url": "http://www.longshawjunior.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.733396",
+  "lng": "-2.4826108"
 }

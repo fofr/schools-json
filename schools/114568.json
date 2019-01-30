@@ -14,5 +14,7 @@
   "url": "www.st-pancras.e-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.873571",
+  "lng": "-0.0012075167"
 }

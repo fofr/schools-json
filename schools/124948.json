@@ -14,5 +14,7 @@
   "url": "http://www.cranleighinfantschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.142504",
+  "lng": "-0.48527082"
 }

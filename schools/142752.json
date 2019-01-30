@@ -14,5 +14,7 @@
   "url": "http://www.walterevans.derby.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.945650",
+  "lng": "-1.4808232"
 }

@@ -2,7 +2,7 @@
   "urn": "119389",
   "name": "Read St John's CofE Primary School",
   "address": "Straits Lane",
-  "locality": "Read",
+  "locality": "READ",
   "address3": "",
   "town": "Burnley",
   "county": "Lancashire",
@@ -14,5 +14,7 @@
   "url": "www.read.lancs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.807212",
+  "lng": "-2.3547487"
 }

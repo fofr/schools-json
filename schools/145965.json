@@ -14,5 +14,7 @@
   "url": "www.indianqueensschool.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.392503",
+  "lng": "-4.9327163"
 }

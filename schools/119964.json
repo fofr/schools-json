@@ -14,5 +14,7 @@
   "url": "http://www.burbage-jun.leics.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.528179",
+  "lng": "-1.3512217"
 }

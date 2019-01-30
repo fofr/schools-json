@@ -14,5 +14,7 @@
   "url": "www.sparkenhill.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.293125",
+  "lng": "-1.1194421"
 }

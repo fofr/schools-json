@@ -14,5 +14,7 @@
   "url": "http://www.eastburyfarm.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.624063",
+  "lng": "-0.41852402"
 }

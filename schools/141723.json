@@ -14,5 +14,7 @@
   "url": "www.ringsteadprimary.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.365192",
+  "lng": "-0.55270920"
 }

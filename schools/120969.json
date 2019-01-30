@@ -14,5 +14,7 @@
   "url": "http://wroughton.wix.com/wroughtoninfant",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.584593",
+  "lng": "1.7176180"
 }

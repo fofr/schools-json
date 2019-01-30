@@ -14,5 +14,7 @@
   "url": "http://www.nottinghamfreeschool.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.979718",
+  "lng": "-1.1595900"
 }

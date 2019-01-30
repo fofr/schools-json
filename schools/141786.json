@@ -14,5 +14,7 @@
   "url": "http://www.hayeswood.dorset.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.805998",
+  "lng": "-1.9506747"
 }

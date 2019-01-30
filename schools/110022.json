@@ -14,5 +14,7 @@
   "url": "www.clewergreen.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.472929",
+  "lng": "-0.63365970"
 }

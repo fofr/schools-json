@@ -14,5 +14,7 @@
   "url": "www.holytrinityceprimary.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.447556",
+  "lng": "-0.11837241"
 }

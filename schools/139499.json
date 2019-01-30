@@ -14,5 +14,7 @@
   "url": "www.larkshill.wakefield.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.681830",
+  "lng": "-1.3204000"
 }

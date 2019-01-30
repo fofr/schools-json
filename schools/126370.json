@@ -14,5 +14,7 @@
   "url": "http://www.westburyleigh.wilts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.251738",
+  "lng": "-2.2021247"
 }

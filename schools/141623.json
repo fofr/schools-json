@@ -14,5 +14,7 @@
   "url": "www.stanwix.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.905621",
+  "lng": "-2.9356902"
 }

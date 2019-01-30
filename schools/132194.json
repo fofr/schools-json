@@ -14,5 +14,7 @@
   "url": "http://www.pgps.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.924017",
+  "lng": "-1.1063610"
 }

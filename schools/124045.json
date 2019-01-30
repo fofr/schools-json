@@ -14,5 +14,7 @@
   "url": "http://www.edgehilljuniorschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.787737",
+  "lng": "-1.6195803"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.parksidestudiocollege.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.519987",
+  "lng": "-0.42913666"
 }

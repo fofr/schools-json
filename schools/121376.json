@@ -14,5 +14,7 @@
   "url": "www.castletonprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.463523",
+  "lng": "-0.94178892"
 }

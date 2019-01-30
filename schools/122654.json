@@ -14,5 +14,7 @@
   "url": "www.lambleyprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.000835",
+  "lng": "-1.0669121"
 }

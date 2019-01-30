@@ -14,5 +14,7 @@
   "url": "www.standlakeschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.728712",
+  "lng": "-1.4252746"
 }

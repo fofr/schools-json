@@ -14,5 +14,7 @@
   "url": "http://www.fiveashes.e-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.002674",
+  "lng": "0.21933755"
 }

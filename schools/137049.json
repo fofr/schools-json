@@ -14,5 +14,7 @@
   "url": "http://www.montsaye.northants.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.423788",
+  "lng": "-0.81016721"
 }

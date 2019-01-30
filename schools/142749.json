@@ -14,5 +14,7 @@
   "url": "www.tinsleymeadows.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.413429",
+  "lng": "-1.3966888"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bushfield.peterborough.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.544502",
+  "lng": "-0.30222285"
 }

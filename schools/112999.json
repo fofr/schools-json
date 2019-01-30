@@ -14,5 +14,7 @@
   "url": "http://www.woodlands.derby.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.954255",
+  "lng": "-1.5002045"
 }

@@ -14,5 +14,7 @@
   "url": "www.destafford.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.293206",
+  "lng": "-0.084629390"
 }

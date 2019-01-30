@@ -14,5 +14,7 @@
   "url": "http://williambrookes.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.602462",
+  "lng": "-2.5565011"
 }

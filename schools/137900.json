@@ -14,5 +14,7 @@
   "url": "www.st-cuthbertshigh.newcastle.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.978948",
+  "lng": "-1.6753639"
 }

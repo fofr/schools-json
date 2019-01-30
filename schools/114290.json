@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/admin.hermitage/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.851040",
+  "lng": "-1.5929262"
 }

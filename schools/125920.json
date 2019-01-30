@@ -14,5 +14,7 @@
   "url": "http://www.pavilion.co.uk/broadfieldeastf/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.098415",
+  "lng": "-0.19703912"
 }

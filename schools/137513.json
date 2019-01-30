@@ -14,5 +14,7 @@
   "url": "www.broughtonprimarysch.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.670505",
+  "lng": "-3.4376181"
 }

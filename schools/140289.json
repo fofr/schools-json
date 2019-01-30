@@ -14,5 +14,7 @@
   "url": "http://www.peatmoor.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.578184",
+  "lng": "-1.8355843"
 }

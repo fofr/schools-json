@@ -14,5 +14,7 @@
   "url": "http://www.crestwood-p.dudley.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.492306",
+  "lng": "-2.1455299"
 }

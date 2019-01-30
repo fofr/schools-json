@@ -14,5 +14,7 @@
   "url": "www.kingsmoor.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.749556",
+  "lng": "0.086704547"
 }

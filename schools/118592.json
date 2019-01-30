@@ -14,5 +14,7 @@
   "url": "http://fawkhamschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.377079",
+  "lng": "0.28058281"
 }

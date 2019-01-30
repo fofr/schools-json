@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.735660",
+  "lng": "-2.4529697"
 }

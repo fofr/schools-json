@@ -14,5 +14,7 @@
   "url": "www.stjohnskeynsham.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.411327",
+  "lng": "-2.5049461"
 }

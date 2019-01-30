@@ -14,5 +14,7 @@
   "url": "http://www.westonpark-jun.southampton.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.892327",
+  "lng": "-1.3581647"
 }

@@ -14,5 +14,7 @@
   "url": "bloomsburynscc.co.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "52.493658",
+  "lng": "-1.8727448"
 }

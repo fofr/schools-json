@@ -14,5 +14,7 @@
   "url": "www.wintergardensacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.530082",
+  "lng": "0.58234699"
 }

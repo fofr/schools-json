@@ -14,5 +14,7 @@
   "url": "http://www.trottiscliffe.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.317188",
+  "lng": "0.35624195"
 }

@@ -14,5 +14,7 @@
   "url": "www.talloaksacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.409333",
+  "lng": "-0.77030037"
 }

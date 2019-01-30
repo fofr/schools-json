@@ -14,5 +14,7 @@
   "url": "www.colai.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.536221",
+  "lng": "-0.097645509"
 }

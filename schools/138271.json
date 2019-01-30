@@ -14,5 +14,7 @@
   "url": "http://www.copaspecialschool.org/",
   "phase": "Not applicable",
   "type": "Free Schools",
-  "detailed_type": "Free schools special"
+  "detailed_type": "Free schools special",
+  "lat": "52.584810",
+  "lng": "-0.22091207"
 }

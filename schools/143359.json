@@ -14,5 +14,7 @@
   "url": "www.bacton.suffolk.dbprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.264304",
+  "lng": "1.0070052"
 }

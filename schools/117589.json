@@ -14,5 +14,7 @@
   "url": "http://www.stmichaelschs.herts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.699566",
+  "lng": "-0.38592431"
 }

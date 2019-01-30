@@ -14,5 +14,7 @@
   "url": "www.newcity.newham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.524846",
+  "lng": "0.038298119"
 }

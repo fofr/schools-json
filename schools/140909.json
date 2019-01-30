@@ -14,5 +14,7 @@
   "url": "www.wymondhamprimary.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.760559",
+  "lng": "-0.74766092"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.millfieldsceprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.307707",
+  "lng": "-2.9713361"
 }

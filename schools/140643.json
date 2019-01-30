@@ -14,5 +14,7 @@
   "url": "www.st-martin-in-meneage.cornwall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.072313",
+  "lng": "-5.1674294"
 }

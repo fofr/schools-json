@@ -14,5 +14,7 @@
   "url": "http://www.westwood.notts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.060308",
+  "lng": "-1.3248756"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.fairfield-jun.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.259708",
+  "lng": "-1.8953115"
 }

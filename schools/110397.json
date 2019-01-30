@@ -14,5 +14,7 @@
   "url": "www.bourtonmeadow.bucks.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.996405",
+  "lng": "-0.97129225"
 }

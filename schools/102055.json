@@ -14,5 +14,7 @@
   "url": "http://www.latymer.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.626023",
+  "lng": "-0.074141133"
 }

@@ -14,5 +14,7 @@
   "url": "www.middletontyasprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.449294",
+  "lng": "-1.6524991"
 }

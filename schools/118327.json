@@ -14,5 +14,7 @@
   "url": "www.hoo-st-werburgh.medway.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.421720",
+  "lng": "0.55356181"
 }

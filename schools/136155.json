@@ -14,5 +14,7 @@
   "url": "www.aceschools.net",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "50.370188",
+  "lng": "-4.1360711"
 }

@@ -14,5 +14,7 @@
   "url": "www.fenditton.cambs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.222195",
+  "lng": "0.17519074"
 }

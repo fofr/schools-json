@@ -14,5 +14,7 @@
   "url": "http://www.holywell.leics.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.756541",
+  "lng": "-1.2394750"
 }

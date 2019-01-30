@@ -14,5 +14,7 @@
   "url": "http://www.corringhamprimary.thurrock.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.525332",
+  "lng": "0.46624960"
 }

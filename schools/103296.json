@@ -14,5 +14,7 @@
   "url": "www.meadowsprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.403528",
+  "lng": "-1.9808917"
 }

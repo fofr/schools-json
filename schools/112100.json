@@ -14,5 +14,7 @@
   "url": "http://www.allonby.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.776179",
+  "lng": "-3.4278689"
 }

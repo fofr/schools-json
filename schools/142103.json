@@ -14,5 +14,7 @@
   "url": "http://www.st-luke.bournemouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.743999",
+  "lng": "-1.8737239"
 }

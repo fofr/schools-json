@@ -14,5 +14,7 @@
   "url": "www.langhamprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.689577",
+  "lng": "-0.75234097"
 }

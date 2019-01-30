@@ -14,5 +14,7 @@
   "url": "www.snettisham-primary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.878245",
+  "lng": "0.50499041"
 }

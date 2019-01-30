@@ -14,5 +14,7 @@
   "url": "http://www.wellfieldinfants.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.432284",
+  "lng": "-2.3424054"
 }

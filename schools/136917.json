@@ -14,5 +14,7 @@
   "url": "http://www.haygroveschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.123019",
+  "lng": "-3.0224810"
 }

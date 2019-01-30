@@ -14,5 +14,7 @@
   "url": "http://www.hempstalls.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.022830",
+  "lng": "-2.2271311"
 }

@@ -14,5 +14,7 @@
   "url": "www.kingsmooracademy.attrust.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.749556",
+  "lng": "0.086704547"
 }

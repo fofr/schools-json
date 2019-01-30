@@ -14,5 +14,7 @@
   "url": "http://manor-didcot.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.608096",
+  "lng": "-1.2517931"
 }

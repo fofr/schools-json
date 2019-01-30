@@ -14,5 +14,7 @@
   "url": "www.sdps.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.376763",
+  "lng": "-4.1657063"
 }

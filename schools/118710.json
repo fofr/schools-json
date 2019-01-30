@@ -14,5 +14,7 @@
   "url": "www.herne-infant.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.350111",
+  "lng": "1.1388912"
 }

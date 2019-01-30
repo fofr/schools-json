@@ -14,5 +14,7 @@
   "url": "http://www.aldridge.walsall.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.597796",
+  "lng": "-1.9254451"
 }

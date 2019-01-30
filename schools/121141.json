@@ -14,5 +14,7 @@
   "url": "http://www.whitefriars.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.747645",
+  "lng": "0.39818155"
 }

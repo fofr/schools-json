@@ -14,5 +14,7 @@
   "url": "http://www.hjs.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.798764",
+  "lng": "0.28287663"
 }

@@ -14,5 +14,7 @@
   "url": "www.wrenacademy.org",
   "phase": "All through",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.612645",
+  "lng": "-0.16814279"
 }

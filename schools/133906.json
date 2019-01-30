@@ -14,5 +14,7 @@
   "url": "http://www.ioe.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.523471",
+  "lng": "-0.12850674"
 }

@@ -14,5 +14,7 @@
   "url": "www.staindropschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.577521",
+  "lng": "-1.8119746"
 }

@@ -14,5 +14,7 @@
   "url": "www.atrium-studio.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "50.524818",
+  "lng": "-3.7455487"
 }

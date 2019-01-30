@@ -14,5 +14,7 @@
   "url": "www.st-thomas.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.964891",
+  "lng": "-1.3115484"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.tannerswood.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.699421",
+  "lng": "-0.42287315"
 }

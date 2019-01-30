@@ -14,5 +14,7 @@
   "url": "www.whitehouse-academy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.864378",
+  "lng": "0.26283040"
 }

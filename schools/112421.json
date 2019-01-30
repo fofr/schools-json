@@ -14,5 +14,7 @@
   "url": "www.flimby.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.692540",
+  "lng": "-3.5174178"
 }

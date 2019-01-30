@@ -14,5 +14,7 @@
   "url": "www.meacentral.org.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.446165",
+  "lng": "-2.2039106"
 }

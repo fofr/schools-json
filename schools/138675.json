@@ -14,5 +14,7 @@
   "url": "www.ryecroftacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.773985",
+  "lng": "-1.7049061"
 }

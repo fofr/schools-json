@@ -14,5 +14,7 @@
   "url": "www.bullionlane.durham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.853302",
+  "lng": "-1.5840721"
 }

@@ -14,5 +14,7 @@
   "url": "www.uos.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.052392",
+  "lng": "1.1634589"
 }

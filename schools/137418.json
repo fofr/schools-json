@@ -14,5 +14,7 @@
   "url": "www.uai.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.562572",
+  "lng": "0.069533383"
 }

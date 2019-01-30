@@ -14,5 +14,7 @@
   "url": "http://www.sthelensprimaryalveston.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.585757",
+  "lng": "-2.5306645"
 }

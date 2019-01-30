@@ -14,5 +14,7 @@
   "url": "http://www.chestnutstreet.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.043575",
+  "lng": "-0.38081723"
 }

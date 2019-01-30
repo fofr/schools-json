@@ -14,5 +14,7 @@
   "url": "www.kingsteigntonschool.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.546027",
+  "lng": "-3.5956581"
 }

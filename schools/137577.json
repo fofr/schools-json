@@ -14,5 +14,7 @@
   "url": "www.farnley.leeds.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.783444",
+  "lng": "-1.6199874"
 }

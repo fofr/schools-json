@@ -14,5 +14,7 @@
   "url": "www.sylvaninfantschool.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.734243",
+  "lng": "-1.9443024"
 }

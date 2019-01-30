@@ -14,5 +14,7 @@
   "url": "www.st-nicholas-blackpool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.778788",
+  "lng": "-3.0136282"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.burnsidecollege.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.994790",
+  "lng": "-1.5199957"
 }

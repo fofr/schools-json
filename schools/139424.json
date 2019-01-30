@@ -14,5 +14,7 @@
   "url": "thorplands.education",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.271100",
+  "lng": "-0.84000887"
 }

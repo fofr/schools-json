@@ -14,5 +14,7 @@
   "url": "http://www.lecateauprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.371777",
+  "lng": "-1.7093985"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.downfield.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.698560",
+  "lng": "-0.028865286"
 }

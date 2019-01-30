@@ -14,5 +14,7 @@
   "url": "http://www.stjosephscollege.net",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.564736",
+  "lng": "-1.7636150"
 }

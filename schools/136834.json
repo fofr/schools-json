@@ -14,5 +14,7 @@
   "url": "http://www.farlingaye.suffolk.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.100552",
+  "lng": "1.3041068"
 }

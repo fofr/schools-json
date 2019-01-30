@@ -14,5 +14,7 @@
   "url": "www.arkovalprimary.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.377955",
+  "lng": "-0.089629328"
 }

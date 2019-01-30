@@ -14,5 +14,7 @@
   "url": "www.stnicholasprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.771377",
+  "lng": "-1.2387639"
 }

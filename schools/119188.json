@@ -14,5 +14,7 @@
   "url": "www.westendschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.746630",
+  "lng": "-2.4118737"
 }

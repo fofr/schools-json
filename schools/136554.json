@@ -14,5 +14,7 @@
   "url": "http://www.damealiceowens.herts.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.690779",
+  "lng": "-0.20719404"
 }

@@ -14,5 +14,7 @@
   "url": "www.coldean.brighton-hove.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.864477",
+  "lng": "-0.11240017"
 }

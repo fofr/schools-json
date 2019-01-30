@@ -14,5 +14,7 @@
   "url": "www.cowesprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.760410",
+  "lng": "-1.3055831"
 }

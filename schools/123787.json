@@ -14,5 +14,7 @@
   "url": "http://www.enmoreprimaryschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.107727",
+  "lng": "-3.0907227"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-martins-academy-chester.co.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.201326",
+  "lng": "-2.8718288"
 }

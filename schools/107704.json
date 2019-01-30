@@ -14,5 +14,7 @@
   "url": "http://bradleyinf.kgfl.digitalbrain.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.679520",
+  "lng": "-1.7481982"
 }

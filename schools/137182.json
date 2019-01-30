@@ -14,5 +14,7 @@
   "url": "www.northgateacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.975060",
+  "lng": "-1.1708793"
 }

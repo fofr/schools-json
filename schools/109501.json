@@ -14,5 +14,7 @@
   "url": "http://www.pulloxhill-school.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.993703",
+  "lng": "-0.45206991"
 }

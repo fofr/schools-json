@@ -14,5 +14,7 @@
   "url": "http://www.newquayjunior.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.414065",
+  "lng": "-5.0723496"
 }

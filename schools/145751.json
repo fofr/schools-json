@@ -14,5 +14,7 @@
   "url": "www.spsd.bolton.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.601687",
+  "lng": "-2.4607372"
 }

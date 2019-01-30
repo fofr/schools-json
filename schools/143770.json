@@ -14,5 +14,7 @@
   "url": "www.gbpa.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.155683",
+  "lng": "-0.35189182"
 }

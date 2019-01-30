@@ -14,5 +14,7 @@
   "url": "http://www.warwick.surrey.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.242357",
+  "lng": "-0.16124380"
 }

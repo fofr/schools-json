@@ -14,5 +14,7 @@
   "url": "http://woodsideschool.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.865751",
+  "lng": "-3.0526873"
 }

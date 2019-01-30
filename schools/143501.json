@@ -14,5 +14,7 @@
   "url": "www.greatmeols.wirral.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.404750",
+  "lng": "-3.1562180"
 }

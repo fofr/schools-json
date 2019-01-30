@@ -14,5 +14,7 @@
   "url": "http://www.deanwood.medway.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.342643",
+  "lng": "0.59185481"
 }

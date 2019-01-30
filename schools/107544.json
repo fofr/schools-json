@@ -14,5 +14,7 @@
   "url": "http://www.st-josephs.calderdale.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.728710",
+  "lng": "-1.8559123"
 }

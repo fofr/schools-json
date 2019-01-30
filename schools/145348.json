@@ -14,5 +14,7 @@
   "url": "http://dwhs.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.518013",
+  "lng": "-0.36692554"
 }

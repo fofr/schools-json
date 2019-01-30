@@ -14,5 +14,7 @@
   "url": "http://www.kilsby.northants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.334678",
+  "lng": "-1.1758879"
 }

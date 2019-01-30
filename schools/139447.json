@@ -14,5 +14,7 @@
   "url": "www.queensparkinfacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.747821",
+  "lng": "-1.8581221"
 }

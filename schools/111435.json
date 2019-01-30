@@ -14,5 +14,7 @@
   "url": "www.wadedeacon.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.375187",
+  "lng": "-2.7350581"
 }

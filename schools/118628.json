@@ -14,5 +14,7 @@
   "url": "http://www.stanstedschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.336759",
+  "lng": "0.30644864"
 }

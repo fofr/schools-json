@@ -14,5 +14,7 @@
   "url": "godmanchesterbridge.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.311759",
+  "lng": "-0.16274134"
 }

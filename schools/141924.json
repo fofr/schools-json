@@ -14,5 +14,7 @@
   "url": "www.st-gregorys.sandwell.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.476589",
+  "lng": "-1.9762964"
 }

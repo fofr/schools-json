@@ -14,5 +14,7 @@
   "url": "http://www.broomhill.northumberland.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.304758",
+  "lng": "-1.6151846"
 }

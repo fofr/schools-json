@@ -14,5 +14,7 @@
   "url": "www.merrydalejuniors.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.645129",
+  "lng": "-1.0948214"
 }

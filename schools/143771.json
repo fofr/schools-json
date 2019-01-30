@@ -14,5 +14,7 @@
   "url": "http://www.meresideprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.800479",
+  "lng": "-3.0037205"
 }

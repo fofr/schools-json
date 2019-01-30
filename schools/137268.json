@@ -14,5 +14,7 @@
   "url": "www.chadsmeadacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.691842",
+  "lng": "-1.8329039"
 }

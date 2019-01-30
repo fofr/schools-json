@@ -14,5 +14,7 @@
   "url": "www.weeth.cornwall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.217856",
+  "lng": "-5.3062931"
 }

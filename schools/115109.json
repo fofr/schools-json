@@ -14,5 +14,7 @@
   "url": "http://www.st-marys-kelvedon.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.836641",
+  "lng": "0.70450868"
 }

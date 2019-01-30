@@ -14,5 +14,7 @@
   "url": "http://queensbury-academy.fetrust.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.765207",
+  "lng": "-1.8465643"
 }

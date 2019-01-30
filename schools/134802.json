@@ -14,5 +14,7 @@
   "url": "www.ecs.plymouth.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.416620",
+  "lng": "-4.1722961"
 }

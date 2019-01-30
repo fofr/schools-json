@@ -14,5 +14,7 @@
   "url": "www.ash-sch.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.015782",
+  "lng": "-4.2472370"
 }

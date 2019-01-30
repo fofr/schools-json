@@ -14,5 +14,7 @@
   "url": "http://www.parish.st-helens.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.456892",
+  "lng": "-2.7311376"
 }

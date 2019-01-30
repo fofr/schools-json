@@ -14,5 +14,7 @@
   "url": "www.kemsley.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.363570",
+  "lng": "0.73849967"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.redhillprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.919806",
+  "lng": "-1.3693464"
 }

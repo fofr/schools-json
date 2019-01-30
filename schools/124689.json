@@ -14,5 +14,7 @@
   "url": "http://www.barningham.suffolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.353357",
+  "lng": "0.88809371"
 }

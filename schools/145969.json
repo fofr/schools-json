@@ -14,5 +14,7 @@
   "url": "http://www.mountpleasant.herts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.705580",
+  "lng": "-0.37924102"
 }

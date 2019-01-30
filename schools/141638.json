@@ -14,5 +14,7 @@
   "url": "www.charboroughroadschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.505344",
+  "lng": "-2.5785869"
 }

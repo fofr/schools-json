@@ -14,5 +14,7 @@
   "url": "www.worfield.shropshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.558247",
+  "lng": "-2.3567960"
 }

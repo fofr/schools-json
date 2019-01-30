@@ -14,5 +14,7 @@
   "url": "http://www.waterside.portsmouth.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "50.826555",
+  "lng": "-1.0936887"
 }

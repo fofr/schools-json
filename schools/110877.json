@@ -14,5 +14,7 @@
   "url": "http://www.walton.uk.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.606060",
+  "lng": "-0.26546305"
 }

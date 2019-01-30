@@ -14,5 +14,7 @@
   "url": "www.newsomejuniors.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.625221",
+  "lng": "-1.7895108"
 }

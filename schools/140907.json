@@ -14,5 +14,7 @@
   "url": "www.parkcampus.org.uk",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy alternative provision converter"
+  "detailed_type": "Academy alternative provision converter",
+  "lat": "51.428144",
+  "lng": "-0.097980442"
 }

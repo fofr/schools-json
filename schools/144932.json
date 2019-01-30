@@ -14,5 +14,7 @@
   "url": "www.carlton.notts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.968231",
+  "lng": "-1.0960392"
 }

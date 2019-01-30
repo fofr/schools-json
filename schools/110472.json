@@ -14,5 +14,7 @@
   "url": "http://www.smsg.uk.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.058948",
+  "lng": "-0.84891011"
 }

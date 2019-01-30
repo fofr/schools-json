@@ -14,5 +14,7 @@
   "url": "http://www.allsaintsschool.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.562720",
+  "lng": "0.15129017"
 }

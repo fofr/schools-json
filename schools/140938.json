@@ -14,5 +14,7 @@
   "url": "www.harrisprimarymayflower.org.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.481804",
+  "lng": "0.29351006"
 }

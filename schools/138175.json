@@ -14,5 +14,7 @@
   "url": "http://www.mowdenfederation.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.529338",
+  "lng": "-1.5886833"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.normandy.bexley.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.468944",
+  "lng": "0.17213097"
 }

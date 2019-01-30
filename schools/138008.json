@@ -14,5 +14,7 @@
   "url": "www.cpacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.579450",
+  "lng": "-1.0139242"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.furzeplatt.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.535956",
+  "lng": "-0.74070418"
 }

@@ -14,5 +14,7 @@
   "url": "www.hotwells.bristol.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.450651",
+  "lng": "-2.6220028"
 }

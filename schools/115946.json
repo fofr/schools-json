@@ -14,5 +14,7 @@
   "url": "www.sheetprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.015956",
+  "lng": "-0.92401871"
 }

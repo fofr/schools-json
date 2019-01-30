@@ -14,5 +14,7 @@
   "url": "http://www.st-laurence.wilts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.352109",
+  "lng": "-2.2591871"
 }

@@ -14,5 +14,7 @@
   "url": "http://haworth.schooljotter2.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.832023",
+  "lng": "-1.9538644"
 }

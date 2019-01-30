@@ -14,5 +14,7 @@
   "url": "http://www.shirley.croydon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.369521",
+  "lng": "-0.049321878"
 }

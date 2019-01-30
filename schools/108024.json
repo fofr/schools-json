@@ -14,5 +14,7 @@
   "url": "www.corpusprimaryleeds.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.796709",
+  "lng": "-1.4868325"
 }

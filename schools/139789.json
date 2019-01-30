@@ -14,5 +14,7 @@
   "url": "http://www.walsallstudioschool.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "52.582482",
+  "lng": "-1.9820105"
 }

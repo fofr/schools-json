@@ -14,5 +14,7 @@
   "url": "www.chiltern.hull.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.738000",
+  "lng": "-0.36995330"
 }

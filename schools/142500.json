@@ -14,5 +14,7 @@
   "url": "www.oakhurstfirst.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.822689",
+  "lng": "-1.8783533"
 }

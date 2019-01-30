@@ -14,5 +14,7 @@
   "url": "www.judgemeadow.leicester.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.621713",
+  "lng": "-1.0650364"
 }

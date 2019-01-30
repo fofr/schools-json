@@ -14,5 +14,7 @@
   "url": "www.highercallprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.751210",
+  "lng": "-2.6036867"
 }

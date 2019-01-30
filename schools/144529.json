@@ -14,5 +14,7 @@
   "url": "http://www.childerthorntonprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.294747",
+  "lng": "-2.9520778"
 }

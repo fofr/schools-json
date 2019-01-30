@@ -14,5 +14,7 @@
   "url": "www.ninemileride.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.375792",
+  "lng": "-0.85574987"
 }

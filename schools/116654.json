@@ -14,5 +14,7 @@
   "url": "www.bredenburyprimary.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.204289",
+  "lng": "-2.5730508"
 }

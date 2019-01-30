@@ -14,5 +14,7 @@
   "url": "http://www.sevenfieldsprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.590014",
+  "lng": "-1.7840533"
 }

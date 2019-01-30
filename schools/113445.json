@@ -14,5 +14,7 @@
   "url": "http://www.pinhoecofeprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.740417",
+  "lng": "-3.4737238"
 }

@@ -14,5 +14,7 @@
   "url": "www.hamsey.e-sussex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.904548",
+  "lng": "-0.0077465600"
 }

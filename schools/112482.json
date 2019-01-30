@@ -14,5 +14,7 @@
   "url": "www.castle.derby.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "52.919501",
+  "lng": "-1.4686873"
 }

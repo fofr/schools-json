@@ -14,5 +14,7 @@
   "url": "www.redmarley.gloucs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.978815",
+  "lng": "-2.3616201"
 }

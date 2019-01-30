@@ -14,5 +14,7 @@
   "url": "https://slp5.somerset.org.uk/webs/ct/timberscombe/SitePages/Home.aspx",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.168364",
+  "lng": "-3.4962805"
 }

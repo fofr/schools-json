@@ -14,5 +14,7 @@
   "url": "http://www.broadgreenprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.411518",
+  "lng": "-2.9088290"
 }

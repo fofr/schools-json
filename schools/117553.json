@@ -14,5 +14,7 @@
   "url": "http://www.tring.herts.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.798162",
+  "lng": "-0.65453819"
 }

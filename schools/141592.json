@@ -14,5 +14,7 @@
   "url": "http://www.ravenscote.surrey.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.323042",
+  "lng": "-0.71999305"
 }

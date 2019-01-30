@@ -14,5 +14,7 @@
   "url": "http://www.derwentside.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "54.850119",
+  "lng": "-1.8359878"
 }

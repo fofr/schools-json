@@ -14,5 +14,7 @@
   "url": "http://www.landewednack.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "49.969178",
+  "lng": "-5.1996602"
 }

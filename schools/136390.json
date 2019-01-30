@@ -14,5 +14,7 @@
   "url": "http://www.crgs.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.874670",
+  "lng": "-2.3885072"
 }

@@ -14,5 +14,7 @@
   "url": "pennyman.teesvalleyeducation.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.552929",
+  "lng": "-1.1790364"
 }

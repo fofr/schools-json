@@ -14,5 +14,7 @@
   "url": "www.elystjohns.cambs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.395949",
+  "lng": "0.24513866"
 }

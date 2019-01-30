@@ -14,5 +14,7 @@
   "url": "www.rodingvalley.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.643374",
+  "lng": "0.056025510"
 }

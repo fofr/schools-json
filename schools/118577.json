@@ -14,5 +14,7 @@
   "url": "http://www.wrotham-road.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.437118",
+  "lng": "0.36715823"
 }

@@ -14,5 +14,7 @@
   "url": "http://benjaminbrittenhighschool.co.uk.gridhosted.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.496726",
+  "lng": "1.7312386"
 }

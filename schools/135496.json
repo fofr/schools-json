@@ -14,5 +14,7 @@
   "url": "www.dothillprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.711765",
+  "lng": "-2.5259632"
 }

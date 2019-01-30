@@ -14,5 +14,7 @@
   "url": "http://www.brightwell.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.614683",
+  "lng": "-1.1607388"
 }

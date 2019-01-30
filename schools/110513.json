@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/whshw/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.619087",
+  "lng": "-0.76202172"
 }

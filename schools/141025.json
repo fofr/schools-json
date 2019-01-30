@@ -14,5 +14,7 @@
   "url": "www.jubileeprimaryschool.org.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.264252",
+  "lng": "0.48835470"
 }

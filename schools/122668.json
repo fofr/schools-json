@@ -14,5 +14,7 @@
   "url": "www.orston.primarysite.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.962522",
+  "lng": "-0.85413639"
 }

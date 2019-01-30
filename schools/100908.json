@@ -14,5 +14,7 @@
   "url": "www.elizabethselbyschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.528414",
+  "lng": "-0.063528853"
 }

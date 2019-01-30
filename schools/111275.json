@@ -14,5 +14,7 @@
   "url": "littlesutton.cheshire.dbprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.284930",
+  "lng": "-2.9555644"
 }

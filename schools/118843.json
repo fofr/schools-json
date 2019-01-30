@@ -14,5 +14,7 @@
   "url": "http://judd.online",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.188292",
+  "lng": "0.26429390"
 }

@@ -14,5 +14,7 @@
   "url": "www.ascotroadcfs.org.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.649554",
+  "lng": "-0.42240719"
 }

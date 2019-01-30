@@ -14,5 +14,7 @@
   "url": "http://www.southfarnborough-jun.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.283318",
+  "lng": "-0.74024006"
 }

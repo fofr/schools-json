@@ -14,5 +14,7 @@
   "url": "www.st-marysgreen.sheffield.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.475007",
+  "lng": "-1.4844522"
 }

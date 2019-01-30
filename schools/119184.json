@@ -14,5 +14,7 @@
   "url": "www.peel-park.lancsngfl.ac.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.757436",
+  "lng": "-2.3548596"
 }

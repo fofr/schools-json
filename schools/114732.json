@@ -14,5 +14,7 @@
   "url": "http://www.stanway-pri.essex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.885407",
+  "lng": "0.83900415"
 }

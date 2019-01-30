@@ -14,5 +14,7 @@
   "url": "http://elps.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.563359",
+  "lng": "-0.30776454"
 }

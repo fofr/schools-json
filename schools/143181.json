@@ -14,5 +14,7 @@
   "url": "www.poolsbrook.academy",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.256005",
+  "lng": "-1.3384228"
 }

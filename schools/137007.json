@@ -14,5 +14,7 @@
   "url": "http://www.langley.solihull.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.428122",
+  "lng": "-1.8125470"
 }

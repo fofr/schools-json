@@ -14,5 +14,7 @@
   "url": "http://lsmchs.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.685505",
+  "lng": "-2.7102306"
 }

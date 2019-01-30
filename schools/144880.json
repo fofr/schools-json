@@ -14,5 +14,7 @@
   "url": "www.perrycourtacademy.e-act.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.416438",
+  "lng": "-2.5725309"
 }

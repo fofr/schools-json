@@ -14,5 +14,7 @@
   "url": "http://www.stoneydelph.staffs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.617094",
+  "lng": "-1.6546178"
 }

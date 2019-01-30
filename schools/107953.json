@@ -14,5 +14,7 @@
   "url": "www.middletonprimary.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.742769",
+  "lng": "-1.5487594"
 }

@@ -14,5 +14,7 @@
   "url": "www.federationcc.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.528082",
+  "lng": "-1.3885294"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.hants.gov.uk/school/west-end/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.247036",
+  "lng": "-0.77172085"
 }

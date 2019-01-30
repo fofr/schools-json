@@ -14,5 +14,7 @@
   "url": "www.isaacnewton.eschools.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.909132",
+  "lng": "-0.65591394"
 }

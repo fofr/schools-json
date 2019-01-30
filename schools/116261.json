@@ -14,5 +14,7 @@
   "url": "http://www.foundrylaneprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.918816",
+  "lng": "-1.4342374"
 }

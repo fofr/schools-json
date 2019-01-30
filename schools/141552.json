@@ -14,5 +14,7 @@
   "url": "www.st-andrews-pri.cambs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.328047",
+  "lng": "0.33898916"
 }

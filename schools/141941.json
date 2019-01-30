@@ -14,5 +14,7 @@
   "url": "www.utcbolton.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "53.573390",
+  "lng": "-2.4398009"
 }

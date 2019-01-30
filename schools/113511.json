@@ -14,5 +14,7 @@
   "url": "http://www.hcc.devon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.812278",
+  "lng": "-4.3553344"
 }

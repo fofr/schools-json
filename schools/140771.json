@@ -14,5 +14,7 @@
   "url": "http://www.stmarysdorchester.dorset.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.708402",
+  "lng": "-2.4293885"
 }

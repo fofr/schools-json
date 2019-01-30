@@ -14,5 +14,7 @@
   "url": "www.cudham.bromley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.314917",
+  "lng": "0.054752126"
 }

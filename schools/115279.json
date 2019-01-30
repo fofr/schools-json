@@ -14,5 +14,7 @@
   "url": "www.levertoninfants.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.682559",
+  "lng": "0.018987678"
 }

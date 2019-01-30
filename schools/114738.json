@@ -14,5 +14,7 @@
   "url": "http://www.tendring-pri.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.880793",
+  "lng": "1.1160459"
 }

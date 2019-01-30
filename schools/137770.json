@@ -14,5 +14,7 @@
   "url": "http://www.aylesfordschool.org.uk",
   "phase": "All through",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.269900",
+  "lng": "-1.6010618"
 }

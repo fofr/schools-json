@@ -14,5 +14,7 @@
   "url": "www.holyportprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.492509",
+  "lng": "-0.70946238"
 }

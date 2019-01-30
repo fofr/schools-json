@@ -14,5 +14,7 @@
   "url": "www.hexthorpe.doncaster.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.512821",
+  "lng": "-1.1553857"
 }

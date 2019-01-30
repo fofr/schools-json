@@ -14,5 +14,7 @@
   "url": "www.bignold.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.624862",
+  "lng": "1.2863703"
 }

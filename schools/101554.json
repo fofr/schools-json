@@ -14,5 +14,7 @@
   "url": "www.maloreesjuniorschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.541721",
+  "lng": "-0.21473104"
 }

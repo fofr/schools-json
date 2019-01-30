@@ -14,5 +14,7 @@
   "url": "http://www.rydon.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.553496",
+  "lng": "-3.5920846"
 }

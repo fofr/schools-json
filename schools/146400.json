@@ -14,5 +14,7 @@
   "url": "http://www.fordcombe.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.141368",
+  "lng": "0.18034924"
 }

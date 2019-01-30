@@ -14,5 +14,7 @@
   "url": "www.olympicprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.306006",
+  "lng": "-0.72197974"
 }

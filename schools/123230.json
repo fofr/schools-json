@@ -14,5 +14,7 @@
   "url": "http://www.thewarrinerschool.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.026908",
+  "lng": "-1.3675486"
 }

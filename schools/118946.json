@@ -14,5 +14,7 @@
   "url": "http://www.kent-college.co.uk/",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.163512",
+  "lng": "0.32542908"
 }

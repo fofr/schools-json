@@ -14,5 +14,7 @@
   "url": "www.stgeorgescebromley.school",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.403113",
+  "lng": "0.034490954"
 }

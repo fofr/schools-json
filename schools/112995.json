@@ -14,5 +14,7 @@
   "url": "http://www.pingle.derbyshire.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.778077",
+  "lng": "-1.5657029"
 }

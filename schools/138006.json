@@ -14,5 +14,7 @@
   "url": "http://www.delacyacademy.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.704426",
+  "lng": "-1.2422792"
 }

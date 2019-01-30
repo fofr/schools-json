@@ -14,5 +14,7 @@
   "url": "www.tillingtonmanor.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.821715",
+  "lng": "-2.1300692"
 }

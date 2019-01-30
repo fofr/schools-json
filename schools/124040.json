@@ -14,5 +14,7 @@
   "url": "www.victoria.staffs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.812088",
+  "lng": "-1.6391889"
 }

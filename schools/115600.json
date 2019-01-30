@@ -14,5 +14,7 @@
   "url": "http://www.beechgreenprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.827114",
+  "lng": "-2.2818733"
 }

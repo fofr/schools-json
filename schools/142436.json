@@ -14,5 +14,7 @@
   "url": "http://www.muscliffprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.759398",
+  "lng": "-1.8538623"
 }

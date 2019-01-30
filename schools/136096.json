@@ -14,5 +14,7 @@
   "url": "www.cambridgeheath.towerhamlets.sch.uk",
   "phase": "Not applicable",
   "type": "Colleges",
-  "detailed_type": "Sixth form centres"
+  "detailed_type": "Sixth form centres",
+  "lat": "49.766809",
+  "lng": "-7.5571598"
 }

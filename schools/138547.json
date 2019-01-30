@@ -14,5 +14,7 @@
   "url": "www.charltonparkacademy.com",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "51.481779",
+  "lng": "0.046055616"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.wolfreton.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.759073",
+  "lng": "-0.44245155"
 }

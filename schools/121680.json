@@ -14,5 +14,7 @@
   "url": "http://www.richmondschool.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.406710",
+  "lng": "-1.7246346"
 }

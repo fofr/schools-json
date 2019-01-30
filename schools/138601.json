@@ -14,5 +14,7 @@
   "url": "www.hullstudioschool.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "53.746532",
+  "lng": "-0.33210461"
 }

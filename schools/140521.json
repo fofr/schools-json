@@ -14,5 +14,7 @@
   "url": "www.southavenue.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.335663",
+  "lng": "0.74385670"
 }

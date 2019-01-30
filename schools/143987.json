@@ -14,5 +14,7 @@
   "url": "http://www.leybourne.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.302725",
+  "lng": "0.42412288"
 }

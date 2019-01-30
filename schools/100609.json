@@ -14,5 +14,7 @@
   "url": "www.archbishop-sumners-primary.lambeth.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.491601",
+  "lng": "-0.10996179"
 }

@@ -14,5 +14,7 @@
   "url": "www.farnboroughgrange.hants.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.312465",
+  "lng": "-0.76412082"
 }

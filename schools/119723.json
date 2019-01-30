@@ -14,5 +14,7 @@
   "url": "www.whs.lancs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.694869",
+  "lng": "-2.6999080"
 }

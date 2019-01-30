@@ -14,5 +14,7 @@
   "url": "www.puritonprimaryschool.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.167252",
+  "lng": "-2.9730706"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-philips.manchester.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.468855",
+  "lng": "-2.2451445"
 }

@@ -14,5 +14,7 @@
   "url": "www.orfordprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.097122",
+  "lng": "1.5307859"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.togethertrust.org.uk/special-education/inscape-house-school",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Non-maintained special school"
+  "detailed_type": "Non-maintained special school",
+  "lat": "53.383114",
+  "lng": "-2.2123886"
 }

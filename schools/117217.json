@@ -14,5 +14,7 @@
   "url": "http://www.windermere.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.744018",
+  "lng": "-0.30825073"
 }

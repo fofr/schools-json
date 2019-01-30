@@ -14,5 +14,7 @@
   "url": "www.horley.surrey.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.174472",
+  "lng": "-0.16374529"
 }

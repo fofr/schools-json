@@ -14,5 +14,7 @@
   "url": "www.stourfieldjuniors.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.734729",
+  "lng": "-1.8084386"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.charlbury.oxon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.873223",
+  "lng": "-1.4767864"
 }

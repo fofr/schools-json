@@ -14,5 +14,7 @@
   "url": "http://www.gps.rac.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.575517",
+  "lng": "-1.1482925"
 }

@@ -14,5 +14,7 @@
   "url": "www.ruralenterpriseacademy.com",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.702419",
+  "lng": "-2.1172233"
 }

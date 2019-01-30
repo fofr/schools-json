@@ -14,5 +14,7 @@
   "url": "http://www.haringey.gov.uk/heartlandshighschool",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.597740",
+  "lng": "-0.11952080"
 }

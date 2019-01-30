@@ -14,5 +14,7 @@
   "url": "www.stbedescatholicschool.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.504961",
+  "lng": "-2.6565144"
 }

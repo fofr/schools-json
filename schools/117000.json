@@ -14,5 +14,7 @@
   "url": "http://www.princehenrys.worcs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.098905",
+  "lng": "-1.9413714"
 }

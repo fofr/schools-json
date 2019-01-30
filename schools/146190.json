@@ -14,5 +14,7 @@
   "url": "www.spa-education.org",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "51.491738",
+  "lng": "-0.067604417"
 }

@@ -14,5 +14,7 @@
   "url": "www.qegschool.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.651764",
+  "lng": "-0.19679331"
 }

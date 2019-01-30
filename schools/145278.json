@@ -14,5 +14,7 @@
   "url": "www.potters-gate.surrey.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.213908",
+  "lng": "-0.80644869"
 }

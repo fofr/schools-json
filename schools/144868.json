@@ -14,5 +14,7 @@
   "url": "www.bredgar.kent.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.310458",
+  "lng": "0.69677586"
 }

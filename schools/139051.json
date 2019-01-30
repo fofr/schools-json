@@ -14,5 +14,7 @@
   "url": "http://www.merrillacademy.derby.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.889886",
+  "lng": "-1.4423408"
 }

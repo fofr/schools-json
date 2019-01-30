@@ -14,5 +14,7 @@
   "url": "www.williambarcroft.ne-lincs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.563416",
+  "lng": "-0.052314456"
 }

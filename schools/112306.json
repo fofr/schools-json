@@ -14,5 +14,7 @@
   "url": "http://www.rosley.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.818369",
+  "lng": "-3.0663134"
 }

@@ -14,5 +14,7 @@
   "url": "stcharlescatholicprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.375822",
+  "lng": "-2.9471663"
 }

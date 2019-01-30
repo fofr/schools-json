@@ -14,5 +14,7 @@
   "url": "www.paisleyprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.745929",
+  "lng": "-0.37530288"
 }

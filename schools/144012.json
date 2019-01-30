@@ -14,5 +14,7 @@
   "url": "https://www.learnerstrust.org/nwp",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.273606",
+  "lng": "-1.4051216"
 }

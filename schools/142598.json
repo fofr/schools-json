@@ -14,5 +14,7 @@
   "url": "http://www.st-maryscofe.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.095280",
+  "lng": "1.3064039"
 }

@@ -14,5 +14,7 @@
   "url": "www.fearnville.bradford.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.788157",
+  "lng": "-1.7153709"
 }

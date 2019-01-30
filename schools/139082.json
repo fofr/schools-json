@@ -14,5 +14,7 @@
   "url": "http://www.cityofpeterboroughacademy.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.584391",
+  "lng": "-0.22116521"
 }

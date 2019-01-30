@@ -14,5 +14,7 @@
   "url": "www.stmichaels.wandsworth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.450420",
+  "lng": "-0.20410408"
 }

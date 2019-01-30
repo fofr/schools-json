@@ -14,5 +14,7 @@
   "url": "http://www.stjohnsprimary.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.436551",
+  "lng": "0.38672661"
 }

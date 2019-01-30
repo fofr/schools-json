@@ -14,5 +14,7 @@
   "url": "http://www.locking.n-somerset.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.334518",
+  "lng": "-2.9099455"
 }

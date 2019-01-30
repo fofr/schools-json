@@ -14,5 +14,7 @@
   "url": "www.castlehills.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.548173",
+  "lng": "-1.1630888"
 }

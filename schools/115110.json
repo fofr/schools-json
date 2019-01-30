@@ -14,5 +14,7 @@
   "url": "http://www.wethersfieldprisch.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.953373",
+  "lng": "0.48676395"
 }

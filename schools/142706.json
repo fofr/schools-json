@@ -14,5 +14,7 @@
   "url": "www.greatwitley.worcs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.290252",
+  "lng": "-2.3571151"
 }

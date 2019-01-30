@@ -14,5 +14,7 @@
   "url": "http://www.stockton.schoolgrid.net/3315/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.582072",
+  "lng": "-1.3571087"
 }

@@ -14,5 +14,7 @@
   "url": "www.marden.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.173309",
+  "lng": "0.48783226"
 }

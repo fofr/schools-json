@@ -14,5 +14,7 @@
   "url": "www.johnport.derbyshire.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.884218",
+  "lng": "-1.6049313"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.queens.herts.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.658491",
+  "lng": "-0.36903728"
 }

@@ -14,5 +14,7 @@
   "url": "http://gps.n-yorks.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.238228",
+  "lng": "-0.39351073"
 }

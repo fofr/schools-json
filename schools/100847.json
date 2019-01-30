@@ -14,5 +14,7 @@
   "url": "http://www.geoffreychaucer.southwark.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.495598",
+  "lng": "-0.090823030"
 }

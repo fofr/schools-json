@@ -14,5 +14,7 @@
   "url": "www.hotwells.bristol.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.450651",
+  "lng": "-2.6220028"
 }

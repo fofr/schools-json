@@ -14,5 +14,7 @@
   "url": "www.coppicevalley.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.003204",
+  "lng": "-1.5441333"
 }

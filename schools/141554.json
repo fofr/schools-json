@@ -14,5 +14,7 @@
   "url": "www.leistonprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.205255",
+  "lng": "1.5850523"
 }

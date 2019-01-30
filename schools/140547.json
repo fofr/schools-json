@@ -14,5 +14,7 @@
   "url": "http://www.forgevalleysheffield.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.398032",
+  "lng": "-1.5197171"
 }

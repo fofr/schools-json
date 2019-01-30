@@ -14,5 +14,7 @@
   "url": "http://www.st-edwards.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.424811",
+  "lng": "-2.9102864"
 }

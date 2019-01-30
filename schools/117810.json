@@ -14,5 +14,7 @@
   "url": "http://www.priory-primary.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.759431",
+  "lng": "-0.39803687"
 }

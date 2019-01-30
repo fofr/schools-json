@@ -14,5 +14,7 @@
   "url": "http://khalsasecondaryacademy.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.547145",
+  "lng": "-0.57803326"
 }

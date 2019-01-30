@@ -14,5 +14,7 @@
   "url": "http://www.allsaintsfed.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.143042",
+  "lng": "-1.5583251"
 }

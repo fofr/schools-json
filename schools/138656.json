@@ -14,5 +14,7 @@
   "url": "http://www.chandlersridge.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.525446",
+  "lng": "-1.1777644"
 }

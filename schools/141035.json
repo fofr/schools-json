@@ -14,5 +14,7 @@
   "url": "http://www.desalisstudiocollege.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.528380",
+  "lng": "-0.43953030"
 }

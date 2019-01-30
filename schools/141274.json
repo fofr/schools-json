@@ -14,5 +14,7 @@
   "url": "http://www.st-peters.wilts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.460749",
+  "lng": "-2.1419461"
 }

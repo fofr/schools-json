@@ -14,5 +14,7 @@
   "url": "www.milking.dudley.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.515446",
+  "lng": "-2.1127158"
 }

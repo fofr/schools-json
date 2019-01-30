@@ -14,5 +14,7 @@
   "url": "http://www.west-hill.surrey.sch.uk",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "51.309694",
+  "lng": "-0.33615222"
 }

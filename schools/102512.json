@@ -14,5 +14,7 @@
   "url": "www.ivybridgeprimaryschool.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.456235",
+  "lng": "-0.33294542"
 }

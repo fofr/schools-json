@@ -14,5 +14,7 @@
   "url": "http://aslacton.corvuseducation.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.474948",
+  "lng": "1.1767496"
 }

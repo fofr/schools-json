@@ -14,5 +14,7 @@
   "url": "www.hilltop-primary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.477314",
+  "lng": "-1.1955526"
 }

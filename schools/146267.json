@@ -14,5 +14,7 @@
   "url": "www.brumbyjunior.outwood.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.577699",
+  "lng": "-0.64715704"
 }

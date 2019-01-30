@@ -14,5 +14,7 @@
   "url": "http://www.hants.gov.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "50.850592",
+  "lng": "-1.2139699"
 }

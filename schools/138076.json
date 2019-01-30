@@ -14,5 +14,7 @@
   "url": "http://www.elizabethan.notts.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.331194",
+  "lng": "-0.95154381"
 }

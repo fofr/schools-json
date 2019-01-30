@@ -14,5 +14,7 @@
   "url": "http://www.edith-moorhouse.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.758216",
+  "lng": "-1.6025413"
 }

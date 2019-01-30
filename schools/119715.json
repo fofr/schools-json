@@ -14,5 +14,7 @@
   "url": "http://www.pleckgatewebsite.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.767896",
+  "lng": "-2.4883013"
 }

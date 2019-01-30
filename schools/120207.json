@@ -14,5 +14,7 @@
   "url": "http://www.churchlangton.leics.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.533718",
+  "lng": "-0.93227629"
 }

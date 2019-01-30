@@ -14,5 +14,7 @@
   "url": "www.dyca.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.820177",
+  "lng": "-1.4765510"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.woodthorpe-school.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.419378",
+  "lng": "-1.8961023"
 }

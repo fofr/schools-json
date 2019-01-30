@@ -14,5 +14,7 @@
   "url": "www.mayburyprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.765174",
+  "lng": "-0.27988744"
 }

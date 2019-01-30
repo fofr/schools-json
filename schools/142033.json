@@ -14,5 +14,7 @@
   "url": "www.meadroad.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.419162",
+  "lng": "0.072181650"
 }

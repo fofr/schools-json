@@ -14,5 +14,7 @@
   "url": "http://www.gosbecks.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.871990",
+  "lng": "0.86415097"
 }

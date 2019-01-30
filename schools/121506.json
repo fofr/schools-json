@@ -14,5 +14,7 @@
   "url": "http://www.knayton.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.288711",
+  "lng": "-1.3401618"
 }

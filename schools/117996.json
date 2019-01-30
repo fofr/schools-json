@@ -14,5 +14,7 @@
   "url": "http://www.warterschool.eriding.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.942057",
+  "lng": "-0.67936556"
 }

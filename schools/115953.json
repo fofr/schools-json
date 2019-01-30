@@ -14,5 +14,7 @@
   "url": "www.titchfieldprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.852077",
+  "lng": "-1.2359073"
 }

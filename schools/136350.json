@@ -14,5 +14,7 @@
   "url": "http://www.caistorgrammar.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.496570",
+  "lng": "-0.32025179"
 }

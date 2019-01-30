@@ -14,5 +14,7 @@
   "url": "http://www.hanleyswanprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.080065",
+  "lng": "-2.2763443"
 }

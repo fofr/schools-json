@@ -14,5 +14,7 @@
   "url": "http://www.brinkleygrove.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.915823",
+  "lng": "0.91909326"
 }

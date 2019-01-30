@@ -14,5 +14,7 @@
   "url": "http://www.freemantleacademy.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.911845",
+  "lng": "-1.4263991"
 }

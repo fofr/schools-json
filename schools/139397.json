@@ -14,5 +14,7 @@
   "url": "www.milton-court.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.351027",
+  "lng": "0.73335632"
 }

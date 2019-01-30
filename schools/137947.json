@@ -14,5 +14,7 @@
   "url": "http://www.biggleswadeacademy.org",
   "phase": "Middle deemed primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.080356",
+  "lng": "-0.25344529"
 }

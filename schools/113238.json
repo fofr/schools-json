@@ -14,5 +14,7 @@
   "url": "http://www.chestnut-primary.torbay.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.380953",
+  "lng": "-3.5337508"
 }

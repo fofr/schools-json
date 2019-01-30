@@ -14,5 +14,7 @@
   "url": "www.wyndham.newcastle.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.998928",
+  "lng": "-1.6415004"
 }

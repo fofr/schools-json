@@ -14,5 +14,7 @@
   "url": "http://www.stjamesexeter.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.738523",
+  "lng": "-3.4953195"
 }

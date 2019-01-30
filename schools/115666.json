@@ -14,5 +14,7 @@
   "url": "http://www.holytrinity.gloucs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.901859",
+  "lng": "-2.0685990"
 }

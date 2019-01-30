@@ -14,5 +14,7 @@
   "url": "http://www.longwood.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.618156",
+  "lng": "-1.7273540"
 }

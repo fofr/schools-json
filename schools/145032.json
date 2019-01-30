@@ -14,5 +14,7 @@
   "url": "www.greathorwood.bucks.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.974923",
+  "lng": "-0.88031266"
 }

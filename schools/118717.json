@@ -14,5 +14,7 @@
   "url": "www.sissinghurst.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.111901",
+  "lng": "0.55527226"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.langdaleprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.995550",
+  "lng": "-2.2307124"
 }

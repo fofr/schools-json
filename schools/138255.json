@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.792116",
+  "lng": "1.1199189"
 }

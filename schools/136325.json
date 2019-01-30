@@ -14,5 +14,7 @@
   "url": "http://www.rabutleracademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.019811",
+  "lng": "0.24508344"
 }

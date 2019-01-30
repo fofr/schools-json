@@ -14,5 +14,7 @@
   "url": "www.occoldprimaryschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.291828",
+  "lng": "1.1617000"
 }

@@ -14,5 +14,7 @@
   "url": "www.marazion.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.125710",
+  "lng": "-5.4652290"
 }

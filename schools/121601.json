@@ -14,5 +14,7 @@
   "url": "www.forestofgaltresprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.020185",
+  "lng": "-1.1608648"
 }

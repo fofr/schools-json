@@ -14,5 +14,7 @@
   "url": "www.kensington-junior.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.964478",
+  "lng": "-1.2992571"
 }

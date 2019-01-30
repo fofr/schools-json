@@ -14,5 +14,7 @@
   "url": "http://www.stuartroad.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.377388",
+  "lng": "-4.1557906"
 }

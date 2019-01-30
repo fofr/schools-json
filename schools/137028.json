@@ -14,5 +14,7 @@
   "url": "www.nowerhill.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.590708",
+  "lng": "-0.36514291"
 }

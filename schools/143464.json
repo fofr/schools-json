@@ -14,5 +14,7 @@
   "url": "www.crockerne.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.476320",
+  "lng": "-2.6882846"
 }

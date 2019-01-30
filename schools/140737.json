@@ -14,5 +14,7 @@
   "url": "http://www.ndonline.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.421526",
+  "lng": "-4.1273151"
 }

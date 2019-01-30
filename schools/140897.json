@@ -14,5 +14,7 @@
   "url": "www.mawgan-in-pydar.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.454235",
+  "lng": "-4.9970360"
 }

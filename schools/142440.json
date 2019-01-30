@@ -14,5 +14,7 @@
   "url": "https://www.pearsonprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.754603",
+  "lng": "-0.35349030"
 }

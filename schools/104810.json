@@ -14,5 +14,7 @@
   "url": "www.sspeterandpaulprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.470177",
+  "lng": "-2.7251592"
 }

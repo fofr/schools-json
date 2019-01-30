@@ -14,5 +14,7 @@
   "url": "http://www.rs.starmat.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.885291",
+  "lng": "-1.2691518"
 }

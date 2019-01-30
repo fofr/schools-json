@@ -14,5 +14,7 @@
   "url": "http://www.waltonjuniors.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.604703",
+  "lng": "-0.26612214"
 }

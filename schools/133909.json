@@ -14,5 +14,7 @@
   "url": "http://www.ulsop.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.525083",
+  "lng": "-0.12245809"
 }

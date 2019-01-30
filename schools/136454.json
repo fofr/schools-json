@@ -14,5 +14,7 @@
   "url": "http://www.oakgrove.milton-keynes.sch.uk/",
   "phase": "All through",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.038945",
+  "lng": "-0.70938728"
 }

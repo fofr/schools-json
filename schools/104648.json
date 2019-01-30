@@ -14,5 +14,7 @@
   "url": "http://www.mystclares.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.394307",
+  "lng": "-2.9330347"
 }

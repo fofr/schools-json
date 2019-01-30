@@ -14,5 +14,7 @@
   "url": "www.farfieldprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.761408",
+  "lng": "-1.7942768"
 }

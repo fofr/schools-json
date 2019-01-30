@@ -14,5 +14,7 @@
   "url": "http://www.smcc.devon.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.012606",
+  "lng": "-3.8340009"
 }

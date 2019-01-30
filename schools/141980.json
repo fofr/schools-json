@@ -14,5 +14,7 @@
   "url": "http://www.st-augustines.halton.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.339581",
+  "lng": "-2.6901249"
 }

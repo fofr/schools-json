@@ -14,5 +14,7 @@
   "url": "www.ewmeschools.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.296877",
+  "lng": "-0.46565941"
 }

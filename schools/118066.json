@@ -14,5 +14,7 @@
   "url": "http://www.herefordtechnologyschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.555739",
+  "lng": "-0.10043533"
 }

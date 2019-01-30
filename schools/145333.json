@@ -14,5 +14,7 @@
   "url": "www.ntcps.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.798664",
+  "lng": "-3.8942376"
 }

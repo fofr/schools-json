@@ -14,5 +14,7 @@
   "url": "www.broomhaugh.northumberland.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.945958",
+  "lng": "-1.9735864"
 }

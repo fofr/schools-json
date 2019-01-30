@@ -14,5 +14,7 @@
   "url": "www.troon.cornwall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.194352",
+  "lng": "-5.2757155"
 }

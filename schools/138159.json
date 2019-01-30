@@ -14,5 +14,7 @@
   "url": "www.gilslandprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.989005",
+  "lng": "-2.5780508"
 }

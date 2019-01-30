@@ -14,5 +14,7 @@
   "url": "www.eps.barking-dagenham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.536435",
+  "lng": "0.10112371"
 }

@@ -14,5 +14,7 @@
   "url": "www.cottinghamprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.503520",
+  "lng": "-0.75986898"
 }

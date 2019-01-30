@@ -14,5 +14,7 @@
   "url": "www.rothersthorpeceprimary.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.203952",
+  "lng": "-0.95607372"
 }

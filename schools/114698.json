@@ -14,5 +14,7 @@
   "url": "www.tanglewoodnurseryschool.co.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.749911",
+  "lng": "0.45631417"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.parkside.plymouth.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.377703",
+  "lng": "-4.1755808"
 }

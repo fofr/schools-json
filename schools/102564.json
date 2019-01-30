@@ -14,5 +14,7 @@
   "url": "http://www.burlingtonj.kingston.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.399422",
+  "lng": "-0.24795098"
 }

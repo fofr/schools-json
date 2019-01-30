@@ -14,5 +14,7 @@
   "url": "http://www.goffs.herts.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.706421",
+  "lng": "-0.057050990"
 }

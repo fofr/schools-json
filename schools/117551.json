@@ -14,5 +14,7 @@
   "url": "http://www.chauncy.herts.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.814890",
+  "lng": "-0.045381115"
 }

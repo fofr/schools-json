@@ -14,5 +14,7 @@
   "url": "http://www.golbornehigh.wigan.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.480823",
+  "lng": "-2.5871617"
 }

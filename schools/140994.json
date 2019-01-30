@@ -14,5 +14,7 @@
   "url": "www.parlauntparkprimaryacademy.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.503766",
+  "lng": "-0.53409829"
 }

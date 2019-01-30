@@ -14,5 +14,7 @@
   "url": "www.wallacefieldsinfantschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.334605",
+  "lng": "-0.24748010"
 }

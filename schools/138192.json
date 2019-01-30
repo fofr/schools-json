@@ -14,5 +14,7 @@
   "url": "http://www.ryversschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.503637",
+  "lng": "-0.56146386"
 }

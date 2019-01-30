@@ -14,5 +14,7 @@
   "url": "http://www.winford.n-somerset.sch.uk/website",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.382896",
+  "lng": "-2.6633013"
 }

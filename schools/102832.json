@@ -14,5 +14,7 @@
   "url": "http://www.snaresbrook.redbridge.dbprimary.com/redbridge/primary/snaresbrook",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.585624",
+  "lng": "0.023897047"
 }

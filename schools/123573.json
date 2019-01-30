@@ -14,5 +14,7 @@
   "url": "http://www.meolebrace.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.692252",
+  "lng": "-2.7687324"
 }

@@ -14,5 +14,7 @@
   "url": "www.crossdaleschool.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.880634",
+  "lng": "-1.0899262"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.furnessacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.116619",
+  "lng": "-3.2107969"
 }

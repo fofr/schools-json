@@ -14,5 +14,7 @@
   "url": "http://www.chyngton-primary.e-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.779495",
+  "lng": "0.12556857"
 }

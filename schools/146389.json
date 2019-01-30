@@ -14,5 +14,7 @@
   "url": "www.ststeathschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.593872",
+  "lng": "-4.7369565"
 }

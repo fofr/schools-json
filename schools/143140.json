@@ -14,5 +14,7 @@
   "url": "www.theparkgateacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.208140",
+  "lng": "-1.0016999"
 }

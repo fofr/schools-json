@@ -14,5 +14,7 @@
   "url": "www.stbenedictsonline.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.571505",
+  "lng": "-1.5333666"
 }

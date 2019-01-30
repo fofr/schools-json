@@ -14,5 +14,7 @@
   "url": "www.wickhambreaux-school.ik.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.283945",
+  "lng": "1.1845330"
 }

@@ -14,5 +14,7 @@
   "url": "www.stokestudiocollege.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "53.047381",
+  "lng": "-2.1848072"
 }

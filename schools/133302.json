@@ -14,5 +14,7 @@
   "url": "www.allsaints.newcastle.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.994122",
+  "lng": "-1.6985146"
 }

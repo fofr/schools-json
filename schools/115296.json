@@ -14,5 +14,7 @@
   "url": "http://www.heybridge.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.743160",
+  "lng": "0.69761619"
 }

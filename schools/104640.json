@@ -14,5 +14,7 @@
   "url": "http://www.st-finbars.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.380491",
+  "lng": "-2.9612962"
 }

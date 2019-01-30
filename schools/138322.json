@@ -14,5 +14,7 @@
   "url": "http://www.ourladys.herts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.964138",
+  "lng": "-0.27783565"
 }

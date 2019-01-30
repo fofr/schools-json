@@ -14,5 +14,7 @@
   "url": "www.grimoldbyschool.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.366722",
+  "lng": "0.093832965"
 }

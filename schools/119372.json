@@ -14,5 +14,7 @@
   "url": "www.ormskirk-ce.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.570578",
+  "lng": "-2.8758895"
 }

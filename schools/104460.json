@@ -14,5 +14,7 @@
   "url": "www.stluke.knowsley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.420201",
+  "lng": "-2.7915094"
 }

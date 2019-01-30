@@ -14,5 +14,7 @@
   "url": "http://www.inspirationtrust.org/janeaustencollege",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.632757",
+  "lng": "1.2932004"
 }

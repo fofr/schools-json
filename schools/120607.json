@@ -14,5 +14,7 @@
   "url": "http://www.aspire.school",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.661395",
+  "lng": "-0.47368581"
 }

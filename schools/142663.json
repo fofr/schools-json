@@ -14,5 +14,7 @@
   "url": "www.hucklow.sheffield.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.413494",
+  "lng": "-1.4531959"
 }

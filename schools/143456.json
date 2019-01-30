@@ -14,5 +14,7 @@
   "url": "www.crontonce.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.390937",
+  "lng": "-2.7633583"
 }

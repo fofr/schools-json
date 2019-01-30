@@ -14,5 +14,7 @@
   "url": "www.blenheimprimaryschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.806974",
+  "lng": "-1.5472961"
 }

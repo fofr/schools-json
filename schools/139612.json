@@ -14,5 +14,7 @@
   "url": "www.theferrarsacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.897171",
+  "lng": "-0.47982127"
 }

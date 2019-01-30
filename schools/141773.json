@@ -14,5 +14,7 @@
   "url": "www.ellistonprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.567281",
+  "lng": "-0.045658260"
 }

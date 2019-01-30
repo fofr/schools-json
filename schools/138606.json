@@ -14,5 +14,7 @@
   "url": "http://www.bluecoatacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.581123",
+  "lng": "-1.9757979"
 }

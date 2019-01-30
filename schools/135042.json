@@ -14,5 +14,7 @@
   "url": "www.hartlebury.worcs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.337277",
+  "lng": "-2.2364846"
 }

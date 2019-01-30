@@ -14,5 +14,7 @@
   "url": "http://windmillhill.sheffield.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.458173",
+  "lng": "-1.4804692"
 }

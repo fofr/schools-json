@@ -14,5 +14,7 @@
   "url": "http://www.stbedescc.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.504961",
+  "lng": "-2.6565144"
 }

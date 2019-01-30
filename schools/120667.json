@@ -14,5 +14,7 @@
   "url": "http://www.bourneabbey.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.767129",
+  "lng": "-0.37004436"
 }

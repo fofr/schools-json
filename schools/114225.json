@@ -14,5 +14,7 @@
   "url": "www.ingleton.durham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.579729",
+  "lng": "-1.7377656"
 }

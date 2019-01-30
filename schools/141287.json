@@ -14,5 +14,7 @@
   "url": "http://www.eastallingtonprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.321970",
+  "lng": "-3.7292969"
 }

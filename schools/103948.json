@@ -14,5 +14,7 @@
   "url": "www.moatfarm-jun.sandwell.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.483441",
+  "lng": "-1.9992641"
 }

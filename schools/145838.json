@@ -14,5 +14,7 @@
   "url": "http://www.powick.worcs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.158320",
+  "lng": "-2.2561012"
 }

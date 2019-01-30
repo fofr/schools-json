@@ -14,5 +14,7 @@
   "url": "www.rosslyn.nottingham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.984545",
+  "lng": "-1.2067299"
 }

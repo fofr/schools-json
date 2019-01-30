@@ -14,5 +14,7 @@
   "url": "www.loose-primary.kent.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.244396",
+  "lng": "0.52184442"
 }

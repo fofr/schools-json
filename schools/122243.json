@@ -14,5 +14,7 @@
   "url": "www.mowbrayprimary.northumberland.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.162080",
+  "lng": "-1.5955421"
 }

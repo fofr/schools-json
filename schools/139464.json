@@ -14,5 +14,7 @@
   "url": "www.sundorne.sat.coop",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.731624",
+  "lng": "-2.7235613"
 }

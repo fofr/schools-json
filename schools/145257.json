@@ -14,5 +14,7 @@
   "url": "http://www.waterside.herts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.812394",
+  "lng": "-0.18240982"
 }

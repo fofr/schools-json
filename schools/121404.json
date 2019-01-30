@@ -14,5 +14,7 @@
   "url": "http://www.glasshouses.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.075758",
+  "lng": "-1.7394206"
 }

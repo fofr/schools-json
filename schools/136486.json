@@ -14,5 +14,7 @@
   "url": "townend.wiseacademies.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.929996",
+  "lng": "-1.4594228"
 }

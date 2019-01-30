@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.630014",
+  "lng": "-0.0072311115"
 }

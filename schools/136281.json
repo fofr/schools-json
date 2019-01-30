@@ -14,5 +14,7 @@
   "url": "http://www.ktc-tkat.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.411874",
+  "lng": "0.11016190"
 }

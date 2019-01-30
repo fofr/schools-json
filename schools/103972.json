@@ -14,5 +14,7 @@
   "url": "www.grovevale.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.546152",
+  "lng": "-1.9465752"
 }

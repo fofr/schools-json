@@ -14,5 +14,7 @@
   "url": "www.stfrancisprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.397407",
+  "lng": "-0.67227900"
 }

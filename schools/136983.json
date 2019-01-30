@@ -14,5 +14,7 @@
   "url": "http://www.suckleyschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.161994",
+  "lng": "-2.4100163"
 }

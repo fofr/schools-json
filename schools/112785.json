@@ -14,5 +14,7 @@
   "url": "www.longrow.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.027562",
+  "lng": "-1.4851636"
 }

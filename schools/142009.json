@@ -14,5 +14,7 @@
   "url": "http://hoevalleyschool.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.298989",
+  "lng": "-0.57300478"
 }

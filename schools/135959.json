@@ -14,5 +14,7 @@
   "url": "www.bristolmet.net",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.480528",
+  "lng": "-2.5388018"
 }

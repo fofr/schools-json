@@ -14,5 +14,7 @@
   "url": "http://www.aston.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.486637",
+  "lng": "-1.8909520"
 }

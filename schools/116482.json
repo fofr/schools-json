@@ -14,5 +14,7 @@
   "url": "http://www.abbotswood.hants.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.918509",
+  "lng": "-1.5010464"
 }

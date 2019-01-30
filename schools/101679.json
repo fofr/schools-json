@@ -14,5 +14,7 @@
   "url": "www.ravensbourne.info",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.394017",
+  "lng": "0.020704396"
 }

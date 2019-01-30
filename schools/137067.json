@@ -14,5 +14,7 @@
   "url": "http://greenstreetgreenprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.352506",
+  "lng": "0.091893121"
 }

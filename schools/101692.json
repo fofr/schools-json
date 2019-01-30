@@ -14,5 +14,7 @@
   "url": "http://schoolsite.edex.net.UK/77/",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.395300",
+  "lng": "0.057101535"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.ktc.bromley.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.411874",
+  "lng": "0.11016190"
 }

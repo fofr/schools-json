@@ -14,5 +14,7 @@
   "url": "http://www.ourladys-jun.northants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.294899",
+  "lng": "-0.71169769"
 }

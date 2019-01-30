@@ -14,5 +14,7 @@
   "url": "www.chilmingtongreen.kent.sch.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.141171",
+  "lng": "0.85995447"
 }

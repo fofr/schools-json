@@ -14,5 +14,7 @@
   "url": "www.ryeprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.954799",
+  "lng": "0.72982657"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stjohnsceprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.766193",
+  "lng": "-1.7203131"
 }

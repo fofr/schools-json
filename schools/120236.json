@@ -14,5 +14,7 @@
   "url": "www.charnwoodcollege.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.769940",
+  "lng": "-1.2401902"
 }

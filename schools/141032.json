@@ -14,5 +14,7 @@
   "url": "http://www.rushdenprimaryacademy.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.280174",
+  "lng": "-0.58460780"
 }

@@ -14,5 +14,7 @@
   "url": "www.acorntrust.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.512861",
+  "lng": "-2.5287026"
 }

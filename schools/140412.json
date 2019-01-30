@@ -14,5 +14,7 @@
   "url": "http://lordderbyacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.411355",
+  "lng": "-2.8338900"
 }

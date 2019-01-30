@@ -14,5 +14,7 @@
   "url": "http://www.leftwichhigh.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.241882",
+  "lng": "-2.5072092"
 }

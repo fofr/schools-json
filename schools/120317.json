@@ -14,5 +14,7 @@
   "url": "www.olcs.leics.sch.uk",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "52.765334",
+  "lng": "-1.2066575"
 }

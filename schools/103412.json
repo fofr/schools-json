@@ -14,5 +14,7 @@
   "url": "www.stbarnabas-erdington.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.520811",
+  "lng": "-1.8323735"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.st-michaels-jun.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.699585",
+  "lng": "0.47476040"
 }

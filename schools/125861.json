@@ -14,5 +14,7 @@
   "url": "http://www.whytemead.w-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.826619",
+  "lng": "-0.36532557"
 }

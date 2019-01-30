@@ -14,5 +14,7 @@
   "url": "www.sinclairlive.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.945716",
+  "lng": "-1.4442737"
 }

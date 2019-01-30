@@ -14,5 +14,7 @@
   "url": "http://www.st-marys-whitstable.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.361211",
+  "lng": "1.0383045"
 }

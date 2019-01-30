@@ -14,5 +14,7 @@
   "url": "http://www.stokepark.coventry.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.413784",
+  "lng": "-1.4753118"
 }

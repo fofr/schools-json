@@ -14,5 +14,7 @@
   "url": "http://www.cranfield.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.073918",
+  "lng": "-0.62875548"
 }

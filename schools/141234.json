@@ -14,5 +14,7 @@
   "url": "www.ryhallprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.683539",
+  "lng": "-0.46738103"
 }

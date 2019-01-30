@@ -14,5 +14,7 @@
   "url": "www.ankermoor.staffs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.635282",
+  "lng": "-1.6742158"
 }

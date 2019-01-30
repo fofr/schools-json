@@ -14,5 +14,7 @@
   "url": "http://www.deerpark.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.199806",
+  "lng": "-1.4402446"
 }

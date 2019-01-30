@@ -14,5 +14,7 @@
   "url": "www.horningsham.schnet.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.171281",
+  "lng": "-2.2598446"
 }

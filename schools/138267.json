@@ -14,5 +14,7 @@
   "url": "http://arkbolingbrokeacademy.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.456125",
+  "lng": "-0.16828397"
 }

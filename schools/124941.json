@@ -14,5 +14,7 @@
   "url": "www.stcatherinesprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.238052",
+  "lng": "-0.093969405"
 }

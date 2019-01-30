@@ -14,5 +14,7 @@
   "url": "www.edithcavell.ik.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.147769",
+  "lng": "-0.47758624"
 }

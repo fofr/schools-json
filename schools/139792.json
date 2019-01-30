@@ -14,5 +14,7 @@
   "url": "http://www.utclancashire.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "53.789760",
+  "lng": "-2.2548761"
 }

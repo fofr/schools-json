@@ -14,5 +14,7 @@
   "url": "http://www.stursulas.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.487098",
+  "lng": "-2.6143039"
 }

@@ -14,5 +14,7 @@
   "url": "www.epinf.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.812569",
+  "lng": "-0.48089282"
 }

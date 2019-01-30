@@ -14,5 +14,7 @@
   "url": "www.northgateprimaryschool.org.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.130979",
+  "lng": "-3.0057356"
 }

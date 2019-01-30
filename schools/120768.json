@@ -14,5 +14,7 @@
   "url": "office@greenwoodcentre.centralnps.norfolk.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "52.609261",
+  "lng": "1.2859398"
 }

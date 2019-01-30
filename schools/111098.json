@@ -14,5 +14,7 @@
   "url": "http://www.egerton.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.303231",
+  "lng": "-2.3764099"
 }

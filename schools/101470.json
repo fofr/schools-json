@@ -14,5 +14,7 @@
   "url": "http://schoolsite.edex.net.uk/736/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.457815",
+  "lng": "0.14605110"
 }

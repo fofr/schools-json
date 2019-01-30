@@ -14,5 +14,7 @@
   "url": "http://www.shrewsburyacademiestrust.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.734756",
+  "lng": "-2.7405411"
 }

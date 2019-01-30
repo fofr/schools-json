@@ -14,5 +14,7 @@
   "url": "www.queensdriveinfantschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.585876",
+  "lng": "-0.24045730"
 }

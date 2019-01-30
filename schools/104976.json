@@ -14,5 +14,7 @@
   "url": "www.birkdale-school.merseyside.org",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Non-maintained special school"
+  "detailed_type": "Non-maintained special school",
+  "lat": "53.631841",
+  "lng": "-3.0297311"
 }

@@ -14,5 +14,7 @@
   "url": "www.stmarysce.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.057114",
+  "lng": "-2.2126600"
 }

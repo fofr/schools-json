@@ -14,5 +14,7 @@
   "url": "www.wendron.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.131106",
+  "lng": "-5.2512101"
 }

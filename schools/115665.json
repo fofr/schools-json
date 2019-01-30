@@ -14,5 +14,7 @@
   "url": "http://www.siddington.gloucs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.697831",
+  "lng": "-1.9593238"
 }

@@ -14,5 +14,7 @@
   "url": "www.rivingtonprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.462229",
+  "lng": "-2.7516535"
 }

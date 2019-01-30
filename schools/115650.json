@@ -14,5 +14,7 @@
   "url": "http://www.annedwards.gloucs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.669121",
+  "lng": "-1.9366186"
 }

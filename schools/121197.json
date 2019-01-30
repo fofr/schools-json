@@ -14,5 +14,7 @@
   "url": "http://www.southwootton-jun.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.774962",
+  "lng": "0.42909992"
 }

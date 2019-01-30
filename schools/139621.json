@@ -14,5 +14,7 @@
   "url": "www.sleafordourlady.schools.uk.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.001679",
+  "lng": "-0.41946283"
 }

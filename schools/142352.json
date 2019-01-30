@@ -14,5 +14,7 @@
   "url": "www.hillview.bournemouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.755936",
+  "lng": "-1.8857986"
 }

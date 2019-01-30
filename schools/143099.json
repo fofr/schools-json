@@ -14,5 +14,7 @@
   "url": "www.stuny.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.190700",
+  "lng": "-5.4643307"
 }

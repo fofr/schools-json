@@ -14,5 +14,7 @@
   "url": "http://www.hendreds.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.594937",
+  "lng": "-1.3426555"
 }

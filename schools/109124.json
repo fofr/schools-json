@@ -14,5 +14,7 @@
   "url": "www.compasspoint.bristol.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.438013",
+  "lng": "-2.6057466"
 }

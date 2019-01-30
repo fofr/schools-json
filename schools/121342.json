@@ -14,5 +14,7 @@
   "url": "http://www.sheriffhuttonschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.089625",
+  "lng": "-1.0105379"
 }

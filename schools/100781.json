@@ -14,5 +14,7 @@
   "url": "www.charlesdickens.southwark.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.501141",
+  "lng": "-0.096570829"
 }

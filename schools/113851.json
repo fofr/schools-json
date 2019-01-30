@@ -14,5 +14,7 @@
   "url": "http://www.stmichaelslyme.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.728629",
+  "lng": "-2.9334900"
 }

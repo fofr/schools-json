@@ -14,5 +14,7 @@
   "url": "www.pennybridge.cumbria.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.234677",
+  "lng": "-3.0569900"
 }

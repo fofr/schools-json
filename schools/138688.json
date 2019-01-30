@@ -14,5 +14,7 @@
   "url": "www.avanti.org.uk/kapsharrow/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.604123",
+  "lng": "-0.28068971"
 }

@@ -14,5 +14,7 @@
   "url": "www.acklamwhin.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.535683",
+  "lng": "-1.2599480"
 }

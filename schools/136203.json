@@ -14,5 +14,7 @@
   "url": "http://thequestacademy.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.350914",
+  "lng": "-0.049825030"
 }

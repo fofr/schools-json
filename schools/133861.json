@@ -14,5 +14,7 @@
   "url": "http://www.ram.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.523615",
+  "lng": "-0.15175275"
 }

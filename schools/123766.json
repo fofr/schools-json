@@ -14,5 +14,7 @@
   "url": "www.lovingtonschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.081423",
+  "lng": "-2.5820889"
 }

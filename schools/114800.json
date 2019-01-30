@@ -14,5 +14,7 @@
   "url": "http://www.moulsham-jun.essex.sch.uk/index.htm",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.720503",
+  "lng": "0.47090741"
 }

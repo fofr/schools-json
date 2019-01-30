@@ -14,5 +14,7 @@
   "url": "http://www.hockley-heath-school.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.352288",
+  "lng": "-1.7799807"
 }

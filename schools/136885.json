@@ -14,5 +14,7 @@
   "url": "http://www.barrbeaconschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.562540",
+  "lng": "-1.9154588"
 }

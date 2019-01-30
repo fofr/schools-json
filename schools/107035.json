@@ -14,5 +14,7 @@
   "url": "www.dobcroft-jun.sheffield.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.346791",
+  "lng": "-1.5094325"
 }

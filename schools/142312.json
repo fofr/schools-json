@@ -14,5 +14,7 @@
   "url": "www.stottesdon.shropshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.441761",
+  "lng": "-2.4819012"
 }

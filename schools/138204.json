@@ -14,5 +14,7 @@
   "url": "http://bedminsterdown.net/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.421724",
+  "lng": "-2.6204881"
 }

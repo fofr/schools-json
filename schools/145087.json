@@ -14,5 +14,7 @@
   "url": "www.rosetta.boleyntrust.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.515702",
+  "lng": "0.027310608"
 }

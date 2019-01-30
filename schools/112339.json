@@ -14,5 +14,7 @@
   "url": "http://www.stgregorys.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.630519",
+  "lng": "-3.5491432"
 }

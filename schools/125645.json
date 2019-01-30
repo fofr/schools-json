@@ -14,5 +14,7 @@
   "url": "www.salfordpriorsprimary.ik.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.161861",
+  "lng": "-1.8962190"
 }

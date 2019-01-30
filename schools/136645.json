@@ -14,5 +14,7 @@
   "url": "http://www.christletonhigh.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.183184",
+  "lng": "-2.8331971"
 }

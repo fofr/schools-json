@@ -14,5 +14,7 @@
   "url": "www.wistastonacademytrust.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.090982",
+  "lng": "-2.4659969"
 }

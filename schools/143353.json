@@ -14,5 +14,7 @@
   "url": "www.pertonacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.595872",
+  "lng": "-2.1987100"
 }

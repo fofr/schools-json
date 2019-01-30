@@ -14,5 +14,7 @@
   "url": "http://www.freemansendowed.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.302683",
+  "lng": "-0.70415339"
 }

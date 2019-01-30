@@ -14,5 +14,7 @@
   "url": "http://schoolsite.edex.net.uk/335/index.htm",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.161783",
+  "lng": "-0.46342365"
 }

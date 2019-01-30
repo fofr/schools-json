@@ -14,5 +14,7 @@
   "url": "www.barnehurstfederation.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.469287",
+  "lng": "0.16235607"
 }

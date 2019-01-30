@@ -14,5 +14,7 @@
   "url": "www.christtheking.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.102255",
+  "lng": "-1.3834852"
 }

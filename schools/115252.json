@@ -14,5 +14,7 @@
   "url": "http://www.coppinsgreen.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.801029",
+  "lng": "1.1466036"
 }

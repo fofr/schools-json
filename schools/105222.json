@@ -14,5 +14,7 @@
   "url": "http://www.st-ethelberts.bolton.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.568380",
+  "lng": "-2.4552561"
 }

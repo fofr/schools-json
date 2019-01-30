@@ -14,5 +14,7 @@
   "url": "www.tranmerepark.leeds.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.871392",
+  "lng": "-1.7260608"
 }

@@ -14,5 +14,7 @@
   "url": "www.queensburyacademy.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.878239",
+  "lng": "-0.52824210"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.winford.n-somerset.sch.uk/website",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.383639",
+  "lng": "-2.6655106"
 }

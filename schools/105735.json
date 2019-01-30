@@ -14,5 +14,7 @@
   "url": "http://www.failsworthlg.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.506741",
+  "lng": "-2.1469823"
 }

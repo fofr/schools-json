@@ -14,5 +14,7 @@
   "url": "http://www.nortonhillschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.280804",
+  "lng": "-2.4809599"
 }

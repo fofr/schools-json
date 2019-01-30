@@ -14,5 +14,7 @@
   "url": "www.greatbudworth.cheshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.294177",
+  "lng": "-2.5036430"
 }

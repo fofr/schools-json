@@ -14,5 +14,7 @@
   "url": "www.dedworthgreenfirst.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.478865",
+  "lng": "-0.64537709"
 }

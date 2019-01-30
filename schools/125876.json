@@ -14,5 +14,7 @@
   "url": "http://www.buckingham.w-sussex.sch.uk/",
   "phase": "Middle deemed primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.838105",
+  "lng": "-0.26935476"
 }

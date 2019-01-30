@@ -14,5 +14,7 @@
   "url": "www.cambridgeschool.hants.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.259342",
+  "lng": "-0.76273672"
 }

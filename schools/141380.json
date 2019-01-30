@@ -14,5 +14,7 @@
   "url": "http://www.netacademies.net/abbotsweld/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.757039",
+  "lng": "0.097728714"
 }

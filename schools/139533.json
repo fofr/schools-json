@@ -14,5 +14,7 @@
   "url": "www.holyfamilyprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.535574",
+  "lng": "-1.5804453"
 }

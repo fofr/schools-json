@@ -14,5 +14,7 @@
   "url": "http://www.priesthorpe.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.810701",
+  "lng": "-1.6873512"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.montgomery.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.718394",
+  "lng": "-3.5444586"
 }

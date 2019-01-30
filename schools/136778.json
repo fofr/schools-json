@@ -14,5 +14,7 @@
   "url": "http://www.suttcold.bham.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.554277",
+  "lng": "-1.8298126"
 }

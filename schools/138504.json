@@ -14,5 +14,7 @@
   "url": "www.elaine.medway.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.393989",
+  "lng": "0.47710406"
 }

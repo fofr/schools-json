@@ -14,5 +14,7 @@
   "url": "www.arretoncepri.iow.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.676521",
+  "lng": "-1.2428364"
 }

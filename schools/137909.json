@@ -14,5 +14,7 @@
   "url": "http://www.priorycatholicschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.012767",
+  "lng": "-1.2944510"
 }

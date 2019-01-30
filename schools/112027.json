@@ -14,5 +14,7 @@
   "url": "http://www.millbrook.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.350471",
+  "lng": "-4.2177867"
 }

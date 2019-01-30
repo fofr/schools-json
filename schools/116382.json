@@ -14,5 +14,7 @@
   "url": "www.sjbschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.204808",
+  "lng": "-1.5022266"
 }

@@ -14,5 +14,7 @@
   "url": "www.federationofgunnislakeanddelaware.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.523772",
+  "lng": "-4.2146167"
 }

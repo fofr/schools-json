@@ -14,5 +14,7 @@
   "url": "www.northbourne-school.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.598300",
+  "lng": "-1.2481714"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-teresas.bristol.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.500398",
+  "lng": "-2.5896172"
 }

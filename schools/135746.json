@@ -14,5 +14,7 @@
   "url": "www.alexandrapark-pri.stockport.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.399387",
+  "lng": "-2.1765703"
 }

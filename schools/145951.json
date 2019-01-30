@@ -14,5 +14,7 @@
   "url": "https://www.pilgrims-way.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.271428",
+  "lng": "1.0982912"
 }

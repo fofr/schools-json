@@ -14,5 +14,7 @@
   "url": "www.levertonacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.330841",
+  "lng": "-0.82118159"
 }

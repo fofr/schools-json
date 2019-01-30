@@ -14,5 +14,7 @@
   "url": "http://stjohnthebaptistprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.928950",
+  "lng": "-1.1990045"
 }

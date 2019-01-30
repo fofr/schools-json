@@ -14,5 +14,7 @@
   "url": "http://www.brightlingsea.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.812250",
+  "lng": "1.0216672"
 }

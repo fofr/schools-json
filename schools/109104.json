@@ -14,5 +14,7 @@
   "url": "http://www.oldmixonprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.322958",
+  "lng": "-2.9557835"
 }

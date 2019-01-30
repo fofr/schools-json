@@ -14,5 +14,7 @@
   "url": "http://www.buttsbury-jun.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.640100",
+  "lng": "0.42366388"
 }

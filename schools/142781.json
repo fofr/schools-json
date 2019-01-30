@@ -14,5 +14,7 @@
   "url": "www.logicstudioschool.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.443911",
+  "lng": "-0.40108381"
 }

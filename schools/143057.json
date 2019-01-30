@@ -14,5 +14,7 @@
   "url": "www.brinsworthwhitehill.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.399406",
+  "lng": "-1.3670031"
 }

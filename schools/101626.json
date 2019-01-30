@@ -14,5 +14,7 @@
   "url": "http://www.tubbenden-inf.bromley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.366355",
+  "lng": "0.080298526"
 }

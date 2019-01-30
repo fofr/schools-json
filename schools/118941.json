@@ -14,5 +14,7 @@
   "url": "http://www.northbournepark.com",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.225245",
+  "lng": "1.3076269"
 }

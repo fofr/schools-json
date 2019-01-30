@@ -14,5 +14,7 @@
   "url": "www.groveprimaryschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.456307",
+  "lng": "1.6990605"
 }

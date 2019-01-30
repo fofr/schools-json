@@ -14,5 +14,7 @@
   "url": "www.langleyacademyprimary.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.503750",
+  "lng": "-0.55454430"
 }

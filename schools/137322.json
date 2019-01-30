@@ -14,5 +14,7 @@
   "url": "www.tprs.tameside.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.468486",
+  "lng": "-2.0939001"
 }

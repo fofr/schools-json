@@ -14,5 +14,7 @@
   "url": "www.gisburn.lancsngfl.ac.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.933762",
+  "lng": "-2.2641308"
 }

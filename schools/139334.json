@@ -14,5 +14,7 @@
   "url": "www.firthparkacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.425747",
+  "lng": "-1.4456497"
 }

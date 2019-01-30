@@ -14,5 +14,7 @@
   "url": "www.whitchurch-jun.shropshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.968995",
+  "lng": "-2.6745120"
 }

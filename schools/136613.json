@@ -14,5 +14,7 @@
   "url": "http://www.airedaleacademy.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.721269",
+  "lng": "-1.3121874"
 }

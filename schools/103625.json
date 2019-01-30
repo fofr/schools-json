@@ -11,8 +11,10 @@
   "maximum_age": "19",
   "easting": "407365",
   "northing": "282546",
-  "url": "",
+  "url": "https://www.foxhollies.bham.sch.uk/",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Foundation special school"
+  "detailed_type": "Foundation special school",
+  "lat": "52.440835",
+  "lng": "-1.8930803"
 }

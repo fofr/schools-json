@@ -14,5 +14,7 @@
   "url": "www.sbs.rochdale.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.633002",
+  "lng": "-2.1111881"
 }

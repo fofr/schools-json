@@ -14,5 +14,7 @@
   "url": "www.kgalyndhurst.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.817861",
+  "lng": "-1.0711581"
 }

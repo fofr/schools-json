@@ -14,5 +14,7 @@
   "url": "http://www.wescott.wokingham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.410287",
+  "lng": "-0.82765610"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.thomasbarnes.staffs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.644328",
+  "lng": "-1.7364876"
 }

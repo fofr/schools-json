@@ -14,5 +14,7 @@
   "url": "www.portlandspenceracademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.959684",
+  "lng": "-1.2403082"
 }

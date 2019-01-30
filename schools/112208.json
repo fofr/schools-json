@@ -14,5 +14,7 @@
   "url": "www.ramsden.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.115681",
+  "lng": "-3.2226719"
 }

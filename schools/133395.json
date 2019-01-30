@@ -14,5 +14,7 @@
   "url": "http://www.hopebrook.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.877526",
+  "lng": "-2.4612286"
 }

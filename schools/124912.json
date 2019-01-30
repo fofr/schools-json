@@ -14,5 +14,7 @@
   "url": "http://www.dorking.surrey.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.231173",
+  "lng": "-0.33637895"
 }

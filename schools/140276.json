@@ -14,5 +14,7 @@
   "url": "www.beecroftacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.887955",
+  "lng": "-0.53876488"
 }

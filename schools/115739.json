@@ -14,5 +14,7 @@
   "url": "www.thebritishschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.634944",
+  "lng": "-2.3468987"
 }

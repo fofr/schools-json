@@ -14,5 +14,7 @@
   "url": "www.parkgate-school.co.uk",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.461603",
+  "lng": "-0.15410077"
 }

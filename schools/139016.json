@@ -14,5 +14,7 @@
   "url": "www.woodsideprimaryacademy.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.591180",
+  "lng": "-0.0037916256"
 }

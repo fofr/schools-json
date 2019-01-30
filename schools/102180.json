@@ -14,5 +14,7 @@
   "url": "www.thehelix.harrow.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.612588",
+  "lng": "-0.33643840"
 }

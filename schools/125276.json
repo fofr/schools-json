@@ -14,5 +14,7 @@
   "url": "www.st-petersschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.246733",
+  "lng": "-0.53725545"
 }

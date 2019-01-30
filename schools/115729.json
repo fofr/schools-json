@@ -14,5 +14,7 @@
   "url": "http://www.st-petershigh.gloucs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.828536",
+  "lng": "-2.2452860"
 }

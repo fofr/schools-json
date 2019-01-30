@@ -14,5 +14,7 @@
   "url": "www.leaforestacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.483141",
+  "lng": "-1.7861617"
 }

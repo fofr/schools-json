@@ -14,5 +14,7 @@
   "url": "www.grovewoodprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.582580",
+  "lng": "0.63076670"
 }

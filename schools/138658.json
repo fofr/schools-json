@@ -14,5 +14,7 @@
   "url": "www.summerhillacademy.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.461596",
+  "lng": "-2.5418318"
 }

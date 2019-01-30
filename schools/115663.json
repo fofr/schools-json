@@ -14,5 +14,7 @@
   "url": "www.ashleworthprimaryschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.927913",
+  "lng": "-2.2737356"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kingcharlesschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.383374",
+  "lng": "-2.2343363"
 }

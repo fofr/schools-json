@@ -14,5 +14,7 @@
   "url": "www.olsa.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.969193",
+  "lng": "-1.6266914"
 }

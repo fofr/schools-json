@@ -14,5 +14,7 @@
   "url": "http://www.thepolesworthschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.610544",
+  "lng": "-1.6205111"
 }

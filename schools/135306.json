@@ -14,5 +14,7 @@
   "url": "www.corbybusinessacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.508568",
+  "lng": "-0.64229199"
 }

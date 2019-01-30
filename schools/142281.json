@@ -14,5 +14,7 @@
   "url": "http://www.stpatrickscc.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.543451",
+  "lng": "-1.2919438"
 }

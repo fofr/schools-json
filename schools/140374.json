@@ -14,5 +14,7 @@
   "url": "www.ormistonmeadows.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.550839",
+  "lng": "-0.30463318"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.qe.devon.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.791930",
+  "lng": "-3.6660794"
 }

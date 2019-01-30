@@ -14,5 +14,7 @@
   "url": "http://www.allsaints-netheravon.wilts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.237009",
+  "lng": "-1.7917384"
 }

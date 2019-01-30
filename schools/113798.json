@@ -14,5 +14,7 @@
   "url": "http://www.durweston.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.876540",
+  "lng": "-2.2024851"
 }

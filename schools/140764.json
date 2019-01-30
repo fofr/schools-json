@@ -14,5 +14,7 @@
   "url": "http://www.st-josephs.plymouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.372212",
+  "lng": "-4.1743591"
 }

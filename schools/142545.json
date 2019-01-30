@@ -14,5 +14,7 @@
   "url": "www.ecs.plymouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.416620",
+  "lng": "-4.1722961"
 }

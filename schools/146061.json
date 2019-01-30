@@ -14,5 +14,7 @@
   "url": "http://www.hopton.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.538276",
+  "lng": "1.7299852"
 }

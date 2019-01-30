@@ -14,5 +14,7 @@
   "url": "www.catch-22.org.uk/services/include-thames-valley",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "51.391461",
+  "lng": "-0.75222039"
 }

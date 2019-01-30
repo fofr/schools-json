@@ -14,5 +14,7 @@
   "url": "http://www.crofton-inf.wakefield.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.655423",
+  "lng": "-1.4270276"
 }

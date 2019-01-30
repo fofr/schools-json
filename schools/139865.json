@@ -14,5 +14,7 @@
   "url": "www.meppershall.beds.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.012869",
+  "lng": "-0.34529782"
 }

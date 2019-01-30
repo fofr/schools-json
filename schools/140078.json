@@ -14,5 +14,7 @@
   "url": "www.duchy.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.822195",
+  "lng": "-3.4279267"
 }

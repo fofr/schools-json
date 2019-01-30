@@ -14,5 +14,7 @@
   "url": "http://www.broomfield.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.763453",
+  "lng": "0.47007858"
 }

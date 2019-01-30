@@ -14,5 +14,7 @@
   "url": "www.st-josephs.trafford.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.422246",
+  "lng": "-2.3190158"
 }

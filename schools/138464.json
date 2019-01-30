@@ -14,5 +14,7 @@
   "url": "www.loretogrammar.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.388260",
+  "lng": "-2.3572528"
 }

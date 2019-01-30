@@ -14,5 +14,7 @@
   "url": "http://burnleyhighschool.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.795442",
+  "lng": "-2.2932576"
 }

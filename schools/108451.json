@@ -14,5 +14,7 @@
   "url": "www.milecastle.newcastle.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.997456",
+  "lng": "-1.7169502"
 }

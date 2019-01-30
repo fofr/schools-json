@@ -14,5 +14,7 @@
   "url": "http://www.brayton-primary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.766847",
+  "lng": "-1.0859414"
 }

@@ -14,5 +14,7 @@
   "url": "www.northwoottonacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.786326",
+  "lng": "0.43834980"
 }

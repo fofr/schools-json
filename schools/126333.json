@@ -14,5 +14,7 @@
   "url": "www.lacock.wilts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.415012",
+  "lng": "-2.1226076"
 }

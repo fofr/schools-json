@@ -14,5 +14,7 @@
   "url": "http://www.utcsheffield.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "53.375235",
+  "lng": "-1.4683864"
 }

@@ -14,5 +14,7 @@
   "url": "www.firstbase.org.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "52.247148",
+  "lng": "0.75229967"
 }

@@ -14,5 +14,7 @@
   "url": "www.ruskininfantschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.299267",
+  "lng": "-0.72399221"
 }

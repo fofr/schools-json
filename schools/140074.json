@@ -14,5 +14,7 @@
   "url": "www.rushtonprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.438339",
+  "lng": "-0.76159662"
 }

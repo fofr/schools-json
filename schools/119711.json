@@ -14,5 +14,7 @@
   "url": "http://www.heyshamhigh.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.059897",
+  "lng": "-2.8785014"
 }

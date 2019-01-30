@@ -14,5 +14,7 @@
   "url": "www.gulworthyprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.534215",
+  "lng": "-4.1922727"
 }

@@ -14,5 +14,7 @@
   "url": "www.longditton.surrey.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.383480",
+  "lng": "-0.31741113"
 }

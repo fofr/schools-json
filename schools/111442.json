@@ -14,5 +14,7 @@
   "url": "http://www.kings-grove.cheshire.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.091511",
+  "lng": "-2.4569538"
 }

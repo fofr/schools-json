@@ -14,5 +14,7 @@
   "url": "http://www.telfordparkschool.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.655831",
+  "lng": "-2.4348623"
 }

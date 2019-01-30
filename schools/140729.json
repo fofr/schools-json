@@ -14,5 +14,7 @@
   "url": "http://www.keston.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.361203",
+  "lng": "0.032130356"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.themfg.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.686722",
+  "lng": "-1.7025180"
 }

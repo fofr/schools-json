@@ -14,5 +14,7 @@
   "url": "http://stantonharcourtschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.749813",
+  "lng": "-1.3998309"
 }

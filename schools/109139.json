@@ -14,5 +14,7 @@
   "url": "www.badockswoodschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.499240",
+  "lng": "-2.6086327"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.theoaksprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.048027",
+  "lng": "1.1218106"
 }

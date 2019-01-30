@@ -14,5 +14,7 @@
   "url": "http://www.wavendongateschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.021227",
+  "lng": "-0.68053081"
 }

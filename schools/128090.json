@@ -14,5 +14,7 @@
   "url": "www.archive.northumberlandlea.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.926555",
+  "lng": "-2.4998058"
 }

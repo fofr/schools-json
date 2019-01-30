@@ -14,5 +14,7 @@
   "url": "www.nelson.richmond.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.453100",
+  "lng": "-0.36128372"
 }

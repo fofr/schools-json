@@ -14,5 +14,7 @@
   "url": "www.sirjamesknott.co.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "55.013873",
+  "lng": "-1.4315705"
 }

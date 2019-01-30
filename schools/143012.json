@@ -14,5 +14,7 @@
   "url": "learningvillage.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.060685",
+  "lng": "-2.1300880"
 }

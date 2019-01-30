@@ -14,5 +14,7 @@
   "url": "http://www.courtlane-inf.portsmouth.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.844206",
+  "lng": "-1.0594286"
 }

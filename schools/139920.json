@@ -14,5 +14,7 @@
   "url": "http://theholme.schooljotter2.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.122191",
+  "lng": "-0.82740341"
 }

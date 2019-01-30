@@ -2,9 +2,9 @@
   "urn": "130443",
   "name": "St Dominic's Sixth Form College",
   "address": "Mount Park Avenue",
-  "locality": "",
+  "locality": "Harrow-on-the-Hill",
   "address3": "",
-  "town": "Harrow-on-the-Hill",
+  "town": "Middlesex",
   "county": "",
   "postcode": "HA1 3HX",
   "minimum_age": "16",
@@ -14,5 +14,7 @@
   "url": "http://www.stdoms.ac.uk/home/home.asp",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.566369",
+  "lng": "-0.34158866"
 }

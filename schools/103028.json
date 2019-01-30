@@ -14,5 +14,7 @@
   "url": "www.churchhillchildren.org",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.584655",
+  "lng": "-0.014081008"
 }

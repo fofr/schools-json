@@ -14,5 +14,7 @@
   "url": "http://www.warden-house.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.219337",
+  "lng": "1.3814568"
 }

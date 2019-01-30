@@ -14,5 +14,7 @@
   "url": "www.mountfield.newcastle.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.006252",
+  "lng": "-1.6507378"
 }

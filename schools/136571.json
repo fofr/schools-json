@@ -14,5 +14,7 @@
   "url": "http://hartsdown.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.379844",
+  "lng": "1.3693934"
 }

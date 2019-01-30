@@ -14,5 +14,7 @@
   "url": "http://www.futureschoolstrust.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.230829",
+  "lng": "0.51913987"
 }

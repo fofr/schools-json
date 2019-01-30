@@ -14,5 +14,7 @@
   "url": "www.kymbrooklowerschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.238045",
+  "lng": "-0.41568385"
 }

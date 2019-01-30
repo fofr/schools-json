@@ -14,5 +14,7 @@
   "url": "http://home.teknical.com/bradwindhill",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.834854",
+  "lng": "-1.7630409"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.johnwarner.herts.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.774993",
+  "lng": "-0.0016040842"
 }

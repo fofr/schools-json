@@ -14,5 +14,7 @@
   "url": "www.delaboleschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.622571",
+  "lng": "-4.7332927"
 }

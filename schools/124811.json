@@ -14,5 +14,7 @@
   "url": "http://www.deben.suffolk.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.964853",
+  "lng": "1.3439793"
 }

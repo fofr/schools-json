@@ -14,5 +14,7 @@
   "url": "www.huntingdon-nur.cambs.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "52.337949",
+  "lng": "-0.18010715"
 }

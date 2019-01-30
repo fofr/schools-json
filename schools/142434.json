@@ -14,5 +14,7 @@
   "url": "http://www.longney.gloucs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.811569",
+  "lng": "-2.3456867"
 }

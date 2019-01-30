@@ -14,5 +14,7 @@
   "url": "www.horringtonprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.222465",
+  "lng": "-2.6100286"
 }

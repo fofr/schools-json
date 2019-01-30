@@ -14,5 +14,7 @@
   "url": "www.newseaham.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.844321",
+  "lng": "-1.3668075"
 }

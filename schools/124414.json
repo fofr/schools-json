@@ -14,5 +14,7 @@
   "url": "http://www.wolstanton.staffs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.027108",
+  "lng": "-2.2230683"
 }

@@ -14,5 +14,7 @@
   "url": "www.quarryhillacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.481973",
+  "lng": "0.33053450"
 }

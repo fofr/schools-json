@@ -14,5 +14,7 @@
   "url": "www.castlehill.kingston.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.365367",
+  "lng": "-0.29672829"
 }

@@ -14,5 +14,7 @@
   "url": "www.griffinfederation.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.862505",
+  "lng": "0.040786134"
 }

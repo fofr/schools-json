@@ -14,5 +14,7 @@
   "url": "www.woldacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.758801",
+  "lng": "-0.41210774"
 }

@@ -14,5 +14,7 @@
   "url": "www.brucheprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.400752",
+  "lng": "-2.5513003"
 }

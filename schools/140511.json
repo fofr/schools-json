@@ -14,5 +14,7 @@
   "url": "http://www.mittonmanor.gloucs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.000544",
+  "lng": "-2.1450777"
 }

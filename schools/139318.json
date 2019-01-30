@@ -14,5 +14,7 @@
   "url": "www.conyers.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.495885",
+  "lng": "-1.3501704"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-edmunds.richmond.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.452779",
+  "lng": "-0.36018699"
 }

@@ -14,5 +14,7 @@
   "url": "www.esinet.norfolk.gov.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.403378",
+  "lng": "0.99494769"
 }

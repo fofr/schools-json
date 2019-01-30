@@ -14,5 +14,7 @@
   "url": "http://www.redhouseacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.929173",
+  "lng": "-1.4212484"
 }

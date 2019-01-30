@@ -14,5 +14,7 @@
   "url": "victoria-road.eschools.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.337405",
+  "lng": "-2.7338974"
 }

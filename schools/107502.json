@@ -14,5 +14,7 @@
   "url": "http://www.withinfields.calderdale.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.712744",
+  "lng": "-1.8331038"
 }

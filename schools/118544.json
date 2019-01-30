@@ -14,5 +14,7 @@
   "url": "www.murston-infant.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.342212",
+  "lng": "0.75296469"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.oakmead.dorset.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.762601",
+  "lng": "-1.9202930"
 }

@@ -14,5 +14,7 @@
   "url": "www.chestertonprimary.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.221482",
+  "lng": "0.14684013"
 }

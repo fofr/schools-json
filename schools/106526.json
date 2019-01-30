@@ -14,5 +14,7 @@
   "url": "http://www.abrahamguest.wigan.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.540747",
+  "lng": "-2.6885649"
 }

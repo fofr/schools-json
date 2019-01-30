@@ -14,5 +14,7 @@
   "url": "http://www.lingfieldprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.525091",
+  "lng": "-1.1984756"
 }

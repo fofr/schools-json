@@ -14,5 +14,7 @@
   "url": "http://www.abacus-cfbt.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.538255",
+  "lng": "-0.13190909"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.wenhaston.suffolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.321740",
+  "lng": "1.5585075"
 }

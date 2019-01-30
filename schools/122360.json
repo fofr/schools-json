@@ -14,5 +14,7 @@
   "url": "http://bchs.uk.net/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.138022",
+  "lng": "-1.5636598"
 }

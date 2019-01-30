@@ -14,5 +14,7 @@
   "url": "www.lings-primary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.265003",
+  "lng": "-0.83175682"
 }

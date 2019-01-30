@@ -14,5 +14,7 @@
   "url": "http://www.queenanne.windsor-maidenhead.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.473798",
+  "lng": "-0.60737028"
 }

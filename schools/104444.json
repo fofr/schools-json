@@ -14,5 +14,7 @@
   "url": "www.ravenscroftcp.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.494757",
+  "lng": "-2.8870179"
 }

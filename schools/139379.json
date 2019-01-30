@@ -14,5 +14,7 @@
   "url": "www.rudheathprimaryacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.250880",
+  "lng": "-2.4812973"
 }

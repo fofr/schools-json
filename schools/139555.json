@@ -14,5 +14,7 @@
   "url": "www.shade.sohamvc.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.350478",
+  "lng": "0.32507820"
 }

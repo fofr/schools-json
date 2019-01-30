@@ -14,5 +14,7 @@
   "url": "www.mithian.eschools.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.314927",
+  "lng": "-5.1775950"
 }

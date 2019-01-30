@@ -14,5 +14,7 @@
   "url": "http://www.bristnallhallacademy.attrust.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.484547",
+  "lng": "-1.9939040"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.alsagerschool.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.099055",
+  "lng": "-2.3182458"
 }

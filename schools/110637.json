@@ -14,5 +14,7 @@
   "url": "www.littleport.cambs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.457880",
+  "lng": "0.29225619"
 }

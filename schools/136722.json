@@ -14,5 +14,7 @@
   "url": "http://www.backwellschool.net",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.416242",
+  "lng": "-2.7391929"
 }

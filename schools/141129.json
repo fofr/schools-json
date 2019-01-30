@@ -14,5 +14,7 @@
   "url": "http://www.williambradford.leics.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.575613",
+  "lng": "-1.3339506"
 }

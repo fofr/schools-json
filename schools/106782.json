@@ -14,5 +14,7 @@
   "url": "http://armthorpeschool.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.540080",
+  "lng": "-1.0597318"
 }

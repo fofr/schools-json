@@ -14,5 +14,7 @@
   "url": "http://www.hampsthwaite.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.024171",
+  "lng": "-1.6048234"
 }

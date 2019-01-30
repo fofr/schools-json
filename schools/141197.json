@@ -14,5 +14,7 @@
   "url": "www.sandfield.surrey.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.239621",
+  "lng": "-0.57227805"
 }

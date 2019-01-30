@@ -14,5 +14,7 @@
   "url": "www.erdingtonhall.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.511788",
+  "lng": "-1.8412486"
 }

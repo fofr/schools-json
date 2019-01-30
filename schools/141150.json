@@ -14,5 +14,7 @@
   "url": "http://www.holy-trinity.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.943864",
+  "lng": "-1.5388710"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stmarysprimaryportbury.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.475031",
+  "lng": "-2.7158240"
 }

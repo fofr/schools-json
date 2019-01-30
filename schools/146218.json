@@ -14,5 +14,7 @@
   "url": "http://templenewsam.leeds.dbprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.798185",
+  "lng": "-1.4645273"
 }

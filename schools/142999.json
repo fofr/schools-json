@@ -14,5 +14,7 @@
   "url": "www.eastwickschools.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.284295",
+  "lng": "-0.36979373"
 }

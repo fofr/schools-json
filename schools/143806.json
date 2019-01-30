@@ -14,5 +14,7 @@
   "url": "www.yoxvalleypartnership.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.254679",
+  "lng": "1.5589946"
 }

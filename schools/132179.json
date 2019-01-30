@@ -14,5 +14,7 @@
   "url": "www.themeadows.lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.192820",
+  "lng": "-0.56028686"
 }

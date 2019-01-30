@@ -14,5 +14,7 @@
   "url": "http://www.lordswoodgirls.bham.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.469367",
+  "lng": "-1.9638466"
 }

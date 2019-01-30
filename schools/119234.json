@@ -14,5 +14,7 @@
   "url": "www.holme.lancsngfl.ac.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.777173",
+  "lng": "-2.6813984"
 }

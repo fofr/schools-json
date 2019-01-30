@@ -14,5 +14,7 @@
   "url": "www.st-pauls.bexley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.472246",
+  "lng": "0.19188585"
 }

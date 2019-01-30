@@ -14,5 +14,7 @@
   "url": "www.stmcollege.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.450158",
+  "lng": "-2.1146238"
 }

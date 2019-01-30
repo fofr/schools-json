@@ -14,5 +14,7 @@
   "url": "www.colehillfirst.dorset.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.809308",
+  "lng": "-1.9524737"
 }

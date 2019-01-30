@@ -14,5 +14,7 @@
   "url": "www.osfc.ac.uk",
   "phase": "16 plus",
   "type": "Academies",
-  "detailed_type": "Academy 16-19 converter"
+  "detailed_type": "Academy 16-19 converter",
+  "lat": "53.538654",
+  "lng": "-2.1186505"
 }

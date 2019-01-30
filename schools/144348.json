@@ -14,5 +14,7 @@
   "url": "www.rosedale.doncaster.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.540846",
+  "lng": "-1.1772067"
 }

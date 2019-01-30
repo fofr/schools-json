@@ -14,5 +14,7 @@
   "url": "www.trinityceprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.596757",
+  "lng": "-2.1043770"
 }

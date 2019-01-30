@@ -14,5 +14,7 @@
   "url": "http://www.daca.uk.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.694042",
+  "lng": "-2.4630783"
 }

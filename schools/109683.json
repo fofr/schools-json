@@ -14,5 +14,7 @@
   "url": "http://www.denbighhigh.luton.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.891374",
+  "lng": "-0.42530311"
 }

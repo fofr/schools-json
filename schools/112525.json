@@ -14,5 +14,7 @@
   "url": "http://www.combsinfantschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.302372",
+  "lng": "-1.9396686"
 }

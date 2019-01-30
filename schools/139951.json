@@ -14,5 +14,7 @@
   "url": "www.pyrcroftgrange.surrey.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.391844",
+  "lng": "-0.51652048"
 }

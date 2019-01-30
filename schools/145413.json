@@ -14,5 +14,7 @@
   "url": "www.norfolkcommunityprimary.school",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.365722",
+  "lng": "-1.4460080"
 }

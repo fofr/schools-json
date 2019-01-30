@@ -14,5 +14,7 @@
   "url": "http://www.brooksideprimaryschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.116798",
+  "lng": "-2.7494042"
 }

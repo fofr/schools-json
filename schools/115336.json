@@ -14,5 +14,7 @@
   "url": "http://www.corver.essex.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.526248",
+  "lng": "0.56935591"
 }

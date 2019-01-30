@@ -14,5 +14,7 @@
   "url": "www.culhamprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.652056",
+  "lng": "-1.2676058"
 }

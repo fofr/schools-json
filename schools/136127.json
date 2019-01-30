@@ -14,5 +14,7 @@
   "url": "http://www.shirebrookacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.209885",
+  "lng": "-1.2281202"
 }

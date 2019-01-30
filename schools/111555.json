@@ -14,5 +14,7 @@
   "url": "http://www.stockton.schoolgrid.net/2070/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.552765",
+  "lng": "-1.2956942"
 }

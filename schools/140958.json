@@ -14,5 +14,7 @@
   "url": "www.edengirlscoventry.com",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.415059",
+  "lng": "-1.5041579"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kingswaypark.org/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.603924",
+  "lng": "-2.1385853"
 }

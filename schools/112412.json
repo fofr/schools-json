@@ -14,5 +14,7 @@
   "url": "http://www.daltonstmarys.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.150772",
+  "lng": "-3.1792565"
 }

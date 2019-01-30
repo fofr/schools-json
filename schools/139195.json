@@ -14,5 +14,7 @@
   "url": "www.skernepark.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.512448",
+  "lng": "-1.5521541"
 }

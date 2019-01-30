@@ -14,5 +14,7 @@
   "url": "www.yattendon.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.177130",
+  "lng": "-0.16401171"
 }

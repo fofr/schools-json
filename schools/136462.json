@@ -14,5 +14,7 @@
   "url": "www.ossettacademy.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.669458",
+  "lng": "-1.5774073"
 }

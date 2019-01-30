@@ -14,5 +14,7 @@
   "url": "http://www.greenbankhigh.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.622484",
+  "lng": "-3.0276889"
 }

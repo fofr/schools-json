@@ -14,5 +14,7 @@
   "url": "http://www.ernehale-jun.notts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.995889",
+  "lng": "-1.1185262"
 }

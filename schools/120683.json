@@ -14,5 +14,7 @@
   "url": "http://www.butterwick.lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.981739",
+  "lng": "0.059674704"
 }

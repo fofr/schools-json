@@ -14,5 +14,7 @@
   "url": "http://washwoodheath.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.490478",
+  "lng": "-1.8192780"
 }

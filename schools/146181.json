@@ -14,5 +14,7 @@
   "url": "http://www.hockley.essex.sch.uk.",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.604048",
+  "lng": "0.64593050"
 }

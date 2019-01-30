@@ -14,5 +14,7 @@
   "url": "www.stoswaldsdurham.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.770997",
+  "lng": "-1.5719836"
 }

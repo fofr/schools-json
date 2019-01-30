@@ -14,5 +14,7 @@
   "url": "http://www.arnold-hill.notts.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.997420",
+  "lng": "-1.1176904"
 }

@@ -14,5 +14,7 @@
   "url": "www.sitwelljuniorschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.414622",
+  "lng": "-1.3271632"
 }

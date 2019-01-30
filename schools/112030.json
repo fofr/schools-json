@@ -14,5 +14,7 @@
   "url": "http://www.st-mellion.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.467948",
+  "lng": "-4.2713069"
 }

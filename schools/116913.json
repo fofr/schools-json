@@ -14,5 +14,7 @@
   "url": "www.stauntonprimary.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.100051",
+  "lng": "-2.9288044"
 }

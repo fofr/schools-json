@@ -14,5 +14,7 @@
   "url": "http://www.blakeston.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.593465",
+  "lng": "-1.3432636"
 }

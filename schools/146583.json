@@ -14,5 +14,7 @@
   "url": "www.owston.doncaster.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.590995",
+  "lng": "-1.1866123"
 }

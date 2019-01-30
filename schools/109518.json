@@ -14,5 +14,7 @@
   "url": "www.lancotschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.884040",
+  "lng": "-0.54208836"
 }

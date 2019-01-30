@@ -14,5 +14,7 @@
   "url": "http://www.shaftonprimaryacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.591752",
+  "lng": "-1.4054989"
 }

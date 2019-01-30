@@ -14,5 +14,7 @@
   "url": "www.stjohnsacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.550568",
+  "lng": "-2.0177423"
 }

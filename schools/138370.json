@@ -14,5 +14,7 @@
   "url": "http://www.tqacademy.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.479934",
+  "lng": "-3.5422103"
 }

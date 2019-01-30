@@ -14,5 +14,7 @@
   "url": "www.harrisprimaryphiliplane.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.587436",
+  "lng": "-0.087321886"
 }

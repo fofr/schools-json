@@ -14,5 +14,7 @@
   "url": "www.beds.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.877862",
+  "lng": "-0.41140713"
 }

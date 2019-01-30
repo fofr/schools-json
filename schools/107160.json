@@ -14,5 +14,7 @@
   "url": "www.allsaints.sheffield.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.373261",
+  "lng": "-1.4571230"
 }

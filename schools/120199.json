@@ -14,5 +14,7 @@
   "url": "www.snarestoneprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.681031",
+  "lng": "-1.4926033"
 }

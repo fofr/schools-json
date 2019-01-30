@@ -14,5 +14,7 @@
   "url": "http://www.crookhorn.hants.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.865983",
+  "lng": "-1.0250564"
 }

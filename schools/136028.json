@@ -14,5 +14,7 @@
   "url": "http://www.dagenhampark.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.534471",
+  "lng": "0.15584091"
 }

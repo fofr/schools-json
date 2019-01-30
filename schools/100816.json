@@ -14,5 +14,7 @@
   "url": "http://www.charlottesharman.southwark.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.495787",
+  "lng": "-0.10576921"
 }

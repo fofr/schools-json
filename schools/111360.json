@@ -14,5 +14,7 @@
   "url": "http://www.bollinbrook.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.269607",
+  "lng": "-2.1369001"
 }

@@ -14,5 +14,7 @@
   "url": "www.bozeat.northants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.223114",
+  "lng": "-0.67177401"
 }

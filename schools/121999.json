@@ -14,5 +14,7 @@
   "url": "http://www.freemans.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.302683",
+  "lng": "-0.70415339"
 }

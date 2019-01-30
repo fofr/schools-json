@@ -14,5 +14,7 @@
   "url": "http://www.montagu.northants.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.413489",
+  "lng": "-0.71272945"
 }

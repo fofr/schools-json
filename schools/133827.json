@@ -14,5 +14,7 @@
   "url": "http://www.ljmu.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.403685",
+  "lng": "-2.9731756"
 }

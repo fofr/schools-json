@@ -14,5 +14,7 @@
   "url": "highspenprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.929793",
+  "lng": "-1.7843551"
 }

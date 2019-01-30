@@ -14,5 +14,7 @@
   "url": "http://www.deeping-st-james.lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.673240",
+  "lng": "-0.29337580"
 }

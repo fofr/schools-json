@@ -14,5 +14,7 @@
   "url": "http://www.st-peters.wilts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.461198",
+  "lng": "-2.1418179"
 }

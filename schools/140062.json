@@ -14,5 +14,7 @@
   "url": "www.standrewsbwmat.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.024639",
+  "lng": "-3.1047980"
 }

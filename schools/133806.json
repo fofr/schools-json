@@ -14,5 +14,7 @@
   "url": "http://www.canterbury.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.279643",
+  "lng": "1.0893644"
 }

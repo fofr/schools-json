@@ -14,5 +14,7 @@
   "url": "www.peelhall.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.526314",
+  "lng": "-2.4285122"
 }

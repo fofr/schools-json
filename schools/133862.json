@@ -14,5 +14,7 @@
   "url": "http://www.cssd.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.544334",
+  "lng": "-0.17420454"
 }

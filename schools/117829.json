@@ -14,5 +14,7 @@
   "url": "www.biltonprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.780367",
+  "lng": "-0.24769688"
 }

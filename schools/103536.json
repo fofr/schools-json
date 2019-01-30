@@ -14,5 +14,7 @@
   "url": "http://www.bishopwalsh.bham.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.547291",
+  "lng": "-1.8113326"
 }

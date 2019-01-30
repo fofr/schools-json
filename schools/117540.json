@@ -14,5 +14,7 @@
   "url": "http://www.fremancollege.herts.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.951430",
+  "lng": "-0.027836051"
 }

@@ -14,5 +14,7 @@
   "url": "www.northsideprimary.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.653182",
+  "lng": "-3.5508270"
 }

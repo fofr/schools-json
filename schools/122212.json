@@ -14,5 +14,7 @@
   "url": "http://www.moorside.northumberland.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.187573",
+  "lng": "-1.5165198"
 }

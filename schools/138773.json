@@ -14,5 +14,7 @@
   "url": "www.kingsashacademy.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.441516",
+  "lng": "-3.5894220"
 }

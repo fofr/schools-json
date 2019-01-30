@@ -14,5 +14,7 @@
   "url": "www.beardallfields.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.041482",
+  "lng": "-1.1917398"
 }

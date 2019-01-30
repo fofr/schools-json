@@ -14,5 +14,7 @@
   "url": "http://www.penair.cornwall.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.267548",
+  "lng": "-5.0308059"
 }

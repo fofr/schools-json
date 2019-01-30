@@ -14,5 +14,7 @@
   "url": "www.tubbenden.bromley.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.365760",
+  "lng": "0.079395207"
 }

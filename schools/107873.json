@@ -14,5 +14,7 @@
   "url": "www.ninelands-school.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.789020",
+  "lng": "-1.3776089"
 }

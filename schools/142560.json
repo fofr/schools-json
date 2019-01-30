@@ -14,5 +14,7 @@
   "url": "www.stgregorys.harrow.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.583683",
+  "lng": "-0.30475789"
 }

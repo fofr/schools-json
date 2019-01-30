@@ -14,5 +14,7 @@
   "url": "www.eastcoteprimaryacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.463790",
+  "lng": "0.083517619"
 }

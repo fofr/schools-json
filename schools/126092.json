@@ -14,5 +14,7 @@
   "url": "http://www.sgs.uk.net/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.893352",
+  "lng": "-0.32936161"
 }

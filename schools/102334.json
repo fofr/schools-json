@@ -14,5 +14,7 @@
   "url": "http://www.st-josephs-upminster.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.556472",
+  "lng": "0.24853213"
 }

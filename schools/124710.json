@@ -14,5 +14,7 @@
   "url": "http://www.norton.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.256238",
+  "lng": "0.86827995"
 }

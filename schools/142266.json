@@ -14,5 +14,7 @@
   "url": "www.danecourtschool.com",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "51.371301",
+  "lng": "0.57045440"
 }

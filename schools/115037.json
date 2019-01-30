@@ -14,5 +14,7 @@
   "url": "http://www.runwell.essex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.622626",
+  "lng": "0.52396969"
 }

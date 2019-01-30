@@ -14,5 +14,7 @@
   "url": "http://www.north-leigh.oxon.digitalbrain.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.812985",
+  "lng": "-1.4381439"
 }

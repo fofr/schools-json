@@ -14,5 +14,7 @@
   "url": "http://horizonsbexley.org.uk/horizons",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy alternative provision converter"
+  "detailed_type": "Academy alternative provision converter",
+  "lat": "51.494639",
+  "lng": "0.12393727"
 }

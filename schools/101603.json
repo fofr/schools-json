@@ -14,5 +14,7 @@
   "url": "http://www.meadroad.bromley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.419162",
+  "lng": "0.072181650"
 }

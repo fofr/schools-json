@@ -14,5 +14,7 @@
   "url": "http://www.glaisdale.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.435753",
+  "lng": "-0.81142429"
 }

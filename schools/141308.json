@@ -14,5 +14,7 @@
   "url": "www.adisham.kent.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.241264",
+  "lng": "1.1888476"
 }

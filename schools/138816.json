@@ -14,5 +14,7 @@
   "url": "www.little-gonerby.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.917285",
+  "lng": "-0.63379805"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.saintaidans.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.588683",
+  "lng": "-1.6509672"
 }

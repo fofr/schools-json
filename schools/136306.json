@@ -14,5 +14,7 @@
   "url": "http://strschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.873603",
+  "lng": "-2.2053836"
 }

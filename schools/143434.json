@@ -14,5 +14,7 @@
   "url": "http://stfrancisprimaryandnursery.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.423609",
+  "lng": "-1.9452081"
 }

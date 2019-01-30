@@ -14,5 +14,7 @@
   "url": "http://www.middleforth.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.741636",
+  "lng": "-2.7148917"
 }

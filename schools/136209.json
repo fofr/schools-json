@@ -14,5 +14,7 @@
   "url": "www.merrill.derby.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.889886",
+  "lng": "-1.4423408"
 }

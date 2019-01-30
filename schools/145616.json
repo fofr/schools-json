@@ -14,5 +14,7 @@
   "url": "www.st-lukes-primary.lambeth.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.426808",
+  "lng": "-0.099905940"
 }

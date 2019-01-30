@@ -14,5 +14,7 @@
   "url": "www.wrenthorpeacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.701289",
+  "lng": "-1.5211353"
 }

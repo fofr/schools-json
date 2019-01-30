@@ -14,5 +14,7 @@
   "url": "www.st-anthonys.hull.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.784437",
+  "lng": "-0.38914602"
 }

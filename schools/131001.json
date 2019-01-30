@@ -14,5 +14,7 @@
   "url": "http://www.crawleydownschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.124589",
+  "lng": "-0.074363717"
 }

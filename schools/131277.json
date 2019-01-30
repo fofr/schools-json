@@ -14,5 +14,7 @@
   "url": "www.athenaschool.org.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "53.217794",
+  "lng": "-0.53824186"
 }

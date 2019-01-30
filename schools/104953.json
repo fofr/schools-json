@@ -14,5 +14,7 @@
   "url": "http://range.sefton.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.544693",
+  "lng": "-3.0809785"
 }

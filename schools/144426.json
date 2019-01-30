@@ -14,5 +14,7 @@
   "url": "www.tivetshall.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.433505",
+  "lng": "1.1887895"
 }

@@ -14,5 +14,7 @@
   "url": "www.neroche.somerset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.935092",
+  "lng": "-2.9613850"
 }

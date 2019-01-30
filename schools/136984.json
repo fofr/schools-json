@@ -14,5 +14,7 @@
   "url": "http://www.greatmalvernprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.110590",
+  "lng": "-2.3082491"
 }

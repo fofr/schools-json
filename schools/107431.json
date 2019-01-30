@@ -14,5 +14,7 @@
   "url": "www.killinghall.bradford.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.801928",
+  "lng": "-1.7234311"
 }

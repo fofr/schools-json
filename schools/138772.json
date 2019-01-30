@@ -14,5 +14,7 @@
   "url": "http://curledgestreetacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.433083",
+  "lng": "-3.5686518"
 }

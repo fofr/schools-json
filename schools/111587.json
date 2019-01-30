@@ -14,5 +14,7 @@
   "url": "www.breckonhillprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.568965",
+  "lng": "-1.2216362"
 }

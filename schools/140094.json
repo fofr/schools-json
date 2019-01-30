@@ -14,5 +14,7 @@
   "url": "www.wilbarston.northants.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.485933",
+  "lng": "-0.80600239"
 }

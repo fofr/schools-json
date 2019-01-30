@@ -14,5 +14,7 @@
   "url": "www.highwoodsprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.910889",
+  "lng": "0.91678088"
 }

@@ -14,5 +14,7 @@
   "url": "www.boynehillschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.518566",
+  "lng": "-0.73990105"
 }

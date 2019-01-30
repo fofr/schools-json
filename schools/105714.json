@@ -14,5 +14,7 @@
   "url": "www.leesfield.oldham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.536461",
+  "lng": "-2.0737725"
 }

@@ -14,5 +14,7 @@
   "url": "www.basildonprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.485128",
+  "lng": "-1.1452604"
 }

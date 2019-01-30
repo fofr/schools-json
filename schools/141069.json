@@ -14,5 +14,7 @@
   "url": "http://thecooperschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.908045",
+  "lng": "-1.1449914"
 }

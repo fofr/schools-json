@@ -14,5 +14,7 @@
   "url": "http://www.kingethelbert.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.377092",
+  "lng": "1.3221916"
 }

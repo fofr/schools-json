@@ -14,5 +14,7 @@
   "url": "http://www.acrehall.trafford.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.448826",
+  "lng": "-2.3941240"
 }

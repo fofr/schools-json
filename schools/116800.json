@@ -14,5 +14,7 @@
   "url": "www.cropthorneschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.102399",
+  "lng": "-2.0032684"
 }

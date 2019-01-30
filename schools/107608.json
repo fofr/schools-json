@@ -14,5 +14,7 @@
   "url": "www.shawcrossinfants.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.704333",
+  "lng": "-1.6040674"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stnicholasprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.714896",
+  "lng": "-0.66742814"
 }

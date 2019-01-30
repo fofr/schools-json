@@ -14,5 +14,7 @@
   "url": "http://www.haywoodacademy.coop/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.054881",
+  "lng": "-2.1883901"
 }

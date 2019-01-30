@@ -14,5 +14,7 @@
   "url": "www.bentonparkblogs.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.004717",
+  "lng": "-1.5801159"
 }

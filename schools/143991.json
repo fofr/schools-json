@@ -14,5 +14,7 @@
   "url": "www.maryelton.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.427579",
+  "lng": "-2.8655496"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.open-academy.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.644541",
+  "lng": "1.3256096"
 }

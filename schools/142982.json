@@ -14,5 +14,7 @@
   "url": "www.st-peters-stonnall.staffs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.633316",
+  "lng": "-1.8925685"
 }

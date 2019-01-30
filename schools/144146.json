@@ -14,5 +14,7 @@
   "url": "www.lionwoodjunior.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.632858",
+  "lng": "1.3176127"
 }

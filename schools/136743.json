@@ -14,5 +14,7 @@
   "url": "www.mspru.manchester.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.425286",
+  "lng": "-2.2671957"
 }

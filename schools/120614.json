@@ -14,5 +14,7 @@
   "url": "www.tydd-st-mary.lincs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.745733",
+  "lng": "0.13456333"
 }

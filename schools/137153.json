@@ -14,5 +14,7 @@
   "url": "http://www.teesdaleschool.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.550397",
+  "lng": "-1.9128510"
 }

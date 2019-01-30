@@ -14,5 +14,7 @@
   "url": "www.st-johns-school.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.629244",
+  "lng": "0.033467139"
 }

@@ -14,5 +14,7 @@
   "url": "www.links.merton.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.420033",
+  "lng": "-0.15540213"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.reigate-school.surrey.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.224501",
+  "lng": "-0.19324805"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.farringdonschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.872948",
+  "lng": "-1.4275391"
 }

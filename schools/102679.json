@@ -14,5 +14,7 @@
   "url": "www.rutlish.merton.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.408320",
+  "lng": "-0.20785335"
 }

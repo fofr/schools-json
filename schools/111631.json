@@ -14,5 +14,7 @@
   "url": "www.pallisterparkprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.561706",
+  "lng": "-1.2000621"
 }

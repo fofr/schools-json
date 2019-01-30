@@ -14,5 +14,7 @@
   "url": "www.st-georges.plymouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.363211",
+  "lng": "-4.1602662"
 }

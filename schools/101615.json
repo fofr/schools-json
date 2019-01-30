@@ -14,5 +14,7 @@
   "url": "http://www.farnborough.bromley.sch.uk/index.htm",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.358536",
+  "lng": "0.073940157"
 }

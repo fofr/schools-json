@@ -14,5 +14,7 @@
   "url": "http://www.esherhigh.surrey.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.375291",
+  "lng": "-0.37110396"
 }

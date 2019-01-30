@@ -14,5 +14,7 @@
   "url": "http://www.linby.notts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.056364",
+  "lng": "-1.2003837"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.larkholme.lancsngfl.ac.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.903362",
+  "lng": "-3.0393670"
 }

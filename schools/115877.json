@@ -14,5 +14,7 @@
   "url": "www.cliddesden.hants.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.230802",
+  "lng": "-1.0927617"
 }

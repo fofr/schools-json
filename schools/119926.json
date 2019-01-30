@@ -14,5 +14,7 @@
   "url": "http://heatherprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.693716",
+  "lng": "-1.4236990"
 }

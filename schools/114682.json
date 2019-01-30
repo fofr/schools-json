@@ -14,5 +14,7 @@
   "url": "www.chf.org.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Non-maintained special school"
+  "detailed_type": "Non-maintained special school",
+  "lat": "50.971992",
+  "lng": "-0.030657625"
 }

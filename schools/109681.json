@@ -14,5 +14,7 @@
   "url": "http://www.challneyboys.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.894951",
+  "lng": "-0.46736848"
 }

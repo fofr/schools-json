@@ -14,5 +14,7 @@
   "url": "www.orchards.cambs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.677577",
+  "lng": "0.16541077"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.proppshall.oldham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.505330",
+  "lng": "-2.1608181"
 }

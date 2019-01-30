@@ -14,5 +14,7 @@
   "url": "http://www.hcc.devon.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.812278",
+  "lng": "-4.3553344"
 }

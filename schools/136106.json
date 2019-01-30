@@ -14,5 +14,7 @@
   "url": "http://www.theeastbourneacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.801726",
+  "lng": "0.26889935"
 }

@@ -14,5 +14,7 @@
   "url": "http://secondary.riversidecampus.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.521669",
+  "lng": "0.11810253"
 }

@@ -14,5 +14,7 @@
   "url": "www.hillwest.bham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.595540",
+  "lng": "-1.8431610"
 }

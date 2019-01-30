@@ -14,5 +14,7 @@
   "url": "www.wyndham.newcastle.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.998928",
+  "lng": "-1.6415004"
 }

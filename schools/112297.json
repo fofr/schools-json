@@ -14,5 +14,7 @@
   "url": "www.st-james-inf.cumbria.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.550691",
+  "lng": "-3.5843374"
 }

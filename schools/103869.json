@@ -14,5 +14,7 @@
   "url": "http://www.alder.dudley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.545424",
+  "lng": "-2.1329801"
 }

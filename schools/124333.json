@@ -14,5 +14,7 @@
   "url": "www.hutchinson.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.939099",
+  "lng": "-1.9580431"
 }

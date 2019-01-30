@@ -14,5 +14,7 @@
   "url": "www.st-petersprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.357581",
+  "lng": "-0.089845110"
 }

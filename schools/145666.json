@@ -14,5 +14,7 @@
   "url": "http://www.millenniumschools.co.uk/pub/redcar/galley-hill-pri/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.529429",
+  "lng": "-1.0793139"
 }

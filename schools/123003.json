@@ -14,5 +14,7 @@
   "url": "http://www.kingham.oxon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.916435",
+  "lng": "-1.6200622"
 }

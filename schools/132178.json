@@ -14,5 +14,7 @@
   "url": "www.wycliffeprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.836244",
+  "lng": "-1.7853099"
 }

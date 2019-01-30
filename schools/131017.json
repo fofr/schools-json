@@ -14,5 +14,7 @@
   "url": "www.henrywhipple.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.996010",
+  "lng": "-1.1702547"
 }

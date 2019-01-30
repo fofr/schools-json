@@ -14,5 +14,7 @@
   "url": "http://www.marston-middle.oxon.sch.uk",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.771549",
+  "lng": "-1.2403552"
 }

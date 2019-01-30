@@ -14,5 +14,7 @@
   "url": "www.plaistowhill.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.409156",
+  "lng": "-4.1770215"
 }

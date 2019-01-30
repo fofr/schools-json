@@ -14,5 +14,7 @@
   "url": "www.primary.uffculmeschool.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.908001",
+  "lng": "-3.3254679"
 }

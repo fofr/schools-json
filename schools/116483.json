@@ -14,5 +14,7 @@
   "url": "www.calmorejunior.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.929037",
+  "lng": "-1.5133986"
 }

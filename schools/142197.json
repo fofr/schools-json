@@ -14,5 +14,7 @@
   "url": "www.shepherd.coventry.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.435267",
+  "lng": "-1.4869567"
 }

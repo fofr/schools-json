@@ -14,5 +14,7 @@
   "url": "http://www.bea.bucks.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.580766",
+  "lng": "-0.70549203"
 }

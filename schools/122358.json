@@ -14,5 +14,7 @@
   "url": "http://ponthigh.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.043164",
+  "lng": "-1.7432005"
 }

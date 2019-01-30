@@ -14,5 +14,7 @@
   "url": "http://www.belmont.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.776041",
+  "lng": "-1.5525299"
 }

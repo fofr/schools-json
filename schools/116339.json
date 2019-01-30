@@ -14,5 +14,7 @@
   "url": "www.bitterneceprimary.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.913500",
+  "lng": "-1.3622832"
 }

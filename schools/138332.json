@@ -14,5 +14,7 @@
   "url": "www.thevpacademy.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.709486",
+  "lng": "-1.2609596"
 }

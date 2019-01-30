@@ -14,5 +14,7 @@
   "url": "www.delacy.patrust.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.688451",
+  "lng": "-1.2934001"
 }

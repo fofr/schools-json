@@ -14,5 +14,7 @@
   "url": "www.moulsham-jun.essex.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.720503",
+  "lng": "0.47090741"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.holyfamilycarlton.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.715223",
+  "lng": "-1.0173285"
 }

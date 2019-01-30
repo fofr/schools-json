@@ -14,5 +14,7 @@
   "url": "www.moorside.newcastle.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.976859",
+  "lng": "-1.6356506"
 }

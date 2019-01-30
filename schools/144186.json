@@ -14,5 +14,7 @@
   "url": "www.dr-radcliffes.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.932366",
+  "lng": "-1.3093478"
 }

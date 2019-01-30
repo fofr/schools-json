@@ -14,5 +14,7 @@
   "url": "www.craneswater.portsmouth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.785860",
+  "lng": "-1.0717071"
 }

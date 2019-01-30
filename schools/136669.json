@@ -14,5 +14,7 @@
   "url": "http://www.bramptonmanor.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.522577",
+  "lng": "0.042060117"
 }

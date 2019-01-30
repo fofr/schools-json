@@ -14,5 +14,7 @@
   "url": "https://www.islschools.org/london/home/",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.495763",
+  "lng": "-0.28292597"
 }

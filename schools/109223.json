@@ -14,5 +14,7 @@
   "url": "http://www.courtdewyck.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.390324",
+  "lng": "-2.7946964"
 }

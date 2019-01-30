@@ -14,5 +14,7 @@
   "url": "www.alderholt.dorset.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.911970",
+  "lng": "-1.8309122"
 }

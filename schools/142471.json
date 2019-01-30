@@ -14,5 +14,7 @@
   "url": "www.lyndhurst.oldham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.523988",
+  "lng": "-2.1244619"
 }

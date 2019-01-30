@@ -14,5 +14,7 @@
   "url": "http://www.bishopramseyschool.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.578860",
+  "lng": "-0.40925487"
 }

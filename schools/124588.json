@@ -14,5 +14,7 @@
   "url": "http://www.holbrook-pri.suffolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.987080",
+  "lng": "1.1553256"
 }

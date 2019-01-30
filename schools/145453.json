@@ -14,5 +14,7 @@
   "url": "http://www.standrewsmaghull.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.512770",
+  "lng": "-2.9399336"
 }

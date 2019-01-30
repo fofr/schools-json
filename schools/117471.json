@@ -14,5 +14,7 @@
   "url": "http://www.albertthegreat.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.747089",
+  "lng": "-0.44601342"
 }

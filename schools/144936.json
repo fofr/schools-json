@@ -14,5 +14,7 @@
   "url": "https://egglescliffeprimary.eschools.co.uk/website",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.514342",
+  "lng": "-1.3530441"
 }

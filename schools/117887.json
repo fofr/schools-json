@@ -14,5 +14,7 @@
   "url": "http://www.willerbycarrinfants.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.760075",
+  "lng": "-0.43725674"
 }

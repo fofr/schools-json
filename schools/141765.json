@@ -14,5 +14,7 @@
   "url": "http://www.castledon.org",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "51.601922",
+  "lng": "0.50979480"
 }

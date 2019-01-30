@@ -14,5 +14,7 @@
   "url": "http://www.woldnewton.eriding.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.142563",
+  "lng": "-0.39821115"
 }

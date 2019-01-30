@@ -14,5 +14,7 @@
   "url": "http://www.lasalette.havering.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.523225",
+  "lng": "0.19104647"
 }

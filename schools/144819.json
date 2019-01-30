@@ -14,5 +14,7 @@
   "url": "https://www.westminsterutc.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.488979",
+  "lng": "-0.14681586"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.nyewood-inf.w-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.788527",
+  "lng": "-0.69378559"
 }

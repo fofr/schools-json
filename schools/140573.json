@@ -14,5 +14,7 @@
   "url": "http://redoakprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.467313",
+  "lng": "1.7380557"
 }

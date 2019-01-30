@@ -14,5 +14,7 @@
   "url": "www.western-road.eschools.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.869880",
+  "lng": "0.0042486505"
 }

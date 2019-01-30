@@ -14,5 +14,7 @@
   "url": "http://www.clyststmary.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.709423",
+  "lng": "-3.4539284"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.balliolprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.011066",
+  "lng": "-1.5816289"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.wlv.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.588293",
+  "lng": "-2.1281653"
 }

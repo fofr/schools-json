@@ -14,5 +14,7 @@
   "url": "http://www.iveson-primary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.843176",
+  "lng": "-1.6054800"
 }

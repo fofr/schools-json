@@ -14,5 +14,7 @@
   "url": "http://castertoncollege.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.673074",
+  "lng": "-0.51835954"
 }

@@ -14,5 +14,7 @@
   "url": "www.kenninghallprimaryschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.432758",
+  "lng": "0.99246764"
 }

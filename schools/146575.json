@@ -14,5 +14,7 @@
   "url": "www.stchads.derby.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.911210",
+  "lng": "-1.4824394"
 }

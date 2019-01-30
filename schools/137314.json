@@ -14,5 +14,7 @@
   "url": "http://www.woolmerhill.surrey.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.092868",
+  "lng": "-0.74856284"
 }

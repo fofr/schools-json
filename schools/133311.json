@@ -14,5 +14,7 @@
   "url": "www.ridgefieldprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.192753",
+  "lng": "0.15177632"
 }

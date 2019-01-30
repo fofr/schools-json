@@ -14,5 +14,7 @@
   "url": "www.larkrise.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.714955",
+  "lng": "0.49090232"
 }

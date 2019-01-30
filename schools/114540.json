@@ -14,5 +14,7 @@
   "url": "www.stjohn.brighton-hove.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.822669",
+  "lng": "-0.11586148"
 }

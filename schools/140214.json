@@ -14,5 +14,7 @@
   "url": "www.elseaparkacademy.lincs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.759642",
+  "lng": "-0.37807467"
 }

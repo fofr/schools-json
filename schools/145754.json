@@ -14,5 +14,7 @@
   "url": "www.cardinhamschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.490133",
+  "lng": "-4.6476240"
 }

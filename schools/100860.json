@@ -14,5 +14,7 @@
   "url": "www.sacredheart.southwark.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.475138",
+  "lng": "-0.097307900"
 }

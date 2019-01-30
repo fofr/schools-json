@@ -14,5 +14,7 @@
   "url": "www.oasisacademyfoundry.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.494287",
+  "lng": "-1.9415269"
 }

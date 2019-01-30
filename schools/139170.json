@@ -14,5 +14,7 @@
   "url": "http://www.stdavidsprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.988690",
+  "lng": "-1.6998801"
 }

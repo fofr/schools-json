@@ -14,5 +14,7 @@
   "url": "http://www.swgs.wilts.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.079707",
+  "lng": "-1.7991967"
 }

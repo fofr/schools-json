@@ -14,5 +14,7 @@
   "url": "www.handaleprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.554580",
+  "lng": "-0.89423708"
 }

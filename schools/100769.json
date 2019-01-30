@@ -14,5 +14,7 @@
   "url": "www.dulwichwood.com",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.431382",
+  "lng": "-0.079848636"
 }

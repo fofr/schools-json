@@ -14,5 +14,7 @@
   "url": "http://www.painsley.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.981005",
+  "lng": "-1.9905756"
 }

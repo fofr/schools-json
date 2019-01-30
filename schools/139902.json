@@ -14,5 +14,7 @@
   "url": "http://creative.davinci-school.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.976261",
+  "lng": "-0.23187075"
 }

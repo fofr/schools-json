@@ -14,5 +14,7 @@
   "url": "www.becclesprimaryacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.451067",
+  "lng": "1.5797989"
 }

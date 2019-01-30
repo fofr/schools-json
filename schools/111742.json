@@ -14,5 +14,7 @@
   "url": "http://www.ryehills.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.603703",
+  "lng": "-1.0576226"
 }

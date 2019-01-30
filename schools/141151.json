@@ -14,5 +14,7 @@
   "url": "http://www.marketharboroughcofe.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.480291",
+  "lng": "-0.92747388"
 }

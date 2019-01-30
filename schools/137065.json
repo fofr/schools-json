@@ -14,5 +14,7 @@
   "url": "www.cal.coop",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.802881",
+  "lng": "-1.5209509"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.denemagna.gloucs.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.859173",
+  "lng": "-2.4843029"
 }

@@ -14,5 +14,7 @@
   "url": "www.cromwellacademy.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.334188",
+  "lng": "-0.20632877"
 }

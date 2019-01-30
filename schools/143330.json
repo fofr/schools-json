@@ -14,5 +14,7 @@
   "url": "http://www.lympshamcofeacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.284609",
+  "lng": "-2.9544565"
 }

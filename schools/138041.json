@@ -14,5 +14,7 @@
   "url": "http://www.braunton.devon.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.102738",
+  "lng": "-4.1562464"
 }

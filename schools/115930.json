@@ -14,5 +14,7 @@
   "url": "www.sunhilljuniorschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.084895",
+  "lng": "-1.1603509"
 }

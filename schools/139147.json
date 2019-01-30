@@ -14,5 +14,7 @@
   "url": "http://www.chickerell.dorset.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.621887",
+  "lng": "-2.5002706"
 }

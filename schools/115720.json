@@ -14,5 +14,7 @@
   "url": "http://www.barnwood-park.gloucs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.856927",
+  "lng": "-2.2095183"
 }

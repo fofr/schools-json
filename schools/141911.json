@@ -14,5 +14,7 @@
   "url": "www.melkshamoak.wilts.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.360651",
+  "lng": "-2.1207529"
 }

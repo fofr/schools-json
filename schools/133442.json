@@ -14,5 +14,7 @@
   "url": "http://tmts.me.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "51.461632",
+  "lng": "-0.10014423"
 }

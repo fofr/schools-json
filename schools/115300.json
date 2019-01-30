@@ -14,5 +14,7 @@
   "url": "www.waltonprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.852185",
+  "lng": "1.2741333"
 }

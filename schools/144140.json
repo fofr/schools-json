@@ -14,5 +14,7 @@
   "url": "www.ravenscroft.boleyntrust.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.520271",
+  "lng": "0.022569330"
 }

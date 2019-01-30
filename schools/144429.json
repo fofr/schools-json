@@ -14,5 +14,7 @@
   "url": "http://www.knaytonacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.288711",
+  "lng": "-1.3401618"
 }

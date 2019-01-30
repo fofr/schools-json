@@ -14,5 +14,7 @@
   "url": "http://www.linslademiddle.beds.sch.uk/",
   "phase": "Middle deemed secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.908728",
+  "lng": "-0.67568900"
 }

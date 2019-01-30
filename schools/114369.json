@@ -14,5 +14,7 @@
   "url": "http://www.middlestreet.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.821223",
+  "lng": "-0.14290971"
 }

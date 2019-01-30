@@ -14,5 +14,7 @@
   "url": "www.thecroft.swindon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.546112",
+  "lng": "-1.7760411"
 }

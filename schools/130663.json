@@ -14,5 +14,7 @@
   "url": "www.ccb.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "50.828658",
+  "lng": "-0.13657964"
 }

@@ -14,5 +14,7 @@
   "url": "www.christchurch-burton.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.801779",
+  "lng": "-1.6398527"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.wideycourt.plymouth.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.404697",
+  "lng": "-4.1283204"
 }

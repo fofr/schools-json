@@ -14,5 +14,7 @@
   "url": "www.dunholme.lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.303084",
+  "lng": "-0.46845900"
 }

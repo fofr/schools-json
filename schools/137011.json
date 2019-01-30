@@ -14,5 +14,7 @@
   "url": "http://minsthorpe.cc",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.602023",
+  "lng": "-1.2911404"
 }

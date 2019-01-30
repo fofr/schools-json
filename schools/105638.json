@@ -14,5 +14,7 @@
   "url": "www.limehurst.oldham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.513903",
+  "lng": "-2.1248395"
 }

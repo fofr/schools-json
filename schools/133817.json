@@ -14,5 +14,7 @@
   "url": "http://info.ex.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "50.735210",
+  "lng": "-3.5343550"
 }

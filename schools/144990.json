@@ -14,5 +14,7 @@
   "url": "http://www.thornhillacademy.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.897309",
+  "lng": "-1.3922038"
 }

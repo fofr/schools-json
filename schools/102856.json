@@ -14,5 +14,7 @@
   "url": "www.sevenkings.school",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.568514",
+  "lng": "0.085892637"
 }

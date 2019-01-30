@@ -14,5 +14,7 @@
   "url": "http://www.brentford.hounslow.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.485349",
+  "lng": "-0.30639072"
 }

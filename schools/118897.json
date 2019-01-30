@@ -14,5 +14,7 @@
   "url": "www.themallingschool.kent.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.290489",
+  "lng": "0.43347550"
 }

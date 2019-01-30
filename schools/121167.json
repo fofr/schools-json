@@ -14,5 +14,7 @@
   "url": "http://www.attleboroughhigh.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.519653",
+  "lng": "1.0188653"
 }

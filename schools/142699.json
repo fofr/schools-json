@@ -14,5 +14,7 @@
   "url": "www.eps.barking-dagenham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.536435",
+  "lng": "0.10112371"
 }

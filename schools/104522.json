@@ -14,5 +14,7 @@
   "url": "www.bookeravenue-junior.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.371000",
+  "lng": "-2.9059971"
 }

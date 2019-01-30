@@ -14,5 +14,7 @@
   "url": "http://www.lewannick.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.599504",
+  "lng": "-4.4386967"
 }

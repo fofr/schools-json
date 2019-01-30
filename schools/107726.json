@@ -14,5 +14,7 @@
   "url": "http://stlukes.kgfl.digitalbrain.com/kgfl/schools/stlukes/frontpage/home/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.722587",
+  "lng": "-1.7298012"
 }

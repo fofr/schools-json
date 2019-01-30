@@ -14,5 +14,7 @@
   "url": "http://www.pfps.havering.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.524228",
+  "lng": "0.20947527"
 }

@@ -14,5 +14,7 @@
   "url": "www.boughtonprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.285126",
+  "lng": "-0.89353330"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.maidenhill.gloucs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.752800",
+  "lng": "-2.2795122"
 }

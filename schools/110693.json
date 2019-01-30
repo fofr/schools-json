@@ -14,5 +14,7 @@
   "url": "www.upwood.cambs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.431074",
+  "lng": "-0.13866042"
 }

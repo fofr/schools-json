@@ -14,5 +14,7 @@
   "url": "www.drwalkersfyfield.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.737908",
+  "lng": "0.27157897"
 }

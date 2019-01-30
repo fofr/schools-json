@@ -14,5 +14,7 @@
   "url": "www.southwellfieldfs.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.041300",
+  "lng": "-1.4905529"
 }

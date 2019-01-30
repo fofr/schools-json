@@ -14,5 +14,7 @@
   "url": "http://www.hbsda.bham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.469662",
+  "lng": "-1.8802478"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.edale-rise-primary.co.uk/EdaleRise/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.955541",
+  "lng": "-1.1216837"
 }

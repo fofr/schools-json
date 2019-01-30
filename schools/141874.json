@@ -14,5 +14,7 @@
   "url": "http://www.charnwoodcollege.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.771493",
+  "lng": "-1.2398816"
 }

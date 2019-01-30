@@ -14,5 +14,7 @@
   "url": "www.abbey.sutton.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.384003",
+  "lng": "-0.19841301"
 }

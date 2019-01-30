@@ -14,5 +14,7 @@
   "url": "www.kingswoodsecondaryacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.478084",
+  "lng": "-0.73338829"
 }

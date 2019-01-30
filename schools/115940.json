@@ -14,5 +14,7 @@
   "url": "www.hernejunior.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.008004",
+  "lng": "-0.92561381"
 }

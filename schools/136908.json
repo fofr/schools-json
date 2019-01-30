@@ -14,5 +14,7 @@
   "url": "http://www.fairfax.bham.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.561436",
+  "lng": "-1.7976860"
 }

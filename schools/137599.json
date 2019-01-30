@@ -14,5 +14,7 @@
   "url": "http://www.bournewestfield.lincs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.768790",
+  "lng": "-0.39028972"
 }

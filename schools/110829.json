@@ -14,5 +14,7 @@
   "url": "www.bartonprimary.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.182147",
+  "lng": "0.057264886"
 }

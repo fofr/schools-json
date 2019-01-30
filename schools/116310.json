@@ -14,5 +14,7 @@
   "url": "www.rowlandscastle.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.881984",
+  "lng": "-0.96580068"
 }

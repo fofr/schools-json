@@ -14,5 +14,7 @@
   "url": "www.st-marys.swindon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.573966",
+  "lng": "-1.7949226"
 }

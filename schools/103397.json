@@ -14,5 +14,7 @@
   "url": "www.christch.bham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.464020",
+  "lng": "-1.8743314"
 }

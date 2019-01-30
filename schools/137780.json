@@ -14,5 +14,7 @@
   "url": "http://www.lapford-primary.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.861798",
+  "lng": "-3.8005224"
 }

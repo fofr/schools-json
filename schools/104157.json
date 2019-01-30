@@ -14,5 +14,7 @@
   "url": "www.leamoreblogs.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.610387",
+  "lng": "-1.9973430"
 }

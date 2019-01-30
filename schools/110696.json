@@ -14,5 +14,7 @@
   "url": "www.hartfordjuniorschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.336761",
+  "lng": "-0.17010127"
 }

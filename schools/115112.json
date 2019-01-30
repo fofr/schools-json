@@ -14,5 +14,7 @@
   "url": "www.st-johns-danbury.essex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.719987",
+  "lng": "0.58061726"
 }

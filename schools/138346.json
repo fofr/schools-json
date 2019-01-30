@@ -14,5 +14,7 @@
   "url": "www.meadowdale.info/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.481222",
+  "lng": "-0.89966481"
 }

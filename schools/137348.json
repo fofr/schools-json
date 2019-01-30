@@ -14,5 +14,7 @@
   "url": "http://www.greatsmeatonschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.433340",
+  "lng": "-1.4649765"
 }

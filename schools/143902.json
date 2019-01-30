@@ -14,5 +14,7 @@
   "url": "http://www.therfield.surrey.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.305799",
+  "lng": "-0.33478670"
 }

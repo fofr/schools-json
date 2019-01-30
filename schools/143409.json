@@ -14,5 +14,7 @@
   "url": "http://www.roselands.herts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.774879",
+  "lng": "-0.018250005"
 }

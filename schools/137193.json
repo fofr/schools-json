@@ -14,5 +14,7 @@
   "url": "http://bucklersmead.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.956674",
+  "lng": "-2.6235118"
 }

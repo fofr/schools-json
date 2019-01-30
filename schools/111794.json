@@ -14,5 +14,7 @@
   "url": "www.heamoorschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.124262",
+  "lng": "-5.5581968"
 }

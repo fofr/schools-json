@@ -14,5 +14,7 @@
   "url": "http://www.thebeaconcentre.net",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "54.977479",
+  "lng": "-1.4316314"
 }

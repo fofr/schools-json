@@ -14,5 +14,7 @@
   "url": "www.leconfieldprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.880219",
+  "lng": "-0.45372849"
 }

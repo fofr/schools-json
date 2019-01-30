@@ -14,5 +14,7 @@
   "url": "www.tockholesschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.705462",
+  "lng": "-2.5147090"
 }

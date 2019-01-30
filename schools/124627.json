@@ -14,5 +14,7 @@
   "url": "www.kingsfleetps.onesuffolk.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.974437",
+  "lng": "1.3690151"
 }

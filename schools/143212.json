@@ -14,5 +14,7 @@
   "url": "www.queensmanor.lbhf.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.479843",
+  "lng": "-0.22177115"
 }

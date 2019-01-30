@@ -14,5 +14,7 @@
   "url": "http://www.blandfordstmary.dorset.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.848678",
+  "lng": "-2.1644663"
 }

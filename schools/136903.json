@@ -14,5 +14,7 @@
   "url": "http://www.petersfieldschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.000035",
+  "lng": "-0.94024864"
 }

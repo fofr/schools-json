@@ -14,5 +14,7 @@
   "url": "www.akivaschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.595295",
+  "lng": "-0.18932839"
 }

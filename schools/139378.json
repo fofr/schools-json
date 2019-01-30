@@ -14,5 +14,7 @@
   "url": "www.yarnfieldprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.445634",
+  "lng": "-1.8364839"
 }

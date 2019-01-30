@@ -14,5 +14,7 @@
   "url": "www.ormistondenes.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.489778",
+  "lng": "1.7486713"
 }

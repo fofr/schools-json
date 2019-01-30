@@ -14,5 +14,7 @@
   "url": "www.holtonstpeterschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.344363",
+  "lng": "1.5251672"
 }

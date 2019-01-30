@@ -14,5 +14,7 @@
   "url": "http://www.swintonqueenprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.489301",
+  "lng": "-1.3115437"
 }

@@ -1,6 +1,6 @@
 {
   "urn": "146404",
-  "name": "The Co-Op Academy Walkden",
+  "name": "The Co-op Academy Walkden",
   "address": "Old Clough Lane",
   "locality": "Walkden",
   "address3": "Worsley",
@@ -14,5 +14,7 @@
   "url": "http://www.walkden.uk.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.513939",
+  "lng": "-2.3854691"
 }

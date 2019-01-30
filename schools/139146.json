@@ -14,5 +14,7 @@
   "url": "http://www.cheney.oxon.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.752944",
+  "lng": "-1.2221676"
 }

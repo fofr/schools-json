@@ -14,5 +14,7 @@
   "url": "http://www.montsaye.northants.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.423788",
+  "lng": "-0.81016721"
 }

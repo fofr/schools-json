@@ -14,5 +14,7 @@
   "url": "http://www.bath.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.380441",
+  "lng": "-2.3306731"
 }

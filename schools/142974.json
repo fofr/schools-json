@@ -14,5 +14,7 @@
   "url": "www.bpspschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.720685",
+  "lng": "-1.9499847"
 }

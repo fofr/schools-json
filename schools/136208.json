@@ -14,5 +14,7 @@
   "url": "http://www.richmondparkacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.462367",
+  "lng": "-0.25930379"
 }

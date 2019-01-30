@@ -14,5 +14,7 @@
   "url": "www.vrpsp.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.403099",
+  "lng": "-4.1853846"
 }

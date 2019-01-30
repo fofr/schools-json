@@ -14,5 +14,7 @@
   "url": "http://www.flakefleet.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.910502",
+  "lng": "-3.0316282"
 }

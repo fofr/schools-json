@@ -14,5 +14,7 @@
   "url": "http://www.epschool.org/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.398508",
+  "lng": "-0.78271927"
 }

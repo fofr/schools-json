@@ -14,5 +14,7 @@
   "url": "http://tendringtechnologycollege.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.842928",
+  "lng": "1.2515055"
 }

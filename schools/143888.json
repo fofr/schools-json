@@ -14,5 +14,7 @@
   "url": "http://www.dr-souths.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.824508",
+  "lng": "-1.2391458"
 }

@@ -14,5 +14,7 @@
   "url": "www.anson.staffs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.800688",
+  "lng": "-2.0053419"
 }

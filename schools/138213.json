@@ -14,5 +14,7 @@
   "url": "www.eppletonacademyprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.831686",
+  "lng": "-1.4518631"
 }

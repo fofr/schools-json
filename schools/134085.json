@@ -14,5 +14,7 @@
   "url": "isf.education",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.505388",
+  "lng": "-0.61051403"
 }

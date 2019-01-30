@@ -14,5 +14,7 @@
   "url": "www.bosleyschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.187968",
+  "lng": "-2.1232902"
 }

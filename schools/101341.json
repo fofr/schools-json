@@ -14,5 +14,7 @@
   "url": "www.menorahprimaryschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.574488",
+  "lng": "-0.20699669"
 }

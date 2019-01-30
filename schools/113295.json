@@ -14,5 +14,7 @@
   "url": "www.plaistowhill.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.409156",
+  "lng": "-4.1770215"
 }

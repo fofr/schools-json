@@ -14,5 +14,7 @@
   "url": "www.thwaites.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.258195",
+  "lng": "-3.2619638"
 }

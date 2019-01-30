@@ -14,5 +14,7 @@
   "url": "http://science.davinci-school.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.896778",
+  "lng": "-0.19954349"
 }

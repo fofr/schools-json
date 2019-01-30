@@ -14,5 +14,7 @@
   "url": "www.cfs.notts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.040704",
+  "lng": "-1.0855604"
 }

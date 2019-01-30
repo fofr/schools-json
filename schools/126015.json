@@ -14,5 +14,7 @@
   "url": "http://www.st-marks.w-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.039216",
+  "lng": "-0.17862629"
 }

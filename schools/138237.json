@@ -14,5 +14,7 @@
   "url": "http://www.oasisacademynunsthorpe.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.550229",
+  "lng": "-0.10104442"
 }

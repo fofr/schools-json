@@ -14,5 +14,7 @@
   "url": "http://www.dollisjunior.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.608456",
+  "lng": "-0.22439005"
 }

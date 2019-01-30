@@ -14,5 +14,7 @@
   "url": "http://www.batleygirls.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.731842",
+  "lng": "-1.6458423"
 }

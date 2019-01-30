@@ -14,5 +14,7 @@
   "url": "www.lambeth-academy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.457389",
+  "lng": "-0.14118629"
 }

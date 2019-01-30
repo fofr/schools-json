@@ -14,5 +14,7 @@
   "url": "www.st-sampsons.wilts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.641189",
+  "lng": "-1.8584638"
 }

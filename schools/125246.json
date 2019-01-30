@@ -7,12 +7,14 @@
   "town": "Guildford",
   "county": "Surrey",
   "postcode": "GU5 9HB",
-  "minimum_age": "5",
+  "minimum_age": "2",
   "maximum_age": "7",
   "easting": "507437",
   "northing": "147912",
   "url": "http://www.shere.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.220306",
+  "lng": "-0.46298616"
 }

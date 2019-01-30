@@ -14,5 +14,7 @@
   "url": "www.navenbyschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.108489",
+  "lng": "-0.52226107"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.pinchmill.beds.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.210382",
+  "lng": "-0.54586078"
 }

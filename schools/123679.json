@@ -14,5 +14,7 @@
   "url": "www.eastover-primary.eschools.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.130780",
+  "lng": "-2.9932120"
 }

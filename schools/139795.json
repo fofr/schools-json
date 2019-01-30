@@ -14,5 +14,7 @@
   "url": "www.sparkwell.devon.sch.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.401901",
+  "lng": "-4.0006011"
 }

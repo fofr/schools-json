@@ -14,5 +14,7 @@
   "url": "www.merdon.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.989684",
+  "lng": "-1.3739493"
 }

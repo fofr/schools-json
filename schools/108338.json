@@ -14,5 +14,7 @@
   "url": "http://www.dunstonhillcps.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.948906",
+  "lng": "-1.6523589"
 }

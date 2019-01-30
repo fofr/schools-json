@@ -14,5 +14,7 @@
   "url": "www.northolthigh.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.552410",
+  "lng": "-0.37609380"
 }

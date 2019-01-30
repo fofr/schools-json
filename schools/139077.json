@@ -14,5 +14,7 @@
   "url": "http://www.oakwood.coop/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.813239",
+  "lng": "-1.4977631"
 }

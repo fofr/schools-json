@@ -14,5 +14,7 @@
   "url": "http://www.parkhall-inf.walsall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.570804",
+  "lng": "-1.9519603"
 }

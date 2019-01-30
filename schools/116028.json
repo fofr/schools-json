@@ -14,5 +14,7 @@
   "url": "http://www.ranvilles-inf.hants.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.848643",
+  "lng": "-1.2143152"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.churchdown.gloucs.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.881893",
+  "lng": "-2.1779346"
 }

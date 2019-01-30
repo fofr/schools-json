@@ -14,5 +14,7 @@
   "url": "www.discoveryschool.org.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "54.967796",
+  "lng": "-1.6253766"
 }

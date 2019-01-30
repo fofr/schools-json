@@ -14,5 +14,7 @@
   "url": "http://www.palm-bay.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.389608",
+  "lng": "1.4192232"
 }

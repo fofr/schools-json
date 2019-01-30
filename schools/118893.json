@@ -14,5 +14,7 @@
   "url": "http://www.canterbury.kent.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.278552",
+  "lng": "1.0631326"
 }

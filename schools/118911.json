@@ -14,5 +14,7 @@
   "url": "http://www.mascalls.kent.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.169455",
+  "lng": "0.38888689"
 }

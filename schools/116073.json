@@ -14,5 +14,7 @@
   "url": "www.marchwoodjuniorschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.891279",
+  "lng": "-1.4508360"
 }

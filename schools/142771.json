@@ -14,5 +14,7 @@
   "url": "www.magnacarta.essex.sch.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.903618",
+  "lng": "0.19807027"
 }

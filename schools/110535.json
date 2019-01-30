@@ -14,5 +14,7 @@
   "url": "www.gms.bucks.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.580266",
+  "lng": "-0.76503955"
 }

@@ -14,5 +14,7 @@
   "url": "www.clavering.essex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.963502",
+  "lng": "0.14275761"
 }

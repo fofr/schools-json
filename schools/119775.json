@@ -14,5 +14,7 @@
   "url": "www.balshaws.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.687605",
+  "lng": "-2.6862199"
 }

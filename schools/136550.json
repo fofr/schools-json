@@ -14,5 +14,7 @@
   "url": "http://www.albanacademy.org",
   "phase": "Middle deemed secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.154872",
+  "lng": "-0.35050380"
 }

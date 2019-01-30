@@ -14,5 +14,7 @@
   "url": "http://www.stjohns.wilts.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.415284",
+  "lng": "-1.7284081"
 }

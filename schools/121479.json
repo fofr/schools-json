@@ -14,5 +14,7 @@
   "url": "www.northyorkshire.schooljotter.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.285009",
+  "lng": "-1.5923945"
 }

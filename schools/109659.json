@@ -14,5 +14,7 @@
   "url": "www.brewershillmiddle.co.uk",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.891013",
+  "lng": "-0.54244401"
 }

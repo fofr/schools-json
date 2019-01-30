@@ -14,5 +14,7 @@
   "url": "www.winterton.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.715831",
+  "lng": "1.6895586"
 }

@@ -14,5 +14,7 @@
   "url": "www.walker.academy",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.980842",
+  "lng": "-1.5455682"
 }

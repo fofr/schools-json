@@ -14,5 +14,7 @@
   "url": "http://www.stjohnswimborne.dorset.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.799963",
+  "lng": "-1.9786492"
 }

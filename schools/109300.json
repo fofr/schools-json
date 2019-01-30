@@ -14,5 +14,7 @@
   "url": "http://www.sblonline.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.443369",
+  "lng": "-2.4714004"
 }

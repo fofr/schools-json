@@ -14,5 +14,7 @@
   "url": "www.williammartinschools.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.757418",
+  "lng": "0.11172931"
 }

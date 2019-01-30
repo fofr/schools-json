@@ -14,5 +14,7 @@
   "url": "http://www.bolton.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.573511",
+  "lng": "-2.4362382"
 }

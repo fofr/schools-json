@@ -14,5 +14,7 @@
   "url": "http://www.arkholme.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.143276",
+  "lng": "-2.6391461"
 }

@@ -14,5 +14,7 @@
   "url": "www.crossdaleschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.880634",
+  "lng": "-1.0899262"
 }

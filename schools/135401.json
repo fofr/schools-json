@@ -14,5 +14,7 @@
   "url": "www.baconscollege.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.501946",
+  "lng": "-0.041121823"
 }

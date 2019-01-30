@@ -14,5 +14,7 @@
   "url": "http://www.waltongrove.wakefield.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.647722",
+  "lng": "-1.4623801"
 }

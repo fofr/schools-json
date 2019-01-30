@@ -14,5 +14,7 @@
   "url": "www.weston-park.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.892499",
+  "lng": "-1.3585178"
 }

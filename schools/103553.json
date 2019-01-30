@@ -14,5 +14,7 @@
   "url": "http://www.kechg.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.431088",
+  "lng": "-1.9022815"
 }

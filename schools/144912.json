@@ -14,5 +14,7 @@
   "url": "www.themartonacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.326946",
+  "lng": "-0.73580839"
 }

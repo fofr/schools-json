@@ -14,5 +14,7 @@
   "url": "www.berrycoombe.createprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.472663",
+  "lng": "-4.7332446"
 }

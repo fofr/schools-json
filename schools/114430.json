@@ -14,5 +14,7 @@
   "url": "www.mileoakschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.851700",
+  "lng": "-0.22840470"
 }

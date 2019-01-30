@@ -14,5 +14,7 @@
   "url": "http://www.fieldcourt-inf.gloucs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.822788",
+  "lng": "-2.2827458"
 }

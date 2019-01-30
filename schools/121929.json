@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/lumbertubs.north",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.263272",
+  "lng": "-0.83574398"
 }

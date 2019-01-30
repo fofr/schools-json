@@ -14,5 +14,7 @@
   "url": "www.huttonceprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.324211",
+  "lng": "-2.9307806"
 }

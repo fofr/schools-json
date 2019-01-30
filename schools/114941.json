@@ -14,5 +14,7 @@
   "url": "www.johnrayinfants.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.866884",
+  "lng": "0.55287791"
 }

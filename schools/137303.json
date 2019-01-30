@@ -14,5 +14,7 @@
   "url": "www.ijds.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.585612",
+  "lng": "-0.21468561"
 }

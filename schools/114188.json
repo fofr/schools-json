@@ -14,5 +14,7 @@
   "url": "www.st-andrews-pri.durham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.650079",
+  "lng": "-1.6685810"
 }

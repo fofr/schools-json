@@ -14,5 +14,7 @@
   "url": "http://www.stjosephs.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.477509",
+  "lng": "-0.92609856"
 }

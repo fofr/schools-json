@@ -14,5 +14,7 @@
   "url": "www.hamdrivenursery.plymouth.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "50.395584",
+  "lng": "-4.1664375"
 }

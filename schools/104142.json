@@ -14,5 +14,7 @@
   "url": "www.alumwelljuniorschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.585764",
+  "lng": "-2.0080597"
 }

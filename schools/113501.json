@@ -14,5 +14,7 @@
   "url": "http://www.clyst-vale.devon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.758530",
+  "lng": "-3.4398540"
 }

@@ -14,5 +14,7 @@
   "url": "www.arkvictoria.org",
   "phase": "All through",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.462701",
+  "lng": "-1.8463115"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.holyroodacademy.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.876012",
+  "lng": "-2.9654843"
 }

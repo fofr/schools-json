@@ -14,5 +14,7 @@
   "url": "www.staidansschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.317332",
+  "lng": "-0.14596349"
 }

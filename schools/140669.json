@@ -14,5 +14,7 @@
   "url": "http://www.newmarketacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.250193",
+  "lng": "0.39632251"
 }

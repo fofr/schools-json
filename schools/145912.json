@@ -14,5 +14,7 @@
   "url": "www.stjamesokehampton.co.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.741698",
+  "lng": "-4.0050022"
 }

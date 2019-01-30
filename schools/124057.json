@@ -14,5 +14,7 @@
   "url": "www.woodlane.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.046568",
+  "lng": "-2.2829541"
 }

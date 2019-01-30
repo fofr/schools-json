@@ -14,5 +14,7 @@
   "url": "http://www.hartpury.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.904922",
+  "lng": "-2.3102539"
 }

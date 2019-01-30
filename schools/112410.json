@@ -14,5 +14,7 @@
   "url": "www.flookburgh.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.173054",
+  "lng": "-2.9752353"
 }

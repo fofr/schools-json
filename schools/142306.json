@@ -14,5 +14,7 @@
   "url": "http://www.cockermouthschool.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.667188",
+  "lng": "-3.3510568"
 }

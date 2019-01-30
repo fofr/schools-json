@@ -14,5 +14,7 @@
   "url": "www.stjohns.reading.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.454636",
+  "lng": "-0.95315995"
 }

@@ -14,5 +14,7 @@
   "url": "www.theacornschool.co.uk",
   "phase": "Not applicable",
   "type": "Free Schools",
-  "detailed_type": "Free schools alternative provision"
+  "detailed_type": "Free schools alternative provision",
+  "lat": "53.189085",
+  "lng": "-0.55997791"
 }

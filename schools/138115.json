@@ -14,5 +14,7 @@
   "url": "http://www.st-josephs.leicester.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.645443",
+  "lng": "-1.0612050"
 }

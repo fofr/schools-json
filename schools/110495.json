@@ -14,5 +14,7 @@
   "url": "www.dchs.bucks.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.667303",
+  "lng": "-0.56984974"
 }

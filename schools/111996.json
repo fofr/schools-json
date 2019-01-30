@@ -14,5 +14,7 @@
   "url": "http://www.st-madderns.cornwall.sch.uk/website",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.131393",
+  "lng": "-5.5641707"
 }

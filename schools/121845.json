@@ -14,5 +14,7 @@
   "url": "www.maidwellprimary.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.385771",
+  "lng": "-0.90070209"
 }

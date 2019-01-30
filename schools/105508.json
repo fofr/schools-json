@@ -14,5 +14,7 @@
   "url": "www.stjamesmanchester.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.448157",
+  "lng": "-2.2160860"
 }

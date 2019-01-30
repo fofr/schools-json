@@ -14,5 +14,7 @@
   "url": "www.avenue.wilts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.206368",
+  "lng": "-2.1785218"
 }

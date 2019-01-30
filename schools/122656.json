@@ -14,5 +14,7 @@
   "url": "www.missonprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.447238",
+  "lng": "-0.96344502"
 }

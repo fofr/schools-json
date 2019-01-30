@@ -14,5 +14,7 @@
   "url": "http://www.fairburn.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.745366",
+  "lng": "-1.2845155"
 }

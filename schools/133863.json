@@ -14,5 +14,7 @@
   "url": "http://www.ox.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.757639",
+  "lng": "-1.2628860"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.courtfields.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.976350",
+  "lng": "-3.2357373"
 }

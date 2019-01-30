@@ -14,5 +14,7 @@
   "url": "http://www.john-baskeyfield.stoke.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.047232",
+  "lng": "-2.2041684"
 }

@@ -14,5 +14,7 @@
   "url": "www.weasenham.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.760157",
+  "lng": "0.74421602"
 }

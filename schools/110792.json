@@ -14,5 +14,7 @@
   "url": "http://www.milton.cambs.sch.uk/website",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.244755",
+  "lng": "0.15909649"
 }

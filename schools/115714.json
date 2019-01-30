@@ -14,5 +14,7 @@
   "url": "http://www.barnwood.gloucs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.861550",
+  "lng": "-2.2082620"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bteacademy.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.511346",
+  "lng": "-2.5535609"
 }

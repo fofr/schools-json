@@ -14,5 +14,7 @@
   "url": "http://www.poulton-le-sands.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.074531",
+  "lng": "-2.8583311"
 }

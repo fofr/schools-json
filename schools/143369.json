@@ -14,5 +14,7 @@
   "url": "http://sjb.surrey.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.308326",
+  "lng": "-0.54908563"
 }

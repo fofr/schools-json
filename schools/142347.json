@@ -14,5 +14,7 @@
   "url": "http://www.dymchurch.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.027968",
+  "lng": "0.99550976"
 }

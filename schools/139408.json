@@ -14,5 +14,7 @@
   "url": "http://www.cambournevc.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.218270",
+  "lng": "-0.082733336"
 }

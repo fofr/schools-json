@@ -14,5 +14,7 @@
   "url": "www.stpetershinckley.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.542381",
+  "lng": "-1.3658608"
 }

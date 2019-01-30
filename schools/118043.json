@@ -14,5 +14,7 @@
   "url": "www.eastoft.n-lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.639455",
+  "lng": "-0.78305466"
 }

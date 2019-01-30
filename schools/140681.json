@@ -14,5 +14,7 @@
   "url": "www.trinitypartnership.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.466285",
+  "lng": "0.61480267"
 }

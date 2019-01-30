@@ -14,5 +14,7 @@
   "url": "www.fouroaksprimary.bham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.595552",
+  "lng": "-1.8521811"
 }

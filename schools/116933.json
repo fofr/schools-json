@@ -14,5 +14,7 @@
   "url": "http://www.haybridge.worcs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.423887",
+  "lng": "-2.1489805"
 }

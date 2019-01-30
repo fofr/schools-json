@@ -14,5 +14,7 @@
   "url": "www.unitycommunityprimary.com",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.500909",
+  "lng": "-2.2491286"
 }

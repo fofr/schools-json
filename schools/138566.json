@@ -14,5 +14,7 @@
   "url": "http://www.bradfordstudioschool.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "53.793512",
+  "lng": "-1.7597064"
 }

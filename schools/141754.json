@@ -14,5 +14,7 @@
   "url": "http://www.godinton.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.153363",
+  "lng": "0.84424738"
 }

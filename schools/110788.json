@@ -14,5 +14,7 @@
   "url": "www.fordhamprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.311682",
+  "lng": "0.39499226"
 }

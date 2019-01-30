@@ -14,5 +14,7 @@
   "url": "http://www.connor-downs.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.204253",
+  "lng": "-5.3775385"
 }

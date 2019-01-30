@@ -14,5 +14,7 @@
   "url": "www.oasisacademyfirvale.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.407327",
+  "lng": "-1.4490631"
 }

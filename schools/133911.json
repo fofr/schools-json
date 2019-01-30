@@ -14,5 +14,7 @@
   "url": "http://www.worc.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.197375",
+  "lng": "-2.2430851"
 }

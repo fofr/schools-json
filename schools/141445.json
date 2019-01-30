@@ -14,5 +14,7 @@
   "url": "www.mrpablogs.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.480524",
+  "lng": "-2.1595338"
 }

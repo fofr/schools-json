@@ -14,5 +14,7 @@
   "url": "http://broadoakcollege.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.328814",
+  "lng": "-2.9761572"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.sherborne-lc.dorset.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "50.954203",
+  "lng": "-2.5143813"
 }

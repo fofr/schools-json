@@ -14,5 +14,7 @@
   "url": "www.ninemileride.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.375792",
+  "lng": "-0.85574987"
 }

@@ -14,5 +14,7 @@
   "url": "www.woodfieldpri.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.420596",
+  "lng": "-4.1505162"
 }

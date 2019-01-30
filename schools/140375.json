@@ -14,5 +14,7 @@
   "url": "www.meadgateprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.724830",
+  "lng": "0.49424005"
 }

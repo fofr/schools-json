@@ -14,5 +14,7 @@
   "url": "www.nishkamschooltrust.org",
   "phase": "All through",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.486858",
+  "lng": "-0.33639471"
 }

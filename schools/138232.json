@@ -14,5 +14,7 @@
   "url": "www.futureschoolstrust.com/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.249238",
+  "lng": "0.53211218"
 }

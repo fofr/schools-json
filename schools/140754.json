@@ -14,5 +14,7 @@
   "url": "www.somerby.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.687003",
+  "lng": "-0.85075325"
 }

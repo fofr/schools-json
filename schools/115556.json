@@ -14,5 +14,7 @@
   "url": "http://www.whiteshill.gloucs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.762368",
+  "lng": "-2.2337265"
 }

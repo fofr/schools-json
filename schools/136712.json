@@ -14,5 +14,7 @@
   "url": "www.lowbrookacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.506869",
+  "lng": "-0.75431580"
 }

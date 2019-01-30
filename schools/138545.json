@@ -14,5 +14,7 @@
   "url": "http://www.meadowhead.sheffield.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.326454",
+  "lng": "-1.4705091"
 }

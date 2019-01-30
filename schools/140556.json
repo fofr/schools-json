@@ -14,5 +14,7 @@
   "url": "http://www.st-christophers-pri.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.736468",
+  "lng": "-1.2134284"
 }

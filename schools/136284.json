@@ -14,5 +14,7 @@
   "url": "www.chat-edu.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.636490",
+  "lng": "-0.044202741"
 }

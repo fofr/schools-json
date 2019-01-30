@@ -14,5 +14,7 @@
   "url": "www.freshfordschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.339031",
+  "lng": "-2.3055682"
 }

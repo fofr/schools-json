@@ -14,5 +14,7 @@
   "url": "www.pondhu.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.333138",
+  "lng": "-4.7994408"
 }

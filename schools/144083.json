@@ -14,5 +14,7 @@
   "url": "http://www.arkcastledown.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.863055",
+  "lng": "0.59184943"
 }

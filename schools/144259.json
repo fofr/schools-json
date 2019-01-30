@@ -14,5 +14,7 @@
   "url": "www.madresfieldschool.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.125037",
+  "lng": "-2.2872711"
 }

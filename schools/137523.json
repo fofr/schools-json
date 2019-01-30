@@ -14,5 +14,7 @@
   "url": "http://www.wellswayschool.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.410177",
+  "lng": "-2.4876366"
 }

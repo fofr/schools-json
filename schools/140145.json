@@ -14,5 +14,7 @@
   "url": "www.sgsmacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.033251",
+  "lng": "-2.1660621"
 }

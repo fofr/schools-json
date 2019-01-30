@@ -14,5 +14,7 @@
   "url": "www.occoldprimaryschool.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.291828",
+  "lng": "1.1617000"
 }

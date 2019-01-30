@@ -14,5 +14,7 @@
   "url": "www.fairfield.hereford.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.037621",
+  "lng": "-2.9565506"
 }

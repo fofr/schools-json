@@ -14,5 +14,7 @@
   "url": "http://www.lovelace.kingston.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.364375",
+  "lng": "-0.31706275"
 }

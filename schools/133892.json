@@ -14,5 +14,7 @@
   "url": "http://www.dartington.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "50.453089",
+  "lng": "-3.6922076"
 }

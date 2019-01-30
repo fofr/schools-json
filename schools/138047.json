@@ -14,5 +14,7 @@
   "url": "http://www.ellacombe.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.472003",
+  "lng": "-3.5270847"
 }

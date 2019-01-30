@@ -14,5 +14,7 @@
   "url": "www.stpaulsprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.490635",
+  "lng": "-0.22719959"
 }

@@ -14,5 +14,7 @@
   "url": "www.thelimescollege.org.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.364652",
+  "lng": "-0.20139911"
 }

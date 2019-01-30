@@ -14,5 +14,7 @@
   "url": "www.lymingtonjuniorschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.761660",
+  "lng": "-1.5493763"
 }

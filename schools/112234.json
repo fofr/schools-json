@@ -14,5 +14,7 @@
   "url": "www.grjs.cumbria.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.160217",
+  "lng": "-3.1803215"
 }

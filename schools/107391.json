@@ -14,5 +14,7 @@
   "url": "www.qbury.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.765207",
+  "lng": "-1.8465643"
 }

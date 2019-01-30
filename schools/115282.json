@@ -14,5 +14,7 @@
   "url": "http://www.leverton.essex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.682952",
+  "lng": "0.018585668"
 }

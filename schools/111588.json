@@ -14,5 +14,7 @@
   "url": "http://northormesby.educatr.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.572166",
+  "lng": "-1.2108246"
 }

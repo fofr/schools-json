@@ -14,5 +14,7 @@
   "url": "www.cedarroadacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.252995",
+  "lng": "-0.86803696"
 }

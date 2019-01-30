@@ -14,5 +14,7 @@
   "url": "http://www.saintpetershigh.wigan.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.541199",
+  "lng": "-2.7005084"
 }

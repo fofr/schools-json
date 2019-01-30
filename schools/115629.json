@@ -14,5 +14,7 @@
   "url": "www.kempsfordschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.671742",
+  "lng": "-1.7773750"
 }

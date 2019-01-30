@@ -14,5 +14,7 @@
   "url": "http://callicroftprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.530687",
+  "lng": "-2.5831754"
 }

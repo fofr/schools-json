@@ -14,5 +14,7 @@
   "url": "www.skelmanthorpepri.kgfl.dbprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.592148",
+  "lng": "-1.6461193"
 }

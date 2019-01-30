@@ -14,5 +14,7 @@
   "url": "www.wix.wandsworth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.463917",
+  "lng": "-0.15137288"
 }

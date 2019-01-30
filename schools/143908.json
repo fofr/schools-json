@@ -14,5 +14,7 @@
   "url": "www.chandosprimary.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.467498",
+  "lng": "-1.8914261"
 }

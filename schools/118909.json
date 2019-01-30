@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/ianwade/index.html",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.076770",
+  "lng": "1.1511584"
 }

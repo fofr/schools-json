@@ -14,5 +14,7 @@
   "url": "battlehillps.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.008847",
+  "lng": "-1.5184989"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kingston.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.568121",
+  "lng": "0.57349180"
 }

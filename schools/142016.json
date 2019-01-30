@@ -14,5 +14,7 @@
   "url": "http://www.northfield-st-nicholas.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.486224",
+  "lng": "1.7455840"
 }

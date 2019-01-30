@@ -14,5 +14,7 @@
   "url": "http://www.collegepark.portsmouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.818228",
+  "lng": "-1.0709237"
 }

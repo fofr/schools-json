@@ -14,5 +14,7 @@
   "url": "www.woodsloke.suffolk.dbprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.487733",
+  "lng": "1.7246121"
 }

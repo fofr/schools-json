@@ -14,5 +14,7 @@
   "url": "www.reynoldsacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.563193",
+  "lng": "-0.039263033"
 }

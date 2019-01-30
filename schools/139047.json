@@ -14,5 +14,7 @@
   "url": "http://www.fourdwellingsacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.455060",
+  "lng": "-2.0036203"
 }

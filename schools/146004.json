@@ -14,5 +14,7 @@
   "url": "http://www.wraxallprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.443467",
+  "lng": "-2.7353016"
 }

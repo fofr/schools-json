@@ -14,5 +14,7 @@
   "url": "http://www.warwick.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.388402",
+  "lng": "-1.5607776"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.longmoorprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.912844",
+  "lng": "-1.2858442"
 }

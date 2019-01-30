@@ -14,5 +14,7 @@
   "url": "http://www.cirencesterkingshill.gloucs.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.716679",
+  "lng": "-1.9445570"
 }

@@ -14,5 +14,7 @@
   "url": "www.locksley-school.org",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "52.604043",
+  "lng": "1.2817821"
 }

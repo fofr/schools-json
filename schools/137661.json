@@ -14,5 +14,7 @@
   "url": "http://www.joydens-wood-junior.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.426676",
+  "lng": "0.17557775"
 }

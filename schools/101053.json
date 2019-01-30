@@ -14,5 +14,7 @@
   "url": "http://www.ernestbevin.london",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.437605",
+  "lng": "-0.16803215"
 }

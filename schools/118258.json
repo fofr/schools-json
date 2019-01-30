@@ -14,5 +14,7 @@
   "url": "www.cecilroad.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.433413",
+  "lng": "0.35643471"
 }

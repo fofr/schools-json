@@ -14,5 +14,7 @@
   "url": "http://www.bellinghamfirst.northumberland.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.142164",
+  "lng": "-2.2468174"
 }

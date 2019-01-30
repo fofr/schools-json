@@ -14,5 +14,7 @@
   "url": "http://birchfield.haltonschools.info/",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.377567",
+  "lng": "-2.7352945"
 }

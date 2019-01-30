@@ -14,5 +14,7 @@
   "url": "http://wrightrobinson.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.466511",
+  "lng": "-2.1526876"
 }

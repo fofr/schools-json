@@ -14,5 +14,7 @@
   "url": "http://www.brooksideprimaryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.116798",
+  "lng": "-2.7494042"
 }

@@ -14,5 +14,7 @@
   "url": "www.waterheadacademy.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.550602",
+  "lng": "-2.0706427"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kelsall.cheshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.204658",
+  "lng": "-2.7157867"
 }

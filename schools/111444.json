@@ -14,5 +14,7 @@
   "url": "http://www.birchwoodhigh.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.416761",
+  "lng": "-2.5294953"
 }

@@ -14,5 +14,7 @@
   "url": "www.pegasusprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.721214",
+  "lng": "-1.1929046"
 }

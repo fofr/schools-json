@@ -14,5 +14,7 @@
   "url": "www.stfrancisventnor.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.599853",
+  "lng": "-1.2205971"
 }

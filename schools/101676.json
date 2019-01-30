@@ -14,5 +14,7 @@
   "url": "http://www.saintolaves.net/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.366419",
+  "lng": "0.10390527"
 }

@@ -14,5 +14,7 @@
   "url": "www.hazelslade.staffs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.714159",
+  "lng": "-1.9669471"
 }

@@ -14,5 +14,7 @@
   "url": "www.hemblington.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.652090",
+  "lng": "1.4425253"
 }

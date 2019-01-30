@@ -14,5 +14,7 @@
   "url": "www.thevaynor.worcs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.288087",
+  "lng": "-1.9539509"
 }

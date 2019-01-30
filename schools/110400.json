@@ -14,5 +14,7 @@
   "url": "http://www.glastonburythorn.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.021733",
+  "lng": "-0.78349595"
 }

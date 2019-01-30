@@ -14,5 +14,7 @@
   "url": "http://www.nacton.suffolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.014311",
+  "lng": "1.2333159"
 }

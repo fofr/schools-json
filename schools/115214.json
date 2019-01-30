@@ -14,5 +14,7 @@
   "url": "http://www.stpetershighschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.637279",
+  "lng": "0.81259003"
 }

@@ -14,5 +14,7 @@
   "url": "www.bagthorpeprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.059345",
+  "lng": "-1.2936756"
 }

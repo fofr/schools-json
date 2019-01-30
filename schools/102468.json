@@ -14,5 +14,7 @@
   "url": "http://www.lgfl.net/lgfl/leas/hounslow/schools/alexandra-jnr/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.474152",
+  "lng": "-0.36068787"
 }

@@ -14,5 +14,7 @@
   "url": "http://website.bordengrammar.kent.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.337371",
+  "lng": "0.73463997"
 }

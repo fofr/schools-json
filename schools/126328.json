@@ -14,5 +14,7 @@
   "url": "www.hilperton.wilts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.334488",
+  "lng": "-2.1867135"
 }

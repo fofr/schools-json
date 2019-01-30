@@ -14,5 +14,7 @@
   "url": "www.langmoor.leics.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.595966",
+  "lng": "-1.0882316"
 }

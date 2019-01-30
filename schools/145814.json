@@ -14,5 +14,7 @@
   "url": "www.hartelwickfederation.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.685436",
+  "lng": "-1.2982396"
 }

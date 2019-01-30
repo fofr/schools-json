@@ -14,5 +14,7 @@
   "url": "http://www.crosby-on-eden.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.927967",
+  "lng": "-2.8633339"
 }

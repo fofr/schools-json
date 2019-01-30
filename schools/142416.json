@@ -14,5 +14,7 @@
   "url": "school.wemms.eu",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "51.309266",
+  "lng": "-0.29952365"
 }

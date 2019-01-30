@@ -14,5 +14,7 @@
   "url": "www.newtonwestpark.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.510103",
+  "lng": "-2.5364942"
 }

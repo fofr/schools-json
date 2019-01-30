@@ -14,5 +14,7 @@
   "url": "www.kedington.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.093925",
+  "lng": "0.48781517"
 }

@@ -14,5 +14,7 @@
   "url": "www.ledgerlane.outwood.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.709887",
+  "lng": "-1.5047210"
 }

@@ -14,5 +14,7 @@
   "url": "www.christs.richmond.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.458747",
+  "lng": "-0.28825954"
 }

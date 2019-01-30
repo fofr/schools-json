@@ -14,5 +14,7 @@
   "url": "www.qegschool.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.651764",
+  "lng": "-0.19679331"
 }

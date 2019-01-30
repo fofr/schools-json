@@ -14,5 +14,7 @@
   "url": "http://www.croftonacademy.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.656432",
+  "lng": "-1.4294500"
 }

@@ -14,5 +14,7 @@
   "url": "www.costesseyjunior.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.646472",
+  "lng": "1.2199750"
 }

@@ -14,5 +14,7 @@
   "url": "www.aylesford.viat.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.298134",
+  "lng": "0.46565571"
 }

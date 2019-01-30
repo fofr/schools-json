@@ -14,5 +14,7 @@
   "url": "http://www.margaretting.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.688039",
+  "lng": "0.40942600"
 }

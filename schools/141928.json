@@ -14,5 +14,7 @@
   "url": "www.broughtongifford.wilts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.368161",
+  "lng": "-2.1756174"
 }

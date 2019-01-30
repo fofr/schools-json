@@ -14,5 +14,7 @@
   "url": "http://www.falmer.brighton-hove.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.857769",
+  "lng": "-0.094185210"
 }

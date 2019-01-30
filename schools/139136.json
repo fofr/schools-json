@@ -14,5 +14,7 @@
   "url": "www.theforest-academy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.541767",
+  "lng": "-1.4565852"
 }

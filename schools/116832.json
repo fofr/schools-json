@@ -14,5 +14,7 @@
   "url": "http://www.mordiford.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.033665",
+  "lng": "-2.6259387"
 }

@@ -14,5 +14,7 @@
   "url": "www.kgaringmer.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.895457",
+  "lng": "0.067192235"
 }

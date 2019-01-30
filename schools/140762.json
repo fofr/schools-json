@@ -14,5 +14,7 @@
   "url": "http://www.stjohnstiverton.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.905271",
+  "lng": "-3.4962336"
 }

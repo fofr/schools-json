@@ -14,5 +14,7 @@
   "url": "www.musbury-primary.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.746391",
+  "lng": "-3.0285118"
 }

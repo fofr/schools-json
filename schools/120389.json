@@ -14,5 +14,7 @@
   "url": "www.south-witham.lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.763349",
+  "lng": "-0.62922420"
 }

@@ -14,5 +14,7 @@
   "url": "www.gillaslaneprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.838835",
+  "lng": "-1.4568732"
 }

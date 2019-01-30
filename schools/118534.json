@@ -14,5 +14,7 @@
   "url": "www.bromstoneschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.356492",
+  "lng": "1.4159645"
 }

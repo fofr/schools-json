@@ -14,5 +14,7 @@
   "url": "http://www.ingoldmellsprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.193504",
+  "lng": "0.33004464"
 }

@@ -14,5 +14,7 @@
   "url": "www.glendale.warwickshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.513633",
+  "lng": "-1.4888742"
 }

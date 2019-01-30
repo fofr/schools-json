@@ -14,5 +14,7 @@
   "url": "www.stokemandeville.eschools.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.785915",
+  "lng": "-0.79376330"
 }

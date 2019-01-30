@@ -14,5 +14,7 @@
   "url": "http://www.stramongate.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.329783",
+  "lng": "-2.7442644"
 }

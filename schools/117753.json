@@ -14,5 +14,7 @@
   "url": "www.winteringhamprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.687717",
+  "lng": "-0.59425059"
 }

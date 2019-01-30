@@ -14,5 +14,7 @@
   "url": "http://www.chalgrove.oxon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.666472",
+  "lng": "-1.0799673"
 }

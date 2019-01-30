@@ -14,5 +14,7 @@
   "url": "www.hoylakeholytrinity.wirral.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.394985",
+  "lng": "-3.1721050"
 }

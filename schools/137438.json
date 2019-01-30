@@ -14,5 +14,7 @@
   "url": "www.rooksnestacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.709157",
+  "lng": "-1.4976848"
 }

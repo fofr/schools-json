@@ -14,5 +14,7 @@
   "url": "http://www.orchards-tkat.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.396233",
+  "lng": "0.16989198"
 }

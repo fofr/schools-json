@@ -14,5 +14,7 @@
   "url": "http://www.rogerdeclare.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.887763",
+  "lng": "0.022663921"
 }

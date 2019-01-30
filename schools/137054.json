@@ -14,5 +14,7 @@
   "url": "http://www.runwellprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.622626",
+  "lng": "0.52396969"
 }

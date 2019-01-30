@@ -14,5 +14,7 @@
   "url": "http://www.leigham-primary.plymouth.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.405361",
+  "lng": "-4.0957279"
 }

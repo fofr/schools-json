@@ -14,5 +14,7 @@
   "url": "http://www.medway.org.uk/schools/warrenwood_www",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.363770",
+  "lng": "0.50585756"
 }

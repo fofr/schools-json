@@ -14,5 +14,7 @@
   "url": "http://www.st-wilfrids.wakefield.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.696183",
+  "lng": "-1.3610010"
 }

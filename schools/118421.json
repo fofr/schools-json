@@ -14,5 +14,7 @@
   "url": "http://www.featherby-inf.medway.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.376896",
+  "lng": "0.57532342"
 }

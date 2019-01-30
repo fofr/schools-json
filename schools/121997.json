@@ -14,5 +14,7 @@
   "url": "www.wsses.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.418296",
+  "lng": "-1.0588452"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.iss.essex.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.750533",
+  "lng": "0.10707618"
 }

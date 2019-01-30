@@ -14,5 +14,7 @@
   "url": "http://www.moorhouse.rochdale.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.613005",
+  "lng": "-2.1189047"
 }

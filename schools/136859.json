@@ -14,5 +14,7 @@
   "url": "www.cliffewoods.medway.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.435430",
+  "lng": "0.50462712"
 }

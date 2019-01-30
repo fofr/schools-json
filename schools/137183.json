@@ -14,5 +14,7 @@
   "url": "www.padstowschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.536348",
+  "lng": "-4.9458547"
 }

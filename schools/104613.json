@@ -14,5 +14,7 @@
   "url": "www.stcleopas.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.382019",
+  "lng": "-2.9680208"
 }

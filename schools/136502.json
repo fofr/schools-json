@@ -14,5 +14,7 @@
   "url": "http://www.nhtschool.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.665908",
+  "lng": "-1.7688165"
 }

@@ -14,5 +14,7 @@
   "url": "www.north-hinksey-school.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.746471",
+  "lng": "-1.2860549"
 }

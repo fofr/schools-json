@@ -14,5 +14,7 @@
   "url": "http://www.ickford.bucks.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.760542",
+  "lng": "-1.0597425"
 }

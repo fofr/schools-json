@@ -14,5 +14,7 @@
   "url": "http://www.clough.lancsngfl.ac.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.556582",
+  "lng": "-2.7673945"
 }

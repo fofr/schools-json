@@ -14,5 +14,7 @@
   "url": "www.arnovale.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.993810",
+  "lng": "-1.1279845"
 }

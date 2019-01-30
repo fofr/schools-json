@@ -14,5 +14,7 @@
   "url": "www.nancledra.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.177672",
+  "lng": "-5.5134426"
 }

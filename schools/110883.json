@@ -14,5 +14,7 @@
   "url": "http://www.elycollege.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.406586",
+  "lng": "0.25747024"
 }

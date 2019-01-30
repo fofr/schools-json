@@ -14,5 +14,7 @@
   "url": "http://www.old-hall.walsall.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "52.599642",
+  "lng": "-2.0244801"
 }

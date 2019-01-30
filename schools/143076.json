@@ -14,5 +14,7 @@
   "url": "http://www.stanwick.northants.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.332058",
+  "lng": "-0.56211223"
 }

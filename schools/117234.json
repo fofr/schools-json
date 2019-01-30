@@ -14,5 +14,7 @@
   "url": "http://www.reddings.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.745029",
+  "lng": "-0.45137121"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.saintgeorgescofe.kent.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.428449",
+  "lng": "0.36137269"
 }

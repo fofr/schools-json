@@ -14,5 +14,7 @@
   "url": "http://www.skegnessacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.151336",
+  "lng": "0.33052720"
 }

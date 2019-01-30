@@ -14,5 +14,7 @@
   "url": "http://www.kingshawthornes.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.463265",
+  "lng": "-2.9828527"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.mounts-bay.cornwall.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.128283",
+  "lng": "-5.5564521"
 }

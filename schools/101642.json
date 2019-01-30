@@ -14,5 +14,7 @@
   "url": "http://www.raglan.bromley.sch.uk/index.htm",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.394771",
+  "lng": "0.032237663"
 }

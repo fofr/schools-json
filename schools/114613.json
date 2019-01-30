@@ -14,5 +14,7 @@
   "url": "www.stcatherines.college",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.798625",
+  "lng": "0.31727061"
 }

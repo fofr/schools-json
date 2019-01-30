@@ -14,5 +14,7 @@
   "url": "www.harriers-aspirations.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.056185",
+  "lng": "-1.3418458"
 }

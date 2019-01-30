@@ -14,5 +14,7 @@
   "url": "www.broomhill.sheffield.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.377783",
+  "lng": "-1.4985241"
 }

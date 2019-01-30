@@ -14,5 +14,7 @@
   "url": "www.loseleyfields.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.205903",
+  "lng": "-0.61065468"
 }

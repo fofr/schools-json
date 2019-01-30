@@ -14,5 +14,7 @@
   "url": "www.allertonbywater.leeds.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.746807",
+  "lng": "-1.3699836"
 }

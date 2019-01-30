@@ -14,5 +14,7 @@
   "url": "http://www.heathfieldprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.526182",
+  "lng": "-1.5266645"
 }

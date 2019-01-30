@@ -14,5 +14,7 @@
   "url": "www.onewa.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.622812",
+  "lng": "-2.1375431"
 }

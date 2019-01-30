@@ -14,5 +14,7 @@
   "url": "www.silsdenprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.912530",
+  "lng": "-1.9392075"
 }

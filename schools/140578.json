@@ -14,5 +14,7 @@
   "url": "www.chs.academy",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "53.318958",
+  "lng": "-2.7208209"
 }

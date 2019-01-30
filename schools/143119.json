@@ -14,5 +14,7 @@
   "url": "www.hawkesfarmacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.876917",
+  "lng": "0.25488009"
 }

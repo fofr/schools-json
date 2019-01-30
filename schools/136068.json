@@ -14,5 +14,7 @@
   "url": "www.eastwichel.swindon.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.542725",
+  "lng": "-1.7921213"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kingscaple.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.957296",
+  "lng": "-2.6361086"
 }

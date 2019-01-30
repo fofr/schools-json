@@ -14,5 +14,7 @@
   "url": "www.newportprimary.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.071058",
+  "lng": "-4.0429031"
 }

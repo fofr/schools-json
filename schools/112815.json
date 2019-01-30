@@ -14,5 +14,7 @@
   "url": "www.elton.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.145451",
+  "lng": "-1.6692351"
 }

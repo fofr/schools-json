@@ -14,5 +14,7 @@
   "url": "www.themill-tkat.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.117077",
+  "lng": "-0.21527329"
 }

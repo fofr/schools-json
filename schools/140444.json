@@ -14,5 +14,7 @@
   "url": "http://www.ashgrove.cheshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.244867",
+  "lng": "-2.1317709"
 }

@@ -14,5 +14,7 @@
   "url": "www.regentfarmfirstschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.013105",
+  "lng": "-1.6371519"
 }

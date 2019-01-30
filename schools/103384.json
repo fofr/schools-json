@@ -14,5 +14,7 @@
   "url": "www.nelsonmandelaschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.456414",
+  "lng": "-1.8745444"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.instowcps.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.059054",
+  "lng": "-4.1675732"
 }

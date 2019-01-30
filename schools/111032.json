@@ -14,5 +14,7 @@
   "url": "http://www.alsagerhighfields.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.097987",
+  "lng": "-2.3041399"
 }

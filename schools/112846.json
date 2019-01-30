@@ -14,5 +14,7 @@
   "url": "http://www.longlane.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.939688",
+  "lng": "-1.6289186"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.churchgate.essex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.780113",
+  "lng": "0.15251216"
 }

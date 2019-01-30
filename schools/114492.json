@@ -14,5 +14,7 @@
   "url": "www.burwash-school.edicy.co/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.996866",
+  "lng": "0.38926012"
 }

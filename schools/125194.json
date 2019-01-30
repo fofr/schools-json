@@ -14,5 +14,7 @@
   "url": "http://www.stmarysprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.263409",
+  "lng": "-0.0084654577"
 }

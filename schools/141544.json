@@ -14,5 +14,7 @@
   "url": "http://www.shardlowprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.869612",
+  "lng": "-1.3564960"
 }

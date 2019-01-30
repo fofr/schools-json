@@ -14,5 +14,7 @@
   "url": "www.anstonparkjuniors.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.360729",
+  "lng": "-1.2131513"
 }

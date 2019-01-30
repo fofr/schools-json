@@ -14,5 +14,7 @@
   "url": "http://www.pinehurst-primary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.434032",
+  "lng": "-2.9474671"
 }

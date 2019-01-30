@@ -14,5 +14,7 @@
   "url": "http://www.ravenswood.bromley.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.369442",
+  "lng": "0.035641557"
 }

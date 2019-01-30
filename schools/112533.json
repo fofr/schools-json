@@ -14,5 +14,7 @@
   "url": "http://www.clowne-inf.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.273113",
+  "lng": "-1.2622066"
 }

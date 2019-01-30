@@ -14,5 +14,7 @@
   "url": "www.bwschool.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.404661",
+  "lng": "-2.0177269"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.elhamprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.151464",
+  "lng": "1.1105242"
 }

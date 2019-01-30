@@ -14,5 +14,7 @@
   "url": "www.royallatin.bucks.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.993486",
+  "lng": "-0.98615671"
 }

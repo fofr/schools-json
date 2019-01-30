@@ -14,5 +14,7 @@
   "url": "www.greatcoatesnursery.com",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.572188",
+  "lng": "-0.13626287"
 }

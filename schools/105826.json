@@ -14,5 +14,7 @@
   "url": "http://www.stjohnsrc.rochdale.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.610526",
+  "lng": "-2.1563362"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kingsschoolhove.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.841996",
+  "lng": "-0.22364462"
 }

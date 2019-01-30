@@ -14,5 +14,7 @@
   "url": "www.langfordvillageacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.060002",
+  "lng": "-0.27076668"
 }

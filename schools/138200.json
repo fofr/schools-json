@@ -14,5 +14,7 @@
   "url": "https://corecentral.academy",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.483783",
+  "lng": "-1.9072748"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.keyhambarton.plymouth.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.390166",
+  "lng": "-4.1772206"
 }

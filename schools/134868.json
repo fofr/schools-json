@@ -14,5 +14,7 @@
   "url": "http://www.witham-st-hughs.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.152078",
+  "lng": "-0.66523782"
 }

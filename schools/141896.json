@@ -14,5 +14,7 @@
   "url": "www.cudham.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.314917",
+  "lng": "0.054752126"
 }

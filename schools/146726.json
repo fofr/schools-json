@@ -14,5 +14,7 @@
   "url": "www.braybrookprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.545487",
+  "lng": "-0.28140532"
 }

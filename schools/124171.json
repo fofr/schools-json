@@ -14,5 +14,7 @@
   "url": "http://www.johnbamford.staffs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.763769",
+  "lng": "-1.9550838"
 }

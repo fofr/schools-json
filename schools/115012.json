@@ -14,5 +14,7 @@
   "url": "www.edwardfrancisprimaryschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.591679",
+  "lng": "0.61234918"
 }

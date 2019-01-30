@@ -14,5 +14,7 @@
   "url": "www.green.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.108050",
+  "lng": "-1.3425022"
 }

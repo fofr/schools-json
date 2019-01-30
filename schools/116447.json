@@ -14,5 +14,7 @@
   "url": "http://www.fernhill.hants.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.315418",
+  "lng": "-0.76956586"
 }

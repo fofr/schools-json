@@ -14,5 +14,7 @@
   "url": "uptoncross.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.535261",
+  "lng": "0.030414618"
 }

@@ -14,5 +14,7 @@
   "url": "www.harrowbarrow.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.506793",
+  "lng": "-4.2566412"
 }

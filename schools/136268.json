@@ -14,5 +14,7 @@
   "url": "http://www.tollbaracademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.521032",
+  "lng": "-0.080296315"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.elloweshall.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.526459",
+  "lng": "-2.1294294"
 }

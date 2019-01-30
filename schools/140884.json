@@ -14,5 +14,7 @@
   "url": "http://www.maryleboneschool.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.542381",
+  "lng": "-0.21146044"
 }

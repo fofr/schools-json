@@ -14,5 +14,7 @@
   "url": "www.northfield-tmet.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.651820",
+  "lng": "-1.0986597"
 }

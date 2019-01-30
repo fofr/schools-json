@@ -14,5 +14,7 @@
   "url": "http://www.stphilips.e-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.964455",
+  "lng": "0.096487150"
 }

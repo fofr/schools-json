@@ -14,5 +14,7 @@
   "url": "http://www.hillsidespecial.org.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "52.048692",
+  "lng": "0.73292095"
 }

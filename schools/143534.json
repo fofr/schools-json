@@ -14,5 +14,7 @@
   "url": "www.princesrisboroughprimary.bucks.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.729315",
+  "lng": "-0.83038344"
 }

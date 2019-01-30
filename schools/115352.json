@@ -14,5 +14,7 @@
   "url": "http://www.nfgs.essex.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.987465",
+  "lng": "0.21234032"
 }

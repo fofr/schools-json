@@ -14,5 +14,7 @@
   "url": "http://www.benhurst.havering.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.554583",
+  "lng": "0.20402176"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.clanfield.oxon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.712943",
+  "lng": "-1.5885945"
 }

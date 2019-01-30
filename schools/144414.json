@@ -14,5 +14,7 @@
   "url": "http://www.sherborneabbey.dorset.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.939437",
+  "lng": "-2.5305713"
 }

@@ -14,5 +14,7 @@
   "url": "www.wixamstreeprimary.co.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.088033",
+  "lng": "-0.46728646"
 }

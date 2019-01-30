@@ -14,5 +14,7 @@
   "url": "www.penponds.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.201306",
+  "lng": "-5.3115257"
 }

@@ -14,5 +14,7 @@
   "url": "www.aldryngton.wokingham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.438039",
+  "lng": "-0.92654893"
 }

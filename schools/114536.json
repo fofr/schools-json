@@ -14,5 +14,7 @@
   "url": "www.pells.esussex.dbprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.878845",
+  "lng": "0.0027426446"
 }

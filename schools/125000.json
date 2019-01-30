@@ -14,5 +14,7 @@
   "url": "http://knaphill.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.317043",
+  "lng": "-0.62309921"
 }

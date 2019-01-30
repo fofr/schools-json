@@ -14,5 +14,7 @@
   "url": "http://www.tshlc.harrow.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.599501",
+  "lng": "-0.33620914"
 }

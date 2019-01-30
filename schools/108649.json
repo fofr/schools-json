@@ -14,5 +14,7 @@
   "url": "http://www.wellfieldmiddleschool.org.uk/",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.041498",
+  "lng": "-1.4907851"
 }

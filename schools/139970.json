@@ -14,5 +14,7 @@
   "url": "http://collectivespirit.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.523722",
+  "lng": "-2.1594399"
 }

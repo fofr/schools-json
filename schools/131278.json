@@ -14,5 +14,7 @@
   "url": "http://www.draytoninfantschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.684219",
+  "lng": "1.2209034"
 }

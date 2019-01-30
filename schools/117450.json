@@ -14,5 +14,7 @@
   "url": "http://www.ssasinfants.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.749332",
+  "lng": "-0.32138006"
 }

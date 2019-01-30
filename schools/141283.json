@@ -14,5 +14,7 @@
   "url": "http://www.stminver.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.552746",
+  "lng": "-4.8946230"
 }

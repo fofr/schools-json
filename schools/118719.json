@@ -14,5 +14,7 @@
   "url": "http://www.fordcombe.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.141368",
+  "lng": "0.18034924"
 }

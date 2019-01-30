@@ -14,5 +14,7 @@
   "url": "http://www.northgate.suffolk.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.071929",
+  "lng": "1.1807492"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.catmoseprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.666273",
+  "lng": "-0.74028742"
 }

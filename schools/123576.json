@@ -14,5 +14,7 @@
   "url": "http://www.taw.org.uk/phoenix",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.658066",
+  "lng": "-2.4689467"
 }

@@ -14,5 +14,7 @@
   "url": "www.medlar-wesham.lancsngfl.ac.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.789933",
+  "lng": "-2.8854633"
 }

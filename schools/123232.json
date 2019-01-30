@@ -14,5 +14,7 @@
   "url": "http://www.banbury.oxon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.050263",
+  "lng": "-1.3438577"
 }

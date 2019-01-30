@@ -14,5 +14,7 @@
   "url": "www.turnermorehall.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.088346",
+  "lng": "1.1508459"
 }

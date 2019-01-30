@@ -14,5 +14,7 @@
   "url": "http://www.stonehenge.wilts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.173842",
+  "lng": "-1.7730123"
 }

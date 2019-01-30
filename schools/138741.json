@@ -14,5 +14,7 @@
   "url": "www.milfordacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.898829",
+  "lng": "-1.1774485"
 }

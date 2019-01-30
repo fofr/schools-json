@@ -14,5 +14,7 @@
   "url": "http://www.cam.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.205304",
+  "lng": "0.11661316"
 }

@@ -14,5 +14,7 @@
   "url": "www.woodside.dudley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.496256",
+  "lng": "-2.1080269"
 }

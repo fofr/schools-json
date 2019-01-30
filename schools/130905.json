@@ -14,5 +14,7 @@
   "url": "www.southamprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.255746",
+  "lng": "-1.3915637"
 }

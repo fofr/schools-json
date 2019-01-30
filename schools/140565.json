@@ -14,5 +14,7 @@
   "url": "http://ruthgorse.leeds.sch.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.790975",
+  "lng": "-1.5353400"
 }

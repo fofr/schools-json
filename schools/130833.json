@@ -14,5 +14,7 @@
   "url": "www.strodes.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.432507",
+  "lng": "-0.55030561"
 }

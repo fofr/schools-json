@@ -14,5 +14,7 @@
   "url": "www.cottonsfarm.theharmonytrust.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.884765",
+  "lng": "-1.4827096"
 }

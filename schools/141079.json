@@ -14,5 +14,7 @@
   "url": "www.kilsbyprimary.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.334678",
+  "lng": "-1.1758879"
 }

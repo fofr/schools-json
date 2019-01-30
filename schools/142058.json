@@ -14,5 +14,7 @@
   "url": "www.sewellparkacademy.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.646967",
+  "lng": "1.2980246"
 }

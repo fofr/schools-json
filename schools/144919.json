@@ -14,5 +14,7 @@
   "url": "www.huttonceprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.324211",
+  "lng": "-2.9307806"
 }

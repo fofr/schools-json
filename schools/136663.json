@@ -14,5 +14,7 @@
   "url": "http://www.abbscross.net",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.553245",
+  "lng": "0.20818374"
 }

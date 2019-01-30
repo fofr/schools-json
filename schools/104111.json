@@ -14,5 +14,7 @@
   "url": "http://www.schoolsite.edex.net.uk/234/index.htm",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.385188",
+  "lng": "-1.7382961"
 }

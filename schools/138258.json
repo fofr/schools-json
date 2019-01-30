@@ -14,5 +14,7 @@
   "url": "www.emmanuelcommunityschool.co.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.587533",
+  "lng": "-0.014143139"
 }

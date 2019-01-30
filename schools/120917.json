@@ -14,5 +14,7 @@
   "url": "www.ormesbyvillagejuniorschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.676458",
+  "lng": "1.6891071"
 }

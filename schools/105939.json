@@ -14,5 +14,7 @@
   "url": "www.irlamendowed.salford.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.448614",
+  "lng": "-2.4216915"
 }

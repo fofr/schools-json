@@ -7,12 +7,14 @@
   "town": "Telford",
   "county": "Shropshire",
   "postcode": "TF2 9GZ",
-  "minimum_age": "4",
+  "minimum_age": "3",
   "maximum_age": "11",
   "easting": "371943",
   "northing": "310663",
   "url": "www.redhill.taw.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.692917",
+  "lng": "-2.4165587"
 }

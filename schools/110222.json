@@ -14,5 +14,7 @@
   "url": "www.three-schools-bucks.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.949741",
+  "lng": "-0.77924612"
 }

@@ -14,5 +14,7 @@
   "url": "www.camboschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.167013",
+  "lng": "-1.9636938"
 }

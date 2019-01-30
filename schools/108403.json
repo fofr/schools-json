@@ -14,5 +14,7 @@
   "url": "www.lordlawson.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.892867",
+  "lng": "-1.5704437"
 }

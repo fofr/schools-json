@@ -14,5 +14,7 @@
   "url": "http://www.bansteadinfant.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.321928",
+  "lng": "-0.20964401"
 }

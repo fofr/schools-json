@@ -14,5 +14,7 @@
   "url": "http://www.cuthbertmayne.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.759535",
+  "lng": "-0.48257868"
 }

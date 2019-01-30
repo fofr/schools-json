@@ -14,5 +14,7 @@
   "url": "http://www.penair.cornwall.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.267548",
+  "lng": "-5.0308059"
 }

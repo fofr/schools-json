@@ -14,5 +14,7 @@
   "url": "www.twsf.lancs.sch.uk",
   "phase": "16 plus",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.806368",
+  "lng": "-2.2380155"
 }

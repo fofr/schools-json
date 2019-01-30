@@ -14,5 +14,7 @@
   "url": "www.northwold.hackney.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.562415",
+  "lng": "-0.064075722"
 }

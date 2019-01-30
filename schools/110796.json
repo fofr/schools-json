@@ -14,5 +14,7 @@
   "url": "www.haslingfield.cambs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.149906",
+  "lng": "0.053483197"
 }

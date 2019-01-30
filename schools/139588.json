@@ -14,5 +14,7 @@
   "url": "http://lifesciencesutc.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "53.394598",
+  "lng": "-2.9786527"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.guth.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.581466",
+  "lng": "-1.1192450"
 }

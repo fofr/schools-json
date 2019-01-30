@@ -14,5 +14,7 @@
   "url": "http://chauncyschool.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.814890",
+  "lng": "-0.045381115"
 }

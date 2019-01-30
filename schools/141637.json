@@ -14,5 +14,7 @@
   "url": "www.cleehill.shropshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.373010",
+  "lng": "-2.6003947"
 }

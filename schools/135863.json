@@ -14,5 +14,7 @@
   "url": "http://www.suffolkone.ac.uk/",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.043644",
+  "lng": "1.1055922"
 }

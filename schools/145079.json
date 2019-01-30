@@ -14,5 +14,7 @@
   "url": "www.astreaintake.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.527429",
+  "lng": "-1.1025378"
 }

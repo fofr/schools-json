@@ -14,5 +14,7 @@
   "url": "http://www.jackhunt.peterborough.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.578515",
+  "lng": "-0.27614377"
 }

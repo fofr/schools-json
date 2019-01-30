@@ -14,5 +14,7 @@
   "url": "www.smmacademy.org/courtyard",
   "phase": "Not applicable",
   "type": "Free Schools",
-  "detailed_type": "Free schools special"
+  "detailed_type": "Free schools special",
+  "lat": "51.548077",
+  "lng": "-0.10677122"
 }

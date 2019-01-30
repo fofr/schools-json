@@ -14,5 +14,7 @@
   "url": "http://www.st-annes.southampton.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.914871",
+  "lng": "-1.4058212"
 }

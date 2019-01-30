@@ -14,5 +14,7 @@
   "url": "www.canning.newcastle.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.973079",
+  "lng": "-1.6584615"
 }

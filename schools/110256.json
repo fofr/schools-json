@@ -14,5 +14,7 @@
   "url": "www.bushfieldschool.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.059572",
+  "lng": "-0.80679827"
 }

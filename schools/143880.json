@@ -14,5 +14,7 @@
   "url": "www.balfourjuniorschool.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.373253",
+  "lng": "0.51532761"
 }

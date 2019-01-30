@@ -14,5 +14,7 @@
   "url": "https://theroyalschool.co.uk/",
   "phase": "All through",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.572100",
+  "lng": "-2.1381514"
 }

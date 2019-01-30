@@ -14,5 +14,7 @@
   "url": "http://www.st-marks-ce.lancsngfl.ac.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.614552",
+  "lng": "-2.9406819"
 }

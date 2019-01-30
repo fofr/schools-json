@@ -14,5 +14,7 @@
   "url": "http://www.sbec.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.315014",
+  "lng": "1.2731821"
 }

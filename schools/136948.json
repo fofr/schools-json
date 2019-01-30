@@ -14,5 +14,7 @@
   "url": "http://www.westonfavellacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.259054",
+  "lng": "-0.84663797"
 }

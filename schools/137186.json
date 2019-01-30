@@ -14,5 +14,7 @@
   "url": "http://www.dysonperrins.worcs.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.133064",
+  "lng": "-2.3292374"
 }

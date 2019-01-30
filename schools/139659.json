@@ -14,5 +14,7 @@
   "url": "http://www.oasisacademysouthbank.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.498381",
+  "lng": "-0.11164071"
 }

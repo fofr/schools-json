@@ -14,5 +14,7 @@
   "url": "http://www.babbacombe-primary.torbay.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.473937",
+  "lng": "-3.5153654"
 }

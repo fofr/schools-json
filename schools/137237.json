@@ -14,5 +14,7 @@
   "url": "http://www.thamesmead.surrey.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.393836",
+  "lng": "-0.44209984"
 }

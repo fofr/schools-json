@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/hamstead",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.530310",
+  "lng": "-1.9420984"
 }

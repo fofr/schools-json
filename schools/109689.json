@@ -11,8 +11,10 @@
   "maximum_age": "13",
   "easting": "491908",
   "northing": "224973",
-  "url": "www.leighton.beds.sch.uk",
+  "url": "www.leightonmiddle.org.uk",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.915712",
+  "lng": "-0.66514579"
 }

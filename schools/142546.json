@@ -14,5 +14,7 @@
   "url": "www.ferndaleprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.572362",
+  "lng": "-1.7924913"
 }

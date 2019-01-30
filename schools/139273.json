@@ -14,5 +14,7 @@
   "url": "www.flpa-tkat.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.869862",
+  "lng": "-0.97915768"
 }

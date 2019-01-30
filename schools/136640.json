@@ -14,5 +14,7 @@
   "url": "http://www.mountbatten.hants.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.983338",
+  "lng": "-1.4689829"
 }

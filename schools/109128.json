@@ -14,5 +14,7 @@
   "url": "http://www.fouracresschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.407977",
+  "lng": "-2.6285977"
 }

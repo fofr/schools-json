@@ -14,5 +14,7 @@
   "url": "http://www.broadwater.w-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.828484",
+  "lng": "-0.37714554"
 }

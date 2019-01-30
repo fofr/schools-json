@@ -14,5 +14,7 @@
   "url": "www.st-michaels-horton.staffs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.125401",
+  "lng": "-2.0865733"
 }

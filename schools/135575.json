@@ -14,5 +14,7 @@
   "url": "http://bccs.bristol.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.451229",
+  "lng": "-2.6007839"
 }

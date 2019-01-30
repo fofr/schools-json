@@ -14,5 +14,7 @@
   "url": "www.woolhamptonschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.405758",
+  "lng": "-1.1715694"
 }

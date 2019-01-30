@@ -14,5 +14,7 @@
   "url": "www.honitonprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.802018",
+  "lng": "-3.1878348"
 }

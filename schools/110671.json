@@ -14,5 +14,7 @@
   "url": "www.icknield.cambs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.125595",
+  "lng": "0.18046101"
 }

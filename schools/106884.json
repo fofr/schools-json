@@ -14,5 +14,7 @@
   "url": "www.kivetonparkinfants.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.341621",
+  "lng": "-1.2670629"
 }

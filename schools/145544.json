@@ -14,5 +14,7 @@
   "url": "www.waterfieldprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.108064",
+  "lng": "-0.22517744"
 }

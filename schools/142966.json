@@ -14,5 +14,7 @@
   "url": "www.drapersbrookside.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.609227",
+  "lng": "0.22479398"
 }

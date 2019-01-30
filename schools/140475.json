@@ -14,5 +14,7 @@
   "url": "www.loxford.net",
   "phase": "All through",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.549313",
+  "lng": "0.088980780"
 }

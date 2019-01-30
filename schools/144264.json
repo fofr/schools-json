@@ -14,5 +14,7 @@
   "url": "www.cwr.york.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.982563",
+  "lng": "-1.1110846"
 }

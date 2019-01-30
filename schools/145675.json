@@ -14,5 +14,7 @@
   "url": "http://www.northcurryschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.019438",
+  "lng": "-2.9738359"
 }

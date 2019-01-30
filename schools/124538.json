@@ -14,5 +14,7 @@
   "url": "http://www.hundon.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.110088",
+  "lng": "0.53619717"
 }

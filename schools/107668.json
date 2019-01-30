@@ -14,5 +14,7 @@
   "url": "http://www.heatonavenuepri.kgfl.dbprimary.com/kgfl/primary/heatonavenuepri",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.724644",
+  "lng": "-1.7254687"
 }

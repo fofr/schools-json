@@ -14,5 +14,7 @@
   "url": "http://www.south-brent-primary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.425890",
+  "lng": "-3.8312534"
 }

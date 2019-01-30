@@ -14,5 +14,7 @@
   "url": "http://www.tggs.torbay.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.477041",
+  "lng": "-3.5534900"
 }

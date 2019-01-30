@@ -14,5 +14,7 @@
   "url": "www.mabscross.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.551359",
+  "lng": "-2.6271551"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bostonhighschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.988527",
+  "lng": "-0.010534143"
 }

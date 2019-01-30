@@ -14,5 +14,7 @@
   "url": "www.morley.leeds.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.742182",
+  "lng": "-1.6068656"
 }

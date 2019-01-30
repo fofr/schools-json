@@ -14,5 +14,7 @@
   "url": "http://www.binleywoodsprimaryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.390757",
+  "lng": "-1.4099442"
 }

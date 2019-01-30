@@ -14,5 +14,7 @@
   "url": "www.riverbeach.w-sussex.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.811948",
+  "lng": "-0.54288586"
 }

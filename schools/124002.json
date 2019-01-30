@@ -14,5 +14,7 @@
   "url": "www.blurton-pri.stoke.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.980763",
+  "lng": "-2.1596051"
 }

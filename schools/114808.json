@@ -14,5 +14,7 @@
   "url": "http://www.lenwastell.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.565502",
+  "lng": "0.50081844"
 }

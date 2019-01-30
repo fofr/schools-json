@@ -14,5 +14,7 @@
   "url": "http://grangeschool.net",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Foundation special school"
+  "detailed_type": "Foundation special school",
+  "lat": "52.122240",
+  "lng": "-0.49344326"
 }

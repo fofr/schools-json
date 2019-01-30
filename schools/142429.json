@@ -14,5 +14,7 @@
   "url": "www.kingsnorth.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.118170",
+  "lng": "0.86444960"
 }

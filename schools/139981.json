@@ -14,5 +14,7 @@
   "url": "www.eastfieldprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.609502",
+  "lng": "-0.21395056"
 }

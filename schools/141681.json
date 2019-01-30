@@ -14,5 +14,7 @@
   "url": "http://www.roseacres.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.870336",
+  "lng": "0.26960373"
 }

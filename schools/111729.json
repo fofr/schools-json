@@ -14,5 +14,7 @@
   "url": "http://www.bydales.outwood.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.596190",
+  "lng": "-1.0225683"
 }

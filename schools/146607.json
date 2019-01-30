@@ -14,5 +14,7 @@
   "url": "www.walton-on-trent-primary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.757707",
+  "lng": "-1.6790086"
 }

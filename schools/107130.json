@@ -14,5 +14,7 @@
   "url": "http://www.chaucer.sheffield.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.426525",
+  "lng": "-1.4871004"
 }

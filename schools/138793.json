@@ -14,5 +14,7 @@
   "url": "http://www.inspirationtrust.org/greatyarmouthprimary",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.595109",
+  "lng": "1.7335755"
 }

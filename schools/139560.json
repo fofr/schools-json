@@ -14,5 +14,7 @@
   "url": "www.pinderfieldshospitalpru.co.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.700949",
+  "lng": "-1.5214270"
 }

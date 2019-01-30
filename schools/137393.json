@@ -14,5 +14,7 @@
   "url": "www.newnorthacademy.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.539702",
+  "lng": "-0.094947914"
 }

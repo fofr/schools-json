@@ -14,5 +14,7 @@
   "url": "www.st-hughs.oldham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.528056",
+  "lng": "-2.0765335"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.morpethallsaints.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "55.174000",
+  "lng": "-1.7070666"
 }

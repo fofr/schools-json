@@ -14,5 +14,7 @@
   "url": "www.streetly.walsall.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.569596",
+  "lng": "-1.8822190"
 }

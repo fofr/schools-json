@@ -14,5 +14,7 @@
   "url": "constantine.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.120425",
+  "lng": "-5.1792252"
 }

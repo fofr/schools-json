@@ -14,5 +14,7 @@
   "url": "www.bishopr.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.661755",
+  "lng": "-2.7674733"
 }

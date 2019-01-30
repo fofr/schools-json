@@ -14,5 +14,7 @@
   "url": "http://www.stockporttechnicalschool.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.402939",
+  "lng": "-2.1566860"
 }

@@ -14,5 +14,7 @@
   "url": "www.lgfl.net/lgfl/leas/haringey/schools/john-loughborough/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.592911",
+  "lng": "-0.067500369"
 }

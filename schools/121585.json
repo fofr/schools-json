@@ -14,5 +14,7 @@
   "url": "http://www.saxton.n-yorks.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.826348",
+  "lng": "-1.2797490"
 }

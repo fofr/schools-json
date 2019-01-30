@@ -14,5 +14,7 @@
   "url": "www.didsbury-pri.manchester.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.415896",
+  "lng": "-2.2309375"
 }

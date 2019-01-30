@@ -14,5 +14,7 @@
   "url": "http://www.parkhall-inf.walsall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.570804",
+  "lng": "-1.9519603"
 }

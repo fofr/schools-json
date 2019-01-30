@@ -14,5 +14,7 @@
   "url": "http://www.st-aelreds.st-helens.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.456352",
+  "lng": "-2.6233441"
 }

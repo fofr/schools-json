@@ -14,5 +14,7 @@
   "url": "http://www.bexleygs.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.456499",
+  "lng": "0.10705181"
 }

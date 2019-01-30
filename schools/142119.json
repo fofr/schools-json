@@ -14,5 +14,7 @@
   "url": "www.hunsleyprimary.org.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.726856",
+  "lng": "-0.53286085"
 }

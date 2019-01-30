@@ -14,5 +14,7 @@
   "url": "http://www.whitefield.barnet.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.573628",
+  "lng": "-0.21900827"
 }

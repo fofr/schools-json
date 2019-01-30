@@ -14,5 +14,7 @@
   "url": "www.bishopspark.essex.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.792116",
+  "lng": "1.1199189"
 }

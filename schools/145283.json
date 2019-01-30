@@ -14,5 +14,7 @@
   "url": "http://oaklandsinfants.boxbear.co.uk/index.html",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.376239",
+  "lng": "-0.80155723"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.perins.net",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.088941",
+  "lng": "-1.1665459"
 }

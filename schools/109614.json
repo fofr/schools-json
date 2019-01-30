@@ -11,8 +11,10 @@
   "maximum_age": "11",
   "easting": "502243",
   "northing": "249926",
-  "url": "www.stjamesvalower.org.uk/",
+  "url": "http://www.stjamesprimary.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.138180",
+  "lng": "-0.50748864"
 }

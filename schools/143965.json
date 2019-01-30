@@ -14,5 +14,7 @@
   "url": "www.birleyspaacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.346811",
+  "lng": "-1.3890672"
 }

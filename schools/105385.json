@@ -14,5 +14,7 @@
   "url": "www.collyhurst.manchester.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.495615",
+  "lng": "-2.2217841"
 }

@@ -14,5 +14,7 @@
   "url": "www.stmatthewsprudhoe.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.958565",
+  "lng": "-1.8560043"
 }

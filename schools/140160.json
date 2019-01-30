@@ -14,5 +14,7 @@
   "url": "www.wmcutc.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "52.591888",
+  "lng": "-2.1201455"
 }

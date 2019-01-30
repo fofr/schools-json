@@ -14,5 +14,7 @@
   "url": "www.stjosephs-dinnington.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.368423",
+  "lng": "-1.2075240"
 }

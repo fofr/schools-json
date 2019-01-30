@@ -14,5 +14,7 @@
   "url": "http://www.archwayinfo.co.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "54.568822",
+  "lng": "-1.1652141"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.yewtree.bham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.510524",
+  "lng": "-1.8827745"
 }

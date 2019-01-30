@@ -14,5 +14,7 @@
   "url": "http://www.st-peters-canterbury.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.279865",
+  "lng": "1.0768303"
 }

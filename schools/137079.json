@@ -14,5 +14,7 @@
   "url": "http://www.george-eliot.warwickshire.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.508480",
+  "lng": "-1.4581993"
 }

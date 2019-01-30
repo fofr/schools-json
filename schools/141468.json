@@ -14,5 +14,7 @@
   "url": "www.leicestershire.schooljotter.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.555864",
+  "lng": "-1.4364651"
 }

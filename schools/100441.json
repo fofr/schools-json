@@ -14,5 +14,7 @@
   "url": "www.st-josephs.islington.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.568607",
+  "lng": "-0.14168935"
 }

@@ -14,5 +14,7 @@
   "url": "www.shieldroadprimaryschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.503839",
+  "lng": "-2.5720556"
 }

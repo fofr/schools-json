@@ -14,5 +14,7 @@
   "url": "http://www.thetrinityprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.419015",
+  "lng": "-2.9869778"
 }

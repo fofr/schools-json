@@ -14,5 +14,7 @@
   "url": "http://www.st-thomas-more.oxon.digitalbrain.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.816000",
+  "lng": "-1.2831581"
 }

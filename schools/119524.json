@@ -14,5 +14,7 @@
   "url": "http://www.st-pauls-ce34.lancsngfl.ac.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.074116",
+  "lng": "-2.7003445"
 }

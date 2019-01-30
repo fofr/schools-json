@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/effra/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.457233",
+  "lng": "-0.10949615"
 }

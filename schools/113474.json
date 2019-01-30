@@ -14,5 +14,7 @@
   "url": "http://www.priory-primary.torbay.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.482813",
+  "lng": "-3.5264324"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-columb-major.cornwall.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.431536",
+  "lng": "-4.9447337"
 }

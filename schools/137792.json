@@ -14,5 +14,7 @@
   "url": "http://onslow.herts.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.760212",
+  "lng": "-0.22052947"
 }

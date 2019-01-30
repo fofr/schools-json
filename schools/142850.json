@@ -14,5 +14,7 @@
   "url": "www.mount-charlessch.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.336988",
+  "lng": "-4.7750718"
 }

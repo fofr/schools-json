@@ -14,5 +14,7 @@
   "url": "http://www.anthonycurton.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.732789",
+  "lng": "0.22152879"
 }

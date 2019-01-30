@@ -14,5 +14,7 @@
   "url": "http://www.st-leonards.durham.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.783522",
+  "lng": "-1.5867782"
 }

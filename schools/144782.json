@@ -14,5 +14,7 @@
   "url": "www.priestley.ac.uk",
   "phase": "16 plus",
   "type": "Academies",
-  "detailed_type": "Academy 16-19 converter"
+  "detailed_type": "Academy 16-19 converter",
+  "lat": "53.379588",
+  "lng": "-2.5843695"
 }

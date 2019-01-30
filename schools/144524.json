@@ -14,5 +14,7 @@
   "url": "www.beechhill.newcastle.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.994286",
+  "lng": "-1.6919175"
 }

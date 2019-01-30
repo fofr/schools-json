@@ -14,5 +14,7 @@
   "url": "http://www.dixonsma.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.786799",
+  "lng": "-1.7647837"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.wilcombe-pri.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.902077",
+  "lng": "-3.4687399"
 }

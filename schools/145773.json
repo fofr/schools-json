@@ -14,5 +14,7 @@
   "url": "www.mountnessing.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.653434",
+  "lng": "0.35354737"
 }

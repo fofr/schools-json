@@ -14,5 +14,7 @@
   "url": "http://www.halfpennylane.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.689889",
+  "lng": "-1.3261610"
 }

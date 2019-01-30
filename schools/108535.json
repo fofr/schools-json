@@ -14,5 +14,7 @@
   "url": "www.st-cuthbertshigh.newcastle.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.978948",
+  "lng": "-1.6753639"
 }

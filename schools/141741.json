@@ -14,5 +14,7 @@
   "url": "http://www.chasehigh.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.552634",
+  "lng": "0.68932543"
 }

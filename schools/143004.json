@@ -14,5 +14,7 @@
   "url": "www.durringtoninfantschool.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.201767",
+  "lng": "-1.7711720"
 }

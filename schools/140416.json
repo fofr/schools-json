@@ -14,5 +14,7 @@
   "url": "http://www.courtfields.net/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.976350",
+  "lng": "-3.2357373"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.ncl.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "54.980320",
+  "lng": "-1.6157134"
 }

@@ -14,5 +14,7 @@
   "url": "www.greatworth.schooljotter2.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.078727",
+  "lng": "-1.1956674"
 }

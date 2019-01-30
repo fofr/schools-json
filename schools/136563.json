@@ -14,5 +14,7 @@
   "url": "http://www.widecombe.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.576658",
+  "lng": "-3.8120818"
 }

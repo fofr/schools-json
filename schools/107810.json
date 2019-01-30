@@ -14,5 +14,7 @@
   "url": "www.rawdonlittlemoor.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.855438",
+  "lng": "-1.6889641"
 }

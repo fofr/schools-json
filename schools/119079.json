@@ -14,5 +14,7 @@
   "url": "waltonlane.org",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.838580",
+  "lng": "-2.1825336"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-helens-jun.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.628679",
+  "lng": "0.30357045"
 }

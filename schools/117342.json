@@ -14,5 +14,7 @@
   "url": "http://www.highbeeches.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.813455",
+  "lng": "-0.33666842"
 }

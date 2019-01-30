@@ -14,5 +14,7 @@
   "url": "www.victoriaparkschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.450715",
+  "lng": "-2.3042318"
 }

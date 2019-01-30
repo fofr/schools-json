@@ -14,5 +14,7 @@
   "url": "www.colliers-green.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.121199",
+  "lng": "0.51178352"
 }

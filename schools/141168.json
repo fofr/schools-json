@@ -14,5 +14,7 @@
   "url": "www.westlynn.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.754291",
+  "lng": "0.38609799"
 }

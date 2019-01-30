@@ -14,5 +14,7 @@
   "url": "www.woodlands.org.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "50.868822",
+  "lng": "-1.0055706"
 }

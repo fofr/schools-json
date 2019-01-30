@@ -14,5 +14,7 @@
   "url": "www.bomereheath.shropshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.769701",
+  "lng": "-2.7808719"
 }

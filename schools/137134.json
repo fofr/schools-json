@@ -14,5 +14,7 @@
   "url": "http://www.inspirationtrust.org/eastpointacademy",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.468265",
+  "lng": "1.7284012"
 }

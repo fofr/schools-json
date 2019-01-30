@@ -14,5 +14,7 @@
   "url": "www.hampton.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.365113",
+  "lng": "1.1045280"
 }

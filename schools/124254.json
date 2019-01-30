@@ -14,5 +14,7 @@
   "url": "http://www.st-johns-keele.staffs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.005256",
+  "lng": "-2.2856641"
 }

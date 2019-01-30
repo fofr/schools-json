@@ -14,5 +14,7 @@
   "url": "http://www.catmoseprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.666273",
+  "lng": "-0.74028742"
 }

@@ -14,5 +14,7 @@
   "url": "www.cherryorchard-pri.worcs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.178178",
+  "lng": "-2.2114651"
 }

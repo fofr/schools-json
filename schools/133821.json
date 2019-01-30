@@ -14,5 +14,7 @@
   "url": "http://www.surrart.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.216715",
+  "lng": "-0.80481543"
 }

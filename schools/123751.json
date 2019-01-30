@@ -14,5 +14,7 @@
   "url": "www.currymalletschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.988421",
+  "lng": "-2.9532826"
 }

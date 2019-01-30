@@ -14,5 +14,7 @@
   "url": "www.bishopchavasseschool.org.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.185657",
+  "lng": "0.29065318"
 }

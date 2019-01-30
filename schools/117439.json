@@ -14,5 +14,7 @@
   "url": "http://www.hormead.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.949767",
+  "lng": "0.032437872"
 }

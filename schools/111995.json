@@ -14,5 +14,7 @@
   "url": "http://www.king-charles.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.148740",
+  "lng": "-5.0739063"
 }

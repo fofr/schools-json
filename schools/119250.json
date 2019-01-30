@@ -14,5 +14,7 @@
   "url": "http://www.kelbrook.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.896711",
+  "lng": "-2.1515151"
 }

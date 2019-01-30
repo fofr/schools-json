@@ -14,5 +14,7 @@
   "url": "www.yarlside.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.121733",
+  "lng": "-3.1883313"
 }

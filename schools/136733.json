@@ -14,5 +14,7 @@
   "url": "http://www.parkhouseschool.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.379702",
+  "lng": "-1.3405549"
 }

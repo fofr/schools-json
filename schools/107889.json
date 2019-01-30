@@ -14,5 +14,7 @@
   "url": "www.quarrymount.leeds.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.815405",
+  "lng": "-1.5546324"
 }

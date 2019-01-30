@@ -14,5 +14,7 @@
   "url": "www.williammacgregor.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.629155",
+  "lng": "-1.6822393"
 }

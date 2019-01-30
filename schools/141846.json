@@ -14,5 +14,7 @@
   "url": "http://www.turnditch.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.015487",
+  "lng": "-1.5608799"
 }

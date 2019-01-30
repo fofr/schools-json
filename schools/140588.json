@@ -14,5 +14,7 @@
   "url": "http://www.stcatherines.academy",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.402167",
+  "lng": "-1.4666822"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.combertonfirstschoolworcs.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.381504",
+  "lng": "-2.2251002"
 }

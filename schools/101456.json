@@ -14,5 +14,7 @@
   "url": "http://www.ourlady.bexley.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.447564",
+  "lng": "0.091759308"
 }

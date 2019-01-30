@@ -14,5 +14,7 @@
   "url": "http://www.leeming-raf.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.291485",
+  "lng": "-1.5158543"
 }

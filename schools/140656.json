@@ -14,5 +14,7 @@
   "url": "www.alston.bham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.481469",
+  "lng": "-1.8310357"
 }

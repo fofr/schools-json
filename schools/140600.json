@@ -14,5 +14,7 @@
   "url": "http://www.energycoastutc.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "54.615874",
+  "lng": "-3.5203549"
 }

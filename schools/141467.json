@@ -14,5 +14,7 @@
   "url": "http://www.bromptonwestbrook.medway.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.385217",
+  "lng": "0.53399334"
 }

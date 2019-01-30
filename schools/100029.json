@@ -14,5 +14,7 @@
   "url": "http://www.cchurchnw1.camden.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.531140",
+  "lng": "-0.14423915"
 }

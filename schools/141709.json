@@ -14,5 +14,7 @@
   "url": "www.mevagisseyschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.278872",
+  "lng": "-4.7873826"
 }

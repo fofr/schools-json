@@ -14,5 +14,7 @@
   "url": "http://www.mercenfeld.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.683205",
+  "lng": "-1.2772723"
 }

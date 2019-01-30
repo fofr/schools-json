@@ -14,5 +14,7 @@
   "url": "http://www.inspirationtrust.org/norwichprimary",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.637386",
+  "lng": "1.2454289"
 }

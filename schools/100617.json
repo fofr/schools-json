@@ -14,5 +14,7 @@
   "url": "http://www.st-leonards.lambeth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.427104",
+  "lng": "-0.13565465"
 }

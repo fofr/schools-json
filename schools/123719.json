@@ -14,5 +14,7 @@
   "url": "www.eastcokerschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.914534",
+  "lng": "-2.6581975"
 }

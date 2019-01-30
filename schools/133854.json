@@ -14,5 +14,7 @@
   "url": "http://www.unn.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "54.976762",
+  "lng": "-1.6074983"
 }

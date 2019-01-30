@@ -14,5 +14,7 @@
   "url": "http://www.stgeorge.camden.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.522372",
+  "lng": "-0.11660180"
 }

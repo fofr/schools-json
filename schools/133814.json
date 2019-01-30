@@ -14,5 +14,7 @@
   "url": "http://www.uel.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.507476",
+  "lng": "0.064758803"
 }

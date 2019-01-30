@@ -14,5 +14,7 @@
   "url": "www.barfordschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.245097",
+  "lng": "-1.6039351"
 }

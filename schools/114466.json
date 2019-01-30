@@ -14,5 +14,7 @@
   "url": "www.westriseinf.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.800891",
+  "lng": "0.30277870"
 }

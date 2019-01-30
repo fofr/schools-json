@@ -14,5 +14,7 @@
   "url": "http://www.godolphin-jun.slough.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.523379",
+  "lng": "-0.60882782"
 }

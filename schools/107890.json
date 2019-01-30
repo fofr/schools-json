@@ -14,5 +14,7 @@
   "url": "www.springbankprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.817125",
+  "lng": "-1.5753317"
 }

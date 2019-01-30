@@ -14,5 +14,7 @@
   "url": "www.brookehillprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.660834",
+  "lng": "-0.73693956"
 }

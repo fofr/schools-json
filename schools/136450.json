@@ -14,5 +14,7 @@
   "url": "http://www.platanoscollege.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.473546",
+  "lng": "-0.11960707"
 }

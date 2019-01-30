@@ -14,5 +14,7 @@
   "url": "http://www.bishophenderson.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.244435",
+  "lng": "-2.4555093"
 }

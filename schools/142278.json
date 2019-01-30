@@ -14,5 +14,7 @@
   "url": "http://www.claytonhallacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.988822",
+  "lng": "-2.2189083"
 }

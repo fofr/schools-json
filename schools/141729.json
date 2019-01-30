@@ -14,5 +14,7 @@
   "url": "www.maltbylillyhallacademy.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.424683",
+  "lng": "-1.2170428"
 }

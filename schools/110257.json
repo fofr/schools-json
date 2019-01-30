@@ -14,5 +14,7 @@
   "url": "www.wyvernschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.060636",
+  "lng": "-0.81514261"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.driffieldschool.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.009151",
+  "lng": "-0.42587887"
 }

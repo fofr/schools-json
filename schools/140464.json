@@ -14,5 +14,7 @@
   "url": "http://mordifordceprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.033665",
+  "lng": "-2.6259387"
 }

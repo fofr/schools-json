@@ -14,5 +14,7 @@
   "url": "http://www.huntonarrathorne.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.327483",
+  "lng": "-1.7106639"
 }

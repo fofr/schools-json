@@ -14,5 +14,7 @@
   "url": "http://www.mardenvale.dsat.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.445235",
+  "lng": "-1.9993181"
 }

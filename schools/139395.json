@@ -14,5 +14,7 @@
   "url": "http://www.theboulevardacademy.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.740936",
+  "lng": "-0.37099208"
 }

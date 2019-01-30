@@ -14,5 +14,7 @@
   "url": "www.agsb.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.376475",
+  "lng": "-2.3512467"
 }

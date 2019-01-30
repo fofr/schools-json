@@ -14,5 +14,7 @@
   "url": "www.millenniumschools.co.uk/redcar/skeltonprimary/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.562708",
+  "lng": "-0.96995216"
 }

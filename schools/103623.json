@@ -14,5 +14,7 @@
   "url": "http://www.spfldhs.bham.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "52.383400",
+  "lng": "-1.7046033"
 }

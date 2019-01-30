@@ -14,5 +14,7 @@
   "url": "http://www.martonmanorprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.534738",
+  "lng": "-1.2113920"
 }

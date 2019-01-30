@@ -14,5 +14,7 @@
   "url": "www.st-vincents.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.428981",
+  "lng": "0.043580826"
 }

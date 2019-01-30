@@ -14,5 +14,7 @@
   "url": "www.jcbacademy.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.950664",
+  "lng": "-1.8374315"
 }

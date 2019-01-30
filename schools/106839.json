@@ -14,5 +14,7 @@
   "url": "www.ferhamprimary.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.429892",
+  "lng": "-1.3766343"
 }

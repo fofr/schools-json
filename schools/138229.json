@@ -14,5 +14,7 @@
   "url": "http://www.wiganutc.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "53.548933",
+  "lng": "-2.6338053"
 }

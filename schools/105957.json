@@ -11,8 +11,10 @@
   "maximum_age": "11",
   "easting": "378090",
   "northing": "401664",
-  "url": "",
+  "url": "http://www.stmarys-swinton.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.511197",
+  "lng": "-2.3318528"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bramley.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.332955",
+  "lng": "-1.0578909"
 }

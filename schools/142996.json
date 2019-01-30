@@ -14,5 +14,7 @@
   "url": "www.burnsideacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.846162",
+  "lng": "-1.4801810"
 }

@@ -14,5 +14,7 @@
   "url": "www.piggottschool.org",
   "phase": "All through",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.490383",
+  "lng": "-0.87126314"
 }

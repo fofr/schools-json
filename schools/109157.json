@@ -14,5 +14,7 @@
   "url": "www.almondsburyprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.553136",
+  "lng": "-2.5744770"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.ranelagh.bracknell-forest.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.411142",
+  "lng": "-0.74613447"
 }

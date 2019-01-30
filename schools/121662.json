@@ -14,5 +14,7 @@
   "url": "http://www.canonlee.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.976186",
+  "lng": "-1.1007303"
 }

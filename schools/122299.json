@@ -14,5 +14,7 @@
   "url": "www.tritlington.firstschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "55.225177",
+  "lng": "-1.7046317"
 }

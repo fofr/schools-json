@@ -14,5 +14,7 @@
   "url": "http://www.biltongrange.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.005914",
+  "lng": "-1.5384889"
 }

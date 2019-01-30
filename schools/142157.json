@@ -14,5 +14,7 @@
   "url": "http://www.medway.org.uk/schools/st-johns_",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.378476",
+  "lng": "0.51965223"
 }

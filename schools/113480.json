@@ -14,5 +14,7 @@
   "url": "www.meavy.devon.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.485796",
+  "lng": "-4.0533845"
 }

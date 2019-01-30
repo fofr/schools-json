@@ -14,5 +14,7 @@
   "url": "http://www.naburnschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.902367",
+  "lng": "-1.0899877"
 }

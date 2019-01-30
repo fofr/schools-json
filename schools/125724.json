@@ -14,5 +14,7 @@
   "url": "www.englishmartyrs.warwickshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.356979",
+  "lng": "-1.2217117"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.srpa.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.186207",
+  "lng": "-0.59142841"
 }

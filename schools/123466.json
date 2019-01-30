@@ -14,5 +14,7 @@
   "url": "http://childsercall.shropshire.digitalbrain.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.822349",
+  "lng": "-2.4982568"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.brutonprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.112673",
+  "lng": "-2.4559690"
 }

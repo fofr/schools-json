@@ -14,5 +14,7 @@
   "url": "www.thorntree.greenwich.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.486736",
+  "lng": "0.041841067"
 }

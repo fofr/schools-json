@@ -14,5 +14,7 @@
   "url": "http://www.samuelkingsschool.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.811060",
+  "lng": "-2.4399374"
 }

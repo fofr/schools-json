@@ -14,5 +14,7 @@
   "url": "www.stjosephscatholicacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.075927",
+  "lng": "-2.2135737"
 }

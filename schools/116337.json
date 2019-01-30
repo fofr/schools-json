@@ -14,5 +14,7 @@
   "url": "www.rowledgeschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.183173",
+  "lng": "-0.82786011"
 }

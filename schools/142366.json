@@ -14,5 +14,7 @@
   "url": "http://www.sandringham.surrey.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.308719",
+  "lng": "-0.72674725"
 }

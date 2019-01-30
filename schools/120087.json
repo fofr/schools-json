@@ -14,5 +14,7 @@
   "url": "www.beaumontlodgeprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.674612",
+  "lng": "-1.1602492"
 }

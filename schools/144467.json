@@ -14,5 +14,7 @@
   "url": "www.scargill.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.967962",
+  "lng": "-1.3625264"
 }

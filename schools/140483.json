@@ -14,5 +14,7 @@
   "url": "www.isleofelyprimary.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.411182",
+  "lng": "0.26492469"
 }

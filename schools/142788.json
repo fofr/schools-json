@@ -14,5 +14,7 @@
   "url": "http://www.woodfordprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.394310",
+  "lng": "-4.0739945"
 }

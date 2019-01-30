@@ -14,5 +14,7 @@
   "url": "www.coppice.lancs.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "53.732272",
+  "lng": "-2.6533261"
 }

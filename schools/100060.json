@@ -14,5 +14,7 @@
   "url": "http://www.gosh.camden.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Foundation special school"
+  "detailed_type": "Foundation special school",
+  "lat": "51.522210",
+  "lng": "-0.11992393"
 }

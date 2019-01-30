@@ -14,5 +14,7 @@
   "url": "www.marstongreeninfantschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.465723",
+  "lng": "-1.7516702"
 }

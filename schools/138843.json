@@ -14,5 +14,7 @@
   "url": "www.stmichaelsacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.946828",
+  "lng": "-2.6216719"
 }

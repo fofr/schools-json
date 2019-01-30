@@ -14,5 +14,7 @@
   "url": "http://www.stanthonysrcprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.373231",
+  "lng": "-2.2599705"
 }

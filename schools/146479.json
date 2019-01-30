@@ -14,5 +14,7 @@
   "url": "www.mouseholdinfants.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.640771",
+  "lng": "1.3077002"
 }

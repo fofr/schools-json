@@ -14,5 +14,7 @@
   "url": "www.powershall.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.805479",
+  "lng": "0.62395637"
 }

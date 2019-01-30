@@ -14,5 +14,7 @@
   "url": "http://www.sjc.staffs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.987868",
+  "lng": "-2.1987488"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.heathfieldcommunityschool.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.035002",
+  "lng": "-3.0627719"
 }

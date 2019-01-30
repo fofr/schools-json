@@ -14,5 +14,7 @@
   "url": "www.oasisacademynewoak.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.420749",
+  "lng": "-2.5697661"
 }

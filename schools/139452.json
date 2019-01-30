@@ -14,5 +14,7 @@
   "url": "www.meregrn.bham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.588400",
+  "lng": "-1.8281013"
 }

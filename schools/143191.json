@@ -14,5 +14,7 @@
   "url": "http://www.stthomasprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.715129",
+  "lng": "-3.5390110"
 }

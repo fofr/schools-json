@@ -14,5 +14,7 @@
   "url": "http://www.barneswallisacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.106190",
+  "lng": "-0.18094378"
 }

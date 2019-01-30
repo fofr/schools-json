@@ -14,5 +14,7 @@
   "url": "http://stpauls.herts.dbprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.715572",
+  "lng": "-0.051418307"
 }

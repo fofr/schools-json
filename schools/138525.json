@@ -14,5 +14,7 @@
   "url": "http://www.trinitynewbury.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.413160",
+  "lng": "-1.3184478"
 }

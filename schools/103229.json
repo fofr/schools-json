@@ -14,5 +14,7 @@
   "url": "http://www.lyndongi.bham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.460762",
+  "lng": "-1.7949682"
 }

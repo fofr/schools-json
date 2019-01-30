@@ -14,5 +14,7 @@
   "url": "www.st-josephs.beds.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.134756",
+  "lng": "-0.49136998"
 }

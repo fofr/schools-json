@@ -14,5 +14,7 @@
   "url": "http://www.pegasusacademytrust.org/cypress-primary-school",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.408089",
+  "lng": "-0.083010233"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stthomas-kilnhurst.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.475562",
+  "lng": "-1.3109072"
 }

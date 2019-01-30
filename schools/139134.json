@@ -14,5 +14,7 @@
   "url": "www.foxhillprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.428943",
+  "lng": "-1.4954693"
 }

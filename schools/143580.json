@@ -14,5 +14,7 @@
   "url": "https://www.learnerstrust.org/bjs",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.261387",
+  "lng": "-1.4045265"
 }

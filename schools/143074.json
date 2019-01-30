@@ -14,5 +14,7 @@
   "url": "http://www.waveneyvalleypartnership.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.338373",
+  "lng": "1.2102444"
 }

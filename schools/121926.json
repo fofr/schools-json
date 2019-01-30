@@ -14,5 +14,7 @@
   "url": "http://www.whitehillsprimary.northants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.274677",
+  "lng": "-0.90973990"
 }

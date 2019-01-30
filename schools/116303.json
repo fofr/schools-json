@@ -14,5 +14,7 @@
   "url": "www.nurslingprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.944146",
+  "lng": "-1.4682195"
 }

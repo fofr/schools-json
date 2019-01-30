@@ -14,5 +14,7 @@
   "url": "www.hendonbrook.lancs.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.838580",
+  "lng": "-2.1825336"
 }

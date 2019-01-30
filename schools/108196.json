@@ -14,5 +14,7 @@
   "url": "www.towngateprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.682156",
+  "lng": "-1.5693165"
 }

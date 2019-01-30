@@ -14,5 +14,7 @@
   "url": "www.st-catherines.manchester.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.416460",
+  "lng": "-2.2226204"
 }

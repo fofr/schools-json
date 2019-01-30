@@ -14,5 +14,7 @@
   "url": "walthamleas.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.518042",
+  "lng": "-0.099135591"
 }

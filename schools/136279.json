@@ -14,5 +14,7 @@
   "url": "http://brineleas.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.056525",
+  "lng": "-2.5143835"
 }

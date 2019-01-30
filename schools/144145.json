@@ -14,5 +14,7 @@
   "url": "www.georgewhitejunior.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.641263",
+  "lng": "1.3039377"
 }

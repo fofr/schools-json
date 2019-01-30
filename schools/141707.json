@@ -14,5 +14,7 @@
   "url": "http://www.elystmarys.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.408083",
+  "lng": "0.27735178"
 }

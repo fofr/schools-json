@@ -14,5 +14,7 @@
   "url": "www.skegbyjunioracademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.146987",
+  "lng": "-1.2693631"
 }

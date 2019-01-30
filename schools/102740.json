@@ -14,5 +14,7 @@
   "url": "www.romanroad.newham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.521836",
+  "lng": "0.044347785"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.churwell.leeds.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.758550",
+  "lng": "-1.5962471"
 }

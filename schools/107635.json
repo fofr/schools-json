@@ -14,5 +14,7 @@
   "url": "http://birstall.kgfl.digitalbrain.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.730921",
+  "lng": "-1.6600073"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.ashperton.hereford.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.070554",
+  "lng": "-2.5186548"
 }

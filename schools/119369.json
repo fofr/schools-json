@@ -14,5 +14,7 @@
   "url": "http://www.standrewsinfants.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.689290",
+  "lng": "-2.7025260"
 }

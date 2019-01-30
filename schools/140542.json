@@ -14,5 +14,7 @@
   "url": "http://www.utcolleges.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "53.542330",
+  "lng": "-2.1195210"
 }

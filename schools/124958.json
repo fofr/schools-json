@@ -14,5 +14,7 @@
   "url": "www.auriol.surrey.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.369841",
+  "lng": "-0.25132150"
 }

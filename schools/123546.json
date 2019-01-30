@@ -14,5 +14,7 @@
   "url": "http://www.longden.shropshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.653382",
+  "lng": "-2.8272251"
 }

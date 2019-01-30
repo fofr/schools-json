@@ -14,5 +14,7 @@
   "url": "www.woodfield.shropshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.709185",
+  "lng": "-2.7749654"
 }

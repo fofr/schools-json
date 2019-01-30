@@ -14,5 +14,7 @@
   "url": "http://www.manland.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.823585",
+  "lng": "-0.34790377"
 }

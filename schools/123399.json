@@ -14,5 +14,7 @@
   "url": "http://www.stokeonternschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.852573",
+  "lng": "-2.5146559"
 }

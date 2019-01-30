@@ -14,5 +14,7 @@
   "url": "www.utcleeds.com",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "53.788239",
+  "lng": "-1.5343988"
 }

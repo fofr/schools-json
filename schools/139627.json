@@ -14,5 +14,7 @@
   "url": "http://www.st-hughs-catholic-primary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.213254",
+  "lng": "-0.61107291"
 }

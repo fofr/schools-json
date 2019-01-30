@@ -14,5 +14,7 @@
   "url": "www.silverdaleprimaryacademy.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.872445",
+  "lng": "0.55555428"
 }

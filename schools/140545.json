@@ -14,5 +14,7 @@
   "url": "http://www.ditchingham.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.471386",
+  "lng": "1.4494537"
 }

@@ -14,5 +14,7 @@
   "url": "www.greenacres.shropshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.741061",
+  "lng": "-2.7385743"
 }

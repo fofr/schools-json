@@ -14,5 +14,7 @@
   "url": "www.timberleyacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.497056",
+  "lng": "-1.7711582"
 }

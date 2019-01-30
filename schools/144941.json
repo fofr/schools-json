@@ -14,5 +14,7 @@
   "url": "www.allsaintscarshalton.sutton.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.365053",
+  "lng": "-0.15886195"
 }

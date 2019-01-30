@@ -14,5 +14,7 @@
   "url": "http://ruskinacademy.education",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.298573",
+  "lng": "-0.72302960"
 }

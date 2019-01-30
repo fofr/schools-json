@@ -14,5 +14,7 @@
   "url": "www.greatwakering.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.552529",
+  "lng": "0.80064840"
 }

@@ -14,5 +14,7 @@
   "url": "www.holytrinity.hackney.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.544388",
+  "lng": "-0.072960591"
 }

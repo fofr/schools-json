@@ -14,5 +14,7 @@
   "url": "www.northwootton.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.786326",
+  "lng": "0.43834980"
 }

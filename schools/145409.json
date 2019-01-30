@@ -14,5 +14,7 @@
   "url": "www.springmead.herts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.803264",
+  "lng": "-0.16946208"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.easingtoncsc.durham.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.781535",
+  "lng": "-1.3539503"
 }

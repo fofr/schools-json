@@ -14,5 +14,7 @@
   "url": "dawley.academy",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.663313",
+  "lng": "-2.4719601"
 }

@@ -14,5 +14,7 @@
   "url": "www.stanthonys.slough.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.532964",
+  "lng": "-0.61709969"
 }

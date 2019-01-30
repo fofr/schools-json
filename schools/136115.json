@@ -14,5 +14,7 @@
   "url": "http://theoldhamacademynorth.e-act.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.560309",
+  "lng": "-2.1252783"
 }

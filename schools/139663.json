@@ -14,5 +14,7 @@
   "url": "http://www.sirthomasfremantle.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.948915",
+  "lng": "-0.89017066"
 }

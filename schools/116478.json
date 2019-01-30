@@ -14,5 +14,7 @@
   "url": "http://www.bcs.hants.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.256560",
+  "lng": "-1.1228645"
 }

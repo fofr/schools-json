@@ -14,5 +14,7 @@
   "url": "www.silvertreeprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.777510",
+  "lng": "-1.6436306"
 }

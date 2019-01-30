@@ -14,5 +14,7 @@
   "url": "www.kingfisherhall.schooljotter2.com/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.651802",
+  "lng": "-0.044627881"
 }

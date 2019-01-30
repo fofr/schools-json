@@ -14,5 +14,7 @@
   "url": "www.priorycity.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.213125",
+  "lng": "-0.57354846"
 }

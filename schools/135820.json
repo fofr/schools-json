@@ -14,5 +14,7 @@
   "url": "www.christtheking.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.248015",
+  "lng": "-2.1297724"
 }

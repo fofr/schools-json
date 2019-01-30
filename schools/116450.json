@@ -14,5 +14,7 @@
   "url": "http://www.regentsparkcollege.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.922746",
+  "lng": "-1.4418014"
 }

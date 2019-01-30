@@ -14,5 +14,7 @@
   "url": "http://www.st-tudy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.554131",
+  "lng": "-4.7320689"
 }

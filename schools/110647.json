@@ -14,5 +14,7 @@
   "url": "http://www.newroad.cambs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.551796",
+  "lng": "-0.10901136"
 }

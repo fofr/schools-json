@@ -14,5 +14,7 @@
   "url": "www.egacademy.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.395557",
+  "lng": "-1.4586714"
 }

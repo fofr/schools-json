@@ -14,5 +14,7 @@
   "url": "http://www.thedownsschool.org/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.513264",
+  "lng": "-1.2533760"
 }

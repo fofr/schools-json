@@ -14,5 +14,7 @@
   "url": "http://www.inspirationtrust.org/cobholmprimary",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.608115",
+  "lng": "1.7141749"
 }

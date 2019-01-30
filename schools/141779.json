@@ -14,5 +14,7 @@
   "url": "www.st-lawrence.staffs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.782540",
+  "lng": "-2.2521038"
 }

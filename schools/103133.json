@@ -14,5 +14,7 @@
   "url": "http://www.weoleycastlenursery.co.uk/",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "52.437840",
+  "lng": "-1.9683294"
 }

@@ -14,5 +14,7 @@
   "url": "http://createstudiogoole.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "53.708166",
+  "lng": "-0.88377736"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.oldershaw.wirral.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.422602",
+  "lng": "-3.0502040"
 }

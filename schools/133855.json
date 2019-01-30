@@ -14,5 +14,7 @@
   "url": "http://www.ntu.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "52.956363",
+  "lng": "-1.1520044"
 }

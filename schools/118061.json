@@ -14,5 +14,7 @@
   "url": "http://www.winifred-holtby.hull.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.782287",
+  "lng": "-0.31833195"
 }

@@ -14,5 +14,7 @@
   "url": "www.vicarage.newham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.526819",
+  "lng": "0.060703303"
 }

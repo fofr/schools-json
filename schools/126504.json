@@ -14,5 +14,7 @@
   "url": "http://www.stjosephs.swindon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.564736",
+  "lng": "-1.7636150"
 }

@@ -14,5 +14,7 @@
   "url": "http://mcsbrent.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.562733",
+  "lng": "-0.27894737"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.silverdale.lancsngfl.ac.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.170744",
+  "lng": "-2.8250899"
 }

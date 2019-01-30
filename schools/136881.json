@@ -14,5 +14,7 @@
   "url": "www.trewirgie-inf.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.229566",
+  "lng": "-5.2287375"
 }

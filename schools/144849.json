@@ -14,5 +14,7 @@
   "url": "www.ringsfield.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.428924",
+  "lng": "1.5382738"
 }

@@ -14,5 +14,7 @@
   "url": "www.nortoninhalesschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.940987",
+  "lng": "-2.4475236"
 }

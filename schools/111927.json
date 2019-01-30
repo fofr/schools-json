@@ -14,5 +14,7 @@
   "url": "www.camelford.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.621767",
+  "lng": "-4.6854979"
 }

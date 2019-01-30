@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Not applicable",
   "type": "Colleges",
-  "detailed_type": "Sixth form centres"
+  "detailed_type": "Sixth form centres",
+  "lat": "52.618145",
+  "lng": "1.2862954"
 }

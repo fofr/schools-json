@@ -14,5 +14,7 @@
   "url": "www.stanleygreen.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.734498",
+  "lng": "-1.9809884"
 }

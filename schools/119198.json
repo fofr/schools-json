@@ -14,5 +14,7 @@
   "url": "www.water.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.726563",
+  "lng": "-2.2429293"
 }

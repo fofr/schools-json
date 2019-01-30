@@ -14,5 +14,7 @@
   "url": "www.sherburnhungate.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.800194",
+  "lng": "-1.2506207"
 }

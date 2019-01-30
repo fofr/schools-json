@@ -14,5 +14,7 @@
   "url": "http://www.stpaulsprimaryyork.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.954992",
+  "lng": "-1.0995709"
 }

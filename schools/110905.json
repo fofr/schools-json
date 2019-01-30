@@ -14,5 +14,7 @@
   "url": "http://www.longsands.cambs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.232426",
+  "lng": "-0.25208066"
 }

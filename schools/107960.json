@@ -14,5 +14,7 @@
   "url": "www.armley-pri.leeds.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.800821",
+  "lng": "-1.5883866"
 }

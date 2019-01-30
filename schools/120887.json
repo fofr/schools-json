@@ -14,5 +14,7 @@
   "url": "www.walpolehighway.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.700951",
+  "lng": "0.24155085"
 }

@@ -14,5 +14,7 @@
   "url": "www.whissendineschool.com/index.asp",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.719922",
+  "lng": "-0.77158142"
 }

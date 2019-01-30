@@ -14,5 +14,7 @@
   "url": "www.cravenprimaryacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.751787",
+  "lng": "-0.31005585"
 }

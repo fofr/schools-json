@@ -14,5 +14,7 @@
   "url": "www.fairway.stockport.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.400680",
+  "lng": "-2.1198146"
 }

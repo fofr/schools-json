@@ -14,5 +14,7 @@
   "url": "www.chagford-primaryschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.676874",
+  "lng": "-3.8379351"
 }

@@ -14,5 +14,7 @@
   "url": "www.haslington.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.097116",
+  "lng": "-2.3954850"
 }

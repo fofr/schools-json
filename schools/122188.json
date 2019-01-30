@@ -14,5 +14,7 @@
   "url": "www.branton.northumberland.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.440900",
+  "lng": "-1.9283394"
 }

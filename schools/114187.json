@@ -14,5 +14,7 @@
   "url": "http://www.copelandroad.durham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.628674",
+  "lng": "-1.7267944"
 }

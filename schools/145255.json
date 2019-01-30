@@ -14,5 +14,7 @@
   "url": "http://www.groveroad.herts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.802016",
+  "lng": "-0.65189993"
 }

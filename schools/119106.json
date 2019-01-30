@@ -14,5 +14,7 @@
   "url": "www.goldenhill.lancs.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.697342",
+  "lng": "-2.7118385"
 }

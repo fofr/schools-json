@@ -14,5 +14,7 @@
   "url": "www.helmeschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.603831",
+  "lng": "-1.8508361"
 }

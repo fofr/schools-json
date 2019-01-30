@@ -14,5 +14,7 @@
   "url": "http://www.meolscophighschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.638686",
+  "lng": "-2.9743884"
 }

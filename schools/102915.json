@@ -14,5 +14,7 @@
   "url": "http://www.st-stephens.richmond.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.456912",
+  "lng": "-0.32372299"
 }

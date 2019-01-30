@@ -14,5 +14,7 @@
   "url": "www.lyng.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.717780",
+  "lng": "1.0587942"
 }

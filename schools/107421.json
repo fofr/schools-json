@@ -14,5 +14,7 @@
   "url": "http://www.ilkleygs.ngfl.ac.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.921811",
+  "lng": "-1.8139242"
 }

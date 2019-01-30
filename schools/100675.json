@@ -14,5 +14,7 @@
   "url": "www.childericprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.476973",
+  "lng": "-0.037900512"
 }

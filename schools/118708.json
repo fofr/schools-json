@@ -14,5 +14,7 @@
   "url": "http://www.stmargaretsattroytown.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.384075",
+  "lng": "0.50472472"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.parksideschool.org.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "52.059490",
+  "lng": "1.1870727"
 }

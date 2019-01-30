@@ -14,5 +14,7 @@
   "url": "http://www.bellerbys.com/locations/cambridge",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "52.195255",
+  "lng": "0.12437369"
 }

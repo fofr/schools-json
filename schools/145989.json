@@ -14,5 +14,7 @@
   "url": "www.alderton-inf.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.642867",
+  "lng": "0.066987243"
 }

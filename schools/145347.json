@@ -14,5 +14,7 @@
   "url": "http://www.dunsford.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.690141",
+  "lng": "-3.6837350"
 }

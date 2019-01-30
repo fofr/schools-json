@@ -14,5 +14,7 @@
   "url": "http://staidansacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.525809",
+  "lng": "-1.5325400"
 }

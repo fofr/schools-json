@@ -14,5 +14,7 @@
   "url": "www.devonshire.blackpool.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.822062",
+  "lng": "-3.0373836"
 }

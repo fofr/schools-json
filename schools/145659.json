@@ -14,5 +14,7 @@
   "url": "www.penhaleinfants.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.798452",
+  "lng": "-1.0741254"
 }

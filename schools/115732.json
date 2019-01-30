@@ -14,5 +14,7 @@
   "url": "http://www.lydney.net/primrosehill",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.736578",
+  "lng": "-2.5263913"
 }

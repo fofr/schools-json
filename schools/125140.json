@@ -14,5 +14,7 @@
   "url": "www.valleyend.surrey.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.364939",
+  "lng": "-0.63339934"
 }

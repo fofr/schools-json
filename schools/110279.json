@@ -14,5 +14,7 @@
   "url": "www.iverheathjunior.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.537767",
+  "lng": "-0.52134118"
 }

@@ -14,5 +14,7 @@
   "url": "www.marlcliffe.sheffield.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.413479",
+  "lng": "-1.5118854"
 }

@@ -14,5 +14,7 @@
   "url": "www.eddiversity.com",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.806699",
+  "lng": "-3.0291987"
 }

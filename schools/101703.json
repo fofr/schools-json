@@ -14,5 +14,7 @@
   "url": "www.chipsteadvalley.com",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.319405",
+  "lng": "-0.15199347"
 }

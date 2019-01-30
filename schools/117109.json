@@ -14,5 +14,7 @@
   "url": "http://www.tudor.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.746249",
+  "lng": "-0.46348288"
 }

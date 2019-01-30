@@ -14,5 +14,7 @@
   "url": "http://www.blue-coat.oldham.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.546035",
+  "lng": "-2.1074281"
 }

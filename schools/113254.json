@@ -14,5 +14,7 @@
   "url": "http://www.moorswayfederation.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.392303",
+  "lng": "-3.9206770"
 }

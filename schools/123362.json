@@ -14,5 +14,7 @@
   "url": "www.crudgingtonschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.763607",
+  "lng": "-2.5461796"
 }

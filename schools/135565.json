@@ -14,5 +14,7 @@
   "url": "www.prioryacademies.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.208213",
+  "lng": "-0.54641429"
 }

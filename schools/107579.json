@@ -14,5 +14,7 @@
   "url": "http://www.bbs.calderdale.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.681253",
+  "lng": "-1.8489886"
 }

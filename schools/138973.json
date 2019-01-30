@@ -14,5 +14,7 @@
   "url": "http://cottingleyprimaryacademy.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.768639",
+  "lng": "-1.5842106"
 }

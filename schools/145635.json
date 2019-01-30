@@ -14,5 +14,7 @@
   "url": "www.kislingburyschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.229564",
+  "lng": "-0.97841673"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bridgewaterhigh.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.362735",
+  "lng": "-2.5751076"
 }

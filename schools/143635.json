@@ -14,5 +14,7 @@
   "url": "www.gossopsgreen.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.110027",
+  "lng": "-0.21353056"
 }

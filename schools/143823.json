@@ -14,5 +14,7 @@
   "url": "http://sigglesthorne.ebor.academy/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.896645",
+  "lng": "-0.24356556"
 }

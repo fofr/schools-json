@@ -14,5 +14,7 @@
   "url": "www.hadrianacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.892733",
+  "lng": "-0.50328130"
 }

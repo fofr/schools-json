@@ -14,5 +14,7 @@
   "url": "www.wallbrook.dudley.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.543156",
+  "lng": "-2.0735794"
 }

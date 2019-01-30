@@ -14,5 +14,7 @@
   "url": "http://www.abbeycollege.cambs.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.447377",
+  "lng": "-0.097550350"
 }

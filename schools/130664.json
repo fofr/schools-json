@@ -14,5 +14,7 @@
   "url": "",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "50.870203",
+  "lng": "0.015220701"
 }

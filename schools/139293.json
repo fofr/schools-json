@@ -14,5 +14,7 @@
   "url": "http://www.connaught-school.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.566289",
+  "lng": "0.0045834113"
 }

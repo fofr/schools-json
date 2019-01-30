@@ -14,5 +14,7 @@
   "url": "http://www.cardinalwiseman.net/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.548926",
+  "lng": "-1.8893086"
 }

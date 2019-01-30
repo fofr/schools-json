@@ -14,5 +14,7 @@
   "url": "http://www.penryn-jnr.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.169257",
+  "lng": "-5.1154905"
 }

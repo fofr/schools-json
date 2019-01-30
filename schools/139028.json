@@ -14,5 +14,7 @@
   "url": "http://www.redcaracademy.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.605512",
+  "lng": "-1.0813757"
 }

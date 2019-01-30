@@ -14,5 +14,7 @@
   "url": "www.allsaintsandsharnfordschools.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.525559",
+  "lng": "-1.2925230"
 }

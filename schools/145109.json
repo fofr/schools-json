@@ -14,5 +14,7 @@
   "url": "www.fgs.derbyshire.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.100004",
+  "lng": "-1.3311247"
 }

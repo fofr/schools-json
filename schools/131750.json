@@ -14,5 +14,7 @@
   "url": "www.claremontprimarynw2.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.565703",
+  "lng": "-0.21765868"
 }

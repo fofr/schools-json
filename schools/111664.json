@@ -14,5 +14,7 @@
   "url": "http://www.hemlingtonhallprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.522669",
+  "lng": "-1.2525820"
 }

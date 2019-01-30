@@ -14,5 +14,7 @@
   "url": "https://westcottprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.763920",
+  "lng": "-0.31179886"
 }

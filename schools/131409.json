@@ -14,5 +14,7 @@
   "url": "www.oakdeneprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.616622",
+  "lng": "-1.2781933"
 }

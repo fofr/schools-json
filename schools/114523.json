@@ -14,5 +14,7 @@
   "url": "www.stonegate.e-sussex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.031242",
+  "lng": "0.37548144"
 }

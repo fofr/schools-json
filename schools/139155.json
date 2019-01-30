@@ -14,5 +14,7 @@
   "url": "http://www.launceston-college.cornwall.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.629490",
+  "lng": "-4.3566337"
 }

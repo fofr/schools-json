@@ -14,5 +14,7 @@
   "url": "www.suttonacademy.attrust.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.123786",
+  "lng": "-1.2606111"
 }

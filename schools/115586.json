@@ -14,5 +14,7 @@
   "url": "www.greatfieldparkschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.882104",
+  "lng": "-2.1082157"
 }

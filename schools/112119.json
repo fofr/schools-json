@@ -14,5 +14,7 @@
   "url": "www.penruddock.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.641265",
+  "lng": "-2.8888249"
 }

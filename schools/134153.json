@@ -11,8 +11,10 @@
   "maximum_age": "99",
   "easting": "450870",
   "northing": "205906",
-  "url": "",
+  "url": "www.activatelearning.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.749548",
+  "lng": "-1.2645241"
 }

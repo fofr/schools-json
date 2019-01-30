@@ -14,5 +14,7 @@
   "url": "http://www.acacianursery.co.uk/",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.559693",
+  "lng": "0.011174997"
 }

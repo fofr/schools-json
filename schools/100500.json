@@ -14,5 +14,7 @@
   "url": "www.serviteprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.485169",
+  "lng": "-0.18379912"
 }

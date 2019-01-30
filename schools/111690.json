@@ -14,5 +14,7 @@
   "url": "http://www.staidansschool.info",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.670707",
+  "lng": "-1.2162190"
 }

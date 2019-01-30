@@ -14,5 +14,7 @@
   "url": "http://www.newburnmanorprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.985770",
+  "lng": "-1.7394255"
 }

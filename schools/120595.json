@@ -14,5 +14,7 @@
   "url": "http://www.ellison-boulters.lincs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.281508",
+  "lng": "-0.44889100"
 }

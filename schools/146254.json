@@ -14,5 +14,7 @@
   "url": "www.holbeton.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.335032",
+  "lng": "-3.9480023"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stbeghs.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.543252",
+  "lng": "-3.5834307"
 }

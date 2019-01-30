@@ -14,5 +14,7 @@
   "url": "http://www.twynhamprimary.com",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.750955",
+  "lng": "-1.7846009"
 }

@@ -14,5 +14,7 @@
   "url": "www.oysterpark.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.727352",
+  "lng": "-1.3071622"
 }

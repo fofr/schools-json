@@ -14,5 +14,7 @@
   "url": "dormanstown.teesvalleyeducation.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.604136",
+  "lng": "-1.0991786"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stmatthewsblackburn.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.746002",
+  "lng": "-2.4724899"
 }

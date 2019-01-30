@@ -14,5 +14,7 @@
   "url": "http://www.swaythling.southampton.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.936721",
+  "lng": "-1.3898170"
 }

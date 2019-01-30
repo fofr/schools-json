@@ -14,5 +14,7 @@
   "url": "www.christchurchfolkestone.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.082557",
+  "lng": "1.1752864"
 }

@@ -14,5 +14,7 @@
   "url": "www.pinetreeschool.org.uk",
   "phase": "Not applicable",
   "type": "Free Schools",
-  "detailed_type": "Free schools alternative provision"
+  "detailed_type": "Free schools alternative provision",
+  "lat": "52.404587",
+  "lng": "0.74137643"
 }

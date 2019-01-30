@@ -14,5 +14,7 @@
   "url": "www.zouch-academy.twhf.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.246259",
+  "lng": "-1.6728131"
 }

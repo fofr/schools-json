@@ -14,5 +14,7 @@
   "url": "www.mobberley.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.318995",
+  "lng": "-2.3151373"
 }

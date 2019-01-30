@@ -14,5 +14,7 @@
   "url": "www.stnicholas-shepperton.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.394323",
+  "lng": "-0.45167084"
 }

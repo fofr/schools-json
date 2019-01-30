@@ -14,5 +14,7 @@
   "url": "www.houghton.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.622722",
+  "lng": "-1.0035613"
 }

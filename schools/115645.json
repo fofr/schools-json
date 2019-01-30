@@ -14,5 +14,7 @@
   "url": "http://www.randwickschool.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.758921",
+  "lng": "-2.2483565"
 }

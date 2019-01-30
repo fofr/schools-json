@@ -14,5 +14,7 @@
   "url": "www.manorprimary.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.441752",
+  "lng": "-1.0167631"
 }

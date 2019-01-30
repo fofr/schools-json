@@ -14,5 +14,7 @@
   "url": "www.garforthacademy.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.786833",
+  "lng": "-1.3910889"
 }

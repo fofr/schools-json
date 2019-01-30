@@ -14,5 +14,7 @@
   "url": "www.taptonschool.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.375250",
+  "lng": "-1.5206346"
 }

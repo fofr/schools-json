@@ -14,5 +14,7 @@
   "url": "www.seabrook.southend.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.551754",
+  "lng": "0.70061243"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.whsg.info",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.552409",
+  "lng": "0.66770157"
 }

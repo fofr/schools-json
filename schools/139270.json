@@ -14,5 +14,7 @@
   "url": "http://www.mountpellonacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.727034",
+  "lng": "-1.8853666"
 }

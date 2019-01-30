@@ -14,5 +14,7 @@
   "url": "http://www.disshighschool.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.379946",
+  "lng": "1.1150740"
 }

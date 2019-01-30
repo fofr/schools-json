@@ -14,5 +14,7 @@
   "url": "http://bexhill.wiseacademies.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.927803",
+  "lng": "-1.4574080"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.goring.w-sussex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.814124",
+  "lng": "-0.42118009"
 }

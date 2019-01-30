@@ -14,5 +14,7 @@
   "url": "www.trekenner.eschools.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.580587",
+  "lng": "-4.3428898"
 }

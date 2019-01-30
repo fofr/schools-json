@@ -14,5 +14,7 @@
   "url": "www.standrewandstfrancis.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.549125",
+  "lng": "-0.23578758"
 }

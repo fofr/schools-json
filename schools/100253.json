@@ -14,5 +14,7 @@
   "url": "http://www.jubilee.hackney.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.566070",
+  "lng": "-0.065940525"
 }

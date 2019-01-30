@@ -14,5 +14,7 @@
   "url": "http://www.sandownhighschool.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.657991",
+  "lng": "-1.1670784"
 }

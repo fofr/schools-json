@@ -14,5 +14,7 @@
   "url": "www.baines-endowed.blackpool.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.800191",
+  "lng": "-3.0240592"
 }

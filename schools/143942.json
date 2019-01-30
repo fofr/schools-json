@@ -14,5 +14,7 @@
   "url": "www.canterburycross.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.512130",
+  "lng": "-1.8990964"
 }

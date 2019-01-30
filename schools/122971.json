@@ -14,5 +14,7 @@
   "url": "www.elms-road-nurs.oxon.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.752808",
+  "lng": "-1.2976603"
 }

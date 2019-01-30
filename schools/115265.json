@@ -14,5 +14,7 @@
   "url": "http://thorpedene.southend.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.534288",
+  "lng": "0.77078742"
 }

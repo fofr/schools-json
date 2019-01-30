@@ -14,5 +14,7 @@
   "url": "www.whitecliffeprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.562558",
+  "lng": "-0.90681110"
 }

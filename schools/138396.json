@@ -14,5 +14,7 @@
   "url": "http://nechellsacademy.e-act.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.504012",
+  "lng": "-1.8631980"
 }

@@ -14,5 +14,7 @@
   "url": "www.grampoundroadschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.314885",
+  "lng": "-4.9268806"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.silverhill.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.912676",
+  "lng": "-1.5511685"
 }

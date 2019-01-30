@@ -14,5 +14,7 @@
   "url": "http://www.thegrays.thurrock.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.489371",
+  "lng": "0.32800190"
 }

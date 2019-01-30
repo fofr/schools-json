@@ -14,5 +14,7 @@
   "url": "http://www.holycrossschoolhucknall.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.044435",
+  "lng": "-1.1976660"
 }

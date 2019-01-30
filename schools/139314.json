@@ -14,5 +14,7 @@
   "url": "www.monktoninfants.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.965140",
+  "lng": "-1.4531566"
 }

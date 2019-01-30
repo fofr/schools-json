@@ -14,5 +14,7 @@
   "url": "marfleet.ebor.academy",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.749361",
+  "lng": "-0.27044793"
 }

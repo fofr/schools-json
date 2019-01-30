@@ -14,5 +14,7 @@
   "url": "http://www.mountbatten.hants.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.983338",
+  "lng": "-1.4689829"
 }

@@ -14,5 +14,7 @@
   "url": "www.mountstreet.plymouth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.375372",
+  "lng": "-4.1349257"
 }

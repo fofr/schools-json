@@ -14,5 +14,7 @@
   "url": "www.lethbridgeprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.550138",
+  "lng": "-1.7795836"
 }

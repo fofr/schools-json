@@ -14,5 +14,7 @@
   "url": "www.deneholmprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.494330",
+  "lng": "0.33862770"
 }

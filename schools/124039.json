@@ -14,5 +14,7 @@
   "url": "www.lansdowne.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.817166",
+  "lng": "-1.6332414"
 }

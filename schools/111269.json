@@ -14,5 +14,7 @@
   "url": "http://clc2.uniservity.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.050526",
+  "lng": "-2.5023777"
 }

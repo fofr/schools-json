@@ -14,5 +14,7 @@
   "url": "https://sites.google.com/a/bardwellprimary.com/bardwell/home",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.328808",
+  "lng": "0.84730194"
 }

@@ -14,5 +14,7 @@
   "url": "www.hillcroftschool.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.286911",
+  "lng": "-0.090685130"
 }

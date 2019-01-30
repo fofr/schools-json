@@ -14,5 +14,7 @@
   "url": "www.lanesendprimary.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.752775",
+  "lng": "-1.3040658"
 }

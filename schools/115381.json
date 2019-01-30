@@ -14,5 +14,7 @@
   "url": "www.stbernardswestcliff.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.537412",
+  "lng": "0.69853719"
 }

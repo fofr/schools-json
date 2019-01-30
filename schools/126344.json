@@ -14,5 +14,7 @@
   "url": "http://www.northbradley.wilts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.293097",
+  "lng": "-2.2090899"
 }

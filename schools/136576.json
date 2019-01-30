@@ -14,5 +14,7 @@
   "url": "http://www.brittons.havering.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.536336",
+  "lng": "0.18817209"
 }

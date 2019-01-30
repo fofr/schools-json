@@ -14,5 +14,7 @@
   "url": "http://www.castlewood.w-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.030417",
+  "lng": "-0.34272135"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.rosaryschool.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.746299",
+  "lng": "-2.2208682"
 }

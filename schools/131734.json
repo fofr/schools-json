@@ -14,5 +14,7 @@
   "url": "www.lawefield.wakefield.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.678692",
+  "lng": "-1.5098859"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.waltham.leics.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.815399",
+  "lng": "-0.81340578"
 }

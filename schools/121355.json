@@ -14,5 +14,7 @@
   "url": "www.sinningtonprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.261755",
+  "lng": "-0.86513260"
 }

@@ -14,5 +14,7 @@
   "url": "www.wilbrahamprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.446860",
+  "lng": "-2.2366012"
 }

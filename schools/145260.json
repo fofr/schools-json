@@ -14,5 +14,7 @@
   "url": "www.hannahmoreandgrove.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.424890",
+  "lng": "-2.7675372"
 }

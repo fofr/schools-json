@@ -14,5 +14,7 @@
   "url": "http://www.birches.staffs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.618954",
+  "lng": "-2.1785049"
 }

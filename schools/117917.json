@@ -14,5 +14,7 @@
   "url": "www.epworthcp.lincs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.525706",
+  "lng": "-0.83042630"
 }

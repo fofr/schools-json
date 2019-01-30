@@ -14,5 +14,7 @@
   "url": "www.theydonbois.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.674536",
+  "lng": "0.099077434"
 }

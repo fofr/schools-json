@@ -14,5 +14,7 @@
   "url": "https://www.meadhurst.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.426070",
+  "lng": "-0.43576813"
 }

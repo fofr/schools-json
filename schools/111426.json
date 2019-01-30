@@ -14,5 +14,7 @@
   "url": "http://www.epsspa.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.282673",
+  "lng": "-2.9260258"
 }

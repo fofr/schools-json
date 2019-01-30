@@ -14,5 +14,7 @@
   "url": "http://www.westfieldnurseryschool.org",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.888673",
+  "lng": "-0.53859630"
 }

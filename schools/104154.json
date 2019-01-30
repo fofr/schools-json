@@ -14,5 +14,7 @@
   "url": "http://www.green-rock.walsall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.618828",
+  "lng": "-1.9846693"
 }

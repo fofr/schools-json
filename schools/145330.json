@@ -14,5 +14,7 @@
   "url": "http://www.boasleycross.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.723564",
+  "lng": "-4.1259642"
 }

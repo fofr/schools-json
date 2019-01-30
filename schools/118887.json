@@ -14,5 +14,7 @@
   "url": "http://www.newlinelearning.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.246097",
+  "lng": "0.54834717"
 }

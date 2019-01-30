@@ -14,5 +14,7 @@
   "url": "www.edstartschools.com",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "53.498183",
+  "lng": "-2.2824273"
 }

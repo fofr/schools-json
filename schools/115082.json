@@ -14,5 +14,7 @@
   "url": "http://www.stlukesschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.811034",
+  "lng": "0.74957758"
 }

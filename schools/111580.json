@@ -14,5 +14,7 @@
   "url": "www.newportprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.571526",
+  "lng": "-1.2471719"
 }

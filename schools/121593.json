@@ -14,5 +14,7 @@
   "url": "http://www.sutton-in-cravencofe.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.895540",
+  "lng": "-1.9915485"
 }

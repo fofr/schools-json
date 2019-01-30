@@ -14,5 +14,7 @@
   "url": "www.riponcathedralschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.136069",
+  "lng": "-1.5168104"
 }

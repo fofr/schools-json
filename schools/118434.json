@@ -14,5 +14,7 @@
   "url": "http://www.highhalstowprimaryschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.449999",
+  "lng": "0.56163141"
 }

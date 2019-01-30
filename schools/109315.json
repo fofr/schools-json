@@ -14,5 +14,7 @@
   "url": "http://www.broadoak.n-somerset.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.328814",
+  "lng": "-2.9761572"
 }

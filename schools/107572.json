@@ -14,5 +14,7 @@
   "url": "http://www.lightcliffe.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.725725",
+  "lng": "-1.7994067"
 }

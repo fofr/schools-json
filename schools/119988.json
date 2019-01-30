@@ -14,5 +14,7 @@
   "url": "http://www.captains-close.leics.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.765999",
+  "lng": "-0.95889933"
 }

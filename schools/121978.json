@@ -14,5 +14,7 @@
   "url": "http://www.standrewsceprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.407460",
+  "lng": "-0.72970804"
 }

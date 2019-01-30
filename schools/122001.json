@@ -14,5 +14,7 @@
   "url": "http://www.weltonceschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.290357",
+  "lng": "-1.1494693"
 }

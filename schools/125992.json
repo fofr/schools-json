@@ -14,5 +14,7 @@
   "url": "www.shipleyceprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.986478",
+  "lng": "-0.37412152"
 }

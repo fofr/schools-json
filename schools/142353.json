@@ -14,5 +14,7 @@
   "url": "http://www.jervoise.bham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.440438",
+  "lng": "-1.9688866"
 }

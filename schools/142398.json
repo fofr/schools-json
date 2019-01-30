@@ -14,5 +14,7 @@
   "url": "www.cheamcommon.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.375675",
+  "lng": "-0.23795196"
 }

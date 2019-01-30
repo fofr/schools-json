@@ -14,5 +14,7 @@
   "url": "www.castleview.slough.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.497873",
+  "lng": "-0.56510289"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.barnston.wirral.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.323478",
+  "lng": "-3.0766088"
 }

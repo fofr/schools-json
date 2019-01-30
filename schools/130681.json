@@ -14,5 +14,7 @@
   "url": "www.seevic-college.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.562397",
+  "lng": "0.58306695"
 }

@@ -14,5 +14,7 @@
   "url": "www.arboursacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.262647",
+  "lng": "-0.84628102"
 }

@@ -14,5 +14,7 @@
   "url": "www.caldicotesprimaryacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.567295",
+  "lng": "-1.1797686"
 }

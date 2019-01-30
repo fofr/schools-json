@@ -14,5 +14,7 @@
   "url": "https://valeview-stockport.frogos.net/app/os#!schoolwebsite/home",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.444283",
+  "lng": "-2.1518098"
 }

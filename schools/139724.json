@@ -14,5 +14,7 @@
   "url": "www.sybournprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.570232",
+  "lng": "-0.027480462"
 }

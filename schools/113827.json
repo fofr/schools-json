@@ -14,5 +14,7 @@
   "url": "http://www.stmarysdorchester.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.708402",
+  "lng": "-2.4293885"
 }

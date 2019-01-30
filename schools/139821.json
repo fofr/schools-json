@@ -14,5 +14,7 @@
   "url": "http://arkwilliamparkeracademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.876103",
+  "lng": "0.56879035"
 }

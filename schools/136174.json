@@ -14,5 +14,7 @@
   "url": "www.cam.coop",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.528998",
+  "lng": "-2.2217777"
 }

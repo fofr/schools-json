@@ -14,5 +14,7 @@
   "url": "www.hockley-heath.solihull.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.352288",
+  "lng": "-1.7799807"
 }

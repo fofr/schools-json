@@ -14,5 +14,7 @@
   "url": "www.progress-schools.co.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "52.239688",
+  "lng": "-0.89171984"
 }

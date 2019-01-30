@@ -14,5 +14,7 @@
   "url": "http://www.westgate.slough.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.514438",
+  "lng": "-0.62839740"
 }

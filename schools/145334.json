@@ -14,5 +14,7 @@
   "url": "http://www.okehampton-pri.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.741912",
+  "lng": "-4.0061594"
 }

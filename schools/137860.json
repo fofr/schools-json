@@ -14,5 +14,7 @@
   "url": "http://www.gtcorby.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.883678",
+  "lng": "-2.8196449"
 }

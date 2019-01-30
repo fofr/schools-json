@@ -14,5 +14,7 @@
   "url": "http://www.standrewscofe.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.494892",
+  "lng": "-4.1302576"
 }

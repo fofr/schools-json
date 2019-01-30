@@ -14,5 +14,7 @@
   "url": "www.totton.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "50.920994",
+  "lng": "-1.5080621"
 }

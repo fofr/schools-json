@@ -14,5 +14,7 @@
   "url": "http://www.patchwaycc.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.540203",
+  "lng": "-2.5677678"
 }

@@ -14,5 +14,7 @@
   "url": "www.chhs.stockport.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.364227",
+  "lng": "-2.1865530"
 }

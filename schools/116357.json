@@ -14,5 +14,7 @@
   "url": "www.charleskingsleys.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.347759",
+  "lng": "-0.87667989"
 }

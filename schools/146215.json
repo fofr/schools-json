@@ -14,5 +14,7 @@
   "url": "www.meadowfieldclc.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.794297",
+  "lng": "-1.4902928"
 }

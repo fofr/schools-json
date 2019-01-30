@@ -14,5 +14,7 @@
   "url": "www.hogsthorpeprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.226816",
+  "lng": "0.29854728"
 }

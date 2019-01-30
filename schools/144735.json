@@ -1,12 +1,12 @@
 {
   "urn": "144735",
   "name": "Honley CofE (VC) Junior, Infant and Nursery School",
-  "address": "School Street",
+  "address": "Jaggar Lane",
   "locality": "Honley",
   "address3": "",
   "town": "Holmfirth",
   "county": "",
-  "postcode": "HD9 6AU",
+  "postcode": "HD9 6BT",
   "minimum_age": "4",
   "maximum_age": "11",
   "easting": "413719",
@@ -14,5 +14,7 @@
   "url": "www.honleyjin.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.604538",
+  "lng": "-1.7941472"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.little-hoole.lancsngfl.ac.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.710301",
+  "lng": "-2.7869921"
 }

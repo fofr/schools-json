@@ -14,5 +14,7 @@
   "url": "http://www.abbotsfarm-inf.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.366649",
+  "lng": "-1.2293405"
 }

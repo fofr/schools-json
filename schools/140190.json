@@ -14,5 +14,7 @@
   "url": "www.abbeyceacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.257174",
+  "lng": "-1.1571363"
 }

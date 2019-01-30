@@ -14,5 +14,7 @@
   "url": "www.theongaracademy.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.716973",
+  "lng": "0.24868280"
 }

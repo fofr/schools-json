@@ -14,5 +14,7 @@
   "url": "www.ellbra-ewan.cumbria.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.708890",
+  "lng": "-3.4868295"
 }

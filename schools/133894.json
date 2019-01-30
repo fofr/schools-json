@@ -14,5 +14,7 @@
   "url": "http://www.tees.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "54.572076",
+  "lng": "-1.2346942"
 }

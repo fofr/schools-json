@@ -14,5 +14,7 @@
   "url": "http://www.arundaleprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.453537",
+  "lng": "-2.0214047"
 }

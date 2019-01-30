@@ -14,5 +14,7 @@
   "url": "http://www.marlborough.oxon.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.848825",
+  "lng": "-1.3414183"
 }

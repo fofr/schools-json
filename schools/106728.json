@@ -14,5 +14,7 @@
   "url": "parkprimary.greenschoolsonline.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.535273",
+  "lng": "-1.1105950"
 }

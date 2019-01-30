@@ -14,5 +14,7 @@
   "url": "http://www.fromecollege.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.243036",
+  "lng": "-2.3118792"
 }

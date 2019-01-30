@@ -14,5 +14,7 @@
   "url": "www.stgeorges-darlington.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.513862",
+  "lng": "-1.4704744"
 }

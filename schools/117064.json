@@ -14,5 +14,7 @@
   "url": "www.ncw.co.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Non-maintained special school"
+  "detailed_type": "Non-maintained special school",
+  "lat": "52.179609",
+  "lng": "-2.1899882"
 }

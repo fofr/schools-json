@@ -14,5 +14,7 @@
   "url": "http://www.scargill-jun.havering.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.539252",
+  "lng": "0.19139807"
 }

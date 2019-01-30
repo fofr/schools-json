@@ -14,5 +14,7 @@
   "url": "http://www.fowlmere.cambs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.093389",
+  "lng": "0.070565895"
 }

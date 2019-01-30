@@ -14,5 +14,7 @@
   "url": "www.skertonstlukes.lancs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.064601",
+  "lng": "-2.8021275"
 }

@@ -14,5 +14,7 @@
   "url": "www.coombeshead.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.534972",
+  "lng": "-3.6192600"
 }

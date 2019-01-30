@@ -14,5 +14,7 @@
   "url": "www.hwga.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.514049",
+  "lng": "-1.9290198"
 }

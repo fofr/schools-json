@@ -14,5 +14,7 @@
   "url": "http://www.schools.bedfordshire.gov.uk/schools/henlow/FRONT.HTML",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.032673",
+  "lng": "-0.28155962"
 }

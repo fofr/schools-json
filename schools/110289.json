@@ -14,5 +14,7 @@
   "url": "www.oakridgehighwycombe.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.630388",
+  "lng": "-0.76955951"
 }

@@ -14,5 +14,7 @@
   "url": "bowness.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.562027",
+  "lng": "-2.3828417"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.cryptschool.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.839610",
+  "lng": "-2.2511229"
 }

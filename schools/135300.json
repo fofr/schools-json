@@ -14,5 +14,7 @@
   "url": "http://www.bba.bristol.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.467170",
+  "lng": "-2.5281929"
 }

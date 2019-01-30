@@ -14,5 +14,7 @@
   "url": "http://www.kinverhigh.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.453233",
+  "lng": "-2.2312051"
 }

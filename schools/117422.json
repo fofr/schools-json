@@ -14,5 +14,7 @@
   "url": "http://www.barkway.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.000850",
+  "lng": "0.014704850"
 }

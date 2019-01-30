@@ -14,5 +14,7 @@
   "url": "https://southdevonutc.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "50.533683",
+  "lng": "-3.6058246"
 }

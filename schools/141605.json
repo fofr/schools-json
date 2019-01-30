@@ -14,5 +14,7 @@
   "url": "http://www.thebridgelondon-ils.co.uk",
   "phase": "Not applicable",
   "type": "Free Schools",
-  "detailed_type": "Free schools special"
+  "detailed_type": "Free schools special",
+  "lat": "51.538229",
+  "lng": "-0.10898239"
 }

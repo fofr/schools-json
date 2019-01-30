@@ -14,5 +14,7 @@
   "url": "www.msm.westberks.dbprimary.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.373738",
+  "lng": "-1.0461928"
 }

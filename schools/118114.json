@@ -14,5 +14,7 @@
   "url": "http://archbishopthurstan.hull.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.763953",
+  "lng": "-0.26249007"
 }

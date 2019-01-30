@@ -14,5 +14,7 @@
   "url": "www.bishamschool.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.561231",
+  "lng": "-0.77713944"
 }

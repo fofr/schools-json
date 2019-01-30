@@ -14,5 +14,7 @@
   "url": "st.peterscentre.co.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.375235",
+  "lng": "-0.52651151"
 }

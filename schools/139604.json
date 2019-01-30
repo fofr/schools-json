@@ -14,5 +14,7 @@
   "url": "www.marineacademy.org.uk/primary",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.405882",
+  "lng": "-4.1775188"
 }

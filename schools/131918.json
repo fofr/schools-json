@@ -14,5 +14,7 @@
   "url": "http://www.wearekingswood.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.798361",
+  "lng": "-0.32617665"
 }

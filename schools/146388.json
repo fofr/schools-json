@@ -14,5 +14,7 @@
   "url": "www.camelford.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.621767",
+  "lng": "-4.6854979"
 }

@@ -14,5 +14,7 @@
   "url": "www.viewleyhillacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.523932",
+  "lng": "-1.2374022"
 }

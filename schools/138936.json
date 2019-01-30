@@ -14,5 +14,7 @@
   "url": "http://www.thewilnecoteschool.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.605232",
+  "lng": "-1.6654903"
 }

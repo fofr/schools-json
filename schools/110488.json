@@ -14,5 +14,7 @@
   "url": "www.grange.bucks.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.809177",
+  "lng": "-0.79910417"
 }

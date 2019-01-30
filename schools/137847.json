@@ -14,5 +14,7 @@
   "url": "http://www.stanborough.herts.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.790358",
+  "lng": "-0.21961873"
 }

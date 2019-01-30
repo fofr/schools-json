@@ -14,5 +14,7 @@
   "url": "www.henleazejuniorschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.483968",
+  "lng": "-2.6042529"
 }

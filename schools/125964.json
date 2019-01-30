@@ -14,5 +14,7 @@
   "url": "http://www.meads.w-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.117454",
+  "lng": "-0.011819003"
 }

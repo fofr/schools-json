@@ -14,5 +14,7 @@
   "url": "www.avenue.sutton.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.346476",
+  "lng": "-0.20417862"
 }

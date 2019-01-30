@@ -14,5 +14,7 @@
   "url": "www.park-aspirations.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.519249",
+  "lng": "-0.46098687"
 }

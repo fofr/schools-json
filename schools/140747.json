@@ -14,5 +14,7 @@
   "url": "www.rochford.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.583539",
+  "lng": "0.70173228"
 }

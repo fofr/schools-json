@@ -14,5 +14,7 @@
   "url": "www.woodlands-infants.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.220812",
+  "lng": "-0.60320453"
 }

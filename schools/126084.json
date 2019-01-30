@@ -14,5 +14,7 @@
   "url": "http://www.oakmeeds.w-sussex.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.952076",
+  "lng": "-0.13329950"
 }

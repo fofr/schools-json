@@ -14,5 +14,7 @@
   "url": "www.wyvilschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.481293",
+  "lng": "-0.12548129"
 }

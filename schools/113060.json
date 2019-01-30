@@ -14,5 +14,7 @@
   "url": "www.bowcpschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.798055",
+  "lng": "-3.8143049"
 }

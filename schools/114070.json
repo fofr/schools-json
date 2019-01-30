@@ -14,5 +14,7 @@
   "url": "www.byersgreen.durham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.700741",
+  "lng": "-1.6604255"
 }

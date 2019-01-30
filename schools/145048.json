@@ -14,5 +14,7 @@
   "url": "www.greatwood.staffs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.952859",
+  "lng": "-1.9817255"
 }

@@ -14,5 +14,7 @@
   "url": "www.thurleighlowerschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.215176",
+  "lng": "-0.46158186"
 }

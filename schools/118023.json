@@ -14,5 +14,7 @@
   "url": "www.newholland.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.700406",
+  "lng": "-0.36322624"
 }

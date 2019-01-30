@@ -14,5 +14,7 @@
   "url": "www.bishoproad.bristol.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.479733",
+  "lng": "-2.5937138"
 }

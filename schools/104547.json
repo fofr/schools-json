@@ -14,5 +14,7 @@
   "url": "www.heygreenblogs.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.401735",
+  "lng": "-2.9279781"
 }

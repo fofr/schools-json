@@ -14,5 +14,7 @@
   "url": "http://www.stdunstans.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.319627",
+  "lng": "-0.54748061"
 }

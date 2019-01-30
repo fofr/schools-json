@@ -14,5 +14,7 @@
   "url": "www.newmarskeprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.577944",
+  "lng": "-1.0425448"
 }

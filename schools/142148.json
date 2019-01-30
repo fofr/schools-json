@@ -14,5 +14,7 @@
   "url": "www.stpeters.ycway.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.989999",
+  "lng": "-1.5389698"
 }

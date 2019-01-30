@@ -14,5 +14,7 @@
   "url": "www.thamesviewprimary.medway.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.370992",
+  "lng": "0.59910297"
 }

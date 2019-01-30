@@ -14,5 +14,7 @@
   "url": "www.st-joanofarc.islington.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.556596",
+  "lng": "-0.096997396"
 }

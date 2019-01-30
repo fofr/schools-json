@@ -14,5 +14,7 @@
   "url": "www.ashleighdevon.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.079183",
+  "lng": "-4.0524555"
 }

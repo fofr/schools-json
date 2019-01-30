@@ -14,5 +14,7 @@
   "url": "www.netherstowe.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.690623",
+  "lng": "-1.8229516"
 }

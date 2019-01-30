@@ -14,5 +14,7 @@
   "url": "http://www.newbriars.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.745533",
+  "lng": "-0.23699717"
 }

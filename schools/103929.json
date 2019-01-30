@@ -14,5 +14,7 @@
   "url": "www.abbeyfederation.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.476356",
+  "lng": "-1.9803600"
 }

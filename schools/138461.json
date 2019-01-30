@@ -14,5 +14,7 @@
   "url": "www.waldegrave.richmond.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.439440",
+  "lng": "-0.35099571"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.mmu.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.470682",
+  "lng": "-2.2395057"
 }

@@ -14,5 +14,7 @@
   "url": "www.stthomasmorefirst.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.286177",
+  "lng": "-1.9151925"
 }

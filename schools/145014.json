@@ -14,5 +14,7 @@
   "url": "https://www.woodlandacademytrust.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.448856",
+  "lng": "0.28877826"
 }

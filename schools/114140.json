@@ -14,5 +14,7 @@
   "url": "www.laurelavenue.durham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.775970",
+  "lng": "-1.5503690"
 }

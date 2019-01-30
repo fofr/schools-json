@@ -14,5 +14,7 @@
   "url": "www.cooks-spinney.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.773355",
+  "lng": "0.11909762"
 }

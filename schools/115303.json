@@ -14,5 +14,7 @@
   "url": "http://www.rabutlerschools.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.019811",
+  "lng": "0.24508344"
 }

@@ -14,5 +14,7 @@
   "url": "www.mendipstudioschool.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.286059",
+  "lng": "-2.4314728"
 }

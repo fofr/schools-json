@@ -14,5 +14,7 @@
   "url": "http://www.grangepark.enfield.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.647459",
+  "lng": "-0.10832876"
 }

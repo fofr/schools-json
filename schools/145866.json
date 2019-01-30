@@ -14,5 +14,7 @@
   "url": "www.bolderacademy.co.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.476091",
+  "lng": "-0.33239444"
 }

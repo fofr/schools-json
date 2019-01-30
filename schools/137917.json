@@ -14,5 +14,7 @@
   "url": "http://www.southborough.kingston.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.375810",
+  "lng": "-0.30190133"
 }

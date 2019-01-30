@@ -14,5 +14,7 @@
   "url": "http://www.st-heddas.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.436826",
+  "lng": "-0.76165426"
 }

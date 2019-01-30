@@ -14,5 +14,7 @@
   "url": "www.burghfield.westberks.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.413694",
+  "lng": "-1.0490573"
 }

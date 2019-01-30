@@ -14,5 +14,7 @@
   "url": "www.middlemarch.ik.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.511328",
+  "lng": "-1.4718234"
 }

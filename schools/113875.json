@@ -14,5 +14,7 @@
   "url": "www.mysnhs.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.934266",
+  "lng": "-2.3041297"
 }

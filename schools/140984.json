@@ -14,5 +14,7 @@
   "url": "www.nuast.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.940708",
+  "lng": "-1.1808511"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.leamanorhighschool.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.919884",
+  "lng": "-0.45223987"
 }

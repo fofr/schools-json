@@ -14,5 +14,7 @@
   "url": "www.ststeathschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.593872",
+  "lng": "-4.7369565"
 }

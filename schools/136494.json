@@ -14,5 +14,7 @@
   "url": "www.teignacademy.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.553419",
+  "lng": "-3.6022885"
 }

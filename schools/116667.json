@@ -14,5 +14,7 @@
   "url": "http://www.burghill.hereford.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.100993",
+  "lng": "-2.7761876"
 }

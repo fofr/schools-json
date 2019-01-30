@@ -14,5 +14,7 @@
   "url": "http://www.cockermouthschool.org/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.667188",
+  "lng": "-3.3510568"
 }

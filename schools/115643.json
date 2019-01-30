@@ -14,5 +14,7 @@
   "url": "www.pauntleyschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.959699",
+  "lng": "-2.3931191"
 }

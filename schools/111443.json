@@ -14,5 +14,7 @@
   "url": "http://www.wilmslowhigh.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.322147",
+  "lng": "-2.2300102"
 }

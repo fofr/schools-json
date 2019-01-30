@@ -14,5 +14,7 @@
   "url": "www.gateway-pri.kent.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.443642",
+  "lng": "0.24117143"
 }

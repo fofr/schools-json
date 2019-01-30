@@ -14,5 +14,7 @@
   "url": "www.parnwellschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.593414",
+  "lng": "-0.20838327"
 }

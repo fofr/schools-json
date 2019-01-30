@@ -14,5 +14,7 @@
   "url": "http://www.chislehurstschoolforgirls.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.418617",
+  "lng": "0.089186077"
 }

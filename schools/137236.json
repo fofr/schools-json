@@ -14,5 +14,7 @@
   "url": "www.stratforduponavonschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.193582",
+  "lng": "-1.7201256"
 }

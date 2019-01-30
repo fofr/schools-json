@@ -14,5 +14,7 @@
   "url": "www.carletonrodeprimaryschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.488846",
+  "lng": "1.1130748"
 }

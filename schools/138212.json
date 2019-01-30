@@ -14,5 +14,7 @@
   "url": "www.atkinsonroadacademy.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.969158",
+  "lng": "-1.6640712"
 }

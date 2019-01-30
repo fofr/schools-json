@@ -14,5 +14,7 @@
   "url": "http://www.st-marys.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.013502",
+  "lng": "-1.4712139"
 }

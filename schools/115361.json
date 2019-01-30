@@ -14,5 +14,7 @@
   "url": "http://www.colbayns.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.799376",
+  "lng": "1.1418174"
 }

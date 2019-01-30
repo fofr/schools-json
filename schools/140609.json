@@ -14,5 +14,7 @@
   "url": "www.concordschool.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.419890",
+  "lng": "-1.4292946"
 }

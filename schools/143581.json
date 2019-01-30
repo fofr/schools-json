@@ -14,5 +14,7 @@
   "url": "http://www.mexboroughstjohn.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.500477",
+  "lng": "-1.2831412"
 }

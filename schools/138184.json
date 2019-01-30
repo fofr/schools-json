@@ -14,5 +14,7 @@
   "url": "http://www.wyvern.hants.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.960996",
+  "lng": "-1.2976575"
 }

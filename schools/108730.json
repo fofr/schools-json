@@ -14,5 +14,7 @@
   "url": "http://boldonschool.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.950427",
+  "lng": "-1.4466113"
 }

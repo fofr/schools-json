@@ -14,5 +14,7 @@
   "url": "www.stcharlescatholicprimarymeasham.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.704686",
+  "lng": "-1.5016974"
 }

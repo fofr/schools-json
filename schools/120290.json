@@ -14,5 +14,7 @@
   "url": "http://www.valeofcatmose.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.671308",
+  "lng": "-0.74123702"
 }

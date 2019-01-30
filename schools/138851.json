@@ -14,5 +14,7 @@
   "url": "http://www.st-pauls.bolton.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.599002",
+  "lng": "-2.4312123"
 }

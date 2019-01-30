@@ -14,5 +14,7 @@
   "url": "www.curyschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.047110",
+  "lng": "-5.2440871"
 }

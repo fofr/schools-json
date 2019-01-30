@@ -14,5 +14,7 @@
   "url": "www.treloweth.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.232439",
+  "lng": "-5.2582155"
 }

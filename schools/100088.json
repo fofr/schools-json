@@ -14,5 +14,7 @@
   "url": "www.ucs.org.uk",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.545705",
+  "lng": "-0.17733699"
 }

@@ -14,5 +14,7 @@
   "url": "www.langfordprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.472703",
+  "lng": "-0.18885880"
 }

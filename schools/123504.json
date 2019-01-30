@@ -14,5 +14,7 @@
   "url": "www.stottesdon.shropshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.441761",
+  "lng": "-2.4819012"
 }

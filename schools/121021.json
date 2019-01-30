@@ -14,5 +14,7 @@
   "url": "http://www.greyfriars.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.749195",
+  "lng": "0.40201567"
 }

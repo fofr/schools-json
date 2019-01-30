@@ -14,5 +14,7 @@
   "url": "http://www.prestonhedges.northants.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.203365",
+  "lng": "-0.87831233"
 }

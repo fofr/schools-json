@@ -14,5 +14,7 @@
   "url": "www.willowbrook.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.736582",
+  "lng": "-3.4937697"
 }

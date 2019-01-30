@@ -14,5 +14,7 @@
   "url": "http://www.st-cleres.thurrock.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.510569",
+  "lng": "0.41943313"
 }

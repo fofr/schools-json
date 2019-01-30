@@ -14,5 +14,7 @@
   "url": "http://www.holy-trinity.walsall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.639301",
+  "lng": "-1.9405218"
 }

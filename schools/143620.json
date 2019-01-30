@@ -14,5 +14,7 @@
   "url": "www.wybournlearning.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.379027",
+  "lng": "-1.4443923"
 }

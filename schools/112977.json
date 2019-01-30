@@ -14,5 +14,7 @@
   "url": "www.cjs.derby.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.870815",
+  "lng": "-1.4375788"
 }

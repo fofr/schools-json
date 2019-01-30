@@ -14,5 +14,7 @@
   "url": "www.chaddesdenparkprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.928504",
+  "lng": "-1.4253474"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kempshottinfants.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.245257",
+  "lng": "-1.1373776"
 }

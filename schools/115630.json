@@ -14,5 +14,7 @@
   "url": "http://www.kingsstanley.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.731111",
+  "lng": "-2.2731521"
 }

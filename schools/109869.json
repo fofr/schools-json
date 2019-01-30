@@ -14,5 +14,7 @@
   "url": "www.walter.wokingham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.413089",
+  "lng": "-0.84734182"
 }

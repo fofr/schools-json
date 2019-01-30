@@ -14,5 +14,7 @@
   "url": "www.hornchurchhigh.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.558721",
+  "lng": "0.20060063"
 }

@@ -14,5 +14,7 @@
   "url": "www.trinitystpeters.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.567067",
+  "lng": "-3.0557135"
 }

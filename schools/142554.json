@@ -14,5 +14,7 @@
   "url": "http://www.rattlesdenprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.193358",
+  "lng": "0.88853500"
 }

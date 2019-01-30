@@ -14,5 +14,7 @@
   "url": "http://www.trinity.worcs.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.308881",
+  "lng": "-1.9356981"
 }

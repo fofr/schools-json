@@ -14,5 +14,7 @@
   "url": "http://www.newhorizonschildrensacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.364705",
+  "lng": "0.52139590"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.smchull.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.775312",
+  "lng": "-0.36319644"
 }

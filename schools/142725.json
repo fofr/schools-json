@@ -14,5 +14,7 @@
   "url": "http://www.selstonhigh.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.072522",
+  "lng": "-1.3072813"
 }

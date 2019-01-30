@@ -14,5 +14,7 @@
   "url": "http://www.theroseland.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.271345",
+  "lng": "-4.9061727"
 }

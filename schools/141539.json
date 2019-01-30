@@ -14,5 +14,7 @@
   "url": "http://www.listerdale.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.421498",
+  "lng": "-1.3021208"
 }

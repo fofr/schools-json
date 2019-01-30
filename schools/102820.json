@@ -14,5 +14,7 @@
   "url": "www.williamtorbitt.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.578514",
+  "lng": "0.098993967"
 }

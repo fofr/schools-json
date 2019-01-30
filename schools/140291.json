@@ -14,5 +14,7 @@
   "url": "http://www.shawridgeprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.564394",
+  "lng": "-1.8311184"
 }

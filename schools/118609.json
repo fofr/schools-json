@@ -14,5 +14,7 @@
   "url": "http://www.st-pauls-infant.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.134760",
+  "lng": "0.22652346"
 }

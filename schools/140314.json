@@ -14,5 +14,7 @@
   "url": "www.beaverroad.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.417682",
+  "lng": "-2.2278477"
 }

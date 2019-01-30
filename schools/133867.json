@@ -14,5 +14,7 @@
   "url": "http://www.port.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "50.795277",
+  "lng": "-1.0935842"
 }

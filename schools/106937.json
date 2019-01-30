@@ -14,5 +14,7 @@
   "url": "http://www.saintalbanschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.420810",
+  "lng": "-1.2815171"
 }

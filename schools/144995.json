@@ -14,5 +14,7 @@
   "url": "www.newclose.wilts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.204371",
+  "lng": "-2.1724593"
 }

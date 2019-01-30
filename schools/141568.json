@@ -14,5 +14,7 @@
   "url": "www.wcla.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.081115",
+  "lng": "-2.4765045"
 }

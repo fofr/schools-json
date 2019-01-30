@@ -14,5 +14,7 @@
   "url": "http://www.swgs.wilts.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.079707",
+  "lng": "-1.7991967"
 }

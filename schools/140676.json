@@ -14,5 +14,7 @@
   "url": "www.stpaulsplymouth.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.403487",
+  "lng": "-4.1886674"
 }

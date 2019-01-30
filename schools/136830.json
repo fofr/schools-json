@@ -14,5 +14,7 @@
   "url": "www.elmleajunior.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.484864",
+  "lng": "-2.6219643"
 }

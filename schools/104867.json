@@ -14,5 +14,7 @@
   "url": "www.kewwoods.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.630361",
+  "lng": "-2.9768731"
 }

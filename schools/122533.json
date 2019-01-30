@@ -14,5 +14,7 @@
   "url": "www.willowfarm.notts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.978263",
+  "lng": "-1.0761258"
 }

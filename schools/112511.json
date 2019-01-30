@@ -14,5 +14,7 @@
   "url": "www.bolsover-inf.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.230307",
+  "lng": "-1.2887240"
 }

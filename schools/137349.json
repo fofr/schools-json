@@ -14,5 +14,7 @@
   "url": "www.st-peters.bournemouth.sch.uk",
   "phase": "All through",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.723362",
+  "lng": "-1.7925332"
 }

@@ -14,5 +14,7 @@
   "url": "http://thearcheracademy.org.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.591521",
+  "lng": "-0.16980118"
 }

@@ -14,5 +14,7 @@
   "url": "www.swanshurst.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.429923",
+  "lng": "-1.8769873"
 }

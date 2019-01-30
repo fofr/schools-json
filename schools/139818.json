@@ -14,5 +14,7 @@
   "url": "http://www.stmichaelsacademyexeter.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.723777",
+  "lng": "-3.5041865"
 }

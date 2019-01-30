@@ -14,5 +14,7 @@
   "url": "http://www.cabot.ac.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.457400",
+  "lng": "-2.5151409"
 }

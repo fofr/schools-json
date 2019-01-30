@@ -14,5 +14,7 @@
   "url": "www.stanville.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.461695",
+  "lng": "-1.7788770"
 }

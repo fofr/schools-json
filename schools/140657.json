@@ -14,5 +14,7 @@
   "url": "www.aylwardschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.617089",
+  "lng": "-0.29731668"
 }

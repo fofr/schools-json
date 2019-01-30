@@ -14,5 +14,7 @@
   "url": "www.danemill.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.585597",
+  "lng": "-1.2063045"
 }

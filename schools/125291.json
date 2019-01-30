@@ -14,5 +14,7 @@
   "url": "http://www.st-thomas.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.243514",
+  "lng": "-0.54230034"
 }

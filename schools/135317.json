@@ -14,5 +14,7 @@
   "url": "http://www.brookeweston.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.467437",
+  "lng": "-0.71236340"
 }

@@ -14,5 +14,7 @@
   "url": "www.birdwellschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.426703",
+  "lng": "-2.6619507"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-lukes.newham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.513480",
+  "lng": "0.013779579"
 }

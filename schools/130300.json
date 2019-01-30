@@ -14,5 +14,7 @@
   "url": "www.saintgeorges.wigan.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.529518",
+  "lng": "-2.4971244"
 }

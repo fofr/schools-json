@@ -14,5 +14,7 @@
   "url": "www.farington.lancsngfl.ac.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.701693",
+  "lng": "-2.6856615"
 }

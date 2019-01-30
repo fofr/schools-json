@@ -14,5 +14,7 @@
   "url": "http://www.wingate-jun.durham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.730009",
+  "lng": "-1.3787614"
 }

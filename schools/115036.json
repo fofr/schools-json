@@ -14,5 +14,7 @@
   "url": "http://www.templarsprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.813700",
+  "lng": "0.63556289"
 }

@@ -14,5 +14,7 @@
   "url": "www.orestonacademy.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.361582",
+  "lng": "-4.1063826"
 }

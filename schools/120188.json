@@ -14,5 +14,7 @@
   "url": "www.sherrier.leics.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.460243",
+  "lng": "-1.2042917"
 }

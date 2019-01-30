@@ -14,5 +14,7 @@
   "url": "woodlandsprimaryacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.554232",
+  "lng": "-2.0868148"
 }

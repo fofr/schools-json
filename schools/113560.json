@@ -14,5 +14,7 @@
   "url": "http://www.uffculme.devon.sch.uk/index.html",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.907911",
+  "lng": "-3.3325344"
 }

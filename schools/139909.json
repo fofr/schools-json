@@ -14,5 +14,7 @@
   "url": "www.hewensprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.528380",
+  "lng": "-0.43953030"
 }

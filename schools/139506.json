@@ -14,5 +14,7 @@
   "url": "http://penkethhighschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.388133",
+  "lng": "-2.6476971"
 }

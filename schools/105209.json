@@ -14,5 +14,7 @@
   "url": "http://www.st-james-daisy-hill.bolton.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.534408",
+  "lng": "-2.5201901"
 }

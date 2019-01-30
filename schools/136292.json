@@ -14,5 +14,7 @@
   "url": "http://www.cotswold.gloucs.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.888757",
+  "lng": "-1.7581285"
 }

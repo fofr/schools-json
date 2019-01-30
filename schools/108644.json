@@ -14,5 +14,7 @@
   "url": "http://www.johnspence.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.022367",
+  "lng": "-1.4515180"
 }

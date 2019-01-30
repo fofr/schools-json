@@ -14,5 +14,7 @@
   "url": "http://www.ifieldschool.com",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Foundation special school"
+  "detailed_type": "Foundation special school",
+  "lat": "51.417405",
+  "lng": "0.37558900"
 }

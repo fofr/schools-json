@@ -14,5 +14,7 @@
   "url": "www.whitewalthamschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.488996",
+  "lng": "-0.77768993"
 }

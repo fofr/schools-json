@@ -14,5 +14,7 @@
   "url": "www.sacredhearthigh.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.493580",
+  "lng": "-0.22335426"
 }

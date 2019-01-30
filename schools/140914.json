@@ -14,5 +14,7 @@
   "url": "www.trinitypartnership.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.541671",
+  "lng": "0.58435738"
 }

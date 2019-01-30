@@ -14,5 +14,7 @@
   "url": "northview.wiseacademies.co.uk",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "54.905954",
+  "lng": "-1.4388461"
 }

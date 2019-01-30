@@ -14,5 +14,7 @@
   "url": "www.springcottageprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.780012",
+  "lng": "-0.29345629"
 }

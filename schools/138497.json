@@ -14,5 +14,7 @@
   "url": "www.harpfieldprimaryacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.010306",
+  "lng": "-2.2137560"
 }

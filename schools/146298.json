@@ -14,5 +14,7 @@
   "url": "www.ssptrpl.bham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.517779",
+  "lng": "-1.8244862"
 }

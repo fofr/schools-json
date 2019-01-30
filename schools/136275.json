@@ -14,5 +14,7 @@
   "url": "www.tpamk.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.988140",
+  "lng": "-0.72469766"
 }

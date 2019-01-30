@@ -14,5 +14,7 @@
   "url": "www.asfordbyhill.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.765751",
+  "lng": "-0.92601751"
 }

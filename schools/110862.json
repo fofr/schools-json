@@ -14,5 +14,7 @@
   "url": "www.lvc.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.098626",
+  "lng": "0.27194861"
 }

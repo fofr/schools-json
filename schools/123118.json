@@ -14,5 +14,7 @@
   "url": "http://www.woodstock.oxon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.848119",
+  "lng": "-1.3453918"
 }

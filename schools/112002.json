@@ -14,5 +14,7 @@
   "url": "http://www.mawnan.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.113574",
+  "lng": "-5.1084028"
 }

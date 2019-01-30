@@ -14,5 +14,7 @@
   "url": "www.chesterpark-inf.bristol.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.474395",
+  "lng": "-2.5310409"
 }

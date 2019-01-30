@@ -14,5 +14,7 @@
   "url": "www.sunnyfields.doncaster.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.539643",
+  "lng": "-1.1644340"
 }

@@ -14,5 +14,7 @@
   "url": "www.stwcc.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.473759",
+  "lng": "-1.1883579"
 }

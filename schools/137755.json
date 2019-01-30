@@ -14,5 +14,7 @@
   "url": "http://www.brixhamcollege.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.392906",
+  "lng": "-3.5082638"
 }

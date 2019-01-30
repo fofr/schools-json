@@ -14,5 +14,7 @@
   "url": "www.corinthianprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.419615",
+  "lng": "-2.9114995"
 }

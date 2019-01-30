@@ -14,5 +14,7 @@
   "url": "www.churchfield.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.756614",
+  "lng": "-1.9372068"
 }

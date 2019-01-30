@@ -14,5 +14,7 @@
   "url": "www.sutton.hmfa.org.uk.",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.108290",
+  "lng": "-2.6808195"
 }

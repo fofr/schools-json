@@ -14,5 +14,7 @@
   "url": "http://www.playdenschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.970392",
+  "lng": "0.74303454"
 }

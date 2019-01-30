@@ -14,5 +14,7 @@
   "url": "www.brantfield.com",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "54.330417",
+  "lng": "-2.7535947"
 }

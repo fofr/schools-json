@@ -14,5 +14,7 @@
   "url": "www.alexandrapark.school",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.602065",
+  "lng": "-0.13695916"
 }

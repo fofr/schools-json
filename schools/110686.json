@@ -14,5 +14,7 @@
   "url": "http://www.ramseyjuniorschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.449726",
+  "lng": "-0.11110566"
 }

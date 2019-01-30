@@ -14,5 +14,7 @@
   "url": "www.shaftonalc.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.581135",
+  "lng": "-1.3979295"
 }

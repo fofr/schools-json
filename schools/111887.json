@@ -14,5 +14,7 @@
   "url": "http://www.roche.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.407012",
+  "lng": "-4.8337469"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.himmat.org/school",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "53.782216",
+  "lng": "-1.7843410"
 }

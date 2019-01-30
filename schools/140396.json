@@ -14,5 +14,7 @@
   "url": "www.braiswickprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.904624",
+  "lng": "0.87573644"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.fairfield.herts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.680506",
+  "lng": "-0.33397945"
 }

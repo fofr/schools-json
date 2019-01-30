@@ -14,5 +14,7 @@
   "url": "http://www.nettleham-junior.lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.264486",
+  "lng": "-0.48847563"
 }

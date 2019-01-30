@@ -14,5 +14,7 @@
   "url": "http://www.coulsdon.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.305670",
+  "lng": "-0.12072387"
 }

@@ -14,5 +14,7 @@
   "url": "www.stcharles.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.521333",
+  "lng": "-0.21516810"
 }

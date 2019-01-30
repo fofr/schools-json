@@ -14,5 +14,7 @@
   "url": "http://atschool.eduweb.co.uk/st.thomas-more",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.396492",
+  "lng": "-0.73819461"
 }

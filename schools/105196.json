@@ -14,5 +14,7 @@
   "url": "www.spindle-point.bolton.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.533522",
+  "lng": "-2.3636501"
 }

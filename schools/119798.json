@@ -14,5 +14,7 @@
   "url": "www.olcc.lancs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.054950",
+  "lng": "-2.8018040"
 }

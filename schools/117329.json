@@ -14,5 +14,7 @@
   "url": "http://www.maryexton.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.947446",
+  "lng": "-0.25139634"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.cutnallgreenschool.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.314561",
+  "lng": "-2.1794910"
 }

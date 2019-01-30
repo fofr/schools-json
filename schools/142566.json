@@ -14,5 +14,7 @@
   "url": "http://www.woolpitprimary.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.222100",
+  "lng": "0.89587746"
 }

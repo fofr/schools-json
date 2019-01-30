@@ -14,5 +14,7 @@
   "url": "www.hearts-waterman.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.589042",
+  "lng": "0.70607265"
 }

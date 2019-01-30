@@ -14,5 +14,7 @@
   "url": "http://www.keele.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.003952",
+  "lng": "-2.2745983"
 }

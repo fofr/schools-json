@@ -14,5 +14,7 @@
   "url": "www.prioryprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.137827",
+  "lng": "-0.47495895"
 }

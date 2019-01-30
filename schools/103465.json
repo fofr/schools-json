@@ -14,5 +14,7 @@
   "url": "www.sab.bham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.424577",
+  "lng": "-1.8352676"
 }

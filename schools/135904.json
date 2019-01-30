@@ -14,5 +14,7 @@
   "url": "http://cityacademynorwich.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.627930",
+  "lng": "1.2478620"
 }

@@ -14,5 +14,7 @@
   "url": "www.kegs.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.740045",
+  "lng": "0.46449917"
 }

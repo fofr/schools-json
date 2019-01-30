@@ -14,5 +14,7 @@
   "url": "www.robertshaw.nottingham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.960582",
+  "lng": "-1.1897950"
 }

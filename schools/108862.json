@@ -14,5 +14,7 @@
   "url": "http://www.hetton-school.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.818093",
+  "lng": "-1.4607930"
 }

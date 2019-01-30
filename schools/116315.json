@@ -14,5 +14,7 @@
   "url": "http://www.ssj-school.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.295149",
+  "lng": "-1.1067689"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.blakeney.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.951064",
+  "lng": "1.0236787"
 }

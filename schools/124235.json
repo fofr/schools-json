@@ -14,5 +14,7 @@
   "url": "www.betley.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.033566",
+  "lng": "-2.3664806"
 }

@@ -14,5 +14,7 @@
   "url": "www.seyec.com/",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.498139",
+  "lng": "-0.39414459"
 }

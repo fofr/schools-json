@@ -14,5 +14,7 @@
   "url": "http://www.binfieldschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.430069",
+  "lng": "-0.79130294"
 }

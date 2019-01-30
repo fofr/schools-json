@@ -14,5 +14,7 @@
   "url": "http://www.derbymanufacturingutc.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "52.913293",
+  "lng": "-1.4576547"
 }

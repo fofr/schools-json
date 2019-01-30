@@ -14,5 +14,7 @@
   "url": "http://www.battlelangtonprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.916629",
+  "lng": "0.47989097"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.warleytown.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.718502",
+  "lng": "-1.9156051"
 }

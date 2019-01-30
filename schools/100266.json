@@ -14,5 +14,7 @@
   "url": "www.st-john.hackney.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.530909",
+  "lng": "-0.084040347"
 }

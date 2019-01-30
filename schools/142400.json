@@ -14,5 +14,7 @@
   "url": "www.ectonvillageacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.265433",
+  "lng": "-0.78960147"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.asap.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.402141",
+  "lng": "-4.1572375"
 }

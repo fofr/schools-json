@@ -14,5 +14,7 @@
   "url": "http://www.southfield.northants.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.386436",
+  "lng": "-0.71767482"
 }

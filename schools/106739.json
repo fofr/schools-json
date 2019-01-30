@@ -14,5 +14,7 @@
   "url": "http://www.bessacarr.doncaster.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.508288",
+  "lng": "-1.0901554"
 }

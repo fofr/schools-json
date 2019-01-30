@@ -14,5 +14,7 @@
   "url": "http://www.bridgnorth-st-leonards.shropshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.540856",
+  "lng": "-2.4236098"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.sunnydale.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.634273",
+  "lng": "-1.6378345"
 }

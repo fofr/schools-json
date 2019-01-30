@@ -14,5 +14,7 @@
   "url": "http://www.haywood.stoke.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.054881",
+  "lng": "-2.1883901"
 }

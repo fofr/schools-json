@@ -14,5 +14,7 @@
   "url": "www.slade.bham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.513617",
+  "lng": "-1.8579962"
 }

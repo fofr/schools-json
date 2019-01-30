@@ -14,5 +14,7 @@
   "url": "www.suttoncentre.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.123786",
+  "lng": "-1.2606111"
 }

@@ -14,5 +14,7 @@
   "url": "www.burnley.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "53.795749",
+  "lng": "-2.2489311"
 }

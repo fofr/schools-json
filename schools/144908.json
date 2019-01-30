@@ -14,5 +14,7 @@
   "url": "http://www.bromet.herts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.641705",
+  "lng": "-0.38809524"
 }

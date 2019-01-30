@@ -14,5 +14,7 @@
   "url": "http://www.bradford.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.829624",
+  "lng": "-4.2465608"
 }

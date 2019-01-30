@@ -14,5 +14,7 @@
   "url": "http://www.cawstonprimary.dneat.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.767708",
+  "lng": "1.1690778"
 }

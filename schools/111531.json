@@ -14,5 +14,7 @@
   "url": "www.redcar-cleveland.gov.uk/LingdalePrimary",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.536053",
+  "lng": "-0.96283390"
 }

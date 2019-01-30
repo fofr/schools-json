@@ -14,5 +14,7 @@
   "url": "http://www.wellingschool-tkat.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.467982",
+  "lng": "0.11408884"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.goring.oxon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.528204",
+  "lng": "-1.1312642"
 }

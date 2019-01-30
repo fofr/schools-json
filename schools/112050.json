@@ -14,5 +14,7 @@
   "url": "http://www.brannel.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.338742",
+  "lng": "-4.8912556"
 }

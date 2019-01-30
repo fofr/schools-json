@@ -14,5 +14,7 @@
   "url": "www.wellshall.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.025865",
+  "lng": "0.75348375"
 }

@@ -14,5 +14,7 @@
   "url": "www.wealdprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.174614",
+  "lng": "-0.31471055"
 }

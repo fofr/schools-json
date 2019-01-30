@@ -14,5 +14,7 @@
   "url": "www.preston.torbay.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.454075",
+  "lng": "-3.5559211"
 }

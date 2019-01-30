@@ -14,5 +14,7 @@
   "url": "http://www.rochestergrammar.medway.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.371440",
+  "lng": "0.50088814"
 }

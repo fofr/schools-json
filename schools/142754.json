@@ -14,5 +14,7 @@
   "url": "www.wasp-school.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.399722",
+  "lng": "-2.3965909"
 }

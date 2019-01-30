@@ -14,5 +14,7 @@
   "url": "www.welling.bexley.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.467982",
+  "lng": "0.11408884"
 }

@@ -14,5 +14,7 @@
   "url": "www.cheadleheathprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.399679",
+  "lng": "-2.1913404"
 }

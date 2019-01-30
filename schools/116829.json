@@ -14,5 +14,7 @@
   "url": "http://www.thelittletons.worcs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.115094",
+  "lng": "-1.8873900"
 }

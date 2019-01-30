@@ -14,5 +14,7 @@
   "url": "www.stocklandprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.834702",
+  "lng": "-3.0713648"
 }

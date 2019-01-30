@@ -14,5 +14,7 @@
   "url": "hallgreenprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.545813",
+  "lng": "-1.9916250"
 }

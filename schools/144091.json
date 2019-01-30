@@ -14,5 +14,7 @@
   "url": "www.stmaryrc.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.453534",
+  "lng": "0.063964606"
 }

@@ -14,5 +14,7 @@
   "url": "www.birchencoppiceacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.370736",
+  "lng": "-2.2712091"
 }

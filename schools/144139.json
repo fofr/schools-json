@@ -14,5 +14,7 @@
   "url": "www.ranelagh.newham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.531264",
+  "lng": "0.0092585062"
 }

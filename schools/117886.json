@@ -14,5 +14,7 @@
   "url": "www.martongateschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.099118",
+  "lng": "-0.18638638"
 }

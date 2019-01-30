@@ -14,5 +14,7 @@
   "url": "http://www.st-wulstans-rc12.lancsngfl.ac.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.918176",
+  "lng": "-3.0329746"
 }

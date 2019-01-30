@@ -14,5 +14,7 @@
   "url": "http://www.hbs.herts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.951164",
+  "lng": "-0.27850738"
 }

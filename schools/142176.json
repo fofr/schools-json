@@ -14,5 +14,7 @@
   "url": "http://www.st-marys.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.013502",
+  "lng": "-1.4712139"
 }

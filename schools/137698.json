@@ -14,5 +14,7 @@
   "url": "http://www.huttonallsaints.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.634487",
+  "lng": "0.34989266"
 }

@@ -14,5 +14,7 @@
   "url": "www.axbridgefirstschool.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.285909",
+  "lng": "-2.8171115"
 }

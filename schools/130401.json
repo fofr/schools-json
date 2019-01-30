@@ -11,8 +11,10 @@
   "maximum_age": "99",
   "easting": "530540",
   "northing": "181228",
-  "url": "",
+  "url": "www.citylit.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.514902",
+  "lng": "-0.12012396"
 }

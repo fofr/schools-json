@@ -14,5 +14,7 @@
   "url": "http://www.amersham.bucks.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.667522",
+  "lng": "-0.59393362"
 }

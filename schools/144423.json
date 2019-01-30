@@ -14,5 +14,7 @@
   "url": "www.barnsoleprimary.medway.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.382906",
+  "lng": "0.55713472"
 }

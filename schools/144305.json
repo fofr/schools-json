@@ -14,5 +14,7 @@
   "url": "www.paisleyprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.745929",
+  "lng": "-0.37530288"
 }

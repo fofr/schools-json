@@ -14,5 +14,7 @@
   "url": "http://www.oasisacademylisterpark.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.814357",
+  "lng": "-1.7652675"
 }

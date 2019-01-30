@@ -14,5 +14,7 @@
   "url": "www.westerings.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.595751",
+  "lng": "0.65650907"
 }

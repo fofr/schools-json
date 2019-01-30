@@ -14,5 +14,7 @@
   "url": "www.newingtonacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.734938",
+  "lng": "-0.37743998"
 }

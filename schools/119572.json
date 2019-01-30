@@ -14,5 +14,7 @@
   "url": "www.samlesbury.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.768128",
+  "lng": "-2.6241623"
 }

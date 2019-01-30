@@ -14,5 +14,7 @@
   "url": "http://www.blackhill-st-marys-rc.durham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.857578",
+  "lng": "-1.8577032"
 }

@@ -14,5 +14,7 @@
   "url": "www.stjps.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.587295",
+  "lng": "-0.23140792"
 }

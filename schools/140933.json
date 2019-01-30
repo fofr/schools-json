@@ -14,5 +14,7 @@
   "url": "www.hollymountschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.201096",
+  "lng": "-2.2004831"
 }

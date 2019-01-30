@@ -14,5 +14,7 @@
   "url": "http://www.manorgreencollege.org/",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.573282",
+  "lng": "0.19085541"
 }

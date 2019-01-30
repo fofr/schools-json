@@ -14,5 +14,7 @@
   "url": "http://grovehouseschool.co.uk/",
   "phase": "Not applicable",
   "type": "Free Schools",
-  "detailed_type": "Free schools special"
+  "detailed_type": "Free schools special",
+  "lat": "51.626901",
+  "lng": "0.30155870"
 }

@@ -14,5 +14,7 @@
   "url": "www.riverbridgeprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.427300",
+  "lng": "-0.50304524"
 }

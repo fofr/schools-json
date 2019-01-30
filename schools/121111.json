@@ -14,5 +14,7 @@
   "url": "http://www.caston.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.545617",
+  "lng": "0.87738483"
 }

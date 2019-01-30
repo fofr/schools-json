@@ -14,5 +14,7 @@
   "url": "www.sarratt.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.682312",
+  "lng": "-0.49294375"
 }

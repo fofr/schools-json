@@ -14,5 +14,7 @@
   "url": "http://www.altham.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.790627",
+  "lng": "-2.3523924"
 }

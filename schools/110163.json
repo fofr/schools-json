@@ -14,5 +14,7 @@
   "url": "www.dolphinschool.com",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.466102",
+  "lng": "-0.84509986"
 }

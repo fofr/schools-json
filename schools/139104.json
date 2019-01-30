@@ -14,5 +14,7 @@
   "url": "www.dilkesacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.508481",
+  "lng": "0.27298769"
 }

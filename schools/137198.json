@@ -14,5 +14,7 @@
   "url": "http://rooksheath.harrow.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.562261",
+  "lng": "-0.37187645"
 }

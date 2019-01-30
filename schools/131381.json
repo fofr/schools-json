@@ -14,5 +14,7 @@
   "url": "www.thehaven.e-sussex.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.790285",
+  "lng": "0.31921350"
 }

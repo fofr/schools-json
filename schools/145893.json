@@ -14,5 +14,7 @@
   "url": "www.lauruscheadlehulme.org.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.381123",
+  "lng": "-2.2041255"
 }

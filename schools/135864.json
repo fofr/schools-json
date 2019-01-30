@@ -14,5 +14,7 @@
   "url": "http://www.droylsdenacademy.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.482307",
+  "lng": "-2.1571144"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.covcollege.ac.uk/Pages/default.aspx",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "52.414850",
+  "lng": "-1.5035869"
 }

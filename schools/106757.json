@@ -14,5 +14,7 @@
   "url": "www.carcroftprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.584988",
+  "lng": "-1.1796732"
 }

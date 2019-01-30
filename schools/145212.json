@@ -14,5 +14,7 @@
   "url": "www.heatherlands.poole.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.731428",
+  "lng": "-1.9272177"
 }

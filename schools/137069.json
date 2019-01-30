@@ -14,5 +14,7 @@
   "url": "http://www.pickhurst-inf.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.386295",
+  "lng": "0.0053881512"
 }

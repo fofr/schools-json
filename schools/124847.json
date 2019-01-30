@@ -14,5 +14,7 @@
   "url": "http://www.eastbergholthigh.suffolk.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.978500",
+  "lng": "1.0265862"
 }

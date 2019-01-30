@@ -14,5 +14,7 @@
   "url": "http://www.greatwitchingham.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.721009",
+  "lng": "1.1064742"
 }

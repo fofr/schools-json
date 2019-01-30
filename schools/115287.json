@@ -14,5 +14,7 @@
   "url": "http://www.hockley.essex.sch.uk.",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.604048",
+  "lng": "0.64593050"
 }

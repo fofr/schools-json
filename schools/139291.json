@@ -14,5 +14,7 @@
   "url": "https://bourtononthewater-gloucs.frogos.net/app/os",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.887150",
+  "lng": "-1.7595320"
 }

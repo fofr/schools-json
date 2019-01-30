@@ -14,5 +14,7 @@
   "url": "www.wendron.cornwall.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.131106",
+  "lng": "-5.2512101"
 }

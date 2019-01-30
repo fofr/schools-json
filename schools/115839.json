@@ -14,5 +14,7 @@
   "url": "office@sevenoaks.portsmouth.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "50.848242",
+  "lng": "-1.0693335"
 }

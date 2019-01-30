@@ -14,5 +14,7 @@
   "url": "http://webfronter.com/greenwich/Windrush/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.502882",
+  "lng": "0.11567499"
 }

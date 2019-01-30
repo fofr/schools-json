@@ -14,5 +14,7 @@
   "url": "http://sandbachschool.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.142860",
+  "lng": "-2.3707746"
 }

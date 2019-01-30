@@ -14,5 +14,7 @@
   "url": "www.firthmoor.darlington.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.515142",
+  "lng": "-1.5234247"
 }

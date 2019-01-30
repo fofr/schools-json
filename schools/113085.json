@@ -14,5 +14,7 @@
   "url": "http://www.stthomasprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.715129",
+  "lng": "-3.5390110"
 }

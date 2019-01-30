@@ -14,5 +14,7 @@
   "url": "http://www.beaumontschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.755145",
+  "lng": "-0.29921418"
 }

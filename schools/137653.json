@@ -14,5 +14,7 @@
   "url": "www.castlecarrock.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.891789",
+  "lng": "-2.7135742"
 }

@@ -14,5 +14,7 @@
   "url": "www.sflt.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.363770",
+  "lng": "0.50585756"
 }

@@ -14,5 +14,7 @@
   "url": "www.tidemill.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.477479",
+  "lng": "-0.023593042"
 }

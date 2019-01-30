@@ -14,5 +14,7 @@
   "url": "http://www.whittinghamprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.597749",
+  "lng": "-0.035009486"
 }

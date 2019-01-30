@@ -14,5 +14,7 @@
   "url": "www.queensmanor.lbhf.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.479843",
+  "lng": "-0.22177115"
 }

@@ -14,5 +14,7 @@
   "url": "www.lodgelaneschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.667697",
+  "lng": "1.3022642"
 }

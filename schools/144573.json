@@ -14,5 +14,7 @@
   "url": "http://www.girnhill.wakefield.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.671895",
+  "lng": "-1.3623069"
 }

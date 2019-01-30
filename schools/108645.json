@@ -14,5 +14,7 @@
   "url": "http://longbenton.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.018553",
+  "lng": "-1.5741535"
 }

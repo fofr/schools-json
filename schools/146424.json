@@ -14,5 +14,7 @@
   "url": "www.shoscombe.bathnes.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.303922",
+  "lng": "-2.4076416"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.universityceacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.276830",
+  "lng": "-2.9061634"
 }

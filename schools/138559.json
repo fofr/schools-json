@@ -14,5 +14,7 @@
   "url": "brambles.teesvalleyeducation.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.565595",
+  "lng": "-1.1914951"
 }

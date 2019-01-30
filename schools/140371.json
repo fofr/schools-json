@@ -14,5 +14,7 @@
   "url": "http://www.harriscofeacademy.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.362856",
+  "lng": "-1.2705698"
 }

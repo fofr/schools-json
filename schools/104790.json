@@ -14,5 +14,7 @@
   "url": "http://www.rainfordcofe-pri.st-helens.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.502249",
+  "lng": "-2.7848811"
 }

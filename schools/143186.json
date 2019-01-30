@@ -14,5 +14,7 @@
   "url": "http://www.all-saints-ce-primary.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.805678",
+  "lng": "-2.9872657"
 }

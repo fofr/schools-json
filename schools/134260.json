@@ -14,5 +14,7 @@
   "url": "http://www.staubyn-centre.essex.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.921668",
+  "lng": "0.89657848"
 }

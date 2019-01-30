@@ -14,5 +14,7 @@
   "url": "www.millshill.oldham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.548443",
+  "lng": "-2.1636230"
 }

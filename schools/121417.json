@@ -14,5 +14,7 @@
   "url": "www.waterstreetschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.962632",
+  "lng": "-2.0190006"
 }

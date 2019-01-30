@@ -14,5 +14,7 @@
   "url": "www.acornacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.782620",
+  "lng": "-2.9915603"
 }

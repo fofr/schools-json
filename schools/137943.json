@@ -14,5 +14,7 @@
   "url": "http://www.applecroft.herts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.797514",
+  "lng": "-0.21835070"
 }

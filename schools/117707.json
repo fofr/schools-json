@@ -14,5 +14,7 @@
   "url": "www.boulevardcentre.co.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.737850",
+  "lng": "-0.36550151"
 }

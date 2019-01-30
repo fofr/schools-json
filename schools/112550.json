@@ -14,5 +14,7 @@
   "url": "www.grindlefordprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.296057",
+  "lng": "-1.6372720"
 }

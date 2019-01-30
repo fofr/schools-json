@@ -14,5 +14,7 @@
   "url": "www.woodfarmschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.751428",
+  "lng": "-1.2012319"
 }

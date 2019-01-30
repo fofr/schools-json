@@ -14,5 +14,7 @@
   "url": "http://sunninghillprimary.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.566265",
+  "lng": "-2.4439697"
 }

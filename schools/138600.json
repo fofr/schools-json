@@ -14,5 +14,7 @@
   "url": "http://www.hyndburnstudioschool.co.uk/index.html",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "53.750035",
+  "lng": "-2.3680055"
 }

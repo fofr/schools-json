@@ -14,5 +14,7 @@
   "url": "www.bayliscourtnurseryschool.co.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.522969",
+  "lng": "-0.60908537"
 }

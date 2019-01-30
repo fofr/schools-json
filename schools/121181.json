@@ -14,5 +14,7 @@
   "url": "http://www.rmplc.co.uk/eduweb/sites/thsnet/index.html",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.686340",
+  "lng": "1.1873906"
 }

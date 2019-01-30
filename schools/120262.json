@@ -14,5 +14,7 @@
   "url": "http://www.gartree.leics.sch.uk",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.588367",
+  "lng": "-1.0739384"
 }

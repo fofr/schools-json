@@ -14,5 +14,7 @@
   "url": "www.albertpye.suffolk.sch.uk/ravensmere",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.462769",
+  "lng": "1.5661412"
 }

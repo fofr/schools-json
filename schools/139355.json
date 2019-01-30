@@ -14,5 +14,7 @@
   "url": "http://www.stjosephsotley.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.906072",
+  "lng": "-1.6943267"
 }

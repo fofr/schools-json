@@ -14,5 +14,7 @@
   "url": "www.ncgs.co.uk/start.html",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "53.388228",
+  "lng": "-2.3559294"
 }

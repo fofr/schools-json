@@ -14,5 +14,7 @@
   "url": "www.iqra.slough.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.516631",
+  "lng": "-0.58218316"
 }

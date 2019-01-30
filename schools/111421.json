@@ -14,5 +14,7 @@
   "url": "http://www.christletonhigh.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.183184",
+  "lng": "-2.8331971"
 }

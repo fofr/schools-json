@@ -14,5 +14,7 @@
   "url": "www.patrington-academy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.680418",
+  "lng": "-0.010820524"
 }

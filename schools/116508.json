@@ -14,5 +14,7 @@
   "url": "http://www.camshill.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.850451",
+  "lng": "-1.1588978"
 }

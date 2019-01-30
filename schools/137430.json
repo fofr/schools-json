@@ -14,5 +14,7 @@
   "url": "www.oasisacademyjohanna.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.500707",
+  "lng": "-0.11141491"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.lythamhigh.lancs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.747283",
+  "lng": "-2.9976598"
 }

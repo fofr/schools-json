@@ -14,5 +14,7 @@
   "url": "http://www.st-thomas-tean.staffs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.955107",
+  "lng": "-1.9863984"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.hammond.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.769117",
+  "lng": "-0.45543107"
 }

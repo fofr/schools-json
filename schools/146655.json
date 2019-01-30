@@ -14,5 +14,7 @@
   "url": "www.southport.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "53.647816",
+  "lng": "-2.9976093"
 }

@@ -14,5 +14,7 @@
   "url": "https://www.becton.sheffield.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "53.345097",
+  "lng": "-1.3505186"
 }

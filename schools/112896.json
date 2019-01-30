@@ -14,5 +14,7 @@
   "url": "www.westoncofe.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.848245",
+  "lng": "-1.3996204"
 }

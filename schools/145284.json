@@ -14,5 +14,7 @@
   "url": "http://www.hatchride.wokingham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.379941",
+  "lng": "-0.79860113"
 }

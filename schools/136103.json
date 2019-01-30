@@ -14,5 +14,7 @@
   "url": "http://hamptonacademy.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.429359",
+  "lng": "-0.37410172"
 }

@@ -14,5 +14,7 @@
   "url": "www.risleyavenueprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.600010",
+  "lng": "-0.078144244"
 }

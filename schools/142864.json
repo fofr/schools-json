@@ -14,5 +14,7 @@
   "url": "www.pinnerhighschool.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.579080",
+  "lng": "-0.38778619"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-josephs-northfleet.kent.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.438884",
+  "lng": "0.33790910"
 }

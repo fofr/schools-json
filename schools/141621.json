@@ -14,5 +14,7 @@
   "url": "www.millviewschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.210642",
+  "lng": "-2.8824248"
 }

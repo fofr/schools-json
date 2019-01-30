@@ -14,5 +14,7 @@
   "url": "http://www.islingtongreen.islington.sch.uk/frameset.html",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.536221",
+  "lng": "-0.097645509"
 }

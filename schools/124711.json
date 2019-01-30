@@ -14,5 +14,7 @@
   "url": "http://www.rattlesdenprimaryschool.onesuffolk.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.193358",
+  "lng": "0.88853500"
 }

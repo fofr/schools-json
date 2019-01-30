@@ -14,5 +14,7 @@
   "url": "http://www.bradleybarton.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.530394",
+  "lng": "-3.6308991"
 }

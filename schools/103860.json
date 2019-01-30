@@ -14,5 +14,7 @@
   "url": "http://www.earls.dudley.gov.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.452802",
+  "lng": "-2.0505905"
 }

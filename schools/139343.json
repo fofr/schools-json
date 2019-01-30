@@ -14,5 +14,7 @@
   "url": "http://www.christofidelis.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.177657",
+  "lng": "-2.8925952"
 }

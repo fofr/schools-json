@@ -14,5 +14,7 @@
   "url": "http://www.southlands.kent.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.986625",
+  "lng": "0.94828423"
 }

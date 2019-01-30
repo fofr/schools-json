@@ -14,5 +14,7 @@
   "url": "http://www.combertonvc.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.184811",
+  "lng": "0.010766191"
 }

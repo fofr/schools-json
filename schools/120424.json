@@ -14,5 +14,7 @@
   "url": "http://www.hawthorntree.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.974662",
+  "lng": "0.010425387"
 }

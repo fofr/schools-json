@@ -14,5 +14,7 @@
   "url": "http://www.ourladyhartley.kent.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.385134",
+  "lng": "0.30830560"
 }

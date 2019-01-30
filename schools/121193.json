@@ -14,5 +14,7 @@
   "url": "http://www.greshamvillage.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.899542",
+  "lng": "1.2266739"
 }

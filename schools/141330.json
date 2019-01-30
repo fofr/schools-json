@@ -14,5 +14,7 @@
   "url": "www.heygreenblogs.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.401735",
+  "lng": "-2.9279781"
 }

@@ -14,5 +14,7 @@
   "url": "www.castleviewmatlock.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.140323",
+  "lng": "-1.5451829"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.castlecampsschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.063268",
+  "lng": "0.37906466"
 }

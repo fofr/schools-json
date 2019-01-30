@@ -14,5 +14,7 @@
   "url": "www.bayceschool.org",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.657343",
+  "lng": "-1.1594787"
 }

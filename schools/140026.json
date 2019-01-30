@@ -14,5 +14,7 @@
   "url": "www.stmaryschidd.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.113044",
+  "lng": "-0.62807022"
 }

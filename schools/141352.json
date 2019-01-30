@@ -14,5 +14,7 @@
   "url": "www.trinityceprimary.school",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.380984",
+  "lng": "0.045221604"
 }

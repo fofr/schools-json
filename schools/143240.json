@@ -14,5 +14,7 @@
   "url": "www.kippaxashtree.leeds.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.769086",
+  "lng": "-1.3658877"
 }

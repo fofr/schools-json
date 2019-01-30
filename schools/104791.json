@@ -14,5 +14,7 @@
   "url": "www.suttonoak.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.438655",
+  "lng": "-2.7039083"
 }

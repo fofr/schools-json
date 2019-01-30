@@ -14,5 +14,7 @@
   "url": "www.southkilworthschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.432558",
+  "lng": "-1.1151261"
 }

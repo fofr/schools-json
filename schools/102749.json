@@ -14,5 +14,7 @@
   "url": "www.tollgate.newham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.519863",
+  "lng": "0.034688245"
 }

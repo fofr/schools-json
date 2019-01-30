@@ -14,5 +14,7 @@
   "url": "www.greenhill.theharmonytrust.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.537274",
+  "lng": "-2.1049012"
 }

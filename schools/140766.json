@@ -14,5 +14,7 @@
   "url": "www.stjosephsprimaryschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.620470",
+  "lng": "-3.4040515"
 }

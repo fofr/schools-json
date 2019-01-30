@@ -14,5 +14,7 @@
   "url": "www.gosseylane.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.478803",
+  "lng": "-1.7787619"
 }

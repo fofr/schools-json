@@ -14,5 +14,7 @@
   "url": "www.sacredheart.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.765857",
+  "lng": "-2.7272728"
 }

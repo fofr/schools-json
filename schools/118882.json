@@ -14,5 +14,7 @@
   "url": "http://www.aylesford.kent.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.297943",
+  "lng": "0.46405309"
 }

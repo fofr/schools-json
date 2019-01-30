@@ -14,5 +14,7 @@
   "url": "www.stjuliansprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.323234",
+  "lng": "-2.3732705"
 }

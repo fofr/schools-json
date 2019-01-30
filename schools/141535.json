@@ -14,5 +14,7 @@
   "url": "www.st-marys-catholic.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.415371",
+  "lng": "-0.016407446"
 }

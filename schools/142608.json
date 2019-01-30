@@ -14,5 +14,7 @@
   "url": "www.iaog.org.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.457229",
+  "lng": "0.012267165"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.offasmeadacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.641618",
+  "lng": "-2.6621575"
 }

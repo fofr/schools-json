@@ -14,5 +14,7 @@
   "url": "www.colehamprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.703134",
+  "lng": "-2.7484856"
 }

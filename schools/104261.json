@@ -14,5 +14,7 @@
   "url": "http://www.queenmaryshigh.walsall.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.589744",
+  "lng": "-1.9758818"
 }

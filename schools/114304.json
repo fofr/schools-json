@@ -14,5 +14,7 @@
   "url": "http://www.woodham.durham.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.626942",
+  "lng": "-1.5623598"
 }

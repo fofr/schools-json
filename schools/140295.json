@@ -14,5 +14,7 @@
   "url": "www.staidansacademy.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.566558",
+  "lng": "0.089684602"
 }

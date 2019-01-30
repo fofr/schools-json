@@ -14,5 +14,7 @@
   "url": "http://www.cathedralacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.670836",
+  "lng": "-1.5162737"
 }

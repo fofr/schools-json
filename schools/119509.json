@@ -14,5 +14,7 @@
   "url": "www.rivington.lancs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.624337",
+  "lng": "-2.5676525"
 }

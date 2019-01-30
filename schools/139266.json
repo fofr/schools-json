@@ -14,5 +14,7 @@
   "url": "www.fishtoftacademy.net",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.958780",
+  "lng": "0.027599651"
 }

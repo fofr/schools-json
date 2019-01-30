@@ -14,5 +14,7 @@
   "url": "www.waamc.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.747173",
+  "lng": "-1.8910784"
 }

@@ -11,8 +11,10 @@
   "maximum_age": "99",
   "easting": "530852",
   "northing": "179082",
-  "url": "",
+  "url": "www.marine-society.org",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.495545",
+  "lng": "-0.11642565"
 }

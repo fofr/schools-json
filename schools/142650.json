@@ -14,5 +14,7 @@
   "url": "www.towcesterprimary.northants.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.128680",
+  "lng": "-0.98585272"
 }

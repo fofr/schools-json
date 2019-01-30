@@ -14,5 +14,7 @@
   "url": "www.witleyschool.co/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.148158",
+  "lng": "-0.64796056"
 }

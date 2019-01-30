@@ -14,5 +14,7 @@
   "url": "www.lipaprimary.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.399123",
+  "lng": "-2.9748762"
 }

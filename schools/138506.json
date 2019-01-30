@@ -14,5 +14,7 @@
   "url": "www.ormistonsudburyacademy.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.047298",
+  "lng": "0.73366728"
 }

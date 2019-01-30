@@ -14,5 +14,7 @@
   "url": "www.brookvale.leics.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.657384",
+  "lng": "-1.2340558"
 }

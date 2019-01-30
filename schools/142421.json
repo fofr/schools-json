@@ -14,5 +14,7 @@
   "url": "www.christchurchfirstschool.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.905024",
+  "lng": "-2.1491268"
 }

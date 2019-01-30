@@ -14,5 +14,7 @@
   "url": "http://www.myrtleparkprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.844316",
+  "lng": "-1.8372629"
 }

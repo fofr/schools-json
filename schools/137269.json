@@ -14,5 +14,7 @@
   "url": "http://settlebeck.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.322689",
+  "lng": "-2.5201740"
 }

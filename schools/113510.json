@@ -14,5 +14,7 @@
   "url": "http://www.greattorrington.devon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.955350",
+  "lng": "-4.1338797"
 }

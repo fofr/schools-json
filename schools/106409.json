@@ -14,5 +14,7 @@
   "url": "http://www.holgate.wigan.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.534493",
+  "lng": "-2.7097370"
 }

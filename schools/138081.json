@@ -14,5 +14,7 @@
   "url": "www.sacredheart.leicester.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.638965",
+  "lng": "-1.1094014"
 }

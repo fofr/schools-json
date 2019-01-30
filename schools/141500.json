@@ -14,5 +14,7 @@
   "url": "universityprimaryschool.org.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.216297",
+  "lng": "0.093142180"
 }

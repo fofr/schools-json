@@ -14,5 +14,7 @@
   "url": "www.essaprimaryacademy.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.556907",
+  "lng": "-2.4465738"
 }

@@ -14,5 +14,7 @@
   "url": "www.williamlilley.notts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.925552",
+  "lng": "-1.2779745"
 }

@@ -14,5 +14,7 @@
   "url": "www.stapeleybl.cheshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.050526",
+  "lng": "-2.5023777"
 }

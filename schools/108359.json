@@ -14,5 +14,7 @@
   "url": "www.brandlingprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.953493",
+  "lng": "-1.5691420"
 }

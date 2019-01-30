@@ -14,5 +14,7 @@
   "url": "http://www.stthomasjnr.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.626521",
+  "lng": "0.30492046"
 }

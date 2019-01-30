@@ -14,5 +14,7 @@
   "url": "www.stpaulsrc.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.617151",
+  "lng": "-1.3134910"
 }

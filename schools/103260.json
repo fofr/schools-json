@@ -14,5 +14,7 @@
   "url": "http://www.rmplc.co.uk/eduweb/sites/oknowjs/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.464374",
+  "lng": "-1.8473507"
 }

@@ -14,5 +14,7 @@
   "url": "www.highconiscliffe.darlington.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.534739",
+  "lng": "-1.6548032"
 }

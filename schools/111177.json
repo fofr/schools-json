@@ -14,5 +14,7 @@
   "url": "www.windmillhill.school",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.337503",
+  "lng": "-2.6697869"
 }

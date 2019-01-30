@@ -14,5 +14,7 @@
   "url": "www.cathedralprimaryschool.org/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.451229",
+  "lng": "-2.6007839"
 }

@@ -14,5 +14,7 @@
   "url": "www.whitecrest.sandwell.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.549331",
+  "lng": "-1.9241850"
 }

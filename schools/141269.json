@@ -14,5 +14,7 @@
   "url": "http://www.cns-school.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.612359",
+  "lng": "1.2750466"
 }

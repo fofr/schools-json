@@ -14,5 +14,7 @@
   "url": "www.stmarys-brixton.devon.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.350209",
+  "lng": "-4.0364653"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.plymstockschool.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.362194",
+  "lng": "-4.0879620"
 }

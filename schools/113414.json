@@ -14,5 +14,7 @@
   "url": "www.northlew.devon.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.772007",
+  "lng": "-4.1223879"
 }

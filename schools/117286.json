@@ -14,5 +14,7 @@
   "url": "http://www.dundale.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.799993",
+  "lng": "-0.66131438"
 }

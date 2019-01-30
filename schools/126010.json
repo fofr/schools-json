@@ -14,5 +14,7 @@
   "url": "www.turnershillschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.102929",
+  "lng": "-0.086134128"
 }

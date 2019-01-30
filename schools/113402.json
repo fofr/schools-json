@@ -14,5 +14,7 @@
   "url": "http://www.upton-st-james-primary.torbay.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.474412",
+  "lng": "-3.5340821"
 }

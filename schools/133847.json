@@ -14,5 +14,7 @@
   "url": "http://www.kiad.ac.uk/default.htm",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.271289",
+  "lng": "0.49783929"
 }

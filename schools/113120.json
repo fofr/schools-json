@@ -14,5 +14,7 @@
   "url": "http://www.bassetts-farm.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.633967",
+  "lng": "-3.3854769"
 }

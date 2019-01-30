@@ -14,5 +14,7 @@
   "url": "www.sirjohnsherbrooke.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.041831",
+  "lng": "-1.0858945"
 }

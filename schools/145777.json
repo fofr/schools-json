@@ -14,5 +14,7 @@
   "url": "http://web.tgsbec.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.877859",
+  "lng": "-1.3073394"
 }

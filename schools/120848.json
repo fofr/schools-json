@@ -14,5 +14,7 @@
   "url": "www.roydon.norfolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.379536",
+  "lng": "1.0906055"
 }

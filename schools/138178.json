@@ -14,5 +14,7 @@
   "url": "https://www.riddlesdown.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.325742",
+  "lng": "-0.087910189"
 }

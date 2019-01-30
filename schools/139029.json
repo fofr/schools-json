@@ -14,5 +14,7 @@
   "url": "http://www.ridgeway.academy",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.253072",
+  "lng": "-1.9389719"
 }

@@ -14,5 +14,7 @@
   "url": "www.thepinesprimary.co.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.310843",
+  "lng": "0.50140175"
 }

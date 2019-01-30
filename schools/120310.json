@@ -14,5 +14,7 @@
   "url": "www.southwigston.leics.sch.uk",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.579221",
+  "lng": "-1.1379437"
 }

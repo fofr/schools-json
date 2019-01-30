@@ -14,5 +14,7 @@
   "url": "http://www.roseacre.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.272154",
+  "lng": "0.57006280"
 }

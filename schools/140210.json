@@ -14,5 +14,7 @@
   "url": "www.mvpa.mossbourne.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.539108",
+  "lng": "-0.042482664"
 }

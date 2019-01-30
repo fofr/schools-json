@@ -14,5 +14,7 @@
   "url": "www.centralbedsutc.org",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.913264",
+  "lng": "-0.50347117"
 }

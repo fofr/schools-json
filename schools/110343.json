@@ -14,5 +14,7 @@
   "url": "www.iverheath-inf.bucks.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.535977",
+  "lng": "-0.51992846"
 }

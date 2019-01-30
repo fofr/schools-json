@@ -14,5 +14,7 @@
   "url": "www.woodsideschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.865751",
+  "lng": "-3.0526873"
 }

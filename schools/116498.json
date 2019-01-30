@@ -14,5 +14,7 @@
   "url": "http://www.croftonschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.822760",
+  "lng": "-1.2047548"
 }

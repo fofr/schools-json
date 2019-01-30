@@ -14,5 +14,7 @@
   "url": "http://www.redwood.lincs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.181982",
+  "lng": "-0.55611552"
 }

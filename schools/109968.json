@@ -14,5 +14,7 @@
   "url": "www.lambournschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.504626",
+  "lng": "-1.5319766"
 }

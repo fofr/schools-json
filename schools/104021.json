@@ -14,5 +14,7 @@
   "url": "http://www.manor.sandwell.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.555091",
+  "lng": "-1.9908711"
 }

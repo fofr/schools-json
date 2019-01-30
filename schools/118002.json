@@ -14,5 +14,7 @@
   "url": "http://www.cherryburtonprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.866021",
+  "lng": "-0.49580050"
 }

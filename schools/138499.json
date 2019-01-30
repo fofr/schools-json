@@ -1,6 +1,6 @@
 {
   "urn": "138499",
-  "name": "Banbury Academy",
+  "name": "Wykham Park",
   "address": "Ruskin Road",
   "locality": "",
   "address3": "",
@@ -14,5 +14,7 @@
   "url": "http://www.wykhampark-aspirations.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.050263",
+  "lng": "-1.3438577"
 }

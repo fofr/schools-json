@@ -14,5 +14,7 @@
   "url": "www.holgate.notts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.032619",
+  "lng": "-1.2255619"
 }

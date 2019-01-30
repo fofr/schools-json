@@ -14,5 +14,7 @@
   "url": "http://www.wellandprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.598549",
+  "lng": "-0.22397305"
 }

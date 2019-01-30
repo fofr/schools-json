@@ -14,5 +14,7 @@
   "url": "www.williammartinschools.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.760216",
+  "lng": "0.10713578"
 }

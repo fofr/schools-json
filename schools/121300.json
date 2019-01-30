@@ -14,5 +14,7 @@
   "url": "http://www.oakridge.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.537356",
+  "lng": "-0.77617103"
 }

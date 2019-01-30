@@ -14,5 +14,7 @@
   "url": "http://www.walsdeninfant.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.697139",
+  "lng": "-2.1046025"
 }

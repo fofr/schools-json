@@ -14,5 +14,7 @@
   "url": "www.hawthorns.wokingham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.415288",
+  "lng": "-0.86156603"
 }

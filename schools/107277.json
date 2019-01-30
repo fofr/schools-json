@@ -14,5 +14,7 @@
   "url": "www.ashlandsprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.928201",
+  "lng": "-1.8136369"
 }

@@ -14,5 +14,7 @@
   "url": "www.merlintopacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.868449",
+  "lng": "-1.9309072"
 }

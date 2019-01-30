@@ -14,5 +14,7 @@
   "url": "www.browneyacademy.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.746803",
+  "lng": "-1.6171028"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.webstore-ed.net/cliftonwithout/index_html.html",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.976847",
+  "lng": "-1.1001367"
 }

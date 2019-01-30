@@ -14,5 +14,7 @@
   "url": "http://www.studhamschools.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.829420",
+  "lng": "-0.52147487"
 }

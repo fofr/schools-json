@@ -14,5 +14,7 @@
   "url": "www.tanysdell.essex.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.780116",
+  "lng": "0.11870403"
 }

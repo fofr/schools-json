@@ -14,5 +14,7 @@
   "url": "www.darrickwood.bromley.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.365281",
+  "lng": "0.064260585"
 }

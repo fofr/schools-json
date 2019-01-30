@@ -14,5 +14,7 @@
   "url": "www.pbjs.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.479610",
+  "lng": "-1.0826319"
 }

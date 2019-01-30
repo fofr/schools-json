@@ -14,5 +14,7 @@
   "url": "www.castlecombe.bromley.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.424179",
+  "lng": "0.044589259"
 }

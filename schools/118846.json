@@ -14,5 +14,7 @@
   "url": "www.snodland-kent.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.330556",
+  "lng": "0.43513743"
 }

@@ -14,5 +14,7 @@
   "url": "www.lawnmanor.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.555114",
+  "lng": "-1.7628427"
 }

@@ -14,5 +14,7 @@
   "url": "www.stnicholas.bristol.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.459847",
+  "lng": "-2.5767445"
 }

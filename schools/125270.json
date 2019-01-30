@@ -14,5 +14,7 @@
   "url": "http://www.wokinghigh.surrey.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.328222",
+  "lng": "-0.57071972"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.linst.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.517837",
+  "lng": "-0.11642854"
 }

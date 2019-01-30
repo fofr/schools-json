@@ -14,5 +14,7 @@
   "url": "www.ikbacademy.org.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "51.411430",
+  "lng": "-2.4870029"
 }

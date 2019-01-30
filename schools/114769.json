@@ -14,5 +14,7 @@
   "url": "www.highfields-essex.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.943116",
+  "lng": "1.0552283"
 }

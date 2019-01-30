@@ -14,5 +14,7 @@
   "url": "http://www.larkhallinfants.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.647212",
+  "lng": "-1.7052987"
 }

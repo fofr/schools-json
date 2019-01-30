@@ -14,5 +14,7 @@
   "url": "http://www.wlsj.lancs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.562151",
+  "lng": "-2.8439951"
 }

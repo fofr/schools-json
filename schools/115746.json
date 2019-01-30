@@ -14,5 +14,7 @@
   "url": "www.severnbanksprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.726386",
+  "lng": "-2.5175425"
 }

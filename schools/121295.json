@@ -14,5 +14,7 @@
   "url": "http://www.lealholm.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.458439",
+  "lng": "-0.82724236"
 }

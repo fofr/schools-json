@@ -14,5 +14,7 @@
   "url": "http://www.florendine.staffs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.634971",
+  "lng": "-1.6627961"
 }

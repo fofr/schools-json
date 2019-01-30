@@ -14,5 +14,7 @@
   "url": "http://www.lucasvale.lewisham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.471740",
+  "lng": "-0.028276052"
 }

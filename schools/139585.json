@@ -14,5 +14,7 @@
   "url": "www.grangeprimaryacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.405683",
+  "lng": "-0.70598871"
 }

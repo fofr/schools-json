@@ -14,5 +14,7 @@
   "url": "www.belmontceprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.785426",
+  "lng": "-1.5274219"
 }

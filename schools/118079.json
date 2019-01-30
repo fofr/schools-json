@@ -14,5 +14,7 @@
   "url": "http://www.cottinghamhigh.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.789024",
+  "lng": "-0.43208233"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.compass-pru.southampton.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "50.933026",
+  "lng": "-1.4401984"
 }

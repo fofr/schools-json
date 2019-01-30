@@ -14,5 +14,7 @@
   "url": "www.townfieldprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.377177",
+  "lng": "-3.0637725"
 }

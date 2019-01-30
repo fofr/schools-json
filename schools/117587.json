@@ -14,5 +14,7 @@
   "url": "http://www.goffs.herts.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.706421",
+  "lng": "-0.057050990"
 }

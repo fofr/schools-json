@@ -14,5 +14,7 @@
   "url": "http://www.captains-close.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.765999",
+  "lng": "-0.95889933"
 }

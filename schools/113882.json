@@ -14,5 +14,7 @@
   "url": "http://www.gillingham.dorset.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.038197",
+  "lng": "-2.2682125"
 }

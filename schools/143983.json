@@ -14,5 +14,7 @@
   "url": "www.hutchinson.staffs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.939099",
+  "lng": "-1.9580431"
 }

@@ -14,5 +14,7 @@
   "url": "www.loscoe.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.023089",
+  "lng": "-1.3753110"
 }

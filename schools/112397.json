@@ -14,5 +14,7 @@
   "url": "http://nts.cumbria.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.821747",
+  "lng": "-3.1557569"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.shoreham-academy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.836913",
+  "lng": "-0.24558146"
 }

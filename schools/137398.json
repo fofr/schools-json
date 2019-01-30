@@ -14,5 +14,7 @@
   "url": "http://www.oldearth.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.688257",
+  "lng": "-1.8184670"
 }

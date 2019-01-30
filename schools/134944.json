@@ -14,5 +14,7 @@
   "url": "www.eficts.norfolk.gov.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.641830",
+  "lng": "1.2411158"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kempseyprimary.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.140086",
+  "lng": "-2.2163401"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.hazelwick.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.125349",
+  "lng": "-0.16639428"
 }

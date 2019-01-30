@@ -14,5 +14,7 @@
   "url": "http://www.eaglesfieldpaddle.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.638109",
+  "lng": "-3.3824913"
 }

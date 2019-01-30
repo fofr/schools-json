@@ -14,5 +14,7 @@
   "url": "www.grimsdyke.harrow.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.612193",
+  "lng": "-0.37634437"
 }

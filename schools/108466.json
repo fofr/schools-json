@@ -14,5 +14,7 @@
   "url": "www.bridgewater.newcastle.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.971099",
+  "lng": "-1.6736932"
 }

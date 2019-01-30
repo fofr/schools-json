@@ -14,5 +14,7 @@
   "url": "www.daresburyschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.338216",
+  "lng": "-2.6347304"
 }

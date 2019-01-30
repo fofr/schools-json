@@ -14,5 +14,7 @@
   "url": "http://www.fairfieldprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.661504",
+  "lng": "-3.3666351"
 }

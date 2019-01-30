@@ -14,5 +14,7 @@
   "url": "http://www.cusgarne-primary-school.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.223022",
+  "lng": "-5.1396630"
 }

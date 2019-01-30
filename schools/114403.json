@@ -14,5 +14,7 @@
   "url": "www.hovejuniorschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.834317",
+  "lng": "-0.19154219"
 }

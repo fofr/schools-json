@@ -14,5 +14,7 @@
   "url": "www.springbankpri-ac.gloucs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.911598",
+  "lng": "-2.1217484"
 }

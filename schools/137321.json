@@ -14,5 +14,7 @@
   "url": "http://felixstoweacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.972963",
+  "lng": "1.3320301"
 }

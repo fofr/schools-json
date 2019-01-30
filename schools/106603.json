@@ -14,5 +14,7 @@
   "url": "www.gawberprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.558976",
+  "lng": "-1.5140627"
 }

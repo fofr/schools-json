@@ -14,5 +14,7 @@
   "url": "www.gyca.org.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.619200",
+  "lng": "1.7354944"
 }

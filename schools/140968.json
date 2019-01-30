@@ -14,5 +14,7 @@
   "url": "http://www.tottenhamutc.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.604606",
+  "lng": "-0.067783648"
 }

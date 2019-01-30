@@ -14,5 +14,7 @@
   "url": "http://www.swalecliffeprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.361008",
+  "lng": "1.0585485"
 }

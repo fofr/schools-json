@@ -14,5 +14,7 @@
   "url": "www.angleseyprimaryacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.798879",
+  "lng": "-1.6441481"
 }

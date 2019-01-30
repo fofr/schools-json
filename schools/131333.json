@@ -14,5 +14,7 @@
   "url": "http://www.stpaulscom.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.456196",
+  "lng": "-1.8813144"
 }

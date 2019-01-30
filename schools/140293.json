@@ -14,5 +14,7 @@
   "url": "www.shrivenhamschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.598359",
+  "lng": "-1.6559262"
 }

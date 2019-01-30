@@ -14,5 +14,7 @@
   "url": "http://www.stlouisrccschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.825103",
+  "lng": "-0.79927571"
 }

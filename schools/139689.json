@@ -14,5 +14,7 @@
   "url": "http://www.ryestudioschool.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "50.955053",
+  "lng": "0.73166421"
 }

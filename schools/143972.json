@@ -14,5 +14,7 @@
   "url": "www.curyschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.047110",
+  "lng": "-5.2440871"
 }

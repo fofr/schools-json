@@ -14,5 +14,7 @@
   "url": "www.raynsfordacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.031835",
+  "lng": "-0.28453650"
 }

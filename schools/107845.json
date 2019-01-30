@@ -14,5 +14,7 @@
   "url": "www.pudseyboltonroyd.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.801168",
+  "lng": "-1.6956361"
 }

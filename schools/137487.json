@@ -14,5 +14,7 @@
   "url": "http://www.batleygrammar.co.uk",
   "phase": "All through",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.722002",
+  "lng": "-1.6407270"
 }

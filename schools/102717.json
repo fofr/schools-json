@@ -14,5 +14,7 @@
   "url": "www.drew.newham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.502740",
+  "lng": "0.047167312"
 }

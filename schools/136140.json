@@ -14,5 +14,7 @@
   "url": "http://www.pupilreferralservice.co.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.715201",
+  "lng": "-1.6296481"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.cowlersleyprimaryschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.632547",
+  "lng": "-1.8362024"
 }

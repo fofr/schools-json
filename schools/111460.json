@@ -14,5 +14,7 @@
   "url": "http://www.mottramschool.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.303209",
+  "lng": "-2.1881923"
 }

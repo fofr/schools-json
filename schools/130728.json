@@ -14,5 +14,7 @@
   "url": "http://eastkent.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "51.354162",
+  "lng": "1.4350271"
 }

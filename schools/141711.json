@@ -14,5 +14,7 @@
   "url": "http://www.lazonby.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.751285",
+  "lng": "-2.6992459"
 }

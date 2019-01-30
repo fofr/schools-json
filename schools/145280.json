@@ -14,5 +14,7 @@
   "url": "www.chesterton.wandsworth.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.473821",
+  "lng": "-0.15676113"
 }

@@ -14,5 +14,7 @@
   "url": "www.southbroom-inf.wilts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.349312",
+  "lng": "-1.9898995"
 }

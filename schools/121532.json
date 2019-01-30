@@ -14,5 +14,7 @@
   "url": "www.escrickprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.876956",
+  "lng": "-1.0424574"
 }

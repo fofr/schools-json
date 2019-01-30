@@ -14,5 +14,7 @@
   "url": "http://hwjs.hants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.238976",
+  "lng": "-1.1235283"
 }

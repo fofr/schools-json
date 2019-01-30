@@ -14,5 +14,7 @@
   "url": "www.highlawnprimaryandnursery.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.608789",
+  "lng": "-2.4339570"
 }

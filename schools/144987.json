@@ -14,5 +14,7 @@
   "url": "www.olol.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.549683",
+  "lng": "0.67010976"
 }

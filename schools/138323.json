@@ -14,5 +14,7 @@
   "url": "http://www.brookvalehighschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.657384",
+  "lng": "-1.2340558"
 }

@@ -14,5 +14,7 @@
   "url": "www.engainesprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.824304",
+  "lng": "1.1402725"
 }

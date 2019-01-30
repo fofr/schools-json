@@ -14,5 +14,7 @@
   "url": "http://www.christopherwhitehead.worcs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.186121",
+  "lng": "-2.2331652"
 }

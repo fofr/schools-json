@@ -14,5 +14,7 @@
   "url": "http://www.queenelizabeth.cumbria.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.201715",
+  "lng": "-2.6038394"
 }

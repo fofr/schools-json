@@ -14,5 +14,7 @@
   "url": "http://www.chingfordhallprimary.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.608256",
+  "lng": "-0.023969587"
 }

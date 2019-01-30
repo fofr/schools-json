@@ -14,5 +14,7 @@
   "url": "http://www.courtdewyck.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.390324",
+  "lng": "-2.7946964"
 }

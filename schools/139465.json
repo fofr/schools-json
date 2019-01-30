@@ -14,5 +14,7 @@
   "url": "www.brookvaleschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.521075",
+  "lng": "-1.8712067"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.windsorgirls.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.471791",
+  "lng": "-0.62938864"
 }

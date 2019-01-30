@@ -14,5 +14,7 @@
   "url": "www.keysmeadowprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.675456",
+  "lng": "-0.027120546"
 }

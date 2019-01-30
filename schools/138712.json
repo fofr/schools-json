@@ -14,5 +14,7 @@
   "url": "www.epworthprimaryacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.525706",
+  "lng": "-0.83042630"
 }

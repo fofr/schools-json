@@ -14,5 +14,7 @@
   "url": "www.arbourthorneprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.359404",
+  "lng": "-1.4481635"
 }

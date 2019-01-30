@@ -14,5 +14,7 @@
   "url": "www.warkfirstschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "55.085623",
+  "lng": "-2.2193201"
 }

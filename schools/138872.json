@@ -14,5 +14,7 @@
   "url": "http://www.newarkacademy.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.062675",
+  "lng": "-0.78599923"
 }

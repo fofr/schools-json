@@ -14,5 +14,7 @@
   "url": "www.newcity.newham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.524846",
+  "lng": "0.038298119"
 }

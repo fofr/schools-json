@@ -14,5 +14,7 @@
   "url": "www.bishopbridgeman.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.564735",
+  "lng": "-2.4321015"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.norhamhigh.com/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.005935",
+  "lng": "-1.4728959"
 }

@@ -14,5 +14,7 @@
   "url": "www.fulford.york.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.936336",
+  "lng": "-1.0669179"
 }

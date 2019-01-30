@@ -14,5 +14,7 @@
   "url": "http://www.harrispurley.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.353123",
+  "lng": "-0.10828435"
 }

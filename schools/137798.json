@@ -14,5 +14,7 @@
   "url": "www.bluecoataspley.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.968928",
+  "lng": "-1.1929148"
 }

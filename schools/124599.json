@@ -14,5 +14,7 @@
   "url": "http://www.mendlesham.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.248127",
+  "lng": "1.0787475"
 }

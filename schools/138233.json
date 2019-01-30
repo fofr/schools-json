@@ -14,5 +14,7 @@
   "url": "http://www.athertoncommunityschool.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.521230",
+  "lng": "-2.4928795"
 }

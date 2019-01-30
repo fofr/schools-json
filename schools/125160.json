@@ -14,5 +14,7 @@
   "url": "http://www.merrow.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.250548",
+  "lng": "-0.53021348"
 }

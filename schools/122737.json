@@ -14,5 +14,7 @@
   "url": "www.rytonpark.notts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.293125",
+  "lng": "-1.1194421"
 }

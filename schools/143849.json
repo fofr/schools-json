@@ -14,5 +14,7 @@
   "url": "www.hartfordjuniorschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.336761",
+  "lng": "-0.17010127"
 }

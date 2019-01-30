@@ -14,5 +14,7 @@
   "url": "www.victoria-pri.northants.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.307940",
+  "lng": "-0.68438892"
 }

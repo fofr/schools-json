@@ -14,5 +14,7 @@
   "url": "http://www.tudhoecollieryprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.717943",
+  "lng": "-1.5883609"
 }

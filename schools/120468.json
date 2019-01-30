@@ -14,5 +14,7 @@
   "url": "www.normanbyprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.379352",
+  "lng": "-0.49673890"
 }

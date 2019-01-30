@@ -14,5 +14,7 @@
   "url": "www.eastmortonceprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.873613",
+  "lng": "-1.8551723"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.oxtedschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.260217",
+  "lng": "-0.0016089634"
 }

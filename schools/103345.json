@@ -14,5 +14,7 @@
   "url": "www.minworth.bham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.527842",
+  "lng": "-1.7685811"
 }

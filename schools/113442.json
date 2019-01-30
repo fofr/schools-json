@@ -14,5 +14,7 @@
   "url": "http://www.st-sidwells-ce.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.728940",
+  "lng": "-3.5241607"
 }

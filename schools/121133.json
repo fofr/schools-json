@@ -14,5 +14,7 @@
   "url": "www.flitchamschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.809910",
+  "lng": "0.56002978"
 }

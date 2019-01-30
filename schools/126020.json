@@ -14,5 +14,7 @@
   "url": "https://ashurst.eschools.co.uk/website",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.931820",
+  "lng": "-0.32838224"
 }

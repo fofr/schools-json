@@ -14,5 +14,7 @@
   "url": "www.robertpiggott.wokingham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.498284",
+  "lng": "-0.86441234"
 }

@@ -14,5 +14,7 @@
   "url": "www.ela.kent.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.367192",
+  "lng": "1.3901337"
 }

@@ -14,5 +14,7 @@
   "url": "www.spitalgateschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.903915",
+  "lng": "-0.66441663"
 }

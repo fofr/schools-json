@@ -14,5 +14,7 @@
   "url": "www.maltonprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.141953",
+  "lng": "-0.78747529"
 }

@@ -14,5 +14,7 @@
   "url": "www.stgilesprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.320423",
+  "lng": "-1.3214095"
 }

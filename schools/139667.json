@@ -14,5 +14,7 @@
   "url": "http://www.msc.warwickshire.sch.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "52.496877",
+  "lng": "-1.4767984"
 }

@@ -14,5 +14,7 @@
   "url": "www.redroseprimaryschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.848270",
+  "lng": "-1.5712755"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.st-wenn.cornwall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.448635",
+  "lng": "-4.8634096"
 }

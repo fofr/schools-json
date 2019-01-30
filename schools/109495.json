@@ -14,5 +14,7 @@
   "url": "http://www.russell-lower.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.027417",
+  "lng": "-0.49202571"
 }

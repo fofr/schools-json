@@ -14,5 +14,7 @@
   "url": "http://www.langtree.devon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.919971",
+  "lng": "-4.2053515"
 }

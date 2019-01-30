@@ -14,5 +14,7 @@
   "url": "www.woodcote.croydon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.330577",
+  "lng": "-0.14083575"
 }

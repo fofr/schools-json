@@ -14,5 +14,7 @@
   "url": "http://www.linthwaite-ardron.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.625289",
+  "lng": "-1.8460886"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.highburyprimary.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.837663",
+  "lng": "-1.0610229"
 }

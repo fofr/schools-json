@@ -14,5 +14,7 @@
   "url": "Admin@seatonterrace.northumberland.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "55.070925",
+  "lng": "-1.5188034"
 }

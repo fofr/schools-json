@@ -14,5 +14,7 @@
   "url": "http://www.dorcan.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.560205",
+  "lng": "-1.7303018"
 }

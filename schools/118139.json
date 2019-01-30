@@ -14,5 +14,7 @@
   "url": "www.frederickholmes.hull.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "53.774153",
+  "lng": "-0.37577612"
 }

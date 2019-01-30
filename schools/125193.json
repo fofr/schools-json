@@ -14,5 +14,7 @@
   "url": "www.nutfield.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.230365",
+  "lng": "-0.13032491"
 }

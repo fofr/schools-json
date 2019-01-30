@@ -14,5 +14,7 @@
   "url": "http://www.marsworthschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.822222",
+  "lng": "-0.66548735"
 }

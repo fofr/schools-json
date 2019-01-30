@@ -14,5 +14,7 @@
   "url": "www.owps.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.556122",
+  "lng": "-0.31633378"
 }

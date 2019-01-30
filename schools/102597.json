@@ -14,5 +14,7 @@
   "url": "http://www.stagathas.kingston.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.422210",
+  "lng": "-0.29316320"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.winchamcp.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.283230",
+  "lng": "-2.4725266"
 }

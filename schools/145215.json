@@ -14,5 +14,7 @@
   "url": "http://www.nightingaleprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.483161",
+  "lng": "0.070804096"
 }

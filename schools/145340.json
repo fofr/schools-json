@@ -14,5 +14,7 @@
   "url": "www.northlew.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.772007",
+  "lng": "-4.1223879"
 }

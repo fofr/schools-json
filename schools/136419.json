@@ -14,5 +14,7 @@
   "url": "www.challoners.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.676236",
+  "lng": "-0.60981897"
 }

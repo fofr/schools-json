@@ -1,6 +1,6 @@
 {
   "urn": "146796",
-  "name": "Kinson Primary School",
+  "name": "Kinson Academy",
   "address": "School Lane",
   "locality": "Kinson",
   "address3": "",
@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.767884",
+  "lng": "-1.9023745"
 }

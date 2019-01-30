@@ -14,5 +14,7 @@
   "url": "www.holyportcollege.org.uk",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.484569",
+  "lng": "-0.72758830"
 }

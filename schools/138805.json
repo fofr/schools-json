@@ -14,5 +14,7 @@
   "url": "www.broomfieldprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.713953",
+  "lng": "-1.0518748"
 }

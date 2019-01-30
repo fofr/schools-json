@@ -14,5 +14,7 @@
   "url": "http://www.rainowpri.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.280699",
+  "lng": "-2.0767342"
 }

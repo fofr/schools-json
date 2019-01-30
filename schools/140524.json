@@ -14,5 +14,7 @@
   "url": "http://bishopwalsh.net/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.547291",
+  "lng": "-1.8113326"
 }

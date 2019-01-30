@@ -14,5 +14,7 @@
   "url": "www.greenfielde-actacademy.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.421403",
+  "lng": "-2.5990552"
 }

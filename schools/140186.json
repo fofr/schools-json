@@ -14,5 +14,7 @@
   "url": "www.lordswood-gst.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.340949",
+  "lng": "0.53778229"
 }

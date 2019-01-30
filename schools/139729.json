@@ -14,5 +14,7 @@
   "url": "www.westnewcastleacademy.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "54.968534",
+  "lng": "-1.6590936"
 }

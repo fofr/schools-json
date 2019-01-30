@@ -14,5 +14,7 @@
   "url": "http://www.orleanspark.school",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.449499",
+  "lng": "-0.32029587"
 }

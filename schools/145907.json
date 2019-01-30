@@ -14,5 +14,7 @@
   "url": "www.sherfordvaleschool.co.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.365417",
+  "lng": "-4.0554667"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.garvestone.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.627046",
+  "lng": "0.98741737"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.rainhillhighschool.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.411295",
+  "lng": "-2.7538088"
 }

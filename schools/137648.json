@@ -14,5 +14,7 @@
   "url": "www.redriff.southwark.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.501907",
+  "lng": "-0.036671199"
 }

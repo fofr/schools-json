@@ -14,5 +14,7 @@
   "url": "http://stjosephshighfield.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.920758",
+  "lng": "-1.7588324"
 }

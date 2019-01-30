@@ -14,5 +14,7 @@
   "url": "http://www.longtonhigh.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.982151",
+  "lng": "-2.1089400"
 }

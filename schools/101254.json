@@ -14,5 +14,7 @@
   "url": "www.st-margarets.barnet.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.649056",
+  "lng": "-0.16823647"
 }

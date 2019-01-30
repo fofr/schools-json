@@ -14,5 +14,7 @@
   "url": "www.bailiffebridgeschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.723267",
+  "lng": "-1.7762617"
 }

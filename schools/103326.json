@@ -14,5 +14,7 @@
   "url": "www.watermill.bham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.445555",
+  "lng": "-1.9471083"
 }

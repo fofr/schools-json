@@ -14,5 +14,7 @@
   "url": "www.stjohnsupperholloway.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.562625",
+  "lng": "-0.13304581"
 }

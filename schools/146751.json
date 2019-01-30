@@ -14,5 +14,7 @@
   "url": "http://www.whitefieldprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.920859",
+  "lng": "-0.45933182"
 }

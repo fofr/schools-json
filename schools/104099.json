@@ -14,5 +14,7 @@
   "url": "www.st-andrews.solihull.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.443239",
+  "lng": "-1.7887969"
 }

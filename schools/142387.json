@@ -14,5 +14,7 @@
   "url": "www.kempstonchallengeracademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.109933",
+  "lng": "-0.50914756"
 }

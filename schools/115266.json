@@ -14,5 +14,7 @@
   "url": "www.rodingsprimaryschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.798946",
+  "lng": "0.30919447"
 }

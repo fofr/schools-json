@@ -14,5 +14,7 @@
   "url": "http://sbsj.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.815225",
+  "lng": "-1.7874068"
 }

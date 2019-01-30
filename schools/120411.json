@@ -14,5 +14,7 @@
   "url": "http://www.gosberton.lincs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.865860",
+  "lng": "-0.15549167"
 }

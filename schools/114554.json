@@ -14,5 +14,7 @@
   "url": "www.assr.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.961706",
+  "lng": "0.27548904"
 }

@@ -14,5 +14,7 @@
   "url": "www.lumbertubs.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.263272",
+  "lng": "-0.83574398"
 }

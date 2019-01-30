@@ -14,5 +14,7 @@
   "url": "http://www.crabtreejm.herts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.816097",
+  "lng": "-0.34038677"
 }

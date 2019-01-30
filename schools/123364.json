@@ -14,5 +14,7 @@
   "url": "www.donnington.schooljotter2.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.718965",
+  "lng": "-2.4376665"
 }

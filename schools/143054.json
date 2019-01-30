@@ -14,5 +14,7 @@
   "url": "www.astonhall.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.358480",
+  "lng": "-1.3009116"
 }

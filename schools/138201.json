@@ -14,5 +14,7 @@
   "url": "www.hcfs.org.uk/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.759107",
+  "lng": "-0.22891921"
 }

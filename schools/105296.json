@@ -14,5 +14,7 @@
   "url": "www.hazlehurstschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.638831",
+  "lng": "-2.3288768"
 }

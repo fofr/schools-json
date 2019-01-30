@@ -14,5 +14,7 @@
   "url": "http://www.whitenotley.essex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.833213",
+  "lng": "0.59033906"
 }

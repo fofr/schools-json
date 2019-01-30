@@ -14,5 +14,7 @@
   "url": "http://www.npethertoninfant.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.090759",
+  "lng": "-3.0127162"
 }

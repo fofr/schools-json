@@ -14,5 +14,7 @@
   "url": "http://www.piltoncollege.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.088000",
+  "lng": "-4.0695675"
 }

@@ -14,5 +14,7 @@
   "url": "prudhoewest.wiseacademies.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.960103",
+  "lng": "-1.8573262"
 }

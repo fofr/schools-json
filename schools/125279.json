@@ -14,5 +14,7 @@
   "url": "http://www.raa-school.co.uk/",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.261234",
+  "lng": "-0.17339029"
 }

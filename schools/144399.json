@@ -14,5 +14,7 @@
   "url": "www.clareprimary.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.080406",
+  "lng": "0.57789238"
 }

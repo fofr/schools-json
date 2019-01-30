@@ -14,5 +14,7 @@
   "url": "http://www.holycross.swindon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.562765",
+  "lng": "-1.7670009"
 }

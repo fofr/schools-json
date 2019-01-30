@@ -14,5 +14,7 @@
   "url": "http://www.newlands-inf.southampton.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.927481",
+  "lng": "-1.4561158"
 }

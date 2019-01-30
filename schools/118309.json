@@ -14,5 +14,7 @@
   "url": "http://www.plaxtol.kent.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.257736",
+  "lng": "0.29496582"
 }

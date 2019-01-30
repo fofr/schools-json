@@ -14,5 +14,7 @@
   "url": "www.stalbans.derby.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.927048",
+  "lng": "-1.4386208"
 }

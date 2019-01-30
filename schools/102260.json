@@ -14,5 +14,7 @@
   "url": "www.shaftesbury.harrow.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "51.604829",
+  "lng": "-0.35569703"
 }

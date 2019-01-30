@@ -14,5 +14,7 @@
   "url": "www.hazelwoodacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.552452",
+  "lng": "-1.8237060"
 }

@@ -14,5 +14,7 @@
   "url": "www.cottesmoreacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.723205",
+  "lng": "-0.65407075"
 }

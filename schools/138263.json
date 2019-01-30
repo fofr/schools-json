@@ -14,5 +14,7 @@
   "url": "www.southwarkfreeschool.com/",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.481246",
+  "lng": "-0.062834414"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.richmondmethodist.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.408742",
+  "lng": "-1.7212316"
 }

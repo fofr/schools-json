@@ -14,5 +14,7 @@
   "url": "www.oughtibridgeschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.433487",
+  "lng": "-1.5413684"
 }

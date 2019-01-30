@@ -14,5 +14,7 @@
   "url": "www.stoswaldsacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.486495",
+  "lng": "-0.98259313"
 }

@@ -14,5 +14,7 @@
   "url": "www.harlingtonlower.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.966723",
+  "lng": "-0.49323391"
 }

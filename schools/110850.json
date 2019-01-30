@@ -14,5 +14,7 @@
   "url": "www.abbotsripton.cambs.sch.uk/website",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.387226",
+  "lng": "-0.19265859"
 }

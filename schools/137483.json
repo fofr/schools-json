@@ -14,5 +14,7 @@
   "url": "http://www.milstead.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.289973",
+  "lng": "0.72809245"
 }

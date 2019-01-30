@@ -14,5 +14,7 @@
   "url": "http://kingrichardschool.net/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.849593",
+  "lng": "-1.1122917"
 }

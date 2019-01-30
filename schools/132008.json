@@ -14,5 +14,7 @@
   "url": "www.burwood.bromley.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "51.370019",
+  "lng": "0.11773375"
 }

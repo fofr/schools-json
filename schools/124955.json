@@ -14,5 +14,7 @@
   "url": "http://www.ewell-grove.surrey.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.348246",
+  "lng": "-0.25046356"
 }

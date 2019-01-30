@@ -14,5 +14,7 @@
   "url": "www.crowcroftpark.net/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.451715",
+  "lng": "-2.1905958"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.emmanuel.nottingham.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.932915",
+  "lng": "-1.1514956"
 }

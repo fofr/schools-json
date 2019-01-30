@@ -14,5 +14,7 @@
   "url": "www.southernroad.newham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.530567",
+  "lng": "0.029355100"
 }

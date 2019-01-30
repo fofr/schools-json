@@ -14,5 +14,7 @@
   "url": "http://www.stsimonandstjude.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.575615",
+  "lng": "-1.3091599"
 }

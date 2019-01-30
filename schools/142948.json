@@ -14,5 +14,7 @@
   "url": "www.oakworthprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.845179",
+  "lng": "-1.9479984"
 }

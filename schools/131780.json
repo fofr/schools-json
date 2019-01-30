@@ -14,5 +14,7 @@
   "url": "http://childhoodfirst.org.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "51.100936",
+  "lng": "0.66526113"
 }

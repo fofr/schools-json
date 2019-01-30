@@ -14,5 +14,7 @@
   "url": "www.summercourtacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.369498",
+  "lng": "-4.9658252"
 }

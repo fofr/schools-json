@@ -14,5 +14,7 @@
   "url": "www.summerhillinfantschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.461264",
+  "lng": "-2.5416264"
 }

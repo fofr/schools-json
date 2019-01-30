@@ -14,5 +14,7 @@
   "url": "www.elmsettschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.081609",
+  "lng": "1.0014319"
 }

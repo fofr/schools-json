@@ -14,5 +14,7 @@
   "url": "www.bardwell.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.328808",
+  "lng": "0.84730194"
 }

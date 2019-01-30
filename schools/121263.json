@@ -14,5 +14,7 @@
   "url": "http://www.eatonhall.norfolk.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "52.616930",
+  "lng": "1.2560606"
 }

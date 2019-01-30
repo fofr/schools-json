@@ -14,5 +14,7 @@
   "url": "www.st-birinus-primary.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.645166",
+  "lng": "-1.1646855"
 }

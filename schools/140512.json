@@ -14,5 +14,7 @@
   "url": "www.landulphschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.440912",
+  "lng": "-4.2181397"
 }

@@ -14,5 +14,7 @@
   "url": "www.montpelierprimary.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.392476",
+  "lng": "-4.1545897"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.fernhurst.w-sussex.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.051798",
+  "lng": "-0.72109237"
 }

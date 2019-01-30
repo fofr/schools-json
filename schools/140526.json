@@ -14,5 +14,7 @@
   "url": "marden.hmfa.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.124271",
+  "lng": "-2.6953486"
 }

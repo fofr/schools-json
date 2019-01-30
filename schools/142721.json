@@ -14,5 +14,7 @@
   "url": "http://www.prattsbottomprimary.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.336869",
+  "lng": "0.11385094"
 }

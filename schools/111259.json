@@ -14,5 +14,7 @@
   "url": "http://www.delamerece.school.cheshire.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.211092",
+  "lng": "-2.6714367"
 }

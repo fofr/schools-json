@@ -14,5 +14,7 @@
   "url": "www.millrytheinfants.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.800709",
+  "lng": "-0.97107210"
 }

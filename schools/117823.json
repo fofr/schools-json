@@ -14,5 +14,7 @@
   "url": "www.schools-online.co.uk/aldbrough/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.828411",
+  "lng": "-0.11121558"
 }

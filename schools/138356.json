@@ -14,5 +14,7 @@
   "url": "http://www.stgeorges.herts.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.822353",
+  "lng": "-0.35366584"
 }

@@ -14,5 +14,7 @@
   "url": "www.newcastle-schools.org.uk/valleyview",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "54.971962",
+  "lng": "-1.6772010"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.visionstudioschool.co.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "53.147679",
+  "lng": "-1.1994366"
 }

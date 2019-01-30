@@ -14,5 +14,7 @@
   "url": "www.stwilfridsprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.035746",
+  "lng": "-1.0837266"
 }

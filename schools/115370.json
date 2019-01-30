@@ -14,5 +14,7 @@
   "url": "http://www.colchestergirls.essex.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.885157",
+  "lng": "0.87521974"
 }

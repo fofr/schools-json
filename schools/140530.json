@@ -14,5 +14,7 @@
   "url": "http://www.haselor.tgacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.218670",
+  "lng": "-1.8257097"
 }

@@ -14,5 +14,7 @@
   "url": "www.grtbarr.bham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.544731",
+  "lng": "-1.9028410"
 }

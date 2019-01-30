@@ -14,5 +14,7 @@
   "url": "http://www.sutton-valence.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.214914",
+  "lng": "0.59058719"
 }

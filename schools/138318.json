@@ -14,5 +14,7 @@
   "url": "http://www.nestonhigh.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.296829",
+  "lng": "-3.0550525"
 }

@@ -14,5 +14,7 @@
   "url": "http://stroudhigh.gloucs.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.746114",
+  "lng": "-2.2325851"
 }

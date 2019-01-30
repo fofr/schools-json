@@ -14,5 +14,7 @@
   "url": "http://www.wansdyke.wilts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.342343",
+  "lng": "-1.9901164"
 }

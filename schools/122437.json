@@ -14,5 +14,7 @@
   "url": "www.robertshaw.nottingham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.960582",
+  "lng": "-1.1897950"
 }

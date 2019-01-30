@@ -14,5 +14,7 @@
   "url": "www.shuttleworth.lancs.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.797521",
+  "lng": "-2.2994055"
 }

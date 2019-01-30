@@ -14,5 +14,7 @@
   "url": "http://www.christchurchschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.559555",
+  "lng": "-0.17630721"
 }

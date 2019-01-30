@@ -14,5 +14,7 @@
   "url": "http://www.broxbourne.herts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.740689",
+  "lng": "-0.024033907"
 }

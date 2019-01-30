@@ -14,5 +14,7 @@
   "url": "www.cranbourne.herts.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.776495",
+  "lng": "-0.0064228739"
 }

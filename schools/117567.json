@@ -14,5 +14,7 @@
   "url": "www.littleheath.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.705975",
+  "lng": "-0.17499848"
 }

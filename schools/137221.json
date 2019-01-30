@@ -14,5 +14,7 @@
   "url": "http://www.draytonmanorhighschool.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.515911",
+  "lng": "-0.33573997"
 }

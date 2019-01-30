@@ -14,5 +14,7 @@
   "url": "www.westfieldprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.282995",
+  "lng": "-2.4705732"
 }

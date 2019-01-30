@@ -14,5 +14,7 @@
   "url": "http://www.ranelagh.bracknell-forest.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.411142",
+  "lng": "-0.74613447"
 }

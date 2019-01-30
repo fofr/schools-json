@@ -14,5 +14,7 @@
   "url": "www.byjhs.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.509115",
+  "lng": "-2.2617370"
 }

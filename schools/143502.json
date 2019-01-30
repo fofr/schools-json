@@ -14,5 +14,7 @@
   "url": "http://www.egremont.wirral.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.417183",
+  "lng": "-3.0293815"
 }

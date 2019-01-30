@@ -14,5 +14,7 @@
   "url": "www.plainsfarmacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.888064",
+  "lng": "-1.4090856"
 }

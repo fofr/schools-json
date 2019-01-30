@@ -14,5 +14,7 @@
   "url": "http://www.congletonhigh.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.165473",
+  "lng": "-2.2475387"
 }

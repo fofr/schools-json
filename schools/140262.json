@@ -14,5 +14,7 @@
   "url": "http://www.robinhoodprimary.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.425535",
+  "lng": "-1.8318522"
 }

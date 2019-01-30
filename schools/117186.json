@@ -14,5 +14,7 @@
   "url": "http://www.icknieldinfants.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.979959",
+  "lng": "-0.24225292"
 }

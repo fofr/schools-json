@@ -14,5 +14,7 @@
   "url": "www.middletonprimary.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.742769",
+  "lng": "-1.5487594"
 }

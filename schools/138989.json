@@ -14,5 +14,7 @@
   "url": "www.therydalacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.518179",
+  "lng": "-1.5395169"
 }

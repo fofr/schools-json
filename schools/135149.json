@@ -14,5 +14,7 @@
   "url": "www.madeleyacademy.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.643393",
+  "lng": "-2.4578532"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.hiplight.calderdale.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.722634",
+  "lng": "-1.7892526"
 }

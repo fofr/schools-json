@@ -14,5 +14,7 @@
   "url": "www.st-osmunds.richmond.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.474303",
+  "lng": "-0.24558752"
 }

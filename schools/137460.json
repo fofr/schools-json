@@ -14,5 +14,7 @@
   "url": "www.southfieldjuniorsch.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.628069",
+  "lng": "-1.7103536"
 }

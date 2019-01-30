@@ -14,5 +14,7 @@
   "url": "http://www.danesmore.biblio.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.618193",
+  "lng": "-2.0594374"
 }

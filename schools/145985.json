@@ -14,5 +14,7 @@
   "url": "http://www.worcesters.enfield.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.667666",
+  "lng": "-0.064277233"
 }

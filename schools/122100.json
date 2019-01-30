@@ -14,5 +14,7 @@
   "url": "http://www.thomasbecket.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.270107",
+  "lng": "-0.86182706"
 }

@@ -14,5 +14,7 @@
   "url": "www.stepneygreen.towerhamlets.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.518349",
+  "lng": "-0.042753129"
 }

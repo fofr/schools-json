@@ -14,5 +14,7 @@
   "url": "www.fulbridgeacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.596498",
+  "lng": "-0.25169598"
 }

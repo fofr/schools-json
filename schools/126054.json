@@ -14,5 +14,7 @@
   "url": "http://www.holytrinity-cuckfield.w-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.008959",
+  "lng": "-0.13562112"
 }

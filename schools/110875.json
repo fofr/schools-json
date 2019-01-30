@@ -14,5 +14,7 @@
   "url": "http://www.arthurmellows.peterborough.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.636913",
+  "lng": "-0.30247475"
 }

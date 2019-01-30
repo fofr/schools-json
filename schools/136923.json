@@ -14,5 +14,7 @@
   "url": "http://www.saa.woodard.co.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.270270",
+  "lng": "0.49924638"
 }

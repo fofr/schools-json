@@ -14,5 +14,7 @@
   "url": "http://www.broadoak.lancs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.735266",
+  "lng": "-2.7249860"
 }

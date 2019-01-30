@@ -14,5 +14,7 @@
   "url": "www.blackbrookschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.013833",
+  "lng": "-3.0756309"
 }

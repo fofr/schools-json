@@ -14,5 +14,7 @@
   "url": "www.nationaljuniorschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.914404",
+  "lng": "-0.64120582"
 }

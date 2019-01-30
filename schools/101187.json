@@ -14,5 +14,7 @@
   "url": "http://www.d-barley-j.bardaglea.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.546917",
+  "lng": "0.11533748"
 }

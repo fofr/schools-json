@@ -14,5 +14,7 @@
   "url": "http://www.st-georgescatholic.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.202062",
+  "lng": "-2.2280982"
 }

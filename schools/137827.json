@@ -14,5 +14,7 @@
   "url": "www.st-edmunds.eu",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.080186",
+  "lng": "-1.7713718"
 }

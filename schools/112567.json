@@ -14,5 +14,7 @@
   "url": "www.horsleywoodhouseprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.999217",
+  "lng": "-1.4112077"
 }

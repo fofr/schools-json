@@ -14,5 +14,7 @@
   "url": "http://www.ryversschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.503637",
+  "lng": "-0.56146386"
 }

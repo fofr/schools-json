@@ -14,5 +14,7 @@
   "url": "www.stjosephs.uk.net",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.959879",
+  "lng": "-1.5225512"
 }

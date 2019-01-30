@@ -14,5 +14,7 @@
   "url": "http://www.brushwood-jun.bucks.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.716077",
+  "lng": "-0.59607626"
 }

@@ -14,5 +14,7 @@
   "url": "www.wilmingtonprimaryschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.428386",
+  "lng": "0.19672001"
 }

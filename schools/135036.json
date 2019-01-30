@@ -14,5 +14,7 @@
   "url": "www.stannesprimary.worcs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.371619",
+  "lng": "-2.3304663"
 }

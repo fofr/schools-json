@@ -14,5 +14,7 @@
   "url": "www.selwyn.leadinglearningtrust.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.536369",
+  "lng": "0.024032779"
 }

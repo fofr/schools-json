@@ -14,5 +14,7 @@
   "url": "http://www.biddenham.beds.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.136743",
+  "lng": "-0.49695768"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.yorksj.ac.uk/index.htm",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.964844",
+  "lng": "-1.0795428"
 }

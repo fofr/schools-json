@@ -14,5 +14,7 @@
   "url": "www.highlandsprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.805159",
+  "lng": "-0.32630073"
 }

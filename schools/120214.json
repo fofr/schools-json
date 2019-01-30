@@ -14,5 +14,7 @@
   "url": "www.whx.leics.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.743311",
+  "lng": "-1.3553799"
 }

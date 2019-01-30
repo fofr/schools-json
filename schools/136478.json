@@ -14,5 +14,7 @@
   "url": "www.wgacademiestrust.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.903915",
+  "lng": "-0.66441663"
 }

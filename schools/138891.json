@@ -14,5 +14,7 @@
   "url": "http://www.broom-leys.leics.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.722624",
+  "lng": "-1.3468457"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.belmontschool.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.785567",
+  "lng": "-1.5289286"
 }

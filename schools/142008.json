@@ -14,5 +14,7 @@
   "url": "www.mangotsfieldschool.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.479915",
+  "lng": "-2.4834988"
 }

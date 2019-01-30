@@ -14,5 +14,7 @@
   "url": "http://schoolsite.edex.net.uk/1316/",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "51.452723",
+  "lng": "-0.025223806"
 }

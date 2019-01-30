@@ -14,5 +14,7 @@
   "url": "http://www.st-francisxaviers.hereford.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.069133",
+  "lng": "-2.7071255"
 }

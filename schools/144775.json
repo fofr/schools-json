@@ -14,5 +14,7 @@
   "url": "http://www.autism.org.uk/services/nas-schools/anderson.aspx",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "51.617575",
+  "lng": "0.060608495"
 }

@@ -14,5 +14,7 @@
   "url": "www.st-johns-pri.bham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.449499",
+  "lng": "-1.8645585"
 }

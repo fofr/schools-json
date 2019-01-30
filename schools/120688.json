@@ -14,5 +14,7 @@
   "url": "http://www.towerroadprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.982559",
+  "lng": "-0.012745006"
 }

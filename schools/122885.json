@@ -14,5 +14,7 @@
   "url": "http://www.elizabethan.notts.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.331194",
+  "lng": "-0.95154381"
 }

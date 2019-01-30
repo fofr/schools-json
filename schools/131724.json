@@ -14,5 +14,7 @@
   "url": "selhurstchildrenscentre.co.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "51.390183",
+  "lng": "-0.090097404"
 }

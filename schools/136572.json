@@ -14,5 +14,7 @@
   "url": "www.theroseland.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.271345",
+  "lng": "-4.9061727"
 }

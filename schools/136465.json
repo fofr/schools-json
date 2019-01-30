@@ -14,5 +14,7 @@
   "url": "http://www.hernebayhigh.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.361626",
+  "lng": "1.1125532"
 }

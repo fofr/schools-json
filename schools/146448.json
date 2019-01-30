@@ -14,5 +14,7 @@
   "url": "http://www.march.w-sussex.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.851143",
+  "lng": "-0.74934500"
 }

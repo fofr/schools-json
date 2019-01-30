@@ -14,5 +14,7 @@
   "url": "http://www.charthamprimary.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.251256",
+  "lng": "1.0096624"
 }

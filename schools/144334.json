@@ -14,5 +14,7 @@
   "url": "www.st-barnabas.dowmat.education",
   "phase": "Middle deemed primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.134677",
+  "lng": "-2.1099385"
 }

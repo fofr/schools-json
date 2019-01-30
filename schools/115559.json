@@ -14,5 +14,7 @@
   "url": "www.woolastonprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.698937",
+  "lng": "-2.5861324"
 }

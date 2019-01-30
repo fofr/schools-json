@@ -14,5 +14,7 @@
   "url": "www.staug.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.490081",
+  "lng": "0.14360469"
 }

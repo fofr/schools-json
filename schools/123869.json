@@ -14,5 +14,7 @@
   "url": "http://www.kingarthurs.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.055719",
+  "lng": "-2.4244191"
 }

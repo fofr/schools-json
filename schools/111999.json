@@ -14,5 +14,7 @@
   "url": "https://st-marys-catholic.eschools.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.126168",
+  "lng": "-5.5367729"
 }

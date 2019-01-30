@@ -14,5 +14,7 @@
   "url": "www.yewtree.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.764811",
+  "lng": "-0.45956322"
 }

@@ -14,5 +14,7 @@
   "url": "www.hpms-online.co.uk",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.200440",
+  "lng": "-0.61169568"
 }

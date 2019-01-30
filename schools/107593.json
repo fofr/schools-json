@@ -14,5 +14,7 @@
   "url": "http://thorntonlodge.kgfl.digitalbrain.com/",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "53.637032",
+  "lng": "-1.8001750"
 }

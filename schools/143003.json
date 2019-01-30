@@ -14,5 +14,7 @@
   "url": "www.sharlstonschool.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.671665",
+  "lng": "-1.4123973"
 }

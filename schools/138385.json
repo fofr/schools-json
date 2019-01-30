@@ -14,5 +14,7 @@
   "url": "http://studioschool.leaf.bournemouth.sch.uk/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Studio schools"
+  "detailed_type": "Studio schools",
+  "lat": "50.765128",
+  "lng": "-1.9208842"
 }

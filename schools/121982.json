@@ -14,5 +14,7 @@
   "url": "http://www.milton.northants.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.193225",
+  "lng": "-0.92789930"
 }

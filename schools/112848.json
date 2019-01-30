@@ -14,5 +14,7 @@
   "url": "http://www.peakforest.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.310060",
+  "lng": "-1.8302935"
 }

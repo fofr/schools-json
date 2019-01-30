@@ -14,5 +14,7 @@
   "url": "http://www.seafordhead.e-sussex.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.770766",
+  "lng": "0.11793954"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.chis.poole.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.739190",
+  "lng": "-1.9722710"
 }

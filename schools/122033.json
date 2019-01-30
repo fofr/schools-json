@@ -14,5 +14,7 @@
   "url": "http://www.wilbyprimarynorthants.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.286898",
+  "lng": "-0.73090099"
 }

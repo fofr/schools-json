@@ -14,5 +14,7 @@
   "url": "www.someriesinfants.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.894837",
+  "lng": "-0.38293345"
 }

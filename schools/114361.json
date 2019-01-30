@@ -14,5 +14,7 @@
   "url": "http://www.balfourjun.ik.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.847524",
+  "lng": "-0.14034548"
 }

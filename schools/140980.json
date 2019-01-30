@@ -14,5 +14,7 @@
   "url": "www.holyfamily.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.238096",
+  "lng": "0.55602841"
 }

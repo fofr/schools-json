@@ -14,5 +14,7 @@
   "url": "http://www.ashperton.hereford.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.070554",
+  "lng": "-2.5186548"
 }

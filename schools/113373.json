@@ -14,5 +14,7 @@
   "url": "http://www.bridgerule.devon.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.799503",
+  "lng": "-4.4480765"
 }

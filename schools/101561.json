@@ -14,5 +14,7 @@
   "url": "http://www.cjmlc.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.538335",
+  "lng": "-0.24661594"
 }

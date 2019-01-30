@@ -14,5 +14,7 @@
   "url": "http://www.turnhamprimaryfoundationschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.458877",
+  "lng": "-0.042045142"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.shirleymanor.ngfl.ac.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.733224",
+  "lng": "-1.7706609"
 }

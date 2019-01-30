@@ -14,5 +14,7 @@
   "url": "www.ludgershallcastle.wilts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.256155",
+  "lng": "-1.6150652"
 }

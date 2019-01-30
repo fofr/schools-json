@@ -14,5 +14,7 @@
   "url": "http://www.aldersleyhigh.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.617817",
+  "lng": "-2.1629915"
 }

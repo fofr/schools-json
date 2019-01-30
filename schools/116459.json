@@ -14,5 +14,7 @@
   "url": "http://www.priory.portsmouth.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.795082",
+  "lng": "-1.0767459"
 }

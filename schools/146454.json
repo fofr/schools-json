@@ -14,5 +14,7 @@
   "url": "www.howittprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.016692",
+  "lng": "-1.3640447"
 }

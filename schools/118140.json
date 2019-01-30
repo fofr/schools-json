@@ -14,5 +14,7 @@
   "url": "www.oakfield.hull.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "53.764275",
+  "lng": "-0.26428218"
 }

@@ -14,5 +14,7 @@
   "url": "www.springlaneprimaryschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.240594",
+  "lng": "-0.90300354"
 }

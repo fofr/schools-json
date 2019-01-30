@@ -14,5 +14,7 @@
   "url": "http://www.clifton-hampden.oxon.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.656197",
+  "lng": "-1.2113489"
 }

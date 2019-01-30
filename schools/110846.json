@@ -14,5 +14,7 @@
   "url": "http://www.buryschool.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.437398",
+  "lng": "-0.11275106"
 }

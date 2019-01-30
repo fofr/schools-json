@@ -14,5 +14,7 @@
   "url": "www.williamstukeley.lincs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.803439",
+  "lng": "0.010484150"
 }

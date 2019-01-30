@@ -14,5 +14,7 @@
   "url": "http://moreton-school.org/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.616937",
+  "lng": "-2.1067440"
 }

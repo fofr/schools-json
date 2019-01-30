@@ -14,5 +14,7 @@
   "url": "http://www.stbonifaces.com",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.405439",
+  "lng": "-4.1359533"
 }

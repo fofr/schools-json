@@ -14,5 +14,7 @@
   "url": "www.riverview-infant.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.418661",
+  "lng": "0.39078539"
 }

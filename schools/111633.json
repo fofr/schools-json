@@ -14,5 +14,7 @@
   "url": "www.thorntreeschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "54.560241",
+  "lng": "-1.1824772"
 }

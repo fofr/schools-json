@@ -14,5 +14,7 @@
   "url": "http://www.finberryprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.118566",
+  "lng": "0.88818292"
 }

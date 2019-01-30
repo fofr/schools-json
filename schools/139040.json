@@ -14,5 +14,7 @@
   "url": "http://www.stjohnsrishworth.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.659156",
+  "lng": "-1.9527963"
 }

@@ -14,5 +14,7 @@
   "url": "www.haslingdenprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.702121",
+  "lng": "-2.3239628"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.bcuc.ac.uk",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "51.627515",
+  "lng": "-0.75204046"
 }

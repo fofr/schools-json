@@ -14,5 +14,7 @@
   "url": "www.highfield.suffolk.sch.uk",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "52.075874",
+  "lng": "1.1325704"
 }

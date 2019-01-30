@@ -14,5 +14,7 @@
   "url": "www.westmeadowsprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.500569",
+  "lng": "-1.4555893"
 }

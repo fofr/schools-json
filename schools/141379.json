@@ -14,5 +14,7 @@
   "url": "www.netacademies.net/longwood",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.748996",
+  "lng": "0.098457050"
 }

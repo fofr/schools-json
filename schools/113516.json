@@ -14,5 +14,7 @@
   "url": "http://bidefordcollege.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.016581",
+  "lng": "-4.2176901"
 }

@@ -14,5 +14,7 @@
   "url": "http://leightonprimaryschool.net",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.113701",
+  "lng": "-2.4674080"
 }

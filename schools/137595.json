@@ -14,5 +14,7 @@
   "url": "http://www.epsomandewellhighschool.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.363082",
+  "lng": "-0.27393030"
 }

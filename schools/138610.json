@@ -14,5 +14,7 @@
   "url": "www.alperton.brent.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.543376",
+  "lng": "-0.29270023"
 }

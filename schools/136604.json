@@ -14,5 +14,7 @@
   "url": "http://www.brighouse.calderdale.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.713288",
+  "lng": "-1.7951931"
 }

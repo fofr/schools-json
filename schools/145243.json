@@ -14,5 +14,7 @@
   "url": "www.mjs.bham.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.473404",
+  "lng": "-1.8499400"
 }

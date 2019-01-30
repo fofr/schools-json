@@ -14,5 +14,7 @@
   "url": "www.khalsaprimaryschool.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.523779",
+  "lng": "-0.58282608"
 }

@@ -14,5 +14,7 @@
   "url": "www.yeadinginf.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.521939",
+  "lng": "-0.39856881"
 }

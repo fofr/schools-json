@@ -14,5 +14,7 @@
   "url": "http://www.holysoul.bham.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.447352",
+  "lng": "-1.8188952"
 }

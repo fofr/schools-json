@@ -14,5 +14,7 @@
   "url": "",
   "phase": "All through",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.333444",
+  "lng": "-0.41469097"
 }

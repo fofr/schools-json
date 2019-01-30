@@ -14,5 +14,7 @@
   "url": "http://www.barton-primary.torbay.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.489927",
+  "lng": "-3.5407594"
 }

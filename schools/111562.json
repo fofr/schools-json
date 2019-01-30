@@ -14,5 +14,7 @@
   "url": "www.durhamlane.stockton.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.521182",
+  "lng": "-1.3616184"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.rvhs.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.704140",
+  "lng": "-1.9310392"
 }

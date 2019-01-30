@@ -14,5 +14,7 @@
   "url": "http://grangeschool.beds.sch.uk",
   "phase": "Not applicable",
   "type": "Academies",
-  "detailed_type": "Academy special converter"
+  "detailed_type": "Academy special converter",
+  "lat": "52.122240",
+  "lng": "-0.49344326"
 }

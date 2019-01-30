@@ -14,5 +14,7 @@
   "url": "http://www.sm-sm.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.513707",
+  "lng": "-0.052925455"
 }

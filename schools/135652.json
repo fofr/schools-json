@@ -14,5 +14,7 @@
   "url": "https://sites.google.com/aetinet.org/greenswardwebsite/home",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.606673",
+  "lng": "0.66543738"
 }

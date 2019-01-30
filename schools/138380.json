@@ -14,5 +14,7 @@
   "url": "www.lighthouseschool.co.uk",
   "phase": "Not applicable",
   "type": "Free Schools",
-  "detailed_type": "Free schools special"
+  "detailed_type": "Free schools special",
+  "lat": "53.845421",
+  "lng": "-1.6130584"
 }

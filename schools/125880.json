@@ -14,5 +14,7 @@
   "url": "http://jys.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.846433",
+  "lng": "-0.78360457"
 }

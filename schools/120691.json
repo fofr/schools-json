@@ -14,5 +14,7 @@
   "url": "http://www.westgate.lincs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.236851",
+  "lng": "-0.54175826"
 }

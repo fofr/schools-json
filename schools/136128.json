@@ -14,5 +14,7 @@
   "url": "www.knoleacademy.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.287122",
+  "lng": "0.18376139"
 }

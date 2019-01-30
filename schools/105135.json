@@ -14,5 +14,7 @@
   "url": "http://www.stpaulsacademy.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.492792",
+  "lng": "0.10568534"
 }

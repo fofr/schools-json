@@ -14,5 +14,7 @@
   "url": "www.ellowes.dudley.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.526459",
+  "lng": "-2.1294294"
 }

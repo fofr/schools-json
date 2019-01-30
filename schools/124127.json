@@ -14,5 +14,7 @@
   "url": "www.littleaston.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.604672",
+  "lng": "-1.8630919"
 }

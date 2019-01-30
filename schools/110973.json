@@ -14,5 +14,7 @@
   "url": "www.meadowsidecpschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.410898",
+  "lng": "-2.5894773"
 }

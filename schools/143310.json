@@ -14,5 +14,7 @@
   "url": "www.westonmill.plymouth.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.395977",
+  "lng": "-4.1776557"
 }

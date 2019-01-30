@@ -14,5 +14,7 @@
   "url": "http://www.st-peters.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.129983",
+  "lng": "0.27424692"
 }

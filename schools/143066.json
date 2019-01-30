@@ -14,5 +14,7 @@
   "url": "http://www.glebeland.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.503991",
+  "lng": "1.5812866"
 }

@@ -14,5 +14,7 @@
   "url": "www.w-h-s.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.693369",
+  "lng": "-1.6478461"
 }

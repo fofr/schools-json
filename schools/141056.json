@@ -14,5 +14,7 @@
   "url": "www.holyfamily.doncaster.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.600368",
+  "lng": "-1.0196480"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.mertonjuniorschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.281586",
+  "lng": "-1.0947012"
 }

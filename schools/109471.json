@@ -14,5 +14,7 @@
   "url": "www.sheltonandsouthillschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.079414",
+  "lng": "-0.55296612"
 }

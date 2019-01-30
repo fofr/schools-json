@@ -14,5 +14,7 @@
   "url": "www.middlethorpeblogs.net/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.544849",
+  "lng": "-0.042812850"
 }

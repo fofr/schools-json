@@ -14,5 +14,7 @@
   "url": "www.yeomoorprimaryschool.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.430811",
+  "lng": "-2.8502909"
 }

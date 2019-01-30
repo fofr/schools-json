@@ -14,5 +14,7 @@
   "url": "http://www.poplars.suffolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.488166",
+  "lng": "1.7462059"
 }

@@ -14,5 +14,7 @@
   "url": "www.wadedeacon.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.375187",
+  "lng": "-2.7350581"
 }

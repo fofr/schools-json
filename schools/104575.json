@@ -14,5 +14,7 @@
   "url": "www.rudston-jun.liverpool.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.399349",
+  "lng": "-2.8907020"
 }

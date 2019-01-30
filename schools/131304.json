@@ -14,5 +14,7 @@
   "url": "www.mayesparkprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.556798",
+  "lng": "0.10641889"
 }

@@ -14,5 +14,7 @@
   "url": "www.longlane.w-berks.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.477701",
+  "lng": "-1.0527958"
 }

@@ -14,5 +14,7 @@
   "url": "www.miltonpark.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.354900",
+  "lng": "-2.9477598"
 }

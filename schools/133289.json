@@ -14,5 +14,7 @@
   "url": "www.bishop-learningvillage.towerhamlets.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.513459",
+  "lng": "-0.049361789"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.oakgreen.bucks.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.810090",
+  "lng": "-0.82002590"
 }

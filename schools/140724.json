@@ -14,5 +14,7 @@
   "url": "http://www.hermitage.cheshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.204161",
+  "lng": "-2.3510029"
 }

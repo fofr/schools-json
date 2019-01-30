@@ -14,5 +14,7 @@
   "url": "www.intakeschool.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.527429",
+  "lng": "-1.1025378"
 }

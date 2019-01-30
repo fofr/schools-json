@@ -14,5 +14,7 @@
   "url": "http://www.linthwaiteclough-kirklees.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.623227",
+  "lng": "-1.8575109"
 }

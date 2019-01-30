@@ -14,5 +14,7 @@
   "url": "http://www.oakfieldacademy.co.uk/",
   "phase": "Middle deemed secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.230018",
+  "lng": "-2.3367396"
 }

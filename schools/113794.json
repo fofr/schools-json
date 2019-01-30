@@ -14,5 +14,7 @@
   "url": "http://www.stmarysbeaminster.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.811701",
+  "lng": "-2.7481433"
 }

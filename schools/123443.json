@@ -14,5 +14,7 @@
   "url": "www.captainwebbprimary.org.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.658210",
+  "lng": "-2.4711363"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.fitzwimarc.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.590464",
+  "lng": "0.61236611"
 }

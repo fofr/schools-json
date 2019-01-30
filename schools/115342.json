@@ -14,5 +14,7 @@
   "url": "http://www.davenant.essex.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.662544",
+  "lng": "0.084699490"
 }

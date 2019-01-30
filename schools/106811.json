@@ -14,5 +14,7 @@
   "url": "www.hayfieldschool.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.492433",
+  "lng": "-1.0241734"
 }

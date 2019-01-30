@@ -14,5 +14,7 @@
   "url": "www.thepilgrimschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.373287",
+  "lng": "0.48087173"
 }

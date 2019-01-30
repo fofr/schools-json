@@ -14,5 +14,7 @@
   "url": "www.theparkfederation.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.507530",
+  "lng": "-0.61827323"
 }

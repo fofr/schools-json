@@ -14,5 +14,7 @@
   "url": "www.harlandsprimaryschool.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.011248",
+  "lng": "-0.11072424"
 }

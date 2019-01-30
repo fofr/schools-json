@@ -14,5 +14,7 @@
   "url": "http://www.uclan.ac.uk/",
   "phase": "Not applicable",
   "type": "Universities",
-  "detailed_type": "Higher education institutions"
+  "detailed_type": "Higher education institutions",
+  "lat": "53.761338",
+  "lng": "-2.7073841"
 }

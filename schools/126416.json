@@ -7,12 +7,14 @@
   "town": "Salisbury",
   "county": "Wiltshire",
   "postcode": "SP3 4RZ",
-  "minimum_age": "2",
+  "minimum_age": "4",
   "maximum_age": "11",
   "easting": "403460",
   "northing": "148027",
   "url": "http://www.st-thomas-a-becket.wilts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.231420",
+  "lng": "-1.9518278"
 }

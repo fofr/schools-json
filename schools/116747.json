@@ -14,5 +14,7 @@
   "url": "http://www.wigmore-pri.hereford.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.315447",
+  "lng": "-2.8590787"
 }

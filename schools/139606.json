@@ -14,5 +14,7 @@
   "url": "http://www.allsaintsib.org",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.518164",
+  "lng": "-1.3206819"
 }

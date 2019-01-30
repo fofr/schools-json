@@ -14,5 +14,7 @@
   "url": "www.west-endacademy.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.615402",
+  "lng": "-1.3586988"
 }

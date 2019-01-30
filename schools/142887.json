@@ -14,5 +14,7 @@
   "url": "www.globalacademy.com",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "University technical college"
+  "detailed_type": "University technical college",
+  "lat": "51.504763",
+  "lng": "-0.42712424"
 }

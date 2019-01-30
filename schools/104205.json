@@ -14,5 +14,7 @@
   "url": "http://www.ryders-hayes.walsall.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.634699",
+  "lng": "-1.9655290"
 }

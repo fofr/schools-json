@@ -14,5 +14,7 @@
   "url": "www.acton.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "53.075142",
+  "lng": "-2.5502500"
 }

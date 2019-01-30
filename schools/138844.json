@@ -14,5 +14,7 @@
   "url": "http://www.holywell.beds.sch.uk/",
   "phase": "Middle deemed secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.070584",
+  "lng": "-0.60433169"
 }

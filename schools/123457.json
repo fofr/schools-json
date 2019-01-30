@@ -14,5 +14,7 @@
   "url": "www.adderleyschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.958483",
+  "lng": "-2.5091845"
 }

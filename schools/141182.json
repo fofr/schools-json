@@ -14,5 +14,7 @@
   "url": "www.montgomerieprimary.essex.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.573663",
+  "lng": "0.54784051"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.excalibur.cheshire.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.090148",
+  "lng": "-2.2936773"
 }

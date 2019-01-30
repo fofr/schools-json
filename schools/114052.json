@@ -14,5 +14,7 @@
   "url": "http://www.consett-inf.durham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.854262",
+  "lng": "-1.8296161"
 }

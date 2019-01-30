@@ -14,5 +14,7 @@
   "url": "http://www.bucklandprimaryschool.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.677333",
+  "lng": "-1.5036753"
 }

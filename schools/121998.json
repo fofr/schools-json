@@ -14,5 +14,7 @@
   "url": "www.allsaintscevawellingborough.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.300643",
+  "lng": "-0.68552909"
 }

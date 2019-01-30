@@ -14,5 +14,7 @@
   "url": "www.thomasreadeschool.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.677195",
+  "lng": "-1.2673307"
 }

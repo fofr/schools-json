@@ -14,5 +14,7 @@
   "url": "http://www.popepaul.herts.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.690090",
+  "lng": "-0.19858384"
 }

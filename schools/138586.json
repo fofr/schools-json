@@ -14,5 +14,7 @@
   "url": "http://www.nishkamschooltrust.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.495695",
+  "lng": "-1.9073971"
 }

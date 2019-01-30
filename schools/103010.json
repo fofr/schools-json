@@ -14,5 +14,7 @@
   "url": "http://www.cheam.sutton.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.366318",
+  "lng": "-0.21799808"
 }

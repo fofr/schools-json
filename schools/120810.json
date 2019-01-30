@@ -14,5 +14,7 @@
   "url": "http://www.garvestone.norfolk.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.627046",
+  "lng": "0.98741737"
 }

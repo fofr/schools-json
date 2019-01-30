@@ -14,5 +14,7 @@
   "url": "www.landkey-primary.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.062322",
+  "lng": "-4.0093937"
 }

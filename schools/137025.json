@@ -14,5 +14,7 @@
   "url": "www.east-worlington-primary.devon.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.910125",
+  "lng": "-3.7438666"
 }

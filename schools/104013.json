@@ -14,5 +14,7 @@
   "url": "http://www.shirelandlc.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.484218",
+  "lng": "-1.9647623"
 }

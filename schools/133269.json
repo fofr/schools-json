@@ -14,5 +14,7 @@
   "url": "www.wynndale-notts.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.136456",
+  "lng": "-1.1633814"
 }

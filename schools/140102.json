@@ -14,5 +14,7 @@
   "url": "http://www.st-loys.northants.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.115726",
+  "lng": "-1.1265229"
 }

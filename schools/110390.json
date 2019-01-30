@@ -14,5 +14,7 @@
   "url": "http://www.loughton.milton-keynes.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.028056",
+  "lng": "-0.78632706"
 }

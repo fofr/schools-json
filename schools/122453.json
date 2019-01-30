@@ -14,5 +14,7 @@
   "url": "www.newlandsjunior.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.164407",
+  "lng": "-1.1336855"
 }

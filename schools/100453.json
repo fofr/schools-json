@@ -14,5 +14,7 @@
   "url": "http://www.holloway.islington.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.553636",
+  "lng": "-0.12992305"
 }

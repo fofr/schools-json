@@ -14,5 +14,7 @@
   "url": "www.stmaryshigh.barnet.lgfl.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.592408",
+  "lng": "-0.22344225"
 }

@@ -14,5 +14,7 @@
   "url": "www.boneyhayschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.691434",
+  "lng": "-1.9276239"
 }

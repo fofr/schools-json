@@ -14,5 +14,7 @@
   "url": "http://neatherd.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.679938",
+  "lng": "0.95640377"
 }

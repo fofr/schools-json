@@ -14,5 +14,7 @@
   "url": "www.mierscourt.medway.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.356489",
+  "lng": "0.60746049"
 }

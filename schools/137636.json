@@ -14,5 +14,7 @@
   "url": "http://www.brooklandsschool.co.uk/",
   "phase": "Middle deemed secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.915938",
+  "lng": "-0.64642630"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.knowsleycollege.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "53.413194",
+  "lng": "-2.8510772"
 }

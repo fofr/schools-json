@@ -14,5 +14,7 @@
   "url": "http://www.combsms.org/",
   "phase": "Middle deemed secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.174999",
+  "lng": "1.0038420"
 }

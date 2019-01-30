@@ -14,5 +14,7 @@
   "url": "www.townley.cambs.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.548142",
+  "lng": "0.19971219"
 }

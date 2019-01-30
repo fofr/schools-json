@@ -14,5 +14,7 @@
   "url": "www.corbett.staffs.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.515890",
+  "lng": "-2.2788077"
 }

@@ -14,5 +14,7 @@
   "url": "www.ctk.education",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.424013",
+  "lng": "-2.5863177"
 }

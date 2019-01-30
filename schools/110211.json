@@ -14,5 +14,7 @@
   "url": "www.knowlesinfantschool.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.995483",
+  "lng": "-0.72523190"
 }

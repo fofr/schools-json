@@ -14,5 +14,7 @@
   "url": "http://www.princesrisborough.bucks.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.719596",
+  "lng": "-0.82860748"
 }

@@ -14,5 +14,7 @@
   "url": "www.althorpe.northlincs.dbprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.587329",
+  "lng": "-0.73620942"
 }

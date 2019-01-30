@@ -14,5 +14,7 @@
   "url": "http://westminsterschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.804164",
+  "lng": "-1.7473465"
 }

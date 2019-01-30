@@ -14,5 +14,7 @@
   "url": "http://www.solent-inf.portsmouth.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.848434",
+  "lng": "-1.0386470"
 }

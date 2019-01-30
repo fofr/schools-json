@@ -14,5 +14,7 @@
   "url": "http://beehive.thisisderbyshire.co.uk/default.asp?WCI=SiteHome&ID=46",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.921773",
+  "lng": "-1.4128682"
 }

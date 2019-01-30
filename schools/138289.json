@@ -14,5 +14,7 @@
   "url": "http://www.burford.oxon.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.803585",
+  "lng": "-1.6416628"
 }

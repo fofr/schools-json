@@ -14,5 +14,7 @@
   "url": "www.commonweal.co.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.549129",
+  "lng": "-1.7878521"
 }

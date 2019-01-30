@@ -14,5 +14,7 @@
   "url": "http://www.icknield.beds.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.907873",
+  "lng": "-0.42790989"
 }

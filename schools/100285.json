@@ -14,5 +14,7 @@
   "url": "http://www.cardinalpole.co.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.547031",
+  "lng": "-0.047378113"
 }

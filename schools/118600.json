@@ -14,5 +14,7 @@
   "url": "http://www.cranbrook-cep.kent.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.100177",
+  "lng": "0.53527004"
 }

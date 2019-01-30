@@ -14,5 +14,7 @@
   "url": "www.woking.ac.uk",
   "phase": "16 plus",
   "type": "Academies",
-  "detailed_type": "Academy 16-19 converter"
+  "detailed_type": "Academy 16-19 converter",
+  "lat": "51.306486",
+  "lng": "-0.54868454"
 }

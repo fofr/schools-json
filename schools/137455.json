@@ -14,5 +14,7 @@
   "url": "www.pheasantbankacademy.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.479610",
+  "lng": "-1.0826319"
 }

@@ -14,5 +14,7 @@
   "url": "www.mountstreetacademy.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.241152",
+  "lng": "-0.54432441"
 }

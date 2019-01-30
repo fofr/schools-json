@@ -14,5 +14,7 @@
   "url": "http://www.heronsmoor.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.352489",
+  "lng": "-2.9150692"
 }

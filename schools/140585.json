@@ -14,5 +14,7 @@
   "url": "www.richmond.doncaster.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.520284",
+  "lng": "-1.1673337"
 }

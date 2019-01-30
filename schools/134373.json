@@ -14,5 +14,7 @@
   "url": "www.compass.dorset.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "50.607813",
+  "lng": "-2.4744857"
 }

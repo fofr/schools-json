@@ -14,5 +14,7 @@
   "url": "www.kingjames.org.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.629362",
+  "lng": "-1.7424632"
 }

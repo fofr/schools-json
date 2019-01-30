@@ -14,5 +14,7 @@
   "url": "www.standrewsprimary.school",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.858073",
+  "lng": "-3.3955618"
 }

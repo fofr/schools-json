@@ -14,5 +14,7 @@
   "url": "http://www.uppershirleyhigh.org",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.929367",
+  "lng": "-1.4236652"
 }

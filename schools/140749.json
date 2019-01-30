@@ -14,5 +14,7 @@
   "url": "http://www.sacred-heart-primary.torbay.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.439812",
+  "lng": "-3.5691841"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.stathern.leics.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.870587",
+  "lng": "-0.85443567"
 }

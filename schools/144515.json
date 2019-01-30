@@ -14,5 +14,7 @@
   "url": "http://tgsboys.com/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "51.477776",
+  "lng": "-0.32318865"
 }

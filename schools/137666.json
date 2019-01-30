@@ -14,5 +14,7 @@
   "url": "http://www.chudleigh-knighton.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.585382",
+  "lng": "-3.6327420"
 }

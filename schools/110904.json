@@ -14,5 +14,7 @@
   "url": "http://www.stangroundcollege.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.548843",
+  "lng": "-0.22668852"
 }

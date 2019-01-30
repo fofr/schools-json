@@ -14,5 +14,7 @@
   "url": "middlestown.wakefield.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.649117",
+  "lng": "-1.5980490"
 }

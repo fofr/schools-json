@@ -14,5 +14,7 @@
   "url": "http://www.langton.kent.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "51.264790",
+  "lng": "1.0966114"
 }

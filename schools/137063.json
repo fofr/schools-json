@@ -14,5 +14,7 @@
   "url": "http://www.paca.uk.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "50.850644",
+  "lng": "-0.22577387"
 }

@@ -14,5 +14,7 @@
   "url": "www.acombprimary.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.953437",
+  "lng": "-1.1152089"
 }

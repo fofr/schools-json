@@ -14,5 +14,7 @@
   "url": "www.hfprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.459948",
+  "lng": "0.030366765"
 }

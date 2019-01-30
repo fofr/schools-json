@@ -14,5 +14,7 @@
   "url": "www.moorhall.bham.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.585305",
+  "lng": "-1.8146824"
 }

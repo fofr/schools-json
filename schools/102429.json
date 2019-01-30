@@ -14,5 +14,7 @@
   "url": "http://www.bishopramsey.hillingdon.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.578860",
+  "lng": "-0.40925487"
 }

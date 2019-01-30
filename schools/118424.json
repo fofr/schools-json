@@ -14,5 +14,7 @@
   "url": "http://www.medway.org.uk/schools/meredale_www",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.364458",
+  "lng": "0.61509669"
 }

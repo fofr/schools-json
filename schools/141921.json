@@ -14,5 +14,7 @@
   "url": "www.simondesenlis.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.212409",
+  "lng": "-0.90990356"
 }

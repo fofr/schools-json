@@ -14,5 +14,7 @@
   "url": "www.st-helens.southend.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.541958",
+  "lng": "0.70306099"
 }

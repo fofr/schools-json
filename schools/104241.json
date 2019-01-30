@@ -14,5 +14,7 @@
   "url": "www.st-annes.walsall.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.579340",
+  "lng": "-1.8910474"
 }

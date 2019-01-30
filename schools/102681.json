@@ -14,5 +14,7 @@
   "url": "http://www.wimbledoncollege.org.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "51.419238",
+  "lng": "-0.22150661"
 }

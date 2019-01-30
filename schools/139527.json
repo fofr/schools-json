@@ -14,5 +14,7 @@
   "url": "www.ololwit.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.782136",
+  "lng": "-1.5040488"
 }

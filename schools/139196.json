@@ -14,5 +14,7 @@
   "url": "www.bca.warrington.ac.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.407151",
+  "lng": "-2.5873647"
 }

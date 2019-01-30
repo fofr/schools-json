@@ -14,5 +14,7 @@
   "url": "http://www.braunstonefrithjunior.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.638532",
+  "lng": "-1.1946480"
 }

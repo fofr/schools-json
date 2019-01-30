@@ -14,5 +14,7 @@
   "url": "http://www.trevelyan.org.uk",
   "phase": "Middle deemed secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.469413",
+  "lng": "-0.61527840"
 }

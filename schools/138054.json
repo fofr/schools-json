@@ -14,5 +14,7 @@
   "url": "",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.900495",
+  "lng": "-1.3912514"
 }

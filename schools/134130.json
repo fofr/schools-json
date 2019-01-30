@@ -14,5 +14,7 @@
   "url": "www.shaftesbury.lancs.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "53.642877",
+  "lng": "-2.6344420"
 }

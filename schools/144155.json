@@ -14,5 +14,7 @@
   "url": "http://www.barton.dalesmat.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.474728",
+  "lng": "-1.6436884"
 }

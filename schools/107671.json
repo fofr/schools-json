@@ -14,5 +14,7 @@
   "url": "www.howardpark.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.723097",
+  "lng": "-1.7098087"
 }

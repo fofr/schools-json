@@ -14,5 +14,7 @@
   "url": "www.vhps.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.523932",
+  "lng": "-1.2374022"
 }

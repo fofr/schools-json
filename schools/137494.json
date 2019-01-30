@@ -14,5 +14,7 @@
   "url": "www.trinityschools.co.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "52.115835",
+  "lng": "0.058679508"
 }

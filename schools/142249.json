@@ -14,5 +14,7 @@
   "url": "www.parksideggi.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.114881",
+  "lng": "-3.2120466"
 }

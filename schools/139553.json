@@ -14,5 +14,7 @@
   "url": "http://www.ilfracombeacademy.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.204678",
+  "lng": "-4.1143497"
 }

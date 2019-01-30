@@ -14,5 +14,7 @@
   "url": "http://www.theislandfreeschool.org/",
   "phase": "Secondary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "50.600063",
+  "lng": "-1.2183753"
 }

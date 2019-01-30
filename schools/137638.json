@@ -14,5 +14,7 @@
   "url": "http://www.consett-academy.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "54.857918",
+  "lng": "-1.8286505"
 }

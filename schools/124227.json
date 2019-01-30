@@ -14,5 +14,7 @@
   "url": "www.stpaulsprimaryschool.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.982607",
+  "lng": "-2.1443004"
 }

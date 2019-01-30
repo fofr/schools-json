@@ -14,5 +14,7 @@
   "url": "www.holycross.wirral.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.403010",
+  "lng": "-3.0659812"
 }

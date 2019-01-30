@@ -14,5 +14,7 @@
   "url": "http://www.south-milford.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.775958",
+  "lng": "-1.2514772"
 }

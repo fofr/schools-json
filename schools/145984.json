@@ -14,5 +14,7 @@
   "url": "www.almaprimaryschool.org.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.644536",
+  "lng": "-0.036036928"
 }

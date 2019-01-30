@@ -14,5 +14,7 @@
   "url": "www.dunston.derbyshire.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.257283",
+  "lng": "-1.4482639"
 }

@@ -14,5 +14,7 @@
   "url": "http://stmaryscebl.northants.dbprimary.com/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.361048",
+  "lng": "-0.67871497"
 }

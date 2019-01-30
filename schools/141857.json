@@ -14,5 +14,7 @@
   "url": "www.yanwath.cumbria.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.639823",
+  "lng": "-2.7600515"
 }

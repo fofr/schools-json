@@ -14,5 +14,7 @@
   "url": "www.doltonprimaryschooldevon.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.890210",
+  "lng": "-4.0346083"
 }

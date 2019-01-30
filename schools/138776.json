@@ -14,5 +14,7 @@
   "url": "http://zatounaprimary.co.uk",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "52.909866",
+  "lng": "-1.4591547"
 }

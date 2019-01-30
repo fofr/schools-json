@@ -14,5 +14,7 @@
   "url": "www.kingstoncentre.wolverhampton.sch.uk",
   "phase": "Not applicable",
   "type": "LA maintained schools",
-  "detailed_type": "Pupil referral unit"
+  "detailed_type": "Pupil referral unit",
+  "lat": "52.600831",
+  "lng": "-2.1529031"
 }

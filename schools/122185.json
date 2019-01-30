@@ -14,5 +14,7 @@
   "url": "www.spittal.northumberland.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.757849",
+  "lng": "-1.9927720"
 }

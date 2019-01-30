@@ -14,5 +14,7 @@
   "url": "www.mandeville.herts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.736995",
+  "lng": "-0.34037525"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.oldfieldparkjuniorschool.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.373755",
+  "lng": "-2.3826175"
 }

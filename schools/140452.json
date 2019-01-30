@@ -14,5 +14,7 @@
   "url": "www.st-johnscofe.bathnes.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.284644",
+  "lng": "-2.4872947"
 }

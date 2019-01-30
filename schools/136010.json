@@ -14,5 +14,7 @@
   "url": "http://www.medina.iow.sch.uk/",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.711574",
+  "lng": "-1.2825527"
 }

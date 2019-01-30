@@ -14,5 +14,7 @@
   "url": "http://www.holbrookprimary.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.438640",
+  "lng": "-1.4977592"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.archbishopcranmer.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.952888",
+  "lng": "-0.90007299"
 }

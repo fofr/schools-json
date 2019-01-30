@@ -14,5 +14,7 @@
   "url": "www.newbridge.wigan.sch.uk",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school"
+  "detailed_type": "Community special school",
+  "lat": "53.524636",
+  "lng": "-2.5992165"
 }

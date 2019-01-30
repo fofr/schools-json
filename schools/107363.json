@@ -14,5 +14,7 @@
   "url": "http://www.wykemanor.co.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.742636",
+  "lng": "-1.7623617"
 }

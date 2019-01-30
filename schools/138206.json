@@ -14,5 +14,7 @@
   "url": "www.fleetvilleinfants.herts.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.752790",
+  "lng": "-0.31231283"
 }

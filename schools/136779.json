@@ -14,5 +14,7 @@
   "url": "http://www.heathschool.org.uk/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.324939",
+  "lng": "-2.7262666"
 }

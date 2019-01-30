@@ -14,5 +14,7 @@
   "url": "www.westexenurseryschool.org",
   "phase": "Nursery",
   "type": "LA maintained schools",
-  "detailed_type": "Local authority nursery school"
+  "detailed_type": "Local authority nursery school",
+  "lat": "50.714599",
+  "lng": "-3.5458070"
 }

@@ -14,5 +14,7 @@
   "url": "www.vpaleeds.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.800053",
+  "lng": "-1.5019441"
 }

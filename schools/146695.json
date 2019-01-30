@@ -14,5 +14,7 @@
   "url": "www.elmhall.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.818267",
+  "lng": "0.63762887"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.kingswood-primary.lambeth.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.426969",
+  "lng": "-0.090419604"
 }

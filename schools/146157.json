@@ -14,5 +14,7 @@
   "url": "www.downs.essex.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.769544",
+  "lng": "0.10049708"
 }

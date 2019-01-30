@@ -14,5 +14,7 @@
   "url": "www.christchurch.derbyshire.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.247551",
+  "lng": "-1.4297909"
 }

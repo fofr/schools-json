@@ -14,5 +14,7 @@
   "url": "www.whitecross.hereford.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.066575",
+  "lng": "-2.7442845"
 }

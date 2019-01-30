@@ -14,5 +14,7 @@
   "url": "http://www.somervaleschool.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.284079",
+  "lng": "-2.4871023"
 }

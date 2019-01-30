@@ -14,5 +14,7 @@
   "url": "http://www.menheniot.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "50.438987",
+  "lng": "-4.4085190"
 }

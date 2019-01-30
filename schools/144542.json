@@ -14,5 +14,7 @@
   "url": "https://pentlandprimary.co.uk/stockton/primary/pentland",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.604472",
+  "lng": "-1.2919538"
 }

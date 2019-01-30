@@ -14,5 +14,7 @@
   "url": "www.richmond.kent.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.436657",
+  "lng": "0.77435565"
 }

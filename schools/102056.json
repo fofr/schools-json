@@ -14,5 +14,7 @@
   "url": "http://www.broomfield.enfield.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.615222",
+  "lng": "-0.12516829"
 }

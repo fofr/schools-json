@@ -14,5 +14,7 @@
   "url": "www.godstoneschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.245981",
+  "lng": "-0.069125738"
 }

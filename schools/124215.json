@@ -14,5 +14,7 @@
   "url": "http://www.springhillprimaryschool.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.677136",
+  "lng": "-1.9201636"
 }

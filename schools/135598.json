@@ -14,5 +14,7 @@
   "url": "http://www.sentamu.com/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "53.758620",
+  "lng": "-0.28045868"
 }

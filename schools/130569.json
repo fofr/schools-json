@@ -14,5 +14,7 @@
   "url": "http://www.ttc.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "54.546438",
+  "lng": "-1.2126041"
 }

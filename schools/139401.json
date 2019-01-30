@@ -14,5 +14,7 @@
   "url": "http://www.northcambridgeacademy.org/",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.225881",
+  "lng": "0.13040387"
 }

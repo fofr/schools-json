@@ -14,5 +14,7 @@
   "url": "www.gladpark.brent.sch.uk/index.asp",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.552175",
+  "lng": "-0.23350595"
 }

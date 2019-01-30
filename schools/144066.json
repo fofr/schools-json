@@ -14,5 +14,7 @@
   "url": "www.davinci.derby.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.941456",
+  "lng": "-1.4476007"
 }

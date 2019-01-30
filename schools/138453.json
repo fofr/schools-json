@@ -14,5 +14,7 @@
   "url": "www.bpa-tkat.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "51.098630",
+  "lng": "-0.19757349"
 }

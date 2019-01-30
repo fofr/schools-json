@@ -14,5 +14,7 @@
   "url": "www.cjsdorset.org",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.739674",
+  "lng": "-1.7872744"
 }

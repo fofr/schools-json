@@ -14,5 +14,7 @@
   "url": "www.steadlaneprimary.org/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "55.133650",
+  "lng": "-1.5749847"
 }

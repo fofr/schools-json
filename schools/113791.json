@@ -14,5 +14,7 @@
   "url": "http://www.manorpark.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.703739",
+  "lng": "-2.4308328"
 }

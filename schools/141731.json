@@ -14,5 +14,7 @@
   "url": "www.ravenfieldprimaryacademy.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.443596",
+  "lng": "-1.2680797"
 }

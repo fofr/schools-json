@@ -14,5 +14,7 @@
   "url": "http://www.minchinhamptonschool.ik.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.706391",
+  "lng": "-2.1874467"
 }

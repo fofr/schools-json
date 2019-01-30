@@ -14,5 +14,7 @@
   "url": "http://www.catmosecollege.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.672557",
+  "lng": "-0.73862772"
 }

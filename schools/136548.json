@@ -14,5 +14,7 @@
   "url": "http://www.brookfield.derbyshire.sch.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.231900",
+  "lng": "-1.4705223"
 }

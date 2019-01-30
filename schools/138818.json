@@ -14,5 +14,7 @@
   "url": "www.merton.leics.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.690888",
+  "lng": "-1.0704249"
 }

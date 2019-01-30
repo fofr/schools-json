@@ -14,5 +14,7 @@
   "url": "https://www.cygnethealth.co.uk/locations/cygnet-hospital-bury/excel-exceed-school/",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Other independent special school"
+  "detailed_type": "Other independent special school",
+  "lat": "53.587143",
+  "lng": "-2.3140184"
 }

@@ -14,5 +14,7 @@
   "url": "www.fouroaksprimary.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.428361",
+  "lng": "-2.9641522"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.eggbuckland.com",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.400177",
+  "lng": "-4.1231927"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.educacion.gob.es/exterior/centros/canadablanch/es/home/index.shtml",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.520355",
+  "lng": "-0.20884968"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.moorlandsprimary.org.uk/page/default.asp?title=Home&pid=1",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.659084",
+  "lng": "-1.8530777"
 }

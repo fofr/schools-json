@@ -14,5 +14,7 @@
   "url": "www.stannes.wirral.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "53.366527",
+  "lng": "-3.0107715"
 }

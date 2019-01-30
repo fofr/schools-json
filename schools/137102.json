@@ -14,5 +14,7 @@
   "url": "http://www.highnam.gloucs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.881042",
+  "lng": "-2.2927578"
 }

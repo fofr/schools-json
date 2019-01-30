@@ -14,5 +14,7 @@
   "url": "http://www.mdtc.co",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "53.366182",
+  "lng": "0.0042992846"
 }

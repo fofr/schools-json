@@ -14,5 +14,7 @@
   "url": "www.st-andrews.woking.sch.uk",
   "phase": "Not applicable",
   "type": "Independent schools",
-  "detailed_type": "Other independent school"
+  "detailed_type": "Other independent school",
+  "lat": "51.325063",
+  "lng": "-0.56900954"
 }

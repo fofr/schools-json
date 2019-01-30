@@ -14,5 +14,7 @@
   "url": "www.stockwell.hull.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.752522",
+  "lng": "-0.25534777"
 }

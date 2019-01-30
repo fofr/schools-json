@@ -14,5 +14,7 @@
   "url": "http://www.bicton.ac.uk/",
   "phase": "16 plus",
   "type": "Colleges",
-  "detailed_type": "Further education"
+  "detailed_type": "Further education",
+  "lat": "50.670270",
+  "lng": "-3.3166939"
 }

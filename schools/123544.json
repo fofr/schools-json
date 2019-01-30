@@ -14,5 +14,7 @@
   "url": "http://dawleyce.taw.org.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.663313",
+  "lng": "-2.4719601"
 }

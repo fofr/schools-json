@@ -14,5 +14,7 @@
   "url": "http://www.rosedalecollege.uk",
   "phase": "Secondary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.519988",
+  "lng": "-0.42919428"
 }

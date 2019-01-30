@@ -14,5 +14,7 @@
   "url": "www.mardenhigh.net",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "55.027254",
+  "lng": "-1.4414084"
 }

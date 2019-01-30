@@ -14,5 +14,7 @@
   "url": "http://www.tmpf.staffs.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.017814",
+  "lng": "-1.9810127"
 }

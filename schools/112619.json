@@ -14,5 +14,7 @@
   "url": "http://www.brookfield-pri.com",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "53.210923",
+  "lng": "-1.2136817"
 }

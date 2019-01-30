@@ -14,5 +14,7 @@
   "url": "http://www.stoborough.dorset.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "50.676282",
+  "lng": "-2.1100684"
 }

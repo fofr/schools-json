@@ -14,5 +14,7 @@
   "url": "www.st-peters-alton.staffs.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.978644",
+  "lng": "-1.8900630"
 }

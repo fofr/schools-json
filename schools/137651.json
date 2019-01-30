@@ -14,5 +14,7 @@
   "url": "http://www.sampford-peverell-primary.devon.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "50.919724",
+  "lng": "-3.3838617"
 }

@@ -14,5 +14,7 @@
   "url": "www.sjv.coventry.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "52.409631",
+  "lng": "-1.5665795"
 }

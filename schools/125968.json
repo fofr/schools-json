@@ -14,5 +14,7 @@
   "url": "http://www.bramber.w-sussex.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "50.832472",
+  "lng": "-0.36131532"
 }

@@ -14,5 +14,7 @@
   "url": "www.stgnewtown.bham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy sponsor led"
+  "detailed_type": "Academy sponsor led",
+  "lat": "52.490360",
+  "lng": "-1.9031962"
 }

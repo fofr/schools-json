@@ -14,5 +14,7 @@
   "url": "http://www.milvertonprimary.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.022430",
+  "lng": "-3.2582786"
 }

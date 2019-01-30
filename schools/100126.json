@@ -14,5 +14,7 @@
   "url": "www.gallionsmount.greenwich.sch.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.484571",
+  "lng": "0.098724203"
 }

@@ -14,5 +14,7 @@
   "url": "www.connaughtjuniorschool.co.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "51.356812",
+  "lng": "-0.68861913"
 }

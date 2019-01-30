@@ -14,5 +14,7 @@
   "url": "www.blabystokes.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.572149",
+  "lng": "-1.1698064"
 }

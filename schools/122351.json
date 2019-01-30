@@ -14,5 +14,7 @@
   "url": "http://www.pchs.org.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.955943",
+  "lng": "-1.8508607"
 }

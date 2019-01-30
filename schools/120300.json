@@ -14,5 +14,7 @@
   "url": "www.lc.leics.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.460400",
+  "lng": "-1.2088956"
 }

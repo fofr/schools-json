@@ -14,5 +14,7 @@
   "url": "www.oasisacademylimeside.org/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.517880",
+  "lng": "-2.1294058"
 }

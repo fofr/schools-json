@@ -14,5 +14,7 @@
   "url": "http://www.chetwyndprimaryacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.908408",
+  "lng": "-1.2529966"
 }

@@ -14,5 +14,7 @@
   "url": "www.stmichaels-pelsall.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "52.624075",
+  "lng": "-1.9725394"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.meadow.suffolk.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.465586",
+  "lng": "1.7343452"
 }

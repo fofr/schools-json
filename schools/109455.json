@@ -14,5 +14,7 @@
   "url": "www.harroldlowerschool.co.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.200784",
+  "lng": "-0.61193370"
 }

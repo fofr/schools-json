@@ -14,5 +14,7 @@
   "url": "www.northsideprimary.org",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "54.652544",
+  "lng": "-3.5522288"
 }

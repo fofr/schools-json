@@ -14,5 +14,7 @@
   "url": "http://www.crosshallinfant.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "52.232482",
+  "lng": "-0.28284495"
 }

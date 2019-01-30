@@ -14,5 +14,7 @@
   "url": "www.grange.cumbria.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "54.189932",
+  "lng": "-2.9183145"
 }

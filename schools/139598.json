@@ -14,5 +14,7 @@
   "url": "www.newislingtonschool.org",
   "phase": "Primary",
   "type": "Free Schools",
-  "detailed_type": "Free schools"
+  "detailed_type": "Free schools",
+  "lat": "53.483051",
+  "lng": "-2.2255611"
 }

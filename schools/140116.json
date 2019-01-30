@@ -14,5 +14,7 @@
   "url": "www.whistonworrygoose.com",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "53.409197",
+  "lng": "-1.3152142"
 }

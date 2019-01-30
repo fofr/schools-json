@@ -14,5 +14,7 @@
   "url": "http://www.woodside.herts.sch.uk/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.706903",
+  "lng": "-0.091419749"
 }

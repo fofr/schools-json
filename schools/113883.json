@@ -14,5 +14,7 @@
   "url": "http://www.qe.dorset.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school"
+  "detailed_type": "Voluntary controlled school",
+  "lat": "50.806134",
+  "lng": "-2.0034252"
 }

@@ -14,5 +14,7 @@
   "url": "http://www.gravesendgrammar.kent.sch.uk",
   "phase": "Secondary",
   "type": "LA maintained schools",
-  "detailed_type": "Foundation school"
+  "detailed_type": "Foundation school",
+  "lat": "51.437086",
+  "lng": "0.38386228"
 }

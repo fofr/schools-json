@@ -14,5 +14,7 @@
   "url": "www.eastbury.bardaglea.org.uk",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "51.542474",
+  "lng": "0.090239506"
 }

@@ -14,5 +14,7 @@
   "url": "www.boughtonleigh.co.uk",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.389910",
+  "lng": "-1.2450700"
 }

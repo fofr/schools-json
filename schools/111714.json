@@ -14,5 +14,7 @@
   "url": "www.ict-mouchel-education.com/",
   "phase": "Primary",
   "type": "LA maintained schools",
-  "detailed_type": "Voluntary aided school"
+  "detailed_type": "Voluntary aided school",
+  "lat": "54.565249",
+  "lng": "-1.2466534"
 }

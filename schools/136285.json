@@ -14,5 +14,7 @@
   "url": "http://www.seatonacademy.co.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.662870",
+  "lng": "-3.5240480"
 }

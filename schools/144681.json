@@ -14,5 +14,7 @@
   "url": "http://www.west-cliff.n-yorks.sch.uk/",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "54.488456",
+  "lng": "-0.62096951"
 }

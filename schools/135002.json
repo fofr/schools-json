@@ -14,5 +14,7 @@
   "url": "www.hamptoncollege.org.uk",
   "phase": "All through",
   "type": "LA maintained schools",
-  "detailed_type": "Community school"
+  "detailed_type": "Community school",
+  "lat": "52.534655",
+  "lng": "-0.26487261"
 }

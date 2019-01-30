@@ -14,5 +14,7 @@
   "url": "www.caldmore.attrust.org.uk",
   "phase": "Primary",
   "type": "Academies",
-  "detailed_type": "Academy converter"
+  "detailed_type": "Academy converter",
+  "lat": "52.576359",
+  "lng": "-1.9807144"
 }
