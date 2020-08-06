@@ -1,6 +1,6 @@
 {
   "urn": "122824",
-  "name": "Huthwaite All Saint's CofE (Aided) Infant School",
+  "name": "Huthwaite All Saint's CofE (Aided) Infant & Preschool",
   "address": "Common Road",
   "locality": "Huthwaite",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "7",
   "easting": "446725",
   "northing": "358991",
-  "url": "",
+  "url": "www.huthwaiteallsaints.notts.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.126047",
   "lng": "-1.3031933"

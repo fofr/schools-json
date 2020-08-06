@@ -3,7 +3,7 @@
   "name": "Little Common School",
   "address": "Shepherds Close",
   "locality": "",
-  "address3": "",
+  "address3": "Little Common Primary School",
   "town": "Bexhill-on-Sea",
   "county": "East Sussex",
   "postcode": "TN39 4SQ",
@@ -13,7 +13,7 @@
   "northing": "107874",
   "url": "http://www.littlecommon.e-sussex.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.844930",
   "lng": "0.43669261"

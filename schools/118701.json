@@ -1,9 +1,9 @@
 {
   "urn": "118701",
   "name": "Frittenden Church of England Primary School",
-  "address": "Frittenden",
+  "address": "Frittenden Primary School",
   "locality": "",
-  "address3": "",
+  "address3": "Frittenden",
   "town": "Cranbrook",
   "county": "Kent",
   "postcode": "TN17 2DD",
@@ -13,7 +13,7 @@
   "northing": "140963",
   "url": "http://www.frittenden.kent.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.139201",
   "lng": "0.59150631"

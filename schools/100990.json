@@ -1,6 +1,6 @@
 {
   "urn": "100990",
-  "name": "Balham Nursery School & Children's Centre Services",
+  "name": "Balham Nursery School",
   "address": "72 Endlesham Road",
   "locality": "Balham",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "173530",
   "url": "www.balham-nursery.wandsworth.sch.uk",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "51.446221",
   "lng": "-0.15431823"

@@ -3,7 +3,7 @@
   "name": "St Mary's Church of England Voluntary Aided Primary School, Burnham-on-Crouch",
   "address": "Marsh Road",
   "locality": "",
-  "address3": "",
+  "address3": "Marsh Rd",
   "town": "Burnham-on-Crouch",
   "county": "Essex",
   "postcode": "CM0 8LZ",
@@ -13,7 +13,7 @@
   "northing": "196933",
   "url": "www.stmarysschoolburnham.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.637367",
   "lng": "0.81756750"

@@ -3,7 +3,7 @@
   "name": "Great Gaddesden Church of England Primary School",
   "address": "Church Meadow",
   "locality": "Great Gaddesden",
-  "address3": "",
+  "address3": "Great Gaddesden Primary School",
   "town": "Hemel Hempstead",
   "county": "Hertfordshire",
   "postcode": "HP1 3BT",
@@ -13,7 +13,7 @@
   "northing": "211287",
   "url": "www.greatgaddesden.herts.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.790780",
   "lng": "-0.50916692"

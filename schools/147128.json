@@ -1,0 +1,18 @@
+{
+  "urn": "147128",
+  "name": "Fernhill Primary School",
+  "address": "Field Road",
+  "locality": "",
+  "address3": "",
+  "town": "Farnborough",
+  "county": "Hampshire",
+  "postcode": "GU14 9FX",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "485850",
+  "northing": "158086",
+  "url": "http://www.fernhillprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

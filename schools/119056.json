@@ -7,14 +7,14 @@
   "town": "Broadstairs",
   "county": "Kent",
   "postcode": "CT10 1EB",
-  "minimum_age": "8",
+  "minimum_age": "4",
   "maximum_age": "19",
   "easting": "639809",
   "northing": "168698",
   "url": "http://stone-bay.kent.sch.uk/",
   "phase": "Not applicable",
   "type": "Special schools",
-  "detailed_type": "Community special school",
+  "detailed_type": "Foundation special school",
   "lat": "51.366679",
   "lng": "1.4437530"
 }

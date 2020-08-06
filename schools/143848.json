@@ -1,6 +1,6 @@
 {
   "urn": "143848",
-  "name": "Castlebrook High School",
+  "name": "Unsworth Academy",
   "address": "Parr Lane",
   "locality": "",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "16",
   "easting": "382083",
   "northing": "407297",
-  "url": "",
+  "url": "https://unsworthacademy.org.uk",
   "phase": "Secondary",
   "type": "Academies",
   "detailed_type": "Academy sponsor led",

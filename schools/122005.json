@@ -1,10 +1,10 @@
 {
   "urn": "122005",
-  "name": "Woodford Church of England Primary School",
+  "name": "Woodford Church of England Primary School and Nursery",
   "address": "High Street",
   "locality": "Woodford",
-  "address3": "",
-  "town": "Kettering",
+  "address3": "Woodford Church of England Primary School",
+  "town": "Woodford",
   "county": "Northamptonshire",
   "postcode": "NN14 4HF",
   "minimum_age": "2",
@@ -13,7 +13,7 @@
   "northing": "277017",
   "url": "http://www.woodford.northants.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.382665",
   "lng": "-0.58118572"

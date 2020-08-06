@@ -1,0 +1,18 @@
+{
+  "urn": "147185",
+  "name": "Cecil Jones Academy",
+  "address": "Eastern Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Southend-on-Sea",
+  "county": "Essex",
+  "postcode": "SS2 4BU",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "589565",
+  "northing": "187373",
+  "url": "www.ceciljonesacademy.net",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -2,7 +2,7 @@
   "urn": "103562",
   "name": "King's Norton Boys' School",
   "address": "Northfield Road",
-  "locality": "",
+  "locality": "King's Norton",
   "address3": "",
   "town": "Birmingham",
   "county": "West Midlands",
@@ -13,7 +13,7 @@
   "northing": "279908",
   "url": "http://www.knbs.co.uk/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "52.417153",
   "lng": "-1.9415697"

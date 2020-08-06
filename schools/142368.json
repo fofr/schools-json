@@ -1,6 +1,6 @@
 {
   "urn": "142368",
-  "name": "St Augustine's RC Primary School",
+  "name": "St Augustine's Catholic Primary School",
   "address": "Gunnergate Lane",
   "locality": "Coulby Newham",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "451275",
   "northing": "514556",
-  "url": "http://www.staugustinesmiddlesbrough.co.uk",
+  "url": "https://staugustines.npcat.org.uk",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

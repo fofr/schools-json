@@ -1,0 +1,18 @@
+{
+  "urn": "147710",
+  "name": "Henbury View First School",
+  "address": "Hillside Road",
+  "locality": "Corfe Mullen",
+  "address3": "",
+  "town": "Wimborne",
+  "county": "Dorset",
+  "postcode": "BH21 3TR",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "398426",
+  "northing": "96625",
+  "url": "http://www.henburyview.dorset.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

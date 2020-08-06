@@ -1,6 +1,6 @@
 {
   "urn": "110016",
-  "name": "Sonning CofE Primary School",
+  "name": "Sonning Church of England Primary School",
   "address": "Liguge Way",
   "locality": "Sonning",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "175016",
   "url": "www.sonning.wokingham.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.469023",
   "lng": "-0.90782590"

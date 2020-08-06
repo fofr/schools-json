@@ -1,0 +1,18 @@
+{
+  "urn": "147100",
+  "name": "Carlton Bolling",
+  "address": "Undercliffe Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD3 0DU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "417309",
+  "northing": "434007",
+  "url": "http://www.carltonbolling.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

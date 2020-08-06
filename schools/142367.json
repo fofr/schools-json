@@ -1,6 +1,6 @@
 {
   "urn": "142367",
-  "name": "St Alphonsus' RC Primary School",
+  "name": "St Alphonsus' Catholic Primary School",
   "address": "Cadogan Street",
   "locality": "North Ormesby",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "451308",
   "northing": "519633",
-  "url": "www.stalphonsusrcschool.co.uk",
+  "url": "https://stalphonsus.npcat.org.uk",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

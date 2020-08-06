@@ -1,7 +1,7 @@
 {
   "urn": "130531",
   "name": "The Sheffield College",
-  "address": "Head Office",
+  "address": "",
   "locality": "Granville Road",
   "address3": "",
   "town": "Sheffield",
@@ -11,7 +11,7 @@
   "maximum_age": "99",
   "easting": "436028",
   "northing": "386431",
-  "url": "",
+  "url": "www.sheffcol.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
   "detailed_type": "Further education",

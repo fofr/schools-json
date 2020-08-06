@@ -1,0 +1,18 @@
+{
+  "urn": "146887",
+  "name": "Teesville Academy",
+  "address": "Lime Road",
+  "locality": "Normanby",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "Teesside",
+  "postcode": "TS6 0BZ",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454309",
+  "northing": "518782",
+  "url": "www.teesvilleprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

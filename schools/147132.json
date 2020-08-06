@@ -1,0 +1,18 @@
+{
+  "urn": "147132",
+  "name": "St Andrew's Academy",
+  "address": "St Andrew's View",
+  "locality": "Breadsall Hilltop",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE21 4EW",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "436982",
+  "northing": "338574",
+  "url": "www.standrewsacademy.co.uk",
+  "phase": "Not applicable",
+  "type": "Academies",
+  "detailed_type": "Academy special converter"
+}

@@ -3,7 +3,7 @@
   "name": "Goosnargh Whitechapel Primary School",
   "address": "Church Lane",
   "locality": "Whitechapel",
-  "address3": "Longridge",
+  "address3": "Whitechapel Primary School",
   "town": "Preston",
   "county": "Lancashire",
   "postcode": "PR3 2EP",
@@ -13,7 +13,7 @@
   "northing": "441462",
   "url": "www.whitechapel.lancsngfl.ac.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.867462",
   "lng": "-2.6760071"

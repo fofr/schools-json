@@ -1,0 +1,18 @@
+{
+  "urn": "147250",
+  "name": "Catherine Wayte Primary School",
+  "address": "Elstree Way",
+  "locality": "Abbey Meads",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN25 4TA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "413944",
+  "northing": "188476",
+  "url": "www.catherinewayte.swindon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

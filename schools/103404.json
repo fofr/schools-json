@@ -2,7 +2,7 @@
   "urn": "103404",
   "name": "St Matthew's CofE Primary School",
   "address": "Duddeston Manor Road",
-  "locality": "",
+  "locality": "Nechells",
   "address3": "",
   "town": "Birmingham",
   "county": "West Midlands",
@@ -13,7 +13,7 @@
   "northing": "287926",
   "url": "www.st-matthews.bham.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.489187",
   "lng": "-1.8782657"

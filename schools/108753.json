@@ -3,7 +3,7 @@
   "name": "Pennywell Early Years Centre",
   "address": "Portsmouth Road",
   "locality": "Pennywell",
-  "address3": "",
+  "address3": "Pennywell Early Years Centre",
   "town": "Sunderland",
   "county": "Tyne and Wear",
   "postcode": "SR4 9AX",
@@ -13,7 +13,7 @@
   "northing": "556131",
   "url": "www.pennywellearlyyears.org",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "54.898634",
   "lng": "-1.4436570"

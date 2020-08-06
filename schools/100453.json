@@ -1,6 +1,6 @@
 {
   "urn": "100453",
-  "name": "Holloway School",
+  "name": "Beacon High",
   "address": "Hilldrop Road",
   "locality": "",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "16",
   "easting": "529750",
   "northing": "185518",
-  "url": "http://www.holloway.islington.sch.uk",
+  "url": "http://www.beaconhigh.org",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.553636",
   "lng": "-0.12992305"

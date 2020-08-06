@@ -1,10 +1,10 @@
 {
   "urn": "133754",
-  "name": "The Smart Centre",
-  "address": "Canterbury Centre",
-  "locality": "Canterbury Road",
+  "name": "Canterbury Campus",
+  "address": "Canterbury Road",
+  "locality": "Morden",
   "address3": "",
-  "town": "Morden",
+  "town": "London",
   "county": "Surrey",
   "postcode": "SM4 6PT",
   "minimum_age": "5",
@@ -13,7 +13,7 @@
   "northing": "167107",
   "url": "",
   "phase": "Not applicable",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Pupil referral unit",
   "lat": "51.389035",
   "lng": "-0.19111521"

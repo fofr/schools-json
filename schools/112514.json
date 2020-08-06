@@ -2,7 +2,7 @@
   "urn": "112514",
   "name": "Wigley Primary School",
   "address": "Wigley",
-  "locality": "",
+  "locality": "Old Brampton",
   "address3": "",
   "town": "Chesterfield",
   "county": "Derbyshire",
@@ -13,7 +13,7 @@
   "northing": "371657",
   "url": "www.wigleyprimaryschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.241012",
   "lng": "-1.5299268"

@@ -1,6 +1,6 @@
 {
   "urn": "114149",
-  "name": "Wingate Infants' School",
+  "name": "Wingate Primary School",
   "address": "Church Street",
   "locality": "",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "440043",
   "northing": "537022",
-  "url": "",
+  "url": "www.wingateprimaryschool.durham.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.726600",
   "lng": "-1.3797762"

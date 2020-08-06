@@ -1,9 +1,9 @@
 {
   "urn": "118196",
-  "name": "St Saviour's Catholic Primary School",
+  "name": "Georgina Owrid",
   "address": "Summers Lane",
   "locality": "",
-  "address3": "",
+  "address3": "St. Saviours Rc Primary School",
   "town": "Totland Bay",
   "county": "Isle of Wight",
   "postcode": "PO39 0HQ",
@@ -13,7 +13,7 @@
   "northing": "86461",
   "url": "www.stsaviourspri.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "50.676904",
   "lng": "-1.5402810"

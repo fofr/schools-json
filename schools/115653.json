@@ -1,10 +1,10 @@
 {
   "urn": "115653",
   "name": "Temple Guiting Church of England School",
-  "address": "Temple Guiting",
-  "locality": "",
+  "address": "",
+  "locality": "Temple Guiting",
   "address3": "",
-  "town": "Cheltenham",
+  "town": "CHELTENHAM",
   "county": "Gloucestershire",
   "postcode": "GL54 5RW",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "227850",
   "url": "www.templeguiting.gloucs.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.949073",
   "lng": "-1.8706950"

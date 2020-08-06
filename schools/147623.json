@@ -1,0 +1,18 @@
+{
+  "urn": "147623",
+  "name": "Lepton CofE Primary Academy",
+  "address": "Station Road",
+  "locality": "Lepton",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD8 0DE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "418829",
+  "northing": "415334",
+  "url": "www.leptonschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

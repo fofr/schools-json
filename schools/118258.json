@@ -2,7 +2,7 @@
   "urn": "118258",
   "name": "Cecil Road Primary and Nursery School",
   "address": "Cecil Road",
-  "locality": "",
+  "locality": "Northfleet",
   "address3": "",
   "town": "Gravesend",
   "county": "Kent",
@@ -13,7 +13,7 @@
   "northing": "173124",
   "url": "www.cecilroad.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.433413",
   "lng": "0.35643471"

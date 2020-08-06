@@ -1,8 +1,8 @@
 {
   "urn": "116702",
   "name": "Ledbury Primary School",
-  "address": "Longacres",
-  "locality": "",
+  "address": "",
+  "locality": "Long Acres",
   "address3": "",
   "town": "Ledbury",
   "county": "Herefordshire",
@@ -13,7 +13,7 @@
   "northing": "237971",
   "url": "http://www.ledbury.hereford.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.039354",
   "lng": "-2.4299738"

@@ -1,0 +1,18 @@
+{
+  "urn": "146910",
+  "name": "Henry Chadwick Primary School",
+  "address": "School Lane",
+  "locality": "Hill Ridware",
+  "address3": "",
+  "town": "Rugeley",
+  "county": "Staffordshire",
+  "postcode": "WS15 3QN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "408279",
+  "northing": "317803",
+  "url": "www.henrychadwick.staffs.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

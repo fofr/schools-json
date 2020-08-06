@@ -3,7 +3,7 @@
   "name": "Morningside Primary School",
   "address": "Chatham Place",
   "locality": "Hackney",
-  "address3": "",
+  "address3": "Morningside Primary School",
   "town": "London",
   "county": "",
   "postcode": "E9 6LL",
@@ -13,7 +13,7 @@
   "northing": "184869",
   "url": "www.morningside.hackney.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.546504",
   "lng": "-0.050285228"

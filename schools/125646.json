@@ -1,7 +1,7 @@
 {
   "urn": "125646",
   "name": "Shottery St Andrew's CofE Primary School",
-  "address": "Hathaway Lane",
+  "address": "3 Hathaway Lane",
   "locality": "",
   "address3": "",
   "town": "Stratford-upon-Avon",
@@ -13,7 +13,7 @@
   "northing": "254622",
   "url": "http://www.shotterystandrewsprimary.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.189528",
   "lng": "-1.7282549"

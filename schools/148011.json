@@ -1,0 +1,18 @@
+{
+  "urn": "148011",
+  "name": "Colyton Primary Academy",
+  "address": "The Butts",
+  "locality": "West Street",
+  "address3": "",
+  "town": "Colyton",
+  "county": "Devon",
+  "postcode": "EX24 6NU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "324379",
+  "northing": "93889",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

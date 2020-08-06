@@ -1,9 +1,9 @@
 {
   "urn": "101564",
-  "name": "Newman Catholic College",
-  "address": "Harlesden Road",
-  "locality": "",
-  "address3": "",
+  "name": "Daniel Coyle",
+  "address": "Newman Catholic College",
+  "locality": "Brent",
+  "address3": "Newman Catholic College",
   "town": "London",
   "county": "",
   "postcode": "NW10 3RN",
@@ -13,7 +13,7 @@
   "northing": "183549",
   "url": "www.ncc.brent.sch.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.537621",
   "lng": "-0.23918846"

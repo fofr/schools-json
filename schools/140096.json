@@ -1,6 +1,6 @@
 {
   "urn": "140096",
-  "name": "Old Ford Primary School",
+  "name": "Old Ford Primary - A Paradigm Academy",
   "address": "Wrights Road",
   "locality": "Bow",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "536596",
   "northing": "183433",
-  "url": "www.oldfordacademy.paradigmtrust.org/",
+  "url": "www.oldfordacademy.paradigmtrust.org",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

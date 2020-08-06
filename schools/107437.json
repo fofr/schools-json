@@ -1,6 +1,6 @@
 {
   "urn": "107437",
-  "name": "Myrtle Park Primary School",
+  "name": "Myrtle Park Primary",
   "address": "Ash Terrace",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "438687",
   "url": "http://www.myrtleparkprimary.org",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "53.844316",
   "lng": "-1.8372629"

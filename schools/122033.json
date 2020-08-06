@@ -3,7 +3,7 @@
   "name": "Wilby Church of England Primary School",
   "address": "Church Lane",
   "locality": "",
-  "address3": "",
+  "address3": "Wilby Ce Va Primary School, Church Lane",
   "town": "Wilby",
   "county": "Northamptonshire",
   "postcode": "NN8 2UG",
@@ -13,7 +13,7 @@
   "northing": "266176",
   "url": "http://www.wilbyprimarynorthants.org",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "52.286898",
   "lng": "-0.73090099"

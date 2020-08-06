@@ -1,9 +1,9 @@
 {
   "urn": "108606",
   "name": "Ivy Road Primary School",
-  "address": "Ivy Road",
-  "locality": "Forest Hall",
-  "address3": "",
+  "address": "Ivy Road Primary School",
+  "locality": "Ivy Road",
+  "address3": "Forest Hall",
   "town": "Newcastle upon Tyne",
   "county": "Tyne and Wear",
   "postcode": "NE12 9AP",
@@ -13,7 +13,7 @@
   "northing": "569903",
   "url": "www.ivyroadprimary.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "55.022858",
   "lng": "-1.5567461"

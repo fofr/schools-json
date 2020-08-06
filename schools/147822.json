@@ -1,0 +1,18 @@
+{
+  "urn": "147822",
+  "name": "Cheddar First School",
+  "address": "Hillfield",
+  "locality": "The Hayes",
+  "address3": "",
+  "town": "Cheddar",
+  "county": "Somerset",
+  "postcode": "BS27 3HN",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "345596",
+  "northing": "153460",
+  "url": "cheddarfirstschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

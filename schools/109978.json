@@ -1,6 +1,6 @@
 {
   "urn": "109978",
-  "name": "Mortimer St John's C.E. Infant School",
+  "name": "Mortimer St. John's C.E. Infant School",
   "address": "West End Road",
   "locality": "Mortimer",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "7",
   "easting": "465359",
   "northing": "164536",
-  "url": "www.msj.w-berks.sch.uk",
+  "url": "www.mortimerschools.org",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.376125",
   "lng": "-1.0623500"

@@ -1,0 +1,18 @@
+{
+  "urn": "147144",
+  "name": "Westfield Infant School",
+  "address": "Vincent Crescent",
+  "locality": "Storrs Road",
+  "address3": "",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S40 3NW",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "435753",
+  "northing": "370810",
+  "url": "www.westfieldinfantschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

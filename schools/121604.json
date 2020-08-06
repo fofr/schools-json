@@ -1,8 +1,8 @@
 {
   "urn": "121604",
-  "name": "Bolton-on-Swale St Mary's CofE Primary School",
+  "name": "Bolton-On-Swale St Mary's CofE Primary School",
   "address": "Bolton-on-Swale",
-  "locality": "Scorton",
+  "locality": "",
   "address3": "",
   "town": "Richmond",
   "county": "North Yorkshire",
@@ -13,7 +13,7 @@
   "northing": "499751",
   "url": "http://www.bolton-on-swale.n-yorks.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "54.392624",
   "lng": "-1.6148921"

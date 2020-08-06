@@ -3,7 +3,7 @@
   "name": "Pennington Infant School",
   "address": "Priestlands Road",
   "locality": "Pennington",
-  "address3": "",
+  "address3": "Priestlands Road",
   "town": "Lymington",
   "county": "Hampshire",
   "postcode": "SO41 8HX",
@@ -13,7 +13,7 @@
   "northing": "95111",
   "url": "http://www.pennington-inf.hants.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.754757",
   "lng": "-1.5574380"

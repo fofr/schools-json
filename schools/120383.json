@@ -1,7 +1,7 @@
 {
   "urn": "120383",
   "name": "Nocton Community Primary School",
-  "address": "School Lane",
+  "address": "The Green",
   "locality": "Nocton",
   "address3": "",
   "town": "Lincoln",
@@ -13,7 +13,7 @@
   "northing": "364171",
   "url": "www.spiresfederation.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.164140",
   "lng": "-0.41759911"

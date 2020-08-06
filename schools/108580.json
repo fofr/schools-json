@@ -1,7 +1,7 @@
 {
   "urn": "108580",
   "name": "Backworth Park Primary School",
-  "address": "The Park",
+  "address": "Hotspur North",
   "locality": "Backworth",
   "address3": "",
   "town": "Newcastle-upon-Tyne",
@@ -13,7 +13,7 @@
   "northing": "572133",
   "url": "backworthpark.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "55.042800",
   "lng": "-1.5307990"

@@ -3,7 +3,7 @@
   "name": "Temple Sowerby CofE Primary School",
   "address": "Temple Sowerby",
   "locality": "",
-  "address3": "",
+  "address3": "Temple Sowerby Ce School",
   "town": "Penrith",
   "county": "Cumbria",
   "postcode": "CA10 1RZ",
@@ -13,7 +13,7 @@
   "northing": "527013",
   "url": "www.temp-sow.cumbria.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "54.636740",
   "lng": "-2.6019816"

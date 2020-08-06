@@ -1,9 +1,9 @@
 {
   "urn": "110813",
-  "name": "Great Gidding CofE Primary School",
+  "name": "Suki Hinton",
   "address": "Main Street",
   "locality": "Great Gidding",
-  "address3": "",
+  "address3": "Main Street, Great Gidding",
   "town": "Huntingdon",
   "county": "Cambridgeshire",
   "postcode": "PE28 5NX",
@@ -13,7 +13,7 @@
   "northing": "283144",
   "url": "www.greatgidding.cambs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.434867",
   "lng": "-0.35829484"

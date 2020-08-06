@@ -1,0 +1,18 @@
+{
+  "urn": "147574",
+  "name": "Paulet High School",
+  "address": "Violet Way",
+  "locality": "Stapenhill",
+  "address3": "",
+  "town": "Burton-on-Trent",
+  "county": "Staffordshire",
+  "postcode": "DE15 9RT",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "426018",
+  "northing": "321457",
+  "url": "http://www.paulet.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

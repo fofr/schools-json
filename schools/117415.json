@@ -1,7 +1,7 @@
 {
   "urn": "117415",
   "name": "Dewhurst St Mary CofE Primary School",
-  "address": "Churchgate",
+  "address": "94, Churchgate",
   "locality": "Cheshunt",
   "address3": "",
   "town": "Waltham Cross",
@@ -13,7 +13,7 @@
   "northing": "202574",
   "url": "http://www.dewhurst.herts.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.705667",
   "lng": "-0.047371701"

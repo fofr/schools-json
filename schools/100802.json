@@ -1,9 +1,9 @@
 {
   "urn": "100802",
   "name": "Lyndhurst Primary School",
-  "address": "Denmark House",
-  "locality": "Grove Lane",
-  "address3": "Camberwell",
+  "address": "Grove Lane",
+  "locality": "",
+  "address3": "",
   "town": "London",
   "county": "",
   "postcode": "SE5 8SN",
@@ -13,7 +13,7 @@
   "northing": "176333",
   "url": "www.lyndhurstweb.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.470366",
   "lng": "-0.088132934"

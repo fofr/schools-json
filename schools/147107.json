@@ -1,0 +1,18 @@
+{
+  "urn": "147107",
+  "name": "Woodthorpe CofE Primary School",
+  "address": "Seymour Lane",
+  "locality": "Woodthorpe",
+  "address3": "Mastin Moor",
+  "town": "Chesterfield",
+  "county": "Derbyshire",
+  "postcode": "S43 3DA",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "445148",
+  "northing": "374459",
+  "url": "www.woodthorpe.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

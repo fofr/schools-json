@@ -3,7 +3,7 @@
   "name": "Heald Place Primary School",
   "address": "Heald Place",
   "locality": "Rusholme",
-  "address3": "",
+  "address3": "Heald Place Primary School",
   "town": "Manchester",
   "county": "",
   "postcode": "M14 7PN",
@@ -13,7 +13,7 @@
   "northing": "395050",
   "url": "www.healdplace.manchester.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.451988",
   "lng": "-2.2294018"

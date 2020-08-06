@@ -1,11 +1,11 @@
 {
   "urn": "131945",
   "name": "New College Leicester",
-  "address": "Glenfield Road",
+  "address": "Greencoat Road",
   "locality": "",
   "address3": "",
   "town": "Leicester",
-  "county": "Leicestershire",
+  "county": "",
   "postcode": "LE3 6DN",
   "minimum_age": "11",
   "maximum_age": "18",
@@ -13,7 +13,7 @@
   "northing": "305316",
   "url": "www.newcollege.leicester.sch.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "52.642743",
   "lng": "-1.1794221"

@@ -2,7 +2,7 @@
   "urn": "122407",
   "name": "Bentinck Primary and Nursery School",
   "address": "Alfreton Road",
-  "locality": "",
+  "locality": "Hyson Green",
   "address3": "",
   "town": "Nottingham",
   "county": "Nottinghamshire",
@@ -13,7 +13,7 @@
   "northing": "340814",
   "url": "http://www.bentinckprimaryschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.961800",
   "lng": "-1.1709096"

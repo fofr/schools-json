@@ -3,7 +3,7 @@
   "name": "Flixton Primary School",
   "address": "Delamere Road",
   "locality": "Flixton",
-  "address3": "Urmston",
+  "address3": "",
   "town": "Manchester",
   "county": "",
   "postcode": "M41 5QL",
@@ -13,7 +13,7 @@
   "northing": "394884",
   "url": "www.flixtonprimaryschool.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.450116",
   "lng": "-2.3785815"

@@ -1,9 +1,9 @@
 {
   "urn": "112699",
   "name": "Fairfield Infant and Nursery School",
-  "address": "Bench Road",
-  "locality": "Fairfield",
-  "address3": "",
+  "address": "Fairfield Infant & Nursery School",
+  "locality": "Bench Road",
+  "address3": "Fairfield",
   "town": "Buxton",
   "county": "Derbyshire",
   "postcode": "SK17 7PQ",
@@ -13,7 +13,7 @@
   "northing": "373662",
   "url": "www.fairfieldinfantandnurseryschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.259918",
   "lng": "-1.8993285"

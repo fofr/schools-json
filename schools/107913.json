@@ -1,6 +1,6 @@
 {
   "urn": "107913",
-  "name": "Carr Manor Primary School",
+  "name": "Manor Wood Primary School Formally Carr Manor Primary School",
   "address": "Carr Manor Road",
   "locality": "Moortown",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "429591",
   "northing": "437748",
-  "url": "www.carrmanor-pri.leeds.sch.uk",
+  "url": "www.manorwoodps.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.835151",
   "lng": "-1.5518398"

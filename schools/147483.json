@@ -1,0 +1,18 @@
+{
+  "urn": "147483",
+  "name": "St Urban's Catholic Primary School, a Voluntary Academy",
+  "address": "Tongue Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS6 4QD",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "428941",
+  "northing": "438011",
+  "url": "www.sturbans.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

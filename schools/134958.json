@@ -2,7 +2,7 @@
   "urn": "134958",
   "name": "Mile Cross Primary School",
   "address": "Braiser Road",
-  "locality": "",
+  "locality": "Mile Cross",
   "address3": "",
   "town": "Norwich",
   "county": "Norfolk",
@@ -13,7 +13,7 @@
   "northing": "310991",
   "url": "www.milecrossprimary.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.651353",
   "lng": "1.2745018"

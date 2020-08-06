@@ -1,10 +1,10 @@
 {
   "urn": "119319",
-  "name": "Coupe Green Primary School",
+  "name": "Jenna Littlewood",
   "address": "Coupe Green",
   "locality": "Hoghton",
-  "address3": "",
-  "town": "Preston",
+  "address3": "Coupe Green Primary School",
+  "town": "Coupe Green",
   "county": "Lancashire",
   "postcode": "PR5 0JR",
   "minimum_age": "3",
@@ -13,7 +13,7 @@
   "northing": "427640",
   "url": "http://www.coupe.lancsngfl.ac.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.743540",
   "lng": "-2.6182938"

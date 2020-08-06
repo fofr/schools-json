@@ -3,7 +3,7 @@
   "name": "St Joseph's Catholic Primary School, Malmesbury",
   "address": "Holloway Hill",
   "locality": "",
-  "address3": "",
+  "address3": "Holloway",
   "town": "Malmesbury",
   "county": "Wiltshire",
   "postcode": "SN16 9BB",
@@ -13,7 +13,7 @@
   "northing": "187305",
   "url": "www.st-josephs-malmesbury.wilts.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.584563",
   "lng": "-2.0951800"

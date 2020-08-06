@@ -1,0 +1,18 @@
+{
+  "urn": "147374",
+  "name": "Brinsworth Howarth Primary School",
+  "address": "Whitehill Lane",
+  "locality": "Brinsworth",
+  "address3": "",
+  "town": "Rotherham",
+  "county": "South Yorkshire",
+  "postcode": "S60 5JR",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "442567",
+  "northing": "389145",
+  "url": "www.howarth.rotherham.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

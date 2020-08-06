@@ -1,0 +1,18 @@
+{
+  "urn": "146860",
+  "name": "Broomley First School",
+  "address": "Main Road",
+  "locality": "",
+  "address3": "",
+  "town": "Stocksfield",
+  "county": "Northumberland",
+  "postcode": "NE43 7NN",
+  "minimum_age": "5",
+  "maximum_age": "9",
+  "easting": "405782",
+  "northing": "561577",
+  "url": "http://www.broomley.northumberland.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

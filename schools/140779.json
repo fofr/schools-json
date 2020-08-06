@@ -1,6 +1,6 @@
 {
   "urn": "140779",
-  "name": "St Mary's Catholic Voluntary Primary Academy",
+  "name": "St Mary's Catholic Primary School",
   "address": "Tennyson Avenue",
   "locality": "Grangetown",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "455285",
   "northing": "520042",
-  "url": "www.st-marys.rac.sch.uk/",
+  "url": "https://stmarys.npcat.org.uk",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

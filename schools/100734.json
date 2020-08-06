@@ -1,6 +1,6 @@
 {
   "urn": "100734",
-  "name": "St Stephen's Church of England Primary School",
+  "name": "St Stephen's CofE Primary School",
   "address": "Albyn Road",
   "locality": "Deptford",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "176489",
   "url": "www.ststephensce.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.470717",
   "lng": "-0.024691634"

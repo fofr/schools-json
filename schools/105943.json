@@ -1,9 +1,9 @@
 {
   "urn": "105943",
   "name": "St Paul's CofE Primary School",
-  "address": "Cross Lane",
+  "address": "St Paul's Ce Primary School",
   "locality": "",
-  "address3": "",
+  "address3": "Cross Lane",
   "town": "Salford",
   "county": "Greater Manchester",
   "postcode": "M5 4AL",
@@ -13,7 +13,7 @@
   "northing": "398459",
   "url": "www.stpaulsceprimaryschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.482524",
   "lng": "-2.2791436"

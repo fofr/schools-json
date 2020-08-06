@@ -3,7 +3,7 @@
   "name": "St Michael's CofE Primary School",
   "address": "Dalston",
   "locality": "",
-  "address3": "",
+  "address3": "St. Michael's C.E. Primary School",
   "town": "Carlisle",
   "county": "Cumbria",
   "postcode": "CA5 7LN",
@@ -13,7 +13,7 @@
   "northing": "550337",
   "url": "www.st-michaels.cumbria.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "54.843865",
   "lng": "-2.9822549"

@@ -1,6 +1,6 @@
 {
   "urn": "113550",
-  "name": "St Luke's Science and Sports College",
+  "name": "St Luke's Church of England School",
   "address": "Harts Lane",
   "locality": "",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "16",
   "easting": "295660",
   "northing": "93514",
-  "url": "http://www.stlukescollege.co.uk",
+  "url": "https://stlukescofe.school/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "50.731841",
   "lng": "-3.4798171"

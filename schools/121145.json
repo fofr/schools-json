@@ -1,6 +1,6 @@
 {
   "urn": "121145",
-  "name": "All Saints Church of England VA Primary School",
+  "name": "All Saints Church of England Ceva Primary School Part of Flourish Federation",
   "address": "Fulmodeston Road",
   "locality": "Stibbard",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "598212",
   "northing": "328453",
-  "url": "www.stibbardallsaints.com/",
+  "url": "www.stibbardallsaints.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "52.817163",
   "lng": "0.93993152"

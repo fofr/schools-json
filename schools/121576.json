@@ -3,7 +3,7 @@
   "name": "Markington Church of England Primary & Nursery School",
   "address": "High Street",
   "locality": "Markington",
-  "address3": "Markington",
+  "address3": "",
   "town": "Harrogate",
   "county": "North Yorkshire",
   "postcode": "HG3 3NR",
@@ -13,7 +13,7 @@
   "northing": "464923",
   "url": "http://www.markington.n-yorks.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "54.079433",
   "lng": "-1.5623280"

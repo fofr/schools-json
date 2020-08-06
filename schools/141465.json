@@ -1,7 +1,7 @@
 {
   "urn": "141465",
   "name": "Clenchwarton Primary School",
-  "address": "Main Road",
+  "address": "139 Main Road",
   "locality": "Clenchwarton",
   "address3": "",
   "town": "King's Lynn",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "559147",
   "northing": "320282",
-  "url": "www.clenchwarton.norfolk.sch.uk/",
+  "url": "www.clenchwarton.norfolk.sch.uk",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

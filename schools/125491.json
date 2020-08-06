@@ -1,6 +1,6 @@
 {
   "urn": "125491",
-  "name": "Stockingford Early Years Centre & Library",
+  "name": "Stockingford Maintained Nursery School",
   "address": "St Paul's Road",
   "locality": "Stockingford",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "5",
   "easting": "433733",
   "northing": "291356",
-  "url": "www.stockingfordearlyyearscentreandlibrary.com",
+  "url": "www.stockingfordnurseryschool.co.uk",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "52.519047",
   "lng": "-1.5043003"

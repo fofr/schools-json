@@ -3,7 +3,7 @@
   "name": "St Anne's Catholic Primary School",
   "address": "Washington Road",
   "locality": "Caversham",
-  "address3": "",
+  "address3": "St Anne's School",
   "town": "Reading",
   "county": "Berkshire",
   "postcode": "RG4 5AA",
@@ -13,7 +13,7 @@
   "northing": "174832",
   "url": "www.st-annes.reading.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.467895",
   "lng": "-0.96592869"

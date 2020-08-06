@@ -3,7 +3,7 @@
   "name": "Fulford Primary School",
   "address": "Fulford Road",
   "locality": "Fulford",
-  "address3": "",
+  "address3": "Fulford Primary School",
   "town": "Stoke-on-Trent",
   "county": "Staffordshire",
   "postcode": "ST11 9QT",
@@ -13,7 +13,7 @@
   "northing": "337673",
   "url": "www.fulfordprimary.net",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.936431",
   "lng": "-2.0752588"

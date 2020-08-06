@@ -3,7 +3,7 @@
   "name": "Priory Primary School, Bicknacre",
   "address": "Bicknacre Road",
   "locality": "Bicknacre",
-  "address3": "",
+  "address3": "Priory Primary School",
   "town": "Chelmsford",
   "county": "Essex",
   "postcode": "CM3 4ES",
@@ -13,7 +13,7 @@
   "northing": "202948",
   "url": "http://www.priory.essex.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.696840",
   "lng": "0.58384392"

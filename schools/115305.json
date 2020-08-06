@@ -4,7 +4,7 @@
   "address": "Collingwood Road",
   "locality": "South Woodham Ferrers",
   "address3": "",
-  "town": "Chelmsford",
+  "town": "CHELMSFORD",
   "county": "Essex",
   "postcode": "CM3 5YJ",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "196860",
   "url": "www.collingwoodschool.net/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.641250",
   "lng": "0.62167380"

@@ -1,0 +1,18 @@
+{
+  "urn": "147239",
+  "name": "SET Maidstone",
+  "address": "Maidstone Road",
+  "locality": "",
+  "address3": "",
+  "town": "Felixstowe",
+  "county": "Suffolk",
+  "postcode": "IP11 9EG",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "629179",
+  "northing": "235230",
+  "url": "www.maidstoneandcaustonfed.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

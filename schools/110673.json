@@ -1,9 +1,9 @@
 {
   "urn": "110673",
-  "name": "Hauxton Primary School",
-  "address": "Jopling Way",
+  "name": "Emma-Jayne Stevens",
+  "address": "Hauxton",
   "locality": "Hauxton",
-  "address3": "",
+  "address3": "Jopling Way",
   "town": "Cambridge",
   "county": "Cambridgeshire",
   "postcode": "CB22 5HY",
@@ -13,7 +13,7 @@
   "northing": "251875",
   "url": "www.hauxtonprimary.org",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.146376",
   "lng": "0.10424356"

@@ -1,0 +1,18 @@
+{
+  "urn": "147376",
+  "name": "Tennyson Road Primary School",
+  "address": "Tennyson Road",
+  "locality": "",
+  "address3": "",
+  "town": "Luton",
+  "county": "Bedfordshire",
+  "postcode": "LU1 3RS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "509151",
+  "northing": "220324",
+  "url": "http://www.tennysonroad.luton.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

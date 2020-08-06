@@ -1,6 +1,6 @@
 {
   "urn": "122300",
-  "name": "Wark Church of England First School",
+  "name": "Wark Church of England Primary School",
   "address": "Wark",
   "locality": "",
   "address3": "",
@@ -8,12 +8,12 @@
   "county": "Northumberland",
   "postcode": "NE48 3LS",
   "minimum_age": "3",
-  "maximum_age": "9",
+  "maximum_age": "11",
   "easting": "386098",
   "northing": "576820",
   "url": "www.warkfirstschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "55.085623",
   "lng": "-2.2193201"

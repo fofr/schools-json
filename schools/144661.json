@@ -1,0 +1,18 @@
+{
+  "urn": "144661",
+  "name": "Peacehaven Community School",
+  "address": "Greenwich Way",
+  "locality": "",
+  "address3": "",
+  "town": "Peacehaven",
+  "county": "East Sussex",
+  "postcode": "BN10 8RB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "541262",
+  "northing": "101530",
+  "url": "http://www.phcs.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

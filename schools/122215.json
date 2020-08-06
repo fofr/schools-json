@@ -1,6 +1,6 @@
 {
   "urn": "122215",
-  "name": "Otterburn First School",
+  "name": "Otterburn Primary School",
   "address": "Otterburn",
   "locality": "",
   "address3": "",
@@ -8,12 +8,12 @@
   "county": "Tyne and Wear",
   "postcode": "NE19 1JF",
   "minimum_age": "3",
-  "maximum_age": "9",
+  "maximum_age": "11",
   "easting": "387470",
   "northing": "593760",
   "url": "www.otterburn.northumberland.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "55.237880",
   "lng": "-2.1985830"

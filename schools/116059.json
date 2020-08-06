@@ -3,7 +3,7 @@
   "name": "Potley Hill Primary School",
   "address": "Potley Hill Road",
   "locality": "",
-  "address3": "",
+  "address3": "Potley Hill Primary School",
   "town": "Yateley",
   "county": "Hampshire",
   "postcode": "GU46 6AG",
@@ -13,7 +13,7 @@
   "northing": "160210",
   "url": "http://www.potleyhill.hants.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.334923",
   "lng": "-0.80886476"

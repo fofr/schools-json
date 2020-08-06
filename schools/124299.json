@@ -3,7 +3,7 @@
   "name": "St Paul's CofE (C) Primary School",
   "address": "Garden Street",
   "locality": "",
-  "address3": "",
+  "address3": "St. Pauls C of E Cp School, Garden Street",
   "town": "Stafford",
   "county": "Staffordshire",
   "postcode": "ST17 4BT",
@@ -13,7 +13,7 @@
   "northing": "322489",
   "url": "www.st-pauls-stafford.staffs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.799907",
   "lng": "-2.1118349"

@@ -4,7 +4,7 @@
   "address": "Park Street",
   "locality": "",
   "address3": "",
-  "town": "Castle Cary",
+  "town": "CASTLE CARY",
   "county": "Somerset",
   "postcode": "BA7 7EH",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "132044",
   "url": "www.castlecaryschool.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.086572",
   "lng": "-2.5156633"

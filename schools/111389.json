@@ -1,6 +1,6 @@
 {
   "urn": "111389",
-  "name": "Witton Church Walk CofE Primary School",
+  "name": "Witton Church Walk CofE Aided Nursery and Primary School",
   "address": "Church Walk",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "373736",
   "url": "www.wittonchurchwalk.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.259549",
   "lng": "-2.5064439"

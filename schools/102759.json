@@ -3,7 +3,7 @@
   "name": "Ellen Wilkinson Primary School",
   "address": "Tollgate Road",
   "locality": "Beckton",
-  "address3": "",
+  "address3": "Ellen Wilkinson Primary School",
   "town": "London",
   "county": "",
   "postcode": "E6 5UP",
@@ -13,7 +13,7 @@
   "northing": "181658",
   "url": "www.ellenwilkinson.newham.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.516000",
   "lng": "0.045354821"

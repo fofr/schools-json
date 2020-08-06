@@ -1,6 +1,6 @@
 {
   "urn": "121049",
-  "name": "North Elmham Voluntary Controlled Primary School",
+  "name": "North Elmham CEVA Primary School part of Flourish Federation",
   "address": "Holt Road",
   "locality": "North Elmham",
   "address3": "",
@@ -13,8 +13,8 @@
   "northing": "321174",
   "url": "http://northelmhamschool.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
-  "detailed_type": "Voluntary controlled school",
+  "type": "Local authority maintained schools",
+  "detailed_type": "Voluntary aided school",
   "lat": "52.751638",
   "lng": "0.94264402"
 }

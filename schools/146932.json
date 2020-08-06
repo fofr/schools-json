@@ -1,0 +1,18 @@
+{
+  "urn": "146932",
+  "name": "Unsworth Primary School",
+  "address": "Blackley Close",
+  "locality": "Unsworth",
+  "address3": "",
+  "town": "Bury",
+  "county": "Lancashire",
+  "postcode": "BL9 8LY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "381477",
+  "northing": "406794",
+  "url": "www.unsworth-primary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

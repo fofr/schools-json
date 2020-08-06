@@ -1,0 +1,18 @@
+{
+  "urn": "147934",
+  "name": "Bosmere Community Primary School",
+  "address": "Quinton Road",
+  "locality": "Needham Market",
+  "address3": "",
+  "town": "Ipswich",
+  "county": "Suffolk",
+  "postcode": "IP6 8DA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "608536",
+  "northing": "254661",
+  "url": "www.bosmereprimary.net",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

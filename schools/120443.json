@@ -1,7 +1,7 @@
 {
   "urn": "120443",
   "name": "Bucknall Primary School",
-  "address": "Main Street",
+  "address": "Bucknall Primary School, Main Street",
   "locality": "Bucknall",
   "address3": "",
   "town": "Woodhall Spa",
@@ -13,7 +13,7 @@
   "northing": "368762",
   "url": "www.bucknallprimary.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.203005",
   "lng": "-0.24572099"

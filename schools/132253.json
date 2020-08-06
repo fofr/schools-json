@@ -2,7 +2,7 @@
   "urn": "132253",
   "name": "Seven Sisters Primary School",
   "address": "South Grove",
-  "locality": "",
+  "locality": "Tottenham",
   "address3": "",
   "town": "London",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "188826",
   "url": "www.sevensistersprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.582614",
   "lng": "-0.082255924"

@@ -1,6 +1,6 @@
 {
   "urn": "125021",
-  "name": "Godstone Village School",
+  "name": "Godstone Primary and Nursery School",
   "address": "Ivy Mill Lane",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "151416",
   "url": "www.godstoneschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.245981",
   "lng": "-0.069125738"

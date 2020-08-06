@@ -1,6 +1,6 @@
 {
   "urn": "117740",
-  "name": "Luddington and Garthorpe Primary School",
+  "name": "Luddington & Garthorpe Primary",
   "address": "High Street",
   "locality": "Luddington",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "417022",
   "url": "http://www.luddington-school.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.643161",
   "lng": "-0.74838245"

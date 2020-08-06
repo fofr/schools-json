@@ -1,7 +1,7 @@
 {
   "urn": "106142",
   "name": "St James' Catholic High School",
-  "address": "St James Way",
+  "address": "St James' Way",
   "locality": "Cheadle Hulme",
   "address3": "",
   "town": "Cheadle",
@@ -11,9 +11,9 @@
   "maximum_age": "16",
   "easting": "386902",
   "northing": "384794",
-  "url": "http://www.stjamescatholichighschool.org.uk/",
+  "url": "http://www.stjamescheadle.co.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.359857",
   "lng": "-2.1982689"

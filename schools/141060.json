@@ -1,7 +1,7 @@
 {
   "urn": "141060",
   "name": "Sitwell Junior School",
-  "address": "Grange Road",
+  "address": "Sitwell Junior School, Grange Road",
   "locality": "",
   "address3": "",
   "town": "Rotherham",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "444819",
   "northing": "391079",
-  "url": "www.sitwelljuniorschool.co.uk/",
+  "url": "www.sitwelljunior.uk",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

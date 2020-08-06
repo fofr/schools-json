@@ -1,0 +1,18 @@
+{
+  "urn": "146946",
+  "name": "Brettenham Primary School",
+  "address": "Brettenham Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "N18 2ET",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "534451",
+  "northing": "192789",
+  "url": "http://www.brettenhamprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

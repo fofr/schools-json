@@ -1,7 +1,7 @@
 {
   "urn": "120558",
   "name": "Swineshead St Mary's Church of England Primary School",
-  "address": "Abbey Road",
+  "address": "Swineshead St Mary's Primary School, Abbey Road",
   "locality": "Swineshead",
   "address3": "",
   "town": "Boston",
@@ -13,7 +13,7 @@
   "northing": "340261",
   "url": "www.suttertonswinesheadfederation.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.945390",
   "lng": "-0.15426834"

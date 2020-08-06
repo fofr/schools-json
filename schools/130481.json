@@ -1,6 +1,6 @@
 {
   "urn": "130481",
-  "name": "Solihull College",
+  "name": "Solihull College & University Centre",
   "address": "Blossomfield Campus",
   "locality": "Blossomfield Road",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "99",
   "easting": "414236",
   "northing": "279083",
-  "url": "",
+  "url": "www.solihull.ac.uk",
   "phase": "16 plus",
   "type": "Colleges",
   "detailed_type": "Further education",

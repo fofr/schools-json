@@ -1,6 +1,6 @@
 {
   "urn": "119131",
-  "name": "Ridge Community Primary School",
+  "name": "Castleview Primary School",
   "address": "Keswick Road",
   "locality": "",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "348552",
   "northing": "462226",
-  "url": "www.ridge.lancs.sch.uk/",
+  "url": "https://www.castleview.school/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.053410",
   "lng": "-2.7873546"

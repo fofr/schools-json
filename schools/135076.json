@@ -3,7 +3,7 @@
   "name": "Bewdley Primary School",
   "address": "Stourport Road",
   "locality": "",
-  "address3": "Bewdley Primary School",
+  "address3": "",
   "town": "Bewdley",
   "county": "Worcestershire",
   "postcode": "DY12 1BL",
@@ -13,7 +13,7 @@
   "northing": "275083",
   "url": "www.bewdleyprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.373395",
   "lng": "-2.3053031"

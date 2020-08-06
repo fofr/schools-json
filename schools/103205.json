@@ -1,6 +1,6 @@
 {
   "urn": "103205",
-  "name": "Grendon Junior and Infant School (NC)",
+  "name": "Grendon Primary School",
   "address": "Grendon Road",
   "locality": "Kings Heath",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "279321",
   "url": "http://www.grendon.bham.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.411832",
   "lng": "-1.8823742"

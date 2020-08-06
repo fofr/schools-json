@@ -3,7 +3,7 @@
   "name": "St Peter's Church of England Primary School",
   "address": "Moor Lane",
   "locality": "",
-  "address3": "",
+  "address3": "St. Peters C of E Primary School",
   "town": "Budleigh Salterton",
   "county": "Devon",
   "postcode": "EX9 6QF",
@@ -13,7 +13,7 @@
   "northing": "82626",
   "url": "www.st-peters-school.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "50.635692",
   "lng": "-3.3331773"

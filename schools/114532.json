@@ -1,8 +1,8 @@
 {
   "urn": "114532",
   "name": "Wadhurst CofE Primary School",
-  "address": "Sparrows Green",
-  "locality": "",
+  "address": "Sparrows Green Road",
+  "locality": "Sparrow Green",
   "address3": "",
   "town": "Wadhurst",
   "county": "East Sussex",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "563624",
   "northing": "132213",
-  "url": "http://wadhurst.myschoolsite.net/",
+  "url": "https://wadhurstpri.e-sussex.sch.uk/esussex/primary/wadhurst",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.065934",
   "lng": "0.33383737"

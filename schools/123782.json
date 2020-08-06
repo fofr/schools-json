@@ -1,8 +1,8 @@
 {
   "urn": "123782",
   "name": "Upton Noble CofE VC Primary School",
-  "address": "Upton Noble",
-  "locality": "",
+  "address": "Chapel Street",
+  "locality": "Upton Noble",
   "address3": "",
   "town": "Shepton Mallet",
   "county": "Somerset",
@@ -13,7 +13,7 @@
   "northing": "139299",
   "url": "www.uptonnoble.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.152223",
   "lng": "-2.4115500"

@@ -1,8 +1,8 @@
 {
   "urn": "102027",
   "name": "St John's CofE Primary School",
-  "address": "Theobalds Park Road",
-  "locality": "",
+  "address": "St Johns Ce Primary School",
+  "locality": "Theobalds Park Road",
   "address3": "",
   "town": "Enfield",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "198989",
   "url": "www.stjohnsprimarysch.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.674218",
   "lng": "-0.095397553"

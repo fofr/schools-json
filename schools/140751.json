@@ -1,6 +1,6 @@
 {
   "urn": "140751",
-  "name": "Saint Peter's Catholic Voluntary Academy",
+  "name": "St Peter's Catholic College",
   "address": "Normanby Road",
   "locality": "South Bank",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "16",
   "easting": "453771",
   "northing": "520248",
-  "url": "www.stoswalds.org",
+  "url": "https://stpeters.npcat.org.uk",
   "phase": "Secondary",
   "type": "Academies",
   "detailed_type": "Academy converter",

@@ -1,10 +1,10 @@
 {
   "urn": "123110",
-  "name": "St Kenelm's Church of England (VC) School",
+  "name": "Catherine Souch",
   "address": "Wenrisc Drive",
   "locality": "Minster Lovell",
-  "address3": "",
-  "town": "Witney",
+  "address3": "Wenrisc Drive",
+  "town": "Minster Lovell",
   "county": "Oxfordshire",
   "postcode": "OX29 0SP",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "210717",
   "url": "www.st-kenelms.oxon.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.794235",
   "lng": "-1.5479812"

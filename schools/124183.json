@@ -1,7 +1,7 @@
 {
   "urn": "124183",
   "name": "Gorsemoor Primary School",
-  "address": "Gorsemoor Road",
+  "address": "Gorsemoor School, Gorsemoor Road",
   "locality": "Heath Hayes",
   "address3": "",
   "town": "Cannock",
@@ -13,7 +13,7 @@
   "northing": "310251",
   "url": "www.gorsemoor.staffs.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.689946",
   "lng": "-1.9908882"

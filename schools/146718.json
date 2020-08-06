@@ -1,0 +1,18 @@
+{
+  "urn": "146718",
+  "name": "Meredith Infant School",
+  "address": "Portchester Road",
+  "locality": "North End",
+  "address3": "",
+  "town": "Portsmouth",
+  "county": "Hampshire",
+  "postcode": "PO2 7JB",
+  "minimum_age": "4",
+  "maximum_age": "7",
+  "easting": "465267",
+  "northing": "101877",
+  "url": "www.meredithinfantschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

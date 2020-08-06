@@ -1,7 +1,7 @@
 {
   "urn": "102591",
   "name": "St Paul's CofE Primary School, Kingston Hill",
-  "address": "Princes Road",
+  "address": "St Paul's C of E Primary School, Princes Road",
   "locality": "",
   "address3": "",
   "town": "Kingston upon Thames",
@@ -13,7 +13,7 @@
   "northing": "170090",
   "url": "http://www.stpaulskh.kingston.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.417294",
   "lng": "-0.28657261"

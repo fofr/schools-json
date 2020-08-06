@@ -1,10 +1,10 @@
 {
   "urn": "117394",
   "name": "Furneux Pelham Church of England School",
-  "address": "Furneux Pelham",
+  "address": "",
   "locality": "",
-  "address3": "",
-  "town": "Buntingford",
+  "address3": "Furneux Pelham School",
+  "town": "Furneux Pelham",
   "county": "Hertfordshire",
   "postcode": "SG9 0LH",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "227892",
   "url": "http://www.furneuxp.herts.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.931121",
   "lng": "0.081618971"

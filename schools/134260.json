@@ -1,7 +1,7 @@
 {
   "urn": "134260",
   "name": "The St Aubyn Centre Education Department",
-  "address": "The St Aubyn Centre",
+  "address": "St Aubyn Centre",
   "locality": "",
   "address3": "2 Boxted Road",
   "town": "Colchester",
@@ -13,7 +13,7 @@
   "northing": "228758",
   "url": "http://www.staubyn-centre.essex.sch.uk",
   "phase": "Not applicable",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Pupil referral unit",
   "lat": "51.921668",
   "lng": "0.89657848"

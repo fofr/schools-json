@@ -5,7 +5,7 @@
   "locality": "Erdington",
   "address3": "",
   "town": "Birmingham",
-  "county": "",
+  "county": "West Midlands",
   "postcode": "B23 6TY",
   "minimum_age": "5",
   "maximum_age": "11",
@@ -13,7 +13,7 @@
   "northing": "292147",
   "url": "www.osborneprimaryschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.527085",
   "lng": "-1.8382309"

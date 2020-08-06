@@ -5,7 +5,7 @@
   "locality": "",
   "address3": "",
   "town": "Wigan",
-  "county": "",
+  "county": "Lancashire",
   "postcode": "WN2 1QT",
   "minimum_age": "4",
   "maximum_age": "11",
@@ -13,7 +13,7 @@
   "northing": "407995",
   "url": "www.aspullchurch.wigan.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.567134",
   "lng": "-2.5846275"

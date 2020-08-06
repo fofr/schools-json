@@ -1,6 +1,6 @@
 {
   "urn": "123159",
-  "name": "Stanford in the Vale Church of England Primary School",
+  "name": "Stanford In the Vale CofE Primary School",
   "address": "High Street",
   "locality": "Stanford-in-the-Vale",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "193273",
   "url": "www.stanford.oxon.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.637218",
   "lng": "-1.5046044"

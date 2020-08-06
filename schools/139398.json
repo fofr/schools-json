@@ -1,7 +1,7 @@
 {
   "urn": "139398",
   "name": "Freshwaters Primary Academy",
-  "address": "Freshwaters",
+  "address": "School Lane",
   "locality": "",
   "address3": "",
   "town": "Harlow",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "545361",
   "northing": "210295",
-  "url": "www.freshwaters.essex.sch.uk",
+  "url": "http://www.freshwatersacademy.org/",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy sponsor led",

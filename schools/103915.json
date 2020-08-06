@@ -3,7 +3,7 @@
   "name": "Great Bridge Primary School",
   "address": "Mount Street",
   "locality": "Great Bridge",
-  "address3": "",
+  "address3": "Great Bridge Junior & Infant School",
   "town": "Tipton",
   "county": "West Midlands",
   "postcode": "DY4 7DE",
@@ -13,7 +13,7 @@
   "northing": "292814",
   "url": "www.greatbridgeprimary.ik.org/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.533185",
   "lng": "-2.0390667"

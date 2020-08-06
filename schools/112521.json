@@ -1,8 +1,8 @@
 {
   "urn": "112521",
   "name": "Buxton Junior School",
-  "address": "Mosley Road",
-  "locality": "",
+  "address": "Buxton Junior School",
+  "locality": "Mosley Road",
   "address3": "",
   "town": "Buxton",
   "county": "Derbyshire",
@@ -12,8 +12,8 @@
   "easting": "405893",
   "northing": "372645",
   "url": "http://www.buxtonjuniorschool.co.uk/",
-  "phase": "All through",
-  "type": "LA maintained schools",
+  "phase": "Primary",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.250787",
   "lng": "-1.9131383"

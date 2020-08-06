@@ -4,7 +4,7 @@
   "address": "Windermere Avenue",
   "locality": "",
   "address3": "",
-  "town": "St Albans",
+  "town": "St. Albans",
   "county": "Hertfordshire",
   "postcode": "AL1 5QP",
   "minimum_age": "5",
@@ -13,7 +13,7 @@
   "northing": "206389",
   "url": "http://www.windermere.herts.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.744018",
   "lng": "-0.30825073"

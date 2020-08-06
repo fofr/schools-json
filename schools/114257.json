@@ -1,10 +1,10 @@
 {
   "urn": "114257",
   "name": "Our Lady and St Thomas Roman Catholic Voluntary Aided Primary",
-  "address": "Cumberland Terrace",
-  "locality": "Willington",
+  "address": "Cumberland Terrace,",
+  "locality": "Willington,",
   "address3": "",
-  "town": "Crook",
+  "town": "Crook,",
   "county": "County Durham",
   "postcode": "DL15 0PB",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "535376",
   "url": "www.olst.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "54.713017",
   "lng": "-1.6978856"

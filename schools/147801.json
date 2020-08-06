@@ -1,0 +1,18 @@
+{
+  "urn": "147801",
+  "name": "St Mark's CofE School",
+  "address": "Bay Tree Road",
+  "locality": "",
+  "address3": "",
+  "town": "Bath",
+  "county": "Somerset",
+  "postcode": "BA1 6ND",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "375688",
+  "northing": "166711",
+  "url": "www.st-marks.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

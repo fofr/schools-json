@@ -2,7 +2,7 @@
   "urn": "100723",
   "name": "Holy Trinity Church of England Primary School",
   "address": "Dartmouth Road",
-  "locality": "",
+  "locality": "Forest Hill",
   "address3": "",
   "town": "London",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "172518",
   "url": "www.holytrinity.lewisham.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.435539",
   "lng": "-0.056510164"

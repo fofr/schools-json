@@ -1,7 +1,7 @@
 {
   "urn": "122191",
   "name": "Cramlington Eastlea Primary School",
-  "address": "Durham Road",
+  "address": "Skipton Close",
   "locality": "Northburn Lea",
   "address3": "",
   "town": "Cramlington",
@@ -13,7 +13,7 @@
   "northing": "578156",
   "url": "www.eastlea.northumberland.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "55.097095",
   "lng": "-1.5777228"

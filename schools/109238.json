@@ -3,7 +3,7 @@
   "name": "St Joseph's Catholic Primary School",
   "address": "Bristol Road",
   "locality": "",
-  "address3": "",
+  "address3": "Bristol Rd",
   "town": "Portishead",
   "county": "Somerset",
   "postcode": "BS20 6QB",
@@ -13,7 +13,7 @@
   "northing": "175511",
   "url": "www.st-josephs.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.476067",
   "lng": "-2.7639181"

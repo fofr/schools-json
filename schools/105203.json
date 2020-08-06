@@ -3,7 +3,7 @@
   "name": "St Mary's CofE Primary School, Deane",
   "address": "Edale Road",
   "locality": "Deane",
-  "address3": "",
+  "address3": "St Mary's CE Primary School",
   "town": "Bolton",
   "county": "Lancashire",
   "postcode": "BL3 4QP",
@@ -13,7 +13,7 @@
   "northing": "407820",
   "url": "www.st-marys-deane.bolton.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "53.566069",
   "lng": "-2.4693788"

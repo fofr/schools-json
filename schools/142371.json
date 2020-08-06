@@ -1,6 +1,6 @@
 {
   "urn": "142371",
-  "name": "St Edward's RC Primary School",
+  "name": "St Edward's Catholic Primary School",
   "address": "Eastbourne Road",
   "locality": "Linthorpe",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "449360",
   "northing": "518246",
-  "url": "www.stedwardsrc.eschools.co.uk",
+  "url": "https://stedwards.npcat.org.uk",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

@@ -1,6 +1,6 @@
 {
   "urn": "101045",
-  "name": "St Joseph's RC Primary School",
+  "name": "St Joseph's Catholic Primary and Nursery School",
   "address": "90 Oakhill Road",
   "locality": "",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "525119",
   "northing": "174894",
-  "url": "",
+  "url": "https://www.stjosephs.wandsworth.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.459204",
   "lng": "-0.20044850"

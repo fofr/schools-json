@@ -1,6 +1,6 @@
 {
   "urn": "109807",
-  "name": "Holly Spring Infant and Nursery School",
+  "name": "Holly Spring Primary School",
   "address": "Lily Hill Road",
   "locality": "",
   "address3": "",
@@ -8,12 +8,12 @@
   "county": "Berkshire",
   "postcode": "RG12 2SW",
   "minimum_age": "3",
-  "maximum_age": "7",
+  "maximum_age": "11",
   "easting": "488208",
   "northing": "169302",
-  "url": "www.hollyspringinfant.co.uk",
+  "url": "www.hollyspringprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.415883",
   "lng": "-0.73296170"

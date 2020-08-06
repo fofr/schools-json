@@ -3,7 +3,7 @@
   "name": "Gillibrand Primary School",
   "address": "Grosvenor Road",
   "locality": "",
-  "address3": "Grosvenor Road",
+  "address3": "",
   "town": "Chorley",
   "county": "Lancashire",
   "postcode": "PR7 2PJ",
@@ -13,7 +13,7 @@
   "northing": "416799",
   "url": "http://www.gillibrand.lancsngfl.ac.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.645970",
   "lng": "-2.6426573"

@@ -1,7 +1,7 @@
 {
   "urn": "105452",
   "name": "Irk Valley Community School",
-  "address": "10 Waterloo Street",
+  "address": "Waterloo Street",
   "locality": "Lower Crumpsall",
   "address3": "",
   "town": "Manchester",
@@ -13,7 +13,7 @@
   "northing": "401813",
   "url": "www.irkvalley.manchester.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.512789",
   "lng": "-2.2232461"

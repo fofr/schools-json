@@ -1,0 +1,18 @@
+{
+  "urn": "147068",
+  "name": "Castle Mead Academy",
+  "address": "31 St Augustine Road",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "",
+  "postcode": "LE3 5QU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "457911",
+  "northing": "304659",
+  "url": "https://www.castle-tmet.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

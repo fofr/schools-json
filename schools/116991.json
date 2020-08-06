@@ -1,9 +1,9 @@
 {
   "urn": "116991",
-  "name": "The Bishop of Hereford's Bluecoat School",
-  "address": "Hampton Dene Road",
+  "name": "Martin Henton",
+  "address": "Holme Lacy",
   "locality": "Tupsley",
-  "address3": "",
+  "address3": "Mears Croft",
   "town": "Hereford",
   "county": "Herefordshire",
   "postcode": "HR1 1UU",
@@ -13,7 +13,7 @@
   "northing": "240107",
   "url": "http://www.bhbs.hereford.sch.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "52.057361",
   "lng": "-2.6833264"

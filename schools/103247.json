@@ -1,6 +1,6 @@
 {
   "urn": "103247",
-  "name": "Redhill Junior and Infant School",
+  "name": "Redhill Primary School",
   "address": "Redhill Road",
   "locality": "Hay Mills",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "284986",
   "url": "www.redhill.bham.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.462701",
   "lng": "-1.8333299"

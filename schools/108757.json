@@ -3,7 +3,7 @@
   "name": "Broadway Junior School",
   "address": "Springwell Road",
   "locality": "",
-  "address3": "Springwell Road",
+  "address3": "",
   "town": "Sunderland",
   "county": "Tyne and Wear",
   "postcode": "SR4 8NW",
@@ -13,7 +13,7 @@
   "northing": "555662",
   "url": "www.broadwayjuniorschool.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.894349",
   "lng": "-1.4285455"

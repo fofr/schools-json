@@ -1,6 +1,6 @@
 {
   "urn": "119903",
-  "name": "The Latimer Primary School, Anstey",
+  "name": "The Latimer Primary School",
   "address": "Latimer Street",
   "locality": "Anstey",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "308465",
   "url": "www.latimerprimary.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.671104",
   "lng": "-1.1870396"

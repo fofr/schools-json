@@ -1,0 +1,18 @@
+{
+  "urn": "147563",
+  "name": "Rolvenden Primary School",
+  "address": "Hastings Road",
+  "locality": "Rolvenden",
+  "address3": "",
+  "town": "Cranbrook",
+  "county": "Kent",
+  "postcode": "TN17 4LS",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "584417",
+  "northing": "131221",
+  "url": "http://www.rolvenden.kent.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

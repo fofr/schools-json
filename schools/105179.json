@@ -1,6 +1,6 @@
 {
   "urn": "105179",
-  "name": "Lord Street Primary School",
+  "name": "Beacon Primary School",
   "address": "Lord Street",
   "locality": "Horwich",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "411875",
   "url": "www.lordstreetprimaryschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.602178",
   "lng": "-2.5489341"

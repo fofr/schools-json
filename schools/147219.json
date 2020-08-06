@@ -1,0 +1,18 @@
+{
+  "urn": "147219",
+  "name": "Blaise High School",
+  "address": "Station Road",
+  "locality": "Henbury",
+  "address3": "",
+  "town": "Bristol",
+  "county": "Bristol",
+  "postcode": "BS10 7QH",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "356283",
+  "northing": "179067",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -3,7 +3,7 @@
   "name": "Charlton Manor Primary School",
   "address": "Indus Road",
   "locality": "",
-  "address3": "",
+  "address3": "Charlton",
   "town": "London",
   "county": "",
   "postcode": "SE7 7EF",
@@ -13,7 +13,7 @@
   "northing": "177353",
   "url": "www.charltonmanorprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.477434",
   "lng": "0.036874854"

@@ -1,7 +1,7 @@
 {
   "urn": "135498",
   "name": "Sharley Park Community Primary School",
-  "address": "Pilsley Road",
+  "address": "Sharley Park Community Primary School Pilsley Road",
   "locality": "Danesmoor",
   "address3": "Clay Cross",
   "town": "Chesterfield",
@@ -13,7 +13,7 @@
   "northing": "363170",
   "url": "www.sharleypark.derbyshire.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.164156",
   "lng": "-1.4031952"

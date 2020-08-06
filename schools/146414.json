@@ -1,6 +1,6 @@
 {
   "urn": "146414",
-  "name": "Ruskin Juniors",
+  "name": "Ruskin Academy",
   "address": "Ruskin Avenue",
   "locality": "",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "487104",
   "northing": "267563",
-  "url": "",
+  "url": "http://www.ruskinprimary.net/",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy sponsor led",

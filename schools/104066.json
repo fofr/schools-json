@@ -1,7 +1,7 @@
 {
   "urn": "104066",
   "name": "Castle Bromwich Junior School",
-  "address": "Hurst Lane North",
+  "address": "Castle Bromwich Junior School Hurst Lane North",
   "locality": "Castle Bromwich",
   "address3": "",
   "town": "Birmingham",
@@ -13,7 +13,7 @@
   "northing": "289443",
   "url": "www.cbjs.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.502653",
   "lng": "-1.7645147"

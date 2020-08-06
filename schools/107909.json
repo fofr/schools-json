@@ -1,8 +1,8 @@
 {
   "urn": "107909",
   "name": "Bracken Edge Primary School",
-  "address": "Newton Road",
-  "locality": "",
+  "address": "Newton Garth",
+  "locality": "Off Newton Road",
   "address3": "",
   "town": "Leeds",
   "county": "West Yorkshire",
@@ -13,7 +13,7 @@
   "northing": "436131",
   "url": "www.brackenedge.leeds.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.820521",
   "lng": "-1.5267651"

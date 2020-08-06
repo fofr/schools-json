@@ -2,7 +2,7 @@
   "urn": "112270",
   "name": "Bridekirk Dovenby CofE Primary School",
   "address": "Dovenby",
-  "locality": "",
+  "locality": "Cumbria",
   "address3": "",
   "town": "Cockermouth",
   "county": "Cumbria",
@@ -13,7 +13,7 @@
   "northing": "533434",
   "url": "www.bridekirkdovenby.cumbria.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "54.687975",
   "lng": "-3.3892747"

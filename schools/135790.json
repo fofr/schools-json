@@ -1,9 +1,9 @@
 {
   "urn": "135790",
-  "name": "Bishop Hooper Church of England Primary",
-  "address": "Ashford Carbonel",
+  "name": "Bishop Hooper Church of England Primary School",
+  "address": "Shropshire",
   "locality": "",
-  "address3": "",
+  "address3": "Ashford Carbonel",
   "town": "Ludlow",
   "county": "Shropshire",
   "postcode": "SY8 4BX",
@@ -13,7 +13,7 @@
   "northing": "270976",
   "url": "www.bishophooper.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "52.334791",
   "lng": "-2.7001438"

@@ -1,6 +1,6 @@
 {
   "urn": "108008",
-  "name": "St Oswald's Church of England Primary School",
+  "name": "St. Oswald's CofE Primary School",
   "address": "The Green",
   "locality": "Guiseley",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "441883",
   "url": "www.stoswaldsleeds.org",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.872792",
   "lng": "-1.7061432"

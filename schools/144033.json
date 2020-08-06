@@ -1,6 +1,6 @@
 {
   "urn": "144033",
-  "name": "Hillcrest New Barn",
+  "name": "Hillcrest New Barn School",
   "address": "The Long Barn",
   "locality": "The Row",
   "address3": "Welford Estate West and East",
@@ -8,7 +8,7 @@
   "county": "Berkshire",
   "postcode": "RG20 8HZ",
   "minimum_age": "6",
-  "maximum_age": "16",
+  "maximum_age": "19",
   "easting": "441109",
   "northing": "173313",
   "url": "",

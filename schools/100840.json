@@ -4,7 +4,7 @@
   "address": "Redcross Way",
   "locality": "Southwark",
   "address3": "",
-  "town": "London",
+  "town": "LONDON",
   "county": "",
   "postcode": "SE1 1HG",
   "minimum_age": "3",
@@ -13,7 +13,7 @@
   "northing": "179937",
   "url": "http://www.cathedralprimaryschool.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.502871",
   "lng": "-0.093977219"

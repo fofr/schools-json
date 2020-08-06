@@ -1,0 +1,18 @@
+{
+  "urn": "147644",
+  "name": "Starcross Primary School",
+  "address": "New Road",
+  "locality": "",
+  "address3": "",
+  "town": "Exeter",
+  "county": "Devon",
+  "postcode": "EX6 8QD",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "297530",
+  "northing": "81636",
+  "url": "http://www.starcross-primary.devon.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

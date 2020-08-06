@@ -3,7 +3,7 @@
   "name": "St Paul's Nursery School",
   "address": "12 St Paul's Square",
   "locality": "",
-  "address3": "",
+  "address3": "12 St Paul's Square",
   "town": "York",
   "county": "North Yorkshire",
   "postcode": "YO24 4BD",
@@ -13,7 +13,7 @@
   "northing": "451376",
   "url": "www.stpaulsnurseryschool.co.uk",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "53.955106",
   "lng": "-1.1002847"

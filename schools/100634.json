@@ -4,7 +4,7 @@
   "address": "Hackford Road",
   "locality": "Stockwell",
   "address3": "",
-  "town": "London",
+  "town": "LONDON",
   "county": "",
   "postcode": "SW9 0EN",
   "minimum_age": "3",
@@ -13,7 +13,7 @@
   "northing": "177078",
   "url": "http://www.reay.lambeth.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.477503",
   "lng": "-0.11512410"

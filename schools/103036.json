@@ -1,8 +1,8 @@
 {
   "urn": "103036",
   "name": "Whitehall Primary School",
-  "address": "Normanton Park",
-  "locality": "Chingford",
+  "address": "90 Normanton Park",
+  "locality": "",
   "address3": "",
   "town": "London",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "193740",
   "url": "www.whitehallprimary.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.625237",
   "lng": "0.011341688"

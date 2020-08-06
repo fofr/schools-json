@@ -3,7 +3,7 @@
   "name": "Clore Tikva School",
   "address": "115 Fullwell Avenue",
   "locality": "Barkingside",
-  "address3": "",
+  "address3": "Clore Tikva School",
   "town": "Ilford",
   "county": "Essex",
   "postcode": "IG6 2JN",
@@ -13,7 +13,7 @@
   "northing": "190430",
   "url": "www.cloretikva.redbridge.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.594273",
   "lng": "0.080084611"

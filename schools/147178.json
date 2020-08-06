@@ -1,0 +1,18 @@
+{
+  "urn": "147178",
+  "name": "Grace College",
+  "address": "Saltwell Road South",
+  "locality": "",
+  "address3": "",
+  "town": "Gateshead",
+  "county": "",
+  "postcode": "NE9 6LE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "425343",
+  "northing": "559424",
+  "url": "https://www.gracecollege.org.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

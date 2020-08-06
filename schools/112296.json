@@ -3,7 +3,7 @@
   "name": "St Bridget's CofE School",
   "address": "Main Street",
   "locality": "Parton",
-  "address3": "",
+  "address3": "St Bridget's Ce School",
   "town": "Whitehaven",
   "county": "Cumbria",
   "postcode": "CA28 6NY",
@@ -13,7 +13,7 @@
   "northing": "520535",
   "url": "www.stbridgets-par.cumbria.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "54.569705",
   "lng": "-3.5799083"

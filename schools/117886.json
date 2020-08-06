@@ -3,7 +3,7 @@
   "name": "Martongate Primary School",
   "address": "Martongate",
   "locality": "",
-  "address3": "",
+  "address3": "Martongate Primary School",
   "town": "Bridlington",
   "county": "",
   "postcode": "YO16 6YD",
@@ -13,7 +13,7 @@
   "northing": "468545",
   "url": "www.martongateschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.099118",
   "lng": "-0.18638638"

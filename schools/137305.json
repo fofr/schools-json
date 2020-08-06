@@ -1,6 +1,6 @@
 {
   "urn": "137305",
-  "name": "St Ivo School",
+  "name": "St Ivo Academy",
   "address": "High Leys",
   "locality": "",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "18",
   "easting": "530564",
   "northing": "272046",
-  "url": "http://www.stivoschool.org/",
+  "url": "http://www.astreastivo.org/",
   "phase": "Secondary",
   "type": "Academies",
   "detailed_type": "Academy converter",

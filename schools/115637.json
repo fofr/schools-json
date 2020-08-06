@@ -4,7 +4,7 @@
   "address": "Nympsfield Road",
   "locality": "Nailsworth",
   "address3": "",
-  "town": "Stroud",
+  "town": "STROUD",
   "county": "Gloucestershire",
   "postcode": "GL6 0ET",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "200036",
   "url": "www.nailsworthschool.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.698835",
   "lng": "-2.2347154"

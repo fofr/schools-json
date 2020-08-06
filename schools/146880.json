@@ -1,0 +1,18 @@
+{
+  "urn": "146880",
+  "name": "Kinsale Junior School",
+  "address": "Kinsale Avenue",
+  "locality": "Hellesdon",
+  "address3": "",
+  "town": "Norwich",
+  "county": "Norfolk",
+  "postcode": "NR6 5SG",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "620519",
+  "northing": "312005",
+  "url": "www.kinsalejunior.norfolk.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

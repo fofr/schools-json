@@ -1,0 +1,18 @@
+{
+  "urn": "146677",
+  "name": "Warley Road Primary Academy",
+  "address": "Warley Road",
+  "locality": "",
+  "address3": "",
+  "town": "Halifax",
+  "county": "West Yorkshire",
+  "postcode": "HX1 3TG",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "407295",
+  "northing": "424561",
+  "url": "www.warleyroad.calderdale.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

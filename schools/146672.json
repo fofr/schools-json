@@ -1,0 +1,18 @@
+{
+  "urn": "146672",
+  "name": "Askern Moss Road Infant Academy",
+  "address": "Moss Road",
+  "locality": "Askern",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN6 0NE",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "456824",
+  "northing": "413625",
+  "url": "http://www.mossroad.doncaster.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

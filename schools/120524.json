@@ -1,8 +1,8 @@
 {
   "urn": "120524",
   "name": "The Gonerby Hill Foot Church of England Primary School",
-  "address": "Gonerby Hill Foot",
-  "locality": "",
+  "address": "Gonerby Road",
+  "locality": "Gonerby Hill Foot",
   "address3": "",
   "town": "Grantham",
   "county": "Lincolnshire",
@@ -13,7 +13,7 @@
   "northing": "337265",
   "url": "www.gonerbyhillfoot.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.925196",
   "lng": "-0.65663630"

@@ -1,6 +1,6 @@
 {
   "urn": "112924",
-  "name": "Youlgrave, All Saints' CofE Voluntary Aided Primary School",
+  "name": "Youlgrave, All Saints' CofE (VA) Primary School",
   "address": "Alport Lane",
   "locality": "Youlgrave",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "364412",
   "url": "www.youlgraveschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.176393",
   "lng": "-1.6832856"

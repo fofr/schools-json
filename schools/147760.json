@@ -1,0 +1,18 @@
+{
+  "urn": "147760",
+  "name": "Keyingham Primary School",
+  "address": "Russell Drive",
+  "locality": "Keyingham",
+  "address3": "",
+  "town": "Kingston-upon-Hull",
+  "county": "",
+  "postcode": "HU12 9RU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524931",
+  "northing": "425147",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

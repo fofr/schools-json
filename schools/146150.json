@@ -1,0 +1,18 @@
+{
+  "urn": "146150",
+  "name": "Red Oaks Primary School",
+  "address": "Redhouse Way",
+  "locality": "",
+  "address3": "",
+  "town": "Swindon",
+  "county": "Wiltshire",
+  "postcode": "SN25 2AN",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "412200",
+  "northing": "189500",
+  "url": "http://www.redoaks.org/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

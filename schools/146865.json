@@ -1,0 +1,18 @@
+{
+  "urn": "146865",
+  "name": "Raunds Park Infant School",
+  "address": "Park Street",
+  "locality": "Raunds",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN9 6NB",
+  "minimum_age": "5",
+  "maximum_age": "7",
+  "easting": "500094",
+  "northing": "272651",
+  "url": "http://www.raundsparkinfants.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

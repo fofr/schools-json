@@ -1,0 +1,18 @@
+{
+  "urn": "146792",
+  "name": "Marlborough Road Academy",
+  "address": "Dudley Street",
+  "locality": "",
+  "address3": "",
+  "town": "Salford",
+  "county": "Greater Manchester",
+  "postcode": "M7 4XD",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "383597",
+  "northing": "400869",
+  "url": "www.marlboroughroad.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,6 +1,6 @@
 {
   "urn": "104643",
-  "name": "St Austin's Catholic Primary School.",
+  "name": "St Austin's Catholic Primary School",
   "address": "Riverbank Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "385483",
   "url": "www.st-austins.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.362738",
   "lng": "-2.9108258"

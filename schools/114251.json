@@ -2,7 +2,7 @@
   "urn": "114251",
   "name": "Esh CofE (Aided) Primary School",
   "address": "Front Street",
-  "locality": "Esh Village",
+  "locality": "Esh",
   "address3": "",
   "town": "Durham",
   "county": "County Durham",
@@ -13,7 +13,7 @@
   "northing": "544071",
   "url": "www.esh.durham.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "54.791148",
   "lng": "-1.6948622"

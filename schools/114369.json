@@ -1,8 +1,8 @@
 {
   "urn": "114369",
   "name": "Middle Street Primary School",
-  "address": "Middle Street",
-  "locality": "",
+  "address": "37 Middle Street",
+  "locality": "Middle Street Primary School",
   "address3": "",
   "town": "Brighton",
   "county": "East Sussex",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "530907",
   "northing": "104052",
-  "url": "http://www.middlestreet.org",
+  "url": "www.middlestreet.brighton-hove.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.821223",
   "lng": "-0.14290971"

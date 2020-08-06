@@ -1,0 +1,18 @@
+{
+  "urn": "147008",
+  "name": "Roman Way Academy",
+  "address": "Burns Road",
+  "locality": "",
+  "address3": "",
+  "town": "Royston",
+  "county": "Hertfordshire",
+  "postcode": "SG8 5EQ",
+  "minimum_age": "3",
+  "maximum_age": "9",
+  "easting": "535550",
+  "northing": "241971",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

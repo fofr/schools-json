@@ -1,6 +1,6 @@
 {
   "urn": "121081",
-  "name": "Fleggburgh Church of England Voluntary Controlled Primary School",
+  "name": "Fleggburgh CofE Primary School",
   "address": "Main Road",
   "locality": "Fleggburgh",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "313993",
   "url": "www.fleggburghprimary.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.668382",
   "lng": "1.6170536"

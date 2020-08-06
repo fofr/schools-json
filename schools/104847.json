@@ -2,7 +2,7 @@
   "urn": "104847",
   "name": "Cambridge Nursery School",
   "address": "Cambridge Road",
-  "locality": "",
+  "locality": "Bootle",
   "address3": "",
   "town": "Bootle",
   "county": "Merseyside",
@@ -13,7 +13,7 @@
   "northing": "394839",
   "url": "www.cambridgenurseryschool.com",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "53.446281",
   "lng": "-2.9811957"

@@ -1,0 +1,18 @@
+{
+  "urn": "147285",
+  "name": "Bilborough College",
+  "address": "Bilborough Road",
+  "locality": "Bilborough",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG8 4DQ",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "451527",
+  "northing": "341318",
+  "url": "",
+  "phase": "16 plus",
+  "type": "Academies",
+  "detailed_type": "Academy 16-19 converter"
+}

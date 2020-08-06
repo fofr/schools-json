@@ -1,0 +1,18 @@
+{
+  "urn": "147800",
+  "name": "Whitchurch Primary School",
+  "address": "22 Bristol Road",
+  "locality": "Whitchurch",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS14 0PT",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "361276",
+  "northing": "167813",
+  "url": "www.whitchurchprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

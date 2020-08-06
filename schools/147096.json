@@ -1,0 +1,18 @@
+{
+  "urn": "147096",
+  "name": "Welbourne Primary Academy",
+  "address": "Goodwin Walk",
+  "locality": "Werrington",
+  "address3": "",
+  "town": "Peterborough",
+  "county": "Cambridgeshire",
+  "postcode": "PE4 6NR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "517355",
+  "northing": "303689",
+  "url": "www.wel.education",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

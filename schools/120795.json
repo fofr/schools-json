@@ -1,9 +1,9 @@
 {
   "urn": "120795",
   "name": "Caister Junior School",
-  "address": "Kingston Avenue",
-  "locality": "Caister-on-Sea",
-  "address3": "",
+  "address": "Caister Junior School",
+  "locality": "Kingston Avenue",
+  "address3": "Caister-on-Sea",
   "town": "Great Yarmouth",
   "county": "Norfolk",
   "postcode": "NR30 5ET",
@@ -13,7 +13,7 @@
   "northing": "312304",
   "url": "http://www.caisterjunior.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.649759",
   "lng": "1.7276455"

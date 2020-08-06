@@ -1,0 +1,18 @@
+{
+  "urn": "146948",
+  "name": "Marshland Primary Academy",
+  "address": "Marshland Road",
+  "locality": "Moorends",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN8 4SB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "469579",
+  "northing": "415108",
+  "url": "https://marshlandprimaryacademy.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

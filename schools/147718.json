@@ -1,0 +1,18 @@
+{
+  "urn": "147718",
+  "name": "Mapplewell Primary School",
+  "address": "Greenside Avenue",
+  "locality": "Staincross",
+  "address3": "",
+  "town": "Barnsley",
+  "county": "South Yorkshire",
+  "postcode": "S75 6BB",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "433247",
+  "northing": "410149",
+  "url": "http://www.mapplewellprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

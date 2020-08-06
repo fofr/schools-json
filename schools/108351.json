@@ -3,7 +3,7 @@
   "name": "Highfield Community Primary School",
   "address": "Whinfield Way",
   "locality": "",
-  "address3": "",
+  "address3": "Whinfield Way",
   "town": "Rowlands Gill",
   "county": "Tyne and Wear",
   "postcode": "NE39 2JE",
@@ -13,7 +13,7 @@
   "northing": "558478",
   "url": "www.highfieldprimarygateshead.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.920758",
   "lng": "-1.7588324"

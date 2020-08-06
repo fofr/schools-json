@@ -4,7 +4,7 @@
   "address": "Havering Road",
   "locality": "",
   "address3": "",
-  "town": "Romford",
+  "town": "Essex",
   "county": "Essex",
   "postcode": "RM1 4QX",
   "minimum_age": "7",
@@ -13,7 +13,7 @@
   "northing": "189989",
   "url": "http://www.parklands.havering.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.588617",
   "lng": "0.17334538"

@@ -3,7 +3,7 @@
   "name": "St John Bosco Roman Catholic Voluntary Aided Primary School",
   "address": "Bradford Avenue",
   "locality": "",
-  "address3": "Bradford Avenue",
+  "address3": "",
   "town": "Sunderland",
   "county": "Tyne and Wear",
   "postcode": "SR5 4JW",
@@ -13,7 +13,7 @@
   "northing": "559781",
   "url": "www.stjohnboscosunderland.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "54.931468",
   "lng": "-1.4511007"

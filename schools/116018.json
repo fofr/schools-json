@@ -1,9 +1,9 @@
 {
   "urn": "116018",
   "name": "Weyford Nursery and Primary School",
-  "address": "Mill Chase Road",
+  "address": "Weyford Nursery and Primary School",
   "locality": "",
-  "address3": "",
+  "address3": "Mill Chase Road",
   "town": "Bordon",
   "county": "Hampshire",
   "postcode": "GU35 0ET",
@@ -13,7 +13,7 @@
   "northing": "135674",
   "url": "www.weyfordprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.114698",
   "lng": "-0.84979449"

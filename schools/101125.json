@@ -1,6 +1,6 @@
 {
   "urn": "101125",
-  "name": "St Augustine's CofE Primary School",
+  "name": "St Augustines Federated Schools: CofE Primary School",
   "address": "Kilburn Park Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "183286",
   "url": "www.st-augustines-primary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.534532",
   "lng": "-0.19158201"

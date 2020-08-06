@@ -1,9 +1,9 @@
 {
   "urn": "105944",
   "name": "St Philip's CofE Primary School",
-  "address": "Barrow Street",
+  "address": "St. Philip's C.E. Primary School",
   "locality": "",
-  "address3": "",
+  "address3": "Barrow Street",
   "town": "Salford",
   "county": "Greater Manchester",
   "postcode": "M3 5LF",
@@ -13,7 +13,7 @@
   "northing": "398418",
   "url": "www.stphilipssalford.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.482192",
   "lng": "-2.2631232"

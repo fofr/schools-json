@@ -2,7 +2,7 @@
   "urn": "119320",
   "name": "Reedley Primary School",
   "address": "Reedley Road",
-  "locality": "Reedley",
+  "locality": "",
   "address3": "",
   "town": "Burnley",
   "county": "Lancashire",
@@ -13,7 +13,7 @@
   "northing": "435912",
   "url": "www.reedley.lancs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.819272",
   "lng": "-2.2256181"

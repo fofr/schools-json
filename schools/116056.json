@@ -3,7 +3,7 @@
   "name": "Liphook Infant School",
   "address": "Avenue Close",
   "locality": "The Avenue",
-  "address3": "",
+  "address3": "Liphook Infant School",
   "town": "Liphook",
   "county": "Hampshire",
   "postcode": "GU30 7QE",
@@ -13,7 +13,7 @@
   "northing": "131847",
   "url": "www.liphookinfantschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.079860",
   "lng": "-0.80747379"

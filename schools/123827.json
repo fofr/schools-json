@@ -1,8 +1,8 @@
 {
   "urn": "123827",
   "name": "Chewton Mendip Church of England VA Primary School",
-  "address": "Chewton Mendip",
-  "locality": "",
+  "address": "High Street",
+  "locality": "Chewton Mendip",
   "address3": "",
   "town": "Radstock",
   "county": "Somerset",
@@ -13,7 +13,7 @@
   "northing": "153124",
   "url": "www.chewtonmendipschool.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.275828",
   "lng": "-2.5790383"

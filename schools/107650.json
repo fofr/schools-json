@@ -3,7 +3,7 @@
   "name": "Kaye's First and Nursery School",
   "address": "Holmfield",
   "locality": "Clayton West",
-  "address3": "",
+  "address3": "Holmfield, Clayton West",
   "town": "Huddersfield",
   "county": "West Yorkshire",
   "postcode": "HD8 9LZ",
@@ -13,7 +13,7 @@
   "northing": "410867",
   "url": "www.kayesfirst.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.593746",
   "lng": "-1.6107368"

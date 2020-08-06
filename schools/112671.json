@@ -1,6 +1,6 @@
 {
   "urn": "112671",
-  "name": "William Rhodes Primary School",
+  "name": "William Rhodes Primary & Nursery School",
   "address": "Hunloke Avenue",
   "locality": "Boythorpe",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "370463",
   "url": "www.williamrhodes.derbyshire.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.229894",
   "lng": "-1.4405715"

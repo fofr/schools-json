@@ -3,7 +3,7 @@
   "name": "Dolphinholme Church of England Primary School",
   "address": "Dolphinholme",
   "locality": "",
-  "address3": "",
+  "address3": "Dolphinholme Primary School",
   "town": "Lancaster",
   "county": "Lancashire",
   "postcode": "LA2 9AN",
@@ -13,7 +13,7 @@
   "northing": "453555",
   "url": "http://www.dolphinholme.lancs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.975795",
   "lng": "-2.7370089"

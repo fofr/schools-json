@@ -2,7 +2,7 @@
   "urn": "103189",
   "name": "Colmore Infant and Nursery School",
   "address": "Colmore Road",
-  "locality": "",
+  "locality": "Kings Heath",
   "address3": "",
   "town": "Birmingham",
   "county": "West Midlands",
@@ -13,7 +13,7 @@
   "northing": "281116",
   "url": "www.colmoreinf.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.427985",
   "lng": "-1.8999794"

@@ -1,6 +1,6 @@
 {
   "urn": "117555",
-  "name": "Townsend CofE School",
+  "name": "Townsend Church of England",
   "address": "High Oaks",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "209661",
   "url": "http://www.townsend.herts.sch.uk/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.773934",
   "lng": "-0.34296304"

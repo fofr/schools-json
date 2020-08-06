@@ -1,8 +1,8 @@
 {
   "urn": "110407",
   "name": "Sherington Church of England School",
-  "address": "Sherington",
-  "locality": "",
+  "address": "School Lane",
+  "locality": "Sherington",
   "address3": "",
   "town": "Newport Pagnell",
   "county": "Buckinghamshire",
@@ -13,7 +13,7 @@
   "northing": "246567",
   "url": "www.sheringtonceschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.110241",
   "lng": "-0.69846590"

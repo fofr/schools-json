@@ -1,6 +1,6 @@
 {
   "urn": "101332",
-  "name": "St Agnes RC School",
+  "name": "St Agnes' Catholic Primary School",
   "address": "Thorverton Road",
   "locality": "Cricklewood",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "186126",
   "url": "http://stagnesrc.net/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.560365",
   "lng": "-0.21079825"

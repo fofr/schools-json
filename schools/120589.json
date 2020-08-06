@@ -3,7 +3,7 @@
   "name": "Bardney Church of England and Methodist Primary School",
   "address": "Henry Lane",
   "locality": "Bardney",
-  "address3": "",
+  "address3": "Bardney Cofe & Methodist Primary School",
   "town": "Lincoln",
   "county": "Lincolnshire",
   "postcode": "LN3 5XJ",
@@ -13,7 +13,7 @@
   "northing": "369663",
   "url": "http://www.bardneyschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "53.212144",
   "lng": "-0.31772564"

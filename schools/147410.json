@@ -1,0 +1,18 @@
+{
+  "urn": "147410",
+  "name": "Braunstone Frith Primary School",
+  "address": "Cuffling Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Leicester",
+  "county": "Leicestershire",
+  "postcode": "LE3 6NF",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454562",
+  "northing": "304847",
+  "url": "www.braunstonefrith.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

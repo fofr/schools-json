@@ -1,6 +1,6 @@
 {
   "urn": "104255",
-  "name": "St Francis of Assisi Catholic Technology College",
+  "name": "St Francis of Assisi Catholic College",
   "address": "Erdington Road",
   "locality": "Aldridge",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "300120",
   "url": "http://www.stfrancis.cc",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "52.598838",
   "lng": "-1.9115653"

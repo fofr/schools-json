@@ -3,7 +3,7 @@
   "name": "Red Rose Primary School",
   "address": "York Terrace",
   "locality": "",
-  "address3": "",
+  "address3": "Red  Rose Primary School",
   "town": "Chester le Street",
   "county": "County Durham",
   "postcode": "DH3 3NA",
@@ -13,7 +13,7 @@
   "northing": "550469",
   "url": "www.redroseprimaryschool.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.848270",
   "lng": "-1.5712755"

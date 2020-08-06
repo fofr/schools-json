@@ -1,0 +1,18 @@
+{
+  "urn": "146574",
+  "name": "Greenlands Primary School",
+  "address": "Green Street Green Road",
+  "locality": "Darenth",
+  "address3": "",
+  "town": "Dartford",
+  "county": "Kent",
+  "postcode": "DA2 8DH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "557498",
+  "northing": "170938",
+  "url": "www.greenlandsprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

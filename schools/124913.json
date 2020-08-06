@@ -3,7 +3,7 @@
   "name": "The Wharf Nursery School & Children's Centre",
   "address": "The Wharf",
   "locality": "Woolsack Way",
-  "address3": "",
+  "address3": "Woolsack Way",
   "town": "Godalming",
   "county": "Surrey",
   "postcode": "GU7 1JG",
@@ -13,7 +13,7 @@
   "northing": "143945",
   "url": "www.wharf.surrey.sch.uk",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "51.186436",
   "lng": "-0.60704746"

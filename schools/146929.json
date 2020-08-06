@@ -1,0 +1,18 @@
+{
+  "urn": "146929",
+  "name": "Warboys Primary Academy",
+  "address": "Humberdale Way",
+  "locality": "Warboys",
+  "address3": "",
+  "town": "Huntingdon",
+  "county": "Cambridgeshire",
+  "postcode": "PE28 2RX",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "530522",
+  "northing": "280432",
+  "url": "www.wpa.education",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

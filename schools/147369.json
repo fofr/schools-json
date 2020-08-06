@@ -1,0 +1,18 @@
+{
+  "urn": "147369",
+  "name": "Matthew Moss High School",
+  "address": "Matthew Moss Lane",
+  "locality": "Marland",
+  "address3": "",
+  "town": "Rochdale",
+  "county": "Lancashire",
+  "postcode": "OL11 3LU",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "387571",
+  "northing": "411702",
+  "url": "http://www.mmhs.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

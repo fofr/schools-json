@@ -3,7 +3,7 @@
   "name": "Kew Riverside Primary School",
   "address": "37 Courtlands Avenue",
   "locality": "",
-  "address3": "",
+  "address3": "37 Courtlands Avenue",
   "town": "Richmond",
   "county": "Surrey",
   "postcode": "TW9 4ES",
@@ -13,7 +13,7 @@
   "northing": "176433",
   "url": "www.kewriverside.richmond.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.474188",
   "lng": "-0.27665165"

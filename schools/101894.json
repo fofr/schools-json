@@ -3,7 +3,7 @@
   "name": "Dairy Meadow Primary School",
   "address": "Swift Road",
   "locality": "",
-  "address3": "",
+  "address3": "Dairy Meadow Primary School",
   "town": "Southall",
   "county": "Middlesex",
   "postcode": "UB2 4RP",
@@ -13,7 +13,7 @@
   "northing": "179361",
   "url": "www.dairymeadowprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.501897",
   "lng": "-0.37322170"

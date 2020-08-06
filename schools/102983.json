@@ -1,7 +1,7 @@
 {
   "urn": "102983",
   "name": "Beddington Infants' School",
-  "address": "Croydon Roa",
+  "address": "Croydon Road",
   "locality": "",
   "address3": "",
   "town": "Wallington",
@@ -11,9 +11,9 @@
   "maximum_age": "7",
   "easting": "529235",
   "northing": "164934",
-  "url": "",
+  "url": "https://www.beddingtoninfants.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.368771",
   "lng": "-0.14486344"

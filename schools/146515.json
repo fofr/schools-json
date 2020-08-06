@@ -1,0 +1,18 @@
+{
+  "urn": "146515",
+  "name": "The Galfrid School",
+  "address": "Galfrid Road",
+  "locality": "",
+  "address3": "",
+  "town": "Cambridge",
+  "county": "Cambridgeshire",
+  "postcode": "CB5 8ND",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "547834",
+  "northing": "258919",
+  "url": "",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

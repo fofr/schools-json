@@ -1,7 +1,7 @@
 {
   "urn": "106557",
   "name": "Burton Road Primary School",
-  "address": "Burton Road",
+  "address": "Old Mill",
   "locality": "",
   "address3": "",
   "town": "Barnsley",
@@ -13,7 +13,7 @@
   "northing": "407352",
   "url": "www.burtonroadprimary.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.561597",
   "lng": "-1.4667483"

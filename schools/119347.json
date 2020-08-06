@@ -3,7 +3,7 @@
   "name": "Morecambe and Heysham Westgate Primary School",
   "address": "Langridge Way",
   "locality": "Westgate",
-  "address3": "",
+  "address3": "Westgate Primary School",
   "town": "Morecambe",
   "county": "Lancashire",
   "postcode": "LA4 4XF",
@@ -13,7 +13,7 @@
   "northing": "463113",
   "url": "www.westgatesch.com/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.060875",
   "lng": "-2.8613190"

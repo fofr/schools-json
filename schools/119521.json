@@ -3,7 +3,7 @@
   "name": "Bolton-le-Sands Church of England Primary School",
   "address": "Mount Pleasant Lane",
   "locality": "Bolton-le-Sands",
-  "address3": "",
+  "address3": "Bolton-le-Sands School",
   "town": "Carnforth",
   "county": "Lancashire",
   "postcode": "LA5 8DT",
@@ -13,7 +13,7 @@
   "northing": "467879",
   "url": "www.blsschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "54.104215",
   "lng": "-2.7877206"

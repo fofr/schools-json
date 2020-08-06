@@ -1,0 +1,18 @@
+{
+  "urn": "147140",
+  "name": "Brooklands Primary School",
+  "address": "44 St. Johns Street",
+  "locality": "Long Eaton",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "",
+  "postcode": "NG10 1BW",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "448979",
+  "northing": "333007",
+  "url": "www.brooklands.derbyshire.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

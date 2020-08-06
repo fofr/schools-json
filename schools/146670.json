@@ -1,7 +1,7 @@
 {
   "urn": "146670",
   "name": "St John's Church of England Primary School",
-  "address": "James Street",
+  "address": "St Johns C of E Primary School, James Street",
   "locality": "Failsworth",
   "address3": "",
   "town": "Manchester",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "390081",
   "northing": "401388",
-  "url": "",
+  "url": "https://stjohns.oldham.sch.uk",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy sponsor led",

@@ -1,0 +1,18 @@
+{
+  "urn": "147368",
+  "name": "Beal Vale Primary School",
+  "address": "Salts Street",
+  "locality": "Shaw",
+  "address3": "",
+  "town": "Oldham",
+  "county": "Greater Manchester",
+  "postcode": "OL2 7SY",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "393687",
+  "northing": "409362",
+  "url": "www.bealvaleprimary.com",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "147509",
+  "name": "Ringshall School",
+  "address": "Offton Road",
+  "locality": "Ringshall",
+  "address3": "",
+  "town": "Stowmarket",
+  "county": "Suffolk",
+  "postcode": "IP14 2JD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "605062",
+  "northing": "251451",
+  "url": "http://www.ringshallschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

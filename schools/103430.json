@@ -1,6 +1,6 @@
 {
   "urn": "103430",
-  "name": "Our Lady of Lourdes Catholic Primary School (NC)",
+  "name": "Our Lady of Lourdes Catholic Primary School",
   "address": "Trittiford Road",
   "locality": "Yardley Wood",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "280480",
   "url": "http://www.ourladyoflourdesprimary.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "52.422227",
   "lng": "-1.8603187"

@@ -1,0 +1,18 @@
+{
+  "urn": "147016",
+  "name": "King Arthur's School",
+  "address": "West Hill",
+  "locality": "",
+  "address3": "",
+  "town": "Wincanton",
+  "county": "Somerset",
+  "postcode": "BA9 9BX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "370349",
+  "northing": "128572",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

@@ -1,0 +1,18 @@
+{
+  "urn": "147332",
+  "name": "Belvedere Infant School",
+  "address": "Mitchell Close",
+  "locality": "",
+  "address3": "",
+  "town": "Belvedere",
+  "county": "Kent",
+  "postcode": "DA17 6AA",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "549956",
+  "northing": "179092",
+  "url": "http://www.belvedereinfants.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

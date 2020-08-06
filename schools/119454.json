@@ -1,6 +1,6 @@
 {
   "urn": "119454",
-  "name": "St Anne's Church of England Primary School, Edgeside",
+  "name": "St Anne's Church of England Primary School",
   "address": "Ashworth Road",
   "locality": "Waterfoot",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "422965",
   "url": "www.st-anne-edgeside.lancs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.702860",
   "lng": "-2.2477156"

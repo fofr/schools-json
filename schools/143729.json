@@ -1,0 +1,18 @@
+{
+  "urn": "143729",
+  "name": "Didsbury High School",
+  "address": "4 The Avenue",
+  "locality": "Didsbury",
+  "address3": "",
+  "town": "Manchester",
+  "county": "",
+  "postcode": "M20 2ET",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "383442",
+  "northing": "392544",
+  "url": "www.didsburyhighschool.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

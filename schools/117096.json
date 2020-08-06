@@ -2,7 +2,7 @@
   "urn": "117096",
   "name": "Shepherd Primary",
   "address": "Shepherd's Lane",
-  "locality": "Mill End",
+  "locality": "",
   "address3": "",
   "town": "Rickmansworth",
   "county": "Hertfordshire",
@@ -13,7 +13,7 @@
   "northing": "194182",
   "url": "http://www.shepherd.herts.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.636807",
   "lng": "-0.49601317"

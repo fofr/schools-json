@@ -3,7 +3,7 @@
   "name": "Yeadon Westfield Junior School",
   "address": "New Road",
   "locality": "Yeadon",
-  "address3": "",
+  "address3": "New Road",
   "town": "Leeds",
   "county": "West Yorkshire",
   "postcode": "LS19 7HW",
@@ -13,7 +13,7 @@
   "northing": "440966",
   "url": "www.yeadonwestfield-jun.leeds.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "53.864532",
   "lng": "-1.6987197"

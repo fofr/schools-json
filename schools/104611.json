@@ -1,6 +1,6 @@
 {
   "urn": "104611",
-  "name": "Broadgreen Primary School",
+  "name": "Broadgreen Primary",
   "address": "Oakhill Road",
   "locality": "Old Swan",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "390908",
   "url": "http://www.broadgreenprimary.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "53.411518",
   "lng": "-2.9088290"

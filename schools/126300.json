@@ -3,7 +3,7 @@
   "name": "Bishopstone Church of England Primary School",
   "address": "Bishopstone",
   "locality": "",
-  "address3": "",
+  "address3": "Bishopstone Ce Primary",
   "town": "Swindon",
   "county": "Wiltshire",
   "postcode": "SN6 8PW",
@@ -13,7 +13,7 @@
   "northing": "183651",
   "url": "www.bishopstoneschool.org",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.551218",
   "lng": "-1.6471667"

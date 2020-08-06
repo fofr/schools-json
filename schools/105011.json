@@ -3,7 +3,7 @@
   "name": "Grove Street Primary School",
   "address": "Grove Street",
   "locality": "New Ferry",
-  "address3": "",
+  "address3": "Grove Street Primary School",
   "town": "Wirral",
   "county": "Merseyside",
   "postcode": "CH62 5BA",
@@ -13,7 +13,7 @@
   "northing": "385385",
   "url": "grovestreetprimaryschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.361138",
   "lng": "-3.0006211"

@@ -4,7 +4,7 @@
   "address": "Stackyard Lane",
   "locality": "Edgmond",
   "address3": "",
-  "town": "Newport",
+  "town": "Telford",
   "county": "Shropshire",
   "postcode": "TF10 8JQ",
   "minimum_age": "5",
@@ -13,7 +13,7 @@
   "northing": "319549",
   "url": "www.stpetersedgmond.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.772812",
   "lng": "-2.4126818"

@@ -2,7 +2,7 @@
   "urn": "102383",
   "name": "Harlyn Primary School",
   "address": "Tolcarne Drive",
-  "locality": "",
+  "locality": "Pinner",
   "address3": "",
   "town": "Middlesex",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "189845",
   "url": "http://www.harlyn.hillingdon.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.596572",
   "lng": "-0.40244227"

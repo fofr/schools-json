@@ -1,0 +1,18 @@
+{
+  "urn": "147149",
+  "name": "Hodthorpe Primary School",
+  "address": "Queen's Road",
+  "locality": "Hodthorpe",
+  "address3": "",
+  "town": "Worksop",
+  "county": "Nottinghamshire",
+  "postcode": "S80 4UT",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "454132",
+  "northing": "376491",
+  "url": "https://www.learnerstrust.org/hps",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

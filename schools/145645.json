@@ -1,0 +1,18 @@
+{
+  "urn": "145645",
+  "name": "Bleasby Church of England Primary School",
+  "address": "Station Road",
+  "locality": "Bleasby",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "Nottinghamshire",
+  "postcode": "NG14 7GD",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "470947",
+  "northing": "349759",
+  "url": "http://www.bleasbyprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

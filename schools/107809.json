@@ -3,7 +3,7 @@
   "name": "Guiseley Primary School",
   "address": "Oxford Road",
   "locality": "Guiseley",
-  "address3": "",
+  "address3": "Guiseley Primary School",
   "town": "Leeds",
   "county": "West Yorkshire",
   "postcode": "LS20 9DA",
@@ -13,7 +13,7 @@
   "northing": "442258",
   "url": "www.guiseleyprimary.org",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "53.876175",
   "lng": "-1.7110020"

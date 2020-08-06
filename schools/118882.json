@@ -1,6 +1,6 @@
 {
   "urn": "118882",
-  "name": "Aylesford School - Sports College",
+  "name": "Aylesford School",
   "address": "Teapot Lane",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "158307",
   "url": "http://www.aylesford.kent.sch.uk/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.297943",
   "lng": "0.46405309"

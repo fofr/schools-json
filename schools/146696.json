@@ -1,0 +1,18 @@
+{
+  "urn": "146696",
+  "name": "Colmers Farm Primary School",
+  "address": "Leybrook Road",
+  "locality": "Rubery",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B45 9PB",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "399992",
+  "northing": "277661",
+  "url": "www.colmersfarm.bham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

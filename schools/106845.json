@@ -2,7 +2,7 @@
   "urn": "106845",
   "name": "Kimberworth Community Primary School",
   "address": "Kimberworth Road",
-  "locality": "",
+  "locality": "Kimberworth",
   "address3": "",
   "town": "Rotherham",
   "county": "South Yorkshire",
@@ -13,7 +13,7 @@
   "northing": "393092",
   "url": "www.kimberworthprimary.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.433049",
   "lng": "-1.3891863"

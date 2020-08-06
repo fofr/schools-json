@@ -1,0 +1,18 @@
+{
+  "urn": "146481",
+  "name": "Stadhampton Primary School",
+  "address": "Cratlands Close",
+  "locality": "Stadhampton",
+  "address3": "",
+  "town": "Oxford",
+  "county": "Oxfordshire",
+  "postcode": "OX44 7XL",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "460189",
+  "northing": "198702",
+  "url": "www.stadhampton.oxon.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

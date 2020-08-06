@@ -3,7 +3,7 @@
   "name": "Holy Trinity VC School",
   "address": "Bank Top",
   "locality": "",
-  "address3": "",
+  "address3": "Bank Top",
   "town": "Darwen",
   "county": "Lancashire",
   "postcode": "BB3 2RW",
@@ -13,7 +13,7 @@
   "northing": "422149",
   "url": "http://www.holytrinitydarwen.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "53.694862",
   "lng": "-2.4693724"

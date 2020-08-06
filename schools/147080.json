@@ -1,0 +1,18 @@
+{
+  "urn": "147080",
+  "name": "Paxman Academy",
+  "address": "Paxman Avenue",
+  "locality": "",
+  "address3": "",
+  "town": "Colchester",
+  "county": "",
+  "postcode": "CO2 9DB",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "597602",
+  "northing": "223218",
+  "url": "www.paxmanacademy.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

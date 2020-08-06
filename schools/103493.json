@@ -5,7 +5,7 @@
   "locality": "",
   "address3": "",
   "town": "Birmingham",
-  "county": "West Midlands",
+  "county": "",
   "postcode": "B9 4TR",
   "minimum_age": "11",
   "maximum_age": "18",
@@ -13,7 +13,7 @@
   "northing": "287014",
   "url": "http://www.bordgrng.bham.sch.uk/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.480960",
   "lng": "-1.8541550"

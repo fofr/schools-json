@@ -1,0 +1,18 @@
+{
+  "urn": "143689",
+  "name": "New College Bradford",
+  "address": "Nelson Street",
+  "locality": "",
+  "address3": "",
+  "town": "Bradford",
+  "county": "West Yorkshire",
+  "postcode": "BD5 0DX",
+  "minimum_age": "16",
+  "maximum_age": "19",
+  "easting": "416419",
+  "northing": "432548",
+  "url": "https://ncbradford.ac.uk/",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

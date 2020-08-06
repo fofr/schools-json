@@ -3,7 +3,7 @@
   "name": "Windmill Hill Primary School",
   "address": "Windmill Hill",
   "locality": "",
-  "address3": "",
+  "address3": "Windmill Hill South",
   "town": "Runcorn",
   "county": "Cheshire",
   "postcode": "WA7 6QE",
@@ -13,7 +13,7 @@
   "northing": "382498",
   "url": "www.windmillhill.school",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.337503",
   "lng": "-2.6697869"

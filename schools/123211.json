@@ -3,7 +3,7 @@
   "name": "St Barnabas' Church of England Aided Primary School",
   "address": "Hart Street",
   "locality": "",
-  "address3": "",
+  "address3": "St Barnabas Primary Hart Street",
   "town": "Oxford",
   "county": "Oxfordshire",
   "postcode": "OX2 6BN",
@@ -13,7 +13,7 @@
   "northing": "206986",
   "url": "http://www.st-barnabas.oxon.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.759276",
   "lng": "-1.2672494"

@@ -3,7 +3,7 @@
   "name": "Hillfields Nursery School",
   "address": "Clifton Street",
   "locality": "Hillfields",
-  "address3": "Arnside Close",
+  "address3": "Arnside Close Entrance",
   "town": "Coventry",
   "county": "West Midlands",
   "postcode": "CV1 5GR",
@@ -13,7 +13,7 @@
   "northing": "279729",
   "url": "www.hillfieldscoventry.co.uk",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "52.414501",
   "lng": "-1.4997976"

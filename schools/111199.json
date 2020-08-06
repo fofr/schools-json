@@ -1,7 +1,7 @@
 {
   "urn": "111199",
   "name": "Lunts Heath Primary School",
-  "address": "Wedgwood Drive",
+  "address": "Wedgewood Drive",
   "locality": "",
   "address3": "",
   "town": "Widnes",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "351629",
   "northing": "388027",
-  "url": "",
+  "url": "www.luntsheathprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.386857",
   "lng": "-2.7287338"

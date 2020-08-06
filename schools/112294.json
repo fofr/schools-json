@@ -1,6 +1,6 @@
 {
   "urn": "112294",
-  "name": "Gosforth CofE School",
+  "name": "Gosforth CofE Primary School",
   "address": "Wasdale Road",
   "locality": "Gosforth",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "503516",
   "url": "http://www.gosforth.cumbria.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "54.418588",
   "lng": "-3.4315137"

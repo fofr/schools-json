@@ -1,0 +1,18 @@
+{
+  "urn": "146894",
+  "name": "Ovingham Middle School",
+  "address": "West Road",
+  "locality": "Ovingham",
+  "address3": "",
+  "town": "Prudhoe",
+  "county": "Northumberland",
+  "postcode": "NE42 6DE",
+  "minimum_age": "9",
+  "maximum_age": "13",
+  "easting": "408113",
+  "northing": "563472",
+  "url": "http://ovinghammiddleschool.net",
+  "phase": "Middle deemed secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

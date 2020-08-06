@@ -1,0 +1,18 @@
+{
+  "urn": "146902",
+  "name": "Chirton Church of England Primary School",
+  "address": "The Street",
+  "locality": "Chirton",
+  "address3": "",
+  "town": "Devizes",
+  "county": "Wiltshire",
+  "postcode": "SN10 3QS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "407296",
+  "northing": "157524",
+  "url": "www.chirtonschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

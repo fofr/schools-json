@@ -3,7 +3,7 @@
   "name": "Carswell Community Primary School",
   "address": "Bostock Road",
   "locality": "",
-  "address3": "",
+  "address3": "Carswell Primary School",
   "town": "Abingdon",
   "county": "Oxfordshire",
   "postcode": "OX14 1DP",
@@ -13,7 +13,7 @@
   "northing": "197076",
   "url": "www.carswell.oxon.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.670314",
   "lng": "-1.2904192"

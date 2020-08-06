@@ -1,9 +1,9 @@
 {
   "urn": "122268",
   "name": "Hareside Primary School",
-  "address": "Hareside",
-  "locality": "",
-  "address3": "",
+  "address": "Hareside Primary School",
+  "locality": "Hareside",
+  "address3": "Whitelea Glade",
   "town": "Cramlington",
   "county": "Northumberland",
   "postcode": "NE23 6BL",
@@ -13,7 +13,7 @@
   "northing": "576280",
   "url": "www.haresideprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "55.080276",
   "lng": "-1.5889585"

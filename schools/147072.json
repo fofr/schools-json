@@ -1,0 +1,18 @@
+{
+  "urn": "147072",
+  "name": "Trinity Academy",
+  "address": "Brangwyn Grove",
+  "locality": "Lockleaze",
+  "address3": "",
+  "town": "Bristol",
+  "county": "",
+  "postcode": "BS7 9BY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "360886",
+  "northing": "176659",
+  "url": "www.trinityacademybristol.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

@@ -3,7 +3,7 @@
   "name": "Ravenswood Community Primary School",
   "address": "Ravenswood Avenue",
   "locality": "",
-  "address3": "",
+  "address3": "Ravenswood Cp School, Ravenswood Avenue",
   "town": "Ipswich",
   "county": "Suffolk",
   "postcode": "IP3 9UA",
@@ -13,7 +13,7 @@
   "northing": "241603",
   "url": "http://www.ravenswoodcpschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.029476",
   "lng": "1.1947642"

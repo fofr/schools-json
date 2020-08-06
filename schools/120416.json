@@ -1,6 +1,6 @@
 {
   "urn": "120416",
-  "name": "Long Sutton Primary School",
+  "name": "Long Sutton County Primary School",
   "address": "Dick Turpin Way",
   "locality": "Long Sutton",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "323150",
   "url": "www.longsutton.lincs.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.787058",
   "lng": "0.11493359"

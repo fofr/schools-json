@@ -1,7 +1,7 @@
 {
   "urn": "121827",
   "name": "Helmdon Primary School",
-  "address": "Station Road",
+  "address": "21 Station Road",
   "locality": "Helmdon",
   "address3": "",
   "town": "Brackley",
@@ -13,7 +13,7 @@
   "northing": "243614",
   "url": "http://www.helmdonprimaryschool.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.087778",
   "lng": "-1.1455313"

@@ -1,6 +1,6 @@
 {
   "urn": "142822",
-  "name": "John O'gaunt School",
+  "name": "John O'Gaunt School",
   "address": "Priory Road",
   "locality": "",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "16",
   "easting": "433847",
   "northing": "167463",
-  "url": "",
+  "url": "www.johnogauntschool.co.uk",
   "phase": "Secondary",
   "type": "Academies",
   "detailed_type": "Academy sponsor led",

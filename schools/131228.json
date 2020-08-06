@@ -4,7 +4,7 @@
   "address": "Thorburn Road",
   "locality": "Norley Hall",
   "address3": "",
-  "town": "Wigan",
+  "town": "WIGAN",
   "county": "Lancashire",
   "postcode": "WN5 9LW",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "404902",
   "url": "www.saintcuthberts.wigan.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.538870",
   "lng": "-2.6725700"

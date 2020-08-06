@@ -3,7 +3,7 @@
   "name": "Caston Church of England Voluntary Aided Primary School",
   "address": "The Street",
   "locality": "Caston",
-  "address3": "",
+  "address3": "Caston Primary School",
   "town": "Attleborough",
   "county": "Norfolk",
   "postcode": "NR17 1DD",
@@ -13,7 +13,7 @@
   "northing": "298086",
   "url": "http://www.caston.norfolk.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "52.545617",
   "lng": "0.87738483"

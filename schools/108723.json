@@ -4,7 +4,7 @@
   "address": "Solway Road",
   "locality": "",
   "address3": "",
-  "town": "Hebburn",
+  "town": "HEBBURN",
   "county": "Tyne and Wear",
   "postcode": "NE31 2BP",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "563638",
   "url": "",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "54.966375",
   "lng": "-1.5087136"

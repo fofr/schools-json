@@ -1,0 +1,18 @@
+{
+  "urn": "147406",
+  "name": "St Weonard's Academy",
+  "address": "Mount Way",
+  "locality": "St Weonard's",
+  "address3": "",
+  "town": "Hereford",
+  "county": "Herefordshire",
+  "postcode": "HR2 8NU",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "349552",
+  "northing": "224329",
+  "url": "www.stweonards.hmfa.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

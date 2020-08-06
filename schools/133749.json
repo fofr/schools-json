@@ -3,7 +3,7 @@
   "name": "Northgate School",
   "address": "Edgware Community Hospital",
   "locality": "Burnt Oak Broadway",
-  "address3": "",
+  "address3": "Northgate School, Edgware Community Hospital",
   "town": "Edgware",
   "county": "Middlesex",
   "postcode": "HA8 0AD",
@@ -13,7 +13,7 @@
   "northing": "191079",
   "url": "www.northgateschool.net",
   "phase": "Not applicable",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Pupil referral unit",
   "lat": "51.605819",
   "lng": "-0.27187433"

@@ -2,7 +2,7 @@
   "urn": "108608",
   "name": "Denbigh Community Primary School",
   "address": "Denbigh Avenue",
-  "locality": "Howden",
+  "locality": "Howdon",
   "address3": "",
   "town": "Wallsend",
   "county": "Tyne and Wear",
@@ -13,7 +13,7 @@
   "northing": "567400",
   "url": "www.denbighps.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "55.000134",
   "lng": "-1.4970147"

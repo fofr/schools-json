@@ -1,7 +1,7 @@
 {
   "urn": "111143",
   "name": "Vine Tree Primary School",
-  "address": "Danebank Avenue",
+  "address": "Dane Bank Avenue",
   "locality": "",
   "address3": "",
   "town": "Crewe",
@@ -13,7 +13,7 @@
   "northing": "354482",
   "url": "www.vinetree.cheshire.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.086671",
   "lng": "-2.4579775"

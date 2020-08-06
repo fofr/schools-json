@@ -1,6 +1,6 @@
 {
   "urn": "106376",
-  "name": "Blessed Thomas Holford Catholic College.",
+  "name": "Blessed Thomas Holford Catholic College",
   "address": "Urban Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "387902",
   "url": "http://www.bthcc.org.uk/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.387471",
   "lng": "-2.3409779"

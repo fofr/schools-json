@@ -1,0 +1,18 @@
+{
+  "urn": "145624",
+  "name": "Sacred Heart Primary School",
+  "address": "Convent Road",
+  "locality": "Fenham",
+  "address3": "",
+  "town": "Newcastle-upon-Tyne",
+  "county": "Tyne and Wear",
+  "postcode": "NE4 9XZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "421889",
+  "northing": "565447",
+  "url": "www.shprimary.org.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

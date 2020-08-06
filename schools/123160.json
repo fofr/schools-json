@@ -1,6 +1,6 @@
 {
   "urn": "123160",
-  "name": "St Michael's Church of England Primary School, Steventon",
+  "name": "St Michaels CofE Primary School",
   "address": "The Causeway",
   "locality": "Steventon",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "191795",
   "url": "www.stmichaelssteventon.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.623042",
   "lng": "-1.3264320"

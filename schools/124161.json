@@ -1,9 +1,9 @@
 {
   "urn": "124161",
   "name": "Willows Primary School",
-  "address": "Anglesey Road",
+  "address": "Willows Primary School",
   "locality": "Off Weston Road",
-  "address3": "",
+  "address3": "Anglesey Road",
   "town": "Lichfield",
   "county": "Staffordshire",
   "postcode": "WS13 7NU",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "411714",
   "northing": "310806",
-  "url": "www.staffordshire.gov.uk/",
+  "url": "www.willows.staffs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.694811",
   "lng": "-1.8281134"

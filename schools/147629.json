@@ -1,0 +1,18 @@
+{
+  "urn": "147629",
+  "name": "Hillside Primary School",
+  "address": "Headfield Road",
+  "locality": "Newsome",
+  "address3": "",
+  "town": "Huddersfield",
+  "county": "West Yorkshire",
+  "postcode": "HD4 6LU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "414472",
+  "northing": "415070",
+  "url": "https://www.hillsideprimaryschool.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

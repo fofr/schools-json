@@ -2,7 +2,7 @@
   "urn": "134681",
   "name": "North Harringay Primary School",
   "address": "Falkland Road",
-  "locality": "",
+  "locality": "Hornsey",
   "address3": "",
   "town": "London",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "189139",
   "url": "www.northharringayprimaryschool.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.585808",
   "lng": "-0.10559290"

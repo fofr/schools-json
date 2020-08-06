@@ -1,7 +1,7 @@
 {
   "urn": "104667",
   "name": "St Vincent de Paul Catholic Primary School",
-  "address": "Pitt Street",
+  "address": "St Vincent de Paul Catholic Primary School      Pitt Street",
   "locality": "",
   "address3": "",
   "town": "Liverpool",
@@ -13,7 +13,7 @@
   "northing": "389671",
   "url": "www.stvincentdepaulprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.399818",
   "lng": "-2.9822168"

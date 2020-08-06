@@ -4,7 +4,7 @@
   "address": "Priory Chase",
   "locality": "",
   "address3": "",
-  "town": "Rayleigh",
+  "town": "RAYLEIGH",
   "county": "Essex",
   "postcode": "SS6 9NE",
   "minimum_age": "5",
@@ -13,7 +13,7 @@
   "northing": "192428",
   "url": "www.canewdonstnicholasfederation.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.601983",
   "lng": "0.59504732"

@@ -1,0 +1,18 @@
+{
+  "urn": "146430",
+  "name": "Hollinhey Primary School",
+  "address": "Bell Avenue",
+  "locality": "Sutton Lane Ends",
+  "address3": "",
+  "town": "Macclesfield",
+  "county": "Cheshire",
+  "postcode": "SK11 0EE",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "392710",
+  "northing": "371097",
+  "url": "http://www.hollinhey.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

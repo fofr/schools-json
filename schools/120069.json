@@ -2,7 +2,7 @@
   "urn": "120069",
   "name": "Eyres Monsell Primary School",
   "address": "Simmins Crescent",
-  "locality": "",
+  "locality": "Eyres Monsell",
   "address3": "",
   "town": "Leicester",
   "county": "Leicestershire",
@@ -13,7 +13,7 @@
   "northing": "299707",
   "url": "www.eyresmonsell.leicester.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.592112",
   "lng": "-1.1501796"

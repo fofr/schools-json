@@ -1,9 +1,9 @@
 {
   "urn": "116173",
-  "name": "Peel Common Infant School and Nursery Unit",
-  "address": "The Drive",
+  "name": "Lesley Spicer",
+  "address": "Peel Common Infant School and Nursery Unit - the Drive",
   "locality": "Rowner",
-  "address3": "",
+  "address3": "Peel Common Infant School and Nursery Unit (Peel Common Infant School and Nursery Unit - the Drive)",
   "town": "Gosport",
   "county": "Hampshire",
   "postcode": "PO13 0QD",
@@ -13,7 +13,7 @@
   "northing": "102750",
   "url": "www.peelcommoninfantschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.821440",
   "lng": "-1.1841779"

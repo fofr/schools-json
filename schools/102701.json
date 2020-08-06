@@ -1,9 +1,9 @@
 {
   "urn": "102701",
   "name": "Kay Rowe Nursery School",
-  "address": "Osborne Road",
+  "address": "Forest Gate",
   "locality": "Forest Gate",
-  "address3": "",
+  "address3": "Osborne Road",
   "town": "London",
   "county": "",
   "postcode": "E7 0PH",
@@ -13,7 +13,7 @@
   "northing": "185236",
   "url": "www.kayrowe.newham.sch.uk",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "51.548507",
   "lng": "0.026244599"

@@ -1,6 +1,6 @@
 {
   "urn": "117466",
-  "name": "St Teresa Roman Catholic Primary School",
+  "name": "St Teresa Catholic Primary School",
   "address": "Brook Road",
   "locality": "",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "519694",
   "northing": "197128",
-  "url": "http://www.stteresas.herts.sch.uk/",
+  "url": "http://www.stteresas.herts.sch.uk.",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.660199",
   "lng": "-0.27093408"

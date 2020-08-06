@@ -1,6 +1,6 @@
 {
   "urn": "116312",
-  "name": "Ropley Church of England Primary School",
+  "name": "Ropley CofE Primary School",
   "address": "Church Street",
   "locality": "Ropley",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "131933",
   "url": "www.ropleyprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.083106",
   "lng": "-1.0813621"

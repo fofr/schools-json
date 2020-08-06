@@ -1,0 +1,18 @@
+{
+  "urn": "146870",
+  "name": "Belmont Academy",
+  "address": "Belmont Road",
+  "locality": "",
+  "address3": "",
+  "town": "Erith",
+  "county": "Kent",
+  "postcode": "DA8 1LE",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "549142",
+  "northing": "177070",
+  "url": "www.belmont.bexley.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

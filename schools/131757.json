@@ -2,7 +2,7 @@
   "urn": "131757",
   "name": "Park View School",
   "address": "252 West Green Road",
-  "locality": "",
+  "locality": "Tottenham",
   "address3": "",
   "town": "London",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "189320",
   "url": "www.parkview.haringey.sch.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.587192",
   "lng": "-0.090565691"

@@ -2,7 +2,7 @@
   "urn": "125653",
   "name": "All Saints CofE Primary School and Nursery, Nuneaton",
   "address": "Knebley Crescent",
-  "locality": "",
+  "locality": "Hilltop",
   "address3": "",
   "town": "Nuneaton",
   "county": "Warwickshire",
@@ -13,7 +13,7 @@
   "northing": "290247",
   "url": "www.allsaintsceprimaryschoolandnursery.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.508913",
   "lng": "-1.4664892"

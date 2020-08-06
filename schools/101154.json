@@ -1,6 +1,6 @@
 {
   "urn": "101154",
-  "name": "St Augustine's CofE High School",
+  "name": "St Augustine's Federated Schools: CE High School",
   "address": "Oxford Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "183256",
   "url": "http://www.stahigh.org",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.534275",
   "lng": "-0.19244287"

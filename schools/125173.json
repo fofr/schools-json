@@ -1,6 +1,6 @@
 {
   "urn": "125173",
-  "name": "St Jude's Church of England Junior School (VA)",
+  "name": "St Jude's Church of England Junior School",
   "address": "Bagshot Road",
   "locality": "Englefield Green",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "170603",
   "url": "http://www.stjudes.surrey.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.425752",
   "lng": "-0.57361975"

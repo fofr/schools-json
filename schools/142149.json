@@ -1,7 +1,7 @@
 {
   "urn": "142149",
   "name": "Leamington Hastings Church of England Academy",
-  "address": "Birdingbury Road Hill",
+  "address": "Birdingbury Road,  Hill",
   "locality": "Leamington Hastings",
   "address3": "",
   "town": "Rugby",
@@ -11,7 +11,7 @@
   "maximum_age": "7",
   "easting": "445270",
   "northing": "267033",
-  "url": "",
+  "url": "www.leamingtonhastings.covmat.org",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

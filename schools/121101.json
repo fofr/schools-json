@@ -2,7 +2,7 @@
   "urn": "121101",
   "name": "Parker's Church of England Primary School",
   "address": "Pound Hill",
-  "locality": "Saham Toney",
+  "locality": "",
   "address3": "",
   "town": "Thetford",
   "county": "Norfolk",
@@ -13,7 +13,7 @@
   "northing": "302184",
   "url": "www.parkers.norfolk.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.584263",
   "lng": "0.80267277"

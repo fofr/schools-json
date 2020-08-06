@@ -3,7 +3,7 @@
   "name": "Keldmarsh Primary School",
   "address": "Woodmansey Mile",
   "locality": "",
-  "address3": "",
+  "address3": "Address - First Line",
   "town": "Beverley",
   "county": "",
   "postcode": "HU17 8FF",
@@ -13,7 +13,7 @@
   "northing": "438559",
   "url": "www.keldmarshprimaryschool.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.833009",
   "lng": "-0.43019678"

@@ -1,6 +1,6 @@
 {
   "urn": "105404",
-  "name": "Chapel Street Primary School",
+  "name": "Chapel Street Community Primary School",
   "address": "Chapel Street",
   "locality": "Levenshulme",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "394081",
   "url": "www.chapelstreetprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.443355",
   "lng": "-2.1855148"

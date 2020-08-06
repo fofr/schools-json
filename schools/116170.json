@@ -1,7 +1,7 @@
 {
   "urn": "116170",
   "name": "Grange Junior School",
-  "address": "Franklin Road",
+  "address": "Grange Junior School, Franklin Road",
   "locality": "Rowner",
   "address3": "",
   "town": "Gosport",
@@ -13,7 +13,7 @@
   "northing": "101412",
   "url": "http://www.grangejunior.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.809332",
   "lng": "-1.1734176"

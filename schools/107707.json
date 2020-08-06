@@ -3,7 +3,7 @@
   "name": "Headfield Church of England Voluntary Controlled Junior School",
   "address": "Vicarage Road",
   "locality": "Thornhill Lees",
-  "address3": "",
+  "address3": "Headfield Junior School",
   "town": "Dewsbury",
   "county": "West Yorkshire",
   "postcode": "WF12 9PD",
@@ -13,7 +13,7 @@
   "northing": "420187",
   "url": "www.headfieldschool.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "53.677588",
   "lng": "-1.6334598"

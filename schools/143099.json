@@ -1,6 +1,6 @@
 {
   "urn": "143099",
-  "name": "St Uny CofE School",
+  "name": "St Uny CofE Academy",
   "address": "Polmenor Drive",
   "locality": "Carbis Bay",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "152821",
   "northing": "38043",
-  "url": "www.stuny.co.uk",
+  "url": "www.stuny.org.uk",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy converter",

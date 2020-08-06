@@ -1,6 +1,6 @@
 {
   "urn": "132997",
-  "name": "Stafford Pupil Referral Unit At the Stables",
+  "name": "The Hollies Pupil Referral Unit",
   "address": "The Stables",
   "locality": "The Hollies",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "322745",
   "url": "www.holliesschool.staffs.sch.uk",
   "phase": "Not applicable",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Pupil referral unit",
   "lat": "52.802194",
   "lng": "-2.1263175"

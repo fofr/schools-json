@@ -1,10 +1,10 @@
 {
   "urn": "119221",
   "name": "Shadsworth Junior School",
-  "address": "Arran Avenue",
-  "locality": "",
-  "address3": "",
-  "town": "Blackburn",
+  "address": "",
+  "locality": "Blackburn With Darwen",
+  "address3": "Shadsworth Junior School",
+  "town": "Arran Avenue",
   "county": "Lancashire",
   "postcode": "BB1 2ET",
   "minimum_age": "7",
@@ -13,7 +13,7 @@
   "northing": "426873",
   "url": "http://www.shadsworthjuniorschool.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.737401",
   "lng": "-2.4487588"

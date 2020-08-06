@@ -3,7 +3,7 @@
   "name": "Brington CofE Primary School",
   "address": "Church Lane",
   "locality": "Brington",
-  "address3": "",
+  "address3": "Brington Ce Primary School",
   "town": "Huntingdon",
   "county": "Cambridgeshire",
   "postcode": "PE28 5AE",
@@ -13,7 +13,7 @@
   "northing": "275641",
   "url": "www.brington.org/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.368115",
   "lng": "-0.41007956"

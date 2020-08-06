@@ -1,0 +1,18 @@
+{
+  "urn": "146022",
+  "name": "Shalford Infant School",
+  "address": "Shalford Infant School",
+  "locality": "Station Row",
+  "address3": "Shalford",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU4 8BY",
+  "minimum_age": "2",
+  "maximum_age": "7",
+  "easting": "500221",
+  "northing": "147209",
+  "url": "http://www.shalford.surrey.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

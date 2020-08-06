@@ -1,9 +1,9 @@
 {
   "urn": "106057",
   "name": "Ludworth Primary School",
-  "address": "Lower Fold",
-  "locality": "Marple Bridge",
-  "address3": "",
+  "address": "Ludworth Primary School",
+  "locality": "Lower Fold",
+  "address3": "Marple Bridge",
   "town": "Stockport",
   "county": "Cheshire",
   "postcode": "SK6 5DU",
@@ -13,7 +13,7 @@
   "northing": "389664",
   "url": "www.ludworth.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.403785",
   "lng": "-2.0531913"

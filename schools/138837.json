@@ -1,6 +1,6 @@
 {
   "urn": "138837",
-  "name": "The Bramcote School",
+  "name": "Bramcote College",
   "address": "Moor Lane",
   "locality": "Bramcote",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "16",
   "easting": "450443",
   "northing": "338260",
-  "url": "http://thebramcote.school/",
+  "url": "https://bramcote.college/",
   "phase": "Secondary",
   "type": "Academies",
   "detailed_type": "Academy converter",

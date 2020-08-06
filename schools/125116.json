@@ -1,6 +1,6 @@
 {
   "urn": "125116",
-  "name": "Ash Grange Primary School",
+  "name": "Ash Grange Nursery and Primary School",
   "address": "Ash Church Road",
   "locality": "Ash",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "489633",
   "northing": "150784",
-  "url": "www.new.ash-grange.surrey.sch.uk/",
+  "url": "www.ash-grange.surrey.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.249193",
   "lng": "-0.71712952"

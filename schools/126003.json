@@ -3,7 +3,7 @@
   "name": "Easebourne CofE Primary School",
   "address": "Wheelbarrow Castle",
   "locality": "",
-  "address3": "",
+  "address3": "Easebourne",
   "town": "Midhurst",
   "county": "West Sussex",
   "postcode": "GU29 9AG",
@@ -13,7 +13,7 @@
   "northing": "122768",
   "url": "http://www.easebourne.w-sussex.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "50.997381",
   "lng": "-0.72831748"

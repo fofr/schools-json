@@ -1,9 +1,9 @@
 {
   "urn": "119121",
-  "name": "Meadowhead Junior School",
-  "address": "Anglesey Street",
+  "name": "Allison Chadwick",
+  "address": "Meadowhead Community Junior School",
   "locality": "",
-  "address3": "",
+  "address3": "Meadowhead Community Junior School",
   "town": "Blackburn",
   "county": "Lancashire",
   "postcode": "BB2 4QG",
@@ -13,7 +13,7 @@
   "northing": "425959",
   "url": "http://www.meadowheadjuniors.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.728954",
   "lng": "-2.5069628"

@@ -1,7 +1,7 @@
 {
   "urn": "102272",
   "name": "Elm Park Primary School",
-  "address": "Southend Road",
+  "address": "South End Road",
   "locality": "Elm Park",
   "address3": "",
   "town": "Hornchurch",
@@ -13,7 +13,7 @@
   "northing": "185723",
   "url": "http://www.elmparkprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.549690",
   "lng": "0.20355447"

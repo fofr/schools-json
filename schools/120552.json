@@ -2,7 +2,7 @@
   "urn": "120552",
   "name": "Quadring Cowley & Brown's Primary School",
   "address": "Church End",
-  "locality": "Donington",
+  "locality": "Quadring",
   "address3": "",
   "town": "Spalding",
   "county": "Lincolnshire",
@@ -13,7 +13,7 @@
   "northing": "334040",
   "url": "http://www.quadringprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.889895",
   "lng": "-0.18249134"

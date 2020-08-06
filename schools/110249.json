@@ -1,10 +1,10 @@
 {
   "urn": "110249",
   "name": "Stoke Mandeville Combined School",
-  "address": "Lower Road",
-  "locality": "Stoke Mandeville",
+  "address": "Lower Road,",
+  "locality": "",
   "address3": "",
-  "town": "Aylesbury",
+  "town": "Stoke Mandeville",
   "county": "Buckinghamshire",
   "postcode": "HP22 5XA",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "210383",
   "url": "www.stokemandeville.eschools.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.785915",
   "lng": "-0.79376330"

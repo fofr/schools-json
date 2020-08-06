@@ -1,0 +1,18 @@
+{
+  "urn": "146810",
+  "name": "Hardwick Primary School",
+  "address": "Ferriston",
+  "locality": "",
+  "address3": "",
+  "town": "Banbury",
+  "county": "Oxfordshire",
+  "postcode": "OX16 1XE",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "444233",
+  "northing": "241939",
+  "url": "http://www.hardwickschool.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

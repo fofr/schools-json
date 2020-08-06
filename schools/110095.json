@@ -3,7 +3,7 @@
   "name": "Pippins School",
   "address": "Raymond Close",
   "locality": "Rodney Way",
-  "address3": "Colnbrook",
+  "address3": "Raymond Close, Rodney Way",
   "town": "Slough",
   "county": "Berkshire",
   "postcode": "SL3 0PR",
@@ -13,7 +13,7 @@
   "northing": "176838",
   "url": "www.pippins.slough.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.481025",
   "lng": "-0.50985572"

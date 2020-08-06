@@ -1,0 +1,18 @@
+{
+  "urn": "147706",
+  "name": "Childs Hill Primary School",
+  "address": "Dersingham Road",
+  "locality": "Cricklewood",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "NW2 1SL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "524390",
+  "northing": "186337",
+  "url": "www.childshill.barnet.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

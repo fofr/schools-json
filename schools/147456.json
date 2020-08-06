@@ -1,0 +1,18 @@
+{
+  "urn": "147456",
+  "name": "The Wells Academy",
+  "address": "Ransom Drive",
+  "locality": "",
+  "address3": "",
+  "town": "Nottingham",
+  "county": "",
+  "postcode": "NG3 5LR",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "458502",
+  "northing": "342560",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

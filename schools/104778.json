@@ -1,10 +1,10 @@
 {
   "urn": "104778",
-  "name": "Garswood Primary School",
+  "name": "Marie Chadwick",
   "address": "Hamilton Road",
   "locality": "Garswood",
-  "address3": "",
-  "town": "Wigan",
+  "address3": "Garswood Primary School",
+  "town": "Garswood",
   "county": "Lancashire",
   "postcode": "WN4 0SF",
   "minimum_age": "3",
@@ -13,7 +13,7 @@
   "northing": "399532",
   "url": "www.garswoodprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.490598",
   "lng": "-2.6732677"

@@ -1,9 +1,9 @@
 {
   "urn": "109841",
-  "name": "Woodlands Park Primary School",
+  "name": "Alison Penny",
   "address": "Heywood Avenue",
   "locality": "Woodlands Park",
-  "address3": "",
+  "address3": "Heywood Avenue",
   "town": "Maidenhead",
   "county": "Berkshire",
   "postcode": "SL6 3JB",
@@ -13,7 +13,7 @@
   "northing": "178386",
   "url": "www.woodlandsparkschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.497869",
   "lng": "-0.76127442"

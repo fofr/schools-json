@@ -1,6 +1,6 @@
 {
   "urn": "118180",
-  "name": "Arreton St George's Church of England Controlled Primary School",
+  "name": "Arreton St George's Church of England (Aided) Primary School",
   "address": "School Lane, Main Road",
   "locality": "Arreton",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "86591",
   "url": "www.arretoncepri.iow.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "50.676521",
   "lng": "-1.2428364"

@@ -3,7 +3,7 @@
   "name": "Robert Browning Primary School",
   "address": "King and Queen Street",
   "locality": "Walworth",
-  "address3": "",
+  "address3": "Robert Browning Primary School",
   "town": "London",
   "county": "",
   "postcode": "SE17 1DQ",
@@ -13,7 +13,7 @@
   "northing": "178379",
   "url": "www.robertbrowning.southwark.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.488838",
   "lng": "-0.092603515"

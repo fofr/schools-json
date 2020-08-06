@@ -1,0 +1,18 @@
+{
+  "urn": "147554",
+  "name": "Bramhope Primary School",
+  "address": "Tredgold Crescent",
+  "locality": "Bramhope",
+  "address3": "",
+  "town": "Leeds",
+  "county": "West Yorkshire",
+  "postcode": "LS16 9BR",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "425373",
+  "northing": "442962",
+  "url": "https://www.bramhopeprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

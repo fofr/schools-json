@@ -1,6 +1,6 @@
 {
   "urn": "100035",
-  "name": "Rosary Roman Catholic Primary School",
+  "name": "Rosary Catholic Primary School",
   "address": "238 Haverstock Hill",
   "locality": "Hampstead",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "185281",
   "url": "http://www.rosary.camden.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.552087",
   "lng": "-0.16678299"

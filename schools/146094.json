@@ -1,0 +1,18 @@
+{
+  "urn": "146094",
+  "name": "The Park Community School",
+  "address": "Park Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Barnstaple",
+  "county": "Devon",
+  "postcode": "EX32 9AX",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "256446",
+  "northing": "132026",
+  "url": "http://www.theparkschool.org.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

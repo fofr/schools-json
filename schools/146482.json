@@ -1,0 +1,18 @@
+{
+  "urn": "146482",
+  "name": "Irchester Community Primary School",
+  "address": "School Lane",
+  "locality": "Irchester",
+  "address3": "",
+  "town": "Wellingborough",
+  "county": "Northamptonshire",
+  "postcode": "NN29 7AZ",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "492432",
+  "northing": "265781",
+  "url": "www.irchester.northants.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

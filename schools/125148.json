@@ -1,9 +1,9 @@
 {
   "urn": "125148",
-  "name": "St Paul's CofE Infant School and Surestart Children's Centre, Tongham",
+  "name": "St Paul's CofE Infant School, Tongham",
   "address": "East Ring",
   "locality": "The Cardinals",
-  "address3": "Tongham",
+  "address3": "St Paul's C/E Infant School, the Ca",
   "town": "Farnham",
   "county": "Surrey",
   "postcode": "GU10 1EF",
@@ -11,9 +11,9 @@
   "maximum_age": "7",
   "easting": "489071",
   "northing": "149217",
-  "url": "http://www.stpaulstongham.com/",
+  "url": "http://www.stpaulstongham.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.235195",
   "lng": "-0.72556897"

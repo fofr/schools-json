@@ -1,8 +1,8 @@
 {
   "urn": "124694",
   "name": "Cockfield Church of England Voluntary Controlled Primary School",
-  "address": "Cockfield",
-  "locality": "",
+  "address": "Church Lane",
+  "locality": "Cockfield",
   "address3": "",
   "town": "Bury St Edmunds",
   "county": "Suffolk",
@@ -13,7 +13,7 @@
   "northing": "254936",
   "url": "http://www.cockfieldprimaryschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.159851",
   "lng": "0.78227980"

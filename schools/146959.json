@@ -1,6 +1,6 @@
 {
   "urn": "146959",
-  "name": "St Chad's CofE (VA) Primary School",
+  "name": "St Chad's CofE Primary Academy",
   "address": "Upper Green Lane",
   "locality": "Hove Edge",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "413270",
   "northing": "424304",
-  "url": "",
+  "url": "https://stchads.trinitymat.org/",
   "phase": "Primary",
   "type": "Academies",
   "detailed_type": "Academy sponsor led",

@@ -3,7 +3,7 @@
   "name": "Clifton upon Teme Primary School",
   "address": "Pound Lane",
   "locality": "Clifton-upon-Teme",
-  "address3": "",
+  "address3": "Clifton-upon-Teme Primary School",
   "town": "Worcester",
   "county": "Worcestershire",
   "postcode": "WR6 6DE",
@@ -13,7 +13,7 @@
   "northing": "261513",
   "url": "www.cliftonupontemeprimary.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.251043",
   "lng": "-2.4204027"

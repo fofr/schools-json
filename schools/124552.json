@@ -1,6 +1,6 @@
 {
   "urn": "124552",
-  "name": "Westgate Community Primary School",
+  "name": "Westgate Community Primary School and Nursery",
   "address": "Brooklands Close",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "263640",
   "url": "http://www.westgate.suffolk.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.239975",
   "lng": "0.70275326"

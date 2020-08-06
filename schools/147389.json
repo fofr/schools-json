@@ -1,0 +1,18 @@
+{
+  "urn": "147389",
+  "name": "Gorse Covert Primary School",
+  "address": "Gorse Covert Road",
+  "locality": "Birchwood",
+  "address3": "",
+  "town": "Warrington",
+  "county": "Cheshire",
+  "postcode": "WA3 6TS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "366652",
+  "northing": "392470",
+  "url": "www.gorsecovert.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

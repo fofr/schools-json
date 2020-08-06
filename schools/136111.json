@@ -1,10 +1,10 @@
 {
   "urn": "136111",
   "name": "Two Mile Hill Primary School",
-  "address": "The Kingsway",
-  "locality": "",
+  "address": "Two Mile Hill Primary School",
+  "locality": "Kingsway",
   "address3": "",
-  "town": "Kingswood",
+  "town": "Bristol",
   "county": "",
   "postcode": "BS15 8AA",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "173775",
   "url": "www.twomilehillprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.461801",
   "lng": "-2.5184004"

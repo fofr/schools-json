@@ -4,7 +4,7 @@
   "address": "Emerson Road",
   "locality": "",
   "address3": "",
-  "town": "Preston",
+  "town": "PRESTON",
   "county": "Lancashire",
   "postcode": "PR1 5SN",
   "minimum_age": "7",
@@ -13,7 +13,7 @@
   "northing": "430554",
   "url": "www.ribbletonavenue-jun.lancs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "53.769421",
   "lng": "-2.6759172"

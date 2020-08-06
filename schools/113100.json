@@ -1,7 +1,7 @@
 {
   "urn": "113100",
   "name": "Kilmington Primary School",
-  "address": "School Lane",
+  "address": "Whitford Road",
   "locality": "Kilmington",
   "address3": "",
   "town": "Axminster",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "327296",
   "northing": "97924",
-  "url": "http://www.kilmingtonprimary.co.uk",
+  "url": "http://www.kilmingtonprimary.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.776320",
   "lng": "-3.0325155"

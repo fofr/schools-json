@@ -3,7 +3,7 @@
   "name": "The Hemel Hempstead School",
   "address": "Heath Lane",
   "locality": "",
-  "address3": "",
+  "address3": "The Hemel Hempstead School, Heath Lane",
   "town": "Hemel Hempstead",
   "county": "Hertfordshire",
   "postcode": "HP1 1TX",
@@ -13,7 +13,7 @@
   "northing": "206709",
   "url": "http://www.hhs.herts.sch.uk/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.749227",
   "lng": "-0.47883892"

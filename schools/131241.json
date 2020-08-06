@@ -2,7 +2,7 @@
   "urn": "131241",
   "name": "Spon Gate Primary School",
   "address": "Upper Spon Street",
-  "locality": "Coventry",
+  "locality": "",
   "address3": "",
   "town": "Coventry",
   "county": "West Midlands",
@@ -13,7 +13,7 @@
   "northing": "279082",
   "url": "www.spongate-coventry.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.408782",
   "lng": "-1.5235006"

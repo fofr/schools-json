@@ -1,0 +1,18 @@
+{
+  "urn": "146975",
+  "name": "Hale School",
+  "address": "Upper Hale",
+  "locality": "",
+  "address3": "",
+  "town": "Farnham",
+  "county": "Surrey",
+  "postcode": "GU9 0LR",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "483704",
+  "northing": "149149",
+  "url": "www.hale.kite.academy",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

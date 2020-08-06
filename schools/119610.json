@@ -3,7 +3,7 @@
   "name": "St Ignatius' Catholic Primary School",
   "address": "St Ignatius Square",
   "locality": "",
-  "address3": "",
+  "address3": "25 Manor Avenue",
   "town": "Preston",
   "county": "Lancashire",
   "postcode": "PR1 1TT",
@@ -13,7 +13,7 @@
   "northing": "429974",
   "url": "www.saint-ignatius.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.764088",
   "lng": "-2.6967356"

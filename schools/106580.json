@@ -3,7 +3,7 @@
   "name": "Dearne Goldthorpe Primary School",
   "address": "Doncaster Road",
   "locality": "Goldthorpe",
-  "address3": "",
+  "address3": "Goldthorpe Primary School",
   "town": "Rotherham",
   "county": "South Yorkshire",
   "postcode": "S63 9HY",
@@ -13,7 +13,7 @@
   "northing": "404497",
   "url": "www.dearnegoldthorpeprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.535072",
   "lng": "-1.2993953"

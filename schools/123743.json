@@ -1,8 +1,8 @@
 {
   "urn": "123743",
   "name": "Berkley Church of England First School",
-  "address": "Berkley",
-  "locality": "",
+  "address": "Berkley Street",
+  "locality": "Berkley",
   "address3": "",
   "town": "Frome",
   "county": "Somerset",
@@ -13,7 +13,7 @@
   "northing": "149415",
   "url": "www.berkleyschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.243591",
   "lng": "-2.2732888"

@@ -1,0 +1,18 @@
+{
+  "urn": "147670",
+  "name": "Sedgefield Community College",
+  "address": "Hawthorn Road",
+  "locality": "Sedgefield",
+  "address3": "",
+  "town": "Stockton-on-Tees",
+  "county": "County Durham",
+  "postcode": "TS21 3DD",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "435937",
+  "northing": "529366",
+  "url": "www.sedgefieldcommunitycollege.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

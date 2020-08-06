@@ -1,0 +1,18 @@
+{
+  "urn": "147430",
+  "name": "St Peter's Catholic School",
+  "address": "Horseshoe Lane East",
+  "locality": "Merrow",
+  "address3": "",
+  "town": "Guildford",
+  "county": "Surrey",
+  "postcode": "GU1 2TN",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "502192",
+  "northing": "150745",
+  "url": "www.st-petersschool.co.uk",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

@@ -1,9 +1,9 @@
 {
   "urn": "135078",
   "name": "Hallgate Primary School Cottingham",
-  "address": "Hallgate",
+  "address": "Hallgate Primary School",
   "locality": "",
-  "address3": "",
+  "address3": "Hallgate",
   "town": "Cottingham",
   "county": "",
   "postcode": "HU16 4DD",
@@ -13,7 +13,7 @@
   "northing": "432995",
   "url": "www.hallgateprimaryschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.782762",
   "lng": "-0.41253884"

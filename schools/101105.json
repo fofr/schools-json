@@ -1,6 +1,6 @@
 {
   "urn": "101105",
-  "name": "Dorothy Gardner Centre",
+  "name": "Dorothy Gardner Nursery School",
   "address": "293 Shirland Road",
   "locality": "",
   "address3": "293 Shirland Rd",
@@ -13,7 +13,7 @@
   "northing": "182642",
   "url": "www.dorothygardner.co.uk",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "51.528898",
   "lng": "-0.20179617"

@@ -1,7 +1,7 @@
 {
   "urn": "111141",
-  "name": "Pewithall Primary School",
-  "address": "Kenilworth Avenue",
+  "name": "Pewithall School",
+  "address": "Kenilworth avenue",
   "locality": "",
   "address3": "",
   "town": "Runcorn",
@@ -13,7 +13,7 @@
   "northing": "381412",
   "url": "www.pewithall.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.327403",
   "lng": "-2.7275397"

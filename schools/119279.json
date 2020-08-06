@@ -1,7 +1,7 @@
 {
   "urn": "119279",
   "name": "Weeton Primary School",
-  "address": "Grantham Road",
+  "address": "Minden Road",
   "locality": "Weeton",
   "address3": "",
   "town": "Preston",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "338054",
   "northing": "436557",
-  "url": "http://www.weetonprimaryschool.ik.org",
+  "url": "www.weeton.lancs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.821578",
   "lng": "-2.9424735"

@@ -4,7 +4,7 @@
   "address": "Lower Street",
   "locality": "Quainton",
   "address3": "",
-  "town": "Nr Aylesbury",
+  "town": "Aylesbury",
   "county": "Buckinghamshire",
   "postcode": "HP22 4BJ",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "220071",
   "url": "www.quainton.bucks.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.874244",
   "lng": "-0.91930407"

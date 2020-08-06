@@ -1,8 +1,8 @@
 {
   "urn": "104717",
-  "name": "Archbishop Beck Catholic Sports College",
+  "name": "Archbishop Beck Catholic College",
   "address": "55 Long Lane",
-  "locality": "Walton",
+  "locality": "Fazakerley",
   "address3": "",
   "town": "Liverpool",
   "county": "Merseyside",
@@ -13,7 +13,7 @@
   "northing": "396592",
   "url": "http://www.archbishopbeck.com/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.462281",
   "lng": "-2.9511688"

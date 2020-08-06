@@ -1,8 +1,8 @@
 {
   "urn": "115720",
-  "name": "Barnwood Park Arts College",
+  "name": "Barnwood Park School",
   "address": "St Lawrence Road",
-  "locality": "",
+  "locality": "Barnwood",
   "address3": "",
   "town": "Gloucester",
   "county": "Gloucestershire",
@@ -13,7 +13,7 @@
   "northing": "217614",
   "url": "http://www.barnwood-park.gloucs.sch.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.856927",
   "lng": "-2.2095183"

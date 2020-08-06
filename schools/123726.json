@@ -1,6 +1,6 @@
 {
   "urn": "123726",
-  "name": "Reckleford Community School and Children's Centre",
+  "name": "Reckleford Infant School and Nursery",
   "address": "Eastland Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "116197",
   "url": "",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.943537",
   "lng": "-2.6249871"

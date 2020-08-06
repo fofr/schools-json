@@ -1,6 +1,6 @@
 {
   "urn": "119384",
-  "name": "Banks St Stephens' CofE School",
+  "name": "Banks St Stephen's CofE School",
   "address": "Greaves Hall Avenue",
   "locality": "Banks",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "339478",
   "northing": "420260",
-  "url": "http://banksststephens.easyschoolwebsite.com/",
+  "url": "www.bank-st-stephens.lancs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "53.675287",
   "lng": "-2.9176472"

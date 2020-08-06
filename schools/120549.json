@@ -1,7 +1,7 @@
 {
   "urn": "120549",
   "name": "The Holbeach St Mark's Church of England Primary School",
-  "address": "Main Road",
+  "address": "St Marks Road",
   "locality": "Holbeach St Mark's",
   "address3": "",
   "town": "Spalding",
@@ -13,7 +13,7 @@
   "northing": "331397",
   "url": "www.griffinfederation.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "52.862505",
   "lng": "0.040786134"

@@ -1,0 +1,18 @@
+{
+  "urn": "147620",
+  "name": "Sheep Dip Lane Academy",
+  "address": "Sheep Dip Lane",
+  "locality": "Dunscroft",
+  "address3": "",
+  "town": "Doncaster",
+  "county": "South Yorkshire",
+  "postcode": "DN7 4AU",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "465240",
+  "northing": "409344",
+  "url": "www.sheepdiplane.doncaster.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

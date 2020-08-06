@@ -1,9 +1,9 @@
 {
   "urn": "116868",
-  "name": "The Bredon Hancock's Endowed First School",
+  "name": "Bredon Hancock's Endowed CofE First School",
   "address": "Church Street",
   "locality": "Bredon",
-  "address3": "",
+  "address3": "Church St, Bredon",
   "town": "Tewkesbury",
   "county": "Gloucestershire",
   "postcode": "GL20 7LA",
@@ -13,7 +13,7 @@
   "northing": "237019",
   "url": "http://www.bredonhancocks-worcs.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "52.031523",
   "lng": "-2.1155152"

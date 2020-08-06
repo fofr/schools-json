@@ -1,0 +1,18 @@
+{
+  "urn": "146477",
+  "name": "Homefields Primary School",
+  "address": "Parkway",
+  "locality": "Chellaston",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE73 5NY",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "437330",
+  "northing": "330314",
+  "url": "www.homefields.derby.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

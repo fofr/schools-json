@@ -1,9 +1,9 @@
 {
   "urn": "119447",
-  "name": "Church, St Nicholas Church of England Primary School",
-  "address": "St Nicholas Road",
+  "name": "Victoria Axon",
+  "address": "Church",
   "locality": "Church",
-  "address3": "",
+  "address3": "St Nicholas Road",
   "town": "Accrington",
   "county": "Lancashire",
   "postcode": "BB5 4DN",
@@ -13,7 +13,7 @@
   "northing": "429296",
   "url": "www.st-nicholas.lancs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.759401",
   "lng": "-2.3852576"

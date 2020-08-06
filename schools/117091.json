@@ -1,6 +1,6 @@
 {
   "urn": "117091",
-  "name": "Holdbrook Primary School",
+  "name": "Holdbrook Primary School and Nursery",
   "address": "Longcroft Drive",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "200239",
   "url": "www.holdbrook.herts.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.684220",
   "lng": "-0.020518939"

@@ -1,0 +1,18 @@
+{
+  "urn": "146124",
+  "name": "Archbishop Ilsley Catholic School",
+  "address": "Victoria Road",
+  "locality": "Acocks Green",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B27 7XY",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "412217",
+  "northing": "282957",
+  "url": "http://www.ilsley.bham.sch.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

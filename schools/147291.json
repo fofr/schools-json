@@ -1,0 +1,18 @@
+{
+  "urn": "147291",
+  "name": "Wey Valley Academy",
+  "address": "436 Dorchester Road",
+  "locality": "",
+  "address3": "",
+  "town": "Weymouth",
+  "county": "Dorset",
+  "postcode": "DT3 5AN",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "366933",
+  "northing": "82683",
+  "url": "http://weyvalley-academy.co.uk/",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

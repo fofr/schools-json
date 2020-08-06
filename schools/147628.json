@@ -1,0 +1,18 @@
+{
+  "urn": "147628",
+  "name": "Oldfleet Primary School",
+  "address": "Bradford Avenue",
+  "locality": "Greatfield Estate",
+  "address3": "",
+  "town": "Hull",
+  "county": "",
+  "postcode": "HU9 4NH",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "515265",
+  "northing": "430862",
+  "url": "http://www.oldfleet.hull.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

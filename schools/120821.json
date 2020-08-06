@@ -3,7 +3,7 @@
   "name": "Holt Community Primary School",
   "address": "Norwich Road",
   "locality": "",
-  "address3": "",
+  "address3": "Norwich Roadholtnorfolk",
   "town": "Holt",
   "county": "Norfolk",
   "postcode": "NR25 6SG",
@@ -13,7 +13,7 @@
   "northing": "338454",
   "url": "www.holt.norfolk.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.903362",
   "lng": "1.0870890"

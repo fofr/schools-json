@@ -1,6 +1,6 @@
 {
   "urn": "131602",
-  "name": "The Brook School",
+  "name": "Brook Infant School",
   "address": "Salterns Road",
   "locality": "Maidenbower",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "7",
   "easting": "529264",
   "northing": "135430",
-  "url": "http://www.brook.w-sussex.sch.uk/",
+  "url": "http://www.brookinfant.school",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.103606",
   "lng": "-0.15508467"

@@ -1,6 +1,6 @@
 {
   "urn": "123682",
-  "name": "Burnham-on-Sea Infant School",
+  "name": "Burnham-On-Sea Community Infant School",
   "address": "Winchester Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "149605",
   "url": "http://www.burnhaminfants.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.241462",
   "lng": "-2.9862255"

@@ -2,7 +2,7 @@
   "urn": "134999",
   "name": "Meadows Primary School and Nursery",
   "address": "Riddings Close",
-  "locality": "",
+  "locality": "Ketley",
   "address3": "",
   "town": "Telford",
   "county": "Shropshire",
@@ -13,7 +13,7 @@
   "northing": "310491",
   "url": "www.meadowsprimaryschool.taw.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.691140",
   "lng": "-2.4775865"

@@ -1,9 +1,9 @@
 {
   "urn": "100258",
   "name": "Grazebrook Primary School",
-  "address": "Lordship Road",
-  "locality": "Stoke Newington",
-  "address3": "",
+  "address": "Grazebrook Primary School",
+  "locality": "Lordship Road",
+  "address3": "Stoke Newington",
   "town": "London",
   "county": "",
   "postcode": "N16 0QP",
@@ -13,7 +13,7 @@
   "northing": "186776",
   "url": "www.grazebrook.hackney.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.564194",
   "lng": "-0.083132069"

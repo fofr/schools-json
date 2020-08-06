@@ -3,7 +3,7 @@
   "name": "Clough and Risegate Community Primary School",
   "address": "Chopdike Drove",
   "locality": "Gosberton Clough",
-  "address3": "",
+  "address3": "Clough & Risegate Community Primary",
   "town": "Spalding",
   "county": "Lincolnshire",
   "postcode": "PE11 4JP",
@@ -13,7 +13,7 @@
   "northing": "329667",
   "url": "http://www.clough-risegate.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.851212",
   "lng": "-0.22434002"

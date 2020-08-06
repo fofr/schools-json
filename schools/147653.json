@@ -1,0 +1,18 @@
+{
+  "urn": "147653",
+  "name": "Hackney New School",
+  "address": "317-319 Kingsland Road",
+  "locality": "",
+  "address3": "",
+  "town": "London",
+  "county": "",
+  "postcode": "E8 4DL",
+  "minimum_age": "11",
+  "maximum_age": "16",
+  "easting": "533462",
+  "northing": "183944",
+  "url": "www.hackneynewschool.org",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

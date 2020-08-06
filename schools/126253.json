@@ -1,7 +1,7 @@
 {
   "urn": "126253",
-  "name": "Westrop Primary School",
-  "address": "Rivers Road",
+  "name": "Westrop Primary & Nursery School",
+  "address": "Newburgh Place",
   "locality": "Highworth",
   "address3": "",
   "town": "Swindon",
@@ -13,7 +13,7 @@
   "northing": "192881",
   "url": "www.westropprimaryschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.634392",
   "lng": "-1.7150092"

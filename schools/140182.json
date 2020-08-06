@@ -1,7 +1,7 @@
 {
   "urn": "140182",
-  "name": "Mill Chase Academy",
-  "address": "Mill Chase Road",
+  "name": "Oakmoor School",
+  "address": "Budds Lane",
   "locality": "",
   "address3": "",
   "town": "Bordon",
@@ -11,7 +11,7 @@
   "maximum_age": "16",
   "easting": "480591",
   "northing": "135438",
-  "url": "http://www.millchase.hants.sch.uk/",
+  "url": "http://www.oakmoor.hants.sch.uk/",
   "phase": "Secondary",
   "type": "Academies",
   "detailed_type": "Academy sponsor led",

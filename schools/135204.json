@@ -2,7 +2,7 @@
   "urn": "135204",
   "name": "Langdale Primary School",
   "address": "Langdale Road",
-  "locality": "",
+  "locality": "Clayton",
   "address3": "",
   "town": "Newcastle",
   "county": "Staffordshire",
@@ -13,7 +13,7 @@
   "northing": "344272",
   "url": "http://www.langdaleprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "52.995550",
   "lng": "-2.2307124"

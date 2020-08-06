@@ -1,0 +1,18 @@
+{
+  "urn": "146722",
+  "name": "Yenton Primary School",
+  "address": "Chester Road",
+  "locality": "Erdington",
+  "address3": "",
+  "town": "Birmingham",
+  "county": "West Midlands",
+  "postcode": "B24 0ED",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "412033",
+  "northing": "292538",
+  "url": "www.yenton.bham.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

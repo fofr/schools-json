@@ -1,6 +1,6 @@
 {
   "urn": "115949",
-  "name": "Stockbridge Primary School",
+  "name": "Stockbridge Primary & Pre-School",
   "address": "Old London Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "135108",
   "url": "http://www.stockbridgeprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.114139",
   "lng": "-1.4871720"

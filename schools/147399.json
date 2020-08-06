@@ -1,0 +1,18 @@
+{
+  "urn": "147399",
+  "name": "Ravensdale Junior School",
+  "address": "Devonshire Drive",
+  "locality": "Mickleover",
+  "address3": "",
+  "town": "Derby",
+  "county": "Derbyshire",
+  "postcode": "DE3 9EY",
+  "minimum_age": "7",
+  "maximum_age": "11",
+  "easting": "431328",
+  "northing": "335346",
+  "url": "www.ravensdalej.derby.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

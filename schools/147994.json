@@ -1,0 +1,18 @@
+{
+  "urn": "147994",
+  "name": "Westoning Lower School",
+  "address": "High Street",
+  "locality": "Westoning",
+  "address3": "",
+  "town": "Bedford",
+  "county": "Bedfordshire",
+  "postcode": "MK45 5JH",
+  "minimum_age": "2",
+  "maximum_age": "9",
+  "easting": "503448",
+  "northing": "232615",
+  "url": "www.westoning.org",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

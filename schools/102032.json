@@ -2,7 +2,7 @@
   "urn": "102032",
   "name": "St John and St James CofE Primary School",
   "address": "Grove Street",
-  "locality": "",
+  "locality": "Edmonton",
   "address3": "",
   "town": "London",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "191952",
   "url": "www.stjohnandjames.enfield.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.610468",
   "lng": "-0.066610394"

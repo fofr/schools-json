@@ -1,7 +1,7 @@
 {
   "urn": "115260",
   "name": "Elmstead Primary School",
-  "address": "Holly Way",
+  "address": "Elmcroft, Holly Way",
   "locality": "Elmstead Market",
   "address3": "",
   "town": "Colchester",
@@ -13,7 +13,7 @@
   "northing": "224944",
   "url": "www.elmsteadprimary.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.885016",
   "lng": "0.99047538"

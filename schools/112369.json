@@ -3,7 +3,7 @@
   "name": "St Bede's Catholic Primary School",
   "address": "Strathclyde Avenue",
   "locality": "",
-  "address3": "",
+  "address3": "St Bede's RC Primary School",
   "town": "Carlisle",
   "county": "Cumbria",
   "postcode": "CA2 7DS",
@@ -13,7 +13,7 @@
   "northing": "555495",
   "url": "www.stbedes.cumbria.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "54.890399",
   "lng": "-2.9597364"

@@ -3,7 +3,7 @@
   "name": "St Peter's Catholic Primary School",
   "address": "Sandy Lane",
   "locality": "",
-  "address3": "",
+  "address3": "St Peter's Catholic Primary School",
   "town": "Doncaster",
   "county": "South Yorkshire",
   "postcode": "DN4 5EP",
@@ -13,7 +13,7 @@
   "northing": "402207",
   "url": "www.stpeterdoncaster.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.513222",
   "lng": "-1.1090962"

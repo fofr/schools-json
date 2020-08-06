@@ -3,7 +3,7 @@
   "name": "Kewstoke Primary School",
   "address": "Kewstoke Road",
   "locality": "Kewstoke",
-  "address3": "",
+  "address3": "Kewstoke Primary School",
   "town": "Weston-Super-Mare",
   "county": "Somerset",
   "postcode": "BS22 9YF",
@@ -13,7 +13,7 @@
   "northing": "163400",
   "url": "http://www.kewstokeprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.365783",
   "lng": "-2.9528684"

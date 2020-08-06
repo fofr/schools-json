@@ -4,7 +4,7 @@
   "address": "Church Lane",
   "locality": "Hensall",
   "address3": "",
-  "town": "Goole",
+  "town": "Near Goole",
   "county": "",
   "postcode": "DN14 0QQ",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "422552",
   "url": "www.hensallcommunityprimaryschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.696167",
   "lng": "-1.1188851"

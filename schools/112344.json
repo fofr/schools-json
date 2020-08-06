@@ -3,7 +3,7 @@
   "name": "St Cuthbert's Catholic Primary School",
   "address": "Prince's Road",
   "locality": "",
-  "address3": "",
+  "address3": "Princes Road",
   "town": "Windermere",
   "county": "Cumbria",
   "postcode": "LA23 2DD",
@@ -13,7 +13,7 @@
   "northing": "497797",
   "url": "www.st-cuthberts-windermere.cumbria.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "54.372253",
   "lng": "-2.9088948"

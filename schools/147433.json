@@ -1,0 +1,18 @@
+{
+  "urn": "147433",
+  "name": "Caedmon Primary School",
+  "address": "Attlee Road",
+  "locality": "Grangetown",
+  "address3": "",
+  "town": "Middlesbrough",
+  "county": "",
+  "postcode": "TS6 7NA",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "455291",
+  "northing": "519617",
+  "url": "www.caedmonprimaryschool.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

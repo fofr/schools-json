@@ -1,6 +1,6 @@
 {
   "urn": "112600",
-  "name": "Thornsett Primary School",
+  "name": "Thornsett Primary School (High Peak Federation)",
   "address": "Aspenshaw Road",
   "locality": "Birch Vale",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "387096",
   "url": "www.thornsett.derbyshire.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.380713",
   "lng": "-1.9854240"

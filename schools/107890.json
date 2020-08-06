@@ -1,9 +1,9 @@
 {
   "urn": "107890",
   "name": "Spring Bank Primary School",
-  "address": "Spring Road",
-  "locality": "",
-  "address3": "",
+  "address": "Spring Bank Primary School, Spring Road",
+  "locality": "Headingley",
+  "address3": "Spring Road",
   "town": "Leeds",
   "county": "West Yorkshire",
   "postcode": "LS6 1AD",
@@ -13,7 +13,7 @@
   "northing": "435733",
   "url": "www.springbankprimary.org/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.817125",
   "lng": "-1.5753317"

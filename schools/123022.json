@@ -1,6 +1,6 @@
 {
   "urn": "123022",
-  "name": "Stonesfield School",
+  "name": "Stonesfield Primary School",
   "address": "High Street",
   "locality": "Stonesfield",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "217213",
   "url": "http://www.stonesfield.oxon.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.852132",
   "lng": "-1.4306589"

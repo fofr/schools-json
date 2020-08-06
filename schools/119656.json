@@ -1,8 +1,8 @@
 {
   "urn": "119656",
-  "name": "St Anne's and St Joseph's Roman Catholic Primary School, Accrington",
-  "address": "Sandy Lane",
-  "locality": "",
+  "name": "St Anne's and St Joseph's Roman Catholic Primary School",
+  "address": "St Anne's and St Joseph's Roman Catholic Primary School",
+  "locality": "Sandy Lane",
   "address3": "",
   "town": "Accrington",
   "county": "Lancashire",
@@ -13,7 +13,7 @@
   "northing": "428173",
   "url": "www.sasj.lancs.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.749410",
   "lng": "-2.3516074"

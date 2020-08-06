@@ -1,9 +1,9 @@
 {
   "urn": "133409",
   "name": "Rochdale Pupil Referral Service",
-  "address": "Year 11 Centre",
+  "address": "Saxon Hall Site",
   "locality": "Samson Street",
-  "address3": "",
+  "address3": "Belfield",
   "town": "Rochdale",
   "county": "Greater Manchester",
   "postcode": "OL16 2XW",
@@ -13,7 +13,7 @@
   "northing": "413848",
   "url": "",
   "phase": "Not applicable",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Pupil referral unit",
   "lat": "53.621098",
   "lng": "-2.1328060"

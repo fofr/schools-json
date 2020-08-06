@@ -1,0 +1,18 @@
+{
+  "urn": "145288",
+  "name": "Trinity CofE Primary Academy",
+  "address": "Longford Road",
+  "locality": "Heath Town",
+  "address3": "",
+  "town": "Wolverhampton",
+  "county": "West Midlands",
+  "postcode": "WV10 0UB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "393027",
+  "northing": "299890",
+  "url": "www.trinityceprimary.co.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

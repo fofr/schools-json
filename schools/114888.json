@@ -1,8 +1,8 @@
 {
   "urn": "114888",
   "name": "Stebbing Primary School",
-  "address": "Stebbing",
-  "locality": "",
+  "address": "High Street",
+  "locality": "Stebbing",
   "address3": "",
   "town": "Dunmow",
   "county": "Essex",
@@ -13,7 +13,7 @@
   "northing": "224492",
   "url": "www.stebbingprimary.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.894256",
   "lng": "0.41108414"

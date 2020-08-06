@@ -1,0 +1,18 @@
+{
+  "urn": "147446",
+  "name": "Wainscott Primary School",
+  "address": "Wainscott Road",
+  "locality": "Wainscott",
+  "address3": "",
+  "town": "Rochester",
+  "county": "Kent",
+  "postcode": "ME2 4JX",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "574754",
+  "northing": "170678",
+  "url": "www.wainscott.medway.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy sponsor led"
+}

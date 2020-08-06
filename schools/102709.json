@@ -2,7 +2,7 @@
   "urn": "102709",
   "name": "Altmore Infant School",
   "address": "Altmore Avenue",
-  "locality": "",
+  "locality": "East Ham",
   "address3": "",
   "town": "London",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "183973",
   "url": "www.altmore.newham.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.536590",
   "lng": "0.058361623"

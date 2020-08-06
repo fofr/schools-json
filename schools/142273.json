@@ -1,6 +1,6 @@
 {
   "urn": "142273",
-  "name": "Sacred Heart Secondary Catholic Voluntary Academy",
+  "name": "Sacred Heart Catholic Secondary",
   "address": "Mersey Road",
   "locality": "",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "16",
   "easting": "459525",
   "northing": "524529",
-  "url": "http://www.sacredheartrc.org.uk",
+  "url": "https://sacredheart.npcat.org.uk",
   "phase": "Secondary",
   "type": "Academies",
   "detailed_type": "Academy converter",

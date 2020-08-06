@@ -1,8 +1,8 @@
 {
   "urn": "118722",
   "name": "Ide Hill Church of England Primary School",
-  "address": "Ide Hill",
-  "locality": "",
+  "address": "Sundridge Road",
+  "locality": "Ide Hill",
   "address3": "",
   "town": "Sevenoaks",
   "county": "Kent",
@@ -13,7 +13,7 @@
   "northing": "151962",
   "url": "www.idehillschool.org/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.247508",
   "lng": "0.12605710"

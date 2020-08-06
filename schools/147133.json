@@ -1,0 +1,18 @@
+{
+  "urn": "147133",
+  "name": "Bexton Primary School",
+  "address": "Blackhill Lane",
+  "locality": "",
+  "address3": "",
+  "town": "Knutsford",
+  "county": "Cheshire",
+  "postcode": "WA16 9DB",
+  "minimum_age": "2",
+  "maximum_age": "11",
+  "easting": "374976",
+  "northing": "377488",
+  "url": "http://www.bexton.cheshire.sch.uk",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

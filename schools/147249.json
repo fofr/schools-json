@@ -1,0 +1,18 @@
+{
+  "urn": "147249",
+  "name": "Shinfield Infant and Nursery School",
+  "address": "School Green",
+  "locality": "Shinfield",
+  "address3": "",
+  "town": "Reading",
+  "county": "Berkshire",
+  "postcode": "RG2 9EH",
+  "minimum_age": "3",
+  "maximum_age": "7",
+  "easting": "473340",
+  "northing": "167730",
+  "url": "www.shinfieldschools.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

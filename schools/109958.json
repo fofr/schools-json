@@ -1,6 +1,6 @@
 {
   "urn": "109958",
-  "name": "Cold Ash St Mark's C.E. School",
+  "name": "Cold Ash St Mark's CE Primary School",
   "address": "Cold Ash Hill",
   "locality": "Cold Ash",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "170068",
   "url": "http://www.coldash.w-berks.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "51.427321",
   "lng": "-1.2661832"

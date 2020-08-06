@@ -1,6 +1,6 @@
 {
   "urn": "138565",
-  "name": "Brighton and Hove Pupil Referral Unit",
+  "name": "Central Hub Brighton",
   "address": "Lynchet Close",
   "locality": "",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "16",
   "easting": "532168",
   "northing": "106973",
-  "url": "",
+  "url": "www.chb.org.uk",
   "phase": "Not applicable",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Pupil referral unit",
   "lat": "50.847189",
   "lng": "-0.12396540"

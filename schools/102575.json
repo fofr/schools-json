@@ -3,7 +3,7 @@
   "name": "Tolworth Infant and Nursery School",
   "address": "School Lane",
   "locality": "Tolworth",
-  "address3": "",
+  "address3": "Douglas Road",
   "town": "Surbiton",
   "county": "Surrey",
   "postcode": "KT6 7SA",
@@ -13,7 +13,7 @@
   "northing": "166180",
   "url": "www.tolworthschool.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.382218",
   "lng": "-0.29233772"

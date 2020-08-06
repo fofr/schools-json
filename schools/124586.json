@@ -1,6 +1,6 @@
 {
   "urn": "124586",
-  "name": "Helmingham Community Primary School",
+  "name": "Helmingham Primary School and Nursery",
   "address": "School Road",
   "locality": "Helmingham",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "259065",
   "url": "www.helmingham.suffolk.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.186236",
   "lng": "1.2055145"

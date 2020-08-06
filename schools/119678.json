@@ -4,7 +4,7 @@
   "address": "Ridley Lane",
   "locality": "Mawdesley",
   "address3": "",
-  "town": "Ormskirk",
+  "town": "Nr Ormskirk",
   "county": "Lancashire",
   "postcode": "L40 3PP",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "414549",
   "url": "www.sspeterandpaulsschoolmawdesley.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.625152",
   "lng": "-2.7451871"

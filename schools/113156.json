@@ -1,6 +1,6 @@
 {
   "urn": "113156",
-  "name": "Instow Community Primary School",
+  "name": "Instow Community Primary and Pre-School",
   "address": "Rectory Lane",
   "locality": "Instow",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "131093",
   "url": "http://www.instowcps.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "51.059054",
   "lng": "-4.1675732"

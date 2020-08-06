@@ -3,7 +3,7 @@
   "name": "Maple Primary School",
   "address": "Hall Place Gardens",
   "locality": "",
-  "address3": "",
+  "address3": "Maple Primary School",
   "town": "St Albans",
   "county": "Hertfordshire",
   "postcode": "AL1 3SW",
@@ -13,7 +13,7 @@
   "northing": "207671",
   "url": "http://www.maple.herts.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.755887",
   "lng": "-0.33213405"

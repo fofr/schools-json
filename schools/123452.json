@@ -1,9 +1,9 @@
 {
   "urn": "123452",
-  "name": "The Meadows Primary School",
+  "name": "Karen Morris",
   "address": "Harlech Road",
   "locality": "",
-  "address3": "",
+  "address3": "The Meadows Primary School",
   "town": "Oswestry",
   "county": "Shropshire",
   "postcode": "SY11 2EA",
@@ -13,7 +13,7 @@
   "northing": "330152",
   "url": "http://www.meadows.shropshire.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.864313",
   "lng": "-3.0373671"

@@ -1,6 +1,6 @@
 {
   "urn": "106365",
-  "name": "Lostock College",
+  "name": "Lostock High School",
   "address": "Selby Road",
   "locality": "Stretford",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "395386",
   "url": "www.lostock.trafford.sch.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.454772",
   "lng": "-2.3303583"

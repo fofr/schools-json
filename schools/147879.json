@@ -1,0 +1,18 @@
+{
+  "urn": "147879",
+  "name": "Woodside Primary School",
+  "address": "Jones Road",
+  "locality": "Goffs Oak",
+  "address3": "Cheshunt",
+  "town": "Waltham Cross",
+  "county": "Hertfordshire",
+  "postcode": "EN7 5JS",
+  "minimum_age": "4",
+  "maximum_age": "11",
+  "easting": "531974",
+  "northing": "202631",
+  "url": "http://www.woodside.herts.sch.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

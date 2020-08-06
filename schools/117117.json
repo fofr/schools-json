@@ -2,7 +2,7 @@
   "urn": "117117",
   "name": "Hunsdon Junior Mixed and Infant School",
   "address": "High Street",
-  "locality": "",
+  "locality": "Hunsdon",
   "address3": "",
   "town": "Ware",
   "county": "Hertfordshire",
@@ -13,7 +13,7 @@
   "northing": "214199",
   "url": "http://www.hunsdon.herts.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.808446",
   "lng": "0.055681464"

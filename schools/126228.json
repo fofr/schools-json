@@ -1,8 +1,8 @@
 {
   "urn": "126228",
-  "name": "Lainesmead Primary School",
+  "name": "Lainesmead Primary School and Nursery",
   "address": "Southview Avenue",
-  "locality": "",
+  "locality": "Old Walcot",
   "address3": "",
   "town": "Swindon",
   "county": "Wiltshire",
@@ -13,7 +13,7 @@
   "northing": "184393",
   "url": "www.lainesmeadprimaryschool.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.558188",
   "lng": "-1.7666059"

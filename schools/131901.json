@@ -1,8 +1,8 @@
 {
   "urn": "131901",
   "name": "Liden Primary and Nursery School",
-  "address": "Liden Drive",
-  "locality": "",
+  "address": "Liden Primary & Nursery School, Liden Drive",
+  "locality": "Liden",
   "address3": "",
   "town": "Swindon",
   "county": "Wiltshire",
@@ -13,7 +13,7 @@
   "northing": "183135",
   "url": "www.liden-pri.swindon.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.546799",
   "lng": "-1.7306406"

@@ -3,7 +3,7 @@
   "name": "Sandhurst Primary School",
   "address": "Rye Road",
   "locality": "Sandhurst",
-  "address3": "",
+  "address3": "Sandhurst Primary School",
   "town": "Cranbrook",
   "county": "Kent",
   "postcode": "TN18 5JE",
@@ -13,7 +13,7 @@
   "northing": "128340",
   "url": "www.sandhurst.kent.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.026220",
   "lng": "0.56655781"

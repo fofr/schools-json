@@ -1,9 +1,9 @@
 {
   "urn": "101868",
-  "name": "East Acton Primary School",
+  "name": "Stephen Pearce",
   "address": "East Acton Lane",
   "locality": "Acton",
-  "address3": "",
+  "address3": "East Acton Lane",
   "town": "London",
   "county": "",
   "postcode": "W3 7HA",
@@ -13,7 +13,7 @@
   "northing": "180608",
   "url": "www.eastactonprimary.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.511430",
   "lng": "-0.25626706"

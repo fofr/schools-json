@@ -1,9 +1,9 @@
 {
   "urn": "113747",
-  "name": "The Prince of Wales School",
+  "name": "Gary Spracklen",
   "address": "Maiden Castle Road",
   "locality": "",
-  "address3": "",
+  "address3": "The Prince of Wales School",
   "town": "Dorchester",
   "county": "Dorset",
   "postcode": "DT1 2HH",
@@ -13,7 +13,7 @@
   "northing": "89534",
   "url": "http://www.princeofwales.dorset.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.704557",
   "lng": "-2.4544893"

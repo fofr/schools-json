@@ -2,7 +2,7 @@
   "urn": "110475",
   "name": "St Edward's Catholic Junior School",
   "address": "Hazell Avenue",
-  "locality": "",
+  "locality": "Bedgrove",
   "address3": "",
   "town": "Aylesbury",
   "county": "Buckinghamshire",
@@ -13,7 +13,7 @@
   "northing": "213144",
   "url": "www.stedwards.bucks.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.810705",
   "lng": "-0.79030209"

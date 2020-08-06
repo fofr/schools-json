@@ -1,0 +1,18 @@
+{
+  "urn": "146492",
+  "name": "Harthill Primary School",
+  "address": "Union Street",
+  "locality": "Harthill",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "South Yorkshire",
+  "postcode": "S26 7YH",
+  "minimum_age": "5",
+  "maximum_age": "11",
+  "easting": "449374",
+  "northing": "380459",
+  "url": "www.harthillprimary.co.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

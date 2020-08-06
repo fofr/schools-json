@@ -1,8 +1,8 @@
 {
   "urn": "121410",
   "name": "Darley Community Primary School",
-  "address": "Darley",
-  "locality": "",
+  "address": "Main Street",
+  "locality": "Darley",
   "address3": "",
   "town": "Harrogate",
   "county": "North Yorkshire",
@@ -13,7 +13,7 @@
   "northing": "459348",
   "url": "http://www.darley.n-yorks.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.029715",
   "lng": "-1.6867959"

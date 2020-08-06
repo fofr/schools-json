@@ -2,7 +2,7 @@
   "urn": "112989",
   "name": "Belper School and Sixth Form Centre",
   "address": "John O'Gaunts Way",
-  "locality": "Off Kilburn Road",
+  "locality": "",
   "address3": "",
   "town": "Belper",
   "county": "Derbyshire",
@@ -13,7 +13,7 @@
   "northing": "347830",
   "url": "http://www.belperschool.co.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "53.026521",
   "lng": "-1.4572501"

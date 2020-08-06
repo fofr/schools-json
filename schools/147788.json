@@ -1,0 +1,18 @@
+{
+  "urn": "147788",
+  "name": "Bradfield School",
+  "address": "Kirk Edge Road",
+  "locality": "",
+  "address3": "",
+  "town": "Sheffield",
+  "county": "",
+  "postcode": "S35 0AE",
+  "minimum_age": "11",
+  "maximum_age": "19",
+  "easting": "430193",
+  "northing": "392070",
+  "url": "",
+  "phase": "Secondary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

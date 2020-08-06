@@ -1,7 +1,7 @@
 {
   "urn": "105747",
   "name": "Farrowdale House School",
-  "address": "Farrow Street",
+  "address": "Farrowdale House Farrow Street",
   "locality": "Shaw",
   "address3": "",
   "town": "Oldham",
@@ -11,7 +11,7 @@
   "maximum_age": "11",
   "easting": "393694",
   "northing": "408904",
-  "url": "",
+  "url": "www.farrowdale.co.uk",
   "phase": "Not applicable",
   "type": "Independent schools",
   "detailed_type": "Other independent school",

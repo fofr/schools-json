@@ -1,6 +1,6 @@
 {
   "urn": "108640",
-  "name": "Burnside Business and Enterprise College",
+  "name": "Burnside College",
   "address": "St Peter's Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "566795",
   "url": "http://www.burnsidecollege.org.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Foundation school",
   "lat": "54.994790",
   "lng": "-1.5199957"

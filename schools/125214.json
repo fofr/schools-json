@@ -1,10 +1,10 @@
 {
   "urn": "125214",
-  "name": "St Ignatius RC Primary School",
+  "name": "St Ignatius Catholic Primary School",
   "address": "Green Street",
   "locality": "",
   "address3": "",
-  "town": "Sunbury-on-Thames",
+  "town": "Sunbury on Thames",
   "county": "Surrey",
   "postcode": "TW16 6QG",
   "minimum_age": "4",
@@ -13,7 +13,7 @@
   "northing": "169607",
   "url": "http://www.st-ignatius.surrey.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.414792",
   "lng": "-0.41748715"

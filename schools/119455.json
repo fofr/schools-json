@@ -1,9 +1,9 @@
 {
   "urn": "119455",
   "name": "Hoddlesden St Paul's Church of England Primary School",
-  "address": "Bayne Street",
-  "locality": "Hoddlesden",
-  "address3": "",
+  "address": "Hoddlesden St Paul's Ce Primary School",
+  "locality": "Bayne Street",
+  "address3": "Hoddlesden",
   "town": "Darwen",
   "county": "Lancashire",
   "postcode": "BB3 3NH",
@@ -13,7 +13,7 @@
   "northing": "422445",
   "url": "http://www.stpaulshoddlesden.org.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.697665",
   "lng": "-2.4315846"

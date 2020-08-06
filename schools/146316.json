@@ -1,6 +1,6 @@
 {
   "urn": "146316",
-  "name": "Royton and Crompton School",
+  "name": "E-Act Royton and Crompton Academy",
   "address": "Blackshaw Lane",
   "locality": "Royton",
   "address3": "",
@@ -11,7 +11,7 @@
   "maximum_age": "16",
   "easting": "393262",
   "northing": "407946",
-  "url": "",
+  "url": "https://roytoncrompton.e-act.org.uk",
   "phase": "Secondary",
   "type": "Academies",
   "detailed_type": "Academy sponsor led",

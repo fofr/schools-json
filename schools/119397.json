@@ -1,6 +1,6 @@
 {
   "urn": "119397",
-  "name": "Barrow Primary School",
+  "name": "Barrow Urc Primary School",
   "address": "Old Row",
   "locality": "Barrow",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "438556",
   "url": "www.barrow.lancsngfl.ac.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary controlled school",
   "lat": "53.842586",
   "lng": "-2.3986053"

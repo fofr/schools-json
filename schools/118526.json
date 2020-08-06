@@ -2,7 +2,7 @@
   "urn": "118526",
   "name": "Senacre Wood Primary School",
   "address": "Graveney Road",
-  "locality": "",
+  "locality": "Senacre",
   "address3": "",
   "town": "Maidstone",
   "county": "Kent",
@@ -13,7 +13,7 @@
   "northing": "153076",
   "url": "www.senacre-wood.kent.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.248878",
   "lng": "0.55817410"

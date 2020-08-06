@@ -1,0 +1,18 @@
+{
+  "urn": "147203",
+  "name": "The Swan School",
+  "address": "Marston Ferry Road",
+  "locality": "",
+  "address3": "",
+  "town": "Oxford",
+  "county": "",
+  "postcode": "OX2 7EE",
+  "minimum_age": "11",
+  "maximum_age": "18",
+  "easting": "451472",
+  "northing": "208756",
+  "url": "www.theswanschool.org.uk",
+  "phase": "Secondary",
+  "type": "Free Schools",
+  "detailed_type": "Free schools"
+}

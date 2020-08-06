@@ -3,7 +3,7 @@
   "name": "Sir John Barrow School",
   "address": "Argyle Street",
   "locality": "",
-  "address3": "",
+  "address3": "Sir John Barrow School",
   "town": "Ulverston",
   "county": "Cumbria",
   "postcode": "LA12 0BD",
@@ -13,7 +13,7 @@
   "northing": "478020",
   "url": "www.sjbarrow.cumbria.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.193007",
   "lng": "-3.0895230"

@@ -1,6 +1,6 @@
 {
   "urn": "131852",
-  "name": "The Disraeli School and Children's Centre",
+  "name": "The Disraeli School",
   "address": "The Pastures",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "194157",
   "url": "www.disraelischool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.639710",
   "lng": "-0.76416266"

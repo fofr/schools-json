@@ -1,6 +1,6 @@
 {
   "urn": "101545",
-  "name": "Our Lady of Lourdes RC Primary School",
+  "name": "Our Lady of Lourdes Catholic Primary School",
   "address": "Wesley Road",
   "locality": "",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "183856",
   "url": "http://www.lourdes.brent.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.540767",
   "lng": "-0.26502401"

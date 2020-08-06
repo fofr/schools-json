@@ -1,8 +1,8 @@
 {
   "urn": "102054",
   "name": "St Matthew's CofE Primary School",
-  "address": "South Street",
-  "locality": "",
+  "address": "St Matthew's C of E Primary School",
+  "locality": "South Street",
   "address3": "",
   "town": "Enfield",
   "county": "",
@@ -13,7 +13,7 @@
   "northing": "195673",
   "url": "www.stmatthews-enfield.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.643550",
   "lng": "-0.043725489"

@@ -1,6 +1,6 @@
 {
   "urn": "114420",
-  "name": "Telscombe Cliffs Community Primary School",
+  "name": "Telscombe Cliffs Primary School and Nursery",
   "address": "Telscombe Cliffs Way",
   "locality": "Telscombe Cliffs",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "101819",
   "url": "www.telscombecliffsprimary.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "50.798974",
   "lng": "-0.011473633"

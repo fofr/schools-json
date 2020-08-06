@@ -1,6 +1,6 @@
 {
   "urn": "123679",
-  "name": "Eastover Community Primary School",
+  "name": "Eastover Primary School",
   "address": "Wellington Road",
   "locality": "",
   "address3": "",
@@ -11,9 +11,9 @@
   "maximum_age": "11",
   "easting": "330598",
   "northing": "137303",
-  "url": "www.eastover-primary.eschools.co.uk/",
+  "url": "https://www.eastoverschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "51.130780",
   "lng": "-2.9932120"

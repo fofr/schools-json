@@ -4,7 +4,7 @@
   "address": "Capenhurst Lane",
   "locality": "",
   "address3": "",
-  "town": "Ellesmere Port",
+  "town": "ELLESMERE PORT",
   "county": "Cheshire",
   "postcode": "CH65 7AQ",
   "minimum_age": "3",
@@ -13,7 +13,7 @@
   "northing": "375295",
   "url": "www.ourladystar.cheshire.sch.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "53.271143",
   "lng": "-2.9128508"

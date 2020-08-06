@@ -1,6 +1,6 @@
 {
   "urn": "107188",
-  "name": "Abbey Green Nursery School & Children's Centre",
+  "name": "Abbey Green Nursery School",
   "address": "Green Lane",
   "locality": "Manningham",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "434012",
   "url": "www.abbeygreen.org",
   "phase": "Nursery",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Local authority nursery school",
   "lat": "53.802181",
   "lng": "-1.7665046"

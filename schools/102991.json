@@ -1,8 +1,8 @@
 {
   "urn": "102991",
   "name": "Holy Trinity CofE Junior School",
-  "address": "Bute Road",
-  "locality": "",
+  "address": "Holy Trinity Cofe Junior School",
+  "locality": "Bute Road",
   "address3": "",
   "town": "Wallington",
   "county": "Surrey",
@@ -13,7 +13,7 @@
   "northing": "164812",
   "url": "www.holytrinityjuniorwallington.com",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Voluntary aided school",
   "lat": "51.367702",
   "lng": "-0.14668803"

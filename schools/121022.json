@@ -1,10 +1,10 @@
 {
   "urn": "121022",
   "name": "Terrington St Clement Community School",
-  "address": "72 Churchgateway",
+  "address": "72 Churchgate Way",
   "locality": "Terrington St Clement",
   "address3": "",
-  "town": "King's Lynn",
+  "town": "Kings Lynn",
   "county": "Norfolk",
   "postcode": "PE34 4LZ",
   "minimum_age": "3",
@@ -13,7 +13,7 @@
   "northing": "320567",
   "url": "www.terringtonstclementschool.co.uk",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.760414",
   "lng": "0.29871737"

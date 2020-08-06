@@ -1,7 +1,7 @@
 {
   "urn": "103981",
   "name": "Blackheath Primary School",
-  "address": "Britannia Road",
+  "address": "Blackheath Primary School Britannia Road",
   "locality": "",
   "address3": "",
   "town": "Rowley Regis",
@@ -13,7 +13,7 @@
   "northing": "286849",
   "url": "www.blackheathprimary.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.479561",
   "lng": "-2.0380029"

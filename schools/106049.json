@@ -1,9 +1,9 @@
 {
   "urn": "106049",
   "name": "Great Moor Junior  School",
-  "address": "Southwood Road",
-  "locality": "Great Moor",
-  "address3": "",
+  "address": "Great Moor Junior School",
+  "locality": "Southwood Road",
+  "address3": "Great Moor",
   "town": "Stockport",
   "county": "Cheshire",
   "postcode": "SK2 7DG",
@@ -13,7 +13,7 @@
   "northing": "387882",
   "url": "www.greatmoor-inf.stockport.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "53.387697",
   "lng": "-2.1396549"

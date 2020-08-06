@@ -1,10 +1,10 @@
 {
   "urn": "114211",
-  "name": "Durham Gilesgate Primary School",
+  "name": "Durham Central",
   "address": "Kepier Crescent",
   "locality": "Gilesgate",
-  "address3": "",
-  "town": "Durham",
+  "address3": "Durham Gilesgate Primary School",
+  "town": "Gilesgate",
   "county": "",
   "postcode": "DH1 1PH",
   "minimum_age": "2",
@@ -13,7 +13,7 @@
   "northing": "543218",
   "url": "www.durhamgilesgate-pri.itss-durham.org.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.783020",
   "lng": "-1.5468857"

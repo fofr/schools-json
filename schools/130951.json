@@ -3,7 +3,7 @@
   "name": "Shrubland Street Community Primary School",
   "address": "Shrubland Street",
   "locality": "",
-  "address3": "",
+  "address3": "Shrubland Street Community School",
   "town": "Leamington Spa",
   "county": "Warwickshire",
   "postcode": "CV31 2AR",
@@ -13,7 +13,7 @@
   "northing": "264649",
   "url": "www.shrublandstreetprimaryschool.co.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.279044",
   "lng": "-1.5279414"

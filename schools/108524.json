@@ -4,7 +4,7 @@
   "address": "Hexham Road",
   "locality": "Walbottle",
   "address3": "",
-  "town": "Newcastle-upon-Tyne",
+  "town": "Newcastle upon Tyne",
   "county": "Tyne and Wear",
   "postcode": "NE15 9TP",
   "minimum_age": "11",
@@ -13,7 +13,7 @@
   "northing": "566919",
   "url": "www.walbottlecampus.newcastle.sch.uk",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.996578",
   "lng": "-1.7424192"

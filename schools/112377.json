@@ -1,6 +1,6 @@
 {
   "urn": "112377",
-  "name": "Solway Community Technology College",
+  "name": "Solway Community School",
   "address": "Liddell Street",
   "locality": "Silloth",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "553923",
   "url": "http://www.solwayschool.co.uk/",
   "phase": "Secondary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "54.872174",
   "lng": "-3.3843211"

@@ -1,0 +1,18 @@
+{
+  "urn": "146256",
+  "name": "St Teresa's Catholic Primary School",
+  "address": "Harris Street",
+  "locality": "",
+  "address3": "",
+  "town": "Darlington",
+  "county": "County Durham",
+  "postcode": "DL1 4NL",
+  "minimum_age": "3",
+  "maximum_age": "11",
+  "easting": "430753",
+  "northing": "513898",
+  "url": "www.stteresasprimary.org.uk/",
+  "phase": "Primary",
+  "type": "Academies",
+  "detailed_type": "Academy converter"
+}

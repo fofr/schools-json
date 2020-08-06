@@ -1,6 +1,6 @@
 {
   "urn": "104269",
-  "name": "Castle Business and Enterprise College",
+  "name": "Castle School",
   "address": "Odell Road",
   "locality": "Leamore",
   "address3": "",
@@ -8,7 +8,7 @@
   "county": "West Midlands",
   "postcode": "WS3 2ED",
   "minimum_age": "7",
-  "maximum_age": "19",
+  "maximum_age": "18",
   "easting": "399955",
   "northing": "301053",
   "url": "http://www.castlebusinessenterprisecollege.co.uk/",

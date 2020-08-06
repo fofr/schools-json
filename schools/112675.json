@@ -1,6 +1,6 @@
 {
   "urn": "112675",
-  "name": "Dallimore Primary School",
+  "name": "Dallimore Primary & Nursery School",
   "address": "Dallimore Road",
   "locality": "Kirk Hallam",
   "address3": "",
@@ -13,7 +13,7 @@
   "northing": "339864",
   "url": "www.dallimore.derbyshire.sch.uk/",
   "phase": "Primary",
-  "type": "LA maintained schools",
+  "type": "Local authority maintained schools",
   "detailed_type": "Community school",
   "lat": "52.954209",
   "lng": "-1.3203959"
